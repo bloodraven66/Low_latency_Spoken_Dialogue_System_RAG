@@ -1,0 +1,45 @@
+{
+    "project": "Reanimated book - digitized library treasures for the creative industries",
+    "title": "Orbis pictus - oziveni knihy pro kulturni a kreativni odvetvi",
+    "metadata": {
+        "project_period": "1. 3. 2023 \u2013 31. 12. 2027",
+        "project_type": "grant",
+        "code": "DH23P03OVV033",
+        "agency": "Ministry of Culture Czech Republic",
+        "program": "NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Reanimated book - digitized library treasures for the creative industries"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "digital libraries, image manipulation, machine learning"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Czech libraries have an extensive corpus of digitized documents, representing a significant part of our cultural heritage. The aim of the presented project is to open up this wealth for its easier reuse by the creative industry."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Hradis Michal, Ing., Ph.D. (DCGM) \u2013 research leader Benes Karel, Ing., Ph.D. (FIT) Cejka Rudolf, Ing. (CVT) Herout Adam, prof. Ing., Ph.D. (DCGM) Kavalova Radka, Mgr. (RCIT) Kiss Martin, Ing. (DCGM) Kostelnik Martin, Ing. (DCGM) Vasko Marek, Ing. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- KISS, M.; HRADIS, M.; DVORAKOVA, M.; JIROUSEK, V.; KERSCH, F. AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2026. p. 50-66. ISBN: 978-3-032-09370-7. Detail VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7. Detail\n- VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7. Detail\n- LEHECKA, D.; JEBAVY, F.; KERSCH, F.; PAVCIK, F.; JANA, H.; FREMROVA, K.; KISS, M.; LHOTAK, M.; DVORAKOVA, M.; BEZOVA, M.; HRADIS, M.; ZABICKA, P.; JIROUSEK, V. Orbis Pictus: Zpristupneni netextovych dat z digitalnich knihoven. ITlib, 2024, roc. 2024, c. 2, s. 22-31. Detail"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- AnnoPage \u2013 system pro automatickou anotaci objektu na strance , software, 2025 Authors : Martin Kiss, Michal Hradis, Martina Dvorakova, Petr Zabicka, Filip Jebavy, Benjamin Lapos, Boris Lehecka, Jana Hrzinova, Vaclav Jirousek, Filip Pavcik, Filip Kersch, Marketa Herudkova, Anna Najmanova, Martin Lhotak"
+        },
+        "results_with_impact_on_practice": {
+            "label": "Results with Impact on Practice",
+            "text": "- Metodika zpracovani obrazovych dokumentu , approved methodologies, 2024 Authors : JIROUSEK, V.; LEHECKA, B.; KISS, M.; KERSCH, F.; HRZINOVA, J.; ZABICKA, P.; DVORAKOVA, M.; SMOLKA, L.; PAVCIK, F.; HRADIS, M.; SKVRNAK, J.; JEBAVY, F.; BEZOVA, M.; BEDNARIK, P.; LHOTAK, M.; FREMROVA, K."
+        }
+    }
+}

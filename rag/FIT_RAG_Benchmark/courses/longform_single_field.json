@@ -1,0 +1,544 @@
+{
+  "dataset": "FIT_courses_longform_single_field_v1",
+  "num_questions": 50,
+  "seed": 1337,
+  "source": "/mnt/matylda4/udupa/exps/RAG/extracted_data_clean/fit/courses",
+  "output_file": "/mnt/matylda4/udupa/exps/RAG/FIT_RAG_Benchmark/courses/longform_single_field.json",
+  "run_inference": true,
+  "model": "allenai/Olmo-3.1-32B-Instruct",
+  "description": "Long-form single-field course questions for LLM summarization; only answerable question-course pairs are included.",
+  "items": [
+    {
+      "id": "courses_long_single_001",
+      "question": "What is covered in seminars for course BAYa?",
+      "type": "seminars",
+      "course_code": "BAYa",
+      "answer_field": "content.syllabus_of_seminars",
+      "expected_answer": "Lectures will be immediately followed by demonstration exercises where examples in Python will be presented. Code and data of all demonstrations will be made available to the students and will constitute the basis for the project.",
+      "actual_answer": "Lectures will be immediately followed by demonstration exercises where examples in Python will be presented. Code and data of all demonstrations will be made available to the students and will constitute the basis for the project.",
+      "llm_short_answer": "Seminars for course BAYa include demonstration exercises in Python immediately following lectures, with code and data provided to students as the basis for projects."
+    },
+    {
+      "id": "courses_long_single_002",
+      "question": "Does course BFTa cover these topics: Neurofeedback (Auditory Skills); Neurofeedback (Active Stimulation); Analysis of Heart Signals?",
+      "type": "topics_yes",
+      "course_code": "BFTa",
+      "answer_field": "content.syllabus_of_lectures",
+      "expected_answer": "Yes",
+      "actual_answer": [
+        "10. Neurofeedback (Auditory Skills): This topic will introduce the various auditory skills and the technologies like Warnke that can be used for rapid acoustic processing, spatial hearing, pitch discrimination, and sound discrimination.",
+        "13. Neurofeedback (Active Stimulation): This lecture will include topics like electrical and magnetic stimulation that are considered active stimulation methods.",
+        "3. Analysis of Heart Signals: This topic will introduce various computational methods to analyze the heart signals. Both the time and frequency domain-based techniques will be taught to analyze the signals."
+      ],
+      "llm_short_answer": "Yes"
+    },
+    {
+      "id": "courses_long_single_003",
+      "question": "How is teaching time organized in course BIOe?",
+      "type": "time_span",
+      "course_code": "BIOe",
+      "answer_field": "content.time_span",
+      "expected_answer": "- 39 hrs lectures - 6 hrs laboratories - 7 hrs projects",
+      "actual_answer": "- 39 hrs lectures - 6 hrs laboratories - 7 hrs projects",
+      "llm_short_answer": "Teaching time in course BIOe is organized into 39 hours of lectures, 6 hours of laboratories, and 7 hours of projects."
+    },
+    {
+      "id": "courses_long_single_004",
+      "question": "Does course BIOe cover these topics: Biometric systems of the future; Hand geometry, veins and nail recognition; Face and face thermogram recognition?",
+      "type": "topics_yes",
+      "course_code": "BIOe",
+      "answer_field": "content.syllabus_of_lectures",
+      "expected_answer": "Yes",
+      "actual_answer": [
+        "Biometric systems of the future",
+        "Hand geometry, veins and nail recognition",
+        "Face and face thermogram recognition"
+      ],
+      "llm_short_answer": "Yes"
+    },
+    {
+      "id": "courses_long_single_005",
+      "question": "What literature is recommended for course BRIa?",
+      "type": "study_literature",
+      "course_code": "BRIa",
+      "answer_field": "content.fundamental_literature/content.study_literature",
+      "expected_answer": "- Guido Dornhege, Toward brain-computer interfacing, MIT Press, First Edition, 2008, ISBN: 978-0262042444. - F. Rieke, D. Warland, R. de Ruyter van Steveninck, and W. Bialek, Spikes: Exploring the Neural Code, MIT Press / Bradford Books, 1999, ISBN: 978-0262681087. - Jonathan Wolpaw, Elizabeth Winter Wolpaw, Brain Computer Interfaces: Principles and practice, Oxford University Press, First Edition, 2012, ISBN: 978-0195388855. - M. Bear, B. Connors, and M. Paradiso, Neuroscience: Exploring the Brain, Jones & Bartlett Learning, Fourth Edition, 2020, ISBN: 978-1284211283. - Aamir S. Malik, Hafeezullah Amin, Designing EEG Experiments for Studying the Brain: Design Code and Example Datasets, Academic Press, First edition, 2017, ISBN: 978-0128111406. - Donald L. Schomer, Fernando Lopes da Silva (Eds.), Niedermeyer's Electroencephalography: Basic Principles, Clinical Applications, and Related Fields, LWW, Sixth Edition, 2010, ISBN: 978-0781789424. - Mike X. Cohen, Analyzing neural time series data: Theory and practice, MIT Press, First Edition, 2014, 978-0262019873.",
+      "actual_answer": "- Guido Dornhege, Toward brain-computer interfacing, MIT Press, First Edition, 2008, ISBN: 978-0262042444. - F. Rieke, D. Warland, R. de Ruyter van Steveninck, and W. Bialek, Spikes: Exploring the Neural Code, MIT Press / Bradford Books, 1999, ISBN: 978-0262681087. - Jonathan Wolpaw, Elizabeth Winter Wolpaw, Brain Computer Interfaces: Principles and practice, Oxford University Press, First Edition, 2012, ISBN: 978-0195388855. - M. Bear, B. Connors, and M. Paradiso, Neuroscience: Exploring the Brain, Jones & Bartlett Learning, Fourth Edition, 2020, ISBN: 978-1284211283. - Aamir S. Malik, Hafeezullah Amin, Designing EEG Experiments for Studying the Brain: Design Code and Example Datasets, Academic Press, First edition, 2017, ISBN: 978-0128111406. - Donald L. Schomer, Fernando Lopes da Silva (Eds.), Niedermeyer's Electroencephalography: Basic Principles, Clinical Applications, and Related Fields, LWW, Sixth Edition, 2010, ISBN: 978-0781789424. - Mike X. Cohen, Analyzing neural time series data: Theory and practice, MIT Press, First Edition, 2014, 978-0262019873.",
+      "llm_short_answer": "No literature is explicitly recommended for course BRIa in the provided text."
+    },
+    {
+      "id": "courses_long_single_006",
+      "question": "Does course BRIa cover these topics: Clinical (medical) applications of BCI; Source localization techniques; Identifying & rectifying artefacts?",
+      "type": "topics_yes",
+      "course_code": "BRIa",
+      "answer_field": "content.syllabus_of_lectures",
+      "expected_answer": "Yes",
+      "actual_answer": [
+        "Clinical (medical) applications of BCI: Various clinical applications (like controlling a wheel chair, moving a prosthetic limb etc) will be introduced during this lecture.",
+        "Source localization techniques: It is important to know the origin of source in the brain - where the signal is being produced. Various inverse methods (like LORETA etc) will be introduced to teach the source localization from EEG signals.",
+        "Identifying & rectifying artefacts: The data captured from the scalp includes various physiological artefacts (like eye movements etc) as well as non-physiological artefacts (like line noise etc). It will be taught on how to identify and rectify these artefacts."
+      ],
+      "llm_short_answer": "Yes"
+    },
+    {
+      "id": "courses_long_single_007",
+      "question": "Does course CPSa cover these topics: Control in discrete time; Cybersecurity aspects; System identification and model parameter estimation?",
+      "type": "topics_yes",
+      "course_code": "CPSa",
+      "answer_field": "content.syllabus_of_lectures",
+      "expected_answer": "Yes",
+      "actual_answer": [
+        "Control in discrete time.",
+        "Cybersecurity aspects.",
+        "System identification and model parameter estimation."
+      ],
+      "llm_short_answer": "Yes"
+    },
+    {
+      "id": "courses_long_single_008",
+      "question": "How is teaching time organized in course DFAa?",
+      "type": "time_span",
+      "course_code": "DFAa",
+      "answer_field": "content.time_span",
+      "expected_answer": "- 26 hrs lectures - 13 hrs laboratories - 13 hrs projects",
+      "actual_answer": "- 26 hrs lectures - 13 hrs laboratories - 13 hrs projects",
+      "llm_short_answer": "Teaching time in course DFAa is organized into 26 hours of lectures, 13 hours of laboratories, and 13 hours of projects."
+    },
+    {
+      "id": "courses_long_single_009",
+      "question": "What prior knowledge and skills are expected for course FYOe?",
+      "type": "prerequisites",
+      "course_code": "FYOe",
+      "answer_field": "content.prerequisite_knowledge_and_skills",
+      "expected_answer": "Fundamentals of physics at secondary school level",
+      "actual_answer": "Fundamentals of physics at secondary school level",
+      "llm_short_answer": "Secondary school level fundamentals of physics."
+    },
+    {
+      "id": "courses_long_single_010",
+      "question": "What is covered in seminars for course FYOe?",
+      "type": "seminars",
+      "course_code": "FYOe",
+      "answer_field": "content.syllabus_of_seminars",
+      "expected_answer": "- Electromagnetic waves and light. - Light at the interface of two media, Fresnel's equations. Reflection at dielectric and metallic surfaces, linear and elliptical polarization. Polarizers. - Coherence. Interference from thin films. Interference filters. The Fabry-Perot interferometer. - Diffraction by edges, slits, gratings and 2D and 3D structures. Holography. - Transmission of light through media. Dispersion, spectrometers, rainbow. Absorption. Scattering. - Thermal radiation. Energy and light quantities. Receptors, human eye. Spectral sensitivity of receptors. Filters and color dividers. - Elements of image-forming systems. Mirrors, prisms, lenses, the microscope, the telescopes. The Fermat principle. - Analytical ray tracing. Matrix concept. Aperture and field stops. Magnification, resolving power. Errors in image forming. Notes on fiber optics. - The quantum mechanical concept of radiation. The wave function, the Schroedinger equation, the uncertainty principle. The tunnel effect. - Energy levels, the Pauli exclusion principle, energy bands. Spectra of atoms and molecules. Selection rules. - Physical statistics. Photon. Stimulated and spontaneous emission. Inversion population. Lasers. - The basics of luminiscence, phosphors, fluorescence, phosphorescence. - Radioactive radiation.",
+      "actual_answer": "- Electromagnetic waves and light. - Light at the interface of two media, Fresnel's equations. Reflection at dielectric and metallic surfaces, linear and elliptical polarization. Polarizers. - Coherence. Interference from thin films. Interference filters. The Fabry-Perot interferometer. - Diffraction by edges, slits, gratings and 2D and 3D structures. Holography. - Transmission of light through media. Dispersion, spectrometers, rainbow. Absorption. Scattering. - Thermal radiation. Energy and light quantities. Receptors, human eye. Spectral sensitivity of receptors. Filters and color dividers. - Elements of image-forming systems. Mirrors, prisms, lenses, the microscope, the telescopes. The Fermat principle. - Analytical ray tracing. Matrix concept. Aperture and field stops. Magnification, resolving power. Errors in image forming. Notes on fiber optics. - The quantum mechanical concept of radiation. The wave function, the Schroedinger equation, the uncertainty principle. The tunnel effect. - Energy levels, the Pauli exclusion principle, energy bands. Spectra of atoms and molecules. Selection rules. - Physical statistics. Photon. Stimulated and spontaneous emission. Inversion population. Lasers. - The basics of luminiscence, phosphors, fluorescence, phosphorescence. - Radioactive radiation.",
+      "llm_short_answer": "Seminars for course FYOe cover topics such as electromagnetic waves and light, interference, diffraction, polarization, thermal radiation, image-forming systems, quantum mechanics of radiation, atomic and molecular spectra, lasers, and radioactive radiation."
+    },
+    {
+      "id": "courses_long_single_011",
+      "question": "What literature is recommended for course FYOe?",
+      "type": "study_literature",
+      "course_code": "FYOe",
+      "answer_field": "content.fundamental_literature/content.study_literature",
+      "expected_answer": "- Hecht, E., Zajac, A.: Optics, Addison-Wesley, Reading, UK, 1977, ISBN 0-201-02835-2 - Saleh, B. E. A, Teich, M. C.: Fundamentals of Photonics, Wiley 2007, USA, 978-0-471-35832-9 - Halliday, D., Resnick, R., Walker, J.: Fundamentals of Physics, Willey, New York, USA, 1997, ISBN 0-471-10559-7 - Maly, P.: Optika (2ed), Karolinum, 2013, ISBN 978-80-246-2246-0",
+      "actual_answer": "- Hecht, E., Zajac, A.: Optics, Addison-Wesley, Reading, UK, 1977, ISBN 0-201-02835-2 - Saleh, B. E. A, Teich, M. C.: Fundamentals of Photonics, Wiley 2007, USA, 978-0-471-35832-9 - Halliday, D., Resnick, R., Walker, J.: Fundamentals of Physics, Willey, New York, USA, 1997, ISBN 0-471-10559-7 - Maly, P.: Optika (2ed), Karolinum, 2013, ISBN 978-80-246-2246-0",
+      "llm_short_answer": "The recommended literature for course FYOe includes 'Optics' by Hecht and Zajac (1977), 'Fundamentals of Photonics' by Saleh and Teich (2007), 'Fundamentals of Physics' by Halliday, Resnick, and Walker (1997), and 'Optika' by Maly (2013)."
+    },
+    {
+      "id": "courses_long_single_012",
+      "question": "What prior knowledge and skills are expected for course GALe?",
+      "type": "prerequisites",
+      "course_code": "GALe",
+      "answer_field": "content.prerequisite_knowledge_and_skills",
+      "expected_answer": "Foundations in discrete mathematics and algorithmic thinking.",
+      "actual_answer": "Foundations in discrete mathematics and algorithmic thinking.",
+      "llm_short_answer": "Prior knowledge and skills expected for course GALe include foundations in discrete mathematics and algorithmic thinking."
+    },
+    {
+      "id": "courses_long_single_013",
+      "question": "How is progress assessed in course GJAe?",
+      "type": "progress_assessment",
+      "course_code": "GJAe",
+      "answer_field": "content.progress_assessment",
+      "expected_answer": "Mid-term test, individual projects.",
+      "actual_answer": "Mid-term test, individual projects.",
+      "llm_short_answer": "Progress in course GJAe is assessed through a mid-term test and individual projects."
+    },
+    {
+      "id": "courses_long_single_014",
+      "question": "What are the learning objectives of course HSCa?",
+      "type": "learning_objectives",
+      "course_code": "HSCa",
+      "answer_field": "content.learning_objectives",
+      "expected_answer": "The aim of the course is to gain knowledge and skills in HW/SW co-design of computing systems. The students will also learn about models of hardware and software component behavior and mutual interaction, hardware and software partitioning algorithms and techniques and assessment of the quality, and the final system synthesis and optimization according to various criteria.Students will gain knowledge and skill in theory and techniques of automatized HW/SW co-design of computation systems optimized according to various criteria.Theoretical background for analysis and design of HW/SW systems.",
+      "actual_answer": "The aim of the course is to gain knowledge and skills in HW/SW co-design of computing systems. The students will also learn about models of hardware and software component behavior and mutual interaction, hardware and software partitioning algorithms and techniques and assessment of the quality, and the final system synthesis and optimization according to various criteria.Students will gain knowledge and skill in theory and techniques of automatized HW/SW co-design of computation systems optimized according to various criteria.Theoretical background for analysis and design of HW/SW systems.",
+      "llm_short_answer": "The learning objectives of course HSCa are to gain knowledge and skills in HW/SW co-design of computing systems, including understanding models of hardware and software behavior, partitioning techniques, quality assessment, and system synthesis and optimization."
+    },
+    {
+      "id": "courses_long_single_015",
+      "question": "What prior knowledge and skills are expected for course HSCa?",
+      "type": "prerequisites",
+      "course_code": "HSCa",
+      "answer_field": "content.prerequisite_knowledge_and_skills",
+      "expected_answer": "Basics of system simulation and design.",
+      "actual_answer": "Basics of system simulation and design.",
+      "llm_short_answer": "Prior knowledge of the basics of system simulation and design is expected for course HSCa."
+    },
+    {
+      "id": "courses_long_single_016",
+      "question": "How is progress assessed in course IFJe?",
+      "type": "progress_assessment",
+      "course_code": "IFJe",
+      "answer_field": "content.progress_assessment",
+      "expected_answer": "- Mid-term exam - open questions - 20 points. - Project - implementation of a simple compiler - 25 points. - Final exam - 55 points. To be allowed to take the final exam, the student has to obtain 20 points during the semester; out of these 20 points, at least five points have to be obtained from the project implementation.",
+      "actual_answer": "- Mid-term exam - open questions - 20 points. - Project - implementation of a simple compiler - 25 points. - Final exam - 55 points. To be allowed to take the final exam, the student has to obtain 20 points during the semester; out of these 20 points, at least five points have to be obtained from the project implementation.",
+      "llm_short_answer": "Progress in course IFJe is assessed through a mid-term exam, a project (compiler implementation), and a final exam. Students must earn at least 20 points during the semester, including at least 5 from the project, to be eligible for the final exam."
+    },
+    {
+      "id": "courses_long_single_017",
+      "question": "What is covered in seminars for course MATe?",
+      "type": "seminars",
+      "course_code": "MATe",
+      "answer_field": "content.syllabus_of_seminars",
+      "expected_answer": "- Propositional logic, formulas and their truth, formal system of propositional logic, provability, completeness theorem. - Language of predicate logic (predicates, kvantifiers, terms, formulas) and its realization, truth and validity of formulas. - Formal system of 1st order predicate logic, correctness, completeness and compactness theorems, prenex form of formulas. - Universal algebras and their basic types: groupoids, semigroups, monoids, groups, rings, integral domains, fields, lattices and Boolean lattices. - Basic algebraic methods: subalgebras, homomorphisms and isomorphisms, congruences and direct products of algebras. - Congruences on groups and rings, normal subgroups and ideals. - Polynomial rings, divisibility in integral domains, Gauss and Eucledian rings. - Field theory: minimal fields, extension of fields, finite fields. - Metric spaces, completeness, normed and Banach spaces. - Unitar and Hilbert spaces, orthogonality, closed orthonormal systems and Fourier series. - Trees and spanning trees, minimal spanning trees (the Kruskal's and Prim's algorithms), vertex and edge colouring. - Directed graphs, directed Eulerian graphs, networks, the critical path problem (Dijkstra's and Floyd-Warshall's algorithms). - Networks, flows and cuts in networks, maximal flow and minimal cut problems, circulation in networks.",
+      "actual_answer": "- Propositional logic, formulas and their truth, formal system of propositional logic, provability, completeness theorem. - Language of predicate logic (predicates, kvantifiers, terms, formulas) and its realization, truth and validity of formulas. - Formal system of 1st order predicate logic, correctness, completeness and compactness theorems, prenex form of formulas. - Universal algebras and their basic types: groupoids, semigroups, monoids, groups, rings, integral domains, fields, lattices and Boolean lattices. - Basic algebraic methods: subalgebras, homomorphisms and isomorphisms, congruences and direct products of algebras. - Congruences on groups and rings, normal subgroups and ideals. - Polynomial rings, divisibility in integral domains, Gauss and Eucledian rings. - Field theory: minimal fields, extension of fields, finite fields. - Metric spaces, completeness, normed and Banach spaces. - Unitar and Hilbert spaces, orthogonality, closed orthonormal systems and Fourier series. - Trees and spanning trees, minimal spanning trees (the Kruskal's and Prim's algorithms), vertex and edge colouring. - Directed graphs, directed Eulerian graphs, networks, the critical path problem (Dijkstra's and Floyd-Warshall's algorithms). - Networks, flows and cuts in networks, maximal flow and minimal cut problems, circulation in networks.",
+      "llm_short_answer": "Seminars for course MATe cover propositional and predicate logic, universal algebras and their types, basic algebraic methods, polynomial rings and field theory, metric and normed spaces, trees and graph theory, and network flow problems."
+    },
+    {
+      "id": "courses_long_single_018",
+      "question": "What literature is recommended for course MATe?",
+      "type": "study_literature",
+      "course_code": "MATe",
+      "answer_field": "content.fundamental_literature/content.study_literature",
+      "expected_answer": "- Mendelson, E.: Introduction to Mathematical Logic, Chapman and Hall/CRC, 2015, ISBN 9781482237726 - Biggs, N.L.: Discrete Mathematics, 2nd ed., Oxford University Press, 2003, ISBN 978-0198507185 - Robinson, J.C.: An Introduction to Functional Analysis, Cambridge University Press, 2020, ISBN 9781139030267",
+      "actual_answer": "- Mendelson, E.: Introduction to Mathematical Logic, Chapman and Hall/CRC, 2015, ISBN 9781482237726 - Biggs, N.L.: Discrete Mathematics, 2nd ed., Oxford University Press, 2003, ISBN 978-0198507185 - Robinson, J.C.: An Introduction to Functional Analysis, Cambridge University Press, 2020, ISBN 9781139030267",
+      "llm_short_answer": "The recommended literature for course MATe includes 'Introduction to Mathematical Logic' by Mendelson, 'Discrete Mathematics' by Biggs, and 'An Introduction to Functional Analysis' by Robinson."
+    },
+    {
+      "id": "courses_long_single_019",
+      "question": "What are the learning objectives of course MPA-MEN?",
+      "type": "learning_objectives",
+      "course_code": "MPA-MEN",
+      "answer_field": "content.learning_objectives",
+      "expected_answer": "The aim of the subject is a professional language preparation of students for a study in English or a service abroad with the emphasis on the professional accuracy of English terminology in electronics and microelectronics. The subject is set for the students having basic knowledge of English grammar and spoken English.Students with the basic knowledge of English will get further knowledge of precise English terminology in electronics and microelectronics needed for a continuation of their study in English or for a work abroad. In addition to the professional terminology the students will learn the behaviour in basic situations of university or working life. Students who complete the course successfully should be able to:- explain precise English terminology in electronics and microelectronics,- discuss and explain basic subjects of electrical engineering (electric circuits, electric current, electrical conductors) and on subjects in his/her field of study on the basis of the acquired professional vocabulary,- read or to write down basic mathematical expressions and processes (addition, subtraction, multiplication, division, brackets, decimal numbers, fractions, powers, roots, equations),- describe electronic system properties and to verbalize graphs, charts and trends,- describe technical functions and applications and explain how electronic technology works,- describe common materials and alloys and to describe their properties,- describe electronics component properties and features,- describe various types of technical problems and causes of faults,- discuss technical requirements of new products (needs analysis in technical contexts) and to assess the feasibility of proposed technical solutions,- solve the behaviour in basic situations of university or working life.",
+      "actual_answer": "The aim of the subject is a professional language preparation of students for a study in English or a service abroad with the emphasis on the professional accuracy of English terminology in electronics and microelectronics. The subject is set for the students having basic knowledge of English grammar and spoken English.Students with the basic knowledge of English will get further knowledge of precise English terminology in electronics and microelectronics needed for a continuation of their study in English or for a work abroad. In addition to the professional terminology the students will learn the behaviour in basic situations of university or working life. Students who complete the course successfully should be able to:- explain precise English terminology in electronics and microelectronics,- discuss and explain basic subjects of electrical engineering (electric circuits, electric current, electrical conductors) and on subjects in his/her field of study on the basis of the acquired professional vocabulary,- read or to write down basic mathematical expressions and processes (addition, subtraction, multiplication, division, brackets, decimal numbers, fractions, powers, roots, equations),- describe electronic system properties and to verbalize graphs, charts and trends,- describe technical functions and applications and explain how electronic technology works,- describe common materials and alloys and to describe their properties,- describe electronics component properties and features,- describe various types of technical problems and causes of faults,- discuss technical requirements of new products (needs analysis in technical contexts) and to assess the feasibility of proposed technical solutions,- solve the behaviour in basic situations of university or working life.",
+      "llm_short_answer": "The learning objectives of course MPA-MEN are to enable students to explain precise English terminology in electronics and microelectronics, discuss basic electrical engineering subjects using professional vocabulary, read and write mathematical expressions, describe electronic systems and their properties, discuss technical functions and materials, describe electronic components and technical problems, discuss technical requirements and feasibility, and handle basic university or workplace situations."
+    },
+    {
+      "id": "courses_long_single_020",
+      "question": "What academic criteria need to be met to obtain credits from course MTIa?",
+      "type": "completion",
+      "course_code": "MTIa",
+      "answer_field": "content.completion",
+      "expected_answer": "Classified Credit",
+      "actual_answer": "Classified Credit",
+      "llm_short_answer": "The specific academic criteria to obtain credits from course MTIa are not provided in the given text."
+    },
+    {
+      "id": "courses_long_single_021",
+      "question": "What prior knowledge and skills are expected for course MULe?",
+      "type": "prerequisites",
+      "course_code": "MULe",
+      "answer_field": "content.prerequisite_knowledge_and_skills",
+      "expected_answer": "Knowledge of C/C++ programming, basics of signal processing.",
+      "actual_answer": "Knowledge of C/C++ programming, basics of signal processing.",
+      "llm_short_answer": "Prior knowledge of C/C++ programming and basics of signal processing is expected for course MULe."
+    },
+    {
+      "id": "courses_long_single_022",
+      "question": "What is the language of instruction for course PDBe?",
+      "type": "language",
+      "course_code": "PDBe",
+      "answer_field": "content.language_of_instruction",
+      "expected_answer": "English",
+      "actual_answer": "English",
+      "llm_short_answer": "The language of instruction for course PDBe is English."
+    },
+    {
+      "id": "courses_long_single_023",
+      "question": "What are the learning objectives of course PDBe?",
+      "type": "learning_objectives",
+      "course_code": "PDBe",
+      "answer_field": "content.learning_objectives",
+      "expected_answer": "The aim of course is to give a broader introduction into post-relational database systems (object-relational, temporal, spatial, deductive multimedia, and XML). Various systems and their implementation techniques are discussed.Students will be able identify clearly post-relational DB systems and, for selected categories, they will also be able to discuss issues of implementation and usage of such systems. - Student learns terminology in Czech and English language - Student improves in participation on a small project as a member of a small team",
+      "actual_answer": "The aim of course is to give a broader introduction into post-relational database systems (object-relational, temporal, spatial, deductive multimedia, and XML). Various systems and their implementation techniques are discussed.Students will be able identify clearly post-relational DB systems and, for selected categories, they will also be able to discuss issues of implementation and usage of such systems. - Student learns terminology in Czech and English language - Student improves in participation on a small project as a member of a small team",
+      "llm_short_answer": "The learning objectives of course PDBe are to provide a broad introduction to post-relational database systems and enable students to identify these systems and discuss their implementation and usage issues. Additionally, students will learn terminology in Czech and English and improve their teamwork skills through a small project."
+    },
+    {
+      "id": "courses_long_single_024",
+      "question": "How is progress assessed in course PDBe?",
+      "type": "progress_assessment",
+      "course_code": "PDBe",
+      "answer_field": "content.progress_assessment",
+      "expected_answer": "- Mid-term exam, for which there is only one schedule and, thus, there is no possibility to have another trial. - One project should be solved and delivered in a given date during a term. - Mid-term exam - written form, questions, where answers are given in full sentences, no possibility to have a second/alternative trial. (20 points) - Projects realization - 1 project (program development according to a given specification) with appropriate documentation. (20 points) - Final exam is performed in written form. Students are given questions, where answers are provided in full sentences. The maximal amount of points one can get is 60 points - the minimal number of points which must be obtained from the final exam is 25, otherwise, no points will be assigned to a student. The exam has one regular and two corrective periods. Regular period is always performed in fully written way only. Corrective periods can be performed either in fully written form or in a combined form (both written and verbal performance in a single day, written in the morning verbal in the afternoon). The form of corrective periods is announced as soon as the previous period is evaluated, while the combined form will be performed in the case when for the particular period is assigned no more than 16 students.",
+      "actual_answer": "- Mid-term exam, for which there is only one schedule and, thus, there is no possibility to have another trial. - One project should be solved and delivered in a given date during a term. - Mid-term exam - written form, questions, where answers are given in full sentences, no possibility to have a second/alternative trial. (20 points) - Projects realization - 1 project (program development according to a given specification) with appropriate documentation. (20 points) - Final exam is performed in written form. Students are given questions, where answers are provided in full sentences. The maximal amount of points one can get is 60 points - the minimal number of points which must be obtained from the final exam is 25, otherwise, no points will be assigned to a student. The exam has one regular and two corrective periods. Regular period is always performed in fully written way only. Corrective periods can be performed either in fully written form or in a combined form (both written and verbal performance in a single day, written in the morning verbal in the afternoon). The form of corrective periods is announced as soon as the previous period is evaluated, while the combined form will be performed in the case when for the particular period is assigned no more than 16 students.",
+      "llm_short_answer": "Progress in course PDBe is assessed through a mid-term exam, a project with documentation, and a final exam, with the final exam requiring a minimum score and offering corrective periods."
+    },
+    {
+      "id": "courses_long_single_025",
+      "question": "What is covered in seminars for course PDBe?",
+      "type": "seminars",
+      "course_code": "PDBe",
+      "answer_field": "content.syllabus_of_seminars",
+      "expected_answer": "- Demonstration: introduction to Java, JDBC, and multimedia databases - language Java, Java Database Connectivity (JDBC); multimedia storage in Oracle Multimedia/interMedia, manipulation with multimedia data. - Demonstration: spatial and XML databases - introduction to spatial databases in Oracle Locator/Spatial, data storage in Oracle Locator/Spatial, indexes, queries, JDBC; introduction to XML databases and their definition and storage in Oracle, queries of XML data via JDBC. - Demonstration: temporal and deductive databases - introduction to temporal databases, languages (A)TSQL2, interpreters TimeDB2, TSQL2lib, (A)TSQL2 implementation, problems in temporal databases; introduction to deductive databases, DBMS XSB, data definition and manipulation in Datalog, standard predicates.",
+      "actual_answer": "- Demonstration: introduction to Java, JDBC, and multimedia databases - language Java, Java Database Connectivity (JDBC); multimedia storage in Oracle Multimedia/interMedia, manipulation with multimedia data. - Demonstration: spatial and XML databases - introduction to spatial databases in Oracle Locator/Spatial, data storage in Oracle Locator/Spatial, indexes, queries, JDBC; introduction to XML databases and their definition and storage in Oracle, queries of XML data via JDBC. - Demonstration: temporal and deductive databases - introduction to temporal databases, languages (A)TSQL2, interpreters TimeDB2, TSQL2lib, (A)TSQL2 implementation, problems in temporal databases; introduction to deductive databases, DBMS XSB, data definition and manipulation in Datalog, standard predicates.",
+      "llm_short_answer": "Seminars for course PDBe cover demonstrations on Java, JDBC, multimedia databases, spatial and XML databases, and temporal and deductive databases, including their storage, manipulation, and querying techniques."
+    },
+    {
+      "id": "courses_long_single_026",
+      "question": "Does course PDBe cover these topics: Temporal database systems, introduction; Algorithms used in temporal database systems; Querying in spatial database systems?",
+      "type": "topics_yes",
+      "course_code": "PDBe",
+      "answer_field": "content.syllabus_of_lectures",
+      "expected_answer": "Yes",
+      "actual_answer": [
+        "Temporal database systems, introduction",
+        "Algorithms used in temporal database systems",
+        "Querying in spatial database systems"
+      ],
+      "llm_short_answer": "Yes"
+    },
+    {
+      "id": "courses_long_single_027",
+      "question": "What are the learning objectives of course PDIe?",
+      "type": "learning_objectives",
+      "course_code": "PDIe",
+      "answer_field": "content.learning_objectives",
+      "expected_answer": "The aim is to understand principles and design of applications for distributed environment, obtain overview of modern distributed environments and ability of usage application interface for various programming environments. The students will become familiar with concepts and principles of distributed environments, with the design and implementation of applications for distributed environments and security aspects in distributed environments. - A student learns terminology in the domain of DS - A student learns to create small projects - A student learns to present and defend the results of the small project",
+      "actual_answer": "The aim is to understand principles and design of applications for distributed environment, obtain overview of modern distributed environments and ability of usage application interface for various programming environments. The students will become familiar with concepts and principles of distributed environments, with the design and implementation of applications for distributed environments and security aspects in distributed environments. - A student learns terminology in the domain of DS - A student learns to create small projects - A student learns to present and defend the results of the small project",
+      "llm_short_answer": "The learning objectives of course PDIe are to understand the principles and design of distributed applications, gain an overview of modern distributed environments, and learn to use application interfaces in various programming environments. Additionally, students will learn terminology, create small projects, and present and defend their results."
+    },
+    {
+      "id": "courses_long_single_028",
+      "question": "What academic criteria need to be met to obtain credits from course PGPa?",
+      "type": "completion",
+      "course_code": "PGPa",
+      "answer_field": "content.completion",
+      "expected_answer": "Examination (written)",
+      "actual_answer": "Examination (written)",
+      "llm_short_answer": "The academic criteria to obtain credits from course PGPa is to pass the written examination."
+    },
+    {
+      "id": "courses_long_single_029",
+      "question": "What is the language of instruction for course PGRe?",
+      "type": "language",
+      "course_code": "PGRe",
+      "answer_field": "content.language_of_instruction",
+      "expected_answer": "English",
+      "actual_answer": "English",
+      "llm_short_answer": "The language of instruction for course PGRe is English."
+    },
+    {
+      "id": "courses_long_single_030",
+      "question": "Does course PGRe cover these topics: OpenGL graphics library - drawing of graphics primitives, their features, camera settings; Rendering and processing volumetric data; Point-based graphics?",
+      "type": "topics_yes",
+      "course_code": "PGRe",
+      "answer_field": "content.syllabus_of_lectures",
+      "expected_answer": "Yes",
+      "actual_answer": [
+        "OpenGL graphics library - drawing of graphics primitives, their features, camera settings",
+        "Rendering and processing volumetric data",
+        "Point-based graphics"
+      ],
+      "llm_short_answer": "Yes"
+    },
+    {
+      "id": "courses_long_single_031",
+      "question": "What is the language of instruction for course POVa?",
+      "type": "language",
+      "course_code": "POVa",
+      "answer_field": "content.language_of_instruction",
+      "expected_answer": "English",
+      "actual_answer": "English",
+      "llm_short_answer": "The language of instruction for course POVa is English."
+    },
+    {
+      "id": "courses_long_single_032",
+      "question": "What are the learning objectives of course POVa?",
+      "type": "learning_objectives",
+      "course_code": "POVa",
+      "answer_field": "content.learning_objectives",
+      "expected_answer": "To get acquainted with the principles and methods of computer vision. To learn in more detail selected methods and algorithms of vision and image acquiring. To get acquainted with the possibilities of the scanned data processing. To learn how to apply the gathered knowledge practically.The students will get acquainted with the principles and methods of computer vision. They will learn in more detail selected methods and algorithms of vision and image acquiring. They will also get acquainted with the possibilities of the scanned data processing. Finally, they will learn how to apply the gathered knowledge practically.The students will improve their teamwork skills, mathematics, and exploitation of the \"C\", C++, and other languages.",
+      "actual_answer": "To get acquainted with the principles and methods of computer vision. To learn in more detail selected methods and algorithms of vision and image acquiring. To get acquainted with the possibilities of the scanned data processing. To learn how to apply the gathered knowledge practically.The students will get acquainted with the principles and methods of computer vision. They will learn in more detail selected methods and algorithms of vision and image acquiring. They will also get acquainted with the possibilities of the scanned data processing. Finally, they will learn how to apply the gathered knowledge practically.The students will improve their teamwork skills, mathematics, and exploitation of the \"C\", C++, and other languages.",
+      "llm_short_answer": "The learning objectives of course POVa are to acquaint students with the principles and methods of computer vision, to deepen their understanding of selected vision and image acquisition methods and algorithms, to familiarize them with scanned data processing, and to apply this knowledge practically. Additionally, students will improve their teamwork skills, mathematics, and programming skills in languages such as C and C++."
+    },
+    {
+      "id": "courses_long_single_033",
+      "question": "How is progress assessed in course ROBa?",
+      "type": "progress_assessment",
+      "course_code": "ROBa",
+      "answer_field": "content.progress_assessment",
+      "expected_answer": "- Graded laboratories. - Mid-term written test. - Evaluated project. There are compulsory projects and laboratories that follow on from the projects.",
+      "actual_answer": "- Graded laboratories. - Mid-term written test. - Evaluated project. There are compulsory projects and laboratories that follow on from the projects.",
+      "llm_short_answer": "Progress in course ROBa is assessed through graded laboratories, a mid-term written test, and evaluated projects, including compulsory projects and laboratories."
+    },
+    {
+      "id": "courses_long_single_034",
+      "question": "How is progress assessed in course SEPa?",
+      "type": "progress_assessment",
+      "course_code": "SEPa",
+      "answer_field": "content.progress_assessment",
+      "expected_answer": "Consultations with student's supervisor, written technical report and its defence.",
+      "actual_answer": "Consultations with student's supervisor, written technical report and its defence.",
+      "llm_short_answer": "Progress in course SEPa is assessed through consultations with the student's supervisor, submission of a written technical report, and its defense."
+    },
+    {
+      "id": "courses_long_single_035",
+      "question": "What literature is recommended for course SEPa?",
+      "type": "study_literature",
+      "course_code": "SEPa",
+      "answer_field": "content.fundamental_literature/content.study_literature",
+      "expected_answer": "- A Guide To The Project Management Body Of Knowledge, Fifth Edition, Project Management Institute, 2013, ISBN 978-1-935589-67-9. - Pokyny pro vypracovani semestralniho projektu. - ISO 2145:1978: Documentation - Numbering of divisions and subdivisions in written documents. - Konkretni doporucenou literaturu upresni vedouci semestralniho projektu podle zamereni dane problematiky.",
+      "actual_answer": "- A Guide To The Project Management Body Of Knowledge, Fifth Edition, Project Management Institute, 2013, ISBN 978-1-935589-67-9. - Pokyny pro vypracovani semestralniho projektu. - ISO 2145:1978: Documentation - Numbering of divisions and subdivisions in written documents. - Konkretni doporucenou literaturu upresni vedouci semestralniho projektu podle zamereni dane problematiky.",
+      "llm_short_answer": "The recommended literature for course SEPa includes 'A Guide To The Project Management Body Of Knowledge, Fifth Edition' and specific literature determined by the project supervisor based on the topic."
+    },
+    {
+      "id": "courses_long_single_036",
+      "question": "What are the learning objectives of course TAMa?",
+      "type": "learning_objectives",
+      "course_code": "TAMa",
+      "answer_field": "content.learning_objectives",
+      "expected_answer": "Get acquainted with existing mobile platforms and with the principles of creation of user interfaces, to get overview of the hardware platforms and operating system, their mutual comparison. Learn about the process of creation of mobile app from conceptual design, through graphics design, testing UX elements, implementation, testing, publishing and further maintenance and development. The student focuses on one selected platform and within a team creates an application functional on a selected mobile device; students practice project documentation and project defense. - The student will get acquainted with existing mobile platforms and with the principles of creation of user interfaces - Students get an overview of the hardware platforms and operating system, their mutual comparison. - Students learn basics of application creation on systems Android / iOS. - Students learn specifics of designing mobile applications - what forms a successful and useful mobile app, how are mobile apps specific, what factors are non/intuitive during desing. - The student focuses on one selected platform and within a team creates an application functional on a selected mobile device; students practice project documentation and project defense. - The student learns to search for information in English regarding very timely technologies. - Student learns to create projects in a small team. - Student learns presentation and defense of results in a small project. - Student will be led towards creative and innovative project design. - Student will be led towards critical analysis and commenting of existing solutions.",
+      "actual_answer": "Get acquainted with existing mobile platforms and with the principles of creation of user interfaces, to get overview of the hardware platforms and operating system, their mutual comparison. Learn about the process of creation of mobile app from conceptual design, through graphics design, testing UX elements, implementation, testing, publishing and further maintenance and development. The student focuses on one selected platform and within a team creates an application functional on a selected mobile device; students practice project documentation and project defense. - The student will get acquainted with existing mobile platforms and with the principles of creation of user interfaces - Students get an overview of the hardware platforms and operating system, their mutual comparison. - Students learn basics of application creation on systems Android / iOS. - Students learn specifics of designing mobile applications - what forms a successful and useful mobile app, how are mobile apps specific, what factors are non/intuitive during desing. - The student focuses on one selected platform and within a team creates an application functional on a selected mobile device; students practice project documentation and project defense. - The student learns to search for information in English regarding very timely technologies. - Student learns to create projects in a small team. - Student learns presentation and defense of results in a small project. - Student will be led towards creative and innovative project design. - Student will be led towards critical analysis and commenting of existing solutions.",
+      "llm_short_answer": "The learning objectives of course TAMa include becoming acquainted with mobile platforms and user interface creation principles, gaining an overview of hardware and operating systems, learning application development for Android/iOS, understanding mobile app design specifics, and practicing project documentation, teamwork, and presentation through the creation of a mobile application."
+    },
+    {
+      "id": "courses_long_single_037",
+      "question": "Does course TAMa cover these topics: Project workshop; This list might not be up to date; Unix on smartphones - Nokia, BlackBerry (QNX), Tizen?",
+      "type": "topics_yes",
+      "course_code": "TAMa",
+      "answer_field": "content.syllabus_of_lectures",
+      "expected_answer": "Yes",
+      "actual_answer": [
+        "Project workshop",
+        "This list might not be up to date. Fresh information is always at theprivate course pages.",
+        "Unix on smartphones - Nokia, BlackBerry (QNX), Tizen, ..."
+      ],
+      "llm_short_answer": "Yes"
+    },
+    {
+      "id": "courses_long_single_038",
+      "question": "What is the language of instruction for course TINe?",
+      "type": "language",
+      "course_code": "TINe",
+      "answer_field": "content.language_of_instruction",
+      "expected_answer": "English",
+      "actual_answer": "English",
+      "llm_short_answer": "The language of instruction for course TINe is English."
+    },
+    {
+      "id": "courses_long_single_039",
+      "question": "What are the learning objectives of course TINe?",
+      "type": "learning_objectives",
+      "course_code": "TINe",
+      "answer_field": "content.learning_objectives",
+      "expected_answer": "To acquaint students with more advanced parts of the formal language theory, with basics of the theory of computability, and with basic terms of the complexity theory.The students are acquainted with basic as well as more advanced terms, approaches, and results of the theory of automata and formal languages and with basics of the theory of computability and complexity allowing them to better understand the nature of the various ways of describing and implementing computer-aided systems. The students are capable of applying the acquainted knowledge when solving complex theoretical as well as practical problems in the areas of system modelling, programming, formal specification and verification, and artificial intelligence.The students acquire basic capabilities for theoretical research activities.",
+      "actual_answer": "To acquaint students with more advanced parts of the formal language theory, with basics of the theory of computability, and with basic terms of the complexity theory.The students are acquainted with basic as well as more advanced terms, approaches, and results of the theory of automata and formal languages and with basics of the theory of computability and complexity allowing them to better understand the nature of the various ways of describing and implementing computer-aided systems. The students are capable of applying the acquainted knowledge when solving complex theoretical as well as practical problems in the areas of system modelling, programming, formal specification and verification, and artificial intelligence.The students acquire basic capabilities for theoretical research activities.",
+      "llm_short_answer": "The learning objectives of course TINe are to acquaint students with advanced formal language theory, computability theory, and complexity theory, and to enable them to apply this knowledge to solve complex theoretical and practical problems in system modeling, programming, formal specification and verification, and artificial intelligence."
+    },
+    {
+      "id": "courses_long_single_040",
+      "question": "What literature is recommended for course TINe?",
+      "type": "study_literature",
+      "course_code": "TINe",
+      "answer_field": "content.fundamental_literature/content.study_literature",
+      "expected_answer": "- Kozen, D.C.: Automata and Computability, Springer-Verlag, New Yourk, Inc, 1997. ISBN 0-387-94907-0. - Hopcroft, J.E., Motwani, R., Ullman, J.D.: Introduction to Automata Theory, Languages, and Computation, Addison Wesley, 2nd ed., 2000. ISBN 0-201-44124-1 - Martin, J.C.: Introduction to Languages and the Theory of Computation, McGraw-Hill, Inc., 3rd ed., 2002. ISBN 0-072-32200-4. - Brookshear, J.G. : Theory of Computation: Formal Languages, Automata, and Complexity, The Benjamin/Cummings Publishing Company, Inc, Redwood City, California, 1989. ISBN 0-805-30143-7",
+      "actual_answer": "- Kozen, D.C.: Automata and Computability, Springer-Verlag, New Yourk, Inc, 1997. ISBN 0-387-94907-0. - Hopcroft, J.E., Motwani, R., Ullman, J.D.: Introduction to Automata Theory, Languages, and Computation, Addison Wesley, 2nd ed., 2000. ISBN 0-201-44124-1 - Martin, J.C.: Introduction to Languages and the Theory of Computation, McGraw-Hill, Inc., 3rd ed., 2002. ISBN 0-072-32200-4. - Brookshear, J.G. : Theory of Computation: Formal Languages, Automata, and Complexity, The Benjamin/Cummings Publishing Company, Inc, Redwood City, California, 1989. ISBN 0-805-30143-7",
+      "llm_short_answer": "The recommended literature for course TINe includes 'Automata and Computability' by Kozen, 'Introduction to Automata Theory, Languages, and Computation' by Hopcroft, Motwani, and Ullman, 'Introduction to Languages and the Theory of Computation' by Martin, and 'Theory of Computation: Formal Languages, Automata, and Complexity' by Brookshear."
+    },
+    {
+      "id": "courses_long_single_041",
+      "question": "Does course VGEe cover these topics: More computational geometry problems and modern trends; Triangulation in 2D/3D, Delaunay triangulation, tetrahedral meshing; Surface reconstruction from point clouds and volumetric data?",
+      "type": "topics_yes",
+      "course_code": "VGEe",
+      "answer_field": "content.syllabus_of_lectures",
+      "expected_answer": "Yes",
+      "actual_answer": [
+        "More computational geometry problems and modern trends. Linear programming: basic notion and applications; half-plane intersection.",
+        "Triangulation in 2D/3D, Delaunay triangulation, tetrahedral meshing.",
+        "Surface reconstruction from point clouds and volumetric data."
+      ],
+      "llm_short_answer": "Yes"
+    },
+    {
+      "id": "courses_long_single_042",
+      "question": "What are the learning objectives of course VIZa?",
+      "type": "learning_objectives",
+      "course_code": "VIZa",
+      "answer_field": "content.learning_objectives",
+      "expected_answer": "Basic attribute of ECTS:To provide overview of visualization and CAD (Computer Aided Design) systems. To introduce basic principles and functions of these systems, namely: work in 2D; work in 3D; precision aspects; 3D scenes modeling; preparation of scenes for visualization; scenes visualization. To get familiar with the phenomena of the data exchange between CAD systems with a link to visualization. To learn the basic principles of programming in CAD systems.Subject specific knowledge and abilities: - Students will understand basic principles of visualization and CAD (Computer Aided Design) systems - He/she will get familiar with work in 2D CAD system - He/she will get familiar with work in 3D CAD system - He/she will learn modeling of 3D scenes - He/she will learn to prepare 3D scenes for visualization - He/she will get familiar with visualization methods for scenes - He/she will get familiar with the phenomena of data exchange between CAD systems with a link to visualization - He/she will learn basic principles of programming in CAD systems",
+      "actual_answer": "Basic attribute of ECTS:To provide overview of visualization and CAD (Computer Aided Design) systems. To introduce basic principles and functions of these systems, namely: work in 2D; work in 3D; precision aspects; 3D scenes modeling; preparation of scenes for visualization; scenes visualization. To get familiar with the phenomena of the data exchange between CAD systems with a link to visualization. To learn the basic principles of programming in CAD systems.Subject specific knowledge and abilities: - Students will understand basic principles of visualization and CAD (Computer Aided Design) systems - He/she will get familiar with work in 2D CAD system - He/she will get familiar with work in 3D CAD system - He/she will learn modeling of 3D scenes - He/she will learn to prepare 3D scenes for visualization - He/she will get familiar with visualization methods for scenes - He/she will get familiar with the phenomena of data exchange between CAD systems with a link to visualization - He/she will learn basic principles of programming in CAD systems",
+      "llm_short_answer": "The learning objectives of course VIZa are to provide an overview of visualization and CAD systems, introduce their basic principles and functions, familiarize students with 2D and 3D work, 3D scene modeling and visualization, data exchange between CAD systems, and basic programming in CAD systems."
+    },
+    {
+      "id": "courses_long_single_043",
+      "question": "How is progress assessed in course VIZa?",
+      "type": "progress_assessment",
+      "course_code": "VIZa",
+      "answer_field": "content.progress_assessment",
+      "expected_answer": "- A mid-term exam evaluation (max. 40 pts). - Evaluation of individual project (max. 60 pts).",
+      "actual_answer": "- A mid-term exam evaluation (max. 40 pts). - Evaluation of individual project (max. 60 pts).",
+      "llm_short_answer": "Progress in course VIZa is assessed through a mid-term exam and an individual project evaluation."
+    },
+    {
+      "id": "courses_long_single_044",
+      "question": "What prior knowledge and skills are expected for course VYPa?",
+      "type": "prerequisites",
+      "course_code": "VYPa",
+      "answer_field": "content.prerequisite_knowledge_and_skills",
+      "expected_answer": "Basic knowledge of discrete mathematics.",
+      "actual_answer": "Basic knowledge of discrete mathematics.",
+      "llm_short_answer": "Basic knowledge of discrete mathematics is required as prior knowledge for course VYPa."
+    },
+    {
+      "id": "courses_long_single_045",
+      "question": "How is progress assessed in course WP1a?",
+      "type": "progress_assessment",
+      "course_code": "WP1a",
+      "answer_field": "content.progress_assessment",
+      "expected_answer": "Meetings with the Patron.",
+      "actual_answer": "Meetings with the Patron.",
+      "llm_short_answer": "Progress in course WP1a is assessed through meetings with the Patron."
+    },
+    {
+      "id": "courses_long_single_046",
+      "question": "What literature is recommended for course YP1a?",
+      "type": "study_literature",
+      "course_code": "YP1a",
+      "answer_field": "content.fundamental_literature/content.study_literature",
+      "expected_answer": "- ISO 2145:1978: Documentation - Numbering of divisions and subdivisions in written documents. - ISO 7144:1986: Documentation - Presentation of theses and similar documents. - ISO 690:1987: Documentation - Bibliographic references. Content, form and structure.",
+      "actual_answer": "- ISO 2145:1978: Documentation - Numbering of divisions and subdivisions in written documents. - ISO 7144:1986: Documentation - Presentation of theses and similar documents. - ISO 690:1987: Documentation - Bibliographic references. Content, form and structure.",
+      "llm_short_answer": "The recommended literature for course YP1a includes ISO 2145:1978, ISO 7144:1986, and ISO 690:1987."
+    },
+    {
+      "id": "courses_long_single_047",
+      "question": "What are the learning objectives of course YP2a?",
+      "type": "learning_objectives",
+      "course_code": "YP2a",
+      "answer_field": "content.learning_objectives",
+      "expected_answer": "The goal of this course is to support the individual creative student work during the engineering project solving, its formal description and defence.Knowledge and experience with engineering project building, its documentation, and defence.Own time management during creation of a complex engineering project. Communication with and reporting to the project supervisor. Presentation of the project by the final technical report and defense.",
+      "actual_answer": "The goal of this course is to support the individual creative student work during the engineering project solving, its formal description and defence.Knowledge and experience with engineering project building, its documentation, and defence.Own time management during creation of a complex engineering project. Communication with and reporting to the project supervisor. Presentation of the project by the final technical report and defense.",
+      "llm_short_answer": "The learning objectives of course YP2a are to support individual creative work in engineering projects, develop skills in project building, documentation, and defense, improve time management for complex projects, and enhance communication and reporting with supervisors, as well as presentation through technical reports and defense."
+    },
+    {
+      "id": "courses_long_single_048",
+      "question": "What are the learning objectives of course ZPJa?",
+      "type": "learning_objectives",
+      "course_code": "ZPJa",
+      "answer_field": "content.learning_objectives",
+      "expected_answer": "To understand natural language processing and to learn how to apply modern machine learning methods in this field. To get acquainted with advanced deep learning architectures that proved to be successful in various NLP tasks. To The students will get acquainted with natural language processing and will understand a range of neural network models that are commonly applied in the field. They will also grasp basics of neural implementations of attention mechanisms and sequence embedding models and how these modular components can be combined to build state of the art NLP systems. They will be able to implement and to evaluate common neural network models for various NLP applications.Students will improve their programming skills and their knowledge and practical experience with tools for deep learning as well as with general processing of textual data.",
+      "actual_answer": "To understand natural language processing and to learn how to apply modern machine learning methods in this field. To get acquainted with advanced deep learning architectures that proved to be successful in various NLP tasks. To The students will get acquainted with natural language processing and will understand a range of neural network models that are commonly applied in the field. They will also grasp basics of neural implementations of attention mechanisms and sequence embedding models and how these modular components can be combined to build state of the art NLP systems. They will be able to implement and to evaluate common neural network models for various NLP applications.Students will improve their programming skills and their knowledge and practical experience with tools for deep learning as well as with general processing of textual data.",
+      "llm_short_answer": "The learning objectives of course ZPJa are to understand natural language processing and apply modern machine learning methods, including advanced deep learning architectures, attention mechanisms, and sequence embedding models, to build state-of-the-art NLP systems, while also improving programming and deep learning skills related to textual data."
+    },
+    {
+      "id": "courses_long_single_049",
+      "question": "How is teaching time organized in course ZPJa?",
+      "type": "time_span",
+      "course_code": "ZPJa",
+      "answer_field": "content.time_span",
+      "expected_answer": "- 26 hrs lectures - 26 hrs projects",
+      "actual_answer": "- 26 hrs lectures - 26 hrs projects",
+      "llm_short_answer": "Teaching time in course ZPJa is organized into 26 hours of lectures and 26 hours of projects."
+    },
+    {
+      "id": "courses_long_single_050",
+      "question": "What academic criteria need to be met to obtain credits from course ZREe?",
+      "type": "completion",
+      "course_code": "ZREe",
+      "answer_field": "content.completion",
+      "expected_answer": "Examination (written+oral)",
+      "actual_answer": "Examination (written+oral)",
+      "llm_short_answer": "The academic criteria to obtain credits from course ZREe are to pass both the written and oral examinations."
+    }
+  ]
+}

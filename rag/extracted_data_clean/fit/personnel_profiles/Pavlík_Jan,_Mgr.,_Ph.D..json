@@ -1,0 +1,114 @@
+{
+    "contact": {
+        "department": "Dept. of Algebra and Discrete Mathematics",
+        "department_abbr": "IM DAAG",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "pavlik@fme.vutbr.cz",
+            "work_phone": "+420 54114 2725",
+            "room": "A1/1944",
+            "orcid_id": "0000-0002-7509-2953"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "external - IM DADM FME BUT"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "2002, Mgr., Faculty of Natural Sciences at Masaryk University in Brne, specialization: Mathematics",
+            "1997, - , Secondary Technical School of Chemistry, specialization: Analytical chemistry",
+            "1992, - , Primary school Plovdivska, Brno"
+        ],
+        "career_overview": [
+            "2005-present, assistent, Institute of Mathematics, Faculty of Mechanical Engineering, Brno University of Technology"
+        ],
+        "pedagogic_activities": [
+            "lectures within the PhD-studies at the Faculty of Natural Sciences of MU: practices of Foundations of mathematics, Linear algebra, Algebra"
+        ],
+        "scientific_activities": [
+            "Masters thesis: Morita Equivalence for the Ordered Structures"
+        ],
+        "non-university_activities": [
+            "2000-present, member of committee of National Competition of High School Scientific Acitivity, specialization: Mathematics and Computer Science"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Monday, 14:00-15:00 , IO/E433 (Kolejni 2906/4, Brno 61200)",
+        "lectured_courses": [
+            {
+                "abbreviation": "SDM",
+                "title": "Methods of Discrete Mathematics",
+                "details": "Exercise,\nCzech, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "1M",
+                "title": "Mathematics I",
+                "details": "Exercise,\nCzech, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "2M",
+                "title": "Mathematics II",
+                "details": "Exercise,\nCzech, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "MATe",
+                "title": "Mathematical Structures in Computer Science (in English)",
+                "details": "Seminar,\nEnglish, winter",
+                "department": "IM DAAG"
+            }
+        ]
+    },
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "PAVLIK, J. Reconstruction of segmentationally distributive space from its metric. DISCRETE APPLIED MATHEMATICS, 2025, vol. 376, no. 12, p. 88-111."
+        },
+        {
+            "year": "2023",
+            "citation": "PAVLIK, J. Distributivity of a segmentation lattice. DISCRETE APPLIED MATHEMATICS, 2023, vol. 339, no. 0166-218X, p. 300-316. ISSN: 0166-218X."
+        },
+        {
+            "year": "2021",
+            "citation": "PAVLIK, J. Representation of graphs by means of generalized metrics. DISCRETE APPLIED MATHEMATICS, 2021, vol. 30, no. 302, p. 234-247. ISSN: 0166-218X."
+        },
+        {
+            "year": "2017",
+            "citation": "PAVLIK, J. Unified approach to graphs and metric spaces. Mathematica Slovaca, 2017, vol. 57, no. 5, p. 1213-1238. ISSN: 0139-9918."
+        },
+        {
+            "year": "2015",
+            "citation": "HRDINA, J.; PAVLIK, J. Reconstruction of an ellipse from its raster image. International Journal of Pure and Applied Mathematics, 2015, vol. 2015 (101), no. 2, p. 141-155. ISSN: 1311-8080."
+        },
+        {
+            "year": "2015",
+            "citation": "PAVLIK, J. Topographic spaces over ordered monoids. Mathematics for applications, 2015, vol. 18053629, no. 1, p. 31-59. ISSN: 1805-3610."
+        },
+        {
+            "year": "2014",
+            "citation": "PAVLIK, J. Thresholding of a Digital Image by Free Terms. JOURNAL OF MATHEMATICAL IMAGING AND VISION, 2014, vol. 2015, no. 51, p. 338-354. ISSN: 0924-9907."
+        },
+        {
+            "year": "2011",
+            "citation": "PAVLIK, J. On Reiterman Conversion. Marseille: Laboratiire d'Informatique Fondamentale de Marseill, 2011. s. 239-242."
+        },
+        {
+            "year": "2010",
+            "citation": "PAVLIK, J. Free algebras in varieties. Archivum Mathematicum, 2010, vol. 46, no. 1, p. 25-38. ISSN: 1212-5059."
+        },
+        {
+            "year": "2009",
+            "citation": "PAVLIK, J. Varieties Defined without Colimits. In Proceedings of the 7th Panhellenic Logic Symposium. PUP. Patras, Recko: Patras University Press, 2009. p. 142-146. ISBN: 978-960-530-108-8."
+        },
+        {
+            "year": "2006",
+            "citation": "PAVLIK, J. Modules of Ordered Multiplicative Structures. Journal of Electrical Engineering-Elektrotechnicky Casopis, 2006, vol. 56, no. 12/S, p. 73-76. ISSN: 1335-3632."
+        }
+    ],
+    "name": "Pavlik Jan, Mgr., Ph.D."
+}

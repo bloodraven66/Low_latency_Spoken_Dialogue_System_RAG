@@ -1,0 +1,31 @@
+{
+    "project": "NTTC-Speech enhancement front-end for robust automatic speech recognition with large amount of training data",
+    "title": "NTTC-Speech enhancement front-end for robust automatic speech recognition with large amount of training data",
+    "metadata": {
+        "project_period": "1. 2. 2025 \u2013 31. 1. 2026",
+        "project_type": "contract",
+        "partner": "NTT Corporation"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "NTTC - Parametrizace s obohacovanim reci pro robustni automaticke rozpoznavani reci s velkym objemem trenovacich dat"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "speech recognition, speaker diarization, large data, robustness"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The joint research will aim at investigating and developing speech enhancement and speaker diarization techniques for automatic speech recognition systems that are trained using a large amount of training data."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Burget Lukas, doc. Ing., Ph.D. (DCGM) \u2013 research leader Benes Karel, Ing., Ph.D. (FIT) Han Jiangyu (DCGM) Klement Dominik, Ing. (DCGM) Malenovsky Vladimir, Ing., Ph.D. (DCGM) Odehnal Ondrej, Ing. (DCGM) Palka Petr, Ing. (DCGM) Pavlus Jan, Ing. (DCGM)"
+        }
+    }
+}

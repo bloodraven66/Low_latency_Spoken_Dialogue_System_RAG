@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "code": "VYPa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Compiler Construction (in English)"
+    },
+    "content": {
+        "guarantor": "Meduna Alexandr, prof. RNDr., CSc. | (DIFS)",
+        "course_coordinator": "Krivka Zbynek, Ing., Ph.D. | (DIFS)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written)",
+        "time_span": "- 39 hrs lectures\n- 13 hrs projects",
+        "assessment_points": "- 55 pts final exam (written part)\n- 15 pts mid-term test (written part)\n- 30 pts projects",
+        "department": "Department of Information Systems | (UIFS)",
+        "lecturer": "Krivka Zbynek, Ing., Ph.D. | (DIFS) | Meduna Alexandr, prof. RNDr., CSc. | (DIFS)",
+        "instructor": "Havel Martin, Ing. | (DIFS) | Krivka Zbynek, Ing., Ph.D. | (DIFS)",
+        "learning_objectives": "Thorough grasp of compiler construction, including modern parallel compiler construction. Deep familiarity with the theory behind the translation of programming languages.Ability of an advanced compiler construction including parallel compiler. Deep familiarity with the theory and practice of programming language translation.General knowledge of formal models for translation and their applications.",
+        "prerequisite_knowledge_and_skills": "Basic knowledge of discrete mathematics.",
+        "study_literature": "- D. Grune:Modern Compiler Design, 2nd edition. Springer, 2016.\n- R. Wilhelm, H. Seidl:Compiler Design: Virtual Machines. Springer, 2010.\n- C.L. Jeffery:Build Your Own Programming Language: A programmer's guide to designing compilers, interpreters, and DSLs for solving modern computing problems. Packt Publishing, 2021.\n- J. I. Moore:Introduction to Compiler Design: An Object-Oriented Approach Using Java, 2nd edition. SoftMoore Consulting, 2020.\n- D. Thain:Introduction to Compilers and Language Design, 2nd edition. Independently published, 2020.\n- T.\u00c6. Mogensen:Introduction to Compiler Design, 2nd edition. \u200e Springer, 2017.\n- D. Watson:A Practical Approach to Compiler Construction. Springer, 2017.\n- A. Meduna, P. Zemek:Regulated Grammars and Automata. Springer, 2014.",
+        "fundamental_literature": "- A. Meduna:Elements of Compiler Design. Taylor & Francis, 2008.\n- K.D. Cooper, L. Torczon:Engineering a Compiler, 3rd edition. Morgan Kaufmann, 2022.\n- A.V. Aho, M.S. Lam, R. Sethi, J.D. Ullman:Compilers: Principles, Techniques, and Tools, 2nd edition. Pearson Education, 2006.\nA.V. Aho, M.S. Lam, R. Sethi, J.D. Ullman:Compilers: Principles, Techniques, and Tools, 2nd edition. Pearson Education, 2006.",
+        "syllabus_of_lectures": "- Introduction: compiler structure.\n- Deterministic bottom-up syntax analysis: LR table construction.\n- Deterministic bottom-up syntax analysis: general precedence analysis.\n- General syntax analysis: important backtrack parsing methods.\n- Advanced optimization.\n- Parallel compilers: parallel compiler structure.\n- Parallel syntax analysis: principles.\n- Deterministic methods of parallel top-down syntax analysis.\n- Deterministic methods of parallel bottom-up syntax analysis.\n- Parallel code generation.\n- Modern formal tools for language specification: regulated and parallel models.\n- Formal tools for language translation: transducers and translation grammars.\n- Expected future trends; summary; conclusion.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "- Making an advanced compiler.\n- Preparation and presentation of a selected topic about compilers.",
+        "progress_assessment": "- Mid-term exam in written form - 15 points\n- Evaluated project(s) - 30 points\n- Final written examination - 55 points\nIn case of illness or another serious obstacle, the student should inform the faculty about that and subsequently provide the evidence of such an obstacle. Then, it can be taken into account within evaluation:\n- The student can ask the responsible teacher to extend the time for the project assignment.\n- If a student cannot attend the mid-term exam, (s)he can ask to derive points from the evaluation of his/her first attempt of the final exam.\n- If a student cannot attend the defense of the project and the other team members agree with that (s)he can earn the same points from the project defence as for present members."
+    }
+}

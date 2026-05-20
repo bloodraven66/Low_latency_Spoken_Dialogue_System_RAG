@@ -1,0 +1,446 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "rychly@fit.vut.cz",
+            "work_phone": "+420 54114 1240",
+            "phone": "+420 778 723 439",
+            "room": "C229 Office",
+            "researcher_id": "J-9466-2015",
+            "orcid_id": "0000-0002-3057-4836",
+            "scopus_author_id": "24765297200"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Information and Database Systems Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "NES@FIT - Networks and distributed systems research group",
+            "role": "Member"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            {
+                "date": "03.07.2000\n-\n02.07.2003",
+                "details": "Bc. in Informatics, Faculty of Informatics, Masaryk University, Specialisations: Databases, Computer Systems and Mathematical InformaticsBachelor's Thesis: Extraction of Metainformations from Electronically Publicated Scientific Articles."
+            },
+            {
+                "date": "22.09.2003\n-\n27.06.2005",
+                "details": "Mgr. (M.Sc. degree) in Informatics with honors, Faculty of Informatics, Masaryk UniversitySpecialisations: Information Systems and Computer Systems,\nMaster's Thesis: Enterprise Waste Management Information System."
+            },
+            {
+                "date": "01.09.2005\n-\n19.02.2010",
+                "details": "Ph.D. in Computer Science and Engineering, Department of Information Systems, Faculty of Information Technology, Brno University of TechnologyTopic: Advanced methods of information system development. PhD thesis: Formal-based Component Model with Support of Mobile Architecture."
+            },
+            {
+                "date": "01.05.2007\n-\n01.05.2008",
+                "details": "Educational training for University teachers, Lifelong Learning Institute, Brno University of TechnologyFinal Thesis: Preparation of Teaching Aids for Course Service Sciences."
+            }
+        ],
+        "career_overview": [
+            {
+                "date": "01.09.2007\n-\n28.02.2010",
+                "details": "Assistant lecturer, Department of Information Systems, Faculty of Information Technology, Brno University of Technology"
+            },
+            {
+                "date": "01.03.2010\n-\n...",
+                "details": "Assistant professor, Department of Information Systems, Faculty of Information Technology, Brno University of Technology"
+            }
+        ],
+        "scientific_activities": [
+            "Component-Based Development (CBD) of software systems",
+            "formal models of information systems' architectures",
+            "Service-Oriented Architecures (SOA)"
+        ],
+        "prizing_by_scientific_community": [
+            "\"The Best Student Paper\" award ofa paperat conferenceISIM 2007",
+            "\"One of The Best Student Papers\" award ofa paperat conferenceISIM 2006",
+            "Dean's Award (Faculty of Informatics, Masaryk University, 2005)"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Wednesday, 10:30-11:30 , B/C229 (Bozetechova 1/2, Brno 61200) only during a teaching part of the semestr and except for February 18th and March 4th, 2025; other dates may be available upon agreement via email; appointment booking online",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "IDSe",
+                "title": "Database Systems (in English)",
+                "details": "English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "INI",
+                "title": "IT Service Design and Implementation",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "AIS",
+                "title": "Information Systems Analysis and Design",
+                "details": "Individual preparation for a final exam, Individual preparation for a lecture, Individual preparation for a mid-semester exam, Individual preparation for a project work, Lecture, Project,\nCzech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "GJA",
+                "title": "Graphical User Interfaces in Java",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "GJAe",
+                "title": "Graphical User Interfaces in Java (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IDS",
+                "title": "Database Systems",
+                "details": "Lecture, Project, Seminar,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IDSe",
+                "title": "Database Systems (in English)",
+                "details": "Exercise in computer lab, Individual preparation for a final exam, Individual preparation for a lecture, Individual preparation for a mid-semester exam, Individual preparation for a project work, Lecture, Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IKK",
+                "title": "Circle Consultations",
+                "details": "Fundamentals seminar,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "INI",
+                "title": "IT Service Design and Implementation",
+                "details": "Fundamentals seminar, Individual preparation for a project work, Lecture, Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDB",
+                "title": "Advanced Database Systems",
+                "details": "Exercise in computer lab, Lecture, Project, Seminar,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDBe",
+                "title": "Advanced Database Systems (in English)",
+                "details": "Exercise in computer lab, Lecture, Project, Seminar,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDI",
+                "title": "Distributed Application Environment",
+                "details": "Exercise in computer lab, Lecture, Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "SRI",
+                "title": "Strategic Management of Information Systems",
+                "details": "Exercise in computer lab, Lecture,\nCzech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "UPA",
+                "title": "Data Storage and Preparation",
+                "details": "Exercise in computer lab, Individual preparation for a final exam, Individual preparation for a lecture, Individual preparation for a mid-semester exam, Individual preparation for a project work, Individual preparation for excercises, Lecture, Project, Seminar,\nCzech, winter",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "LLM-Enhanced Cybersecurity Network Monitoring and Its Governance",
+            "details": "TACR, 11. verejna soutez SIGMA, dilci cil 4: Bilateralni spoluprace, TQ26000006, start: 2026-01-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Privacy-respecting Explainable Assessment and Collection of Threats",
+            "details": "TACR, 5. verejna soutez programu Delta 2, TM05000014, start: 2024-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Metody AI pro zabezpeceni kybernetickeho prostoru a ridici systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6293, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Validated Data Storage",
+            "details": "MPO, TRIO, FV40176, start: 2019-07-01, end: 2021-06-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Electromobile charger - 2nd stage",
+            "details": "KPB INTRA s.r.o., start: 2018-01-01, end: 2018-04-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Introduction of attractive and effective English language studies at FIT",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, start: 2018-02-01, end: 2019-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Integrated platform for analysis of digital data from security incidents",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020062, start: 2017-01-01, end: 2020-06-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Nastroje, metody a technologie ICT pro podporu konceptu smart cities",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3964, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Skoda auto - Cloud computing analyza: porovnani dostupnych cloudovych reseni",
+            "details": "SKODA AUTO VS, start: 2017-04-25, end: 2017-07-25, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Vyzkum pokrocilych metod ICT a jejich aplikace",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2299, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Java platform for hIgh PErformance and Real-time large scale data management (JUNIPER)",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, start: 2013-09-01, end: 2015-11-30, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Process Lab for Teaching of Business Processes Modeling and Optimization (ARIS Toolset)",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR1169/2012/Aa, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-2, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Preparing study programme Service Science, Management and Engineering",
+            "details": "MSMT, Rozvojove programy MSMT, C11, start: 2010-01-08, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-2, 2010, start: 2010-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Modeling of Service-Oriented Architectures",
+            "details": "FR2233/2007/G1, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2018",
+            "citation": "KAZZAZ, M.; RYCHLY, M. A Case Study: Mobile Service Migration Based Traffic Jam Detection. International Journal of Systems and Service-Oriented Engineering, 2018, vol. 8, no. 1, p. 44-57. ISSN: 1947-3052."
+        },
+        {
+            "year": "2018",
+            "citation": "RYCHLY, M.; RYSAVY, O. Big Data Security Analysis with TARZAN Platform. Journal of Cyber Security and Mobility, 2018, vol. 8, no. 2, p. 165-188. ISSN: 2245-1439."
+        },
+        {
+            "year": "2017",
+            "citation": "KAZZAZ, M.; RYCHLY, M. Restful-based Mobile Web Service Migration Framework (Presentation). MEMICS 2017: 12th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Telc: 2017. p. 8-8."
+        },
+        {
+            "year": "2017",
+            "citation": "KAZZAZ, M.; RYCHLY, M. Restful-based Mobile Web Service Migration Framework. In 2017 IEEE International Conference on AI & Mobile Services (AIMS). Honolulu: IEEE Computer Society, 2017. p. 70-75. ISBN: 978-1-5386-1999-5."
+        },
+        {
+            "year": "2017",
+            "citation": "RYCHLY, M. Dynamically Reconfigurable Architectures: An Evaluation of Approaches for Preventing Architectural Violations. In Computer Systems and Software Engineering: Concepts, Methodologies, Tools, and Applications. Hershey, Pennsylvania: IGI Global, 2017. p. 539-556. ISBN: 978-1-5225-3923-0."
+        },
+        {
+            "year": "2017",
+            "citation": "RYCHLY, M.; RYSAVY, O. TARZAN: An Integrated Platform for Security Analysis. In Proceedings of the 2017 Federated Conference on Computer Science and Information Systems. Annals of Computer Science and Information Systems, Volume 11. Praha: IEEE Computer Society, 2017. p. 561-567. ISBN: 978-83-946253-7-5."
+        },
+        {
+            "year": "2015",
+            "citation": "KAZZAZ, M.; RYCHLY, M. Web Service Migration using the Analytic Hierarchy Process. In 2015 IEEE International Conference on Mobile Services. New York: IEEE Computer Society, 2015. p. 423-430. ISBN: 978-1-4673-7284-8."
+        },
+        {
+            "year": "2015",
+            "citation": "RYCHLY, M.; SKODA, P.; SMRZ, P. Heterogeneity-Aware Scheduler for Stream Processing Frameworks. International Journal of Big Data Intelligence, 2015, vol. 2, no. 2, p. 70-80. ISSN: 2053-1397."
+        },
+        {
+            "year": "2014",
+            "citation": "MATES, V.; RYCHLY, M.; HRUSKA, T. Modelling of Context-adaptable Business Processes and their Implementation as Service-oriented Architecture. Enterprise and Competitive Environment. Bucovice: Martin Striz Publishing, 2014. p. 266-266. ISBN: 978-80-87106-74-7."
+        },
+        {
+            "year": "2014",
+            "citation": "MATES, V.; RYCHLY, M.; HRUSKA, T. Modelling of Context-adaptable Business Processes and their Implementation as Service-oriented Architecture. In Procedia Economics and Finance. Procedia economics and finance. Amsterdam: 2014. no. 2014, p. 412-421. ISSN: 2212-5671."
+        },
+        {
+            "year": "2014",
+            "citation": "RYCHLY, M. Dynamically Reconfigurable Architectures: An Evaluation of Approaches for Preventing Architectural Violations. In Handbook of Research on Architectural Trends in Service-Driven Computing (2 Volumes). Advances in Systems Analysis, Software Engineering, and High Performance Computing. Hershey, Pennsylvania: IGI Global, 2014. p. 26-43. ISBN: 978-1-4666-6178-3."
+        },
+        {
+            "year": "2014",
+            "citation": "RYCHLY, M.; SKODA, P.; SMRZ, P. Scheduling Decisions in Stream Processing on Heterogeneous Clusters. In 2014 Eighth International Conference on Complex, Intelligent and Software Intensive Systems. Birmingham: IEEE Computer Society, 2014. p. 614-619. ISBN: 978-1-4799-4325-8."
+        },
+        {
+            "year": "2013",
+            "citation": "KAZZAZ, M.; RYCHLY, M. A Web Service Migration Framework. ICIW 2013, The Eighth International Conference on Internet and Web Applications and Services. Rome: The International Academy, Research and Industry Association, 2013. p. 58-62. ISBN: 978-1-61208-280-6."
+        },
+        {
+            "year": "2013",
+            "citation": "KAZZAZ, M.; RYCHLY, M. Ontology-based Context Modelling and Reasoning in the Web Service Migration Framework. Acta Electrotechnica et Informatica, 2013, vol. 13, no. 4, p. 5-12. ISSN: 1335-8243."
+        },
+        {
+            "year": "2013",
+            "citation": "KAZZAZ, M.; RYCHLY, M. Web Service Migration with Migration Decisions Based on Ontology Reasoning. In Proceedings of the Twelfth International Conference on Informatics - Informatics'2013. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2013. p. 186-191. ISBN: 978-80-8143-127-2."
+        },
+        {
+            "year": "2013",
+            "citation": "MOSCHOLIOS, I.; RYCHLY, M. ICIW 2013, The Eighth International Conference on Internet and Web Applications and Services. Wilmington: 2013. 271 p. ISBN: 978-1-62748-668-2."
+        },
+        {
+            "year": "2012",
+            "citation": "FUMAGALLI, L.; MACCHI, M.; GARETTI, M.; RAMOS, A.; JOKINEN, J.; LASTRA, J.; RYCHLY, M.; CULTRONA, P.; RUSINA, F. eSONIA Information Model development for supporting KPIs building. embedded world Conference 2012. Nuremberg: 2012. p. 1-10."
+        },
+        {
+            "year": "2012",
+            "citation": "RYCHLY, M.; ZOUZELKA, M. Fault Injection for Web-services. In Proceedings of the 14th International Conference on Enterprise Information Systems, Volume 2. Wroclaw: SciTePress - Science and Technology Publications, 2012. p. 377-383. ISBN: 978-989-8565-11-2."
+        },
+        {
+            "year": "2011",
+            "citation": "RYCHLY, M. A Metamodel for Modelling of Component-Based Systems with Mobile Architecture. Information Systems Development. New York: Springer US, 2011. p. 635-646. ISBN: 978-1-4419-9645-9."
+        },
+        {
+            "year": "2011",
+            "citation": "RYCHLY, M. Servisne orientovana architektura a jeji aplikace v systemech sledovani a rizeni vyroby. Sbornik prednasek z 7. technicke konference Automatizace, regulace a procesy. Praha: DimArt, 2011. s. 11-14. ISBN: 978-80-903844-6-0."
+        },
+        {
+            "year": "2011",
+            "citation": "ZENDULKA, J.; RYCHLY, M. Datakon 2011, prispevky. Brno: Vysoke uceni technicke v Brne, 2011. 203 s. ISBN: 978-80-214-4329-7."
+        },
+        {
+            "year": "2011",
+            "citation": "ZENDULKA, J.; RYCHLY, M. Datakon 2011, tutorialy. Brno: Vysoke uceni technicke v Brne, 2011. 95 s. ISBN: 978-80-214-4330-3."
+        },
+        {
+            "year": "2010",
+            "citation": "RYCHLY, M. A Metamodel for Modelling of Component-Based Systems with Mobile Architecture. ISD 2010 Book of Abstracts. Prague, Czech Republic: Faculty of Mathematics and Physics, Charles University, 2010. p. 55-55."
+        },
+        {
+            "year": "2010",
+            "citation": "RYCHLY, M. Formal-based Component Model with Support of Mobile Architecture. Brno: Department of Information Systems FIT BUT, 2010. 120 p."
+        },
+        {
+            "year": "2010",
+            "citation": "RYCHLY, M. A Case Study on Behavioural Modelling of Service-Oriented Architectures. e-Informatica Software Engineering Journal, 2010, vol. 4, no. 1, p. 71-87. ISSN: 1897-7979."
+        },
+        {
+            "year": "2010",
+            "citation": "RYCHLY, M. Formal-based Component Model with Support of Mobile Architecture. Information Sciences and Technologies Bulletin of the ACM Slovakia, 2010, vol. 2, no. 1, p. 13-25. ISSN: 1338-1237."
+        },
+        {
+            "year": "2010",
+            "citation": "RYCHLY, M.; ZENDULKA, J. Modelling of Component-Based Systems with Mobile Architecture. Brno: Faculty of Information Technology BUT, 2010. 139 p. ISBN: 978-80-214-4211-5."
+        },
+        {
+            "year": "2009",
+            "citation": "RYCHLY, M. A Case Study on Behavioural Modelling of Service-Oriented Architectures. Software Engineering Techniques in Progress. Krakow: AGH University of Science & Technology, 2009. p. 79-92. ISBN: 978-83-7464-259-0."
+        },
+        {
+            "year": "2009",
+            "citation": "RYCHLY, M. A Component Model with Support of Mobile Architectures and Formal Description. e-Informatica Software Engineering Journal, 2009, vol. 3, no. 1, p. 9-25. ISSN: 1897-7979."
+        },
+        {
+            "year": "2008",
+            "citation": "RYCHLY, M. Behavioural Modeling of Services: from Service-Oriented Architecture to Component-Based System. Software Engineering Techniques in Progress. Wroc\u0142aw: Wroclaw University of Technology, 2008. p. 13-27. ISBN: 978-83-7493-421-3."
+        },
+        {
+            "year": "2008",
+            "citation": "RYCHLY, M.; TICHA, P. A Tool for Supporting Feature-Driven Development. In Balancing Agility and Formalism in Software Engineering. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 196-207. ISBN: 978-3-540-85278-0."
+        },
+        {
+            "year": "2008",
+            "citation": "RYCHLY, M.; WEISS, P. Modeling of Service Oriented Architecture: From Business Process to Service Realisation. In ENASE 2008 Third International Conference on Evaluation of Novel Approaches to Software Engineering Proceedings. Funchal: Institute for Systems and Technologies of Information, Control and Communication, 2008. p. 140-146. ISBN: 978-989-8111-28-9."
+        },
+        {
+            "year": "2007",
+            "citation": "RYCHLY, M. Component Model with Support of Mobile Architectures. In Information Systems and Formal Models. Opava: Faculty of Philosophy and Science in Opava, Silesian university in Opava, 2007. p. 55-62. ISBN: 978-80-7248-006-7."
+        },
+        {
+            "year": "2007",
+            "citation": "RYCHLY, M.; TICHA, P. A Tool for Supporting Feature-Driven Development. Preprint of the Proceedings of CEE-SET 2007. Poznan, Poland: 2007. p. 185-196."
+        },
+        {
+            "year": "2006",
+            "citation": "RYCHLY, M. Towards Verification of Systems of Asynchronous Concurrent Processes. In Proceedings of 9th International Conference ISIM'06. Prerov: Marq software s.r.o., 2006. p. 123-130. ISBN: 80-86840-19-0."
+        },
+        {
+            "year": "2006",
+            "citation": "RYCHLY, M.; ZENDULKA, J. Distributed Information System as a System of Asynchronous Concurrent Processes. MEMICS 2006 Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Mikulov: Faculty of Information Technology BUT, 2006. p. 206-213. ISBN: 80-214-3287-X."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2021",
+            "title": "Ukladani a zpracovani dat v systemu Validovaneho datoveho uloziste",
+            "metadata": "report, 2021",
+            "authors": "RYCHLY, M.; BARTIK, V.; BURGET, R."
+        },
+        {
+            "year": "2020",
+            "title": "Extrakce udalosti ze souborovych systemu - Navrh a implementace distribuovane architektury",
+            "metadata": "report, 2020",
+            "authors": "BURGET, R.; RYCHLY, M."
+        },
+        {
+            "year": "2017",
+            "title": "Platforma pro zpracovani dat sitove forenzni analyzy",
+            "metadata": "report, 2017",
+            "authors": "RYCHLY, M.; RYSAVY, O."
+        },
+        {
+            "year": "2008",
+            "title": "Planovani a priprava predmetu Service Sciences na FIT VUT",
+            "metadata": "study, 2008",
+            "authors": "RYCHLY, M."
+        },
+        {
+            "year": "2007",
+            "title": "Architektura orientovana na sluzby, Navrh orientovany na sluzby, Webove sluzby",
+            "metadata": "presentation, poster, 2007",
+            "authors": "RYCHLY, M.; WEISS, P."
+        }
+    ],
+    "name": "Rychly Marek, RNDr., Ph.D."
+}

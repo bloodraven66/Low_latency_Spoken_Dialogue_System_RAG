@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "code": "CSOa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "CCNA Cybersecurity Operations (in English)"
+    },
+    "content": {
+        "guarantor": "Vesely Vladimir, Ing., Ph.D. | (DIFS)",
+        "course_coordinator": "Gregr Matej, Ing., Ph.D. | (DIFS)",
+        "language_of_instruction": "English",
+        "completion": "Classified Credit",
+        "time_span": "- 26 hrs lectures\n- 26 hrs laboratories",
+        "assessment_points": "- 44 pts mid-term test (10 pts written part, 34 pts oral part)\n- 26 pts labs\n- 30 pts homework",
+        "department": "Department of Information Systems | (UIFS)",
+        "lecturer": "Dolejska Daniel, Ing. | (DIFS) | Gregr Matej, Ing., Ph.D. | (DIFS) | Mutua Nelson Makau, M.Sc. | (DIFS) | Vesely Vladimir, Ing., Ph.D. | (DIFS)",
+        "instructor": "Gregr Matej, Ing., Ph.D. | (DIFS) | Letavay Viliam, Ing. | (DIFS) | Vesely Vladimir, Ing., Ph.D. | (DIFS)",
+        "learning_objectives": "Students acquire applied skills in the rapidly growing area of cybersecurity operations at the associate level (including Level 1 and 2 support and SOC operatives), with alignment to the Cisco CCNA Cybersecurity Operations certification.Students get understanding and hands-on experience on how to detect and respond to security incidents. They will understand how an organization deals with cybercrime, cyberespionage, insider threats, advanced persistent threats, regulatory requirements, and related issues. They gain job-ready practical skills for in-demand job roles in cybersecurity operations. The course prepares for industry recognize CCNA Cybersecurity Operations certification.Computer networking. Cybersecurity skills. Security analysis of network devices and communication.",
+        "prerequisite_knowledge_and_skills": "Prerequisites for participation in the course include application of networking knowledge as taught in IPK and ISA networking courses in Bc. study program. In general, you need to have basic knowledge of Windows and Linux OS, computer networks, conversions between binary, hexadecimal and decimal systems. We also expect basic programming skills and fundamentals of database query language SQL.",
+        "study_literature": "- Presentation materials in English.\n- Electronic quizzes and tutorials on available at www.netacad.com portal.",
+        "fundamental_literature": "- SANTOS, Omar; MUNIZ, Joseph; DE CRESCENZO, Stefano.CCNA Cyber Ops SECFND# 210-250 Official Cert Guide. Cisco Press, 2017.\nSANTOS, Omar; MUNIZ, Joseph; DE CRESCENZO, Stefano.CCNA Cyber Ops SECFND# 210-250 Official Cert Guide. Cisco Press, 2017.\n- SANTOS, Omar; MUNIZ, Joseph; DE CRESCENZO, Stefano.CCNA Cyber Ops SECOPS #210-255 Official Cert Guide. Cisco Press, 2017.\nSANTOS, Omar; MUNIZ, Joseph; DE CRESCENZO, Stefano.CCNA Cyber Ops SECOPS #210-255 Official Cert Guide. Cisco Press, 2017.",
+        "syllabus_of_laboratory_exercises": "- Cybersecurity and the Security Operations Center.\n- Forensics of Windows Operating System.\n- Forensics of Linux Operating System.\n- Overview of Network Protocols and Services.\n- Security Concerns of Network Infrastructure.\n- Principles of Network Security.\n- Network Attacks: A Deeper Look.\n- Protecting the Network.\n- Cryptography and the Public Key Infrastructure.\n- Endpoint Security and Analysis.\n- Security Monitoring.\n- Intrusion Data Analysis.\n- Incident Response and Handling.",
+        "progress_assessment": "- Preparation and active participation in laboratory exercises (max. 26 points).\n- Practical laboratory (max. 20 points).\n- Final configuration practice test and Test on theoretical skills (max. 54 points).\n- Preparation and active participation in all laboratory exercises.\n- Missed classes are not replaced."
+    }
+}

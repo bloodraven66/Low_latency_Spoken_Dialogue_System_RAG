@@ -1,0 +1,32 @@
+{
+    "project": "NexTArc - Next Generation Open Innovations in Trustworthy Embedded AI Architectures for Smart Cities, Mobility and Logistics",
+    "title": "NexTArc - Next Generation Open Innovations in Trustworthy Embedded AI Architectures for Smart Cities, Mobility and Logistics",
+    "metadata": {
+        "project_period": "1. 9. 2025 \u2013 31. 5. 2028",
+        "project_type": "grant",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Otevrene inovace nove generace pro udrzitelne mestske a prumyslove prostory"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "AI accelerators, hardware accelerators, trustworthy embedded AI, embedded AI, energy aware, energy efficient, high performance computing, smart and sustainable cities, mobility and logistics"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Leveraging AI-driven smart technologies, with an emphasis on urban-industry interconnection, sustainable living and sustainable production, holds the transformative potential to enhance the sustainability and climate resilience of EU urban and industrial spaces. Recognizing this potential, NexTArc is devoted to augmenting the adoption of Trustworthy edge AI and IoT across 3 complementary and interrelated sectors reprented as use-cases: i) Smart, Sustainable and Liveable Neighbourhood in Urban Spaces (SLN), ii) Smart, sustainable and transparent industrial Spaces (STI), iii) Trustworthy and Eco-friendly Multimodal Connectivity of Urban and Industrial Spaces through people and freight mobility-TEM). Building on this vision, we aim to promote cross-fertilization of ideas among a broad spectrum of stakeholders (37 partners/ 10 countries) integrated over a five-fold approach: a) cyber-resilience on chip; b) low-power embedded AI; c) heterogeneous edge-cloud connectivity; d) improved computation and dependability covering the high-performance needs; e) holistic solution stack enabling trustworthy services, which resonate with the EU CHIPS Act, 2ZERO, CCAM, Cities' Mission and Process4Planet frameworks."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrcka Ales, Ing., Ph.D. (DITS) \u2013 research leader Malinka Kamil, doc. Mgr., Ph.D. (DITS) Peresini Martin, Ing. (DITS) Rogalewicz Adam, doc. Mgr., Ph.D. (DITS) Rozsival Michal, Ing. (DITS) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        }
+    }
+}

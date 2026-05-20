@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "code": "YP2a",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Year Project 2"
+    },
+    "content": {
+        "guarantor": "Herout Adam, prof. Ing., Ph.D. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Classified Credit",
+        "time_span": "- 65 hrs projects",
+        "assessment_points": "- 100 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "learning_objectives": "The goal of this course is to support the individual creative student work during the engineering project solving, its formal description and defence.Knowledge and experience with engineering project building, its documentation, and defence.Own time management during creation of a complex engineering project. Communication with and reporting to the project supervisor. Presentation of the project by the final technical report and defense.",
+        "prerequisite_knowledge_and_skills": "Partial solution of the assignment within the course Year Project 1, confirmed by the supervisor by successfully absolving YP1.",
+        "study_literature": "- Pokyny provypracovani diplomovych praci.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "Students will receive an individual project specification from various computer science areas in order to work them out individually under the supervision of a skilled supervisor. Students will proceed as follows: problem analysis, solution, verification, implementation, documentation, presentation. During their work, the students will follow all the required instructions concerning requests on contents and volume of the project, the project adjustment, the literature, the language quality and written report typography as well as project parts consigned in the electronic form. The Year Project is defended in front of an examination board at its end.",
+        "progress_assessment": "Consultations with student's supervisor."
+    }
+}

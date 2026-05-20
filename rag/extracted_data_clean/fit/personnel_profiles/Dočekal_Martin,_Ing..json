@@ -1,0 +1,115 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "idocekal@fit.vut.cz",
+            "work_phone": "+420 54114 1422",
+            "orcid_id": "0000-0002-0580-9357"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Knowledge Technology Research Group",
+            "role": "Member"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "Third place in the EfficeintQA competition at the NeurIPS 2020 conference"
+        ]
+    },
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "IVS",
+                "title": "Practical Aspects of Software Design",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ZPJa",
+                "title": "Natural Language Processing (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Making Software FAIR: Identifying and Extracting Software Mentions from Open Research Papers and Registering them with PIDs",
+            "details": "TACR, CHRIST-ERA Call Open Research Data, TH86010002, start: 2024-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2024",
+            "title": "Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence",
+            "details": "EU, HORIZON EUROPE, 101159156, start: 2024-05-01, end: 2026-09-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "Machine learning for printed heritage digitisation",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV066, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "semANT - Semantic Document Exploration",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV060, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2021",
+            "title": "5G-ERA - 5G-Enhanced Robot Autonomy",
+            "details": "EU, Horizon 2020, start: 2021-01-01, end: 2024-06-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "CANCELLIERI, M.; DOCEKAL, M.; PRIDE, D.; GRUENPETER, M.; DOUARD, D.; KNOTH, P. Interoperable verification and dissemination of software assets in repositories using COAR Notify. 2025."
+        },
+        {
+            "year": "2025",
+            "citation": "FAJCIK, M.; DOCEKAL, M.; DOLEZAL, J.; ONDREJ, K.; BENES, K.; SMRZ, P.; POLOK, A.; HRADIS, M. BenCzechMark : A Czech-Centric Multitask and Multimetric Benchmark for Large Language Models with Duel Scoring Mechanism. Transactions of the Association for Computational Linguistics, 2025, vol. 13, no. 9, p. 1068-1095."
+        },
+        {
+            "year": "2025",
+            "citation": "KOHUT, J.; DOCEKAL, M.; HRADIS, M.; VASKO, M. BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction. In Document Analysis and Recognition \u2013 ICDAR 2025. Cham: Springer Nature Switzerland, 2025. p. 287-304. ISBN: 978-3-032-04623-9."
+        },
+        {
+            "year": "2022",
+            "citation": "DOCEKAL, M.; SMRZ, P. Query-Based Keyphrase Extraction from Long Documents. In The International FLAIRS Conference Proceedings. Proceedings of the ... International Florida Artificial Intelligence Research Society Conference. 2022. Jensen Beach: LibraryPress@UF, 2022. no. 35, p. 1-4. ISSN: 2334-0762."
+        },
+        {
+            "year": "2021",
+            "citation": "FAJCIK, M.; DOCEKAL, M.; ONDREJ, K.; SMRZ, P. R2-D2: A Modular Baseline for Open-Domain Question Answering. In Findings of the Association for Computational Linguistics: EMNLP 2021. Findings of the Association for Computational Linguistics. Punta Cana: Association for Computational Linguistics, 2021. p. 854-870. ISBN: 978-1-955917-10-0."
+        },
+        {
+            "year": "2021",
+            "citation": "MIN, S.; FAJCIK, M.; DOCEKAL, M.; ONDREJ, K.; SMRZ, P. NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned. In Proceedings of the NeurIPS 2020 Competition and Demonstration Track. Proceedings of Machine Learning Research. Proceedings of Machine Learning Research. online: Proceedings of Machine Learning Research, 2021. no. 133, p. 86-111. ISSN: 2640-3498."
+        },
+        {
+            "year": "2020",
+            "citation": "DOCEKAL, M.; FAJCIK, M.; JON, J.; SMRZ, P. JokeMeter at SemEval-2020 Task 7: Convolutional Humor. In Proceedings of the Fourteenth Workshop on Semantic Evaluation. 2020. Barcelona (online): Association for Computational Linguistics, 2020. p. 843-851. ISBN: 978-1-952148-31-6."
+        },
+        {
+            "year": "2020",
+            "citation": "FAJCIK, M.; DOCEKAL, M.; JON, J.; SMRZ, P. BUT-FIT at SemEval-2020 Task 5: Automatic detection of counterfactual statements with deep pre-trained language representation models. In Proceedings of the Fourteenth Workshop on Semantic Evaluation. Barcelona (online): Association for Computational Linguistics, 2020. p. 437-444. ISBN: 978-1-952148-31-6."
+        },
+        {
+            "year": "2020",
+            "citation": "JON, J.; FAJCIK, M.; DOCEKAL, M.; SMRZ, P. BUT-FIT at SemEval-2020 Task 4: Multilingual commonsense. In Proceedings of the Fourteenth Workshop on Semantic Evaluation. Barcelona: Association for Computational Linguistics, 2020. p. 374-390. ISBN: 978-1-952148-31-6."
+        }
+    ],
+    "name": "Docekal Martin, Ing."
+}

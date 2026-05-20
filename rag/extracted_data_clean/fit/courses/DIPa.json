@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "code": "DIPa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "13 credits",
+        "course_name": "Master's Thesis (in English)"
+    },
+    "content": {
+        "guarantor": "Bidlo Michal, doc. Ing., Ph.D. | (DCSY)",
+        "course_coordinator": "Veigend Petr, Ing., Ph.D. | (DITS)",
+        "language_of_instruction": "English",
+        "completion": "Credit",
+        "time_span": "- 169 hrs projects",
+        "department": "Department of Computer Systems | (UPSY)",
+        "learning_objectives": "The goal of this course is to support the individual creative student work during the engineering project solving and its formal description.Knowledge and experience with engineering project building, its documentation, and defence.",
+        "compulsory_prerequisites": "- Semester Project (in English)(SEPa)",
+        "prerequisite_knowledge_and_skills": "The compulsory prerequisity is to be successful in the course \"SEPa - Term Project\".",
+        "study_literature": "- A Guide To The Project Management Body Of Knowledge, Fifth Edition, Project Management Institute, 2013, ISBN 978-1-935589-67-9.\n- Pokyny provypracovani diplomovych praci.\n- ISO 2145:1978: Documentation - Numbering of divisions and subdivisions in written documents.",
+        "progress_assessment": "Consultations with student's supervisor."
+    }
+}

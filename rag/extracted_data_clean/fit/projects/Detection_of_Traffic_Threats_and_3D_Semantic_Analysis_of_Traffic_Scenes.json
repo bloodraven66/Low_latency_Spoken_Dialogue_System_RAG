@@ -1,0 +1,33 @@
+{
+    "project": "Detection of Traffic Threats and 3D Semantic Analysis of Traffic Scenes",
+    "title": "Detekce dopravnich hrozeb a 3D semanticka analyza dopravnich scen",
+    "metadata": {
+        "project_period": "1. 1. 2024 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "TM05000040",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "5. verejna soutez programu Delta 2"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Detection of Traffic Threats and 3D Semantic Analysis of Traffic Scenes"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Transport; safety; traffic data; research; international cooperation"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project DOTT3D aims to enhance security and safety of the society through traffic monitoring and analysis - understanding of semantics and 3D layout of traffic scenes. It will enhance knowledge and technologies of video cameras accompanied by other sensors applied in traffic. The project will deliver functional sample and software along with new exploitable know-how in semantic understanding of the traffic scenes and their 3D acquisition, enabling applications, such as detection of traffic accidents and/or situations, such as dangerous behavior of drivers, proximity of vehicles and pedestrians, violation of traffic rules, such as wrong turns, etc. The project will comprise data acquisition including ground truth data, acquisition of operational traffic data, research, and evaluation."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM) \u2013 research leader Fucik Otto, doc. Dr. Ing. (DCSY) Chlubna Tomas, Ing., Ph.D. (DCGM)"
+        }
+    }
+}

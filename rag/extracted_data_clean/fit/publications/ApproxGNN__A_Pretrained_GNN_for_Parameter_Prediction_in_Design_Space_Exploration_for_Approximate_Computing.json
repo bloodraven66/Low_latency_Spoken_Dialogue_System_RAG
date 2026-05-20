@@ -1,0 +1,79 @@
+{
+    "publication": "VLCEK, O.; MRAZEK, V. ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing. In 2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD). Munich, Germany: IEEE, 2025. p. 1-8. ISBN: 979-8-3315-1560-7. Detail VLNAS, M.; MILET, T.; ZEMCIK, P. Low-error Reconstruction of Directional Functions with Spherical Harmonics. IEEE transactions on visualization and computer graphics, 2025, vol. 31, no. 10, p. 8413-8424. ISSN: 1077-2626. Detail VOTRUBA, J.; DRAHANSKY, M.; GOLDMANN, T.; BRUHA, T.; KOLAR, R. Non-Contrast Radiation Free NIR Lung Imaging. Biomedicines, 2025, vol. 13, no. 11, p. 1-16. Detail VYKOPAL, I.; OSTERMANN, S.; SIMKO, M. Soft Language Prompts for Language Transfer. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). Albuquerque: Association for Computational Linguistics, 2025. p. 10294-10313. ISBN: 979-8-8917-6189-6. Detail VYKOPAL, I.; PIKULIAK, M.; OSTERMANN, S.; ANIKINA, T.; GREGOR, M.; SIMKO, M. Large Language Models for Multilingual Previously Fact-Checked Claim Detection. Suzhou, China: Association for Computational Linguistics, 2025. p. 15741-15765. ISBN: 979-8-8917-6335-7. Detail XING, B.; YUAN, K.; YU, Z.; LIU, X.; KALVIAINEN, H. AU-TTT: Vision Test-Time Training model for Facial Action Unit Detection. In Proceedings IEEE International Conference on Multimedia and Expo. Proceedings (IEEE International Conference on Multimedia and Expo). IEEE Computer Society, 2025. 11 p. ISBN: 9798331594954. Detail YAN, B.; HAMED, I.; SHIMIZU, S.; LODAGALA, V.; CHEN, W.; IAKOVENKO, O.; TALAFHA, B.; HUSSEIN, A.; POLOK, A.; CHANG, K.; KLEMENT, D.; ALTHUBAITI, S.; PENG, P.; WIESNER, M.; SOLORIO, T.; ALI, A.; KHUDANPUR, S.; WATANABE, S. CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 743-747. Detail YU, Z.; LIU, X.; DAMER, N.; FAN, D.; SHI, J.; GUO, X.; LIN, X.; WEN, B.; KONG, A.; KALVIAINEN, H.; SCHULLER, B.; CAO, X. SVC 2025 Chairs\u2019 Welcome. Svc 2025 Proceedings of the 1st International Workshop and Challenge on Subtle Visual Computing Co Located with mm 2025. Association for Computing Machinery, Inc, 2025. ISBN: 9798400718373. Detail ZAKLOVA, K.; JOHN, P.; JANOSIK, A.; HYNEK, J.; HRUSKA, T. Transparency in Czech Regions: Evaluation of Open Data Availability for Public Awareness. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail ZAVREL, J.; KOUTENSKY, M.; DOLEJSKA, D.; VESELY, V. Tumbling Down the Stairs: Exploiting a Tumbler's Attempt to Hide with Ordinary-looking Transactions using Wallet Fingerprinting. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-9. ISSN: 2666-2817. Detail ZBORIL, F.; VIDENSKY, F.; KOCI, R.; ZBORIL, F. Advanced Evaluation of Variable Binding Strategies in BDI Agents with Integrated Failure Handling. In Agents and Artificial Intelligence. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2025. p. 3-29. ISBN: 978-3-031-87326-3. Detail ZEINALI, H.; LEE, K.; ALAM, J.; BURGET, L. Text-dependent Speaker Verification Challenge 2024: Exploring Shared and User-defined Passphrases. In 2025 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Hyderabad, Indicka republika: Institute of Electrical and Electronics Engineers Inc., 2025. p. 1-5. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; LU, W.; XU, J. Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing. IEEE Transactions on Audio, Speech, and Language Processing, 2025, no. 33, p. 3850-3865. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; XU, J.; LU, W. SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing. IEEE Transactions on Information Forensics and Security, 2025, no. 20, p. 6474-6489. Detail ZHANG, Y.; TIAN, B.; ZHANG, L.; DUAN, Z. PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 5353-5357.",
+    "year": "2025",
+    "title": "ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "conference paper"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Vlcek Ondrej, Ing. Mrazek Vojtech, Ing., Ph.D. , DCSY (FIT)"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Approximate computing offers promising energy efficiency benefits for error-tolerant applications, but discovering optimal approximations requires extensive design space exploration (DSE). Predicting the accuracy of circuits composed of approximate components without performing complete synthesis remains a challenging problem. Current machine learning approaches used to automate this task require retraining for each new circuit configuration, making them computationally expensive and time-consuming. This paper presents ApproxGNN, a construction methodology for a pre-trained graph neural network model predicting QoR and HW cost of approximate accelerators employing approximate adders from a library. This approach is applicable in DSE for assignment of approximate components to operations in accelerator. Our approach introduces novel component feature extraction based on learned embeddings rather than traditional error metrics, enabling improved transferability to unseen circuits. ApproxGNN models can be trained with a small number of approximate components, supports transfer to multiple prediction tasks, utilizes precomputed embeddings for efficiency, and significantly improves accuracy of the prediction of approximation error. On a set of image convolutional filters, our experimental results demonstrate that the proposed embeddings improve prediction accuracy (mean square error) by 50% compared to conventional methods. Furthermore, the overall prediction accuracy is 30% better than statistical machine learning approaches without fine-tuning and 54% better with fast finetuning."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Approximate Computing, Graph Neural Networks, Parameter Prediction, Transfer Learning"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2025"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "1\u20138"
+        },
+        "proceedings": {
+            "label": "Proceedings",
+            "text": "2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)"
+        },
+        "conference": {
+            "label": "Conference",
+            "text": "IEEE/ACM International Conference On Computer-Aided Design"
+        },
+        "isbn": {
+            "label": "ISBN",
+            "text": "979-8-3315-1560-7"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "IEEE"
+        },
+        "place": {
+            "label": "Place",
+            "text": "Munich, Germany"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1109/ICCAD66269.2025.11240776"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-105029389288"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@inproceedings{BUT197688, author=\"Ondrej {Vlcek} and Vojtech {Mrazek}\", title=\"ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing\", booktitle=\"2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)\", year=\"2025\", pages=\"1--8\", publisher=\"IEEE\", address=\"Munich, Germany\", doi=\"10.1109/ICCAD66269.2025.11240776\", isbn=\"979-8-3315-1560-7\" }"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Hardware-Aware Machine Learning: From Automated Design to Innovative and Explainable Solutions , GACR, Standardni projekty, GA24-10990S, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        "research_groups": {
+            "label": "Research groups",
+            "text": "EvoAI Hardware (RG EHW)"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Computer Systems (DCSY)"
+        }
+    }
+}

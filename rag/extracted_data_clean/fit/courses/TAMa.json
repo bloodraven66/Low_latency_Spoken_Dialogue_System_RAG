@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "code": "TAMa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Application Development for Mobile Devices (in English)"
+    },
+    "content": {
+        "guarantor": "Herout Adam, prof. Ing., Ph.D. | (DCGM)",
+        "course_coordinator": "Beran Vitezslav, doc. Ing., Ph.D. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Classified Credit",
+        "time_span": "- 26 hrs lectures\n- 26 hrs projects",
+        "assessment_points": "- 30 pts mid-term test (written part)\n- 70 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Herout Adam, prof. Ing., Ph.D. | (DCGM)",
+        "instructor": "Herout Adam, prof. Ing., Ph.D. | (DCGM)",
+        "learning_objectives": "Get acquainted with existing mobile platforms and with the principles of creation of user interfaces, to get overview of the hardware platforms and operating system, their mutual comparison. Learn about the process of creation of mobile app from conceptual design, through graphics design, testing UX elements, implementation, testing, publishing and further maintenance and development. The student focuses on one selected platform and within a team creates an application functional on a selected mobile device; students practice project documentation and project defense.\n- The student will get acquainted with existing mobile platforms and with the principles of creation of user interfaces\n- Students get an overview of the hardware platforms and operating system, their mutual comparison.\n- Students learn basics of application creation on systems Android / iOS.\n- Students learn specifics of designing mobile applications - what forms a successful and useful mobile app, how are mobile apps specific, what factors are non/intuitive during desing.\n- The student focuses on one selected platform and within a team creates an application functional on a selected mobile device; students practice project documentation and project defense.\n- The student learns to search for information in English regarding very timely technologies.\n- Student learns to create projects in a small team.\n- Student learns presentation and defense of results in a small project.\n- Student will be led towards creative and innovative project design.\n- Student will be led towards critical analysis and commenting of existing solutions.",
+        "prerequisite_knowledge_and_skills": "- Basic knowledge of creation of user interfaces (ITU course).\n- Knowledge of basics of computer graphics and 3D rendering with hardware acceleration (PGR course).\n- Knowledge of object oriented application design (+ one of the following languages: C++, C#, Java).\n- Knowledge of basics of operating systems (in the extent given by the Bc. level tought at FIT).",
+        "study_literature": "- Jeffrey Rubin, Dana Chisnell: Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests, 2nd Edition, Wiley; 2 edition (May 12, 2008), ISBN: 978-0470185483\n- Bill Phillips, Chris Stewart, Kristin Marsicano: Android Programming: The Big Nerd Ranch Guide (3rd Edition) (Big Nerd Ranch Guides), Big Nerd Ranch Guides; 3 edition (February 9, 2017), ISBN: 978-0134706054\n- Christian Keur, Aaron Hillegass: iOS Programming: The Big Nerd Ranch Guide (6th Edition) (Big Nerd Ranch Guides), Big Nerd Ranch Guides; 6 edition (January 6, 2017), ISBN: 978-0134682334\n- Steve Krug: Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition), New Riders; 3 edition (January 3, 2014), ISBN: 978-0321965516\n- Don Norman: The Design of Everyday Things: Revised and Expanded Edition, Basic Books; Revised, Expanded edition (November 5, 2013), ISBN: 978-0465050659",
+        "syllabus_of_lectures": "This list might not be up to date. Fresh information is always at theprivate course pages.\n- Introduction to the course, Introduction to the problematic of mobile development.\n- Project workshop.\n- Development for Android I.\n- Development for Android II.\n- Project workshop\n- Design of Mobile Apps\n- Mobile Design Languages: Material Design and others\n- Pervasive Computing: Designing Services for the Future\n- Project workshop\n- Unix on smartphones - Nokia, BlackBerry (QNX), Tizen, ...\n- Experience from practical projects.\n- Experience from practical projects.\n- Concluding information, preparation for the final exam.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "Team projects (4 students per project) with written documentation and defense. The projects will be applications functional on mobile devices of a selected mobile platform.",
+        "progress_assessment": "- Project with a defense - 70 points\n- Mid-term test / Essay - 30 points"
+    }
+}

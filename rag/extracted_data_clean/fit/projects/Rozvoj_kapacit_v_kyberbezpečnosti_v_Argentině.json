@@ -1,0 +1,29 @@
+{
+    "project": "Rozvoj kapacit v kyberbezpecnosti v Argentine",
+    "title": "Rozvoj kapacit v kyberbezpecnosti v Argentine",
+    "metadata": {
+        "project_period": "1. 1. 2025 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "25-PKVV-017",
+        "agency": "Ministry of Foreign Affairs of the Czech Republic",
+        "program": "Posilovani kapacit verejnych vysokych skol v rozvojovych zemich - vyhlaseni dotacniho programu pro rok 2025"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "cybersecurity, knowledge transfer"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Capacity development in cybersecurity in the Republic of Argentina through: i) the creation/updating of a cybersecurity curriculum, ii) technical assistance, and iii) knowledge transfer and skills enhancement through mobility."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Rysavy Ondrej, doc. Ing., Ph.D. (DIFS) \u2013 research leader Matousek Petr, doc. Ing., Ph.D., M.A. (DIFS) Studena Michaela, Ing. (External relations) Vesely Vladimir, Ing., Ph.D. (DIFS) Vrska Ludek (DFIT-ISD) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        }
+    }
+}

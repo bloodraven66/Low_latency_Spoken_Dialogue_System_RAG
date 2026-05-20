@@ -1,0 +1,33 @@
+{
+    "project": "COP IDEA: COP for Investigations DEserving Intel-led Analysis",
+    "title": "COP IDEA: COP for Investigations DEserving Intel-led Analysis",
+    "metadata": {
+        "project_period": "1. 1. 2026 \u2013 31. 12. 2028",
+        "project_type": "grant",
+        "code": "101219100",
+        "agency": "European Union",
+        "program": "The Internal Security Fund \u2013 Police"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "COP pro vysetrovani akcentujici analyzu informaci"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "analysis, investigations, intelligence"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "COP IDCOP IDEA aims to enhance cooperation between police, customs, and judicial authorities to combat migrant smuggling, human trafficking (THB), and related poly-criminal activities across key routes, with a focus on the Central and Eastern Mediterranean, and Western Balkans. The project utilizes a \"Phygital\" approach, merging digital (OSINT-SIGINT) and physical (HUMINT) intelligence to counter evolving criminal threats across migration routes. Specific Objectives: -Phygital Investigations via FAST Platform: The project will create and implement an AI-based platform to support intelligence-led investigations, integrating digital and physical data. This platform will be the result of a system integration of different off-the-shelf solutions and tools already developed in previous EU-funded projects. -Follow the Money: Advanced tools that expand the FAST Platform capabilities will be introduced to monitor financial transactions, enhancing the ability to trace funds used for migrant smuggling and THB. -South-East Europe Coordination: Two centers will be established in Italy and Greece to coordinate national and EU-level efforts in combating smuggling and trafficking. These centers will facilitate investigations, focusing on high-value targets. Furthermore, the project will provide funds for operative missions aimed at developing specialized investigations, human resources and technologies to the project partners on the target areas, based on the identification of high value targets (HVTs). -Training: Specialized training will be delivered using VR and immersive methods, ensuring law enforcement and judicial staff are equipped to handle complex investigations. - Communication: A virtual platform will promote collaboration, facilitating communication and sharing of best practices among EU stakeholders. This will be complemented by three lines of communication and dissemination activities that will engage stakeholders, cascade the project results and its impact"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Motlicek Petr, doc. Ing., Ph.D. (DCGM) \u2013 research leader Malinka Kamil, doc. Mgr., Ph.D. (DITS) Marek Marcel, Ing. (DIFS) Skokanova Jana, Mgr. (DFIT-ISD) Vesely Vladimir, Ing., Ph.D. (DIFS)"
+        }
+    }
+}

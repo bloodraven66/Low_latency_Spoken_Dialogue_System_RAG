@@ -1,0 +1,205 @@
+{
+    "group": "Cognitive and Neural Engineering Research group (CANE)",
+    "about": {
+        "cognitive_and_neural_engineering_research_group": [
+            "The Cognitive and Neural Engineering (CANE) Research group is in the Faculty of Information Technology at Brno University of Technology with interests that span the discipline of preventive mental health, cognitive and neural engineering, and neurofeedback. The research group is affiliated with the Department of Computer Systems and the Information Technology graduate program. In CANE, we work with various brain modalities such as EEG, MEG, FNIR and fMRI. Our team members have strong expertise in techniques such as functional and effective connectivity measures, time-frequency analysis, source localization methods and microstate analysis. For classification and optimization, we exploit algorithms from traditional machine learning as well as deep learning and evolutionary computation. Our focus is on both the clinical as well as non-clinical applications. Our interest in clinical applications include preventive mental health assessment for stress, anxiety and depression. For non-clinical applications, we target cognitive skills assessment, brain computer interfaces and development of hardware for monitoring functional brain activity."
+        ],
+        "research_interests": [
+            "Targeting preventive mental health",
+            "Developing techniques and algorithms for understanding and analyzing dynamic neuronal mechanisms",
+            "Pre-screening and early diagnosis for mental stress, anxiety and depression",
+            "Simplifying Brain Computer Interfaces for real-time applications",
+            "Focusing on EEG, MEG, FNIR and fMRI modalities",
+            "Intervention using both active and passive neurofeedback"
+        ],
+        "cooperation": [
+            "Masaryk University, Czechia (Alena Domborska)",
+            "University of West Bohemia, Czechia (Roman Moucek)",
+            "PETRONAS University of Technology, Malaysia (Naufal Saad, Ibrahima Faye)",
+            "King Saud University, Saudi Arabia (Muhammad Hussain)",
+            "Qatar University (Uvais Qidwai)",
+            "TietoEVRY, Finland (Iftikhar Ahmed)",
+            "National University of Science & Technology, Pakistan (Wajid Mumtaz)",
+            "Brain Therapy Center, Australia (Timothy C. Hill)",
+            "Capital normal University, Beijing, China (Likun Xia)",
+            "University of Girona, Spain (Xavier Cufi)",
+            "Korea University of Technology & education, South Korea (Tariq Mahmood)",
+            "University of Jeddah, Saudi Arabia (Ishtiaq Rasool Khan, Seong O Shim)",
+            "University Sains Malaysia (Faruque Reza)",
+            "Lahore University of Management & Sciences, Pakistan (Safee Ullah Chaudhary)",
+            "University of Technology Belfort-Montbeliard, France (Yassine Ruichek)"
+        ],
+        "books": [
+            "Aamir Saeed Malik, Wajid Mumtaz, EEG Based Experiment Design for Major Depressive Disorder, ISBN: 9780128174203, Elsevier, 2019.",
+            "Aamir Saeed Malik, Hafeezullah Amin, Designing EEG Experiments for Studying the Brain: Design Code and Example Datasets, ISBN: 9780128111406, Elsevier, 2017.",
+            "Nidal Kamel, Aamir Saeed Malik, EEG / ERP Analysis: Methods and Applications, ISBN: 9781482224696, CRC Press, US, June, 2014."
+        ],
+        "patents": [
+            "Aamir Saeed Malik, Uvais Qidwai, Mohamed Shakir, Nidal Kamel, Wearable System for Identification and Prediction of Partial Seizure, MY-182188-A, 2021.",
+            "Aamir Saeed Malik, Wajid Mumtaz, Methodology of using Electroencephalogram (EEG) for Major Depressive Disorder (MDD) Patient Diagnosis and Antidepressants Efficacy Prediction, MY-180034-A, Malaysia, 2020.",
+            "Aamir Saeed Malik, Rana Fayyaz, Jahangir Khan, A System and Method for Functional Brain Imaging Using Microwave Radiometry, MY-177762-A, Malaysia, 2020.",
+            "Aamir Saeed Malik, Rafi Ullah, Humaira Nisar, Nidal Kamel, Method of Obtaining Motion Vectors for Tracking EEG signals using Block-Based Motion Estimation Algorithm, MY-168915-A, Malaysia, 2018.",
+            "Aamir Saeed Malik, Mohd Zuki Yusoff, Nidal Kamel, Methodology Of Extracting Brain ERP signals from Background Noise, MY-152983-A, Malaysia, 2014."
+        ],
+        "significant_publications": [
+            "Modulation of cortical activity in response to learning and long-term memory retrieval of 2D verses stereoscopic 3D educational contents: Evidence from an EEG study, Computers in Human Behavior (JIF: Q1, JCI: Q1, IF: 6.829) , Vol. 114, Article 106526, 2021.",
+            "Towards health monitoring using heart rate measurement using digital camera: A feasibility study, Measurement (JIF: Q1, JCI: Q1, IF: 3.927) , Vol. 149, Article 106804, 2020.",
+            "Exploring EEG Effective Connectivity Network in Estimating Influence of Color on Emotion and Memory, Frontiers in Neuroinformatics (JIF: Q1, JCI: Q1, IF: 4.081), Vol. 13, pp. 66, 2019.",
+            "Classification of visual and non-visual learners using Electroencephalographic alpha and gamma activities, Frontiers in Behavioral Neuroscience (JIF: Q1, JCI: Q1, IF: 3,558), Vol. 13, pp. 86, 2019.",
+            "An EEG-based functional connectivity measure for automatic detection of alcohol use disorder, Artificial Intelligence in Medicine (JIF: Q1, JCI: Q1, IF: 5.326) , Vol. 84, pp. 79-89, 2018.",
+            "Mitigation of Stress: New Treatment Alternatives, Cognitive Neurodynamics (JIF: Q2, JCI: Q2, IF: 5,082), Vol. 12, no. 1, pp. 1-20, 2018.",
+            "Electroencephalogram-based Decoding of Cognitive States Using Convolutional Neural Network and Likelihood Ratio Based Score Fusion, PLoS One (JIF: Q2, JCI: Q1, IF: 3,240) , Vol 12, No 5, e0178410, 2017.",
+            "A wavelet based technique to predict treatment outcome for Major Depressive Disorder, PLoS One (JIF: Q2, JCI: Q1, IF: 3,240) , Vol. 12, no. 2, e0171409, 2017.",
+            "Novel health monitoring method using an RGB camera, Biomedical Optics Express (JIF: Q1, JCI: Q1, IF: 3.732), Vol. 8, no. 11, pp. 4838-4854, 2017.",
+            "Automatic diagnosis of alcohol use disorder using EEG features, Knowledge-Based Systems (JIF: Q1, JCI: Q1, IF: 8.038) , Vol. 105, pp. 48-59, 2016.",
+            "P300 correlates with learning & memory abilities and fluid intelligence, Journal of Neuroengineering and Rehabilitation (JIF: Q2, JCI: Q1, IF: 4.262) , Vol. 12, no. 1, pp. 87, 2015."
+        ],
+        "contact": [
+            "Aamir Saeed Malik, PhDHead, CANE (Cognitive & Neural Engineering Research Group)Department of Computer Systems, Faculty of Information Technology (FIT)Brno University of TechnologyBozetechova 2, 612 00 Brno, Czech RepublicE-mail: malik@fit.vutbr.cz, Office Phone: +420 54114 1055, Office: L305"
+        ],
+        "overview": [
+            "The Cognitive and Neural Engineering (CANE) Research group is in the Faculty of Information Technology at Brno University of Technology with interests that span the discipline of preventive mental health, cognitive and neural engineering, and neurofeedback. The research group is affiliated with the Department of Computer Systems and the Information Technology graduate program. In CANE, we work with various brain modalities such as EEG, MEG, FNIR and fMRI. Our team members have strong expertise in techniques such as functional and effective connectivity measures, time-frequency analysis, source localization methods and microstate analysis. For classification and optimization, we exploit algorithms from traditional machine learning as well as deep learning and evolutionary computation. Our focus is on both the clinical as well as non-clinical applications. Our interest in clinical applications include preventive mental health assessment for stress, anxiety and depression. For non-clinical applications, we target cognitive skills assessment, brain computer interfaces and development of hardware for monitoring functional brain activity."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Malik Aamir Saeed, prof., Ph.D.",
+                "position": "Principal Researcher"
+            }
+        ],
+        "alumni_of_master\u2019s_degree_programme": [
+            {
+                "name": "Fritz Karel, Ing.",
+                "position": "Alumni of Master\u2019s degree programme"
+            },
+            {
+                "name": "Galba Simon, Ing.",
+                "position": "Alumni of Master\u2019s degree programme"
+            },
+            {
+                "name": "Chudarek Ales, Ing.",
+                "position": "Alumni of Master\u2019s degree programme"
+            },
+            {
+                "name": "Knutelsky Martin, Ing.",
+                "position": "Alumni of Master\u2019s degree programme"
+            },
+            {
+                "name": "Marko Julius, Ing.",
+                "position": "Alumni of Master\u2019s degree programme"
+            },
+            {
+                "name": "Osvald Martin, Ing.",
+                "position": "Alumni of Master\u2019s degree programme"
+            },
+            {
+                "name": "Tlustos Vit, Ing.",
+                "position": "Alumni of Master\u2019s degree programme"
+            }
+        ],
+        "ph.d._student": [
+            {
+                "name": "Blaskova Barbora, Ing.",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Hussain Yasir",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Tinka Jan, Ing.",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Zaheer Muhammad Asad",
+                "position": "Ph.D. student"
+            }
+        ],
+        "researcher_(visiting_researcher)": [
+            {
+                "name": "Bashir Shahid, M.Sc., Ph.D.",
+                "position": "Researcher (visiting researcher)"
+            },
+            {
+                "name": "Nidal Kamel, Ph.D.",
+                "position": "Researcher (visiting researcher)"
+            },
+            {
+                "name": "Tariq Mahmood, Ph.D.",
+                "position": "Researcher (visiting researcher)"
+            }
+        ],
+        "student_of_master\u2019s_degree_programme": [
+            {
+                "name": "Suraweera B. G. Samantha, MBA, MBA",
+                "position": "Student of Master\u2019s degree programme"
+            },
+            {
+                "name": "Szabo Tomas, Ing.",
+                "position": "Student of Master\u2019s degree programme"
+            },
+            {
+                "name": "Skunda Jakub, Ing.",
+                "position": "Student of Master\u2019s degree programme"
+            }
+        ]
+    },
+    "publicationresults": [
+        {
+            "year": "2025",
+            "details": "AMIN, H.; AHMED, A.; YUSOFF, M.; MOHAMAD SAAD, M.; MALIK, A. A neurophysiological model based on resting state EEG functional connectivity features for assessing semantic long-term memory performance. Biomedical Signal Processing and Control, 2025, vol. 99, no. 1, p. 1-11. ISSN: 1746-8108. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "HUSSAIN, Y.; AMNA, R.; MALIK, A. ECG and EEG Analysis of Brain-Heart Interactions During Seizure Episodes. In 2025 IEEE International Instrumentation and Measurement Technology Conference (I2MTC). Chemnitz: IEEE Computer Society, 2025. p. 1-6. ISBN: 979-8-3315-0500-4. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "ARIF, M.; REHMAN, F.; SEKANINA, L.; MALIK, A. A comprehensive survey of evolutionary algorithms and metaheuristics in brain EEG-based applications. Journal of Neural Engineering, 2024, vol. 21, no. 5, p. 1-25. ISSN: 1741-2552. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "JAWED, S.; FAYE, I.; MALIK, A. Deep learning-based assessment model for Real-time identification of visual learners using Raw EEG. IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING, 2024, vol. 32, no. 1, p. 378-390. ISSN: 1558-0210. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "AMIN, H.; ULLAH, R.; REZA, M.; MALIK, A. Single-trial extraction of event-related potentials (ERPs) and classification of visual stimuli by ensemble use of discrete wavelet transform with Huffman coding and machine learning techniques. Journal of NeuroEngineering and Rehabilitation, 2023, vol. 20, no. 1, p. 1-17. ISSN: 1743-0003. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "MAHRUKH, R.; SHAKIL, S.; MALIK, A. Sentiments analysis of fMRI using automatically generated stimuli labels under naturalistic paradigm. Scientific Reports, 2023, vol. 13, no. 1, p. 1-15. ISSN: 2045-2322. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "MOINUDDIN, M.; ZERGUINE, A.; ARIF, M. A Weighted Gaussian Kernel Least Mean Square Algorithm. CIRCUITS SYSTEMS AND SIGNAL PROCESSING, 2023, vol. 42, no. 9, p. 5267-5288. ISSN: 0278-081X. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "MRAZEK, V.; JAWED, S.; ARIF, M.; MALIK, A. Effective EEG Feature Selection for Interpretable MDD (Major Depressive Disorder) Classification. In GECCO 2023 - Proceedings of the 2023 Genetic and Evolutionary Computation Conference. Lisbon: Association for Computing Machinery, 2023. p. 1427-1435. ISBN: 979-8-4007-0119-1. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "QADRI, S.; ARIF, M.; SAEED, M. A Novel Variable Step-Size LMS Algorithm for Decentralized Incremental Distributed Networks. CIRCUITS SYSTEMS AND SIGNAL PROCESSING, 2023, vol. 41, no. 12, p. 7226-7249. ISSN: 0278-081X. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "SHAIKH, U.; SHAHZAIB, M.; SHAKIL, S.; BHATTI, F.; MALIK, A. Robust and Adaptive Terrain Classification and Gait Event Detection System. Heliyon, 2023, vol. 9, no. 11, p. 1-12. ISSN: 2405-8440. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "JAWED, S.; MALIK, A. Deep learning based diagnosis of alcohol use disorder (AUD) using EEG. In {2022 IEEE 12th International Conference on Consumer Electronics (ICCE-Berlin). Berlin: Institute of Electrical and Electronics Engineers, 2022. p. 1-5. ISBN: 978-1-6654-5676-0. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "QADRI, S.; ARIF, M.; NASEEM, I.; MOINUDDIN, M. Robust Incremental Least Mean Square Algorithm With Dynamic Combiner. IEEE Access, 2022, vol. 10, no. 10, p. 75135-75143. ISSN: 2169-3536. Detail"
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2024",
+            "title": "Editorial: From assessment to intervention: role of consumer technology and neurotech in preventive mental health",
+            "authors": "Editorial: From assessment to intervention: role of consumer technology and neurotech in preventive mental health , editorial, 2024 : MALIK, A.; HUSSAIN, M.; CHAUDHARY, S."
+        }
+    ]
+}

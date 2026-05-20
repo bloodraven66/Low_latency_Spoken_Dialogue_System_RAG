@@ -1,0 +1,81 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "starka@fit.vut.cz",
+            "work_phone": "+420 54114 1474",
+            "room": "Q202 DCGM Laboratory",
+            "orcid_id": "0000-0002-6169-1605"
+        }
+    },
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "PGPa",
+                "title": "Advanced Computer Graphics (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "RISC-V GENERATION OF HIGH PERFORMANCE AUTOMOTIVE PROCESSORS AND COMPUTING PLATFORMS",
+            "details": "EU, HORIZON EUROPE, 9A25001, start: 2025-07-01, end: 2028-06-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "EMIR - 5G-Enhanced Embedded Intelligence for Robotic Autonomy and Smart City Monitoring Application",
+            "details": "TACR, 7. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW07010052, start: 2023-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Long Life Power Platforms for Internet of Things",
+            "details": "MSMT, Chips Joint Undertaking, 9A23012, start: 2023-06-01, end: 2026-05-31, running"
+        },
+        {
+            "year": "2021",
+            "title": "5G-ERA - 5G-Enhanced Robot Autonomy",
+            "details": "EU, Horizon 2020, start: 2021-01-01, end: 2024-06-30, completed"
+        },
+        {
+            "year": "2021",
+            "title": "SECUSEN II: SECure SENsors - Industrial Intelligence",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/14, start: 2021-06-01, end: 2022-09-30, running"
+        },
+        {
+            "year": "2019",
+            "title": "Framework of key enabling technologies for safe and autonomous drones  applications",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A19003, start: 2019-10-01, end: 2023-01-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "SECUre SENsors and data",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/07, start: 2019-09-01, end: 2021-03-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2015",
+            "citation": "MILET, T.; TOTH, M.; PECIVA, J.; STARKA, T.; KOBRTEK, J.; ZEMCIK, P. Fast robust and precise shadow algorithm for WebGL 1.0 platform. In ICAT-EGVE 2015 - International Conference on Artificial Reality and Telexistence and Eurographics Symposium on Virtual Environments. Kyoto: Eurographics Association, 2015. p. 85-92. ISBN: 978-3-905674-84-2."
+        },
+        {
+            "year": "2013",
+            "citation": "PECIVA, J.; STARKA, T.; MILET, T.; KOBRTEK, J.; ZEMCIK, P. Robust Silhouette Shadow Volumes on Contemporary Hardware. In 23rd International Conference on Computer Graphics and Vision, GraphiCon 2013 - Conference Proceedings. Vladivostok: GraphiCon Scientific Society, 2013. p. 56-59. ISBN: 978-5-8044-1402-4."
+        }
+    ],
+    "name": "Starka Tomas, Ing."
+}

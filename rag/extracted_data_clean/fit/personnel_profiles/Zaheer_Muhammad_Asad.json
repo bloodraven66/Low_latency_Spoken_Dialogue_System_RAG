@@ -1,0 +1,42 @@
+{
+    "contact": {
+        "department": "Department of Computer Systems",
+        "department_abbr": "DCSY",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "izaheer@fit.vut.cz",
+            "work_phone": "+420 54114 1055",
+            "room": "L305 PC Architecture Laboratory",
+            "orcid_id": "0009-0009-6904-8305"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Cognitive and Neural Engineering Research group",
+            "role": "Ph.D. student"
+        }
+    ],
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "BRIa",
+                "title": "Brain Computer Interface",
+                "details": "Laboratory exercise, Project,\nEnglish, winter",
+                "department": "DCSY"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Hardware-Aware Machine Learning: From Automated Design to Innovative and Explainable Solutions",
+            "details": "GACR, Standardni projekty, GA24-10990S, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Application-specific HW/SW architectures and their applications",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8141, start: 2023-03-01, end: 2026-02-28, completed"
+        }
+    ],
+    "name": "Zaheer Muhammad Asad"
+}

@@ -1,0 +1,165 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "dytrych@fit.vut.cz",
+            "work_phone": "+420 54114 1423,+420 54114 5411",
+            "phone": "+420 731 137 899",
+            "room": "L115 Conference Room",
+            "researcher_id": "AAC-8776-2019",
+            "orcid_id": "0000-0003-3536-7219",
+            "scopus_author_id": "55969738000"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Council for the Use of Information Technologies and Equipment at FIT BUT",
+            "role": "Chairman"
+        },
+        {
+            "organization": "Dean's Collegium",
+            "role": "Vice-dean for Information Support"
+        },
+        {
+            "organization": "Information Systems Council",
+            "role": "Member"
+        },
+        {
+            "organization": "Knowledge Technology Research Group",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "SPSE Kounicova 16, Brno",
+            "Bc., FIT BUT, 2007",
+            "Ing., FIT BUT, 2009, branch information systems",
+            "Ph.D., FIT BUT, 2017"
+        ],
+        "scientific_activities": [
+            "Annotation of text",
+            "Advanced web technologies",
+            "Information Systems",
+            "Computer networks"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "In presence Whenever I am in the office and I will have time (preferably after prior agreement by email) Usually I'm in the office: Tuesday 9:00 - 10:00 and 13:00-16:00 Thursday 13:00 - 16:00 (at the time of the holidays rather always after a prior agreement by e-mail) Do not let anyone to let you pass into the corridor and call me from the door - as opposed to knocking on the door, I can hear it on my mobile phone. Online Online consultations (e.g. on MS Teams) are possible either by prior arrangement when I am in the office, or on Wednesday or Thursday evenings after 9:45 p.m. Holidays Attention, from 6th to 9th June, 5th December and from 16th to 31th December 2025, I will have a holiday. Pozor, od 9. do 9. 6. 2025, 5. 12. 2025 a od 16. do 31. 12. 2025 budu mit dovolenou. During my absence, I am represented by Ing. Kristyna Zaklova",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "IVS",
+                "title": "Practical Aspects of Software Design",
+                "details": "Czech, English, summer",
+                "department": "DCGM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "GJA",
+                "title": "Graphical User Interfaces in Java",
+                "details": "Lecture, Project,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "GJAe",
+                "title": "Graphical User Interfaces in Java (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IKK",
+                "title": "Circle Consultations",
+                "details": "Fundamentals seminar,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IVS",
+                "title": "Practical Aspects of Software Design",
+                "details": "Individual preparation - creating a presentation, Individual preparation for a mid-semester exam, Individual preparation for a project work, Lecture, Project,\nCzech, English, summer",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Making Software FAIR: Identifying and Extracting Software Mentions from Open Research Papers and Registering them with PIDs",
+            "details": "TACR, CHRIST-ERA Call Open Research Data, TH86010002, start: 2024-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2024",
+            "title": "Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence",
+            "details": "EU, HORIZON EUROPE, 101159156, start: 2024-05-01, end: 2026-09-30, running"
+        },
+        {
+            "year": "2021",
+            "title": "5G-ERA - 5G-Enhanced Robot Autonomy",
+            "details": "EU, Horizon 2020, start: 2021-01-01, end: 2024-06-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "HAAWAII - Highly Automated Air Traffic Controller Workstations with Artificial Intelligence Integration",
+            "details": "EU, Horizon 2020, H2020-SESAR-2019-2, start: 2020-06-01, end: 2022-11-30, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Framework of key enabling technologies for safe and autonomous drones  applications",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A19003, start: 2019-10-01, end: 2023-01-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3984, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "CPK - Using Semantic Technologies to Access Cultural Heritage Through The Central Portal of Czech Libraries",
+            "details": "MK, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje narodni a kulturni identity na leta 2016 az 2022 (NAKI II), DG16P02R006, start: 2016-03-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets",
+            "details": "EU, Horizon 2020, start: 2015-04-01, end: 2017-03-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2506, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Java platform for hIgh PErformance and Real-time large scale data management (JUNIPER)",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, start: 2013-09-01, end: 2015-11-30, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2018",
+            "citation": "DYTRYCH, J.; SMRZ, P. Advanced User Interfaces for Semantic Annotation of Complex Relations in Text. In Agents and Artificial Intelligence. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2018. no. 2018, p. 205-221. ISBN: 978-3-319-93581-2. ISSN: 0302-9743."
+        },
+        {
+            "year": "2016",
+            "citation": "DYTRYCH, J.; SMRZ, P. Interaction Patterns in Computer-assisted Semantic Annotation of Text - An Empirical Evaluation. In Proceedings of the 8th International Conference on Agents and Artificial Intelligence. Volume 2: ICAART. Setubal: SciTePress - Science and Technology Publications, 2016. p. 74-84. ISBN: 978-989-758-172-4."
+        },
+        {
+            "year": "2015",
+            "citation": "SMRZ, P.; DYTRYCH, J. Advanced Features of Collaborative Semantic Annotators - the 4A System. In Proceedings of the Twenty-Eighth International Florida Artificial Intelligence Research Society Conference. Palo Alto, California: American Association for Artificial Intelligence, 2015. p. 233-236. ISBN: 978-1-57735-730-8."
+        },
+        {
+            "year": "2011",
+            "citation": "SMRZ, P.; DYTRYCH, J. Towards New Scholarly Communication: A Case Study of the 4A Framework. In Proceedings of the Workshop on Semantic Publications. CEUR Workshop Proceedings. Aachen: CEUR, 2011. no. 2011, p. 59-70. ISBN: 978-3-642-25952-4. ISSN: 1613-0073."
+        }
+    ],
+    "name": "Dytrych Jaroslav, Ing., Ph.D."
+}

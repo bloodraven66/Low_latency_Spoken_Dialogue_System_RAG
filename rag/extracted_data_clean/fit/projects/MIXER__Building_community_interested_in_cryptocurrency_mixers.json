@@ -1,0 +1,37 @@
+{
+    "project": "MIXER: Building community interested in cryptocurrency mixers",
+    "title": "MIXER: Budovani komunity k problematice kryptomenovych mixeru",
+    "metadata": {
+        "project_period": "1. 6. 2023 \u2013 30. 6. 2025",
+        "project_type": "grant",
+        "code": "VJ03030037",
+        "agency": "Ministry of the Interior of the Czech Republic",
+        "program": "Vyhlaseni druhe verejne souteze podprogramu 3, PROGRAMU STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1), PODPROGRAMU 3 ROZVOJ INICIATIVY V BEZPECNOSTNIM VYZKUMU"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "MIXER: Building community interested in cryptocurrency mixers"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Bitcoin, cryptocurrency, mixers"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The aim of the project is to expand and develop cooperation with national and international security forces in the field of forensic analysis of cryptocurrencies. Information on cryptocurrency mixing services and cryptocurrency hardware wallets will be shared across the security community involved in the project through expert workshops, lectures and meetings. Cryptocurrency mixing services are often used to launder cryptocurrency funds encumbered by problematic transaction histories (e.g. ransomware, fraudulent activity, proceeds from trading on dark marketplaces), thereby complicating the matching of cryptocurrency funds associated with illicit activity. Analyzing cryptocurrency transactions of hardware wallets will provide insight into the possibilities of identifying these devices."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Vesely Vladimir, Ing., Ph.D. (DIFS) \u2013 research leader Dolejska Daniel, Ing. (DIFS) Gregr Matej, Ing., Ph.D. (DIFS) Kocmanova Martina, Ing. (RCIT) Pluskal Jan, Ing., Ph.D. (DIFS) Zavrel Jan, Ing. (DIFS)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- ZAVREL, J.; KOUTENSKY, M.; DOLEJSKA, D.; VESELY, V. Tumbling Down the Stairs: Exploiting a Tumbler's Attempt to Hide with Ordinary-looking Transactions using Wallet Fingerprinting. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-9. ISSN: 2666-2817. Detail"
+        }
+    }
+}

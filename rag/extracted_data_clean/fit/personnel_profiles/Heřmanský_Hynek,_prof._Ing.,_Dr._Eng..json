@@ -1,0 +1,209 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "hermansky@fit.vut.cz",
+            "work_phone": "+420 54114 1326",
+            "room": "L232 Office",
+            "researcher_id": "EXX-9747-2022",
+            "orcid_id": "0000-0001-8032-4811",
+            "scopus_author_id": "7004221802"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Speech Data Mining Research Group BUT Speech@FIT",
+            "role": "Principal researcher"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Gold Medal) 2025"
+        ]
+    },
+    "teaching": {
+        "guaranteed_courses": [
+            {
+                "abbreviation": "ASD",
+                "title": "Audio and Speech Processing by Humans and Machines",
+                "details": "Czech, English, winter",
+                "department": "DCGM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "CZSa",
+                "title": "Digital Signal Processing (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "ZRE",
+                "title": "Speech Signal Processing",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "Linguistics, Artificial Intelligence and Language and Speech Technologies: from Research to Applications",
+            "details": "EU, MEZISEKTOROVA SPOLUPRACE, EH23_020/0008518, start: 2025-01-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Multilingual and Cross-cultural interactions for context-aware, and bias-controlled dialogue systems for safety-critical applications",
+            "details": "EU, HORIZON EUROPE, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Answer to EC Tender CNECT/LUX/2022/OP/0030 - LANGUAGE TECHNOLOGY SOLUTIONS Lot 2",
+            "details": "EU, Digital Europe Programme, start: 2023-01-01, end: 2025-03-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Long Life Power Platforms for Internet of Things",
+            "details": "MSMT, Chips Joint Undertaking, 9A23012, start: 2023-06-01, end: 2026-05-31, running"
+        },
+        {
+            "year": "2020",
+            "title": "HumanE AI Network",
+            "details": "EU, Horizon 2020, start: 2020-09-01, end: 2024-08-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "DARPA Robust Automatic Transcription of Speech (RATS) - RATS Patrol II",
+            "details": "BBN, start: 2015-02-23, end: 2017-03-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Technologies of speech processing for efficient human-machine communication",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA01011328, start: 2011-01-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "DIRAC - Detection and Identification of Rare Audio-visual Cues",
+            "details": "MSMT, Sesty ramcovy program Evropskeho spolecenstvi pro vyzkum, technicky rozvoj a demonstracni cinnosti, 027787, start: 2006-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Augmented Multi-party Interaction",
+            "details": "EU, Sixth Framework programme, 506811-AMI, start: 2004-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Multi Modal Meeting Manager",
+            "details": "IST-2001-34485, start: 2002-03-01, end: 2005-02-28, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "LI, J.; MAK, M.; ROHDIN, J.; LEE, K.; HERMANSKY, H. Bayesian Learning for Domain-Invariant Speaker Verification and Anti-Spoofing. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam: International Speech Communication Association, 2025. p. 1123-1127."
+        },
+        {
+            "year": "2022",
+            "citation": "SUSTEK, M.; SADHU, S.; HERMANSKY, H. Dealing with Unknowns in Continual Learning for End-to-end Automatic Speech Recognition. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 1046-1050. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "ONDEL YANG, L.; LI, R.; SELL, G.; HERMANSKY, H. Deriving Spectro-temporal Properties of Hearing from Speech Data. In Proceedings of ICASSP. Brighton: IEEE Signal Processing Society, 2019. p. 411-415. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2019",
+            "citation": "YANG, J.; ONDEL YANG, L.; MANOHAR, V.; HERMANSKY, H. Towards Automatic Methods to Detect Errors in Transcriptions of Speech Recordings. In Proceedings of ICASSP. Brighton: IEEE Signal Processing Society, 2019. p. 3747-3751. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2015",
+            "citation": "HERMANSKY, H.; BURGET, L.; COHEN, J.; DUPOUX, E.; FELDMAN, N.; GODFREY, J.; KHUDANPUR, S.; MACIEJEWSKI, M.; MALLIDI, S.; MENON, A.; OGAWA, T.; PEDDINTI, V.; ROSE, R.; STERN, R.; WIESNER, M.; VESELY, K. TOWARDS MACHINES THAT KNOW WHEN THEY DO NOT KNOW: SUMMARY OF WORK DONE AT 2014 FREDERICK JELINEK MEMORIAL WORKSHOP. In Proceedings of 2015 IEEE International Conference on Acoustics, Speech and Signal Processing. South Brisbane, Queensland: IEEE Signal Processing Society, 2015. p. 5009-5013. ISBN: 978-1-4673-6997-8."
+        },
+        {
+            "year": "2015",
+            "citation": "HSIAO, R.; MA, J.; HARTMANN, W.; KARAFIAT, M.; GREZL, F.; BURGET, L.; SZOKE, I.; CERNOCKY, J.; WATANABE, S.; CHEN, Z.; MALLIDI, S.; HERMANSKY, H.; TSAKALIDIS, S.; SCHWARTZ, R. Robust Speech Recognition in Unknown Reverberant and Noisy Conditions. In Proceedings of 2015 IEEE Automatic Speech Recognition and Understanding Workshop. Scottsdale, Arizona: IEEE Signal Processing Society, 2015. p. 533-538. ISBN: 978-1-4799-7291-3."
+        },
+        {
+            "year": "2015",
+            "citation": "MALLIDI, S.; OGAWA, T.; VESELY, K.; NIDADAVOLU, P.; HERMANSKY, H. Autoencoder based multi-stream combination for noise robust speech recognition. In Proceeding of Interspeech 2015. Proceedings of Interspeech. Dresden: International Speech Communication Association, 2015. no. 09, p. 3551-3555. ISBN: 978-1-5108-1790-6. ISSN: 1990-9772."
+        },
+        {
+            "year": "2015",
+            "citation": "PESAN, J.; BURGET, L.; HERMANSKY, H.; VESELY, K. DNN derived filters for processing of modulation spectrum of speech. In Proceedings of Interspeech 2015. Proceedings of Interspeech. Dresden: International Speech Communication Association, 2015. no. 09, p. 1908-1911. ISBN: 978-1-5108-1790-6. ISSN: 1990-9772."
+        },
+        {
+            "year": "2013",
+            "citation": "PLCHOT, O.; MATSOUKAS, S.; MATEJKA, P.; DEHAK, N.; MA, J.; CUMANI, S.; GLEMBEK, O.; HERMANSKY, H.; MESGARANI, N.; SOUFIFAR, M.; THOMAS, S.; ZHANG, B.; ZHOU, X. Developing A Speaker Identification System For The DARPA RATS Project. Proceedings of ICASSP 2013. Vancouver: IEEE Signal Processing Society, 2013. p. 6768-6772. ISBN: 978-1-4799-0355-9."
+        },
+        {
+            "year": "2010",
+            "citation": "KOMBRINK, S.; HANNEMANN, M.; BURGET, L.; HERMANSKY, H. Recovery of Rare Words in Lecture Speech. Proc. Text, Speech and Dialogue 2010. Lecture Notes in Computer Science. Brno: Springer Verlag, 2010. no. 9, p. 330-337. ISBN: 978-3-642-15759-2. ISSN: 0302-9743."
+        },
+        {
+            "year": "2009",
+            "citation": "KOMBRINK, S.; BURGET, L.; MATEJKA, P.; KARAFIAT, M.; HERMANSKY, H. Posterior-based Out of Vocabulary Word Detection in Telephone Speech. Proc. Interspeech 2009. Proceedings of Interspeech. Brighton: International Speech Communication Association, 2009. no. 9, p. 80-83. ISSN: 1990-9772."
+        },
+        {
+            "year": "2008",
+            "citation": "BURGET, L.; SCHWARZ, P.; MATEJKA, P.; HANNEMANN, M.; RASTROW, A.; WHITE, C.; KHUDANPUR, S.; HERMANSKY, H.; CERNOCKY, J. Combination of strongly and weakly constrained recognizers for reliable detection of OOVs. Proc. International Conference on Acoustics, Speech, and Signal Processing (ICASSP). Las Vegas: IEEE Signal Processing Society, 2008. p. 1-4. ISBN: 1-4244-1484-9."
+        },
+        {
+            "year": "2008",
+            "citation": "PINTO, J.; SZOKE, I.; PRASANNA, S.; HERMANSKY, H. Fast Approximate Spoken Term Detection from Sequence of Phonemes. The 31st Annual International ACM SIGIR Conference 20-24 July 2008, Singapore. Singapore: Association for Computing Machinery, 2008. p. 28-33. ISBN: 978-90-365-2697-5."
+        },
+        {
+            "year": "2008",
+            "citation": "WHITE, C.; ZWEIG, G.; BURGET, L.; SCHWARZ, P.; HERMANSKY, H. Confidence estimation, OOV detection and language ID using phone-to-word transduction and phone-level alignments. Proc. 2008 IEEE International Conference on Acoustics, Speech, and Signal Processing. Las Vegas: IEEE Signal Processing Society, 2008. p. 1-4. ISBN: 1-4244-1484-9."
+        },
+        {
+            "year": "2004",
+            "citation": "FOUSEK, P.; SVOJANOVSKY, P.; GREZL, F.; HERMANSKY, H. New Nonsense Syllables Database - Analyses and Preliminary ASR Experiments. Proc. 8th International Conference on Spoken Language Processing. Jeju Island: Sunjin Printing Co, 2004. no. 10, p. 348-351. ISSN: 1225-4111."
+        },
+        {
+            "year": "2003",
+            "citation": "GREZL, F.; HERMANSKY, H. Local averaging and differentiating of spectral plane for TRAP-based ASR. Proc. EUROSPEECH 2003. European Conference EUROSPEECH. Geneva: Institute for Perceptual Artificial Intelligence, 2003. no. 9, 4 p. ISSN: 1018-4074."
+        },
+        {
+            "year": "2003",
+            "citation": "HERMANSKY, H., MATEJKA, P., SCHWARZ, P. On Use of Temporal Dynamics of Speech for Language Identification. In Language Recognition Workshop. NIST Gaithersburg, MD USA: 2003. 7 p."
+        },
+        {
+            "year": "2003",
+            "citation": "MATEJKA, P., SCHWARZ, P., CERNOCKY, J., HERMANSKY, H. Phoneme Recognition using Temporal Patterns. In In Proceedings of the conference TSD'2003. International Conference on Text Speech and Dialogue, TSD 2003. 2003. 8 p. ISBN: 3-540-20024-X."
+        },
+        {
+            "year": "2003",
+            "citation": "MATEJKA, P.; SCHWARZ, P.; HERMANSKY, H.; CERNOCKY, J. Phoneme Recognition using Temporal Patterns. Proc. 6th International Conference Text, Speech and Dialogue, TSD2003. Ceske Budejovice: Springer Verlag, 2003. p. 465-472. ISBN: 3-540-20024-X."
+        },
+        {
+            "year": "2003",
+            "citation": "SCHWARZ, P.; HERMANSKY, H.; MATEJKA, P. On Use of Temporal Dynamics of Speech for Language Identification. Proceedings of Language Recognition Workshop 2003. NIST Gaithersburg, MD USA: 2003. s. 56-62."
+        },
+        {
+            "year": "2002",
+            "citation": "BURGET, L.; DUPONT, S.; GARUDADRI, H.; GREZL, F.; HERMANSKY, H.; JAIN, P.; KAJAREKAR, S.; MORGAN, N. QUALCOMM-ICSI-OGI Features for ASR. Proc. 7th International Conference on Spoken Language Processing. Denver: International Speech Communication Association, 2002. p. 4-7. ISBN: 1-876346-42-6."
+        },
+        {
+            "year": "2001",
+            "citation": "HERMANSKY, H. Human Speech Perception: Some Lessons from Automatic Speech Recognition. Proc. Text Speech and Dialogue 2001. Zelezna Ruda: 2001. 5 p."
+        },
+        {
+            "year": "2000",
+            "citation": "HERMANSKY, H. Connectionist Feature Extraction for Conventional HMM System. Proc. International Conference on Acoustics, Speech and Signal Processing. Istanbul: 2000. 4 p."
+        },
+        {
+            "year": "1998",
+            "citation": "HERMANSKY, H. TRAPS- Classifiers of Temporal Patterns. Proc. International Conference on Spoken Language Processing (ICSLP). Sydney: 1998. 5 p."
+        },
+        {
+            "year": "1997",
+            "citation": "HERMANSKY, H. Auditory Modelling for Automatic Recognition of Speech. Proc.The First European Conference on Signal Analysis and Prediction. Praha: 1997. p. 17-21."
+        }
+    ],
+    "name": "Hermansky Hynek, prof. Ing., Dr. Eng."
+}

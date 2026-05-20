@@ -1,0 +1,448 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "krivka@fit.vut.cz",
+            "work_phone": "+420 54114 1313",
+            "room": "C229 Office",
+            "researcher_id": "V-5373-2018",
+            "orcid_id": "0000-0001-8309-0280",
+            "scopus_author_id": "14622785700"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Formal Model Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Chamber of Academic Staff of AS FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            {
+                "date": "01.09.1999\n-\n30.06.2004",
+                "details": "Brno, Czech RepublicMSc. @ FIT BUT"
+            },
+            {
+                "date": "01.09.2004\n-\n30.06.2007",
+                "details": "Brno, Czech RepublicPh.D. @ FIT BUT"
+            }
+        ],
+        "scientific_activities": [
+            "Formal languages, grammars, automata",
+            "Jumping models"
+        ],
+        "academic_internships_abroad": [
+            {
+                "date": "12.09.2008\n-\n15.12.2008",
+                "details": "Taiwan, Taipeipostdoc @ National Taiwan University, Computation Theory Laboratory"
+            }
+        ],
+        "active_participation_in_domestic_and_international_associations_and_organisations": [
+            "2019-now - Program Committee member ofNCMAworkshop",
+            "2021-2022 - co-leader of Work Package Studying & Teaching in the preparation ofEuropean university EULiST",
+            "2023-now - co-leader of Task 2.1 in project ofEuropean university EULiST"
+        ],
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2015",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2023"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Monday, 11:00-12:00 , B/C229 (Bozetechova 1/2, Brno 61200) Not available : Feb 16-20, 2026; May 10-13, 2026 Send me an e-mail if you need some consultation or ask during my lecture. You can reach me at MS Teams using my xkrivk01@vutbr.cz account.",
+        "lectured_courses": [
+            {
+                "abbreviation": "GAL",
+                "title": "Graph Algorithms",
+                "details": "Lecture, Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "GALe",
+                "title": "Graph Algorithms (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IFJ",
+                "title": "Formal Languages and Compilers",
+                "details": "Lecture, Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IFJe",
+                "title": "Formal Languages and Compilers (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IKK",
+                "title": "Circle Consultations",
+                "details": "Fundamentals seminar,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IPP",
+                "title": "Principles of Programming Languages",
+                "details": "Lecture, Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IPPe",
+                "title": "Principles of Programming Languages (in English)",
+                "details": "Individual preparation - study of study materials, Individual preparation for a final exam, Individual preparation for a mid-semester exam, Individual preparation for a project work, Lecture, Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "VYPa",
+                "title": "Compiler Construction (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Efficient Finite Automata for Automated Reasoning",
+            "details": "MSMT, ERC CZ, LL1908, start: 2020-01-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Metody AI pro zabezpeceni kybernetickeho prostoru a ridici systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6293, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Automata for Decision Procedures and Verification",
+            "details": "GACR, Standardni projekty, GA19-24397S, GA19-24397S, start: 2019-01-01, end: 2021-12-31, running"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Nastroje, metody a technologie ICT pro podporu konceptu smart cities",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3964, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Vyzkum pokrocilych metod ICT a jejich aplikace",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2299, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "V3C - Visual Computing Competence Center",
+            "details": "TACR, Centra kompetence, TE01020415, start: 2012-05-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-2, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Context-free languages and pushdown automata",
+            "details": "MSMT, KONTAKT, MEB041003, start: 2010-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Interactive support for teaching functional and logic programming",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2392/2010/G1, start: 2010-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-2, 2010, start: 2010-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Inovative Approach to the Compiler Projects",
+            "details": "FR673/2007/G1, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2006",
+            "title": "Didactic Demonstration of Formal Language Models",
+            "details": "FR1909/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Virtual Laboratory of Microprocessor Technology Application",
+            "details": "MSMT, Informacni technologie pro znalostni spolecnost, 2C06008, start: 2006-07-01, end: 2011-06-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "HAVEL, M.; KRIVKA, Z.; MEDUNA, A. Scattered Context Grammars with One Non-Context-Free Production and Six Nonterminals Are Computationally Complete. In Descriptional Complexity of Formal Systems. Lecture Notes in Computer Science. Loughborough: Springer Verlag, 2025. no. 7, p. 123-136. ISBN: 978-3-031-97099-3."
+        },
+        {
+            "year": "2025",
+            "citation": "MAKIS, J.; MEDUNA, A.; KRIVKA, Z. Orchestration of Music by Grammar Systems. In Proceedings of the 15th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Loughborough: Open Publishing Association, 2025. no. 7, p. 45-58."
+        },
+        {
+            "year": "2024",
+            "citation": "HAVEL, M.; KRIVKA, Z.; MEDUNA, A. How to Demonstrate Metalinearness and Regularity by Tree-Restricted General Grammars. In Proceedings 14th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Gottingen: School of Computer Science and Engineering, University of New South Wales, 2024. no. 09, p. 86-99. ISSN: 2075-2180."
+        },
+        {
+            "year": "2024",
+            "citation": "MEDUNA, A.; KRIVKA, Z. Jumping Computation: Updating Automata and Grammars for Discontinuous Information Processing. Boca Raton: CRC Press LLC, 2024. 293 p. ISBN: 978-0-367-62093-6."
+        },
+        {
+            "year": "2023",
+            "citation": "KOZAR, T.; MEDUNA, A.; KRIVKA, Z. Final sentential forms. In Proceedings 13th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Famagusta: School of Computer Science and Engineering, University of New South Wales, 2023. no. 9, p. 38-47. ISSN: 2075-2180."
+        },
+        {
+            "year": "2022",
+            "citation": "HAMMER, J.; KRIVKA, Z. Practical Aspects of Membership Problem of Watson-Crick Context-free Grammars. In Proceedings 12th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Debrecen: School of Computer Science and Engineering, University of New South Wales, 2022. no. 367, p. 88-111. ISSN: 2075-2180."
+        },
+        {
+            "year": "2022",
+            "citation": "KLOBUCNIKOVA, D.; KRIVKA, Z.; MEDUNA, A. Conclusive Tree-Controlled Grammars. In Proceedings 12th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Debrecen: School of Computer Science and Engineering, University of New South Wales, 2022. no. 367, p. 112-125. ISSN: 2075-2180."
+        },
+        {
+            "year": "2022",
+            "citation": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A.; NAGY, B. A Jumping 5'->3' Watson-Crick Finite Automata Model. ACTA INFORMATICA, 2022, vol. 59, no. 5, p. 557-584. ISSN: 0001-5903."
+        },
+        {
+            "year": "2022",
+            "citation": "MARTISKO, J.; KRIVKA, Z.; MEDUNA, A. CD Grammar Systems with Two Propagating Scattered Context Components Characterize the Family of Context Sensitive Languages. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2022, vol. 33, no. 03, p. 335-348. ISSN: 0129-0541."
+        },
+        {
+            "year": "2021",
+            "citation": "KOVARI, A.; KRIVKA, Z.; MEDUNA, A. Evaluating Yona Language. In INTERNATIONAL CONFERENCES ON WWW/INTERNET 2021 AND APPLIED COMPUTING 2021. Lisabon: International Association for Development of the Information Society, 2021. p. 101-108. ISBN: 978-989-8704-34-4."
+        },
+        {
+            "year": "2021",
+            "citation": "KRIVKA, Z.; MEDUNA, A. Scattered Context Grammars with One Non-Context-Free Production are Computationally Complete. FUNDAMENTA INFORMATICAE, 2021, vol. 179, no. 4, p. 361-384. ISSN: 0169-2968."
+        },
+        {
+            "year": "2020",
+            "citation": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. General CD Grammar Systems and Their Simplification. Journal of Automata, Languages and Combinatorics, 2020, vol. 25, no. 1, p. 37-54. ISSN: 1430-189X."
+        },
+        {
+            "year": "2019",
+            "citation": "MEDUNA, A.; KRIVKA, Z.; KUCERA, J. Jumping Pure Grammars. COMPUTER JOURNAL, 2019, vol. 62, no. 1, p. 30-41. ISSN: 0010-4620."
+        },
+        {
+            "year": "2018",
+            "citation": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. On Double-Jumping Finite Automata and Their Closure Properties. RAIRO-THEORETICAL INFORMATICS AND APPLICATIONS, 2018, vol. 52, no. 2, p. 185-199. ISSN: 0988-3754."
+        },
+        {
+            "year": "2018",
+            "citation": "KOCMAN, R.; NAGY, B.; KRIVKA, Z.; MEDUNA, A. A Jumping 5'->3' Watson-Crick Finite Automata Model. Tenth Workshop on Non-Classical Models of Automata and Applications (NCMA 2018). books@ocg.at 332. Wien: Austrian Computer Society, 2018. p. 117-132. ISBN: 978-3-903035-21-8."
+        },
+        {
+            "year": "2018",
+            "citation": "KUCERA, J.; KRIVKA, Z.; MEDUNA, A. On k#$-Rewriting Systems. Romanian Journal of Information Science and Technology, 2018, vol. 21, no. 3, p. 278-287. ISSN: 1453-8245."
+        },
+        {
+            "year": "2018",
+            "citation": "ZENDULKA, J.; BIELIKOVA, M.; BURGET, R.; KRIVKA, Z. Data a Znalosti & WIKT 2018. Brno: Vysoke uceni technicke v Brne, 2018. s. 1-291. ISBN: 978-80-214-5679-2."
+        },
+        {
+            "year": "2017",
+            "citation": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. Rule-Homogeneous CD Grammar Systems. AFL 2017. Debrecen: 2017. 3 p."
+        },
+        {
+            "year": "2017",
+            "citation": "KRIVKA, Z. Introduction to Graph Algorithms for Shortest-Paths Problems. Sego-bit. 2017. no. 5, p. 41-48. ISSN: 2386-866X."
+        },
+        {
+            "year": "2016",
+            "citation": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. On Double-Jumping Finite Automata. Eighth Workshop on Non-Classical Models of Automata and Applications (NCMA 2016). books@ocg.at 321. Wien: Austrian Computer Society, 2016. p. 195-210. ISBN: 978-3-903035-10-2."
+        },
+        {
+            "year": "2016",
+            "citation": "KRIVKA, Z.; MEDUNA, A.; ZEMEK, P. Phrase-Structure Grammars: Normal Forms and Reduction. COMPUTER JOURNAL, 2016, vol. 59, no. 8, p. 1180-1185. ISSN: 0010-4620."
+        },
+        {
+            "year": "2015",
+            "citation": "KRIVKA, Z.; MEDUNA, A. Jumping Grammars. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2015, vol. 26, no. 6, p. 709-731. ISSN: 0129-0541."
+        },
+        {
+            "year": "2014",
+            "citation": "KRIVKA, Z.; SUBRAMANIAN, K.; MARTIN-VIDE, C.; MEDUNA, A. A Variant of Pure Two-dimensional Context-free Grammars generating Picture Languages. In 16th International Workshop on Combinatorial Image Analysis. Lecture Notes in Computer Science. Lecture Notes in Computer Science, ISSN 0302-9743, Vol. 8466. Brno: Springer Verlag, 2014. no. 8466, p. 123-133. ISBN: 978-3-319-07147-3. ISSN: 0302-9743."
+        },
+        {
+            "year": "2014",
+            "citation": "TESAR, R.; KRIVKA, Z.; MEDUNA, A. Alan Mathison Turing - zivot a dilo. Pokroky matematiky, fyziky a astronomie, 2014, roc. 59, c. 2, s. 89-104. ISSN: 0032-2423."
+        },
+        {
+            "year": "2011",
+            "citation": "DULIK, T.; KRIVKA, Z.; KADLEC, J.; BLIZNAK, M.; BUDIKOVA, V.; JIRAK, O.; OLSAROVA, N.; TRBUSEK, J.; VASICEK, Z. Virtualni laborator pro vyvoj aplikaci s mikroprocesory a FPGA. Brno: Akademicke nakladatelstvi CERM sro., 2011. 82 s. ISBN: 978-80-7204-754-3."
+        },
+        {
+            "year": "2011",
+            "citation": "KOUTNY, J.; KRIVKA, Z.; MEDUNA, A. Pumping Properties of Path-Restricted Tree-Controlled Languages. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Brno University of Technology, 2011. p. 61-69. ISBN: 978-80-214-4305-1."
+        },
+        {
+            "year": "2011",
+            "citation": "KRIVKA, Z.; JIRAK, O.; VASICEK, Z. Integrated Development Environment for Virtual Laboratory. International Technology, Education and Development Conference. Valencia: International Association for Technology, Education and Development, 2011. p. 6109-6118. ISBN: 978-84-614-7423-3."
+        },
+        {
+            "year": "2011",
+            "citation": "KRIVKA, Z.; MASOPUST, T. Cooperating Distributed Grammar Systems with Random Context Grammars as Components. Acta Cybernetica, 2011, vol. 20, no. 2, p. 269-283. ISSN: 0324-721X."
+        },
+        {
+            "year": "2011",
+            "citation": "KRIVKA, Z.; VASICEK, Z. The Virtualization of Development Boards in the Virtual Laboratory of Microprocessor Technology. In 12th International Carpathian Control Conference (ICCC). Velke Karlovice: VSB-Technical University of Ostrava, 2011. p. 424-428. ISBN: 978-1-61284-359-9."
+        },
+        {
+            "year": "2010",
+            "citation": "JIRAK, O.; KRIVKA, Z. Hardware Design Tool based on Eclipse Modeling Framework. Proceedings of the 44th Spring International Conference Modeling and Simulation Systems. Ostrava: Marq software s.r.o., 2010. p. 138-144. ISBN: 978-80-86840-51-2."
+        },
+        {
+            "year": "2010",
+            "citation": "KRIVKA, Z.; JIRAK, O.; VASICEK, Z. Component Interconnection Inference Tool Supporting the Design of Small FPGA-based Embedded Systems. Proceedings of the IADIS International Conference Applied Computing 2010. Timisoara: International Association for Development of the Information Society, 2010. p. 230-234. ISBN: 978-972-8939-30-4."
+        },
+        {
+            "year": "2010",
+            "citation": "KRIVKA, Z.; OLSAROVA, N.; VASICEK, Z.; JIRAK, O. Odvozovani propojeni komponent pro podporu navrhu pro male FPGA cipy. DATAKON 2010 Proceedings (Ed. Petr Saloun). Mikulov: Ostravska univerzita, 2010. s. 81-90. ISBN: 978-80-7368-424-2."
+        },
+        {
+            "year": "2009",
+            "citation": "KRIVKA, Z.; JIRAK, O. Design and Implementation of Back-end for PicoBlaze C Compiler. Proceedings of the IADIS International Conference Applied Computing 2009. Rome: International Association for Development of the Information Society, 2009. p. 135-138. ISBN: 978-972-8924-97-3."
+        },
+        {
+            "year": "2009",
+            "citation": "KRIVKA, Z.; JIRAK, O. Simulation-based Debugging of 8-bit Softcore Processor. Proceedings of XXXIth International Autumn Colloquium Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2009. p. 68-73. ISBN: 978-80-86840-47-5."
+        },
+        {
+            "year": "2009",
+            "citation": "KRIVKA, Z.; MASOPUST, T. A Note on the Cooperation in Rewriting Systems with Context-Dependency Checking. 11th Italian Conference on Theoretical Computer Science. Cremona: 2009. p. 129-135."
+        },
+        {
+            "year": "2008",
+            "citation": "KRIVKA, Z. Rewriting Systems with Restricted Configurations. Brno: Faculty of Information Technology BUT, 2008. 131 p. ISBN: 978-80-214-3722-7."
+        },
+        {
+            "year": "2008",
+            "citation": "KRIVKA, Z.; JIRAK, O.; VASICEK, Z. Debugging of Small FPGA-Based Embedded System. Proceedings of ASIS 2008. Ostrava: Marq software s.r.o., 2008. p. 1-6. ISBN: 978-80-86840-42-0."
+        },
+        {
+            "year": "2007",
+            "citation": "KRIVKA, Z. Deterministic #-Rewriting Systems. Proceedings of the 13th Conference STUDENT EEICT 2007, Volume 4. Brno: Faculty of Electrical Engineering and Communication BUT, 2007. p. 386-390. ISBN: 978-80214-3410-3."
+        },
+        {
+            "year": "2007",
+            "citation": "KRIVKA, Z. Prepisujici systemy s omezenymi konfiguracemi. Brno: 2007. 98 s."
+        },
+        {
+            "year": "2007",
+            "citation": "KRIVKA, Z.; KOLAR, D.; SCHONECKER, R. Component-based Design of Embedded Systems with FPGA Support. Proceedings of XXIXth International Autumn Colloquium Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2007. p. 167-172. ISBN: 978-80-86840-34-5."
+        },
+        {
+            "year": "2007",
+            "citation": "KRIVKA, Z.; LORENC, L.; SCHONECKER, R. Vyvoj vestavenych systemu s FPGA na konceptualni urovni. Sbornik prispevku konference ZVULE 2007. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2007. s. 176-179. ISBN: 978-80-214-3468-4."
+        },
+        {
+            "year": "2007",
+            "citation": "KRIVKA, Z.; MEDUNA, A. Generalized #-Rewriting Systems of Finite Index. Information Systems and Formal Models (Proceedings of 2nd International Workshop on Formal Models (WFM'07)). Opava: Silesian University, 2007. p. 197-204. ISBN: 978-807248-006-7."
+        },
+        {
+            "year": "2007",
+            "citation": "KRIVKA, Z.; MEDUNA, A.; SMRCEK, J. n-Right-Linear #-Rewriting Systems. Third Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2007). Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 105-112. ISBN: 978-80-7355-077-6."
+        },
+        {
+            "year": "2007",
+            "citation": "LORENC, L.; KRIVKA, Z.; SCHONECKER, R. A Note on the Parsing of Complete VHDL-2002. Information Systems and Formal Models (Proceedings of 2nd International Workshop on Formal Models (WFM'07)). Opava: Silesian University, 2007. p. 245-248. ISBN: 978-807248-006-7."
+        },
+        {
+            "year": "2006",
+            "citation": "KRIVKA, Z.; LUKAS, R.; MEDUNA, A. Didakticke demonstrace modelu pro popis formalnich jazyku. Pedagogicky software 2006. Ceske Budejovice: Zemedelska fakulta, Jihoceska univerzita, 2006. s. 54-56. ISBN: 80-85645-56-4."
+        },
+        {
+            "year": "2006",
+            "citation": "KRIVKA, Z.; MEDUNA, A. General Top-Down Parsers Based On Deep Pushdown Expansions. Proceedings of 1st International Workshop on Formal Models (WFM'06). Ostrava: Marq software s.r.o., 2006. p. 11-18. ISBN: 80-86840-20-4."
+        },
+        {
+            "year": "2006",
+            "citation": "KRIVKA, Z.; MEDUNA, A.; SCHONECKER, R. Generation of Languages by Rewriting Systems that Resemble Automata. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2006, vol. 17, no. 5, p. 1223-1229. ISSN: 0129-0541."
+        },
+        {
+            "year": "2006",
+            "citation": "KRIVKA, Z.; SCHONECKER, R. Reducing Deep Pushdown Automata. Proceedings of the 12th Conference and Competition STUDENT EEICT 2006 Volume 4. Brno: Faculty of Information Technology BUT, 2006. p. 365-369. ISBN: 80-214-3163-6."
+        },
+        {
+            "year": "2006",
+            "citation": "KRIVKA, Z.; SCHONECKER, R. String-Partitioning Systems and An Infinite Hierarchy. Proceedings of 1st International Workshop on Formal Models (WFM'06). Ostrava: Marq software s.r.o., 2006. p. 53-60. ISBN: 80-86840-20-4."
+        },
+        {
+            "year": "2006",
+            "citation": "SCHONECKER, R.; KRIVKA, Z.; MEDUNA, A. Reducing Deep Pushdown Automata and Infinite Hierarchy. MEMICS 2006 Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Mikulov: Faculty of Information Technology BUT, 2006. p. 214-221. ISBN: 80-214-3287-X."
+        },
+        {
+            "year": "2005",
+            "citation": "KRIVKA, Z. Recursive Erasing in Programmed Grammars. PRE-PROCEEDINGS of the 1st Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Znojmo: Faculty of Informatics MU, 2005. p. 139-144."
+        },
+        {
+            "year": "2005",
+            "citation": "KRIVKA, Z. String-partitioning Systems. Proceedings of 11th Conference and Competition STUDENT EEICT 2005 Volume 3. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 556-560. ISBN: 80-214-2890-2."
+        },
+        {
+            "year": "2005",
+            "citation": "KRIVKA, Z. String-partitioning Systems. Proceedings of International Interdisciplinary HONEYWELL EMI 2005. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 217-221. ISBN: 80-214-2942-9."
+        },
+        {
+            "year": "2005",
+            "citation": "KRIVKA, Z.; MEDUNA, A. Random Context and Programmed Grammars of Finite Index Have The Same Generative Power. Proceedings of 8th International Conference ISIM'05 Information Systems Implementation and Modelling. 1st edition. Ostrava: Marq software s.r.o., 2005. p. 67-72. ISBN: 80-86840-09-3."
+        },
+        {
+            "year": "2004",
+            "citation": "KRIVKA, Z. Dvoucestne k-linearni N-komponentni gramaticke systemy. Proceedings of the 10th Conference and Competition STUDENT EEICT 2004 Volume 1. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2004. s. 203-205. ISBN: 80-214-2634-9."
+        },
+        {
+            "year": "2004",
+            "citation": "KRIVKA, Z. Zefektivneni syntakticke analyzy aritmetickych vyrazu. SVOC 2004 - Soutez vysokoskolaku ve vedecke odborne cinnosti v matematice. Brno: Fakulta strojniho inzenyrstvi VUT, 2004. s. 34-34."
+        },
+        {
+            "year": "2003",
+            "citation": "KRIVKA, Z. A Reduction of LR Parsing Tables for Arithmetic Expressions. Proceedings of the International Conference and Competition STUDENT EEICT 2003. Brno: Faculty of Electrical Engineering and Communication BUT, 2003. p. 326-330. ISBN: 80-214-2401-X."
+        },
+        {
+            "year": "2003",
+            "citation": "KRIVKA, Z. Redukce LR tabulek pro aritmeticke vyrazy. Proceedings of 9th Conference and Competition STUDENT EEICT 2003 Volume 1. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2003. s. 179-181. ISBN: 80-214-2377-3."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2004",
+            "title": "Zasobnikove automaty s omezenym obsahem zasobniku",
+            "metadata": "other unclassified results, 2004",
+            "authors": "KRIVKA, Z."
+        }
+    ],
+    "name": "Krivka Zbynek, Ing., Ph.D."
+}

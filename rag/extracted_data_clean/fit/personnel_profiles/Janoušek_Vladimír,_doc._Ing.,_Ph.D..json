@@ -1,0 +1,730 @@
+{
+    "contact": {
+        "department": "Department of Intelligent Systems",
+        "department_abbr": "DITS",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "janousek@fit.vut.cz",
+            "work_phone": "+420 54114 1231",
+            "room": "A303 Office",
+            "orcid_id": "0000-0002-0621-4160",
+            "scopus_author_id": "7003861080"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Intelligent Systems Research Group",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "chairman"
+        },
+        {
+            "organization": "Robotic research group Robo@FIT",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "Monday, 14:00-15:00 , B/A303 (Bozetechova 1/2, Brno 61200) je nutne se den predem ohlasit e-mailem Thursday, 14:00-15:00 , B/A303 (Bozetechova 1/2, Brno 61200) je nutne se den predem ohlasit e-mailem",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "BIO",
+                "title": "Biometric Systems",
+                "details": "Czech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "SIN",
+                "title": "Intelligent Systems",
+                "details": "Czech, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "ISD",
+                "title": "Intelligent Systems",
+                "details": "Czech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "MSD",
+                "title": "Modelling and Simulation",
+                "details": "Czech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "TOI",
+                "title": "Principles and Design of IoT",
+                "details": "Czech, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "SEM",
+                "title": "Sensors and Measurement",
+                "details": "Czech, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "SFC",
+                "title": "Soft Computing",
+                "details": "Czech, winter",
+                "department": "DITS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "BIO",
+                "title": "Biometric Systems",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "ICP",
+                "title": "The C++ Programming Language",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IJC",
+                "title": "The C Programming Language",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IP1",
+                "title": "Project Practice 1",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP2",
+                "title": "Project Practice 2",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP2e",
+                "title": "Project Practice 2 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP3",
+                "title": "Project Practice 3",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ISD",
+                "title": "Intelligent Systems",
+                "details": "Guided consultation in combined form of studies, Lecture,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IUS",
+                "title": "Introduction to Software Engineering",
+                "details": "Fundamentals seminar, Project,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "MSD",
+                "title": "Modelling and Simulation",
+                "details": "Guided consultation in combined form of studies, Lecture,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "PP1",
+                "title": "Project Practice 1",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP2",
+                "title": "Project Practice 2",
+                "details": "Project,\nCzech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP2e",
+                "title": "Project Practice 2 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "SEM",
+                "title": "Sensors and Measurement",
+                "details": "Lecture,\nCzech, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "SIN",
+                "title": "Intelligent Systems",
+                "details": "Lecture, Project,\nCzech, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "SFC",
+                "title": "Soft Computing",
+                "details": "Lecture, Project,\nCzech, winter",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Reliable, Secure, and Intelligent Computer Systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Spolehlive, bezpecne a efektivni pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Bezpecne a spolehlive pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-4014, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Spolehlivost a bezpecnost v IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2486, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Secured, reliable and adaptive computer systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-1, start: 2010-03-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Advanced Formal Approaches in the Design and Verification of Computer-Based Systems",
+            "details": "GACR, Standardni projekty, GA102/07/0322, start: 2007-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2004",
+            "title": "Automated methods and tools supporting development of reliable parallel and distributed systems",
+            "details": "GACR, Standardni projekty, GA102/04/0780, start: 2004-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Doktorsky studijni program Informacni technologie na VUT v Brne",
+            "details": "FR1833/2002/F1, start: 2002-01-01, end: 2002-12-31, completed"
+        },
+        {
+            "year": "2001",
+            "title": "Environment for Development, Modelling, and Application of Heterogeneous Systems",
+            "details": "GACR, Standardni projekty, GA102/01/1485, start: 2001-01-01, end: 2003-12-31, completed"
+        },
+        {
+            "year": "2000",
+            "title": "Modelling, Verifying, and Prototyping Distributed Applications Using Petri Nets",
+            "details": "GACR, Standardni projekty, GA102/00/1017, start: 2000-01-01, end: 2002-12-31, completed"
+        },
+        {
+            "year": "1999",
+            "title": "Temporal Properties of Models Described by Object-Oriented Petri nets",
+            "details": "FR1092/1999/G1, start: 1999-01-01, end: 2000-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Research and Applications of Heterogenous Models",
+            "details": "GACR, Standardni projekty, GA102/98/0552, start: 1998-01-01, end: 2000-12-31, completed"
+        },
+        {
+            "year": "1997",
+            "title": "Using of object-oriented Petri nets for modelling of socio-technical systems",
+            "details": "FU470006, start: 1997-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1994",
+            "title": "Methodology of Information Systems Development",
+            "details": "GACR, Standardni projekty, GA102/94/1097, start: 1994-01-01, end: 1996-12-31, completed"
+        },
+        {
+            "year": "1994",
+            "title": "PNtalk - tools based on object-oriented Petri nets",
+            "details": "BUT, Institucionalni podpora na rozvoj vyzkumne organizace, UIVT-PNtalk, start: 1994-01-01, end: 2010-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2023",
+            "citation": "KOCI, R.; JANOUSEK, V. Prerequisites for Simulation-Based Software Design and Deployment. ICSEA 2023 The Eighteenth International Conference on Software Engineering Advances. Porto: Xpert Publishing Services, 2023. p. 105-109. ISBN: 978-1-68558-098-8."
+        },
+        {
+            "year": "2021",
+            "citation": "JANOUSEK, V.; KOCI, R. On the Model Continuity in Control Systems Design Using DEVS, UML, and IEC 61499. ICSEA 2021, The Sixteenth International Conference on Software Engineering Advances. Barcelona: Xpert Publishing Services, 2021. p. 114-120. ISBN: 978-1-61208-894-5."
+        },
+        {
+            "year": "2019",
+            "citation": "KOCI, R.; JANOUSEK, V. Incorporating Petri Nets into DEVS Formalism for Precise System Modeling. ICSEA 2019, The Fourteenth International Conference on Software Engineering Advances. Valencia: Xpert Publishing Services, 2019. p. 184-189. ISBN: 978-1-61208-752-8."
+        },
+        {
+            "year": "2019",
+            "citation": "KOCI, R.; JANOUSEK, V. Possibilities of the Reverse Run of Software Systems Modeled by Petri Nets. International Journal on Advances in Software, 2019, vol. 12, no. 3, p. 191-200. ISSN: 1942-2628."
+        },
+        {
+            "year": "2018",
+            "citation": "KOCI, R.; JANOUSEK, V. Tracing and Reversing the Run of Software Systems Implemented by Petri Nets. In Software Engineering Advances. Nice: Xpert Publishing Services, 2018. p. 122-127. ISBN: 978-1-61208-668-2."
+        },
+        {
+            "year": "2018",
+            "citation": "RICHTA, T.; JANOUSEK, V.; NIKDO, N. Domain Specific Modelling for Reconfigurable Distributed Embedded Control Systems. ACIIDS 2018. Brno: Faculty of Electrical Engineering, Czech Technical University, 2018. p. 447-452. ISBN: 978-80-214-5543-6."
+        },
+        {
+            "year": "2017",
+            "citation": "KOCI, R.; JANOUSEK, V. Validation of Specification Models Based on Petri Nets. Software Engineering Advances. Ateny: Xpert Publishing Services, 2017. p. 232-237. ISBN: 978-1-61208-590-6."
+        },
+        {
+            "year": "2017",
+            "citation": "KOCI, R.; JANOUSEK, V. Specification of Requirements Using Unified Modeling Language and Petri Nets. International Journal on Advances in Software, 2017, vol. 10, no. 12, p. 121-131. ISSN: 1942-2628."
+        },
+        {
+            "year": "2017",
+            "citation": "PAVLAT, J.; RICHTA, K.; RICHTA, T.; JANOUSEK, V. Model Transformations via XSLT. In DATESO 2017. Praha: Faculty of Electrical Engineering, Czech Technical University, 2017. p. 43-54. ISBN: 978-80-01-06138-1."
+        },
+        {
+            "year": "2017",
+            "citation": "RICHTA, T.; JANOUSEK, V. Data-Driven Maritime Processes Management Using Executable Models. In Computer Aided Systems Theory - EUROCAST 2017. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Berlin Heidelberg: Springer Verlag, 2017. p. 134-141. ISBN: 978-3-319-74726-2."
+        },
+        {
+            "year": "2016",
+            "citation": "KOCI, R.; JANOUSEK, V. Modeling System Requirements Using Use Cases and Petri Nets. ThinkMind ICSEA 2016, The Eleventh International Conference on Software Engineering Advances. Rim: Xpert Publishing Services, 2016. p. 160-165. ISBN: 978-1-61208-498-5."
+        },
+        {
+            "year": "2015",
+            "citation": "KOCI, R.; JANOUSEK, V. The Object Oriented Petri Net Component Model. The Tenth International Conference on Software Engineering Advances. Barcelona: Xpert Publishing Services, 2015. p. 18-24. ISBN: 978-1-61208-438-1."
+        },
+        {
+            "year": "2015",
+            "citation": "RICHTA, T.; JANOUSEK, V.; KOCI, R. Dynamic Software Architecture for Distributed Embedded Control Systems. In PNSE 2015 Petri Nets and Software Engineering. CEUR workshop proceedings. CEUR Workshop Proceedings. Bruxelles: CEUR-WS.org, 2015. no. 07, p. 133-150. ISSN: 1613-0073."
+        },
+        {
+            "year": "2014",
+            "citation": "KOCI, R.; JANOUSEK, V. System Composition Using Petri Nets and DEVS Formalisms. The Ninth International Conference on Software Engineering Advances. Nice: Xpert Publishing Services, 2014. p. 309-315. ISBN: 978-1-61208-367-4."
+        },
+        {
+            "year": "2014",
+            "citation": "KOCI, R.; JANOUSEK, V. Formal Models in Software Development and Deployment: A Case Study. International Journal on Advances in Software, 2014, vol. 7, no. 1, p. 266-276. ISSN: 1942-2628."
+        },
+        {
+            "year": "2014",
+            "citation": "POLASEK, P.; JANOUSEK, V.; CESKA, M. Petri Net Simulation as a Service. In CEUR Workshop Proceedings. CEUR workshop proceedings. Tunisia: CEUR-WS.org, 2014. no. 1160, p. 353-362. ISSN: 1613-0073."
+        },
+        {
+            "year": "2013",
+            "citation": "JANOUSEK, V.; RICHTA, T. Operating System for Petri Nets-Specified Reconfigurable Embedded Systems. Proceedings of the 14th Computer Aided Systems Theory. Las Palmas de Grand Canaria: The Universidad de Las Palmas de Gran Canaria, 2013. p. 248-249. ISBN: 978-84-695-6971-9."
+        },
+        {
+            "year": "2013",
+            "citation": "KOCI, R.; JANOUSEK, V. Object Oriented Petri Nets in Software Development and Deployment. ICSEA 2013, The Eighth International Conference on Software Engineering Advances. Venice: Xpert Publishing Services, 2013. p. 485-490. ISBN: 978-1-61208-304-9."
+        },
+        {
+            "year": "2013",
+            "citation": "RICHTA, T.; JANOUSEK, V. Operating System for Petri Nets-Specified Reconfigurable Embedded Systems. Computer Aided Systems Theory - EUROCAST 2013. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2013. p. 444-451. ISBN: 978-3-642-53855-1."
+        },
+        {
+            "year": "2013",
+            "citation": "RICHTA, T.; JANOUSEK, V.; KOCI, R. Petri Nets-Based Development of Dynamically Reconfigurable Embedded Systems. CEUR workshop proceedings, 2013, vol. 2013, no. 989, p. 203-217. ISSN: 1613-0073."
+        },
+        {
+            "year": "2012",
+            "citation": "KOCI, R.; JANOUSEK, V. Specification of UML Classes by Object Oriented Petri Nets. ICSEA 2012, The Seventh International Conference on Software Engineering Advances. Lisbon: Xpert Publishing Services, 2012. p. 361-366. ISBN: 978-1-61208-230-1."
+        },
+        {
+            "year": "2012",
+            "citation": "KOCI, R.; JANOUSEK, V. Modeling and Simulation-Based Design Using Object-Oriented Petri Nets: A Case Study. CEUR workshop proceedings, 2012, vol. 851, no. 06, p. 253-266. ISSN: 1613-0073."
+        },
+        {
+            "year": "2012",
+            "citation": "RICHTA, T.; JANOUSEK, V.; KOCI, R. Code Generation For Petri Nets-Specified Reconfigurable Distributed Control Systems. Proceedings of 15th International Conference on Mechatronics - Mechatronika 2012. Praha: Faculty of Electrical Engineering, Czech Technical University, 2012. p. 263-269. ISBN: 978-80-01-04985-3."
+        },
+        {
+            "year": "2011",
+            "citation": "JANOUSEK, V. Simulace a navrh vyvijejicich se systemu. Brno: Fakulta informacnich technologii VUT v Brne, 2011. 123 s. ISBN: 978-80-214-4414-0."
+        },
+        {
+            "year": "2011",
+            "citation": "KOCI, R.; JANOUSEK, V. On the Simulation-Based Development of Systems Using Petri Nets. Proceedings of the 13th International Conference on Computer Aided Systems Theory. Las Palmas de Gran Canaria: The Universidad de Las Palmas de Gran Canaria, 2011. p. 1-2. ISBN: 978-84-693-9560-8."
+        },
+        {
+            "year": "2011",
+            "citation": "KOCI, R.; JANOUSEK, V. Towards Design Method Based on Formalisms of Petri Nets, DEVS, and UML. ICSEA 2011, The Sixth International Conference on Software Engineering Advances. Barcelona: Xpert Publishing Services, 2011. p. 299-304. ISBN: 978-1-61208-165-6."
+        },
+        {
+            "year": "2010",
+            "citation": "KOCI, R.; JANOUSEK, V. OOPN and DEVS Formalisms for System Specification and Analysis. The Fifth International Conference on Software Engineering Advances. Los Alamitos: IEEE Computer Society, 2010. p. 305-310. ISBN: 978-0-7695-4144-0."
+        },
+        {
+            "year": "2010",
+            "citation": "KOCI, R.; JANOUSEK, V.; ZBORIL, F. Object Oriented Petri Nets - Modelling Techniques Case Study. International Journal of Simulation Systems, Science & Technology, 2010, vol. 10, no. 3, p. 32-44. ISSN: 1473-8031."
+        },
+        {
+            "year": "2010",
+            "citation": "KVETONOVA, S.; JANOUSEK, V. Rizeni a optimalizace zdroju v projektech s vyuzitim formalniho aparatu Petriho siti. In Sedesat let kybernetiky. Brno: Akademicke nakladatelstvi CERM sro., 2010. s. 119-125. ISBN: 978-80-7204-662-1."
+        },
+        {
+            "year": "2010",
+            "citation": "ZAK, J.; ZBORIL, F.; KOCI, R.; JANOUSEK, V. Connecting Jade with PN agent. Proceedings of Seventh EUROSIM Congress on Modelling and Simulation. Vol. 2. Prague: Czech Technical University Publishing House, 2010. p. 97-105. ISBN: 978-80-01-04589-3."
+        },
+        {
+            "year": "2009",
+            "citation": "CESKA, M.; HYSEK, J.; JANOUSEK, V. Model-Based Design and Verification of Reactive Systems. Lecture Notes in Computer Science, 2009, vol. 2009, no. 5717, p. 865-872. ISSN: 0302-9743."
+        },
+        {
+            "year": "2009",
+            "citation": "HYSEK, J.; CESKA, M.; JANOUSEK, V. Model-Based Design and Verification of Reactive Systems. Computer Aided Systems Theory. Las Palmas de Gran Canaria: 2009. p. 295-296. ISBN: 978-84-691-8502-5."
+        },
+        {
+            "year": "2009",
+            "citation": "JANOUSEK, V. Simulace a navrh vyvijejicich se systemu. Brno, CZ: Fakulta informacnich technologii VUT v Brne, 2009. 122 s."
+        },
+        {
+            "year": "2009",
+            "citation": "JANOUSEK, V.; KIRONSKY, E. Interactive evolutionary modelling and simulation of discrete-event systems using prototypical objects. International Journal of Autonomic Computing, 2009, vol. 1, no. 2, p. 104-120. ISSN: 1741-8569."
+        },
+        {
+            "year": "2009",
+            "citation": "JANOUSEK, V.; KVETONOVA, S. On the Multilevel Petri Nets-Based Models in Project Engineering. International Workshop on Petri Nets and Software Engineering 2009. Pariz: University of Pierre and Marie Curie, 2009. p. 173-188."
+        },
+        {
+            "year": "2009",
+            "citation": "KOCI, R.; JANOUSEK, V. On the Dynamic Features of PNtalk. International Workshop on Petri Nets and Software Engineering 2009. Pariz: University of Pierre and Marie Curie, 2009. p. 189-206."
+        },
+        {
+            "year": "2009",
+            "citation": "KOCI, R.; JANOUSEK, V. Simulation Based Design of Control Systems Using DEVS and Petri Nets. Computer Aided Systems Theory - EUROCAST 2009. Lecture Notes in Computer Science, Volume 5717. Berlin: Springer Verlag, 2009. p. 849-856. ISBN: 978-3-642-04771-8."
+        },
+        {
+            "year": "2009",
+            "citation": "KOCI, R.; JANOUSEK, V. Simulation Based Design of Control Systems using DEVS and Petri Nets. Computer Aided Systems Theory. Las Palmas de Gran Canaria: The Universidad de Las Palmas de Gran Canaria, 2009. p. 291-292. ISBN: 978-84-691-8502-5."
+        },
+        {
+            "year": "2009",
+            "citation": "KOCI, R.; JANOUSEK, V. Towards Simulation-Based Design of the Software Systems. The Fourth International Conference on Software Engineering Advances. Los Alamitos: IEEE Computer Society, 2009. p. 452-457. ISBN: 978-1-4244-4779-4."
+        },
+        {
+            "year": "2009",
+            "citation": "KVETONOVA, S.; JANOUSEK, V. Object-Oriented Petri Nets-Based Modeling of Resources in Project Engineering. Computer Aided Systems Theory - EUROCAST 2009. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2009. p. 841-848. ISBN: 978-3-642-04771-8."
+        },
+        {
+            "year": "2009",
+            "citation": "KVETONOVA, S.; JANOUSEK, V. Object-Oriented Petri Nets-Based Modeling of Resources in Project Engineering. Computer Aided Systems Theory. Las Palmas de Gran Canaria: The Universidad de Las Palmas de Gran Canaria, 2009. p. 289-290. ISBN: 978-84-691-8502-5."
+        },
+        {
+            "year": "2009",
+            "citation": "MAZAL, Z.; KOCI, R.; JANOUSEK, V.; ZBORIL, F. Modelling intelligent agents for autonomic computing in the PNagent framework. International Journal of Autonomic Computing, 2009, vol. 1, no. 2, p. 121-139. ISSN: 1741-8569."
+        },
+        {
+            "year": "2009",
+            "citation": "ZBORIL, F.; JANOUSEK, V.; KOCI, R.; MAZAL, Z.; ZBORIL, F. Framework for model-based design of mullti-agent systems. International Journal of Autonomic Computing, 2009, vol. 1, no. 2, p. 140-162. ISSN: 1741-8569."
+        },
+        {
+            "year": "2008",
+            "citation": "JANOUSEK, V. Modelovani objektu Petriho sitemi. Brno: Fakulta informacnich technologii VUT v Brne, 2008. 164 s. ISBN: 978-80-214-3749-4."
+        },
+        {
+            "year": "2008",
+            "citation": "JANOUSEK, V.; KIRONSKY, E. Reflective Framework for Interactive Modeling and Simulation of Intelligent Systems. Proceedings of Nineteenth International Conference on Systems Engineering 19-21 August 2008 Las Vegas, Nevada. Los Alamitos: IEEE Computer Society, 2008. p. 480-485. ISBN: 978-0-7695-3331-5."
+        },
+        {
+            "year": "2008",
+            "citation": "JANOUSEK, V.; KIRONSKY, E. Small Robotic Systems Design Using Interactive Modeling and Simulation. Proceedings of the 14th International Congress of Cybernetics and Systems of WOCS. Wroclaw: Wroclaw University of Technology, 2008. p. 1-9. ISBN: 978-83-7493-400-8."
+        },
+        {
+            "year": "2008",
+            "citation": "JANOUSEK, V.; KOCI, R. The PNtalk/SmallDEVS Framework -- Meta-level Modeling Techniques. Proceedings of CSE 2008 International Scientific Conference on Computer Science and Engineering. Kosice: elfa, s.r.o., TU Kosice, 2008. p. 16-23. ISBN: 978-80-8086-092-9."
+        },
+        {
+            "year": "2008",
+            "citation": "JANOUSEK, V.; KOCI, R.; MAZAL, Z.; ZBORIL, F. PNagent: a Framework for Modelling BDI Agents using Object Oriented Petri Nets. Proceedings of 8th ISDA. Los Alamitos: IEEE Computer Society, 2008. p. 420-425. ISBN: 978-0-7695-3382-7."
+        },
+        {
+            "year": "2008",
+            "citation": "JANOUSEK, V.; KVETONOVA, S. Object Oriented Petri Nets Usage in Project Portfolio Modeling Domain. Proceedings of 22th European Simulation and Modelling Conference ESM'2008. France: EUROSIS, 2008. p. 1-7. ISBN: 978-90-77381-44-1."
+        },
+        {
+            "year": "2008",
+            "citation": "KOCI, R.; JANOUSEK, V. System Design with Object Oriented Petri Nets Formalism. The Third International Conference on Software Engineering Advances Proceedings ICSEA 2008. Los Alamitos: IEEE Computer Society, 2008. p. 421-426. ISBN: 978-0-7695-3372-8."
+        },
+        {
+            "year": "2008",
+            "citation": "KOCI, R.; JANOUSEK, V.; ZBORIL, F. Object Oriented Petri Nets -- Modelling Techniques Case Study. Second UKSIM European Symposium on Computer Modeling and Simulation. Liverpool: IEEE Computer Society, 2008. p. 165-170. ISBN: 978-0-7695-3325-4."
+        },
+        {
+            "year": "2008",
+            "citation": "KVETONOVA, S.; JANOUSEK, V. Vyuziti OOPN v oblasti modelovani projektoveho portfolia. Proceedings of of Advanced Simulation of Systems 2008 - ASIS 08. Ostrava: 2008. s. 174-179. ISBN: 978-80-86840-42-0."
+        },
+        {
+            "year": "2008",
+            "citation": "MAZAL, Z.; JANOUSEK, V.; KOCI, R. Enhancing the PNtalk Language with Negative Predicates. MOSIS '08. Ostrava: Marq software s.r.o., 2008. p. 28-34. ISBN: 978-80-86840-40-6."
+        },
+        {
+            "year": "2008",
+            "citation": "POLASEK, P.; JANOUSEK, V. Modeling and Simulation Management in Distributed Environment Using Web Services. Proceedings of the 14th International Congress of Cybernetics and Systems of WOCS. Wroclaw: Wroclaw University of Technology, 2008. p. 1-9. ISBN: 978-83-7493-400-8."
+        },
+        {
+            "year": "2008",
+            "citation": "ZBORIL, F.; KOCI, R.; JANOUSEK, V.; MAZAL, Z. Reactive Planning with Weak Plan Instances. Proceedings of 8th ISDA. Los Alamitos: IEEE Computer Society, 2008. p. 643-648. ISBN: 978-0-7695-3382-7."
+        },
+        {
+            "year": "2008",
+            "citation": "ZBORIL, F.; KOCI, R.; ZBORIL, F.; JANOUSEK, V.; MAZAL, Z. T-Mass v.2, State of the art. Second UKSIM European Symposium on Computer Modeling and Simulation. Liverpool: IEEE Computer Society, 2008. p. 240-245. ISBN: 978-0-7695-3325-4."
+        },
+        {
+            "year": "2007",
+            "citation": "JANOUSEK, V.; KIRONSKY, E.; POLASEK, P. An Architecture for Simulation-Based Evolutionary Design of Systems. Proceedings of the 16th International Conference on System Science. Systems Science 2007, volume 1. Wroclaw: Wroclaw University of Technology, 2007. p. 396-405. ISBN: 978-83-7493-339-1."
+        },
+        {
+            "year": "2007",
+            "citation": "JANOUSEK, V.; KOCI, R. Embedding Object-Oriented Petri Nets into a DEVS-based Simulation Framework. Proceedings of the 16th International Conference on System Science. volume 1. Wroclaw: Wroclaw University of Technology, 2007. p. 386-395. ISBN: 978-83-7493-339-1."
+        },
+        {
+            "year": "2007",
+            "citation": "JANOUSEK, V.; KOCI, R. Simulation and Design of Systems with Object Oriented Petri Nets. Proceedings of the 6th EUROSIM Congress on Modelling and Simulation. Ljubljana: ARGE Simulation News, 2007. p. 1-9. ISBN: 978-3-901608-32-2."
+        },
+        {
+            "year": "2007",
+            "citation": "JANOUSEK, V.; KOCI, R.; ZBORIL, F. Towards Modeling Rational Agents with Object Oriented Petri Nets. Proceedings of the Workshop on Petri Nets and Software Engineering. Siedlce: 2007. p. 244-245. ISBN: 978-83-7051-427-3."
+        },
+        {
+            "year": "2007",
+            "citation": "KOCI, R.; MAZAL, Z.; ZBORIL, F.; JANOUSEK, V. Modeling Deliberative Agents Using Object Oriented Petri Nets. Proceedings of the 7th ISDA. Los Alamitos: IEEE Computer Society, 2007. p. 15-20. ISBN: 0-7695-2976-3."
+        },
+        {
+            "year": "2006",
+            "citation": "CESKA, M.; JANOUSEK, V.; KOCI, R.; KRENA, B.; VOJNAR, T. PNtalk: State of the Art. Proceedings of the Fourth International Workshop on Modelling of Objects, Components, and Agents. Hamburg: 2006. p. 301-307."
+        },
+        {
+            "year": "2006",
+            "citation": "JANOUSEK, V. On the Prototype-Based Object Orientation in Modeling and Simulation. Proceedings of of Advanced Simulation of Systems 2006. Ostrava: Marq software s.r.o., 2006. p. 1-6. ISBN: 80-86840-26-3."
+        },
+        {
+            "year": "2006",
+            "citation": "JANOUSEK, V.; KIRONSKY, E. Exploratory Modeling with SmallDEVS. Proc. of ESM 2006. Ghent: EUROSIS, 2006. p. 122-126. ISBN: 90-77381-30-9."
+        },
+        {
+            "year": "2006",
+            "citation": "JANOUSEK, V.; KIRONSKY, E. SmallDEVS, an Interactive Modeling and Simulation Tool for Smalltalk. Proc. of MOSIS'06. Ostrava: Marq software s.r.o., 2006. p. 91-98. ISBN: 80-86840-21-2."
+        },
+        {
+            "year": "2006",
+            "citation": "JANOUSEK, V.; KOCI, R. Formalni modely a simulace ve vyvoji softwarovych systemu. Proceedings of ASIS'06. Ostrava: Marq software s.r.o., 2006. s. 164-169. ISBN: 8086840263."
+        },
+        {
+            "year": "2006",
+            "citation": "JANOUSEK, V.; POLASEK, P.; SLAVICEK, P. Metajazyk pro popis DEVS formalismu. NETSS 2006. Ostrava: Marq software s.r.o., 2006. s. 43-48. ISBN: 80-86840-06-9."
+        },
+        {
+            "year": "2006",
+            "citation": "JANOUSEK, V.; POLASEK, P.; SLAVICEK, P. Towards DEVS Meta Language. ISC 2006 Proceedings. Zwijnaarde: 2006. p. 69-73. ISBN: 90-77381-26-0."
+        },
+        {
+            "year": "2005",
+            "citation": "JANOUSEK, V.; KOCI, R. PNtalk Project: Current Research Direction. Simulation Almanac 2005. Praha: Faculty of Electrical Engineering, Czech Technical University, 2005. p. 50-62. ISBN: 80-01-03322-8."
+        },
+        {
+            "year": "2005",
+            "citation": "JANOUSEK, V.; KOCI, R. Towards Model-Based Design with PNtalk. Proceedings of the International Workshop MOSMIC'2005. Zilina: Faculty of management science and Informatics of Zilina University, 2005. p. 59-66. ISBN: 80-8070-468-6."
+        },
+        {
+            "year": "2005",
+            "citation": "JANOUSEK, V.; SLAVICEK, P. Concept for the parallel road-traffic simulation. Proceedings of MOSIS'05. Ostrava: Marq software s.r.o., 2005. p. 123-128. ISBN: 80-86840-10-7."
+        },
+        {
+            "year": "2005",
+            "citation": "SCHWARZ, I.; CESKA, M.; JANOUSEK, V. Towards an Implementation of Distributed PNtalk. Proceedings of 39th Spring International Conference MOSIS'05 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2005. p. 166-173. ISBN: 80-86840-10-7."
+        },
+        {
+            "year": "2004",
+            "citation": "HRUBY, M.; JANOUSEK, V.; KOCI, R. Vyvoj pokrocilych metod modelovani a protypovani komplikovanych systemu. NETSS2004. Ostrava: Marq software s.r.o., 2004. s. 103-108. ISBN: 80-85988-92-5."
+        },
+        {
+            "year": "2004",
+            "citation": "JANOUSEK, V.; KOCI, R. Towards an Open Implementation of the PNtalk System. Proceedings of the 5th EUROSIM Congress on Modeling and Simulation. Proceedings of the 5th Eurosim Congress on Modelling and Simulation. Paris: EUROSIM-FRANCOSIM-ARGESIM, 2004. p. 31-36. ISBN: 3-901608-28-1."
+        },
+        {
+            "year": "2003",
+            "citation": "JANOUSEK, V.; KOCI, R. PNtalk: Concurrent Language with MOP. Proceedings of the CS&P'2003 Workshop. Warsawa: Warsaw University, 2003. p. 271-282. ISBN: 83-88374-71-0."
+        },
+        {
+            "year": "2003",
+            "citation": "JANOUSEK, V.; SLAVICEK, P. Heterogenni simulace na bazi DEVS. Proceedings of XXVth International Autumn Colloquium ASIS 2003. Ostrava: Marq software s.r.o., 2003. s. 213-218. ISBN: 80-58988-88-7."
+        },
+        {
+            "year": "2002",
+            "citation": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Modelling, prototyping, and verifying concurrent and distributed applications using object-oriented Petri nets. KYBERNETES, 2002, vol. 2002, no. 9, p. 1289-1299. ISSN: 0368-492X."
+        },
+        {
+            "year": "2002",
+            "citation": "JANOUSEK, V.; KOCI, R. PNtalk - An Open System for Prototyping and Simulation. Proceedings of The 28th ASU Conference. ASU Newsletter. Brno: Faculty of Information Technology BUT, 2002. no. 9, p. 133-146. ISSN: 1102-593X."
+        },
+        {
+            "year": "2001",
+            "citation": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Analysis and Verification Queries over Object-Oriented Petri Nets. Formal Methods and Tools for Computer Science, Eurocast 2001, Extended Abstracts. Las Palmas de Gran Canaria, Canary Islands, Spain: University of Las Palmas, 2001. p. 115-118. ISBN: 84-699-3971-8."
+        },
+        {
+            "year": "2001",
+            "citation": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Analysis and Verification Queries over Object-Oriented Petri Nets. Lecture Notes in Computer Science, 2001, vol. 2001, no. 2178, p. 365-384. ISSN: 0302-9743."
+        },
+        {
+            "year": "2001",
+            "citation": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Generating and Using State Spaces of Object-Oriented Petri Nets. COMPUTER SYSTEMS SCIENCE AND ENGINEERING, 2001, vol. 16, no. 3, p. 183-193. ISSN: 0267-6192."
+        },
+        {
+            "year": "2001",
+            "citation": "JANOUSEK, V.; SCHWARZ, I. Interoperability of Object Oriented Petri Nets. Proc. of MOSIS'01. Ostrava, Czech Republic: Marq software s.r.o., 2001. p. 137-144. ISBN: 80-85988-57-7."
+        },
+        {
+            "year": "2000",
+            "citation": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Generating and Exploiting State Spaces of Object-Oriented Petri Nets. Proceedings of Workshop on Software Engineering and Petri Nets, 21st International Conference on Application and Theory of Petri Nets 2000. DAIMI PB. Aarhus: unknown, 2000. no. DAIMI PB, p. 35-54. ISSN: 0105-8517."
+        },
+        {
+            "year": "2000",
+            "citation": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. PNtalk Modelling Experience. Proceedings of 26th ASU Conference, Object Oriented Modelling and Simulation 2000. La Valetta: unknown, 2000. p. 65-73."
+        },
+        {
+            "year": "2000",
+            "citation": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Towards Verifying Distributed Systems Using Object-Oriented Petri Nets. Lecture Notes in Computer Science, 2000, vol. 2000, no. 1798, p. 90-104. ISSN: 0302-9743."
+        },
+        {
+            "year": "2000",
+            "citation": "RABOVA, Z.; JANOUSEK, V.; PERINGER, P.; VOJNAR, T. An Environment for Building Heterogeneous Models. Proceedings of MOSIS 2000. Roznov: Marq software s.r.o., 2000. p. 89-94. ISBN: 80-85988-44-5."
+        },
+        {
+            "year": "1999",
+            "citation": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Towards Verifying Complex Distributed Systems Using Object-Oriented Petri Nets. Proceedings of the 7th International Conference on Computer Aided Systems Theory and Technology -- EUROCAST'99. Vienna: unknown, 1999. p. 229-232."
+        },
+        {
+            "year": "1999",
+            "citation": "JANOUSEK, V. Synchronous Interactions of Objects in Object Oriented Petri Nets. Proc. of MOSIS'99. Ostrava, Czech Republic: Marq software s.r.o., 1999. p. 73-80. ISBN: 80-85988-32-1."
+        },
+        {
+            "year": "1998",
+            "citation": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Object-Oriented Petri Nets, Their Simulation, and Analysis. Proceedings of the IEEE SMC'98 Conference. Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics. San Diego, California: unknown, 1998. no. IEEE Cat, p. 256-261. ISBN: 0-7803-4781-1. ISSN: 1062-922X."
+        },
+        {
+            "year": "1998",
+            "citation": "JANOUSEK, V. Modelovani objektu Petriho sitemi. Brno: Ustav informatiky a vypocetni techniky FEI VUT, 1998. 132 s."
+        },
+        {
+            "year": "1998",
+            "citation": "JANOUSEK, V.; VOJNAR, T. Modelling a Flexible Manufacturing System. Proceedings of 32nd Spring International Conference on Modelling and Simulation of Systems MOSIS'98. Sv. Hostyn: Marq software s.r.o., 1998. p. 195-200. ISBN: 80-85988-23-2."
+        },
+        {
+            "year": "1998",
+            "citation": "JANOUSEK, V.; VOJNAR, T. State Spaces of Object-Oriented Petri Nets. Proceedings of MFCS'98 Workshop on Concurrency. Brno: unknown, 1998. no. FIMU-RS-, p. 87-96."
+        },
+        {
+            "year": "1997",
+            "citation": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. PNtalk - A Computerized Tool for Object Oriented Petri Nets Modelling. Proceedings of the 5th International Conference on Computer Aided Systems Theory and Technology -- EUROCAST'97. Las Palmas de Gran Canaria: unknown, 1997. p. 229-231. ISBN: 84-88912-04-8."
+        },
+        {
+            "year": "1997",
+            "citation": "JANOUSEK, V. Reflective Approach to Petri Net Simulation. Proc. of MOSIS'97. Ostrava: Marq software s.r.o., 1997. p. 209-304. ISBN: 80-85988-16-X."
+        },
+        {
+            "year": "1996",
+            "citation": "JANOUSEK, V.; SMID, L.; VOJNAR, T. PNtalk - system pro objektove orientovane modelovani Petriho sitemi. Proceedings of 18th International Workshop on Advanced Simulation of Systems ASS'96. Zabreh na Morave: Marq software s.r.o., 1996. s. 247-252. ISBN: 80-85988-10-0."
+        },
+        {
+            "year": "1995",
+            "citation": "JANOUSEK, V. Functional and Object Oriented Structuring of Petri Nets. Proceesdings of Computer Science. Ostrava: unknown, 1995. p. 44-47."
+        },
+        {
+            "year": "1995",
+            "citation": "JANOUSEK, V. PNtalk: Object Orientation in Petri nets. Proc. of European Simulation Multiconference ESM'95. Prague: unknown, 1995. p. 196-200."
+        },
+        {
+            "year": "1994",
+            "citation": "CESKA, M.; DRABANT, R.; JANOUSEK, V. An Integrated Environment for System Specification and Prototyping. Proc. of the 12th International Conference on Systems Science. Wroclav: unknown, 1994. p. 53-60."
+        },
+        {
+            "year": "1994",
+            "citation": "JANOUSEK, V. Merging Petri Nets and Objects. SOFSEM'94. Brno: unknown, 1994. p. 45-50."
+        },
+        {
+            "year": "1994",
+            "citation": "JANOUSEK, V. OOPN:A High-Level Language for Modeling and Simulation. MMOSIS'94. Ostrava: neznama, 1994. s. 320-325. ISBN: 80-901229-8-1."
+        },
+        {
+            "citation": "CESKA, M., JANOUSEK, V. Formal Model for Object Oriented Petri Nets Modelling. Advances in System Science and Applications, vol. Spetial Is, no. 1-6, 1 p. ISSN: 1078-6236."
+        },
+        {
+            "citation": "CESKA, M., JANOUSEK, V. Object Orientation in Petri Nets. ASU Newsletter, vol. 1996, no. spec.issue, 1 p. ISSN: 1102-593X."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2003",
+            "title": "PNtalk system (v. 96)",
+            "metadata": "testing, 2003",
+            "authors": "JANOUSEK, V.; VOJNAR, T."
+        },
+        {
+            "year": "1992",
+            "title": "Modelovani a simulace",
+            "metadata": "course reader, 1992",
+            "authors": "RABOVA, Z.; ZENDULKA, J.; CESKA, M.; PERINGER, P.; JANOUSEK, V."
+        }
+    ],
+    "name": "Janousek Vladimir, doc. Ing., Ph.D."
+}

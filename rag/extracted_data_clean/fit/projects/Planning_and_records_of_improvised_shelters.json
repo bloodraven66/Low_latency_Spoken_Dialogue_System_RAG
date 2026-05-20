@@ -1,0 +1,41 @@
+{
+    "project": "Planning and records of improvised shelters",
+    "title": "Planovani a evidence improvizovanych ukrytu",
+    "metadata": {
+        "project_period": "1. 1. 2023 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "VK01030082",
+        "agency": "Ministry of the Interior of the Czech Republic",
+        "program": "1 VS OPSEC"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Planning and records of improvised shelters"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "improvised shelter, methodology, software, FRS CR"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The main goal of the project is to create a certified methodology and software for identification, documentation and registration of improvised shelters in the municipality. The developed methodology and software will be intended for use by municipalities in the selection of improvised shelters in their territory. At the level of the Fire and Rescue Service of the Czech Republic, they will be used for central registration and advanced evaluation of the quality of selected improvised shelters and their classification into predefined categories according to the degree of protection provided. A secondary goal of the project is to test the developed methodology and software on a set of five selected municipalities. The results of this testing will then be published in a monograph and will serve as an example of good practice for use by other municipalities. The originality of the project proposal lies in a comprehensive approach to the issue of improvised hiding, which is still lacking in methodological documents in the Czech Republic. The proposed certified methodology will thus include all the steps necessary to determine, evaluate and record improvised shelters in the municipality, including their subsequent digitization (see Methodology). An important element will also be the supplementation of the certified methodology with accompanying software and a monograph with examples of the use of the methodology in solving shelters in the territory of specific municipalities. The division of methodology and software into two user levels can be considered innovative: 1) basic level for users without professional education at individual municipal authorities; 2) advanced level for central evaluation and registration of improvised shelters at the level of organizational units of the Fire and Rescue Service of the Czech Republic. The above solution is to ensure that the methodology will be easy to apply for municipalities and will not bring them unnecessary additional administration (all documentation will be generated automatically using the created software based on the entered data). This simplicity is intended to motivate municipalities to plan improvised shelters in their territory more widely."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM) \u2013 research leader Barina David, Ing., Ph.D. (DCGM) Gadorek Petr, Ing. (DFIT-ISD) Klima Ondrej, Ing., Ph.D. (DCGM) Kreslik Frantisek, Ing. (CVT) Kuchynka Marek, Ing. (DFIT-ISD)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- DOHNAL, F.; ZEMAN, T.; BARTA, J.; PUPIKOVA, J.; KINCL, P.; HUBACEK, M.; STOLLER, J.; KLIMA, O.; BARINA, D.; KUDLAK, A.; RAK, J.; HUDYMA, N.; PAULUS, F. Ukryti obyvatelstva pred nebezpecim. Brno: Univerzita obrany, 2025. 119 s. ISBN: 978-80-7609-023-1. Detail"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- Vyukovy software pro pripravu improvizovaneho ukrytu a pripravu na sebeochranu improvizovanym ukrytim , software, 2025 Authors : KLIMA, O.; BARINA, D.; BARTA, S."
+        }
+    }
+}

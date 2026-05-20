@@ -1,0 +1,35 @@
+{
+    "group1": [
+        ["data_mix_4__fc2560_transformer_mimi_12.5hz_loss1-01_m3", "2560"],
+        ["data_mix_4__fc960_transformer_mimi_12.5hz_loss1-01_m3", "960"]
+    ],
+    "group7": [
+        ["data_mix_2__fc_transformer_nemo_12.5hz_loss1-01_m3", "fconf_640"],
+        ["data_mix_2__fc_transformer_mimi_12.5hz_loss1-01_m3", "mimi_640"],
+        ["data_mix_2__fc960_transformer_nemo_12.5hz_loss1-01_m3", "fconf_960"],
+        ["data_mix_2__fc960_transformer_mimi_12.5hz_loss1-01_m3", "mimi_960"]
+    ],
+    "group4": [
+        ["data_mix_2__fcall_transformer_mimi_12.5hz_loss1-01_m3", "mimi_all"]
+    ],
+    "group8": [
+        ["data_mix_4__fcall_transformer_mimi_12.5hz_loss1-01_m3", "mimi_all", "orange"],
+        ["data_mix_4__fc1280_transformer_mimi_12.5hz_loss1-01_m3", "mimi_1280", "orange"],
+        ["data_mix_4__fc960_transformer_mimi_12.5hz_loss1-01_m3", "mimi_960", "#0d0787"]
+    ],
+    "group10": [
+        ["data_mix_4__fc1280_transformer_mimi_12.5hz_loss1-01_m3", "mimi_1280", "orange"],
+        ["data_mix_4__fc960_transformer_mimi_12.5hz_loss1-01_m3", "mimi_960", "#0d0787"]
+    ],
+    "group9": [
+        ["save_results12", "VAP_XX", ["#0d0787"]],
+        ["save_results01", "VAP_XX", ["orange"]]
+    ],
+
+    "group2": [
+        ["data_mix_2__fcall_transformer_nemo_12.5hz_loss1-01_m3", "fconf_XX"]
+    ],
+    "group3": [
+        ["data_mix_2__fcall_sh_transformer_nemo_12.5hz_loss1-01_m3", "fconfsh_XX"]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "publication": "KRAVIC, N.; PAJEVIC, I.; HASANOVIC, M.; DE LEON MARTINEZ, S.; NIEDERKROTENTHALER, T.; VORACEK, M.; DERVIC, K. War orphan age at father loss and resilience in late adolescence. Wiener klinische Wochenschrift, 2026, no. January 2026, 8 p. Detail POLOK, A.; KLEMENT, D.; KOCOUR, M.; HAN, J.; LANDINI, F.; YUSUF, B.; WIESNER, M.; KHUDANPUR, S.; CERNOCKY, J.; BURGET, L. DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition. COMPUTER SPEECH AND LANGUAGE, 2026, vol. 95, no. 1, p. 1-19. Detail RYDLO, S.; ORSAG, F.; GOLDMANN, T.; KOLAR, D. Finger Vein Identification Using Pretrained Feature Matching Networks. IEEE Access, 2026, no. VOLUME 14, 2026, p. 23814-23823. Detail THORBECKE, I.; VILLATORO-TELLO, E.; ZULUAGA, J.; KUMAR, S.; BURDISSO, S.; RANGAPPA, P.; CAROFILIS, A.; MADIKERI, S.; MOTLICEK, P.; PANDIA, K.; HACIOGLU, K.; STOLCKE, A. Unifying Global and Near-Context Biasing in a Single Trie Pass. In Lecture Notes in Artificial Intelligence. Lecture Notes in Computer Science. CHAM: Springer Nature, 2026. p. 170-181. ISBN: 978-3-032-02547-0. Detail VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7. Detail VOJNAR, T.; ZHANG, L. Tools and algorithms for the construction and analysis of systems: a special issue for TACAS 2019. International Journal on Software Tools for Technology Transfer, 2026, vol. 24, no. 1, p. 29-31.",
+    "year": "2026",
+    "title": "War orphan age at father loss and resilience in late adolescence",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "journal article"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Kravic Nermina Pajevic Izet Hasanovic Mevludin Ibrahim de Leon Martinez Santiago Jose , DCGM (FIT) Niederkrotenthaler Thomas Voracek Martin Dervic Kanita"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Background: War orphans have been reported to have unfavorable psychological outcomes; however, research on the impact of an orphan's age at father loss on later mental health and resilience is scarce. Methods: In a sample of 50 orphans (mean age 18.9 SD \u00b1 1.5 years, age range 16-21 years, 54%, N = 27 female) who lost their father before the age of 5 years during the war in Bosnia and Herzegovina (1992-1995), the relationships between age at father loss, sociodemographic/environmental factors, and mental health characteristics including resilience in late adolescence were assessed using Pearson correlations, t\u2010tests, ANOVA and regression analyses. Results: After controlling for confounders, regression analyses revealed that younger age at father loss was independently associated with lower total resilience (p = 0.001) in late adolescence and lower acceptance of self and life (p = 0.006). Education mediated the relationship between age at father loss and later self-reported depression, with higher educational levels being associated with less depressive symptoms. Furthermore, being the only child was associated with higher total resilience (p = 0.015), personal competence (p = 0.020) and acceptance of self and life (p = 0.041). Conclusion: Our findings suggest that very early loss of a father creates a specific vulnerability, impacting war orphans' resilience in late adolescence. Resilience-focused interventions should focus on war orphans who lost their fathers at a very young age and those having siblings."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Armed conflicts; Orphanhood; Vulnerability; Youth"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2026"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "8"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "Wiener klinische Wochenschrift, no. January 2026, ISSN"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "Springer"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1007/s00508-025-02699-0"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-105028870573"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@article{BUT193265, author=\"{} and {} and {} and Santiago Jose {de Leon Martinez} and {} and {} and {}\", title=\"War orphan age at father loss and resilience in late adolescence\", journal=\"Wiener klinische Wochenschrift\", year=\"2026\", number=\"January 2026\", pages=\"8\", doi=\"10.1007/s00508-025-02699-0\", issn=\"0043-5325\", url=\"https://link.springer.com/journal/508\" }"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Computer Graphics and Multimedia (DCGM)"
+        }
+    }
+}

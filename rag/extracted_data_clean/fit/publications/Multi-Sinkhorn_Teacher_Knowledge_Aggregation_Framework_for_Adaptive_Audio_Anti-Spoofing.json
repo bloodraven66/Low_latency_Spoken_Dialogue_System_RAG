@@ -1,0 +1,67 @@
+{
+    "publication": "ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; LU, W.; XU, J. Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing. IEEE Transactions on Audio, Speech, and Language Processing, 2025, no. 33, p. 3850-3865. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; XU, J.; LU, W. SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing. IEEE Transactions on Information Forensics and Security, 2025, no. 20, p. 6474-6489. Detail ZHANG, Y.; TIAN, B.; ZHANG, L.; DUAN, Z. PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 5353-5357.",
+    "year": "2025",
+    "title": "Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "journal article"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Zhang Ruiteng Wei Jianguo Lu Xugang Zhang Lin, Ph.D. Jin Di Lu Wenhuan Xu Junhai"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Audio anti-spoofing algorithms are widely deployed to defend against spoofing attacks, yet they often fail to detect unseen attacks. Although unsupervised domain adaptation (UDA) offers the potential to address this challenge, existing methods struggle with the large intra-class variability and complex distribution structures in target domains caused by the diversity of speech and attack types. In contrast, optimal transport (OT) leverages the geometric structure of intra-class distributions to measure discrepancies between probability distributions. The effectiveness of OT relies on the discriminability of data within target domains. However, in real-world scenarios involving multiple target domains, these domains often overlap in feature space, leading to the negative transport problem in OT. To overcome these domain mismatches in anti-spoofing, we propose the Multi-Sinkhorn Teacher Knowledge Aggregation (MSTKA) framework. Initially, to avoid interference between target domains during alignment, we use OT to adapt the source model to each target domain independently, thereby reducing negative transport. This adaptation involves constructing an OT cost matrix based on sentence-level representations of cross-domain samples and training an expert model for each target domain. Subsequently, we aggregate the knowledge from these expert models into a unified student model, enabling it to generalize across multiple target domains. Since spoofing cues could be distributed across different temporal scales, we align the student model's representations at multiple time scales with the teacher model's sentence-level representations to enhance the effectiveness of knowledge distillation. Multi-target adaptation experiments on eleven data sets demonstrate that our framework achieves state-of-the-art performance in audio anti-spoofing."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Adaptation models, Training, Computational modeling, Feature extraction, Couplings, Costs, Probability distribution, Data models, Speech recognition, Speech processing, Audio anti-spoofing, unsupervised domain adaptation, optimal transport, knowledge distillation"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2025"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "3850\u20133865"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "IEEE Transactions on Audio, Speech, and Language Processing, no. 33, ISSN"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1109/TASLPRO.2025.3606191"
+        },
+        "ut_wos": {
+            "label": "UT WoS",
+            "text": "001579024300004"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@article{BUT199981, author=\"{} and {} and {} and Lin {Zhang} and {} and {} and {}\", title=\"Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing\", journal=\"IEEE Transactions on Audio, Speech, and Language Processing\", year=\"2025\", number=\"33\", pages=\"3850--3865\", doi=\"10.1109/TASLPRO.2025.3606191\", issn=\"1558-7916\", url=\"https://ieeexplore.ieee.org/abstract/document/11150711\" }"
+        },
+        "files": {
+            "label": "Files",
+            "text": "- pdf zhang_ieee-taslp_2025_Multi-Sinkhorn_Teacher_Knowledge_Aggregation_Framework_for_Adaptive_Audio_Anti-Spoofing.pdf 12 MB"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat , BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        "research_groups": {
+            "label": "Research groups",
+            "text": "Speech Data Mining Research Group BUT Speech@FIT (RG SPEECH)"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Computer Graphics and Multimedia (DCGM) Speech Data Mining Research Group BUT Speech@FIT (RG SPEECH)"
+        }
+    }
+}

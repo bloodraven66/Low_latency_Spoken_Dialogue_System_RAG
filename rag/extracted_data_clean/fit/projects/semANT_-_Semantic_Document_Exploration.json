@@ -1,0 +1,41 @@
+{
+    "project": "semANT - Semantic Document Exploration",
+    "title": "semANT - Semanticky pruzkumnik textoveho kulturniho dedictvi",
+    "metadata": {
+        "project_period": "1. 3. 2023 \u2013 31. 12. 2027",
+        "project_type": "grant",
+        "code": "DH23P03OVV060",
+        "agency": "Ministry of Culture Czech Republic",
+        "program": "NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "semANT - Semantic Document Exploration"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "digital library, topic identification, semantic document search, content exploration, content visualization"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The main goal of this project is therefore to improve the possibilities of searching in the full-text representation of digitized documents at the level of text meaning and the possibilities of natural navigation between thematically similar documents. We provide users with a full-text search extended by understanding the meaning of queries, the ability to search by parts of the text (such as paragraphs) with the ability to specify at the same time the topic that interests him in the text. The system will work with automatically identified topics, but will allow users to define their own topics based on examples from texts."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Hradis Michal, Ing., Ph.D. (DCGM) \u2013 research leader Benes Karel, Ing., Ph.D. (FIT) Docekal Martin, Ing. (DCGM) Fajcik Martin, Ing., Ph.D. (DCGM) Kavalova Radka, Mgr. (RCIT) Kiss Martin, Ing. (DCGM) Kohut Jan, Ing. (DCGM) Kostelnik Martin, Ing. (DCGM) Lampa Petr, Ing. (DFIT-ISD) Smrz Pavel, doc. RNDr., Ph.D. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- FAJCIK, M.; DOCEKAL, M.; DOLEZAL, J.; ONDREJ, K.; BENES, K.; SMRZ, P.; POLOK, A.; HRADIS, M. BenCzechMark : A Czech-Centric Multitask and Multimetric Benchmark for Large Language Models with Duel Scoring Mechanism. Transactions of the Association for Computational Linguistics, 2025, vol. 13, no. 9, p. 1068-1095. Detail KISS, M.; HRADIS, M. Masked Self-Supervised Pre-Training for Text Recognition Transformers on Large-Scale Datasets. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2025. p. 53-70. ISBN: 978-3-032-09367-7. Detail KOHUT, J.; HRADIS, M.;. Practical Fine-Tuning of Autoregressive Models on Limited Handwritten Texts. In Document Analysis and Recognition \u2013 ICDAR 2025. Cham: Springer Nature Switzerland, 2025. p. 22-39. ISBN: 978-3-032-04629-1. Detail KOSTELNIK, M.; HRADIS, M.; BENES, K. TextBite: A Historical Czech Document Dataset for Logical Page Segmentation. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2025. p. 124-140. ISBN: 978-3-032-09367-7. Detail\n- KISS, M.; HRADIS, M. Masked Self-Supervised Pre-Training for Text Recognition Transformers on Large-Scale Datasets. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2025. p. 53-70. ISBN: 978-3-032-09367-7. Detail KOHUT, J.; HRADIS, M.;. Practical Fine-Tuning of Autoregressive Models on Limited Handwritten Texts. In Document Analysis and Recognition \u2013 ICDAR 2025. Cham: Springer Nature Switzerland, 2025. p. 22-39. ISBN: 978-3-032-04629-1. Detail KOSTELNIK, M.; HRADIS, M.; BENES, K. TextBite: A Historical Czech Document Dataset for Logical Page Segmentation. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2025. p. 124-140. ISBN: 978-3-032-09367-7. Detail\n- KOHUT, J.; HRADIS, M.;. Practical Fine-Tuning of Autoregressive Models on Limited Handwritten Texts. In Document Analysis and Recognition \u2013 ICDAR 2025. Cham: Springer Nature Switzerland, 2025. p. 22-39. ISBN: 978-3-032-04629-1. Detail KOSTELNIK, M.; HRADIS, M.; BENES, K. TextBite: A Historical Czech Document Dataset for Logical Page Segmentation. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2025. p. 124-140. ISBN: 978-3-032-09367-7. Detail\n- KOSTELNIK, M.; HRADIS, M.; BENES, K. TextBite: A Historical Czech Document Dataset for Logical Page Segmentation. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2025. p. 124-140. ISBN: 978-3-032-09367-7. Detail\n- KISS, M.; HRADIS, M. Self-supervised Pre-training of Text Recognizers. In Barney Smith, E.H., Liwicki, M., Peng, L. (eds) Document Analysis and Recognition - ICDAR 2024. Lecture Notes in Computer Science. Ateny: Springer Nature Switzerland AG, 2024. p. 218-235. ISBN: 978-3-031-70545-8. Detail STETINA, J.; FAJCIK, M.; HRADIS, M.; STEFANIK, M. A Comparative Study of Text Retrieval Models on DaReCzech. Recent Advances in Slavonic Natural Language Processing, 2024, no. 7, p. 85-100. Detail\n- STETINA, J.; FAJCIK, M.; HRADIS, M.; STEFANIK, M. A Comparative Study of Text Retrieval Models on DaReCzech. Recent Advances in Slavonic Natural Language Processing, 2024, no. 7, p. 85-100. Detail\n- KOHUT, J.; HRADIS, M. Finetuning Is a Surprisingly Effective Domain Adaptation Baseline in Handwriting Recognition. In Document Analysis and Recognition - ICDAR 2023. Lecture Notes in Computer Science. Lecture Notes in Computer Science. San Jose: Springer Nature Switzerland AG, 2023. no. 1, p. 269-286. ISBN: 978-3-031-41684-2. ISSN: 0302-9743. Detail"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- Topicer - Software pro analyzu temat v dokumentech , software, 2025 Authors : HRADIS, M.; DOCEKAL, M.; KOSTELNIK, M.; KISS, M.; FAJCIK, M.; JURICA, R.; SUCHARDA, M.\n- Textjuicer - Software for Generating Summaries , software, 2024 Authors : DOCEKAL, M.; FAJCIK, M.; HRADIS, M.\n- System pro analyzu struktury dokumentu , software, 2023 Authors : KOSTELNIK, M.; BENES, K.; HRADIS, M.; VASKO, M."
+        }
+    }
+}

@@ -1,0 +1,416 @@
+{
+    "metadata": {
+        "abbreviation": "MIT-EN",
+        "acad._year": "2025/2026",
+        "code": "N0613A140038",
+        "level_of_education": "Master",
+        "title_awarded": "Ing.",
+        "length_of_study": "2 years",
+        "form_of_study": "full-time",
+        "programme_profile": "academically oriented",
+        "fields_of_education": "Informatics",
+        "language": "English",
+        "accreditation": "1. 6. 2022 - 1. 6. 2032"
+    },
+    "main_heading": "Degree Programme Details",
+    "program_heading": "Master of Information Technology",
+    "program_details": {
+        "study_targets": "The follow-up Master's degree programmeInformation Technology and Artificial Intelligencedevelops and deepens the knowledge and skills acquired at the bachelor's level of Information Technology studies. The program is taught in English language and it is open for foreign students and for czech students with desire to study in English language. It develops especially the ability to analyze problems (also by formal means) and the ability to find creative solutions both independently and in team management. At the same time, it broadens and deepens knowledge for general information technologies (possibilities and limits of classical informatics, computability, complexity, parallelization and communication, modern architectures of computer systems, various paradigms of programming, data handling, implementation and evaluation of experiments) and at the same time it offers the possibility to deepen a certain direction of information technology by offering a high portion of elective courses and by high emphasis on individual study and creative work of the students through the diploma thesis and the year project in the first year of the study. The program also aims to give graduates the ability to smooth lifelong learning and adapt to trends in a very progressively developing and dynamically changing field of information technology.",
+        "graduate_profile": "The graduate of the follow-up study programInformation Technology and Artificial Intelligencehas a broad view of the field of information technology with an understanding of the limits of possibilities. His expertise covers machine architectures currently used in information technology, various paradigms of programming such machines, processing and data intensive technologies, and technologies used to implement artificial intelligence. Further specific knowledge deepens in the chosen direction according to the selected specialization. The graduate is able to perform critical analysis of problems in this area, has the ability to propose effective solutions to such problems. Thanks to his deep knowledge of the tools and procedures used today, he is also able to implement these solutions. He/she is able to use some of the research methods to obtain new information. A broad theoretical basis allows it to easily adapt to area development and flexibility in the labor market, giving the ability to make independent decisions in a changing environment and the ability to formulate assignments for professional activities, coordinate them and take responsibility for their results.In practice, the graduate will work as an independent creative worker in the field of information technology, ie in positions focused on development and testing of applications of various IT directions, information systems and their security, intelligent systems and devices, computer and embedded systems, cyberphysical systems, networks and communication, graphics, multimedia, and user interfaces of information technology, and also works as a team leader.",
+        "occupational_profiles_of_graduates": "Nearly 100 % of FIT graduates can easily find a job these days. Even back in 2015, the average unemployment period was less than a month and according to the development at the labour market over the last couple years, we can expect that period to be significantly shorter these days. The interest in FIT graduates is further reflected by the fact that they take part in training practice during their studies.Master study programme graduates find jobs in both small and medium firms as well as large companies. The employers are residential (39 %) and foreign (43 %) companies, that are usually dedicated to software and hardware development. FIT graduates employed by these companies are mostly regular employees (84 %), but a significant portion of them (15.2 %) also work in low-level to middle-level management and some of them (0.8 %) even in top-level management. FIT graduates show the highest satisfaction when it comes to their employment and salary.Graduates are usually members of national and international development teams, that apply their knowledge in development of computer systems and applications, database and information systems, mobile and web applications, digital systems etc. Other jobs include positions such as computer systems installation technicians, network administrators or applications programmers. Graduates often start their businesses focused on development of mobile applications, database and information systems or web applications. They can find jobs also as secondary education teachers of information technology or as qualified entrepreneurs in the field of computing.The qualities of FIT graduates that employers value the most are good basic theoretical knowledge, considerable practical capabilities, ability to work in team and high adaptability to specific workplace conditions.",
+        "admission_requirements": "Admission to the follow-up Master's degree program has the prerequisite of completion of university education (bachelor's or master's degree).",
+        "conditions_of_graduation": "The basic teaching module of the study plan is a one-semester course. Courses are divided into compulsory (the student must complete courses in the composition prescribed by the study plan of the study programme and its specialization of his/her choice) and elective courses. Each course is awarded with a certain number of credits. Obtaining at least 120 credits (including credits for required compulsory courses) entitles the student to take the final state examination, which consists of an oral part (technical debate) and defense of the thesis. Passing both parts of the final state examination is a prerequisite for the successful completion of the study programme and for the master qualification.",
+        "rules_for_curriculum_content_setup": "The compulsory courses are composed in a way to build prerequisites for the successor courses. Optional courses are offered after compulsory courses which prepare the theoretical background for them.",
+        "key_learning_outcomes": "Students will understand all the layers of the computer based systems including hardware (semiconductor components, logic networks, processors, peripheral devices), software (control and data structures, object orientation, programming languages, compilers, operating systems, databases), as well as their common applications (information systems, computer networks, artificial intelligence, computer graphics and multimedia). They will understand foundations of computer science (discrete mathematics, formal languages and their models, spectral analysis of signals, modelling and simulation). Graduates will be able to analyse, design, implement, test, and maintain common computer applications. They will be able to work efficiently in teams.",
+        "work_experience": "Specialised industrial practice is not required.",
+        "extent_of_the_state_final_examinations": "State Exam in the study programme Master of Information Technology consists of the following parts: presentation and defense of master's thesis, oral exam, which combines the basic themes contained in the compulsory courses. Both parts of the state examination are held on the same date before the State Examination Board. The state exam can be taken by a student who has obtained the required number of credits in the prescribed composition necessary for the successful completion of the master's degree and has submitted the master's thesis in due time. The organization and course of the state examination are given by the corresponding internal standard of the faculty and by the relevant instructions of the program guarantor for state examinations.",
+        "examples_of_theses": "- Platform for Cryptocurrency Address Collection\n- Continuous Integration and Delivery by Nix/NixOps in Software Development\n- Behaviour-Based Identification of Network Devices\n- Speech Enhancement with Cycle-Consistent Neural Networks\n- Indexing of Big Text Data and Searching in the Indexed Data\n- Support of Run-time Monitoring of Processes in ANaConDA Framework\n- Interactive 3D CT Data Segmentation Based on Deep Learning\n- Evolutionary Design of Convolutional Neural Networks\n- Counting Vehicles in Static Images\nMaster's theses are stored at the FIT library, Bozetechova 2, Brno. The list of the master's theses, including the details is available at:https://www.fit.vut.cz/study/theses/.en",
+        "availability_of_literature": "- Faculty library offers students over 20 000 items, 55 magazine titles, 100 study seats, 20 seats with computers, 2 seminar rooms and reprographic services. The number of items was increased by 605 since 2017, with the total resources for development of library fund amounting to 800 thousand Czech crowns in 2017.\n- Aside from specialized labs, students can use 160 seats with computers in computer pavilions in the Computer centre.\n- All computers are connected to Internet and the whole faculty area is covered with Wi-Fi network, that can be used by all students as well as faculty employees.\n- Students have access to electronic form of presentations used during the lectures in practically all courses, most compulsory and compulsory-elective courses even offer study support materials.\n- All teachers are obliged to create a schedule for individual consultations prior to the beginning of a semester.\n- Both lecture complexes are equipped with audiovisual technology allowing lecture recording.",
+        "availability_for_students_with_special_needs": "Brno university of technology provides studies for persons with health disabilities according to section 21 par. 1 e) of the Act no. 111/1998, about universities and about the change and supplementing other laws (Higher Education Act) as amended, and according to the requirements in this field arising from Government Regulation No. 274/2016 Coll., on standards for accreditation in higher education, provides services for study applicants and students with specific needs within the scope and in form corresponding with the specification stated in Annex III to Rules for allocation of a financial contribution and funding for public universities by the Ministry of Education, Youth and Sports, specifying financing additional costs of studies for students with specific needs.Services for students with specific needs at BUT are carried out through the activities of specialized workplace - Alfons counselling center, which is a part of BUT Lifelong Learning Institute - Student counselling section.Counselling center activities and rules for making studies accessible are guaranteed by the university through a valid Rector's directive 11/2017 concerning the status of study applicants and students with specific needs at BUT. This internal standard guarantees minimal stadards of provided services.Services of the counselling center are offered to all study applicants and students with any and all types of health disabilities stated in the Methodological standard of the Ministry of Education, Youth and Sports.",
+        "availability_of_further_education": "Graduates can continue their studies in the doctoral study programme at FIT BUT or related doctoral degree programmes at other universities.",
+        "examination_regulations,_assessment_and_grading": "Examination and assessment regulations of BUT",
+        "graduation_requirements": "diploma thesis, final state examination",
+        "programme_guarantor": "Herout Adam, prof. Ing., Ph.D.",
+        "degree_programme_board": "1. | Herout Adam, prof. Ing., Ph.D. | chairman | 2. | Burget Lukas, doc. Ing., Ph.D. | councillor internal | 3. | Burget Radek, doc. Ing., Ph.D. | councillor internal | 4. | Cernocky Jan, prof. Dr. Ing. | councillor internal | 5. | Ceska Milan, doc. RNDr., Ph.D. | councillor internal | 6. | Fucik Otto, doc. Dr. Ing. | councillor internal | 7. | Hanacek Petr, doc. Dr. Ing. | councillor internal | 8. | Hruska Tomas, prof. Ing., CSc. | councillor internal | 9. | Janousek Vladimir, doc. Ing., Ph.D. | councillor internal | 10. | Jaros Jiri, prof. Ing., Ph.D. | councillor internal | 11. | Kolar Dusan, doc. Dr. Ing. | councillor internal | 12. | Korcek Pavol, Ing., Ph.D. | councillor internal | 13. | Kreslikova Jitka, doc. RNDr., CSc. | councillor internal | 14. | Novak Jiri, Ing., Ph.D. | councillor internal | 15. | Oleksak Samuel, Ing. | councillor internal | 16. | Rogalewicz Adam, doc. Mgr., Ph.D. | councillor internal | 17. | Ruzicka Richard, doc. Ing., Ph.D., MBA | councillor internal | 18. | Rysavy Ondrej, doc. Ing., Ph.D. | councillor internal | 19. | Sekanina Lukas, prof. Ing., Ph.D. | councillor internal | 20. | Slapal Josef, prof. RNDr., CSc. | councillor internal | 21. | Veigend Petr, Ing., Ph.D. | councillor internal | 22. | Vojnar Tomas, prof. Ing., Ph.D. | councillor internal | 23. | Zboril Frantisek, doc. Ing., CSc. | councillor internal | 24. | Zemcik Pavel, prof. Dr. Ing., dr. h. c. | councillor internal",
+        "holder_of_the_right_to_carry_out_the_degree_programme": "Faculty of Information Technology"
+    },
+    "curriculum": [
+        {
+            "semester": "1st year of study,\nwinter semester",
+            "courses": [
+                {
+                    "abbreviation": "IFJe",
+                    "title": "Formal Languages and Compilers (in English)",
+                    "credits": "5",
+                    "duty": "C",
+                    "completion": "Cr+Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "MATe",
+                    "title": "Mathematical Structures in Computer Science (in English)",
+                    "credits": "5",
+                    "duty": "C",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "WP1a",
+                    "title": "Essentials of Work and Study in Research and Technology 1",
+                    "credits": "1",
+                    "duty": "C",
+                    "completion": "Cr",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "YP1a",
+                    "title": "Year Project 1",
+                    "credits": "5",
+                    "duty": "C",
+                    "completion": "Cr",
+                    "faculty": "FIT"
+                }
+            ]
+        },
+        {
+            "semester": "1st year of study,\nsummer semester",
+            "courses": [
+                {
+                    "abbreviation": "TINe",
+                    "title": "Theoretical Computer Science (in English)",
+                    "credits": "5",
+                    "duty": "C",
+                    "completion": "Cr+Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "WP2a",
+                    "title": "Essentials of Work and Study in Research and Technology 2",
+                    "credits": "1",
+                    "duty": "C",
+                    "completion": "Cr",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "YP2a",
+                    "title": "Year Project 2",
+                    "credits": "5",
+                    "duty": "C",
+                    "completion": "ClCr",
+                    "faculty": "FIT"
+                }
+            ]
+        },
+        {
+            "semester": "2nd year of study,\nwinter semester",
+            "courses": [
+                {
+                    "abbreviation": "SEPa",
+                    "title": "Semester Project (in English)",
+                    "credits": "5",
+                    "duty": "C",
+                    "completion": "ClCr",
+                    "faculty": "FIT"
+                }
+            ]
+        },
+        {
+            "semester": "2nd year of study,\nsummer semester",
+            "courses": [
+                {
+                    "abbreviation": "DIPa",
+                    "title": "Master's Thesis (in English)",
+                    "credits": "13",
+                    "duty": "C",
+                    "completion": "Cr",
+                    "faculty": "FIT"
+                }
+            ]
+        },
+        {
+            "semester": "all years of study,\nwinter semester",
+            "courses": [
+                {
+                    "abbreviation": "PDBe",
+                    "title": "Advanced Database Systems (in English)",
+                    "credits": "5",
+                    "duty": "C",
+                    "completion": "Cr+Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "VYPa",
+                    "title": "Compiler Construction (in English)",
+                    "credits": "5",
+                    "duty": "C",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "BAYa",
+                    "title": "Bayesian Models for Machine Learning (in English)",
+                    "credits": "5",
+                    "duty": "CEB",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "GALe",
+                    "title": "Graph Algorithms (in English)",
+                    "credits": "5",
+                    "duty": "CEB",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "HSCa",
+                    "title": "Hardware/Software Codesign (in English)",
+                    "credits": "5",
+                    "duty": "CEB",
+                    "completion": "Cr+Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "PDIe",
+                    "title": "Distributed Application Environment (in English)*)",
+                    "credits": "5",
+                    "duty": "CEB",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "TAMa",
+                    "title": "Application Development for Mobile Devices (in English)",
+                    "credits": "5",
+                    "duty": "CEB",
+                    "completion": "ClCr",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "BFTa",
+                    "title": "Biofeedback Technologies*)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "ClCr",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "BIOe",
+                    "title": "Biometric Systems (in English)*)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Cr+Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "BRIa",
+                    "title": "Brain Computer Interface",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "CZSa",
+                    "title": "Digital Signal Processing (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "GJAe",
+                    "title": "Graphical User Interfaces in Java (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Cr+Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "MPA-MEN",
+                    "title": "Microelectronics in English",
+                    "credits": "3",
+                    "duty": "E",
+                    "completion": "ClCr",
+                    "faculty": "FEKT"
+                },
+                {
+                    "abbreviation": "PGPa",
+                    "title": "Advanced Computer Graphics (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "PGRe",
+                    "title": "Computer Graphics (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "PKSa",
+                    "title": "Advanced Communication Systems*)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Cr+Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "POVa",
+                    "title": "Computer Vision (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "ROBa",
+                    "title": "Robotics (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "ZPJa",
+                    "title": "Natural Language Processing (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                }
+            ]
+        },
+        {
+            "semester": "all years of study,\nsummer semester",
+            "courses": [
+                {
+                    "abbreviation": "PDSe",
+                    "title": "Data Communications, Computer Networks and Protocols (in English)",
+                    "credits": "5",
+                    "duty": "C",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "UXIa",
+                    "title": "User Experience and Design of User Interfaces and Services (in English)",
+                    "credits": "5",
+                    "duty": "C",
+                    "completion": "ClCr",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "CPSa",
+                    "title": "Cyber-Physical Systems Design (in English)",
+                    "credits": "5",
+                    "duty": "CEB",
+                    "completion": "Cr+Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "DFAa",
+                    "title": "Digital Forensics (in English)",
+                    "credits": "5",
+                    "duty": "CEB",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "SLOa",
+                    "title": "Complexity (in English)",
+                    "credits": "5",
+                    "duty": "CEB",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "VIZa",
+                    "title": "Visualization and CAD (in English)",
+                    "credits": "5",
+                    "duty": "CEB",
+                    "completion": "ClCr",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "ZPOe",
+                    "title": "Image Processing (in English)",
+                    "credits": "5",
+                    "duty": "CEB",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "CSOa",
+                    "title": "CCNA Cybersecurity Operations (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "ClCr",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "FYOe",
+                    "title": "Physical Optics (in English)*)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "MTIa",
+                    "title": "Modern Trends in Informatics (in English)",
+                    "credits": "4",
+                    "duty": "E",
+                    "completion": "ClCr",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "MULe",
+                    "title": "Multimedia (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "VGEe",
+                    "title": "Computational Geometry (in English)*)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "VNVe",
+                    "title": "High Performance Computations (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                },
+                {
+                    "abbreviation": "ZREe",
+                    "title": "Speech Signal Processing (in English)",
+                    "credits": "5",
+                    "duty": "E",
+                    "completion": "Ex",
+                    "faculty": "FIT"
+                }
+            ]
+        },
+        {
+            "semester": "Compulsory-elective groups",
+            "courses": [
+                {
+                    "abbreviation": "B",
+                    "duty": "30",
+                    "completion": "E",
+                    "faculty": "BAYa,CPSa,DFAa,GALe,HSCa,PDIe,SLOa,TAMa,VIZa,ZPOe"
+                }
+            ]
+        }
+    ]
+}

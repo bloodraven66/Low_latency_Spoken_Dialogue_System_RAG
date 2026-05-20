@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "code": "VGEe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Computational Geometry (in English)*)"
+    },
+    "content": {
+        "guarantor": "Spanel Michal, doc. Ing., Ph.D. | (DCGM)",
+        "course_coordinator": "Barina David, Ing., Ph.D. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written)",
+        "time_span": "- 26 hrs lectures\n- 26 hrs projects",
+        "assessment_points": "- 51 pts final exam (24 pts written part, 27 pts test part)\n- 31 pts projects\n- 18 pts homework",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Barina David, Ing., Ph.D. | (DCGM) | Beran Vitezslav, doc. Ing., Ph.D. | (DCGM) | Herout Adam, prof. Ing., Ph.D. | (DCGM) | Spanel Michal, doc. Ing., Ph.D. | (DCGM) | Zemcik Pavel, prof. Dr. Ing., dr. h. c. | (DCGM)",
+        "learning_objectives": "- Student will get acquaint with the typical problems of computational geometry.\n- Student will understand the existing solutions and their applications in computer graphics and machine vision.\n- Student will get deeper knowledge of mathematics.\n- Student will learn the principles of geometric algebra including its application in graphics and vision related tasks.\n- Student will practice programming, problem solving and defence of a small project.\n- Student will learn terminology in English language.\n- Student will learn to work in a team and present/defend results of their work.\n- Student will also improve his programming skills and his knowledge of development tools.",
+        "prerequisite_knowledge_and_skills": "- Basic knowledge of linear algebra and geometry.\n- Good knowledge of computer graphics principles.\n- Good knowledge of basic abstract data types and fundamental algorithms.",
+        "study_literature": "- Csaba D. Toth, Joseph O'Rourke, Jacob E. Goodman:Handbook of Discrete and Computational Geometry, 3rd Edition, 2017.\n- Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars:Computational Geometry: Algorithms and Applications, 3rd. ed., Springer-Verlag, 2008.\n- Leo Dorst, Daniel Fontijne, Stephen Mann:Geometric Algebra for Computer Science: An Object-Oriented Approach to Geometry, rev. ed., Morgan Kaufmann, 2007.\n- Geometric Algebra (based on Clifford Algebra),http://staff.science.uva.nl/~leo/clifford/\n- Suter, J.: Geometric Algebra Primer, 2003,http://www.jaapsuter.com/geometric-algebra/\n- Gaigen,https://github.com/Sciumo/gaigen\n- Computational Geometry on the Web,http://cgm.cs.mcgill.ca/~godfried/teaching/cg-web.html",
+        "syllabus_of_lectures": "- Introduction to computational geometry: typical problems in computer graphics and machine vision, algorithm complexity and robustness, numerical precision and stability.\n- Overview of linear algebra and geometry. Why is it necessary to know this?\n- Range searching and space partitioning methods: range tree; quad tree, k-d tree, BSP tree. Applications in machine vision.\n- Coordinate systems and homogeneous coordinates. Applications in computer graphics.\n- Point in polygon testing, polygon triangulation, convex hull in 2D/3D and practical applications.\n- Collision detection and the algorithm GJK.\n- Proximity problem: closest pair; nearest neighbor; Voronoi diagrams.\n- Affine and projective geometry. Epipolar geometry. Applications in 3D machine vision.\n- Triangulation in 2D/3D, Delaunay triangulation, tetrahedral meshing.\n- Principle of duality and its applications.\n- Surface reconstruction from point clouds and volumetric data.\n- Basics and of geometric algebra. Quaternions. Applications in computer graphics.\n- More computational geometry problems and modern trends. Linear programming: basic notion and applications; half-plane intersection.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "Team or individually assigned projects.",
+        "progress_assessment": "- Preparing for lectures (readings): up to 18 points\n- Realized and defended project: up to 31 points\n- Written final exam: up to 51 points\n- Minimum for final written examination is 17 points.\n- Minimum to pass the course according to the ECTS assessment - 50 points.\nThe evaluation includes reading scientific articles, individual project, and the final exam."
+    }
+}

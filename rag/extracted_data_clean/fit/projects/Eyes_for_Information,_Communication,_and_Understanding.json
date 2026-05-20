@@ -1,0 +1,33 @@
+{
+    "project": "Eyes for Information, Communication, and Understanding",
+    "title": "Eyes for Information, Communication, and Understanding",
+    "metadata": {
+        "project_period": "1. 9. 2022 \u2013 31. 8. 2026",
+        "project_type": "grant",
+        "code": "101072410",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Eyes for Information, Communication, and Understanding"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "eye tracking, HCI, machine learning"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The overall goal of Eyes4ICU is the development of a research training programme regarding eye tracking research and applications within the Marie Sk\u0142odowska-Curie Actions (MSCA) Doctoral Network (DN). Within the Horizon Europe framework programme, MSCA-DN aims to support the career development of researchers and seeks to train highly-skilled early-stage researchers (ESRs) to stimulate entrepreneurship, creativity and innovation in Europe. The action aims at providing enhanced career perspectives for the ESRs in the academic and non-academic sectors through international, interdisciplinary and inter-sectoral cooperation and mobility."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM) \u2013 research leader"
+        }
+    }
+}

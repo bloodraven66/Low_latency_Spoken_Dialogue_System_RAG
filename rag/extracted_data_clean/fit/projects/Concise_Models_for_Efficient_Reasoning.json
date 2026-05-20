@@ -1,0 +1,29 @@
+{
+    "project": "Concise Models for Efficient Reasoning",
+    "title": "Concise Models for Efficient Reasoning",
+    "metadata": {
+        "project_period": "1. 1. 2026 \u2013 31. 12. 2028",
+        "project_type": "grant",
+        "code": "26-22640S",
+        "agency": "Czech Science Foundation",
+        "program": "Standardni projekty"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "formal languages;finite automata;automata over infinite words;omega-automata;Emerson-Lei automata;TELA;binary decision diagrams;BDD;partial BDD;approximation;complementation"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Automata over finite or infinite words or binary decision diagrams (BDDs) are ubiquitous in modern computer science, providing robust foundations for applications in automated reasoning, verification, information processing, etc. Applications based on these models usually largely benefit when the handled automata or BDDs are small, reducing memory requirements and improving the runtime of their processing. Recently, compact representations of automata based on extensions of the basic models started appearing, often in an ad hoc manner relevant for particular applications, with many basic questions unanswered and their full potential unexplored. One goal of the project is to fill the gap by designing novel, practically relevant, concise kinds of automata and algorithms for their efficient manipulation, and applications based on these automata. The second is to reduce the size of manipulated BDDs by combining them with approximative reasoning. By achieving these goals, the project aims to push the applicability and scalability of automata- and BDD-based tools to a new level."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Lengal Ondrej, doc. Ing., Ph.D. (DITS) \u2013 research leader Dacik Tomas, Ing. (DITS) Havlena Vojtech, Ing., Ph.D. (DITS)"
+        }
+    }
+}

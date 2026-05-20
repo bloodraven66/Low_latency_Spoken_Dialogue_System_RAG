@@ -1,0 +1,784 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Head of Department",
+        "details": {
+            "e_mail": "kolar@fit.vut.cz",
+            "work_phone": "+420 54114 1238",
+            "room": "C226 Office",
+            "orcid_id": "0000-0002-2094-6560",
+            "scopus_author_id": "36916858600"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Bachelor Study Programme Board",
+            "role": "Chairman"
+        },
+        {
+            "organization": "Economic Commission of AS FIT",
+            "role": "Chairman"
+        },
+        {
+            "organization": "Akademicti pracovnici pedagogicke komise AS VUT",
+            "role": "Vice-chairman"
+        },
+        {
+            "organization": "Pedagogicka komise AS VUT",
+            "role": "Vice-chairman"
+        },
+        {
+            "organization": "Academic Staff of Academic Senate's Economic Commission",
+            "role": "Member"
+        },
+        {
+            "organization": "Council for the Use of Information Technologies and Equipment at FIT BUT",
+            "role": "Member"
+        },
+        {
+            "organization": "Cyber Security Governance Committee",
+            "role": "Member"
+        },
+        {
+            "organization": "Dean's Collegium",
+            "role": "Head of Department, AS VUT Member"
+        },
+        {
+            "organization": "FIT Industrial Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Formal Model Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Chamber of Academic Staff",
+            "role": "Member"
+        },
+        {
+            "organization": "Chamber of Academic Staff of AS FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "chairman"
+        },
+        {
+            "organization": "Scientific Board",
+            "role": "Member of Scientific Board"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "Ing. (MSc) of computer science and engineering, Technical University of Brno, 1994",
+            "Dr. (PhD) in cybernetics and computer science, Technical University of Brno, 1998",
+            "4 months at the Technical University of Denmark, Copenhagen, Denmark, 1994",
+            "Department of Computer Science and Engineering, FEECS TU Brno, 1994-2002 (FEECS splits) - since 1998 assistant professor",
+            "Department of Information Systems, FIT TU Brno. 2002 (FIT as one of the successors of FEECS) - now",
+            "Since 2005 associate professor at DIS FIT TU Brno"
+        ],
+        "education": [
+            "Ing. (MSc) of computer science and engineering, Technical University of Brno, 1994",
+            "Dr. (PhD) in cybernetics and computer science, Technical University of Brno, 1998"
+        ],
+        "university_work": [
+            "4 months at the Technical University of Denmark, Copenhagen, Denmark, 1994",
+            "Department of Computer Science and Engineering, FEECS TU Brno, 1994-2002 (FEECS splits) - since 1998 assistant professor",
+            "Department of Information Systems, FIT TU Brno. 2002 (FIT as one of the successors of FEECS) - now",
+            "Since 2005 associate professor at DIS FIT TU Brno"
+        ],
+        "scientific_activities": [
+            "Formal languages and automata",
+            "Compilers and programming languages",
+            "Reverse engineering, malware detection and elimination",
+            "Advanced DB systems",
+            "Modellng and simulation in information systems",
+            "Tools and programming of embedded systems"
+        ],
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2002",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2012",
+            "2021 Prize in Partnership by the Technology Agency of the Czech Republic",
+            "The Commemorative Medal of FIT BUT (The Gold Medal) 2023"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Write me an e-mail. We can arrange a meeting then via phone, on-line video-call, etc. (E-mail subject start with course code, e.g. IPPe or PDBe.)",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "PDB",
+                "title": "Advanced Database Systems",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDBe",
+                "title": "Advanced Database Systems (in English)",
+                "details": "English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "FLP",
+                "title": "Functional and Lifetime Programming",
+                "details": "Czech, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IPP",
+                "title": "Principles of Programming Languages",
+                "details": "Czech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IPPe",
+                "title": "Principles of Programming Languages (in English)",
+                "details": "English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "APD",
+                "title": "Selected Topics on Language Parsing and Translation",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "FLP",
+                "title": "Functional and Lifetime Programming",
+                "details": "Lecture,\nCzech, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IPP",
+                "title": "Principles of Programming Languages",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP1",
+                "title": "Project Practice 1",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP2",
+                "title": "Project Practice 2",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP2e",
+                "title": "Project Practice 2 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP3",
+                "title": "Project Practice 3",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDB",
+                "title": "Advanced Database Systems",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDBe",
+                "title": "Advanced Database Systems (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP1",
+                "title": "Project Practice 1",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP2",
+                "title": "Project Practice 2",
+                "details": "Project,\nCzech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP2e",
+                "title": "Project Practice 2 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "SCO",
+                "title": "Secure Coding",
+                "details": "Lecture, Project,\nCzech, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "UPA",
+                "title": "Data Storage and Preparation",
+                "details": "Individual preparation for a final exam, Individual preparation for a lecture, Individual preparation for a mid-semester exam, Lecture,\nCzech, winter",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "EUROPEAN BLOCKCHAIN SERVICES INFRASTRUCTURE, EBSI",
+            "details": "MPO, Projekt systemu financovani SME prostrednictvim EBSI, Z222901000001, start: 2024-03-01, end: 2026-08-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "A set of forensic analytic tools for image and video processing for the criminal police and investigation service",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010041, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Aviation protection against low-energy lasers",
+            "details": "TACR, 3. verejna soutez programu Doprava 2020+, CK03000036, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "WIM LA - Camea SV",
+            "details": "CAMEA, start: 2022-03-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "BLockchain Enabled Deep learning Data analysis",
+            "details": "NS, Prime kontrakty - smluvni vyzkum, neverejne zdroje, start: 2020-01-01, end: 2021-06-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Metody AI pro zabezpeceni kybernetickeho prostoru a ridici systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6293, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Experimentalni prostredi pro vyzkum, evaluaci a testovani distribuovanych datovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FEKT/FIT-J-19-5905, start: 2019-03-01, end: 2020-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Security monitoring of ICS communication in the smart grid",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022138, start: 2019-11-01, end: 2022-10-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Introduction of attractive and effective English language studies at FIT",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, start: 2018-02-01, end: 2019-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Methods for extracting and detecting patterns in the program code",
+            "details": "Avast, start: 2017-09-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Skoda auto - Cloud computing analyza: porovnani dostupnych cloudovych reseni",
+            "details": "SKODA AUTO VS, start: 2017-04-25, end: 2017-07-25, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IRONSTONE - IoT monitoring and forensics",
+            "details": "TACR, Program podpory spoluprace v aplikovanem vyzkumu a experimentalnim vyvoji prostrednictvim spolecnych projektu technologickych a inovacnich agentur DELTA, TF03000029, start: 2016-11-01, end: 2019-10-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Algorithms, Design Methods, and Many-Core Execution Platform for Low-Power Massive Data-Rate Video and Image Processing",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H14002, start: 2014-04-01, end: 2017-06-30, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Validace spustitelneho kodu pro systemy prumyslove automatizace pomoci zpetneho prekladu",
+            "details": "BUT, Vnitrni projekty VUT, FEKT/FIT-J-13-2000, start: 2013-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "System for Support of Platform Independent Malware Analysis in Executable Files",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA01010667, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Dependent type system for object-oriented programming languages",
+            "details": "GACR, Standardni projekty, GA201/09/1316, start: 2009-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Mathematical and Engineering Approaches to Developing Reliable and Secure Concurrent and Distributed Computer Systems",
+            "details": "GACR, Doktorske granty, GD102/09/H042, start: 2009-01-30, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Multi-Information Technologies",
+            "details": "GACR, Standardni projekty, GA201/07/0005, start: 2007-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Virtual Laboratory of Microprocessor Technology Application",
+            "details": "MSMT, Informacni technologie pro znalostni spolecnost, 2C06008, start: 2006-07-01, end: 2011-06-30, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Innovation of Courses: Post-Relational Database Systems, Functional and Logic Programming",
+            "details": "FR1246/2005/F1, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Optimally Integrated Models of Modern Information Technologies",
+            "details": "GACR, Standardni projekty, GA201/04/0441, start: 2004-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "InterpRISe - Interregional Co-operation for Promoting Regional Innovation Strategies (RIS) in Europe",
+            "details": "Phare 00-0047, start: 2002-01-01, end: 2002-12-11, completed"
+        },
+        {
+            "year": "1997",
+            "title": "High-degree object-oriented functional languages with symbol overloading",
+            "details": "start: 1997-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1997",
+            "title": "Object-oriented databases - functional semantic data model",
+            "details": "FR0631/1997/G, start: 1997-01-01, end: 1997-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2026",
+            "citation": "RYDLO, S.; ORSAG, F.; GOLDMANN, T.; KOLAR, D. Finger Vein Identification Using Pretrained Feature Matching Networks. IEEE Access, 2026, no. VOLUME 14, 2026, p. 23814-23823."
+        },
+        {
+            "year": "2025",
+            "citation": "POLIAKOV, D.; JERABEK, K.; KOLAR, D.; CEJKA, T. Multichannel Histograms for Flow Classification. In 38th IEEE/IFIP Network Operations and Management Symposium (NOMS 2025). Honolulu: IEEE Communications Society, 2025. 5 p. ISBN: 9798331531638."
+        },
+        {
+            "year": "2024",
+            "citation": "POLANECKA, A.; NOVACKOVA, K.; BALAZ, T.; RYDLO, S.; KOLAR, D. Detection of Laser Beams Aimed at Aircraft in Flight. In 2024 New Trends in Civil Aviation (NTCA). Praha: Institute of Electrical and Electronics Engineers, 2024. p. 119-124. ISBN: 978-80-01-07182-3."
+        },
+        {
+            "year": "2023",
+            "citation": "POLIAKOV, D.; HYNEK, K.; CEJKA, T.; KOLAR, D. BOTA: Explainable IoT Malware Detection in Large Networks. IEEE Internet of Things Journal, 2023, vol. 10, no. 10, p. 8416-8431. ISSN: 2327-4662."
+        },
+        {
+            "year": "2023",
+            "citation": "REGECIOVA, D.; KOLAR, D. GenRex: Leveraging Regular Expressions for Dynamic Malware Detection. IEEE Xplore. Exeter: Institute of Electrical and Electronics Engineers, 2023. p. 857-864. ISBN: 979-8-3503-8199-3."
+        },
+        {
+            "year": "2022",
+            "citation": "KOLAR, D.; MEDUNA, A.; TOMKO, M. Multi-Island Finite Automata and Their Even Computations. KYBERNETIKA, 2022, vol. 57, no. 5, p. 856-877. ISSN: 0023-5954."
+        },
+        {
+            "year": "2021",
+            "citation": "REGECIOVA, D.; KOLAR, D.; MILKOVIC, M. Pattern Matching in YARA: Improved Aho-Corasick Algorithm. IEEE Access, 2021, vol. 9, no. 1, p. 62857-62866. ISSN: 2169-3536."
+        },
+        {
+            "year": "2020",
+            "citation": "HRANICKY, R.; ZOBAL, L.; RYSAVY, O.; KOLAR, D.; MIKUS, D. Distributed PCFG Password Cracking. In Computer Security - ESORICS 2020. Lecture notes in Computer Science. Guildford: Springer Nature Switzerland AG, 2020. p. 701-719. ISBN: 978-3-030-58950-9."
+        },
+        {
+            "year": "2020",
+            "citation": "ZOBAL, L.; KOLAR, D.; KROUSTEK, J. Exploring Current E-mail Cyber Threats Using Authenticated SMTP Honeypot. In Proceedings of the 17th International Conference on Security and Cryptography (SECRYPT 2020). Paris: SciTePress - Science and Technology Publications, 2020. p. 253-262. ISBN: 978-989-758-446-6."
+        },
+        {
+            "year": "2019",
+            "citation": "HRANICKY, R.; ZOBAL, L.; RYSAVY, O.; KOLAR, D. Distributed password cracking with BOINC and hashcat. Digital Investigation, 2019, vol. 30, no. 1, p. 161-172. ISSN: 1742-2876."
+        },
+        {
+            "year": "2019",
+            "citation": "ZOBAL, L.; KOLAR, D.; FUJDIAK, R. Current State of Honeypots and Deception Strategies in Cybersecurity. In 2019 11th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT). Ireland, Dublin: 2019. p. 1-9. ISBN: 978-1-7281-5763-4."
+        },
+        {
+            "year": "2014",
+            "citation": "DURFINA, L.; KOLAR, D. Generic detection and annotations of the statically linked code. Acta Electrotechnica et Informatica, 2014, vol. 2013, no. 4, p. 51-56. ISSN: 1335-8243."
+        },
+        {
+            "year": "2014",
+            "citation": "KROUSTEK, J.; MATULA, P.; KOLAR, D.; ZAVORAL, M. Advanced Preprocessing of Binary Executable Files and its Usage in Retargetable Decompilation. International Journal on Advances in Software, 2014, vol. 7, no. 1, p. 112-122. ISSN: 1942-2628."
+        },
+        {
+            "year": "2014",
+            "citation": "KROUSTEK, J.; POKORNY, F.; KOLAR, D. A New Approach to Instruction-Idioms Detection in a Retargetable Decompiler. Computer Science and Information Systems, 2014, vol. 11, no. 4, p. 1337-1359. ISSN: 1820-0214."
+        },
+        {
+            "year": "2014",
+            "citation": "MATULA, P.; KOLAR, D. Composite Data Type Recovery in a Retargetable Decompilation. Proceedings of the 9th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Telc: NOVPRESS s.r.o., 2014. p. 63-76. ISBN: 978-80-214-5022-6."
+        },
+        {
+            "year": "2013",
+            "citation": "DURFINA, L.; KOLAR, D. Generic detection of the statically linked code. Proceedings of the Twelfth International Conference on Informatics INFORMATICS 2013. Spisska Nova Ves: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2013. p. 157-161. ISBN: 978-80-8143-127-2."
+        },
+        {
+            "year": "2013",
+            "citation": "KROUSTEK, J.; KOLAR, D. Preprocessing of Binary Executable Files Towards Retargetable Decompilation. 8th International Multi-Conference on Computing in the Global Information Technology (ICCGI'13). Nice: International Academy, Research, and Industry Association, 2013. p. 259-264. ISBN: 978-1-61208-283-7."
+        },
+        {
+            "year": "2013",
+            "citation": "KROUSTEK, J.; KOLAR, D. Approaching Retargetable Static, Dynamic, and Hybrid Executable-Code Analysis. Acta Informatica Pragensia, 2013, vol. 2, no. 1, p. 18-29. ISSN: 1805-4951."
+        },
+        {
+            "year": "2013",
+            "citation": "KROUSTEK, J.; KOLAR, D. Context Parsing (Not Only) of the Object-File-Format Description Language. Computer Science and Information Systems, 2013, vol. 10, no. 4, p. 1673-1702. ISSN: 1820-0214."
+        },
+        {
+            "year": "2013",
+            "citation": "MATULA, P.; KOLAR, D. Reconstruction of simple data types in decompilation. Sbornik prispevku Mezinarodni Masarykovy konference pro doktorandy a mlade vedecke pracovniky 2013. Hradec Kralove: Akademicke sdruzeni MAGNANIMITAS Assn., 2013. p. 1-10. ISBN: 978-80-87952-00-9."
+        },
+        {
+            "year": "2012",
+            "citation": "DURFINA, L.; KOLAR, D. C Source Code Obfuscator. KYBERNETIKA, 2012, vol. 48, no. 3, 8 p. ISSN: 0023-5954."
+        },
+        {
+            "year": "2012",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KABELE, B.; KOLAR, D. On Complex Reconstruction of Functions from Binary Executable Files. 8th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2012. p. 100-101. ISBN: 978-80-87342-15-2."
+        },
+        {
+            "year": "2012",
+            "citation": "KROUSTEK, J.; KOLAR, D. Object-File-Format Description Language and Its Usage in Retargetable Decompilation. In AIP Conference Proceedings. AIP conference proceedings. Kos: American Institute of Physics, 2012. no. 1, p. 466-469. ISBN: 978-0-7354-1091-6. ISSN: 1551-7616."
+        },
+        {
+            "year": "2012",
+            "citation": "KROUSTEK, J.; MATULA, P.; KONCICKY, J.; KOLAR, D. Accurate Retargetable Decompilation Using Additional Debugging Information. Proceedings of the Sixth International Conference on Emerging Security Information, Systems and Technologies (SECURWARE'12). Rome: International Academy, Research, and Industry Association, 2012. p. 79-84. ISBN: 978-1-61208-209-7."
+        },
+        {
+            "year": "2012",
+            "citation": "KVETONOVA, S.; KOLAR, D. People Transfer in City Transport Modeled via CPN. Computer Aided Systems Theory - EUROCAST 2011. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2012. p. 192-199. ISBN: 978-3-642-27548-7."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KOLAR, D. C Source Code Obfuscator. Book of Abstracts ISCAMI 2011. Malenovice: University of Ostrava, 2011. p. 52-52."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KOLAR, D. Generic detection of register realignment. AIP Conference Proceedings. AIP conference proceedings. Kassandra, Halkidiki: American Institute of Physics, 2011. no. 1, p. 806-809. ISBN: 978-0-7354-0956-9. ISSN: 1551-7616."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Advanced Static Analysis for Decompilation Using Scattered Context Grammars. Proceedings of the Applied Computing Conference 2011 (ACC'11). Angers: World Scientific and Engineering Academy, 2011. p. 164-169. ISBN: 978-1-61804-051-0."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Design of a Retargetable Decompiler for a Static Platform-Independent Malware Analysis. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2011. p. 114-114. ISBN: 978-80-214-4305-1."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Design of a Retargetable Decompiler for a Static Platform-Independent Malware Analysis. The 5th International Conference on Information Security and Assurance. Communications in Computer and Information Science, Volume 200. Brno: Springer Verlag, 2011. p. 72-86. ISBN: 978-3-642-23140-7."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Design of an Automatically Generated Retargetable Decompiler. 2nd European Conference of COMPUTER SCIENCE (ECCS'11). Puerto De La Cruz, Tenerife: North Atlantic University Union, 2011. p. 199-204. ISBN: 978-1-61804-056-5."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Design of a Retargetable Decompiler for a Static Platform-Independent Malware Analysis. International Journal of Security and Its Applications, 2011, vol. 5, no. 4, p. 91-106. ISSN: 1738-9976."
+        },
+        {
+            "year": "2011",
+            "citation": "JIRAK, O.; KOLAR, D. Comparison of Classical and Lazy Approach in SCG Compiler. NUMERICAL ANALYSIS AND APPLIED MATHEMATICS ICNAAM 2011: International Conference on Numerical Analysis and Applied Mathematics. AIP conference proceedings. Halkidiki: American Institute of Physics, 2011. no. 1, p. 873-876. ISBN: 978-0-7354-0956-9. ISSN: 1551-7616."
+        },
+        {
+            "year": "2011",
+            "citation": "KROUSTEK, J.; PRIKRYL, Z.; KOLAR, D.; HRUSKA, T. Retargetable Multi-level Debugging in HW/SW Codesign. The 23rd International Conference on Microelectronics (ICM 2011). Hammamet: Institute of Electrical and Electronics Engineers, 2011. p. 1-6. ISBN: 978-1-4577-2209-7."
+        },
+        {
+            "year": "2011",
+            "citation": "KROUSTEK, J.; ZIDEK, S.; KOLAR, D.; MEDUNA, A. Scattered Context Grammars with Priority. International Journal of Advanced Research in Computer Science, 2011, vol. 2, no. 4, p. 1-6. ISSN: 0976-5697."
+        },
+        {
+            "year": "2011",
+            "citation": "KVETONOVA, S.; KOLAR, D. People Transfer in City Transport Modeled via CPN. Proceedings of the 13th International Conference on Computer Aided Systems Theory. Universidad de Las Palmas de Canaria: The Universidad de Las Palmas de Gran Canaria, 2011. p. 106-107. ISBN: 978-84-693-9560-8."
+        },
+        {
+            "year": "2011",
+            "citation": "KVETONOVA, S.; KOLAR, D. Simulation of Petri Nets in Scattered Context Grammars. Proceedings of the International Conference on Communication, Computing and Control Applications. Tunisia: HyperSciences Publisher, 2011. p. 1-5. ISBN: 978-1-4244-9796-6."
+        },
+        {
+            "year": "2011",
+            "citation": "PRIKRYL, Z.; KROUSTEK, J.; HRUSKA, T.; KOLAR, D. Fast Just-In-Time Translated Simulation for ASIP Design. In 14th IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Cottbus: IEEE Computer Society, 2011. p. 279-282. ISBN: 978-1-4244-9753-9."
+        },
+        {
+            "year": "2011",
+            "citation": "PRIKRYL, Z.; KROUSTEK, J.; HRUSKA, T.; KOLAR, D. Fast Translated Simulation of ASIPs. OpenAccess Series in Informatics (OASIcs), 2011, vol. 16, no. 1, p. 93-100. ISSN: 2190-6807."
+        },
+        {
+            "year": "2011",
+            "citation": "PRIKRYL, Z.; KROUSTEK, J.; HRUSKA, T.; KOLAR, D.; MASARIK, K.; HUSAR, A. Design and Simulation of High Performance Parallel Architectures Using the ISAC Language. GSTF International Journal on Computing, 2011, vol. 1, no. 2, p. 97-106. ISSN: 2010-2283."
+        },
+        {
+            "year": "2010",
+            "citation": "HUSAR, A.; TRMAC, M.; HRANAC, J.; HRUSKA, T.; MASARIK, K.; KOLAR, D.; PRIKRYL, Z. Automatic C Compiler Generation from Architecture Description Language ISAC. 6th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2010. p. 84-91. ISBN: 978-80-87342-10-7."
+        },
+        {
+            "year": "2010",
+            "citation": "KOLAR, D.; KVETONOVA, S. Comparison of Formal Models for Processes with Scattered Inter-Dependencies. Proceedings of The European Simulation and Modelling Conference - ESM'2010. Ghent: EUROSIS, 2010. p. 23-26. ISBN: 978-90-77381-57-1."
+        },
+        {
+            "year": "2010",
+            "citation": "KROUSTEK, J.; ZIDEK, S.; KOLAR, D.; MEDUNA, A. Exploitation of Scattered Context Grammars to Model VLIW Instruction Constraints. In Proceedings of the 12th Biennial Baltic Electronics Conference. Tallinn: Institute of Electrical and Electronics Engineers, 2010. p. 165-168. ISBN: 978-1-4244-7357-1."
+        },
+        {
+            "year": "2010",
+            "citation": "KVETONOVA, S.; KOLAR, D. Process Modeling & Optimization of Complex Systems by Scattered Context Grammars. Proceedings of the International Conference on Engineering Computational Technology. Kippen: Civil-Comp Press, 2010. p. 1-12. ISBN: 978-1-905088-39-3."
+        },
+        {
+            "year": "2010",
+            "citation": "PRIKRYL, Z.; KROUSTEK, J.; HRUSKA, T.; KOLAR, D. Fast Translated Simulation of ASIPs. 6th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2010. p. 135-142. ISBN: 978-80-87342-10-7."
+        },
+        {
+            "year": "2010",
+            "citation": "PRIKRYL, Z.; KROUSTEK, J.; HRUSKA, T.; KOLAR, D.; MASARIK, K.; HUSAR, A. Design and Debugging of Parallel Architectures Using the ISAC Language. Proceedings ot the Annual International Conference on Advanced Distributed and Parallel Computing and Real-Time and Embedded Systems. Singapore: Global Science & Technology Forum, 2010. p. 213-221. ISBN: 978-981-08-7656-2."
+        },
+        {
+            "year": "2009",
+            "citation": "JIRAK, O.; KOLAR, D. Derivation in Scattered Context Grammar via Lazy Function Evaluation. 5th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2009. p. 118-125. ISBN: 978-80-87342-04-6."
+        },
+        {
+            "year": "2009",
+            "citation": "JIRAK, O.; KOLAR, D. Derivation in Scattered Context Grammar via Lazy Function Evaluation. Annual Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS'09). OpenAccess Series in Informatics (OASIcs). Wadern: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2009. no. 13, p. 1-10. ISBN: 978-3-939897-15-6. ISSN: 2190-6807."
+        },
+        {
+            "year": "2009",
+            "citation": "KOLAR, D. Exploitation of Scattered Context Grammars to Model Constraints between Components. Proceedings of 31st Autumn International Colloqium ASIS 2009, Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2009. p. 13-18. ISBN: 978-80-86840-47-5."
+        },
+        {
+            "year": "2009",
+            "citation": "KVETONOVA, S.; KOLAR, D. Optimization of Car Repair Processes by Scattered Context Grammars Application. The 2009 European Simulation and Modelling Conference. Ghent: EUROSIS, 2009. p. 146-149. ISBN: 978-90-77381-52-6."
+        },
+        {
+            "year": "2009",
+            "citation": "KVETONOVA, S.; KOLAR, D. Project plan formalisation and modelling via timed coloured Petri nets. International Journal of Computer Aided Engineering and Technology, 2009, vol. 2009, no. 4, p. 388-399. ISSN: 1757-2665."
+        },
+        {
+            "year": "2009",
+            "citation": "SKARVADA, L.; PETERKA, O.; RYSAVY, O.; KOLAR, D. A Calculus of Coercive Subtyping. Draft Proceedings of the 21st International Symposium on Implementation and Application of Functional Languages. SHU-TR-CS-2009-09-01. South Orange: Seton Hall University, 2009. p. 182-192."
+        },
+        {
+            "year": "2008",
+            "citation": "HRUSKA, T.; KOLAR, D.; LUKAS, R.; ZAMECNIKOVA, E. Two-Way Coupled Finite Automaton and Its Usage in Translators. New Aspects of Circuits. WSEAS Applied Informatics & Communications. Heraklion: World Scientific and Engineering Academy, 2008. no. 07, p. 445-449. ISBN: 978-960-6766-82-4. ISSN: 1790-5117."
+        },
+        {
+            "year": "2008",
+            "citation": "JIRAK, O.; KOLAR, D. Control Flow Graph Retrieval and Analysis via Simulation. MOSIS '08. Ostrava: Marq software s.r.o., 2008. p. 67-74. ISBN: 978-80-86840-40-6."
+        },
+        {
+            "year": "2008",
+            "citation": "KOLAR, D. Scattered Context Grammars Parsers. Proceedings of the 14th International Congress of Cybernetics and Systems of WOCS. Wroclaw: Wroclaw University of Technology, 2008. p. 491-500. ISBN: 978-83-7493-400-8."
+        },
+        {
+            "year": "2008",
+            "citation": "KOLAR, D.; CERNY, S. Component Technologies in Virtual Laboratory Framework. 3rd IFIP Central and Eastern European Conference on Software Engineering Techniques CEE-SET 2008. Wroclaw: Wroclaw University of Technology, 2008. p. 179-188. ISBN: 978-83-7493-421-3."
+        },
+        {
+            "year": "2008",
+            "citation": "KOLAR, D.; KVETONOVA, S. Project Plan Formalization and Modeling via Timed CPN. Proceedings of the 6th Industrial Simulation Conference - ISC 08. Ostend: EUROSIS, 2008. p. 34-39. ISBN: 978-90-77381-40-3."
+        },
+        {
+            "year": "2008",
+            "citation": "KOLAR, D.; KVETONOVA, S. Seamless Simplification of Timed-CPN in Project Plan Formalization. 3rd IFIP Central and Eastern European Conference on Software Engineering Techniques CEE-SET 2008. Wroclaw: Wroclaw University of Technology, 2008. p. 29-39. ISBN: 978-83-7493-421-3."
+        },
+        {
+            "year": "2008",
+            "citation": "KOLAR, D.; KVETONOVA, S. Timed Coloured Petri Nets Use in Project Management Formalization Domain. Proceedings of 23th European Simulation and Modelling Conference ESM'2008. France: EUROSIS, 2008. p. 473-478. ISBN: 978-90-77381-44-1."
+        },
+        {
+            "year": "2007",
+            "citation": "KOLAR, D.; BLIZNAK, M. Formalni metody navrhu software aplikovane na embedded systemy: Platformne nezavisly zdrojovy kod (/druha cast/). AT&P Journal, 2007, roc. 07, c. 01, s. 57-58. ISSN: 1335-2237."
+        },
+        {
+            "year": "2007",
+            "citation": "KOLAR, D.; BLIZNAK, M. Formalni metody navrhu software aplikovane na embedded systemy: Platformne nezavisly zdrojovy kod (/treti cast/). AT&P Journal, 2007, roc. 07, c. 02, s. 57-58. ISSN: 1335-2237."
+        },
+        {
+            "year": "2007",
+            "citation": "KRIVKA, Z.; KOLAR, D.; SCHONECKER, R. Component-based Design of Embedded Systems with FPGA Support. Proceedings of XXIXth International Autumn Colloquium Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2007. p. 167-172. ISBN: 978-80-86840-34-5."
+        },
+        {
+            "year": "2006",
+            "citation": "KOLAR, D.; BLIZNAK, M. Formal-method-based Software Development Applied on Embedded Systems: Basic concepts. 17th International DAAAM Symposium 2006. Vienna: 2006. p. 45-46. ISBN: 3-901509-57-7."
+        },
+        {
+            "year": "2006",
+            "citation": "KOLAR, D.; BLIZNAK, M. Formal-method-based Software Development Applied on Embedded Systems: Platform-independent Source Code. Conference Proceedings of MITIP. Budapest: 2006. p. 487-492. ISBN: 963-86586-5-7."
+        },
+        {
+            "year": "2006",
+            "citation": "KOLAR, D.; BLIZNAK, M. Formalni metody navrhu software aplikovane na embedded systemy: Platformne nezavisly zdrojovy kod (/prvni cast/). AT&P Journal, 2006, roc. 06, c. 12, s. 69-70. ISSN: 1335-2237."
+        },
+        {
+            "year": "2006",
+            "citation": "KOLAR, D.; STRUZKA, P. Creation of 3D Environmental Model on Embedded System. VIII. Medzinarodna vedecka konferencia mladych 2006. Zvolen: Technical University in Zvolen, 2006. p. 227-234. ISBN: 80-228-1596-9."
+        },
+        {
+            "year": "2006",
+            "citation": "KOLAR, D.; STRUZKA, P. Formal Views on Rapid Application Development with Processor Expert. Sbornik prispevku z XXVIII. konference EurOpen.CZ, 21.-24. kvetna 2006. Plzen: Czech Open Systems User's Group, 2006. p. 107-118. ISBN: 80-86583-10-4."
+        },
+        {
+            "year": "2006",
+            "citation": "MASARIK, K.; HRUSKA, T.; KOLAR, D. Language and Development Environment For Microprocessor Design Of Embedded Systems. Proceedings of IFAC Workshop on PROGRAMMABLE DEVICES and EMBEDDED SYSTEMS PDeS 2006. Brno: Faculty of Electrical Engineering and Communication BUT, 2006. p. 120-125. ISBN: 80-214-3130-X."
+        },
+        {
+            "year": "2005",
+            "citation": "KOLAR, D. Pushdown Automata: Another Extensions and Transformations. Brno: Faculty of Information Technology BUT, 2005. 76 p."
+        },
+        {
+            "year": "2005",
+            "citation": "KOLAR, D.; MEDUNA, A. Regulated Automata: From Theory towards Applications. Proceeding of 8th International Conference on Information Systems Implementation and Modelling ISIM'05. 1st edition. Ostrava: Marq software s.r.o., 2005. p. 33-48. ISBN: 80-86840-09-3."
+        },
+        {
+            "year": "2005",
+            "citation": "LUKAS, R.; HRUSKA, T.; KOLAR, D.; MASARIK, K. Two-Way Deterministic Translation and Its Usage in Practice. Proceedings of 8th Spring International Conference - ISIM'05. Ostrava: Marq software s.r.o., 2005. p. 101-107. ISBN: 80-86840-09-3."
+        },
+        {
+            "year": "2005",
+            "citation": "MASARIK, K.; HRUSKA, T.; KOLAR, D.; LUKAS, R. System for design and simulation of microprocessors. Proceedings of 8th Spring International Conference - ISIM'05. Ostrava: Marq software s.r.o., 2005. p. 269-276. ISBN: 80-86840-09-3."
+        },
+        {
+            "year": "2004",
+            "citation": "KOLAR, D. Simulation of LLk Parsers with Wide Context by Automaton with One-Symbol Reading Head. Proceedings of 38th International Conference MOSIS '04 - Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2004. p. 347-354. ISBN: 80-85988-98-4."
+        },
+        {
+            "year": "2004",
+            "citation": "KOLAR, D.; CERNY, S. Evolution of Software for Embedded Systems in Processort Expert. Proceedings of Eleventh IEEE International Conference and Workshop on the Engineering of Computer-Based Systems, ECBS 2004. Los Alamitos, CA: IEEE Computer Society, 2004. p. 419-422. ISBN: 0-7695-2125-8."
+        },
+        {
+            "year": "2002",
+            "citation": "KOLAR, D. Postrelacni databaze. Ucebni texty pro predmet PRD, obor VTI, predmet PDS, obor IT. Brno: Fakulta informacnich technologii VUT v Brne, 2002. 562 s."
+        },
+        {
+            "year": "2002",
+            "citation": "KOLAR, D.; MEDUNA, A. Homogenous Grammars with a Reduced Number of Non-Context-Free Productions. INFORMATION PROCESSING LETTERS, 2002, vol. 2002, no. 81, p. 253-257. ISSN: 0020-0190."
+        },
+        {
+            "year": "2002",
+            "citation": "KOLAR, D.; STRUZKA, P.; CERNY, S. Processor Expert, Component Application Builder for Embedded Systems. Proceedings of 5th IEEE Design and Diagnostics of Electronics Circuits and Systems Workshop. Brno: Faculty of Information Technology BUT, 2002. p. 393-397. ISBN: 80-214-2094-4."
+        },
+        {
+            "year": "2001",
+            "citation": "MEDUNA, A.; KOLAR, D. One-Turn Regulated Pushdown Automata and Their Reduction. FUNDAMENTA INFORMATICAE, 2001, vol. 2001, no. 21, p. 1001-1007. ISSN: 0169-2968."
+        },
+        {
+            "year": "2000",
+            "citation": "KOLAR, D. A Petri Net Class for Better Process Verification. Proceedings of 34th Spring International Conference MOSIS 2000, ISM 2000. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 171-176. ISBN: 80-85988-45-3."
+        },
+        {
+            "year": "2000",
+            "citation": "KOLAR, D. A Petri Net for Workflow Modelling. Proceedings of JCKBSE 2000. Brno: unknown, 2000. p. 259-266. ISBN: 1-58603-060-4."
+        },
+        {
+            "year": "2000",
+            "citation": "KOLAR, D.; MEDUNA, A. Descriptional complexity of multi-parallel grammars with respect to the number of nonterminals. In Grammars and Automata for String Processing: from Mathematics and Computer Science to Biology, and Back. London: unknown, 2000. p. 212-225. ISBN: 1-85233-074-0."
+        },
+        {
+            "year": "2000",
+            "citation": "KOLAR, D.; MEDUNA, A. Regulated Pushdown Automata. Acta Cybernetica, 2000, vol. 2000, no. 4, p. 653-664. ISSN: 0324-721X."
+        },
+        {
+            "year": "1999",
+            "citation": "KOLAR, D. SFC - A Language for Workflow Description. Proceedings of 33rd Spring International Conference MOSIS'99, ISM'99. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 101-108. ISBN: 80-85988-31-3."
+        },
+        {
+            "year": "1999",
+            "citation": "KOLAR, D. SFC Validation via Petri Nets. Proceedings of XXIst International Colloquium ASIS'99. Krnov: Marq software s.r.o., 1999. p. 391-396. ISBN: 80-85988-41-0."
+        },
+        {
+            "year": "1999",
+            "citation": "KOLAR, D. Workflow systemy - popisy a modely. Sbornik z letni skoly Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1999. s. 79-86. ISBN: 80-214-1397-2."
+        },
+        {
+            "year": "1998",
+            "citation": "KOLAR, D. Functional Technology for Object-Oriented Modeling and Databases. UIVT FEI VUT Brno: 1998. 105 p."
+        },
+        {
+            "year": "1998",
+            "citation": "KOLAR, D. Huge Component Modelling for System Design. Proceedings of 32nd Spring International Conference MOSIS'98, ISM'98. Sv.Hostyn - Bystrice pod Hostynem: Marq software s.r.o., 1998. p. 131-136. ISBN: 80-85988-24-0."
+        },
+        {
+            "year": "1998",
+            "citation": "KOLAR, D. Type Inference in OO Functional Languages. Knowledge-Based Software Engineering. Frontiers in Artificial Intelligence and Applications. Smolenice: unknown, 1998. p. 108-115. ISBN: 90-5199-417-6. ISSN: 0922-6389."
+        },
+        {
+            "year": "1997",
+            "citation": "KOLAR, D. Overloading in Object-Oriented Data Models. Proceedings of 31st International Conference MOSIS'97. Hradec nad Moravici: Marq software s.r.o., 1997. p. 86-91. ISBN: 80-85988-16-X."
+        },
+        {
+            "year": "1997",
+            "citation": "KOLAR, D. Pretezovani funkci a operatoru, Vlastnosti typu bez prekryti. In Sbornik praci studentu a doktorandu 1997. Brno: neznama, 1997. s. 136-138. ISBN: 80-214-0637-2."
+        },
+        {
+            "year": "1996",
+            "citation": "KOLAR, D. Development Tools for Embedded Systems. Proceedings of 10th International Conference SAER'96 and DECUS NUG Seminar. Varna: unknown, 1996. p. 211-215. ISBN: 954-8329-12-3."
+        },
+        {
+            "year": "1995",
+            "citation": "KOLAR, D. Implementation of Coloured Petri Nets Using Higher-Order Functional Languages. Proceedings of 26th Conference on Computer Science. Ostrava: unknown, 1995. p. 14-21."
+        },
+        {
+            "year": "1995",
+            "citation": "KOLAR, D. Simulation Strategies of CPN Implementation in Functional Programming. Proceedings of Black Sea InfoTech '95 Computer Science Conference. Varna: unknown, 1995. p. 103-110."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2007",
+            "title": "Rocni zprava 2007 projektu FT-TA3/128 Jazyk a vyvojove prostredi pro navrh mikroprocesoru",
+            "metadata": "report, 2007",
+            "authors": "MASARIK, K., HRUSKA, T., KOLAR, D., LUKAS, R."
+        }
+    ],
+    "name": "Kolar Dusan, doc. Dr. Ing."
+}

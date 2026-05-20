@@ -1,0 +1,356 @@
+{
+    "contact": {
+        "department": "Department of Intelligent Systems",
+        "department_abbr": "DITS",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "lengal@fit.vut.cz",
+            "work_phone": "+420 54114 1178",
+            "room": "A219 Office",
+            "researcher_id": "JCO-1846-2023",
+            "orcid_id": "0000-0002-3038-5875",
+            "scopus_author_id": "24822331700"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Automata@FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Automated Analysis and Verification Research Group - VeriFIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "pedagogic_activities": [
+            "pages"
+        ],
+        "awards": [
+            "Prize of Zdena Rabova 2009",
+            "Master's Thesis of the Year 2010",
+            "The Prize of Antonin Svoboda for the Best Dissertation Thesis of 2015 2016",
+            "Best Paper award of CADE-27 2019",
+            "A Distinguished Paper Award at OOPSLA'23 2023",
+            "A Distinguished Paper Award at PLDI'23 2023",
+            "The Best Paper award of FM'23 2023",
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2025"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "After a previous appointment anytime (or you can try to catch me in the office and if is possible, I will try to answer your questions).",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "FAD",
+                "title": "Formal Program Analysis",
+                "details": "Czech, English, winter",
+                "department": "DITS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "FAD",
+                "title": "Formal Program Analysis",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IAM",
+                "title": "Advanced Mathematics",
+                "details": "Exercise in computer lab, Fundamentals seminar, Lecture,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IOS",
+                "title": "Operating Systems",
+                "details": "Lecture, Project, Seminar,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IZLO",
+                "title": "Introduction to Logic for Computer Science",
+                "details": "Lecture,\nCzech, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "MAD",
+                "title": "Selected Chapters on Mathematics",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "SAV",
+                "title": "Static Analysis and Verification",
+                "details": "Lecture,\nCzech, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "SLOa",
+                "title": "Complexity (in English)",
+                "details": "Lecture,\nEnglish, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "TIN",
+                "title": "Theoretical Computer Science",
+                "details": "Fundamentals seminar, Lecture, Project, Seminar,\nCzech, winter",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "Concise Models for Efficient Reasoning",
+            "details": "GACR, Standardni projekty, 26-22640S, start: 2026-01-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "QUAK: Quantum Program Analysis using Automata Toolkit",
+            "details": "GACR, Standardni projekty, 25-18318S, start: 2025-01-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Verification and Analysis for Safety and Security of Applications in Life",
+            "details": "EU, HORIZON EUROPE, SEP-210979090, start: 2024-06-01, end: 2027-05-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Reliable, Secure, and Intelligent Computer Systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Representing Boolean Functions by a Self-Adaptable Data Structure",
+            "details": "GACR, Standardni projekty, GA23-07565S, start: 2023-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Efficient Finite Automata for Automated Reasoning",
+            "details": "MSMT, ERC CZ, LL1908, start: 2020-01-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Scalable Techniques for Analysis of Complex Properties of Computer Systems",
+            "details": "GACR, Standardni projekty, GA20-07487S, start: 2020-01-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Spolehlive, bezpecne a efektivni pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Verification and Validation of Automated Systems' Safety and Security",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A20009, start: 2020-05-01, end: 2023-07-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Arrowhead Tools for Engineering of Digitalisation Solutions",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A19010, start: 2019-05-01, end: 2022-07-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Automata for Decision Procedures and Verification",
+            "details": "GACR, Standardni projekty, GA19-24397S, GA19-24397S, start: 2019-01-01, end: 2021-12-31, running"
+        },
+        {
+            "year": "2019",
+            "title": "Flexible probe for lawful interceptions",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022143, start: 2019-07-01, end: 2022-09-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "AQUAS: Aggregated Quality Assurance for Systems",
+            "details": "EU, Horizon 2020, 8A17001, 737475, start: 2017-05-01, end: 2020-04-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Bezpecne a spolehlive pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-4014, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Efficient Automata Techniques for Formal Reasoning",
+            "details": "GACR, Juniorske granty, GJ16-24707Y, start: 2016-01-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Relaxed equivalence checking for approximate computing",
+            "details": "GACR, Standardni projekty, GA16-17538S, start: 2016-01-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Automatic Formal Analysis and Verification of Programs with Complex Unbounded Data and Control Structures",
+            "details": "GACR, Standardni projekty, GA14-11384S, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Spolehlivost a bezpecnost v IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2486, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Innovation of the Complexity Theory class",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR166/2013/G1, start: 2013-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Verification of Infinite State Systems Based on Finite Automata",
+            "details": "GACR, Postdoktorandske granty, GP13-37876P, start: 2013-02-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Application of functional verification in the digital circuits development process",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR1798/2012/G1, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Verifikace a optimalizace pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-12-1, start: 2012-01-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Mathematical and Engineering Approaches to Developing Reliable and Secure Concurrent and Distributed Computer Systems",
+            "details": "GACR, Doktorske granty, GD102/09/H042, start: 2009-01-30, end: 2012-12-31, completed"
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2023",
+            "title": "A symbolic algorithm for the case-split rule in solving word constraints with extensions (technical report)",
+            "metadata": "report, 2023",
+            "authors": "HAVLENA, V.; LENGAL, O.; CHEN, Y.; TURRINI, A."
+        },
+        {
+            "year": "2023",
+            "title": "Modular Mix-and-Match Complementation of Buchi Automata (Technical Report)",
+            "metadata": "report, 2023",
+            "authors": "HAVLENA, V.; SMAHLIKOVA, B.; LENGAL, O.; LI, Y.; TURRINI, A."
+        },
+        {
+            "year": "2022",
+            "title": "Complementing Buchi Automata with Ranker (Technical Report)",
+            "metadata": "report, 2022",
+            "authors": "HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B."
+        },
+        {
+            "year": "2022",
+            "title": "Sky Is Not the Limit: Tighter Rank Bounds for Elevator Automata in Buchi Automata Complementation (Technical Report)",
+            "metadata": "report, 2022",
+            "authors": "HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B."
+        },
+        {
+            "year": "2021",
+            "title": "Reducing (to) the Ranks: Efficient Rank-based Buchi Automata Complementation (Technical Report)",
+            "metadata": "report, 2021",
+            "authors": "HAVLENA, V.; LENGAL, O."
+        },
+        {
+            "year": "2019",
+            "title": "Automata Terms in a Lazy WSkS Decision Procedure (Technical Report)",
+            "metadata": "report, 2019",
+            "authors": "HAVLENA, V.; HOLIK, L.; LENGAL, O.; VOJNAR, T."
+        },
+        {
+            "year": "2019",
+            "title": "Succinct Determinisation of Counting Automata via Sphere Construction (Technical Report)",
+            "metadata": "report, 2019",
+            "authors": "HOLIK, L.; HOLIKOVA, L.; LENGAL, O.; VOJNAR, T.; SAARIKIVI, O.; VEANES, M."
+        },
+        {
+            "year": "2018",
+            "title": "Simulation Algorithms for Symbolic Automata (Technical Report)",
+            "metadata": "report, 2018",
+            "authors": "HOLIK, L.; LENGAL, O.; SIC, J.; VOJNAR, T.; VEANES, M."
+        },
+        {
+            "year": "2017",
+            "title": "An Executable Sequential Specification for Spark Aggregation",
+            "metadata": "report, 2017",
+            "authors": "LENGAL, O.; HONG, C.; CHEN, Y.; MU, S.; SINHA, N.; WANG, B."
+        },
+        {
+            "year": "2017",
+            "title": "Counterexample Validation and Interpolation-Based Refinement for Forest Automata",
+            "metadata": "report, 2017",
+            "authors": "HRUSKA, M.; HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; VOJNAR, T."
+        },
+        {
+            "year": "2017",
+            "title": "Lazy Automata Techniques for WS1S",
+            "metadata": "report, 2017",
+            "authors": "FIEDOR, T.; HOLIK, L.; JANKU, P.; LENGAL, O.; VOJNAR, T."
+        },
+        {
+            "year": "2017",
+            "title": "Register Automata with Linear Arithmetic",
+            "metadata": "report, 2017",
+            "authors": "LENGAL, O.; CHEN, Y.; TAN, T.; WU, Z."
+        },
+        {
+            "year": "2014",
+            "title": "Compositional Entailment Checking for a Fragment of Separation Logic",
+            "metadata": "report, 2014",
+            "authors": "ENEA, C.; LENGAL, O.; SIGHIREANU, M.; VOJNAR, T."
+        },
+        {
+            "year": "2013",
+            "title": "Fully Automated Shape Analysis Based on Forest Automata",
+            "metadata": "report, 2013",
+            "authors": "HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T."
+        },
+        {
+            "year": "2013",
+            "title": "Verification of Heap Manipulating Programs with Ordered Data by Extended Forest Automata",
+            "metadata": "report, 2013",
+            "authors": "HOLIK, L.; JONSSON, B.; LENGAL, O.; VOJNAR, T.; TRINH, Q.; ABDULLA, P."
+        },
+        {
+            "year": "2012",
+            "title": "Towards Beneficial Hardware Acceleration in HAVEN: Evaluation of Testbed Architectures",
+            "metadata": "report, 2012",
+            "authors": "ZACHARIASOVA, M.; LENGAL, O."
+        },
+        {
+            "year": "2011",
+            "title": "Efficient Inclusion Checking on Explicit and Semi-Symbolic Tree Automata",
+            "metadata": "report, 2011",
+            "authors": "HOLIK, L.; LENGAL, O.; SIMACEK, J.; VOJNAR, T."
+        },
+        {
+            "year": "2011",
+            "title": "HAVEN: An Open Framework for FPGA-Accelerated Functional Verification of Hardware",
+            "metadata": "report, 2011",
+            "authors": "ZACHARIASOVA, M.; LENGAL, O.; KAJAN, M."
+        }
+    ],
+    "name": "Lengal Ondrej, doc. Ing., Ph.D."
+}

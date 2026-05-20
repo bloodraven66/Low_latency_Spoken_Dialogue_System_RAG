@@ -1,0 +1,2405 @@
+{
+    "group": "Information and Database Systems Research Group (IS)",
+    "about": {
+        "information_and_database_systems_research_group": [
+            "Information and Database Systems Group performs basic and applied research in the area of information and database systems projecting, development and maintaining. It also focuses on knowledge discovery from various data types, especially multimedial data, and information extraction from documents."
+        ],
+        "research_interests": [
+            "Research and application of modelling techniques in information systems development",
+            "Object oriented database systems",
+            "Knowledge discovery in databases",
+            "Systems for decision support, OLAP systems",
+            "Information extraction from documents",
+            "Web technologies",
+            "Interpreted languages and their usage",
+            "Process mining",
+            "Big Data"
+        ],
+        "contact": [
+            "doc. Ing. Radek Burget, Ph.D.Head of research groupburgetr@fit.vut.czhttps://www.fit.vut.cz/person/burgetr/.en"
+        ],
+        "overview": [
+            "Information and Database Systems Group performs basic and applied research in the area of information and database systems projecting, development and maintaining. It also focuses on knowledge discovery from various data types, especially multimedial data, and information extraction from documents."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Burget Radek, doc. Ing., Ph.D.",
+                "position": "Principal researcher",
+                "notes": [
+                    "Information Extraction from the Web",
+                    "Semantic web and ontologies",
+                    "Document content segmentation and modelling",
+                    "Information systems technology",
+                    "CSSBox project- an experimental HTML/CSS rendering engine",
+                    "FitLayout- a framework for web document annotation and analysis."
+                ]
+            }
+        ],
+        "researcher": [
+            {
+                "name": "Burgetova Ivana, Ing., Ph.D.",
+                "position": "Researcher",
+                "notes": [
+                    "Data mining",
+                    "Data processing",
+                    "Bioinformatics"
+                ]
+            },
+            {
+                "name": "Hruska Tomas, prof. Ing., CSc.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Hynek Jiri, Ing., Ph.D.",
+                "position": "Researcher",
+                "notes": [
+                    "data processing and visualization/geovisualizaton; visual perception (D3.js, Leaflet, design principles, ...)",
+                    "development of IoT dashboards",
+                    "front-end development (web technologies, JS/TS, React, Angular, ...)",
+                    "development ofGeovistogeovisualization library",
+                    "IDE extensions development, text editors, language processing (Eclipse, CDT, Xtext, Java, ...)"
+                ]
+            },
+            {
+                "name": "Lampa Petr, Ing.",
+                "position": "Researcher",
+                "notes": [
+                    "development of Pascal/ADT compiler and run-time libraries, 1983-1989",
+                    "microprocessor systems design (EPROM emulator with Z-80,intelligent 4-port serial multiplexor, coprocessor board based on Motorola 68000), 1983-1990",
+                    "development of operating system DOS/ADT, 1984-1989",
+                    "Unix systems and LAN administration, 1990-",
+                    "open-source patches (apache, sendmail, sshguard, tinyproxy, XORP, FreeBSD, inn, openssl, ...), 1995-",
+                    "Computer Centremanagement, 1994-2021",
+                    "Web design and implementation (Web of FEECS DCSE, FEECS, FIT),national charset support for Apache, 1996-",
+                    "design of University Gigabit Backbone, 1998-2002",
+                    "development of FIT information system, 2001-2020",
+                    "IPv6 installation and operation on BUT, 2007-2020"
+                ]
+            },
+            {
+                "name": "Rychly Marek, RNDr., Ph.D.",
+                "position": "Researcher",
+                "notes": [
+                    "Component-Based Development (CBD) of software systems",
+                    "formal models of information systems' architectures",
+                    "Service-Oriented Architecures (SOA)"
+                ]
+            }
+        ],
+        "ph.d._student": [
+            {
+                "name": "Lazur Juraj, Ing.",
+                "position": "Ph.D. Student",
+                "notes": [
+                    "Data processing, data models and data transformation",
+                    "Information Systems in Public Transport Domain -Lissy",
+                    "Routing in Transport Networks -LineShaper",
+                    "Geographical Information Systems"
+                ]
+            },
+            {
+                "name": "Ondruskova Magdalena, Ing.",
+                "position": "Ph.D. Student"
+            }
+        ],
+        "webmaster": [
+            {
+                "name": "Bartik Vladimir, Ing., Ph.D.",
+                "position": "Webmaster",
+                "notes": [
+                    "Knowledge discovery from databases",
+                    "Text and process mining",
+                    "Database systems"
+                ]
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2019",
+            "title": "Validated Data Storage",
+            "details": "MPO, TRIO, FV40176, start: 2019-07-01, end: 2021-06-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Analysis of the current database model and design of the new model",
+            "details": "investAukce, start: 2017-06-01, end: 2017-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Tools and methods for video and image processing to improve effectivity of rescue and security services operations",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020068, start: 2017-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Portable and Predictable Performance on Heterogeneous Embedded Manycores",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7HZC13005, start: 2012-09-01, end: 2015-10-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Tools and Methods for Video and Image Processing for the Fight against Terrorism",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015006, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Automated attack processing",
+            "details": "MPO, TIP, FR-TI1/037, start: 2009-10-01, end: 2013-09-30, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Modeling of Service-Oriented Architectures",
+            "details": "FR2233/2007/G1, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Research and application of systems for large data analysis and decision support",
+            "details": "MPO, TANDEM, FT-TA3/162, start: 2006-01-01, end: 2010-06-30, completed"
+        },
+        {
+            "year": "2005",
+            "title": "A Framework for Formal Specifications and Prototyping of Information System's Network Applications",
+            "details": "GACR, Standardni projekty, GA102/05/0723, start: 2005-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Innovation of the course Knowledge Discovery in Databases",
+            "details": "FR1690/2004/F1, start: 2004-01-01, end: 2004-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Research and implementation the knowledge management methods for development and maintenance of software",
+            "details": "AV CR, Informacni spolecnost (Narodni program vyzkumu), 1ET409980417, start: 2004-09-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Cooperation of Universities in Supporting the State Struggle with Computer Crime",
+            "details": "start: 2002-01-01, end: 2003-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Embedded Control Systems and their Inter-Communication",
+            "details": "GACR, Standardni projekty, GA102/02/1032, start: 2002-01-01, end: 2004-12-31, completed"
+        },
+        {
+            "year": "2000",
+            "title": "Knowledge discovery in databases and knowledge representation",
+            "details": "FR1620/2000/G1, start: 2000-01-01, end: 2000-12-31, completed"
+        },
+        {
+            "year": "1999",
+            "title": "Models of Data Approach in The Object-Oriented Databases",
+            "details": "FR1086/1999/G1, start: 1999-01-01, end: 1999-12-31, completed"
+        },
+        {
+            "year": "1999",
+            "title": "Process Definition In Workflow Management Systems",
+            "details": "FR1088/1999/G1, start: 1999-01-01, end: 1999-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Data Mining in Object-Oriented Database",
+            "details": "FR0243/1998/G, start: 1998-01-01, end: 1998-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Multi-type Objects in Object Data Model",
+            "details": "GACR, Standardni projekty, GA201/97/P111, start: 1998-01-01, end: 1999-12-31, completed"
+        },
+        {
+            "year": "1997",
+            "title": "High-degree object-oriented functional languages with symbol overloading",
+            "details": "start: 1997-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1997",
+            "title": "Inheritance modelling using limits",
+            "details": "start: 1997-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1997",
+            "title": "Modelling inheritance in object-oriented model",
+            "details": "FR0630/1997/G, start: 1997-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1997",
+            "title": "Object-oriented databases - functional semantic data model",
+            "details": "FR0631/1997/G, start: 1997-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1997",
+            "title": "Security of information systems",
+            "details": "FR617/1997/F1, start: 1997-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1996",
+            "title": "Design of an architecture of an object-oriented database management system language processor and principles of its implementation",
+            "details": "start: 1996-01-01, end: 1996-12-31, completed"
+        },
+        {
+            "year": "1996",
+            "title": "Design of Parallel Textbases",
+            "details": "ES028(1996), start: 1996-01-01, end: 1998-12-31, completed"
+        },
+        {
+            "year": "1996",
+            "title": "Object-oriented Database Model",
+            "details": "GA102/96/0986, start: 1996-01-01, end: 1998-12-31, completed"
+        },
+        {
+            "year": "1993",
+            "title": "Project and prototype of the information system for study and job guidance at universities",
+            "details": "FR 0746, start: 1993-01-01, end: 1993-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "details": "BURGETOVA, I.; MATOUSEK, P.; RYSAVY, O. Towards identification of network applications in encrypted traffic. Annals of Telecommunications, 2025, vol. 2025, no. 9, p. 1015-1032. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "ELIAS, R.; LAZUR, J.; HYNEK, J.; HRUSKA, T. A Spatial Algorithm for Dataset Integration Applied to Cycling Data. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "ONDRUSKOVA, M.; HYNEK, J.; BURGET, R. Towards Street-Level Traffic Analysis Using Waze Crowdsourced Data. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "STOLFA, F.; JOHN, P.; HYNEK, J.; HRUSKA, T. Transferability of ML Time Series Prediction for Energy Forecasting in Smart Homes. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "SULC, O.; JOHN, P.; HYNEK, J.; VALNY, M.; HRUSKA, T. Enhancing Bulk KPI Evaluation Efficiency in Smart Cities Using Parallel Computing. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "TURYTSIA, O.; ZAKLOVA, K.; HYNEK, J.; JOHN, P.; HRUSKA, T. Enhancing Retail Location Decisions in City of Brno: An Application of Geospatial Analysis Tools. Information Systems Engineering and Management. Lecture Notes in Networks and Systems. Information Systems Engineering and Management. Cham: Springer Nature Switzerland AG, 2025. no. 28, p. 469-486. ISBN: 978-3-031-77530-7. ISSN: 2367-3389. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "ZAKLOVA, K.; JOHN, P.; JANOSIK, A.; HYNEK, J.; HRUSKA, T. Transparency in Czech Regions: Evaluation of Open Data Availability for Public Awareness. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "JOHN, P.; ZAKLOVA, K.; LAZUR, J.; HYNEK, J.; HRUSKA, T. A Self-Hosted Approach to Automatic CI/CD Using Open-Source Tools on Low-power Devices. In 2024 IEEE 17th International Scientific Conference on Informatics. Poprad: Institute of Electrical and Electronics Engineers, 2024. p. 105-112. ISBN: 979-8-3503-8767-4. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "LAZUR, J.; HYNEK, J.; HRUSKA, T. A Unified Approach to Real-Time Public Transport Data Processing. In Lecture Notes in Networks and Systems. Lecture Notes in Networks and Systems. Lecture Notes in Networks and Systems. Cham: Springer Nature Switzerland AG, 2024. no. 989, p. 86-95. ISBN: 978-3-031-60226-9. ISSN: 2367-3370. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "LAZUR, J.; HYNEK, J.; HRUSKA, T. From Data to Routes: A Comprehensive Approach to Public Transport Line Routing. In IEEE Xplore. 2024 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2024. p. 1-6. ISBN: 979-8-3503-6095-0. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "ZAKLOVA, K.; HYNEK, J.; HRUSKA, T. Towards Transparent Governance: Unifying City Councils Decision-Making Data Processing and Visualization. In Lecture Notes in Networks and Systems. Lecture Notes in Networks and Systems. Lecture Notes in Networks and Systems. Cham: Springer Nature Switzerland AG, 2024. no. 987, p. 402-411. ISBN: 978-3-031-60220-7. ISSN: 2367-3370. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "BURGET, R. Scraping Data from Web Pages using SPARQL Queries. Web Engineering - 23rd International Conference, ICWE 2023. Lecture Notes in Computer Science. Alicante: Springer Nature Switzerland AG, 2023. p. 293-300. ISBN: 978-3-031-34443-5. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "BURGET, R.; SALEM, H. Creating Searchable Web Page Snapshots using Semantic Technologies. Web Engineering - 23rd International Conference, ICWE 2023. Lecture Notes in Computer Science. Alicante: Springer Nature Switzerland AG, 2023. p. 355-358. ISBN: 978-3-031-34443-5. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HYNEK, J.; RUSNAK, V. Towards Interactive Geovisualization Authoring Toolkit for Industry Use Cases. In Communications in Computer and Information Science. Volume 1691 CCIS. Cham: Springer Nature Switzerland AG, 2023. p. 232-256. ISBN: 978-3-031-25476-5. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "JOHN, P.; HYNEK, J.; HRUSKA, T.; VALNY, M. Application of Time Series Database for IoT Smart City Platform. In IEEE Xplore. 2023 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2023. p. 1-6. ISBN: 979-8-3503-2162-3. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BURGET, R. Model-Based Integration of Unstructured Web Data Sources Using Graph Representation of Document Contents. In 15th International Conference on Web Information Systems and Technologies. Vienna: SciTePress - Science and Technology Publications, 2019. p. 326-333. ISBN: 978-989-758-386-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MATOUSEK, P.; RYSAVY, O.; BURGETOVA, I. Extending Networking Curriculum with Applied Artificial Intelligence. In Proceedings of EAEEIE 2019. Ruse: Institute of Electrical and Electronics Engineers, 2019. p. 11-16. ISBN: 978-1-7281-3222-8. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MUSIL, M.; KONEGGER, H.; HON, J.; BEDNAR, D.; DAMBORSKY, J. Computational Design of Stable and Soluble Biocatalysts. ACS Catalysis, 2019, vol. 9, no. 2, p. 1033-1054. ISSN: 2155-5435. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "BEERENS, K.; MAZURENKO, S.; KUNKA, A.; MARQUES, S.; HANSEN, N.; MUSIL, M.; CHALOUPKOVA, R.; WATERMAN, J.; BREZOVSKY, J.; BEDNAR, D.; PROKOP, Z.; DAMBORSKY, J. Evolutionary Analysis As a Powerful Complement to Energy Calculations for Protein Stabilization. ACS Catalysis, 2018, vol. 2018, no. 8, p. 9420-9428. ISSN: 2155-5435. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "HLOSTA, M.; ZDRAHAL, Z.; ZENDULKA, J. Are we meeting a deadline? classification goal achievement in time in the presence of imbalanced data. KNOWLEDGE-BASED SYSTEMS, 2018, vol. 2018, no. 160, p. 278-295. ISSN: 0950-7051. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KAZZAZ, M.; RYCHLY, M. A Case Study: Mobile Service Migration Based Traffic Jam Detection. International Journal of Systems and Service-Oriented Engineering, 2018, vol. 8, no. 1, p. 44-57. ISSN: 1947-3052. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "RYCHLY, M.; RYSAVY, O. Big Data Security Analysis with TARZAN Platform. Journal of Cyber Security and Mobility, 2018, vol. 8, no. 2, p. 165-188. ISSN: 2245-1439. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "BURGET, R. Information Extraction from the Web by Matching Visual Presentation Patterns. In Knowledge Graphs and Language Technology: ISWC 2016 International Workshops: KEKI and NLP&DBpedia. Lecture Notes in Computer Science vol. 10579. Kobe: Springer International Publishing, 2017. p. 10-26. ISBN: 978-3-319-68722-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "HLOSTA, M.; ZDRAHAL, Z.; ZENDULKA, J. Ouroboros: Early identification of at-risk students without models based on legacy data. In LAK '17 Proceedings of the Seventh International Learning Analytics & Knowledge Conference. Vancouver: Association for Computing Machinery, 2017. p. 6-15. ISBN: 978-1-4503-4870-6. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "ISMAEL, M. Detecting Anomalous Trajectories and Traffic Services. Data a znalosti 2017. Plzen: University of West Bohemia in Pilsen, 2017. p. 1-5. ISBN: 978-80-261-0720-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KAZZAZ, M.; RYCHLY, M. Restful-based Mobile Web Service Migration Framework (Presentation). MEMICS 2017: 12th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Telc: 2017. p. 8-8. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KAZZAZ, M.; RYCHLY, M. Restful-based Mobile Web Service Migration Framework. In 2017 IEEE International Conference on AI & Mobile Services (AIMS). Honolulu: IEEE Computer Society, 2017. p. 70-75. ISBN: 978-1-5386-1999-5. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "RYCHLY, M. Dynamically Reconfigurable Architectures: An Evaluation of Approaches for Preventing Architectural Violations. In Computer Systems and Software Engineering: Concepts, Methodologies, Tools, and Applications. Hershey, Pennsylvania: IGI Global, 2017. p. 539-556. ISBN: 978-1-5225-3923-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "RYCHLY, M.; RYSAVY, O. TARZAN: An Integrated Platform for Security Analysis. In Proceedings of the 2017 Federated Conference on Computer Science and Information Systems. Annals of Computer Science and Information Systems, Volume 11. Praha: IEEE Computer Society, 2017. p. 561-567. ISBN: 978-83-946253-7-5. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "ZELENY, J.; BURGET, R.; ZENDULKA, J. Box clustering segmentation: A new method for vision-based web page preprocessing. INFORMATION PROCESSING & MANAGEMENT, 2017, vol. 53, no. 3, p. 735-750. ISSN: 0306-4573. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "BENDL, J.; MUSIL, M.; STOURAC, J.; ZENDULKA, J.; DAMBORSKY, J.; BREZOVSKY, J. PredictSNP2: A Unified Platform for Accurately Evaluating SNP Effects by Exploiting the Different Characteristics of Variants in Distinct Genomic Regions. PLoS Computational Biology, 2016, vol. 12, no. 5, p. 1-18. ISSN: 1553-7358. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "BENDL, J.; STOURAC, J.; SEBESTOVA, E.; VAVRA, O.; MUSIL, M.; BREZOVSKY, J.; DAMBORSKY, J. HotSpot Wizard 2.0: Web Server for Automated Design of Mutations and Smart Libraries. Nucleic Acids Research, 2016, vol. 44, no. 1, p. 479-487. ISSN: 1362-4962. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "POSPISIL, M.; BARTIK, V.; HRUSKA, T. Analyzing Machine Performance Using Data Mining. In 2016 IEEE Symposium on Computational Intelligence and Data Mining. Athens: Institute of Electrical and Electronics Engineers, 2016. p. 1-7. ISBN: 978-1-5090-4239-5. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ZELENY, J.; BURGET, R. Accelerating the process of web page segmentation via template clustering. International Journal of Intelligent Information and Database System, 2016, vol. 2016, no. 2, p. 134-153. ISSN: 1751-5858. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "KAZZAZ, M.; RYCHLY, M. Web Service Migration using the Analytic Hierarchy Process. In 2015 IEEE International Conference on Mobile Services. New York: IEEE Computer Society, 2015. p. 423-430. ISBN: 978-1-4673-7284-8. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MILICKA, M.; BURGET, R. Information Extraction from Web Sources based on Multi-aspect Content Analysis. In Semantic Web Evaluation Challenges, SemWebEval 2015 at ESWC 2015. Communications in Computer and Information Science. Communications in Computer and Information Science. Portoroz: Springer International Publishing, 2015. no. 548, p. 81-92. ISBN: 978-3-319-25517-0. ISSN: 1865-0929. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "RYCHLY, M.; SKODA, P.; SMRZ, P. Heterogeneity-Aware Scheduler for Stream Processing Frameworks. International Journal of Big Data Intelligence, 2015, vol. 2, no. 2, p. 70-80. ISSN: 2053-1397. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "BENDL, J.; STOURAC, J.; SALANDA, O.; PAVELKA, A.; WIEBEN, E.; ZENDULKA, J.; BREZOVSKY, J.; DAMBORSKY, J. PredictSNP: Robust and Accurate Consensus Classifier for Prediction of Disease-Related Mutations. PLoS Computational Biology, 2014, vol. 10, no. 1, p. 1-11. ISSN: 1553-7358. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "LOPATOVSKY, L.; PALICKA, A.; SKODA, P.; VAZNY, J.; VRABELOVA, P. Knowledge Discovery in Mega-Spectra Archives. In ASTRONOMICAL DATA ANALYSIS SOFTWARE AND SYSTEMS: XXIV. Astronomical Society of the Pacific Conference Series. Calgary: Astronomical Society of the Pacific, 2014. p. 87-90. ISBN: 978-1-58381-874-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MATES, V.; RYCHLY, M.; HRUSKA, T. Modelling of Context-adaptable Business Processes and their Implementation as Service-oriented Architecture. Enterprise and Competitive Environment. Bucovice: Martin Striz Publishing, 2014. p. 266-266. ISBN: 978-80-87106-74-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MATES, V.; RYCHLY, M.; HRUSKA, T. Modelling of Context-adaptable Business Processes and their Implementation as Service-oriented Architecture. In Procedia Economics and Finance. Procedia economics and finance. Amsterdam: 2014. no. 2014, p. 412-421. ISSN: 2212-5671. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MILICKA, M.; BURGET, R. Multi-aspect Document Content Analysis using Ontological Modelling. Proceedings of 9th Workshop on Intelligent and Knowledge Oriented Technologies (WIKT 2014). Smolenice: Vydavatelstvo STU, 2014. p. 9-12. ISBN: 978-80-227-4267-2. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "RYCHLY, M. Dynamically Reconfigurable Architectures: An Evaluation of Approaches for Preventing Architectural Violations. In Handbook of Research on Architectural Trends in Service-Driven Computing (2 Volumes). Advances in Systems Analysis, Software Engineering, and High Performance Computing. Hershey, Pennsylvania: IGI Global, 2014. p. 26-43. ISBN: 978-1-4666-6178-3. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "RYCHLY, M.; SKODA, P.; SMRZ, P. Scheduling Decisions in Stream Processing on Heterogeneous Clusters. In 2014 Eighth International Conference on Complex, Intelligent and Software Intensive Systems. Birmingham: IEEE Computer Society, 2014. p. 614-619. ISBN: 978-1-4799-4325-8. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "VRABELOVA, P. Comparison of Wavelet Based Feature Extraction Methods in Classification of Emission Line Stellar Spectra. Proceedings of the 20th Conference STUDENT EEICT 2014. Volume 3. Brno: Brno University of Technology, 2014. p. 254-258. ISBN: 978-80-214-4924-4. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "BURGET, R.; SMRZ, P. Extracting Visually Presented Element Relationships from Web Documents. International Journal of Cognitive Informatics and Natural Intelligence, 2013, vol. 2013, no. 2, p. 13-29. ISSN: 1557-3958. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "CHMELAR, P.; MLICH, J.; PESEK, M.; VOLF, T.; ZEMCIK, P.; ZENDULKA, J. Brno University of Technology at TRECVid 2013: Interactive Surveillance Event Detection. 2013 TREC Video Retrieval Evaluation Notebook Papers and Slides. Gaithersburg: 2013. p. 1-9. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "CHMELAR, P.; PESEK, M.; VOLF, T.; ZENDULKA, J.; FROML, V. VTApi: an Efficient Framework for Computer Vision Data Management and Analytics. Advanced Concepts for Intelligent Vision Systems (ACIVS) - Proceedings of the 15th International Conference, ACIVS 2013. Lecture Notes in Computer Science (LNCS), Volume 8192 2013. Poznan: Springer London, 2013. p. 378-388. ISBN: 978-3-319-02894-1. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HELLER, S.; VOLF, T. Datastore MongoDB Stub pro Google App Engine SDK. Datakon a Znalosti 2013. 1. vydani. Ostrava: VSB Technicka univerzita Ostrava, 2013. s. 195-204. ISBN: 978-80-248-3189-3. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HLOSTA, M.; SEBEK, M.; ZENDULKA, J. Approach to Visualisation of Evolving Association Rule Models. Proceedings of The Second International Conference on Informatics & Applications (ICIA 2013). \u0141odz: The Society of Digital Information and Wireless Communications, 2013. p. 47-52. ISBN: 978-1-4673-5255-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HLOSTA, M.; STRIZ, R.; KUPCIK, J.; ZENDULKA, J.; HRUSKA, T. Constrained Classification of Large Imbalanced Data by Logistic Regression and Genetic Algorithm. International Journal of Machine Learning and Computing, 2013, vol. 2013, no. 3, p. 214-218. ISSN: 2010-3700. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HLOSTA, M.; STRIZ, R.; ZENDULKA, J.; HRUSKA, T. PSO-based Constrained Imbalanced Data Classification. Proceedings of the Twelth International Conference on Informatics INFORMATICS'2013. Spisska Nova Ves: The University of Technology Kosice, 2013. p. 234-239. ISBN: 978-80-8143-127-2. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KAZZAZ, M.; RYCHLY, M. A Web Service Migration Framework. ICIW 2013, The Eighth International Conference on Internet and Web Applications and Services. Rome: The International Academy, Research and Industry Association, 2013. p. 58-62. ISBN: 978-1-61208-280-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KAZZAZ, M.; RYCHLY, M. Ontology-based Context Modelling and Reasoning in the Web Service Migration Framework. Acta Electrotechnica et Informatica, 2013, vol. 13, no. 4, p. 5-12. ISSN: 1335-8243. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KAZZAZ, M.; RYCHLY, M. Web Service Migration with Migration Decisions Based on Ontology Reasoning. In Proceedings of the Twelfth International Conference on Informatics - Informatics'2013. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2013. p. 186-191. ISBN: 978-80-8143-127-2. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MOSCHOLIOS, I.; RYCHLY, M. ICIW 2013, The Eighth International Conference on Internet and Web Applications and Services. Wilmington: 2013. 271 p. ISBN: 978-1-62748-668-2. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "POSPISIL, M.; MATES, V.; HRUSKA, T.; BARTIK, V. Process Mining in a Manufacturing Company for Predictions and Planning. International Journal on Advances in Software, 2013, vol. 2013, no. 3, p. 283-297. ISSN: 1942-2628. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VRABELOVA, P. Wavelet Based Feature Extraction of Be Stars Spectra. Proceedings of the 19th Conference STUDENT EEICT 2013. Vol. 3. Brno: Brno University of Technology, 2013. p. 40-44. ISBN: 978-80-214-4695-3. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VRABELOVA, P.; BARINA, D.; SKODA, P.; VAZNY, J.; ZENDULKA, J. Classification of Spectra of Emission-line Stars Using Feature Extraction Based on Wavelet Transform. In Proceedings of 23rd Annual Astronomical Data Analysis Software and Systems (ADASS) Conference. San Francisco: Astronomical Society of the Pacific, 2013. p. 177-180. ISBN: 978-1-58381-854-1. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VRABELOVA, P.; BARINA, D.; SKODA, P.; ZENDULKA, J.; VAZNY, J. Classification of Be Stars Using Feature Extraction Based on Discrete Wavelet Transform. Proceedings of conferences Datakon and Znalosti 2013. Ostrava: VSB-Technical University of Ostrava, 2013. p. 95-102. ISBN: 978-80-248-3189-3. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VRABELOVA, P.; SKODA, P.; VAZNY, J. Classification of Spectra of Emission Line Stars Using Machine Learning Techniques. International Journal of Automation and Computing, 2013, vol. 11, no. 3, p. 265-273. ISSN: 1476-8186. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VRABELOVA, P.; SKODA, P.; ZENDULKA, J. Wavelet Based Feature Extraction for Clustering of Be Stars. Nostradamus 2013: Prediction, Modeling and Analysis of Complex Systems. Volume 210 of Advances in Intelligent Systems and Computing. New York: Springer US, 2013. p. 467-474. ISBN: 978-3-319-00541-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ZELENY, J.; BURGET, R. Isomorphic mapping of DOM trees for Cluster-Based Page Segmentation. Proceedings of the Twelfth International Conference on Informatics INFORMATICS'2013. Spisska Nova Ves: The University of Technology Kosice, 2013. p. 256-261. ISBN: 978-80-8143-127-2. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ZELENY, J.; BURGET, R. Cluster-based Page Segmentation - a fast and precise method for web page pre-processing. In The Third International Conference on Web Intelligence, Mining and Semantics. Madrid: Association for Computing Machinery, 2013. p. 1-12. ISBN: 978-1-4503-1850-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "BENDL, J. Integration System for Functional Annotation of Single Nucleotide Polymorphism. Proceedings of the 18th Conference STUDENT EEICT 2012 Volume 3. Brno: Faculty of Information Technology BUT, 2012. p. 340-344. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "BENDL, J.; ZENDULKA, J. Integration System for Functional Annotation of Single Nucleotide Polymorphism. ElectroScope, 2012, vol. 2012, no. 5, 5 p. ISSN: 1802-4564. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "CHMELAR, P.; MLICH, J.; PESEK, M.; VOLF, T.; ZEMCIK, P.; ZENDULKA, J. Brno University of Technology at TRECVid 2012: Interactive Surveillance Event Detection Pilot. 2012 TREC Video Retrieval Evaluation Notebook Papers and Slides. Gaithersburg: National Institute of Standards and Technology, 2012. p. 1-9. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "FUMAGALLI, L.; MACCHI, M.; GARETTI, M.; RAMOS, A.; JOKINEN, J.; LASTRA, J.; RYCHLY, M.; CULTRONA, P.; RUSINA, F. eSONIA Information Model development for supporting KPIs building. embedded world Conference 2012. Nuremberg: 2012. p. 1-10. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KAZZAZ, M. Semantic Services Migration. Proceedings of the 18th Conference STUDENT EEICT 2012 Volume 3. Brno: Brno University of Technology, 2012. p. 386-390. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MILICKA, M. Document Comparison Based on the Page Layout. Proceedings of the 18th Conference STUDENT EEICT 2012. vol. 3. Brno: Brno University of Technology, 2012. p. 405-409. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MILICKA, M.; BURGET, R. Vyuziti ontologii k popisu vizualnich rysu dokumentu. Proceedings of 7th Workshop on Intelligent and Knowledge Oriented Technologies (WIKT 2012). Smolenice: Vydavatelstvo STU, 2012. s. 85-88. ISBN: 978-80-227-3812-5. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "PESEK, M. Methods for Trajectory Outlier Detection in Surveillance Video. Proceedings of the 18th Conference STUDENT EEICT 2012. Volume 3. Brno: Brno University of Technology, 2012. p. 474-478. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "RYCHLY, M.; ZOUZELKA, M. Fault Injection for Web-services. In Proceedings of the 14th International Conference on Enterprise Information Systems, Volume 2. Wroclaw: SciTePress - Science and Technology Publications, 2012. p. 377-383. ISBN: 978-989-8565-11-2. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SCHOITSCH, E.; HERZNER, W.; ALONSO-MONTES, C.; CHMELAR, P.; DALGAARD, L. Towards Composable Robotics: The R3-COP Knowledge-Base Driven Technology Platform. Computer Safety, Reliability, and Security (2012). Lecture Notes in Computer Science. LNCS. Magdeburg: Springer Verlag, 2012. no. 7613, p. 427-435. ISBN: 978-3-642-33674-4. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SKODA, P.; VRABELOVA, P.; ZENDULKA, J. Feature Extraction Using Wavelet Power Spectrum for Stellar Spectra Clustering. Proceedings of the 11th annual conference Znalosti 2012. Praha: 2012. p. 31-40. ISBN: 978-80-7378-220-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VOLF, T. Porovnani vykonnosti databazi pohybujicich se objektu. Proceedings of the Student Research Conference. Ostrava: Prirodovedecka fakulta Ostravske univerzity v Ostrave, 2012. s. 1-4. ISBN: 978-80-7368-966-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VOLF, T. The Application Interface for Video Databases. Proceedings of the 18th Conference STUDENT EEICT 2012. vol. 3. Brno: Brno University of Technology, 2012. p. 415-419. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VRABELOVA, P. Stellar Spectra Classification Using Wavelet Power Spectrum. Proceedings of the 18th Conference STUDENT EEICT 2012. Vol. 3. Brno: Brno University of Technology, 2012. p. 366-370. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZENDULKA, J.; PESEK, M. Mining Moving Object Data. Central European Journal of Computer Science, 2012, vol. 2, no. 3, p. 183-193. ISSN: 1896-1533. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "BURGET, R.; BURGETOVA, I. Automatic annotation of online articles based on visual feature classification. International Journal of Intelligent Information and Database System, 2011, vol. 5, no. 4, p. 338-360. ISSN: 1751-5858. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "CHMELAR, P.; HELLEBRAND, D.; HRUSECKY, M.; BARTIK, V. Nalezeni slovnich korenu v cestine. Znalosti 2011: Sbornik prispevku 10. rocniku konference. Stara Lesna: VSB Technicka univerzita Ostrava, 2011. s. 66-77. ISBN: 978-80-248-2369-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "CHMELAR, P.; HELLEBRAND, D.; HRUSECKY, M.; BARTIK, V. Nalezeni slovnich korenu v cestine. CEUR Workshop Proceedings, 2011, roc. 2011, c. 802, s. 1-12. ISSN: 1613-0073. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MATES, V. Modification of Workflow Management System Focused on a Human. Information Systems Development. Business Systems and Services: Modeling and Development. New York: Springer US, 2011. p. 479-490. ISBN: 978-1-4419-9645-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "RYCHLY, M. A Metamodel for Modelling of Component-Based Systems with Mobile Architecture. Information Systems Development. New York: Springer US, 2011. p. 635-646. ISBN: 978-1-4419-9645-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "RYCHLY, M. Servisne orientovana architektura a jeji aplikace v systemech sledovani a rizeni vyroby. Sbornik prednasek z 7. technicke konference Automatizace, regulace a procesy. Praha: DimArt, 2011. s. 11-14. ISBN: 978-80-903844-6-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SEBEK, M.; HLOSTA, M.; ZENDULKA, J. Knowledge Discovery in Data with FIT-Miner. Znalosti 2011: Sbornik prispevku 10. rocniku konference. Stara Lesna: VSB-Technical University of Ostrava, 2011. p. 182-193. ISBN: 978-80-248-2369-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ZENDULKA, J.; RYCHLY, M. Datakon 2011, prispevky. Brno: Vysoke uceni technicke v Brne, 2011. 203 s. ISBN: 978-80-214-4329-7. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ZENDULKA, J.; RYCHLY, M. Datakon 2011, tutorialy. Brno: Vysoke uceni technicke v Brne, 2011. 95 s. ISBN: 978-80-214-4330-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BARTIK, V. Text-Based Web Page Classification with Use of Visual Information. 2010 International Conference on Advances in Social Network Analysis and Mining. Odense: IEEE Computer Society, 2010. p. 416-420. ISBN: 978-0-7695-4138-9. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BARTIK, V.; BURGET, R. Two-Phase Categorization of Web Documents. Proceedings of the International Conference on Knowledge Discovery and Information Retrieval. Valencia: Institute for Systems and Technologies of Information, Control and Communication, 2010. p. 458-462. ISBN: 978-989-8425-28-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BURGET, R. Visual Area Classification for Article Identification in Web Documents. 21st International Workshop on Databases and Expert Systems Applications. Bilbao: IEEE Computer Society, 2010. p. 171-175. ISBN: 978-0-7695-4174-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BURGET, R. Automatic Web Document Restructuring Based on Visual Information Analysis. In Advances in Intelligent Web Mastering - 2, Proceedings of the 6th Atlantic Web Intelligence Conference - AWIC'2009. Advances in Intelligent and Soft Computing , Vol. 67. Prague: Springer Verlag, 2010. p. 61-70. ISBN: 978-3-642-10686-6. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BURGETOVA, I.; ZENDULKA, J.; LEXA, M. Clustering Techniques for Protein Fragments Analysis. Brno: Faculty of Information Technology BUT, 2010. 102 p. ISBN: 978-80-214-4207-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BURGETOVA, I.; ZENDULKA, J.; LEXA, M. Clustering of Protein Substructures for Discovery of a Novel Class of Sequence-Structure Fragments. In Information Technology in Bio- and Medical Informatics, ITBAM 2010. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2010. p. 94-101. ISBN: 978-3-642-15019-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "CHMELAR, P.; LANIK, A.; MLICH, J. An overview of SUNAR. Proceedings of ITAT 2010. Bratislava: Comenius University in Bratislava, 2010. p. 9-16. ISBN: 978-80-970179-3-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "CHMELAR, P.; LANIK, A.; MLICH, J. SUNAR: Surveillance Network Augmented by Retrieval. ACIVS 2010. Lecture Notes in Computer Science. Sydney: Springer Verlag, 2010. p. 155-166. ISBN: 978-1-234-56789-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "LANIK, A.; MLICH, J.; ZEMCIK, P.; JURANEK, R.; CHMELAR, P. Multimodal data acquisition on mobile devices. Proceedings of 7th International Workshop Digital Technologies 2010. Zilina: Zilina University Publisher, 2010. p. 57-58. ISBN: 978-80-554-0304-5. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "PIWKO, K.; CHMELAR, P.; HERNYCH, R.; KUBICEK, D. NAXD: Native XML Interface for a Relational Database. XML Prague Conference Proceedings. Prague: Charles University, 2010. p. 307-316. ISBN: 978-80-7378-115-6. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "RYCHLY, M. A Metamodel for Modelling of Component-Based Systems with Mobile Architecture. ISD 2010 Book of Abstracts. Prague, Czech Republic: Faculty of Mathematics and Physics, Charles University, 2010. p. 55-55. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "RYCHLY, M. Formal-based Component Model with Support of Mobile Architecture. Brno: Department of Information Systems FIT BUT, 2010. 120 p. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "RYCHLY, M. A Case Study on Behavioural Modelling of Service-Oriented Architectures. e-Informatica Software Engineering Journal, 2010, vol. 4, no. 1, p. 71-87. ISSN: 1897-7979. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "RYCHLY, M. Formal-based Component Model with Support of Mobile Architecture. Information Sciences and Technologies Bulletin of the ACM Slovakia, 2010, vol. 2, no. 1, p. 13-25. ISSN: 1338-1237. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "RYCHLY, M.; ZENDULKA, J. Modelling of Component-Based Systems with Mobile Architecture. Brno: Faculty of Information Technology BUT, 2010. 139 p. ISBN: 978-80-214-4211-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "BARTIK, V. Association Based Classification for Relational Data and Its Use in Web Mining. 2009 IEEE Symposium on Computational Intelligence and Data Mining Proceedings. Nashville: IEEE Computer Society, 2009. p. 252-258. ISBN: 978-1-4244-2765-9. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "BURGET, R.; BURGETOVA, I. Web Page Element Classification Based on Visual Features. 1st Asian Conference on Intelligent Information and Database Systems ACIIDS 2009. Dong Hoi: IEEE Computer Society, 2009. p. 67-72. ISBN: 978-0-7695-3580-7. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "BURGETOVA, I. Combined Density- and Grid- Based Method for Clustering of Protein Substructures. ZNALOSTI 2009, Proceedings of the 8th annual conference. Brno: Vydavatelstvo STU, 2009. p. 201-212. ISBN: 978-80-227-3015-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "CHMELAR, P.; BURGETOVA, I. Shlukovani zalozene na Voronoiove dlazdeni pro klasifikaci a vyhledavani ve videu. ZNALOSTI 2008, Proceedings of the 8th annual conference. Brno: Vydavatelstvo STU, 2009. s. 71-82. ISBN: 978-80-227-3015-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "CHMELAR, P.; BURGETOVA, I.; STRYKA, L. Clustering and Partitioning Methods: Applications, Problems and the Future. Czech and Slovak workshop on Relational Data Mining: RDM 2009. Abaujszanto, Hungary: University of Pavol Jozef Safarik, 2009. p. 1 (1 s.). Detail"
+        },
+        {
+            "year": "2009",
+            "details": "CHMELAR, P.; BURGETOVA, I.; ZENDULKA, J. Clustering for Video Retrieval. Data Warehousing and Knowledge Discovery. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2009. p. 390-401. ISBN: 978-3-642-03729-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KUNC, M. Screen Readers for the Blinds Based on Visual Areas Properties. Proceedings of the 15th Conference STUDENT EEICT 2009 Volume 4. Brno: Vysoke uceni technicke v Brne, 2009. s. 420-424. ISBN: 978-80-214-3870-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "RYCHLY, M. A Case Study on Behavioural Modelling of Service-Oriented Architectures. Software Engineering Techniques in Progress. Krakow: AGH University of Science & Technology, 2009. p. 79-92. ISBN: 978-83-7464-259-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "RYCHLY, M. A Component Model with Support of Mobile Architectures and Formal Description. e-Informatica Software Engineering Journal, 2009, vol. 3, no. 1, p. 9-25. ISSN: 1897-7979. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "BARTIK, V.; ZENDULKA, J. Distance-Based Methods for Association Rules Mining. In Encyclopedia of Data Warehousing and Mining. Volume 2. Hershey, New York: IGI Global, 2008. p. 689-694. ISBN: 978-1-60566-010-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "CHMELAR, P.; HERNYCH, R.; KUBICEK, D. Interactive Visualization of Data-Oriented XML Documents. Advances in Computer and Information Sciences and Engineering. Computer Science. Dordrecht: Springer Verlag, 2008. p. 390-393. ISBN: 978-1-4020-8740-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HEROUT, A.; BERAN, V.; HRADIS, M.; POTUCEK, I.; ZEMCIK, P.; CHMELAR, P. TRECVID 2007 by the Brno Group. Proceedings of TRECVID 2007. Gaithersburg: National Institute of Standards and Technology, 2008. p. 1-6. ISBN: 978-1-59593-780-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KUNC, M. Visualization of Document Elements Classification. Proceedings of the 14th Conference STUDENT EEICT 2008 Volume 4. Brno: Vysoke uceni technicke v Brne, 2008. s. 418-421. ISBN: 978-80-214-3617-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KUNC, M.; BURGET, R. Klasifikace prvku dokumentu na zaklade vizualnich rysu. Znalosti 2008. Bratislava: Vydavatelstvo STU, 2008. s. 347-350. ISBN: 978-80-227-2827-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MASARIK, K. System pro soubezny navrh technickeho a programoveho vybaveni pocitacu. VUTIUM. VUTIUM. Brno: Fakulta informacnich technologii VUT v Brne, 2008. 156 s. ISBN: 978-80-214-3863-7. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "PRIKRYL, Z.; HRUSKA, T.; MASARIK, K. Simulation of ASIP on SoC. New Aspects of Systems. Heraklion: World Scientific and Engineering Academy, 2008. no. 07, p. 192-197. ISBN: 978-960-6766-83-1. ISSN: 1790-2769. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "PRIKRYL, Z.; HRUSKA, T.; MASARIK, K. Distributed Simulation and Profiling of Multiprocessor Systems on a Chip. WSEAS Transactions on Circuits, 2008, vol. 7, no. 8, p. 788-799. ISSN: 1109-2734. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "RYCHLY, M. Behavioural Modeling of Services: from Service-Oriented Architecture to Component-Based System. Software Engineering Techniques in Progress. Wroc\u0142aw: Wroclaw University of Technology, 2008. p. 13-27. ISBN: 978-83-7493-421-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "RYCHLY, M.; TICHA, P. A Tool for Supporting Feature-Driven Development. In Balancing Agility and Formalism in Software Engineering. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 196-207. ISBN: 978-3-540-85278-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "RYCHLY, M.; WEISS, P. Modeling of Service Oriented Architecture: From Business Process to Service Realisation. In ENASE 2008 Third International Conference on Evaluation of Novel Approaches to Software Engineering Proceedings. Funchal: Institute for Systems and Technologies of Information, Control and Communication, 2008. p. 140-146. ISBN: 978-989-8111-28-9. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "STRYKA, L.; CHMELAR, P. Framework for mining of association rules from data warehouse. ITAT 2008. Kosice: The University of Technology Kosice, 2008. p. 95-98. ISBN: 978-80-969184-8-5. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "BURGET, R. Automatic Document Structure Detection for Data Integration. Business Information Systems. Lecture Notes in Computer Science. Poznan: Springer Verlag, 2007. p. 391-397. ISBN: 978-3-540-72034-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "BURGET, R. Layout Based Information Extraction from HTML Documents. 9th International Conference on Document Analysis and Recognition ICDAR 2007. Curitiba: IEEE Computer Society, 2007. p. 624-629. ISBN: 0-7695-2822-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "BURGET, R. Vizualni segmentace elektronickych dokumentu. Znalosti 2007. Ostrava: VSB - Technicka univerzita Ostrava, 2007. s. 155-166. ISBN: 978-80248-1279-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "CHMELAR, P.; STRYKA, L. Interactive Mining on Hierarchical Data. Proceedings of the 13th Conference STUDENT EEICT 2007 Volume 4. Brno: Brno University of Technology, 2007. p. 410-414. ISBN: 978-80-214-3410-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "CHMELAR, P.; STRYKA, L. Intuitive and Interactive Mining. ZNALOSTI 2007, Proceedings of the 6th annual conference. Ostrava: VSB-Technical University of Ostrava, 2007. p. 308-311. ISBN: 978-80-248-1279-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "CHMELAR, P.; STRYKA, L. Simplified Progressive Data Mining. Proceedings of the 16th International Conference on Systems Science. Wroclaw: Wroclaw University of Technology, 2007. p. 1-10. ISBN: 978-83-7493-340-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "CHMELAR, P.; ZENDULKA, J. Distributed Visual Sensor Network Fusion. 4th Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms. Brno: 2007. 2 s. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "CHMELAR, P.; ZENDULKA, J. Visual Surveillance Metadata Management. Eighteenth International Workshop on Database and Expert Systems Applications. IEEE CPS. Regensburg: IEEE Computer Society Press, 2007. p. 79-83. ISBN: 978-0-7695-2932-5. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KUNC, M. Web Mining Overview. Proceedings of the 13th Conference STUDENT EEICT 2007 Volume 4. Brno: Vysoke uceni technicke v Brne, 2007. s. 391-395. ISBN: 80-214-3410-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MASARIK, K.; HRUSKA, T. Structural Equivalence between Architectural Descriptive and Hardware Languages. A proceedings volume from the 4th International Conference on Cybernetics and Information Technologies, Systems and Applications CITSA 2007. Florida: International Institute of Informacs and Systemics, 2007. p. 40-45. ISBN: 1-934272-10-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "RYCHLY, M. Component Model with Support of Mobile Architectures. In Information Systems and Formal Models. Opava: Faculty of Philosophy and Science in Opava, Silesian university in Opava, 2007. p. 55-62. ISBN: 978-80-7248-006-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "RYCHLY, M.; TICHA, P. A Tool for Supporting Feature-Driven Development. Preprint of the Proceedings of CEE-SET 2007. Poznan, Poland: 2007. p. 185-196. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "STRYKA, L.; CHMELAR, P. Simplified Progressive Data Mining. Proceedings of the 16th International Conference on Systems Science. Wroclaw: Wroclaw University of Technology, 2007. p. 378-387. ISBN: 978-83-7493-340-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "STRYKA, L.; HRUSKA, T. Multidimensional algebra and its graphical representation. Datakon. Brno: Masaryk University, 2007. p. 187-197. ISBN: 978-80-7355-076-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "WEISS, P.; ZENDULKA, J. Modeling of Services and Service Collaboration in UML 2.0. Information Systems and Formal Models. Opava: Faculty of Philosophy and Science in Opava, Silesian university in Opava, 2007. p. 29-36. ISBN: 978-80-7248-006-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "BURGET, R. Vizualne orientovane modelovani dokumentu na WWW. Datakon 2006. Brno: Masarykova universita, 2006. s. 159-168. ISBN: 80-210-4102-1. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "BURGETOVA, I.; ZENDULKA, J. Clustering of Protein Sequences. Proceedings of 1st International Workshop WFM'06. Prerov: Marq software s.r.o., 2006. p. 71-78. ISBN: 80-86840-20-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "CHMELAR, P. Bayesian Concepts for Human Tracking and Behavior Discovery. Proceedings of the 12th Conference STUDENT EEICT 2006 Volume 4. Brno: Brno University of Technology, 2006. p. 360-364. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OPRSAL, Z.; FIEDLER, Z.; ZENDULKA, J. Jak ziskavat a uplatnovat znalosti pri rozvoji IS. DATAKON 2006 Proceedings of the Annual Database conference. Brno: Masarykova universita, 2006. s. 149-158. ISBN: 80-210-4102-1. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "RYCHLY, M. Towards Verification of Systems of Asynchronous Concurrent Processes. In Proceedings of 9th International Conference ISIM'06. Prerov: Marq software s.r.o., 2006. p. 123-130. ISBN: 80-86840-19-0. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "RYCHLY, M.; ZENDULKA, J. Distributed Information System as a System of Asynchronous Concurrent Processes. MEMICS 2006 Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Mikulov: Faculty of Information Technology BUT, 2006. p. 206-213. ISBN: 80-214-3287-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "STRYKA, L. Motion Prediction Using Adaptive Association Rules. Proceedings of the 12th Conference STUDENT EEICT 2006 Volume 4. Brno: Brno University of Technology, 2006. p. 400-404. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "WEISS, P. Using UML 2.0 in Service-Oriented Analysis and Design. Proceedings of the 12th Conference and Competition STUDENT EEICT 2006 Volume 4. Brno: Faculty of Information Technology BUT, 2006. p. 420-424. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "ZENDULKA, J. Proceedings of 9th International Conference ISIM'06. Ostrava: Marq software s.r.o., 2006. 192 p. ISBN: 80-86840-19-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BURGER, T.; HRUSKA, T. Formalism for the Systems with Roles. papers from the AAAI Fall Symposium. Roles, an Interdisciplinary Perspective: Ontologies, Programming Languages, and Multiagent Systems. Menlo Park, California: American Association for Artificial Intelligence, 2005. p. 26-30. ISBN: 978-1-57735-254-9. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BURGER, T.; HRUSKA, T. Formalism for the Systems with Roles. Proceedings of 8th International Conference ISIM'05 Information. Ostrava: Marq software s.r.o., 2005. p. 227-234. ISBN: 80-86840-09-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BURGET, R. Visual HTML Document Modeling for Information Extraction. RAWS 2005. Ostrava: Faculty of Electrical Engineering and Computer Science, VSB-TU Ostrava, 2005. p. 17-24. ISBN: 80-248-0864-1. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "HRUSKA, T. DATAKON 2005 -Proceedings of the Annual Database Conference (ed. Tomas Hruska). Brno: Masarykova universita, 2005. 413 s. ISBN: 80-210-3813-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SVEDA, M.; BENES, P.; VRBA, R.; ZEZULKA, F. Introduction to Industrial Sensor Networking. In Handbook of Sensor Networks: Compact Wireless and Wired Sensing Systems. Boca Raton, Florida: CRC Press LLC, 2005. p. 10-24. ISBN: 0-8493-1968-4. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ZENDULKA, J. Proceedings of 8th Spring International Conference ISIM'05. Ostrava: Marq software s.r.o., 2005. 303 p. ISBN: 80-86840-09-02. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ZENDULKA, J. API Standardization Efforts for Data Mining. In Encyclopedia of Data Warehousing and Mining. Volume 1. Hershey: Idea Group Publishing, 2005. p. 39-43. ISBN: 1-59140-557-2. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ZENDULKA, J. Object-Relational Modeling in the UML. In Encyclopedia of Database Technologies and Applications. Hershey: Idea Group Publishing, 2005. p. 421-426. ISBN: 1-59140-560-2. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ZENDULKA, J. Using Standard APIs for Data Mining in Prediction. In Encyclopedia of Data Warehousing and Mining. Volume 2. Hershey: Idea Group Publishing, 2005. p. 1171-1174. ISBN: 1-59140-557-2. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "BEDNAR, D.; KRESLIKOVA, J. Towards verification of processes in object-oriented model of project management. Proceedings of ASIS 2004. ACTA MOSIS No. 98. Ostrava: Marq software s.r.o., 2004. p. 251-256. ISBN: 80-86840-03-4. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "BURES, F.; RYSAVY, O. A Graph Representation for Use Case Specifications. Proceedings of the WSEAS International Conferences. Salzburg: World Scientific and Engineering Academy, 2004. p. 686-690. ISBN: 960-8052-95-5. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "BURES, F.; SCUGLIK, F. Shared variables in CSP. Proceedings of the WSEAS International Conferences. Salzburg: World Scientific and Engineering Academy, 2004. p. 690-694. ISBN: 960-8052-95-5. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "BURGET, R. Hierarchies in HTML Documents: Linking Text to Concepts. 15th International Workshop on Database and Expert Systems Applications. Zaragoza: IEEE Computer Society, 2004. p. 186-190. ISBN: 0-7695-2195-9. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "BURGET, R. Information Extraction from HTML Documents Based on Logical Document Structure. Brno: Faculty of Information Technology BUT, 2004. 85 p. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DVORAK, V.; SVEDA, M. Proceedings of the International IEEE Conference and Workshop ECBS'2004. Los Alamitos, CA: IEEE Computer Society, 2004. 560 p. ISBN: 0-7695-2125-8. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "GUTTNER, J. Object Databases and the Semantic Web. Brno: 2004. 85 p. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "HAZE, J.; KREJCI, J.; VRBA, R.; SVEDA, M. Sensor Analysis of Liquid Pollution. Proceedings of the 2004 ISA/IEEE Sensors for Industry Conference. New Orleans, LA: IEEE Computer Society, 2004. p. 155-158. ISBN: 0-7803-8143-2. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "HONZIK, J. Ukoly ceskeho vysokeho skolstvi v evropskem vzdelavacim prostoru. Hodnoceni kvality vysokych skol. Usti nad Labem: Univerzita Jana Evangelisty Purkyne v Usti nad Labem, 2004. s. 35-43. ISBN: 80-7044-543-2. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "KOLAR, D. Simulation of LLk Parsers with Wide Context by Automaton with One-Symbol Reading Head. Proceedings of 38th International Conference MOSIS '04 - Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2004. p. 347-354. ISBN: 80-85988-98-4. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "KRESLIKOVA, J. Klasifikace diagramu UML a jejich uziti v modelovani systemu. Pedagogicky software 2004. Ceske Budejovice: Scientifik Pedagogical Publishing, 2004. s. 11-14. ISBN: 80-85645-49-1. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "KRESLIKOVA, J. Vyuka projektoveho rizeni na FIT VUT v Brne. EDU 2004 PM. Brno: Fakulta stavebni VUT, 2004. s. 65-69. ISBN: 80-214-2720-5. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "KRESLIKOVA, J.; BEDNAR, D.; KUBAT, L. Metrics Models for Software Development. NETSS2004. Acta MOSIS No. 94. Ostrava: Marq software s.r.o., 2004. p. 97-102. ISBN: 80-85988-92-5. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "KUBAT, L. MEASUREMENT IN SOFTWARE DEVELOPMENT PROCESS. Proceedings of the 10th conference STUDENT EEICT 2004. Volume 2. Brno: Brno University of Technology, 2004. p. 262-266. ISBN: 80-214-2635-7. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "MARTINEK, Z. Nastroje pro procesni rizeni v malych organizacich. PRONT 04. Acta EVIDA No. 36. Plzen: Sdruzeni Evida - konferencni servis, 2004. s. 42-48. ISBN: 80-86596-54-0. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "MARTINEK, Z.; KRESLIKOVA, J. Metody pro projektove rizeni v malych tymech. PRONT 04. Acta EVIDA No. 36. Plzen: Sdruzeni Evida - konferencni servis, 2004. s. 52-58. ISBN: 80-86596-54-0. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "MARTINEK, Z.; KRESLIKOVA, J. Vyhodnocovani procesu v malych organizacich. GEMAN. Acta EVIDA No. 33. Plzen: Sdruzeni Evida - konferencni servis, 2004. s. 35-41. ISBN: 80-86596-51-6. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "RATTRAY, C.; SVEDA, M.; ROZENBLIT, J. Proceedings of the IEEE TC-ECBS and IFIP WG10.1 Joint Workshop on Formal Specifications of Computer-Based Systems. Stirling: University of Stirling, 2004. 64 p. ISBN: 1-85769-1970. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "RYSAVY, O.; BURES, F. A Graph Representation for Use Case Specifications. WSEAS Transactions on Computers, 2004, vol. 2004, no. 3, p. 686-690. ISSN: 1109-2750. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "RYSAVY, O.; BURES, F.; SCUGLIK, F.; SVEDA, M. Integration of Formal Methods in a Specification Framework for Embedded Systems. Proceedings of the IEEE TC-ECBS and IFIP WG10.1 Joint Workshop on Formal Specifications of Computer-Based Systems. Stirling: IEEE Computer Society, 2004. p. 57-63. ISBN: 1-85769-1970. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SCUGLIK, F.; BURES, F. Shared variables in CSP. WSEAS Transactions on Computers, 2004, vol. 2004, no. 3, p. 690-695. ISSN: 1109-2750. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SVEDA, M. IP Multicast with Publish/Subscribe for Sensors on Internet. 11th Electronic Devices and Systems Conference 2004 Proceedings. Brno: Brno University of Technology, 2004. p. 350-353. ISBN: 80-214-2701-9. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SVEDA, M.; RATTRAY, C.; ROZENBLIT, J. Formal Specifications of Computer-Based Systems - J.UCS Special Issue. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2004, vol. 10, no. 10, p. 1354-1356. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SVEDA, M.; VRBA, R. A Development Environment for Internet-Based Applications of Smart Sensors. Proceedings of the 2004 ISA/IEEE Sensors for Industry Conference. New Orleans, LA: IEEE Computer Society, 2004. p. 170-176. ISBN: 0-7803-8143-2. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SVEDA, M.; VRBA, R. An Approach to Computer-Based System Synthesis. Proceedings of the ICSE & INCOSE 2004 Conference. Las Vegas, NV: CRC Press LLC, 2004. p. 414-421. ISBN: 0-8576-9197-0. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SVEDA, M.; VRBA, R. Reuse of Formal Specifications in Computer-Based Systems Design. Proceedings of the ICSE & INCOSE 2004 Conference. Las Vegas, NV: CRC Press LLC, 2004. p. 478-483. ISBN: 0-85760-919-X. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SVEDA, M.; VRBA, R. Sensor Networking with Publish/Subscribe and IP Multicast. WSEAS Transactions on Information Science and Applications, 2004, vol. 1, no. 4, p. 983-987. ISSN: 1790-0832. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "VRBA, R.; SVEDA, M.; MARECEK, K. Pressure Transducer with Multiplexed Frequency Transmitter. Proceedings of the 2004 ISA/IEEE Sensors for Industry Conference. New Orleans, LA: IEEE Computer Society, 2004. p. 7-10. ISBN: 0-7803-8143-2. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "BARTIK, V. Average Distance Based Method for Association Rules Discovery in Relational Databases. Proceedings of 6th International Conference ISIM'03 - Information Systems Implementation and Modelling. Ostrava: Marq software s.r.o., 2003. p. 161-168. ISBN: 80-85988-84-4. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "BARTIK, V.; ZENDULKA, J. Mining Association Rules from Relational Data - Average Distance Based Method. Lecture Notes in Computer Science, 2003, vol. 2003, no. 2888, p. 757-766. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "BEDNAR, D.; KRESLIKOVA, J. Object-oriented model of Processes in Project Management. ASIS 2003. Ostrava: Marq software s.r.o., 2003. p. 335-342. ISBN: 80-85988-88-7. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "BEDNAR, D.; KRESLIKOVA, J. Object-oriented modelling and simulation of software development lifecycle. Proceedings of 37th International Conference MOSIS 03 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2003. p. 311-318. ISBN: 80-85988-86-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "BURES, F.; RYSAVY, O. Formal specification of IEEE1451.1 fragments. 11. International Conference on Software, Telecommunications & Computer Networks. Split: Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture , University of Split, 2003. p. 282-287. ISBN: 953-6114-64-X. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "BURGET, R. Extrakce informace z WWW na zaklade znalosti struktury dat. Sbornik prispevku 2. rocniku konference Znalosti 2003. Ostrava: Fakulta elektrotechniky a informatiky, VSB-TU Ostrava, 2003. s. 271-280. ISBN: 80-248-0229-5. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "CECH, V.; KRESLIKOVA, J. Vyuka rizeni projektu na prikladech ve studentskych projektech. EDMAN 03 Education for Management. Acta Evida No 22. Plzen: Sdruzeni Evida - konferencni servis, 2003. 13 s. ISBN: 80-86596-25-7. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "ELBL, S. Parallel Translation Based On Grammar Systems. Proceedings Of 9th Conference And Competition Student EEICT Volume 3. Brno: Faculty of Electrical Engineering and Communication BUT, 2003. p. 551-555. ISBN: 80-214-2379-X. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "ELBL, S. Parallel Translation Based On Grammar Systems. Proceedings Of The International Conference And Competition Student EEICT 2003. Brno: Faculty of Electrical Engineering and Communication BUT, 2003. p. 269-273. ISBN: 80-214-2401-X. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "HONZIK, J. Industry customised bachelor IT study programme in the Bologna style. Heraclion: 2003. p. 18-23. ISBN: 960-85316-7-5. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "KOTASEK, P. DMSL: The Data Mining Specification Language. Brno: Faculty of Information Technology BUT, 2003. 179 p. ISBN: 80-214-2685-3. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "KOTASEK, P.; ZENDULKA, J. Data Cleaning Functionality in DMSL. Proceedings of 6th International Conference ISIM'03 Information Systems Implementation and Modelling. Ostrava: Marq software s.r.o., 2003. p. 99-108. ISBN: 80-85988-84-4. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "KRESLIKOVA, J.; BEDNAR, D. Vyuka projektoveho rizeni podle znalostnich oblasti. EDMAN 03. Acta Evida No 22. Plzen: Sdruzeni Evida - konferencni servis, 2003. 8 s. ISBN: 80-86596-25-7. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "KRESLIKOVA, J.; KUBAT, L. Jakost v managementu projektu a ISO 9001. PROMA 03. Acta Evida No 23. Plzen: Sdruzeni Evida - konferencni servis, 2003. 11 s. ISBN: 80-86596-28-1. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "MACEL, M.; HRUSKA, T. Kolaborativni aplikace. Systems Integration 2003 - Proceedings. Praha: Ceska spolecnost pro systemovou integraci, 2003. s. 429-436. ISBN: 80-245-0522-3. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "RAB, J. Design and Verification of Real-Time UML System Models. Programmable Devices and Systems 2003. IFAC Proceedings, Pergamon. Kidlington, Oxford: Elsevier Science, 2003. p. 311-314. ISBN: 0-08-044130-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SCUGLIK, F. Diagram Based Formal Specification using CSP. Proceedings of the 9th Conference and Competition STUDENT EEICT 2003. Brno: Faculty of Electrical Engineering and Communication BUT, 2003. p. 629-633. ISBN: 80-214-2379-X. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SCUGLIK, F. Uzivatelske rozhrani formalni specifikace vestavenych systemu. Elektrorevue - Internetovy casopis (http://www.elektrorevue.cz), 2003, roc. 2003, c. 23, 5 s. ISSN: 1213-1539. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SCUGLIK, F.; SVEDA, M. Automatically Generated CSP Specifications. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2003, vol. 9, no. 11, p. 1277-1295. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SMOLIK, P.; HRUSKA, T. Application of an Object-Oriented Metasystem in University Information System Development. In Annals of Cases on Information Technology. Hershey: Idea Group Publishing, 2003. p. 550-562. ISBN: 1-59140-061-9. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "BARTIK, V. Association Rule Discovery in Databases. Proceedings of 5th International Conference ISM '02 - Information Systems Modelling. Ostrava: Marq software s.r.o., 2002. p. 21-27. ISBN: 80-85988-70-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "BEDNAR, D.; KRESLIKOVA, J. Objektove orientovane projektove rizeni. PROMA 2002. Plzen: Sdruzeni Evida - konferencni servis, 2002. s. 17-28. ISBN: 80-86596-13-3. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "BREJCHA, M.; KRESLIKOVA, J. Procesy v modernim managementu. MOMAN 02. Acta Evida No 09. Plzen: Sdruzeni Evida - konferencni servis, 2002. s. 155-171. ISBN: 80-86596-03-6. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "BURGET, R. Analyzing Logical Structure of a Web Site. Proceedings of 5th International Conference ISM '02 - Information Systems Modelling. Ostrava: Marq software s.r.o., 2002. p. 29-35. ISBN: 80-85988-70-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "BURGET, R. HTML Document Analysis for Information Extraction. Proceedings of 8th EEICT conference. Brno: Faculty of Information Technology BUT, 2002. p. 426-430. ISBN: 80-214-2116-9. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "CVRCEK, D. Vytvoreni lokalni klicove infrastruktury. Mikulasska kryptobesidka - sbornik prednasek. Brno: ECOM-MONITOR, 2002. s. 19-25. ISBN: 80-903083-2-5. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "GUTTNER, J.; HRUSKA, T. Dynamic Object Model In Interpreted Systems. Proceedings od 5th International Conference ISM 02 - Information System Modelling. Ostrava: Marq software s.r.o., 2002. p. 103-110. ISBN: 80-85988-70-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "HECKEL, M. Texture Analysis for Content Based Image Retrieval. Proceedings of 5th International Conference ISM. Ostrava: Marq software s.r.o., 2002. p. 37-44. ISBN: 80-85988-70-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "HECKEL, M. Texture Image Description for Content Based Image Retrieval. Proceedings of 8th Conference Student EEICT 2002. 3. Brno: Faculty of Electrical Engineering and Communication BUT, 2002. p. 450-454. ISBN: 80-214-2116-9. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "HRUSKA, T. Objektove orientovane databazove systemy. Ucebni texty predmetu INS. Brno: 2002. 340 s. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "KOLAR, D. Postrelacni databaze. Ucebni texty pro predmet PRD, obor VTI, predmet PDS, obor IT. Brno: Fakulta informacnich technologii VUT v Brne, 2002. 562 s. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "KORCAK, Z. Signaturni soubory se signaturami promenne delky. Brno: Fakulta informacnich technologii VUT v Brne, 2002. 76 s. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "KRESLIKOVA, J. Formalizace procesu do sablony projektu. PRONT 2002. Plzen: Sdruzeni Evida - konferencni servis, 2002. s. 152-158. ISBN: 80-86596-05-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "KRESLIKOVA, J. Zaklady programovani. Ucebni texty pro predmet IZP, obor IT. Brno: Fakulta informacnich technologii VUT v Brne, 2002. 270 s. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "KRESLIKOVA, J. Zefektivneni reseni tymovych projektu ve vyuce projektoveho rizeni. Pedagogicky software 2002. Scientific Pedagogical Publishing. Ceske Budejovice: Scientifik Pedagogical Publishing, 2002. s. 21-22. ISBN: 80-85645-46-7. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "ZENDULKA, J. Databazove systemy. Ucebni texty pro predmet DSI, obor IT. Brno: 2002. 290 s. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "BARTIK, V. Ziskavani znalosti z dat - viceurovnova asociacni pravidla. Proceedings of 7th Conference Student FEI 2001. Brno: Fakulta elektrotechniky a informatiky VUT, 2001. s. 244-246. ISBN: 80-214-1859-1. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "CVRCEK, D. Active Authorization as High-level Control. Data And Applications Security. Amsterdam: Kluwer Academic Publishers, 2001. p. 339-345. ISBN: 0-7923-7514-9. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "CVRCEK, D. Authorization Model for Strongly Distributed Information Systems. Brno: 2001. 125 p. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "CVRCEK, D. Real-World Problems of PKI Hierarchy. Proceedings of the SPI Conference. Brno: 2001. p. 39-46. ISBN: 80-85960-28-1. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "CVRCEK, D.; MATYAS, V. PKI neni vselek. Data Security Management, 2001, roc. 2001, c. 6, s. 26-29. ISSN: 1211-8737. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "CVRCEK, D.; SVEDA, P. Hardwarove a softwarove reseni bezpecnosti. Mikulasska kryptobesidka. Brno: ECOM-MONITOR, 2001. s. 87-97. ISBN: 80-903083-0-9. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "HANACEK, P. Electronic Transactions Security. Proceedings of Conference e-Finance. Praha: unknown, 2001. 10 p. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "HANACEK, P. Technicko-pravni aspekty a ochrana elektronickych dokladu. Instituf of International Research. Praha: neznama, 2001. 10 s. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "HECKEL, M. Popis obrazovych dat pro vyhledavani podle obsahu. Proceedings of 7th Conference Student FEI 2001. Brno: Fakulta elektrotechniky a informatiky VUT, 2001. s. 265-267. ISBN: 80-214-1859-1. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "HRUSKA, T. XML Technology - tutorial. ISM 01 Conference Proceedings. Hradec nad Moravici: Marq software s.r.o., 2001. p. 11-15. ISBN: 80-85988-51-3. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "HRUSKA, T.; SMOLIK, P. Application of a Metasystem in University Information System Development. Sbornik konference Tvorba software 2001. Ostrava: Tanger Ltd., 2001. p. 183-191. ISBN: 80-85988-59-3. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "HRUSKA, T.; ZENDULKA, J. Study Programmes in Information Technology at Brno University of Technology. MOSIS 01 Conference Proceedings. Hradec nad Moravici: Marq software s.r.o., 2001. p. 11-22. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "KUBICEK, V. Important Features for Image Retrieval. Proceedings of 4th International Conference on Information Systems Modelling. Hradec nad Moravici: Marq software s.r.o., 2001. p. 203-210. ISBN: 80-85988-51-8. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "KUBICEK, V. Knowledge Discovery in Image Databases. Proceedings of the Conference Student FEI'01. Brno: Akademicke nakladatelstvi CERM, 2001. p. 348-352. ISBN: 80-214-1860-5. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "ZENDULKA, J. Object-Relational Modeling in UML. Proceedings of the Conference Information Systems Modelling. Ostrava: Marq software s.r.o., 2001. p. 17-24. ISBN: 80-85988-51-8. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "ZENDULKA, J. Proceedings of the Conference Information Systems Modelling. Acta M0SIS No. 83. Ostrava: Marq software s.r.o., 2001. 211 p. ISBN: 80-85988-51-8. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "CESKA, M.; HANACEK, P.; HRUSKA, T.; RABOVA, Z.; ZBORIL, F. Navrh bakalarskeho programu Informacni technologie na VUT v Brne. Proceedings of workshop CSEW 2000. Liblice: neznama, 2000. s. 42-48. ISBN: 80-01-02264-1. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "CVRCEK, D. Mandatory Access Control in Workflow Systems. Knowledge-based Software Engineering. Brno: IOS Press, 2000. p. 247-254. ISBN: 1-58603-060-4. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "FUCHS, A.; KRESLIKOVA, J. Toward A Unified Formal Model of CBS. Joint Workshop on Formal Specifications of Computer-Based Systems. Edinburgh: unknown, 2000. p. 59-61. ISBN: 1-85-769121-0. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HANACEK, P. Bezpecnost elektronickeho obchodovani - rizika. Praha: neznama, 2000. 12 s. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HANACEK, P. Certifikace verejnych klicu a certifikacni autority. Sbornik konference Security'2000. Praha: neznama, 2000. s. 86-88. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HANACEK, P. Certifikace verejnych klicu a podpora legislativy. Sbornik seminare elektronicky podpis. Praha: neznama, 2000. s. 43-47. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HANACEK, P. Elektronicky podpis jako nastroj bezpecneho obchodovani. Sbornik konference Internet jako nastroj obchodniho uspechu. Brno: neznama, 2000. 10 s. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HANACEK, P. Hodnoceni bezpecnosti podle normy ISO/IEC 15408. Sbornik konference AFOI 2000. Praha: neznama, 2000. 10 s. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HANACEK, P. Problems of Tamper Resistant Software. ISM 2000. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 117-122. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HANACEK, P. Digitalni podpis zdravotnicke dokumentace. Lekar a technika, 2000, roc. 31, c. 5, s. 130-132. ISSN: 0301-5491. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HANACEK, P.; PERINGER, P.; RABOVA, Z. Knowledge-Based Approach to Risk Analysis Modelling. Proceedings of JCKBSE 2000. Brno: unknown, 2000. p. 25-30. ISBN: 1-58603-060-4. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HANACEK, P.; STAUDEK, J. Bezpecnost informacnich systemu. USIS. USIS. Praha: neznama, 2000. 127 s. ISBN: 80-238-5400-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HECKEL, M. Podobnostni vyhledavani v obrazovych datech. Sbornik praci studentu a doktorandu. Brno: Fakulta elektrotechniky a informatiky VUT, 2000. s. 177-179. ISBN: 80-7204-155-X. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HRUSKA, T.; HASHIMOTO, M. Knowledge-Based Software Engineering. Frontiers in Artificial Intelligence and Applications. Frontiers in Artificial Intelligence and Applications. Amsterodam: IOS Press, 2000. no. 62, 330 p. ISBN: 1-58603-060-4. ISSN: 0922-6389. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HRUSKA, T.; MACEL, M. Concept Definition Language for Object-Oriented Databases. ISM 2000 Workshop Proceedings. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 37-45. ISBN: 80-85988-45-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HRUSKA, T.; MACEL, M. G2 System, object database, case system, information system. Sbornik konference DATASEM 2000. Brno: unknown, 2000. p. 277-294. ISBN: 80-210-2428-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HRUSKA, T.; MACEL, M. Object-Oriented Database System G2. Knowledge-Based Software Engineering. Frontiers in Artificial Intelligence and Applications. Brno: unknown, 2000. p. 17-25. ISBN: 1-58603-060-4. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "HRUSKA, T.; MACEL, M. Object-Oriented Database Systems. Sbornik konference DATASEM 2000. Brno: unknown, 2000. p. 9-46. ISBN: 80-210-2428-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOLAR, D. A Petri Net Class for Better Process Verification. Proceedings of 34th Spring International Conference MOSIS 2000, ISM 2000. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 171-176. ISBN: 80-85988-45-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOLAR, D. A Petri Net for Workflow Modelling. Proceedings of JCKBSE 2000. Brno: unknown, 2000. p. 259-266. ISBN: 1-58603-060-4. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOTASEK, P.; ZENDULKA, J. An XML Approach to Knowledge Discovery in Databases. Knowledge-Based Software Engineering. Frontiers in Artificial Intelligence and Applications. Brno: unknown, 2000. p. 141-148. ISBN: 1 58603 060 4. ISSN: 0922-6389. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOTASEK, P.; ZENDULKA, J. An XML Framework Proposal for Knowledge Discovery in Databases. The Fourth European Conference on Principles and Practice of Knowledge Discovery in Databases, Workshop Proceedings Knowledge Management: Theory and Applications. Lyon: unknown, 2000. p. 143-156. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOTASEK, P.; ZENDULKA, J. An XML-Based Solution to Knowledge Discovery in Databases. 34th Spring International Conference: Modelling and Simulation of Systems MOSIS'2000, Workshop Proceedings Information Systems Modelling ISM'2000. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 91-96. ISBN: 80-85988-45-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOTASEK, P.; ZENDULKA, J. Comparison of Three Mining Algorithms for Association Rules. 34th Spring International Conference: Modelling and Simulation of Systems MOSIS'2000, Workshop Proceedings Information Systems Modelling ISM'2000. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 85-90. ISBN: 80-85988-45-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KRESLIKOVA, J. Process Documentation and Project Management. Proceedings of 22nd International Autumn Workshop ASIS 2000. Svaty Hostyn: Marq software s.r.o., 2000. p. 137-143. ISBN: 80-85988-51-8. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "PENAS, P. Workflow Specification Languages. Proceedings of Information System Modeling Conference 2000. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 177-183. ISBN: 80-85988-45-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SMOLIK, P.; TESACEK, J. Data Source Independent XML Data Access. Proceedings of Information System Modeling Conference 2000. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 17-22. ISBN: 80-85988-45-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "ZENDULKA, J. Proceedings of the Workshop Information Systems Modelling. Acta MOSIS No. 80. Ostrava: Marq software s.r.o., 2000. 216 p. ISBN: 80-85988-45-3. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "CVRCEK, D. Access Control in Workflow Systems. MOSIS'99 Proceedings. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 93-100. ISBN: 80-85988-31-3. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "CVRCEK, D. Aktivni autorizacni model. Sbornik z letni skoly Informacni systemy a jejich aplikace 1999. Ruprechtov: Fakulta stavebni VUT, 1999. s. 46-51. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "CVRCEK, D. Active Authorization Model for Workflow System. In Sbornik praci studentu a doktorandu. Brno: Faculty of Electrical Engineering and Computer Science BUT, 1999. p. 73-74. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "CVRCEK, D. Elektronicka komunikace - hrozba nebo sance?. IT SYSTEM, 1999, roc. 1, c. 2, s. 15-18. ISSN: 1212-4567. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "CVRCEK, D. Elektronicky obchod. IT SYSTEM, 1999, roc. 1, c. 5, s. 6-9. ISSN: 1212-4567. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "CVRCEK, D. Zakon o elektronickem obchodu. IT SYSTEM, 1999, roc. 1, c. 6, s. 47-51. ISSN: 1212-4567. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "EYSSELT, M. Bakalarsky studijni program na oboru Vypocetni technika a informatika. Proceedings of the First Wokshop on Higher Education in Informatics HEInfo'99. 4.-5. listopadu, Smolenice: neznama, 1999. s. 37-43. ISBN: 80-227-1276-0. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "EYSSELT, M. Vyhodnocovani pedagogickych cinnosti. ZBORNIK PRISPEVKOV Z KONFERENCIE S MEDZINARODNOU UCASTOU. Banska Bystrica, 10.-11. zari: neznama, 1999. s. 137-141. ISBN: 80-8055-335-1. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HANACEK, P. Bezpecnost informacnich systemu. ASIS 1999. Krnov: Marq software s.r.o., 1999. s. 11-19. ISBN: 80-85988-41-0. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HANACEK, P. Bezpecnost systemu informacni spolecnosti. Sbornik konference RUFIS'99. Brno: Vysoke uceni technicke v Brne, 1999. s. 23-28. ISBN: 80-214-1379-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HANACEK, P. Digitalni podpis elektronicke dokumentace. Brno: neznama, 1999. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HANACEK, P. Implementing Secure Payment Systems to Avoid Potential Problems. Banking Technology in Central europe. Praha: unknown, 1999. 6 p. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HANACEK, P. Proc potrebujeme zakon o digitalnim podpisu. Seminar AFOI. Praha: neznama, 1999. s. 67-70. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HANACEK, P. Security Verification of Smartcard Scripts. ISM'99. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 11-18. ISBN: 80-85988-31-3. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HANACEK, P. Vyuka bezpecnosti informacnich systemu. Studnice: neznama, 1999. s. 23-27. ISBN: 80-85615-79-1. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HANACEK, P.; HANZAL, M.; RABOVA, Z. Interaktivni budovani modelu aktiv. Sbornik LS Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1999. s. 60-69. ISBN: 80-214-1379-2. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HANACEK, P.; RABOVA, Z. Interactive Tools for Creation of Assets Model. ASIS 1999. Krnov: Marq software s.r.o., 1999. p. 213-219. ISBN: -80-85988-41-0. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HANACEK, P.; STAUDEK, J. Bezpecnost elektronickeho obchodu. Systems Integration '99. Praha: neznama, 1999. s. 55-74. ISBN: 80-7079-059-8. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HRUSKA, T.; MACEL, M. G2-Component Architecture of an Object-Oriented Database System. Proceedings of ISM 99 Workshop. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 125-133. ISBN: 80-85988-31-3. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KOLAR, D. SFC - A Language for Workflow Description. Proceedings of 33rd Spring International Conference MOSIS'99, ISM'99. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 101-108. ISBN: 80-85988-31-3. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KOLAR, D. SFC Validation via Petri Nets. Proceedings of XXIst International Colloquium ASIS'99. Krnov: Marq software s.r.o., 1999. p. 391-396. ISBN: 80-85988-41-0. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KOLAR, D. Workflow systemy - popisy a modely. Sbornik z letni skoly Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1999. s. 79-86. ISBN: 80-214-1397-2. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KORCAK, Z. Dynamicky S - index: metoda organizaci signatur. Sbornik konference DATASEM'99. Brno: neznama, 1999. s. 291-300. ISBN: 80-210-2181-0. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KOTASEK, P.; ZENDULKA, J. AprioriItemset - A New Algorithm for Discovering Frequent Itemsets. 33rd Spring International Conference Modelling and Simulation of Systems MOSIS'99 Proceedings ISM'99 Information Systems Modelling. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 49-56. ISBN: 80-85988-31-3. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KOTASEK, P.; ZENDULKA, J. Ziskavani znalosti z databazi. Informatika a informacne technologie. Banska Bystrica: neznama, 1999. s. 75-82. ISBN: 80-8055-335-1. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KRESLIKOVA, J. Cause and Effect Analysis in Software Quality Control Process. ASIS 1999. Krnov: Marq software s.r.o., 1999. p. 351-355. ISBN: 80-85988-41-0. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KRESLIKOVA, J. Kvalita softwarovych produktu. Informacni systemy a jejich aplikace. Ruprechtov: Fakulta stavebni VUT, 1999. s. 105-113. ISBN: 80-214-1397-2. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KRESLIKOVA, J. Project Management Course - a Survey. CEI'99. Herlany: The University of Technology Kosice, 1999. p. 272-275. ISBN: 80-88922-05-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KRESLIKOVA, J. Vyuka projektoveho rizeni na oboru VTI FEI VUT v Brne. Studnice: neznama, 1999. s. 36-39. ISBN: 80-85615-79-1. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KRESLIKOVA, J.; ZENDULKA, J. Vyuka softwaroveho inzenyrstvi na oboru VTI FEI VUT v Brne. Studnice: neznama, 1999. s. 40-45. ISBN: 80-85615-79-1. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "SMOLIK, P. The Importance of Extensible Markup Language. The Proceedings of MOSIS'99. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 25-32. ISBN: 80-85988-31-3. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "ZENDULKA, J. SQLJ - SQL v prostredi jazyka Java. Sbornik z letni skoly Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1999. s. 177-184. ISBN: 80-214-1397-2. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "BENES, M. Multiple Inheritance. ACTA MOSIS No. 70. Sv. Hostyn: Marq software s.r.o., 1998. s. 9-14. ISBN: 80-85988-24-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "BENES, M. Transformace objektoveho modelu ODMG 2.0 na relacni. Sbornik letni skoly Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1998. s. 14-21. ISBN: 80-214-1205-4. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "BENES, M.; HRUSKA, T. Implementation Opposition in Multi-Type Objects. Sbornik prednasek konference DATASEM 98. Brno: unknown, 1998. p. 145-153. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "CESKA, M. Petri nets in Information systems modelling. Proc. of 32st International Conference MOSIS'98. Sv. Hostyn: Marq software s.r.o., 1998. p. 59-66. ISBN: 80-85988-24-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Object-Oriented Petri Nets, Their Simulation, and Analysis. Proceedings of the IEEE SMC'98 Conference. Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics. San Diego, California: unknown, 1998. no. IEEE Cat, p. 256-261. ISBN: 0-7803-4781-1. ISSN: 1062-922X. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "CVRCEK, D. Access Control in Database Management Systems. DATASEM '98 sbornik prednasek. Brno: 1998. p. 153-163. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "CVRCEK, D. Problems of Modelling Access Control for Object Oriented Databases. ASIS 1998 proceedings. Krnov: Marq software s.r.o., 1998. p. 21-26. ISBN: 80-85988-27-5. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "EYSSELT, M. An Evidence of Pedagogic Activities. Proceedings of the FEI International Conference ELECTRONIC COMPUTERS AND INFORMATICS'98 ECI'98. October 8-9, Kosice-Herlany: unknown, 1998. p. 41-46. ISBN: 80-88786-94-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "HANACEK, P. Bezpecnost cipovych karet... Sbornik letni skoly Informacni systemy a jejich aplikace 1998. Ruprechtov: neznama, 1998. s. 49-61. ISBN: 80-214-1205-4. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "HANACEK, P. Metodika vytvareni bezpecnostni politiky pripojeni k siti Internet. Sbornik seminare AFOI 1998. Praha: neznama, 1998. 7 s. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "HANACEK, P. Platby v elektronickem obchodu. Sbornik konference VIRUS'98. Praha: neznama, 1998. s. 65-79. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "HANACEK, P. Security of Electronic Money. SOFSEM'98: Theory and Practice of Informatics. Lecture Notes in Computer Science. Jasna: Springer Verlag, 1998. no. 1521, p. 107-121. ISBN: 0302-9743. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "HANACEK, P. Security of Smartcard Based Payment Protocol. Proceedings of International Conference MOSIS'98. Bystrice pod Hostynem: Marq software s.r.o., 1998. p. 123-129. ISBN: 80-85988-24-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "HANACEK, P.; KOTYZA, B.; RABOVA, Z. Znalostni model analyzy rizik. Sbornik letni skoly Informacni systemy a jejich aplikace 1998. Ruprechtov: neznama, 1998. s. 213-219. ISBN: 80-214-1205-4. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "HANACEK, P.; RABOVA, Z. Knowledge-Based Simulation in Risk Analysis. Proceedings of ASIS 1998. Krnov: Marq software s.r.o., 1998. p. 79-84. ISBN: 80-85988-26-7. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "HANACEK, P.; STAUDEK, J. Bezpecnost distribuovanych systemu. Sbornik konference DATASEM'98. Brno: neznama, 1998. s. 1-20. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "HANACEK, P.; STAUDEK, J. Zabezpeceni prenosu zdravotnickych informaci. Sbornik konference MEDSOFT'98. Vlasim: neznama, 1998. s. 9-15. ISBN: 80-86114-17-1. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "HRUSKA, T. Multiple Class Objects. Proceedings of Information System Modeling Conference 1998. Sv. Hostyn: Marq software s.r.o., 1998. p. 15-22. ISBN: 80-85988-24-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "JANOUSEK, V.; VOJNAR, T. State Spaces of Object-Oriented Petri Nets. Proceedings of MFCS'98 Workshop on Concurrency. Brno: unknown, 1998. no. FIMU-RS-, p. 87-96. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KOLAR, D. Huge Component Modelling for System Design. Proceedings of 32nd Spring International Conference MOSIS'98, ISM'98. Sv.Hostyn - Bystrice pod Hostynem: Marq software s.r.o., 1998. p. 131-136. ISBN: 80-85988-24-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KOLAR, D. Type Inference in OO Functional Languages. Knowledge-Based Software Engineering. Frontiers in Artificial Intelligence and Applications. Smolenice: unknown, 1998. p. 108-115. ISBN: 90-5199-417-6. ISSN: 0922-6389. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KOLENCIK, P. Resolving Conflicts in Classes Defined by the Multiple Inheritance. Proceedings of Information System Modeling Conference 1998. Sv. Hostyn: Marq software s.r.o., 1998. p. 23-28. ISBN: 80-85988-24-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KORCAK, Z.; ZENDULKA, J.; ZEZULA, P. A Survey of Access Methods for Text. Advanced Simulation of Systems ASIS 1998. Krnov: Marq software s.r.o., 1998. p. 233-238. ISBN: 80-85988-27-5. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KORCAK, Z.; ZENDULKA, J.; ZEZULA, P. Nove metody organizace signatur. Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1998. s. 78-83. ISBN: 80-214-1205-4. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KORCAK, Z.; ZENDULKA, J.; ZEZULA, P. Signature Extraction Methods for Text. Proceedings of the Conference Modelling and Simulation of systems. Sv.Hostyn - Bystrice pod Hostynem: Marq software s.r.o., 1998. p. 51-58. ISBN: 80-85988-24-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KOTASEK, P.; ZENDULKA, J. A New Algorithm for Discovery of Frequent Itemsets. Knowledge-Based Software Engineering. Frontiers in Artificial Intelligence and Applications. Smolenice: unknown, 1998. p. 183-186. ISBN: 905199 417 6. ISSN: 0922-6389. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KRESLIKOVA, J. Konzistence objektove orientovanych modelu analyzy informacnich systemu. Informacni systemy a jejich aplikace. Ruprechtov: Fakulta stavebni VUT, 1998. s. 91-97. ISBN: 80-214-1205-4. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "LAMPA, P. Architektura CORBA 2.2. Sbornik konference Objekty 98. Praha: neznama, 1998. s. 111-126. ISBN: 80-213-0437-5. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "LAMPA, P. CORBA a Java. Sbornik z letni skoly Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1998. s. 98-118. ISBN: 80-214-1205-4. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "RYSANEK, M. Congestion in High-Loaded Networks of Parallel Machines. MOSIS'98. Bystrice pod Hostynem: Marq software s.r.o., 1998. p. 281-288. ISBN: 80-85988-23-2. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "RYSANEK, M. Parallel Discrete Event Simulation Mechanisms. ASIS'98. Krnov: Marq software s.r.o., 1998. p. 123-128. ISBN: 80-85988-27-5. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "ZENDULKA, J. Customisation of Paradigm Plus for VDL object-oriented database language. Electronic Computers & Informatics'98. Herlany: unknown, 1998. p. 151-156. ISBN: 80-88786-94-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "ZENDULKA, J. Mapping a Relational to an Object-Oriented Schema. Proceedings of the Conference Modelling and Simulation of Systems. Sv.Hostyn - Bystrice pod Hostynem: Marq software s.r.o., 1998. p. 37-44. ISBN: 80-85988-24-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "ZENDULKA, J. Modelovani vztahu v objektovem modelu. Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1998. s. 238-244. ISBN: 80-214-1205-4. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "BENES, M. Type Systems in Object-Oriented Model. Hradec nad Moravici: Marq software s.r.o., 1997. p. 104-110. ISBN: 80-85988-16-X. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "BENES, M.; HRUSKA, T. Layout of Object in Object-Oriented Database System. Sbornik 17. celostatni konference DATASEM 97. Brno: unknown, 1997. p. 89-96. ISBN: 80-238-1176-2. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "BENES, M.; HRUSKA, T. Modelling Objects with Changing Roles. Proceedings of 23rd Conference of the ASU, Object-Oriented Modelling and Simulation. Stara Lesna High Tatras: unknown, 1997. p. 188-195. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "BENES, M.; HRUSKA, T. Objektove orientovane databaze. Sbornik konference EurOpen.CZ 97. Borova Lada na Sumave: neznama, 1997. s. 23-36. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "BENES, M.; HRUSKA, T. Objektove relacni databaze. Sbornik konference Informacni systemy a jejich aplikace 1997. Ruprechtov: neznama, 1997. s. 3-7. ISBN: 80-214-0894-4. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HANACEK, P. Bezpecnost komunikace v siti Internet. Seminar COMPEX'97. Ostrava: 1997. 9 s. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HANACEK, P. Elektronicky podpis a jeho vyuziti v informacnich systemech. Konference Bezpecnost a ochrana informaci v informacnich a komunikacnich systemech. Brno: 1997. s. 1-20. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HANACEK, P. Internet a bezpecne protokoly. 5. seminar AFOI Internet a informacni bezpecnost. Praha: 1997. s. 33-40. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HANACEK, P. Model synchronizacnich a komunikacnich mechanismu. Brno: Fakulta elektrotechniky a informatiky VUT, 1997. 84 s. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HANACEK, P. Prenos medicinskych dat po verejnych sitich. Seminar MEDSOFT'97. Jihlava: 1997. s. 19-21. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HANACEK, P.; RABOVA, Z. Model analyzy rizik informacniho systemu. Sbornik konference Informacni systemy a jejich aplikace 1997. Ruprechtov: neznama, 1997. s. 30-34. ISBN: 80-214-0894-4. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HANACEK, P.; RABOVA, Z. Processing of Input Data for Risk Analysis. Proceedings of Conference ASIS'97. Krnov: Marq software s.r.o., 1997. p. 91-96. ISBN: 80-85988-17-8. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HANACEK, P.; RABOVA, Z. Risk Analysis Model of Information System. Proceedings of Conference MOSIS'97. Hradec nad Moravici: Marq software s.r.o., 1997. p. 169-174. ISBN: 80-85988-16-X. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HANACEK, P.; STAUDEK, J. Bezpecnostni politika IS v prostredi Internet. Sbornik konference DATASEM'97. Brno: neznama, 1997. s. 1-26. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HRUSKA, T. Collections in the Object-Oriented Database Systems. Proceedings of MOSIS '97 Conference, Volume 2. Hradec nad Moravici: Marq software s.r.o., 1997. p. 151-156. ISBN: 80-85988-17-8. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HRUSKA, T. Objektova databaze - od modelu k implementaci. Sbornik konference Tvorba software 97. Ostrava: Tanger sro., 1997. s. 126-136. ISBN: 80-86122-01-8. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HRUSKA, T. Some Extensions of the Object-Oriented Database Model. Workshop 97 proceedings. Praha: unknown, 1997. p. 187-188. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HRUSKA, T.; KOLENCIK, P. Comparison of Categorical Foundations of Object-Oriented Database Model. Proceedings of 5th International Conference on Deductive and. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Montreaux: Springer Verlag, 1997. p. 302-319. ISBN: 3-540-63792-3. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HRUSKA, T.; KOLENCIK, P. Extending an Object-Oriented Model: Multiple Class Objects. Proceedings of 16th International Conference ER'97 on Conceptual Modelling. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Los Angeles, California: Springer Verlag, 1997. p. 229-242. ISBN: 3-540-63699-4. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOLAR, D. Overloading in Object-Oriented Data Models. Proceedings of 31st International Conference MOSIS'97. Hradec nad Moravici: Marq software s.r.o., 1997. p. 86-91. ISBN: 80-85988-16-X. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOLAR, D. Pretezovani funkci a operatoru, Vlastnosti typu bez prekryti. In Sbornik praci studentu a doktorandu 1997. Brno: neznama, 1997. s. 136-138. ISBN: 80-214-0637-2. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOLENCIK, P. Methods in The Object-Oriented Model as Sums of Morphisms. Preceeding of International Conference MOSIS'97, Volume 2. Hradec nad Moravici: Marq software s.r.o., 1997. p. 83-88. ISBN: 80-85988-17-8. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KORCAK, Z. Signaturni soubory pro textove dokumenty. Sbornik z letni skoly Informacni systemy a jejich aplikace. Ruprechtov: Fakulta stavebni VUT, 1997. s. 51-56. ISBN: 80-214-0894-4. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KORCAK, Z.; ZENDULKA, J.; ZEZULA, P. Simulation of Signature File Organizations. MOSIS'97 Proceedings, Volume 2. Hradec nad Moravici: Marq software s.r.o., 1997. p. 63-68. ISBN: 80-85988-17-8. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOTASEK, P. Mining association rules from databases. Milovy: 1997. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOTASEK, P. Mining association rules from databases. In Sbornik praci studentu a doktorandu. Brno: 1997. s. 145-147. ISBN: 80 214 0637 5. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOTASEK, P.; ZENDULKA, J. Ziskavani asociacnich pravidel z transakcnich dat. Sbornik Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1997. s. 57-62. ISBN: 80-214-0894-4. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KRESLIKOVA, J. Algorithms and Programming - A Set of Basic Slides. Brno: Department of Computer Science and Engineering, 1997. 171 p. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KRESLIKOVA, J. Projektovani programovych systemu - Metodika analyzy a navrhu systemu pomoci OMT. Brno: Ustav informatiky a vypocetni techniky FEI VUT, 1997. 27 s. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KRESLIKOVA, J. Projektovani programovych systemu - Uziti CASE Paradigm Plus. Brno: Ustav informatiky a vypocetni techniky FEI VUT, 1997. 31 s. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "LAMPA, P. Automaticky vyber varianty dokumentu v systemu WWW. Sbornik letni skoly Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1997. s. 71-80. ISBN: 80-214-0894-4. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "LAMPA, P. CORBA a IIOP. Sbornik konference EurOpen CZ 97. Borova Lada na Sumave: 1997. 13 p. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "LAMPA, P. System WWW a prezentace dokumentu v narodnich jazycich a kodech. Sbornik prispevku pro cesko-slovenskou cast konference RUFIS 97. Praha: Ceske vysoke uceni technicke, 1997. s. 235-242. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "LAMPA, P. Doporucena hlediska vyberu rozbocovacu. Journal CONNECT!, 1997, roc. II, c. 7/97, s. 35-37. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "LAMPA, P. Jak pracuje klicovy protokol WWW http verze 1.1. Journal CONNECT!, 1997, roc. II, c. 3,4,5/97, s. 52-53. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "LAMPA, P.; PAPEZIK, M. Co nabidne trh desitkovych prepinacu. Journal CONNECT!, 1997, roc. II, c. 10/97, s. 91-92. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "PAVLAS, Z.; ZENDULKA, J. Modelling Temporal Data with TSQL2. MOSIS'97 Proceedings, Volume 2. Hradec nad Moravici: Marq software s.r.o., 1997. p. 175-180. ISBN: 80-85988-17-8. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "PRIKRYL, P. Beauty -- The Language for parallel programming. Proceedings of WORKSHOP 97, part I. Prague: unknown, 1997. p. 185-186. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "ZENDULKA, J. Models of Object-Oriented Analysis and Design. MOSIS'97 Proceedings, Volume 2. Hradec nad Moravici, Czech Republic: Marq software s.r.o., 1997. p. 163-168. ISBN: 80-85988-17-8. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "ZENDULKA, J. Pristup k databazim z WWW. Sbornik Informacni systemy a jejich aplikace. Ruprechtov: neznama, 1997. s. 157-166. ISBN: 80-214-0894-4. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "BENES, M.; HRUSKA, T. Modularita v jazycich pro popis objektove orientovanych udaju. Studnice: neznama, 1996. s. 8-12. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "BENES, M.; HRUSKA, T.; MACEL, M. Bootstrapping of an Object-Oriented Database System. Proceedings of 10th International Conference Systems for Automation of Engineering and Research and DECUS NUG Seminar. Varna: 1996. p. 188-195. ISBN: 954-8329-121-3. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "BENES, M.; HRUSKA, T.; MACEL, M. Nested Objects and Items of Variable Length. Proceedings of 22nd Conference of the ASU. ASU Newsletter. Clermont Ferrand: unknown, 1996. p. 39-46. ISSN: 1102-593X. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "BERKA, M.; KRISTOF, P.; LAMPA, P.; PRIKRYL, P. Hypertext information systems of the Faculty of Civil Eng. and Faculty of Electrical Eng. and Computer Science TU Brno. Workshop 96. Brno: 1996. p. 271-272. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HANACEK, P. Bezpecnost a ochrana informaci pri elektronickem platebnim styku. Seminar \"Ochrana a bezpecnost informaci v informacnich systemech\". Brno: 1996. s. 68-77. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HANACEK, P. Informacni bezpecnost a Internet. Seminar AFOI'96. Praha: 1996. 11 s. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HANACEK, P. Ochrana dat a bezpecnost informacnich systemu. Konference MEDSOFT'96. Praha: 1996. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HANACEK, P. Problems of Implementation of Virtual Time for Parallel Simulation. XVIIIth International Workshop Advanced Simulation Systems 96. Zabreh na Morave: 1996. p. 298-303. ISBN: 80-85988-100. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HANACEK, P. Problemy bezpecnosti pri implementaci informacnich systemu. Konference RADAR'96. Brno: 1996. 7 s. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HANACEK, P. Problemy bezpecnosti pri implementaci informacnich systemu. Letni skola informacnich systemu. Studnice: Fakulta stavebni VUT, 1996. s. 26-32. ISBN: 80-214-0774-3. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HANACEK, P. Rizika surfovani po vlnach Internetu. Seminar Virus'96. Praha: 1996. 11 s. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HANACEK, P. Virtual Time for Parallel Simulation. Spring International Conference MOSIS'96. Krnov: 1996. p. 181-186. ISBN: 80-85988-020. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HANACEK, P. Zdravotnicka dokumentace a ochrana dat. Kongres MEFA'96. Brno: 1996. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HRUSKA, T. Dedicnost. Sbornik seminare Tvorba software 96. Ostrava: Tanger sro., 1996. s. 107-117. ISBN: 80-85988-09-7. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HRUSKA, T. G2 - object-oriented database system. Workshop 96 proceedings. Praha: unknown, 1996. p. 261-262. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HRUSKA, T. G2-Model of Information Systems. Proceedings of the MOSIS 96 Conference. Krnov: Marq software s.r.o., 1996. p. 264-269. ISBN: 80-85988-02-X. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HRUSKA, T. Modularita v jazycich pro popis objektove orientovanych udaju. Sbornik z Letni skoly informacnich systemu 1996. Studnice: neznama, 1996. s. 8-12. ISBN: 80-214-0774-3. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HRUSKA, T. Object Models of Information Systems. Proceedings of the MOSIS 96 Conference. Krnov: Marq software s.r.o., 1996. p. 252-257. ISBN: 80-85988-02-X. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "HRUSKA, T.; KOLENCIK, P. Semantics of Object Identification in Object-oriented Database Model. Proceedings of Scientific Conference Electronic Computers and Informatics. Kosice: unknown, 1996. p. 243-249. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "KORCAK, Z. Identifikace objektuv OODBS a jeji implementace. In Sbornik praci studentu a doktorandu FEI VUT. Fakulta elektrotechniky a informatiky VUT, 1996. s. 79-81. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "KRESLIKOVA, J. Softwarove metriky v OO prostredi. Objekty '96. Praha: neznama, 1996. s. 83-89. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "LAMPA, P. Vyvoj protokolu HTTP a jazyka HTML. Sbornik z letni skoly Informacni systemy a jejich aplikace. Studnice: neznama, 1996. s. 48-58. ISBN: 80-214-0774-3. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "PRIKRYL, P. PIN -- the Language for Parallel/Distributed Environment. Proceedings of MOSIS'96, Vol.1. Krnov: Marq software s.r.o., 1996. p. 187-192. ISBN: 80-85988-02-X. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "ZENDULKA, J. Modelling of missing (unknown) information in database and logic simulation languages. Proceedings of Advanced Simulation of Systems ASS'96. Zabreh na Morave: Marq software s.r.o., 1996. p. 7-12. ISBN: 80-85988-10-0. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "ZENDULKA, J. Modelovaci techniky objektove orientovane analyzy a navrhu. Sbornik Informacni systemy a jejich aplikace. Studnice: neznama, 1996. s. 98-105. ISBN: 80-214-0774-3. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "ZENDULKA, J. The conception of the method interpreter of the object-oriented database management system. Proceedings of Electronic Computers & Informatics. Herlany: unknown, 1996. p. 230-235. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "BENES, M.; HRUSKA, T. Data Types in Object-Oriented Databases. Proceedings of Session 26 Conference on the Technical University Ostrava. Ostrava: 1995. p. 318-324. ISBN: 80-901751-7-1. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "BENES, M.; HRUSKA, T. Extensible Type System for Term Graphs Rewriting. Proceedings of the Black Sea InfoTech 95 Conference. Varna: unknown, 1995. p. 1-5. ISBN: 954-8490-03-X. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "BENES, M.; HRUSKA, T. Graph Rewriting as a Tool for System Description. Proceedings of the IFIP Workshop CAST and Computer System Technology. Insbruck: unknown, 1995. p. 9-10. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "BENES, M.; HRUSKA, T.; MACEL, M. Database System G2. Proceedings of COFAX Conference of Database Systems. Bratislava: 1995. p. 13-19. ISBN: 80-233-0348-1. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "HANACEK, P. Bezpecnost v informacnich systemech. DATASEM'95. Brno: neznama, 1995. s. 29-38. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "HANACEK, P. Kriteria hodnoceni bezpecnosti ITSEC a cesta k nim. HODNOCENI INFORMACNI BEZPECNOSTI. Praha: 1995. s. 1-7. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "HANACEK, P.; PRIKRYL, P.; RYSANEK, M. The Linda Language in Distributed Environment. Proceedings of WORKSHOP 95, Part I. Prague: 1995. p. 231-232. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "HRUSKA, T. DAPLEX - funkcionalni objektove orientovany model. Sbornik seminare Advanced Simulation of Systems 95. Zabreh: Marq software s.r.o., 1995. p. 42-47. ISBN: 80-901751-1-2. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "HRUSKA, T. Objektove orientovane databaze a jejich pouziti. Sbornik mezinarodni konference EIS 95. Zlin: Brno University of Technology, 1995. p. 31-38. ISBN: 80-214-0593-7. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "HRUSKA, T. Objektove orientovane databazove technologie. Sbornik seminare Tvorba software 95. Ostrava: Tanger sro., 1995. s. 113-124. ISBN: 80-901751-3-9. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "HRUSKA, T.; MACEL, M. Bussiness and Finance Information Systems. Sbornik prispevku III. mezinarodni konference Informatika 95. Bratislava: unknown, 1995. p. 147-153. ISBN: 80-233-0355-4. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "KRESLIKOVA, J. Metriky pri tvorbe informacnich systemu. Nektere nove pristupy pri tvorbe informacnich systemu. Brno: Ustav informatiky a vypocetni techniky FEI VUT, 1995. s. 6-15. ISBN: 80-901751-3-9. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "KRESLIKOVA, J. Odhady nakladu na vyvoj informacniho systemu. Informacni systemy a jejich aplikace. Studnice: 1995. s. 33-38. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "KRESLIKOVA, J. Softwarove metriky a jejich vyznam. Tvorba software '95. Ostrava: 1995. s. 75-87. ISBN: 80-901751-3-9. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "LAMPA, P.; PRIKRYL, P. Zkusenosti z instalace a provozu systemu WWW. Sbornik z letni skoly Informacni systemy a jejich aplikace. Studnice: neznama, 1995. s. 39-54. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "MACEL, M.; ZENDULKA, J. Method interpreter in the G2 database system. Proceedings of COFAX'95. Bratislava: unknown, 1995. p. 19-24. ISBN: 80-233-0348-1. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "NAKLADAL, V.; ZENDULKA, J. ODMG-93 - a standard in object-oriented database systems?. Proceedings of the conference Computer Science. Ostrava: Marq software s.r.o., 1995. p. 310-317. ISBN: 80-9011751-7-1. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "ZENDULKA, J. Dotazovaci jazyk OQL. Nektere nove pristupy pri tvorbe informacnich systemu. Brno: Ustav informatiky a vypocetni techniky FEI VUT, 1995. s. 33-37. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "ZENDULKA, J. Dotazovaci jazyk standardu ODMG-93. Sbornik Informacni systemy a jejich aplikace. Studnice: neznama, 1995. s. 102-105. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "BENES, M.; HRUSKA, T. System Models based on Graph Grammars. Proceedings of 8th Internatioval Conference SAER 94. Varna: 1994. s. 77-82. ISBN: 954-8329-06-9. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "BENES, M.; HRUSKA, T.; MACEL, M. Objektove orientovane funkcionalni modelovani. Sbornik koloquia Vybrane problemy simulacnich modelu. Brno: Marq software s.r.o., 1994. p. 46-53. ISBN: 80-901229-9-X. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "BENES, M.; HRUSKA, T.; STEVKO, E. Applications of Graph Rewriting Systems in Compiler Implementation. Proceedings of 5th International Workshop on Graph Grammars. Williamsburg, Virginia: 1994. p. 77-82. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "BENES, M.; HRUSKA, T.; STEVKO, E. Rooted Graph with Types and Inheritance. Proceedings of the ASU 94 Conference. Praha: unknown, 1994. p. 194-204. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "HANACEK, P. Modely bezpecnosti informacnich systemu. XVI. moravskoslezske mezimarodni kolokvium Vybrane problemy simulacnich modelu. Brno: 1994. s. 35-39. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "HANACEK, P. Optimalizace jazyka Linda pro paralelni simulaci. Modelling and Simulation of Systems MOSIS'94. Zabreh na Morave: 1994. s. 196-201. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "SOCHOR, J.; ZENDULKA, J. Informacni system pro studijni poradenstvi. 2. celostatni seminar k problematice poradenskych center pro studenty na vysokych skolach v CR. Praha: neznama, 1994. s. 20-25. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "BENES, M.; HRUSKA, T. Functional Programming in Information Engineering. Proceedings of the CATE 93 Conference. Brno: unknown, 1993. p. 345-349. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "BENES, M.; HRUSKA, T.; STEVKO, E. Using Graph Transformation in Discrete Simulation. Proceedings of the MOSIS 93 Conference. Olomouc: Marq software s.r.o., 1993. p. 275-281. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "BENES, M.; HRUSKA, T.; ZDRAHAL, P. Compiler Implementation Using Graph Transformation. Proceedings of the SOFSEM 93 Conference. Milovy: unknown, 1993. p. 1-5. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "HANACEK, P. Hodnoceni a klasifikace bezpecnosti informacnich systemu. Seminar Programovani '93. Ostrava: neznama, 1993. 19 s. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "HANACEK, P. Parallel Simulation Using the Linda Language. 5th Moravo-Silesian International Symposium on Modelling and Simulation of Systems. Olomouc: unknown, 1993. p. 263-267. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "HANACEK, P. The Common Model for the Communication and Synchronization Primitives. Mezinarodni konference SOFSEM'93. Hrdonov: 1993. p. 1 (1 s.). Detail"
+        },
+        {
+            "year": "1993",
+            "details": "HANACEK, P.; PRIKRYL, P. Parallel Programming and Simulation Systems. International Conference CATE'93. Brno: 1993. p. 341-344. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "HRUSKA, T. Compiler Implementation Using Graph Transformation. Proceedings of the COMPUGRAPH II Workshop. Leiden: unknown, 1993. 24 p. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "HRUSKA, T.; TOMISEK, J. IZUS - new approach to administration management. Computer Echo. Computer Echo. Praha: unknown, 1993. p. 40-43. ISSN: 0862-870X. Detail"
+        },
+        {
+            "year": "1992",
+            "details": "HANACEK, P.; PRIKRYL, P. Simulation System for a Digital Circuit Simulation. Systems Science '92. Wroclaw: unknown, 1992. p. 54-55. ISBN: 83-7085-023. Detail"
+        },
+        {
+            "year": "1992",
+            "details": "HRUSKA, T.; SOKOLOWSKI, P.; ZELENY, J. Ein Vergleich von CISC und RISC Architekturen. Institut fuer Angewandte Informatik an der EBS. Germany: 1992. 28 s. Detail"
+        },
+        {
+            "year": "1992",
+            "details": "KRESLIKOVA, J. Prispevek k popisu integritnich omezeni relacnich databazi pro popis realnych objektu. Brno: 1992. 84 s. Detail"
+        },
+        {
+            "details": "HRUSKA, T., KOLENCIK, P., MACEL, M. A Role Model with Constrained Method Redefinition. ASU Newsletter, vol. Vol. 24, no. October 19, 1 p. ISSN: 1102-593X. Detail"
+        },
+        {
+            "details": "HRUSKA, T., KOLENCIK, P., MACEL, M. Behavioral Safety in a Model With Multiple Class Objects. In Lecture Notes in Computer Science 1521. Lecture Notes In Computer Science. Jasna, Slovakia: Springer Verlag, 12 p. ISBN: 3-540-6526. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2025",
+            "title": "FitLayout Python Client",
+            "authors": "FitLayout Python Client , software, 2025 : BURGET, R."
+        },
+        {
+            "year": "2025",
+            "title": "IoTiX Editor",
+            "authors": "IoTiX Editor , software, 2025 : JOHN, P.; HYNEK, J."
+        },
+        {
+            "year": "2025",
+            "title": "IoTiX Interpreter",
+            "authors": "IoTiX Interpreter , software, 2025 : JOHN, P.; HYNEK, J."
+        },
+        {
+            "year": "2024",
+            "title": "FitLayout Web Browser Extension",
+            "authors": "FitLayout Web Browser Extension , software, 2024 : NOVOTNY, J.; BURGET, R."
+        },
+        {
+            "year": "2024",
+            "title": "LineShaper",
+            "authors": "LineShaper , software, 2024 : LAZUR, J.; HYNEK, J."
+        },
+        {
+            "year": "2024",
+            "title": "Nastroj pro analyzu dat z Waze",
+            "authors": "Nastroj pro analyzu dat z Waze , software, 2024 : ONDRUSKOVA, M.; HYNEK, J."
+        },
+        {
+            "year": "2024",
+            "title": "vote2json: Tool for Processing Council Voting Data",
+            "authors": "vote2json: Tool for Processing Council Voting Data , software, 2024 : JANOSIK, A.; ZAKLOVA, K.; HYNEK, J."
+        },
+        {
+            "year": "2023",
+            "title": "Improved Vision-Based Web Page Segmentation Algorithm Implementation for FitLayout",
+            "authors": "Improved Vision-Based Web Page Segmentation Algorithm Implementation for FitLayout , software, 2023 : MASTERA, F.; BURGET, R."
+        },
+        {
+            "year": "2023",
+            "title": "Model of Cycling Traffic Intensity in Brno",
+            "authors": "Model of Cycling Traffic Intensity in Brno , software, 2023 : ELIAS, R.; HYNEK, J."
+        },
+        {
+            "year": "2023",
+            "title": "Nastroj pro analyzu zpozdeni verejne dopravy v Brne",
+            "authors": "Nastroj pro analyzu zpozdeni verejne dopravy v Brne , software, 2023 : LAZUR, J.; HYNEK, J."
+        },
+        {
+            "year": "2022",
+            "title": "Geovisto: Hierarchy Tool",
+            "authors": "Geovisto: Hierarchy Tool , software, 2022 : MALY, V.; HYNEK, J."
+        },
+        {
+            "year": "2022",
+            "title": "Nastroj pro analyzu a vizualizaci dat z hlasovani Zastupitelstva mesta Brna",
+            "authors": "Nastroj pro analyzu a vizualizaci dat z hlasovani Zastupitelstva mesta Brna , software, 2022 : ZAKLOVA, K."
+        },
+        {
+            "year": "2022",
+            "title": "PDF Renderer for FitLayout",
+            "authors": "PDF Renderer for FitLayout , software, 2022 : BURGET, R."
+        },
+        {
+            "year": "2021",
+            "title": "FitLayout Web Client",
+            "authors": "FitLayout Web Client , software, 2021 : BURGET, R."
+        },
+        {
+            "year": "2021",
+            "title": "Geovisto: Choropleth Layer Tool",
+            "authors": "Geovisto: Choropleth Layer Tool , software, 2021 : HYNEK, J.; KACHLIK, J.; RYKALA, K.; RUSNAK, V."
+        },
+        {
+            "year": "2021",
+            "title": "Geovisto: Connection Layer Tool",
+            "authors": "Geovisto: Connection Layer Tool , software, 2021 : HYNEK, J.; RYKALA, K.; KACHLIK, J.; RUSNAK, V."
+        },
+        {
+            "year": "2021",
+            "title": "Geovisto: Marker Layer Tool",
+            "authors": "Geovisto: Marker Layer Tool , software, 2021 : HYNEK, J.; RYKALA, K.; KACHLIK, J.; RUSNAK, V."
+        },
+        {
+            "year": "2021",
+            "title": "Geovisto: Toolkit for Generic Geospatial Data Visualization",
+            "authors": "Geovisto: Toolkit for Generic Geospatial Data Visualization , software, 2021 : HYNEK, J.; RYKALA, K.; KACHLIK, J.; RUSNAK, V."
+        },
+        {
+            "year": "2021",
+            "title": "OwlDocGen ontology documentation generator",
+            "authors": "OwlDocGen ontology documentation generator , software, 2021 : BURGET, R."
+        },
+        {
+            "year": "2020",
+            "title": "Zarizeni pro on-line zpracovani videosekvenci v realnem case",
+            "authors": "Zarizeni pro on-line zpracovani videosekvenci v realnem case , functioning sample, 2020 : BERAN, V.; DRAHANSKY, M.; HEROUT, A.; ZEMCIK, P.; ZENDULKA, J.; BAMBUSEK, D.; BARTIK, V.; BARTL, V.; GOLDMANN, T.; KANICH, O.; KOCMAN, R.; MALANIK, P.; NOSKO, S.; PLASCENCIA, A.; VOLF, T."
+        },
+        {
+            "year": "2019",
+            "title": "BCS Segmentation Plugin for FitLayout",
+            "authors": "BCS Segmentation Plugin for FitLayout , software, 2019 : LENGAL, T.; BURGET, R.; ZELENY, J."
+        },
+        {
+            "year": "2019",
+            "title": "FireProt-ASR",
+            "authors": "FireProt-ASR , software, 2019 : MUSIL, M.; KHAN, R.; BEIER, A.; STOURAC, J.; KONEGGER, H.; DAMBORSKY, J.; BEDNAR, D."
+        },
+        {
+            "year": "2019",
+            "title": "Tool for Distributed Extraction of Timestamped Events from Files",
+            "authors": "Tool for Distributed Extraction of Timestamped Events from Files , software, 2019 : RYCHLY, M.; BURGET, R."
+        },
+        {
+            "year": "2018",
+            "title": "Distributed Forensic Digital Data Repository",
+            "authors": "Distributed Forensic Digital Data Repository , software, 2018 : JOSEFIK, M.; RYCHLY, M."
+        },
+        {
+            "year": "2018",
+            "title": "Docker Infrastructure for TARZAN Platform",
+            "authors": "Docker Infrastructure for TARZAN Platform , software, 2018 : RYCHLY, M."
+        },
+        {
+            "year": "2018",
+            "title": "Nastroj pro distribuovane ziskavani dat ze socialnich siti",
+            "authors": "Nastroj pro distribuovane ziskavani dat ze socialnich siti , software, 2018 : TUTKO, J.; BURGET, R."
+        },
+        {
+            "year": "2017",
+            "title": "RDF4J Class Builder",
+            "authors": "RDF4J Class Builder , software, 2017 : BURGET, R."
+        },
+        {
+            "year": "2017",
+            "title": "Timeline Analyzer",
+            "authors": "Timeline Analyzer , software, 2017 : BURGET, R."
+        },
+        {
+            "year": "2016",
+            "title": "FireProt web",
+            "authors": "FireProt web , software, 2016 : MUSIL, M.; STOURAC, J.; BENDL, J.; BREZOVSKY, J.; MARTINEK, T.; ZENDULKA, J.; PROKOP, Z.; BEDNAR, D.; DAMBORSKY, J."
+        },
+        {
+            "year": "2015",
+            "title": "HotSpot Wizard 2.0",
+            "authors": "HotSpot Wizard 2.0 , software, 2015 : STOURAC, J.; BENDL, J.; SEBESTOVA, E.; MUSIL, M.; BREZOVSKY, J.; DAMBORSKY, J."
+        },
+        {
+            "year": "2015",
+            "title": "Information Extraction Tools from CEUR Workshop Pages",
+            "authors": "Information Extraction Tools from CEUR Workshop Pages , software, 2015 : BURGET, R.; MILICKA, M."
+        },
+        {
+            "year": "2015",
+            "title": "Multifunkcni kamerovy system s automatizovanym zpracovanim videodat",
+            "authors": "Multifunkcni kamerovy system s automatizovanym zpracovanim videodat , utility model, 2015 : DRAHANSKY, M.; ZENDULKA, J.; ZEMCIK, P.; FROML, V.; MRACEK, S.; BERAN, V."
+        },
+        {
+            "year": "2015",
+            "title": "PDF Analysis Tools",
+            "authors": "PDF Analysis Tools , software, 2015 : BURGET, R."
+        },
+        {
+            "year": "2015",
+            "title": "PredictSNP 2.0",
+            "authors": "PredictSNP 2.0 , software, 2015 : BENDL, J.; MUSIL, M.; STOURAC, J.; ZENDULKA, J.; DAMBORSKY, J.; BREZOVSKY, J."
+        },
+        {
+            "year": "2015",
+            "title": "Scheduling Advisor for Performance Tuning of Juniper Applications",
+            "authors": "Scheduling Advisor for Performance Tuning of Juniper Applications , software, 2015 : RYCHLY, M."
+        },
+        {
+            "year": "2015",
+            "title": "System pro zpracovani obrazu a videa",
+            "authors": "System pro zpracovani obrazu a videa , functioning sample, 2015 : BERAN, V.; FROML, V.; KAPINUS, M.; KLICNAR, L.; MATERNA, Z.; VOLF, T.; MRACEK, S.; HRADIS, M.; ZEMCIK, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2015",
+            "title": "VTApi 3.0: Computer Vision Application Development Framework",
+            "authors": "VTApi 3.0: Computer Vision Application Development Framework , software, 2015 : FROML, V.; VOLF, T.; CHMELAR, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2015",
+            "title": "VTServer: Podpurna sluzba pro aplikace pocitacoveho videni",
+            "authors": "VTServer: Podpurna sluzba pro aplikace pocitacoveho videni , software, 2015 : FROML, V.; VOLF, T.; ZENDULKA, J."
+        },
+        {
+            "year": "2014",
+            "title": "FITLayout Web Page Segmentation Framework",
+            "authors": "FITLayout Web Page Segmentation Framework , software, 2014 : BURGET, R.; MILICKA, M."
+        },
+        {
+            "year": "2013",
+            "title": "Decentralizovana dohledova sit umoznujici dotazovani a analyzu dohledovych dat",
+            "authors": "Decentralizovana dohledova sit umoznujici dotazovani a analyzu dohledovych dat , patent, 2013 : CHMELAR, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2013",
+            "title": "Software framework for a stellar classification",
+            "authors": "Software framework for a stellar classification , software, 2013 : BARINA, D.; VRABELOVA, P."
+        },
+        {
+            "year": "2012",
+            "title": "R3-COP Knowledge Base",
+            "authors": "R3-COP Knowledge Base , software, 2012 : CHMELAR, P.; DALGAARD, L.; SMRZ, P.; ZEMCIK, P."
+        },
+        {
+            "year": "2012",
+            "title": "SUNAR-ED: Evend Detection in a Surveillance Network",
+            "authors": "SUNAR-ED: Evend Detection in a Surveillance Network , software, 2012 : CHMELAR, P.; PESEK, M.; VOLF, T."
+        },
+        {
+            "year": "2012",
+            "title": "SwingBox",
+            "authors": "SwingBox , software, 2012 : BURGET, R.; BIELIK, P."
+        },
+        {
+            "year": "2012",
+            "title": "Text Summarization Tool",
+            "authors": "Text Summarization Tool , software, 2012 : POKORNY, L.; BARTIK, V."
+        },
+        {
+            "year": "2012",
+            "title": "VTApi: Computer Vision Data Management Framework",
+            "authors": "VTApi: Computer Vision Data Management Framework , software, 2012 : CHMELAR, P.; FROML, V.; VOLF, T.; ZENDULKA, J."
+        },
+        {
+            "year": "2011",
+            "title": "CamSafe",
+            "authors": "CamSafe , software, 2011 : CHMELAR, P."
+        },
+        {
+            "year": "2011",
+            "title": "PDF DOM Parser",
+            "authors": "PDF DOM Parser , software, 2011 : BURGET, R."
+        },
+        {
+            "year": "2011",
+            "title": "PostgreSQL XML index FastX",
+            "authors": "PostgreSQL XML index FastX , software, 2011 : POSPISIL, T.; CHMELAR, P."
+        },
+        {
+            "year": "2011",
+            "title": "SKWIC Text Clustering Tool",
+            "authors": "SKWIC Text Clustering Tool , software, 2011 : BARTIK, V.; MILOS, R."
+        },
+        {
+            "year": "2010",
+            "title": "Cosign filter implementation in PHP",
+            "authors": "Cosign filter implementation in PHP , software, 2010 : LAMPA, P."
+        },
+        {
+            "year": "2010",
+            "title": "Text Preprocessing Tool",
+            "authors": "Text Preprocessing Tool , software, 2010 : SABATKA, O.; BARTIK, V."
+        },
+        {
+            "year": "2009",
+            "title": "Klasifikator zalozeny na k-nejblizsim sousedstvi",
+            "authors": "Klasifikator zalozeny na k-nejblizsim sousedstvi , software, 2009 : SVOBODA, P.; BARTIK, V."
+        },
+        {
+            "year": "2009",
+            "title": "MediaDiff",
+            "authors": "MediaDiff , software, 2009 : CHMELAR, P.; MLICH, J.; ZEMKO, M."
+        },
+        {
+            "year": "2009",
+            "title": "MobileAlert",
+            "authors": "MobileAlert , software, 2009 : CHMELAR, P.; POKORNY, J."
+        },
+        {
+            "year": "2009",
+            "title": "WebVector",
+            "authors": "WebVector , software, 2009 : BURGET, R."
+        },
+        {
+            "year": "2008",
+            "title": "ARC-R Classifier",
+            "authors": "ARC-R Classifier , software, 2008 : KOLAR, R.; BARTIK, V."
+        },
+        {
+            "year": "2008",
+            "title": "jStyleParser Library",
+            "authors": "jStyleParser Library , software, 2008 : PIWKO, K.; SVERCL, J.; BURGET, R."
+        },
+        {
+            "year": "2008",
+            "title": "JWordDB",
+            "authors": "JWordDB , software, 2008 : KOPRIVA, A.; CHMELAR, P."
+        },
+        {
+            "year": "2008",
+            "title": "Lissom tools for simulation of Application Specific Instruction-set Processors",
+            "authors": "Lissom tools for simulation of Application Specific Instruction-set Processors , software, 2008 : HRUSKA, T.; MASARIK, K.; KOLAR, D.; PRIKRYL, Z."
+        },
+        {
+            "year": "2008",
+            "title": "TrecvidSearch",
+            "authors": "TrecvidSearch , software, 2008 : CHMELAR, P."
+        },
+        {
+            "year": "2008",
+            "title": "XML Visualization",
+            "authors": "XML Visualization , software, 2008 : BOHAC, M.; CHMELAR, P.; FILUS, M.; POSPECH, L."
+        },
+        {
+            "year": "2007",
+            "title": "CSSBox Rendering Engine",
+            "authors": "CSSBox Rendering Engine , software, 2007 : BURGET, R."
+        },
+        {
+            "year": "2007",
+            "title": "Instruction Set Tools Lissom",
+            "authors": "Instruction Set Tools Lissom , software, 2007 : HRUSKA, T.; KOLAR, D.; LUKAS, R.; MASARIK, K."
+        },
+        {
+            "year": "2007",
+            "title": "Kalmanuv Filtr (Java)",
+            "authors": "Kalmanuv Filtr (Java) , software, 2007 : CHMELAR, P."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2017",
+            "title": "Analyza cloud computing systemu pro SKODA AUTO",
+            "authors": ", summary research report, 2017 : RYCHLY, M.; KOLAR, D."
+        },
+        {
+            "year": "2017",
+            "title": "Cloud Computing System Analysis for SKODA AUTO",
+            "authors": ", summary research report, 2017 : RYCHLY, M.; KOLAR, D."
+        },
+        {
+            "year": "1999",
+            "title": "Posouzeni informacniho systemu JMP a.s.",
+            "authors": ", research report, 1999 : HANACEK, P.; KRIVANEK, V.; LAMPA, P.; MATUS, J.; MICHAL, B.; ZEMCIK, P.; ZENDULKA, J."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2021",
+            "title": "Ukladani a zpracovani dat v systemu Validovaneho datoveho uloziste",
+            "authors": "Ukladani a zpracovani dat v systemu Validovaneho datoveho uloziste , report, 2021 : RYCHLY, M.; BARTIK, V.; BURGET, R."
+        },
+        {
+            "year": "2020",
+            "title": "Architektura systemu, ViAn Server, Snimaci uzel a ViAn GUI",
+            "authors": "Architektura systemu, ViAn Server, Snimaci uzel a ViAn GUI , report, 2020 : BARTIK, V.; KOCMAN, R.; VOLF, T.; ZENDULKA, J."
+        },
+        {
+            "year": "2020",
+            "title": "Extrakce udalosti ze souborovych systemu - Navrh a implementace distribuovane architektury",
+            "authors": "Extrakce udalosti ze souborovych systemu - Navrh a implementace distribuovane architektury , report, 2020 : BURGET, R.; RYCHLY, M."
+        },
+        {
+            "year": "2019",
+            "title": "System architecture and ViAn Server",
+            "authors": "System architecture and ViAn Server , report, 2019 : BARTIK, V.; KOCMAN, R.; VOLF, T.; ZENDULKA, J."
+        },
+        {
+            "year": "2018",
+            "title": "System architecture and ViAn Server",
+            "authors": "System architecture and ViAn Server , report, 2018 : BARTIK, V.; KOCMAN, R.; VOLF, T.; ZENDULKA, J."
+        },
+        {
+            "year": "2017",
+            "title": "Selected Video-Processing Methods and System Architecture Design",
+            "authors": "Selected Video-Processing Methods and System Architecture Design , report, 2017 : BERAN, V.; BARTIK, V.; BARTL, V.; FROML, V.; HEROUT, A.; NOSKO, S.; SOLONY, M.; ZEMCIK, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2011",
+            "title": "VTApi v. 1.0",
+            "authors": "VTApi v. 1.0 , report, 2011 : CHMELAR, P.; FROML, V.; VOLF, T.; ZENDULKA, J."
+        },
+        {
+            "year": "2010",
+            "title": "SUNAR at 2010 Multiple Camera Single Person Tracking Challenge Evaluation",
+            "authors": "SUNAR at 2010 Multiple Camera Single Person Tracking Challenge Evaluation , presentation, poster, 2010 : CHMELAR, P."
+        },
+        {
+            "year": "2007",
+            "title": "Architektura orientovana na sluzby, Navrh orientovany na sluzby, Webove sluzby",
+            "authors": "Architektura orientovana na sluzby, Navrh orientovany na sluzby, Webove sluzby , presentation, poster, 2007 : RYCHLY, M.; WEISS, P."
+        },
+        {
+            "year": "2007",
+            "title": "Rocni zprava 2007 projektu FT-TA3/128 Jazyk a vyvojove prostredi pro navrh mikroprocesoru",
+            "authors": "Rocni zprava 2007 projektu FT-TA3/128 Jazyk a vyvojove prostredi pro navrh mikroprocesoru , report, 2007 : MASARIK, K., HRUSKA, T., KOLAR, D., LUKAS, R."
+        },
+        {
+            "year": "1993",
+            "title": "Bezpecnost informacnich systemu - prirucka pro projektanty a spravce informacnich systemu ve statni sprave CR",
+            "authors": "Bezpecnost informacnich systemu - prirucka pro projektanty a spravce informacnich systemu ve statni sprave CR , directory, 1993 : HANACEK, P.; STAUDEK, J."
+        }
+    ]
+}

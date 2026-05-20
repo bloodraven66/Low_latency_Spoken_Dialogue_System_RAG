@@ -1,0 +1,75 @@
+{
+    "publication": "KISS, M.; HRADIS, M.; DVORAKOVA, M.; JIROUSEK, V.; KERSCH, F. AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2026. p. 50-66. ISBN: 978-3-032-09370-7. Detail KRAVIC, N.; PAJEVIC, I.; HASANOVIC, M.; DE LEON MARTINEZ, S.; NIEDERKROTENTHALER, T.; VORACEK, M.; DERVIC, K. War orphan age at father loss and resilience in late adolescence. Wiener klinische Wochenschrift, 2026, no. January 2026, 8 p. Detail POLOK, A.; KLEMENT, D.; KOCOUR, M.; HAN, J.; LANDINI, F.; YUSUF, B.; WIESNER, M.; KHUDANPUR, S.; CERNOCKY, J.; BURGET, L. DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition. COMPUTER SPEECH AND LANGUAGE, 2026, vol. 95, no. 1, p. 1-19. Detail RYDLO, S.; ORSAG, F.; GOLDMANN, T.; KOLAR, D. Finger Vein Identification Using Pretrained Feature Matching Networks. IEEE Access, 2026, no. VOLUME 14, 2026, p. 23814-23823. Detail THORBECKE, I.; VILLATORO-TELLO, E.; ZULUAGA, J.; KUMAR, S.; BURDISSO, S.; RANGAPPA, P.; CAROFILIS, A.; MADIKERI, S.; MOTLICEK, P.; PANDIA, K.; HACIOGLU, K.; STOLCKE, A. Unifying Global and Near-Context Biasing in a Single Trie Pass. In Lecture Notes in Artificial Intelligence. Lecture Notes in Computer Science. CHAM: Springer Nature, 2026. p. 170-181. ISBN: 978-3-032-02547-0. Detail VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7. Detail VOJNAR, T.; ZHANG, L. Tools and algorithms for the construction and analysis of systems: a special issue for TACAS 2019. International Journal on Software Tools for Technology Transfer, 2026, vol. 24, no. 1, p. 29-31.",
+    "year": "2026",
+    "title": "AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "conference paper"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Kiss Martin, Ing. , DCGM (FIT) Hradis Michal, Ing., Ph.D. , UAMT (FEEC), DCGM (FIT) Dvorakova Martina Jirousek Vaclav Kersch Filip"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "We introduce the AnnoPage Dataset, a novel collection of 7,550 pages from historical documents, primarily in Czech and German, spanning from 1485 to the present, focusing on the late 19th and early 20th centuries. The dataset is designed to support research in document layout analysis and object detection. Each page is annotated with axis-aligned bounding boxes (AABB) representing elements of 25 categories of non-textual elements, such as images, maps, decorative elements, or charts, following the Czech Methodology of image document processing. The annotations were created by expert librarians to ensure accuracy and consistency. The dataset also incorporates pages from multiple, mainly historical, document datasets to enhance variability and maintain continuity. The dataset is divided into development and test subsets, with the test set carefully selected to maintain the category distribution. We provide baseline results using YOLO and DETR object detectors, offering a reference point for future research. The AnnoPage Dataset is publicly available on Zenodo (https://doi.org/10.5281/zenodo.12788419), along with ground-truth annotations in YOLO format."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Dataset; Non-Textual Elements; Graphical Elements; Documents"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2026"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "50\u201366"
+        },
+        "proceedings": {
+            "label": "Proceedings",
+            "text": "Document Analysis and Recognition \u2013 ICDAR 2025 Workshops"
+        },
+        "conference": {
+            "label": "Conference",
+            "text": "International Conference on Document Analysis and Recognition"
+        },
+        "isbn": {
+            "label": "ISBN",
+            "text": "978-3-032-09370-7"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "Springer Nature Switzerland"
+        },
+        "place": {
+            "label": "Place",
+            "text": "Cham"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1007/978-3-032-09371-4_4"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-105027540711"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@inproceedings{BUT197672, author=\"Martin {Kiss} and Michal {Hradis} and Martina {Dvorakova} and {} and {}\", title=\"AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization\", booktitle=\"Document Analysis and Recognition \u2013 ICDAR 2025 Workshops\", year=\"2026\", pages=\"50--66\", publisher=\"Springer Nature Switzerland\", address=\"Cham\", doi=\"10.1007/978-3-032-09371-4\\{_}4\", isbn=\"978-3-032-09370-7\", url=\"https://link.springer.com/chapter/10.1007/978-3-032-09371-4_4\" }"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Reanimated book - digitized library treasures for the creative industries , MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV033, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Computer Graphics and Multimedia (DCGM) Knihovna AV CR, v. v. i. (KNAV) Moravska zemska knihovna v Brne (MZK) Narodni knihovna Ceske republiky (NK)"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "project": "High Performance, Safe, Secure, Open-Source Leveraged RISC-V Domain-Specific Ecosystems",
+    "title": "High Performance, Safe, Secure, Open-Source Leveraged RISC-V Domain-Specific Ecosystems",
+    "metadata": {
+        "project_period": "1. 5. 2023 \u2013 30. 4. 2026",
+        "project_type": "grant",
+        "code": "9A23003",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "RISC-V, open-source, multicore, safety critical system"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The ISOLDE project aims to significantly support the digital transformation of all economic and societal sectors, to speed up the transition towards a green, climate neutral and digital Europe, to strengthen the design capacity and to achieving digital autonomy EU wide. By the end of our project, we will have high performance RISC-V processing systems and platforms at least at TRL 7 for the vast majority of building blocks, demonstrated for key European application domains such as automotive, space and IoT with the expectation that two years after completion ISOLDEs high performance components will be used in industrial quality products. To achieve such an ambitious goal, an industrial-grade open-source support for development, verification, and maintenance will be provided. The customizable IPs will be hosted on physically located European servers to address the European digital sovereignty requirement that the ISOLDE project will support. This way, ISOLDE will have delivered a major contribution to the unification and focus of the full-fledged industry-supported eco-system for RISC-V open-source architecture, especially in the area of embedded high-performance computing, and thus to the creation of a breakthrough design capacity across the EU microelectronics industry. ACKNOWLEDGMENT: ISOLDE is supported by the Chips Joint Undertaking and its members, including the top-up funding by National Authorities under Grant Agreement 101112274. Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the granting authority. Neither the European Union nor the granting authority can be held responsible for them."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM) \u2013 research leader Halas Jaromir (CVT) Ruzicka Richard, doc. Ing., Ph.D., MBA (DCSY) Smrz Pavel, doc. RNDr., Ph.D. (DCGM) Simek Vaclav, Ing. (DCSY)"
+        }
+    }
+}

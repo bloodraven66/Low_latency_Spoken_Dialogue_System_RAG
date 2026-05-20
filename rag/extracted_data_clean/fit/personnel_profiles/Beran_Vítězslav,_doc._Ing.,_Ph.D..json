@@ -1,0 +1,694 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "beranv@fit.vut.cz",
+            "work_phone": "+420 54114 1281",
+            "phone": "+420 777 286 075",
+            "room": "L225 Office",
+            "researcher_id": "I-9230-2012",
+            "orcid_id": "0000-0002-7495-6932",
+            "scopus_author_id": "23134295400"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Computer Graphics Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Council for the Use of Information Technologies and Equipment at FIT BUT",
+            "role": "Member"
+        },
+        {
+            "organization": "Dean's Collegium",
+            "role": "Vice-dean for Marketing and External Relations"
+        },
+        {
+            "organization": "FIT Industrial Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Robotic research group Robo@FIT",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Supervisors Specialists in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            {
+                "date": "01.09.1996\n-\n31.08.2003",
+                "details": "Brno University of TechnologyMSc., Computer Science and Engineering, \"Augmented Reality in Videoconference System\""
+            },
+            {
+                "date": "01.09.2003\n-\n31.08.2011",
+                "details": "Brno University of TechnologyPh.D. information technology, \"On-line Data Analysis Based on Visual Codebooks\""
+            },
+            {
+                "date": "01.01.2011\n-\n31.12.2011",
+                "details": "Prague, CzechiaCertified Business performance coach, MSMT CR"
+            },
+            {
+                "date": "01.09.2011\n-\n01.04.2023",
+                "details": "Brno University of TechnologyDoc. (assoc. prof. degree), theme of the work \"Mixed Reality in Semi-Autonomous Systems\""
+            },
+            {
+                "date": "01.01.2012\n-\n31.12.2012",
+                "details": "Prague, CzechiaThe Art and Science of Coaching (TASC), Couching Centre, certified course ICF (International Coach Federation)"
+            },
+            "Vitezslav \"Vita\" Beran is an Associate professor and Vice-dean for Marketing and External Relations at the Faculty of Information Technology, Brno University of Technology (FIT BUT). He graduated from BUT (Ing. and PhD) and was a visiting researcher at CVSSP, University of Surrey. His research interests include image, video and depth data processing, human-robot interaction (collaboration), augmented reality and artificial intelligence. He was the team leader of several local and European-funded projects. At FIT, he is responsible for the User Interface Programming course and, partially, the Image Processing course. As vice-dean, he is engaged in partnerships and cooperation with industry, alumni, and high schools. He is a key founder of the Excel@FIT and ZijemeIT conferences, international summer school BISSIT, and the Star(t)up@FIT entrepreneurship development programme."
+        ],
+        "academic_internships_abroad": [
+            {
+                "date": "01.11.2002\n-\n30.03.2003",
+                "details": "CVSSP, University of Surrey, UKVisiting researcher in the field of augmented reality"
+            }
+        ],
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2015",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2019"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Tuesday, 12:00-14:00 , For a specific time of the consultation, please register here . Changes to the consultation registration can be made up to 24 hours before the consultation.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "IKK",
+                "title": "Circle Consultations",
+                "details": "Czech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITU",
+                "title": "User Interface Programming",
+                "details": "Czech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITUe",
+                "title": "User Interface Programming (in English)",
+                "details": "English, winter",
+                "department": "DCGM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "IKK",
+                "title": "Circle Consultations",
+                "details": "Fundamentals seminar,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITU",
+                "title": "User Interface Programming",
+                "details": "Exercise in computer lab, Lecture, Project,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITUe",
+                "title": "User Interface Programming (in English)",
+                "details": "Exercise in computer lab, Lecture, Project,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "PGPa",
+                "title": "Advanced Computer Graphics (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "POVa",
+                "title": "Computer Vision (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "VGE",
+                "title": "Computational Geometry",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ZPO",
+                "title": "Image Processing",
+                "details": "Lecture, Project,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ZPOe",
+                "title": "Image Processing (in English)",
+                "details": "Lecture, Project,\nEnglish, summer",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Safe and Secure Traffic Systems with Advanced Technology",
+            "details": "MV, Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - II. verejna soutez, VB02000081, start: 2024-01-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2024",
+            "title": "VUT JUNIOR - FIT",
+            "details": "FIT, start: 2024-01-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Long Life Power Platforms for Internet of Things",
+            "details": "MSMT, Chips Joint Undertaking, 9A23012, start: 2023-06-01, end: 2026-05-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Qinfo - Acquisition and Statistical Processing of Subjective Attitudes in Time",
+            "details": "TACR, 1. verejna soutez programu SIGMA, TQ01000036, start: 2023-09-01, end: 2026-08-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "An overview report on existing smart home management solutions, focusing on the possibilities of centralized management of energy consumption and production",
+            "details": "start: 2022-05-09, end: 2022-07-13, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Automaticka kalibrace robota",
+            "details": "Y-Soft, start: 2022-11-01, end: 2023-08-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Safe and Secure Traffic Systems of New Generation",
+            "details": "MV, Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - I. verejna soutez, VB01000048, start: 2022-01-01, end: 2023-12-31, running"
+        },
+        {
+            "year": "2021",
+            "title": "Condition diagnostics and protection of bridge constructions system with application of WIM system",
+            "details": "TACR, 2. verejna soutez programu Doprava 2020+, CK02000126, start: 2021-04-01, end: 2024-03-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Distributed Artificial Intelligent Systems",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A21012, 101007273, start: 2021-05-01, end: 2024-04-30, running"
+        },
+        {
+            "year": "2021",
+            "title": "Mobile Tree Measurement",
+            "details": "Fairventures, start: 2021-04-07, end: 2021-08-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "EXCEL@FIT 2019",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-19-1, start: 2019-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Framework of key enabling technologies for safe and autonomous drones  applications",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A19003, start: 2019-10-01, end: 2023-01-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "National Center of Competence for Cybersecurity",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, start: 2019-01-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Test-it-off: Robotic offline product testing",
+            "details": "MPO, TRIO, FV40052, start: 2019-01-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "EXCEL@FIT 2018",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-18-1, start: 2018-03-01, end: 2019-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Introduction of attractive and effective English language studies at FIT",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, start: 2018-02-01, end: 2019-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Innovation voucher - Text data extraction from card scan",
+            "details": "Medingo, start: 2017-03-01, end: 2017-09-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Know-how transfer in the field of image processing in embedded devices",
+            "details": "EU, OP PIK - Partnerstvi znalostniho transferu, start: 2017-01-01, end: 2018-09-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Research and development of diagnostic unit for forming machines",
+            "details": "MPO, TRIO, FV20512, start: 2017-04-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "System for image data analysis to attend needs of Police of the Czech Republic",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, VH20172018014, start: 2017-01-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Tools and methods for video and image processing to improve effectivity of rescue and security services operations",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020068, start: 2017-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "WearableRobots - Advanced Collaborative Aspects of Wearable Robotic Systems",
+            "details": "EU, European Cooperation in Science and Technology (COST), start: 2017-09-01, end: 2021-09-14, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3984, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Analysis and optimization of ads presentation in the Facebook network",
+            "details": "ROI Hunter, start: 2016-03-21, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Improvements of Change Detection in Point Cloud Data and Visualization of the Changes by Incorporating Semantic Information",
+            "details": "MSMT, AKTION Ceska republika - Rakousko, AKTION, start: 2015-08-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Reconfigurable ROS-based Resilient Reasoning Robotic Cooperating Systems",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H14003, start: 2014-02-01, end: 2017-01-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Excellent Young Researchers at BUT",
+            "details": "EU, OP VK - Oblast podpory 2.3 - Lidske zdroje ve VaV, EE2.3.30.0039, start: 2012-07-01, end: 2015-06-30, completed"
+        },
+        {
+            "year": "2012",
+            "title": "V3C - Visual Computing Competence Center",
+            "details": "TACR, Centra kompetence, TE01020415, start: 2012-05-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-2, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Image processing and 3D graphics syntesis on mobile devices",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR1255/2011/G1, start: 2011-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-2, 2010, start: 2010-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Tools and Methods for Video and Image Processing for the Fight against Terrorism",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015006, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Laboratory of Image Processing and Computer Graphics",
+            "details": "FR2148/2009/Aa, start: 2009-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Laboratory of human machine interaction",
+            "details": "FR0274/2008/Aa, start: 2008-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "CARETAKER - Content Analysis and REtrieval Technologies to Apply Knowledge Extraction to massive Recording",
+            "details": "EU, Sixth Framework programme, 027231, start: 2006-03-01, end: 2008-09-30, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Image segmentation techniques for reconstruction of 3D models of objects from image",
+            "details": "FR59/2005/G1, start: 2005-01-01, end: 2005-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2024",
+            "citation": "KAPINUS, M.; BERAN, V.; MATERNA, Z.; BAMBUSEK, D. Augmented Reality Spatial Programming Paradigm Applied to End-User Robot Programming. ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING, 2024, vol. 89, no. 89, p. 1-13. ISSN: 0736-5845."
+        },
+        {
+            "year": "2023",
+            "citation": "BAMBUSEK, D.; MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. How Do I Get There? Overcoming Reachability Limitations of Constrained Industrial Environments in Augmented Reality Applications. In 2023 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). Shanghai: Institute of Electrical and Electronics Engineers, 2023. p. 115-122. ISBN: 979-8-3503-4815-6."
+        },
+        {
+            "year": "2022",
+            "citation": "BAMBUSEK, D.; MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. Handheld Augmented Reality: Overcoming Reachability Limitations by Enabling Temporal Switch to Virtual Reality. In HRI '22: Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. Sapporo, Hokkaido: Association for Computing Machinery, 2022. p. 698-702. ISBN: 978-1-6654-0731-1."
+        },
+        {
+            "year": "2022",
+            "citation": "KAPINUS, M.; BAMBUSEK, D.; MATERNA, Z.; BERAN, V.; SMRZ, P. Improved Indirect Virtual Objects Selection Methods for Cluttered Augmented Reality Environments on Mobile Devices. In HRI '22: Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. Sapporo, Hokkaido: Association for Computing Machinery, 2022. p. 834-838. ISBN: 978-1-6654-0731-1."
+        },
+        {
+            "year": "2020",
+            "citation": "KAPINUS, M.; MATERNA, Z.; BAMBUSEK, D.; BERAN, V. End-User Robot Programming Case Study: Augmented Reality vs. Teach Pendant. In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction. Cambridge: Association for Computing Machinery, 2020. p. 281-283. ISBN: 978-1-4503-7057-8."
+        },
+        {
+            "year": "2020",
+            "citation": "PLASCENCIA, A.; BERAN, V.; ROZMAN, J. Working Progress Towards Lawn Mower Automation. In Proceedings of the 17th International Conference on Informatics in Control, Automation and Robotics. Setubal: SciTePress - Science and Technology Publications, 2020. p. 99-108. ISBN: 978-989-758-442-8."
+        },
+        {
+            "year": "2019",
+            "citation": "BAMBUSEK, D.; MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. Combining Interactive Spatial Augmented Reality with Head-Mounted Display for End-User Collaborative Robot Programming. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). New Delhi: Institute of Electrical and Electronics Engineers, 2019. p. 1-9. ISBN: 978-1-7281-2622-7."
+        },
+        {
+            "year": "2019",
+            "citation": "KAPINUS, M.; BERAN, V.; MATERNA, Z.; BAMBUSEK, D. Spatially Situated End-User Robot Programming in Augmented Reality. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). New Delhi: Institute of Electrical and Electronics Engineers, 2019. p. 1-9. ISBN: 978-1-7281-2622-7."
+        },
+        {
+            "year": "2019",
+            "citation": "SEDLMAJER, K.; BAMBUSEK, D.; BERAN, V. Effective Remote Drone Control Using Augmented Virtuality. In Proceedings of the 3rd International Conference on Computer-Human Interaction Research and Applications 2019. Vienna: SciTePress - Science and Technology Publications, 2019. p. 177-182. ISBN: 978-989-758-376-6."
+        },
+        {
+            "year": "2018",
+            "citation": "MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P.; ZEMCIK, P. Interactive Spatial Augmented Reality in Collaborative Robot Programming: User Experience Evaluation. In RO-MAN 2018 - 27th IEEE International Symposium on Robot and Human Interactive Communication. NanJing: Institute of Electrical and Electronics Engineers, 2018. p. 80-87. ISBN: 978-1-5386-7980-7."
+        },
+        {
+            "year": "2017",
+            "citation": "MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. Using Persona, Scenario, and Use Case to Develop a Human-Robot Augmented Reality Collaborative Workspace. In ACM/IEEE International Conference on Human-Robot Interaction. Viden: Association for Computing Machinery, 2017. p. 201-202. ISBN: 978-1-4503-4885-0."
+        },
+        {
+            "year": "2017",
+            "citation": "MATERNA, Z.; SPANEL, M.; MAST, M.; BERAN, V.; WEISSHARDT, F.; BURMESTER, M.; SMRZ, P. Teleoperating Assistive Robots: A Novel User Interface Relying on Semi-Autonomy and 3D Environment Mapping. Journal of Robotics and Mechatronics, 2017, vol. 29, no. 2, p. 381-394. ISSN: 0915-3942."
+        },
+        {
+            "year": "2017",
+            "citation": "PRIVALOV, V.; BERAN, V.; SMRZ, P. Effectiveness of the Bag-of-Words approach on the object search problem in 3D domain. In Proceedings of SCCG 2017. Proceedings - SCCG 2017: 33rd Spring Conference on Computer Graphics. New York City, NY: Association for Computing Machinery, 2017. p. 138-145. ISBN: 978-1-4503-5107-2."
+        },
+        {
+            "year": "2016",
+            "citation": "ARRICHIELLO, F.; BAIZID, K.; BERAN, V.; CHELLALI, R.; LUZA, R. RRS: Rapidly-Exploring Random Snakes a New Method for Mobile Robot Path Planning. In INTELLIGENT AUTONOMOUS SYSTEMS 13. Advances in Intelligent Systems and Computing. 2016. no. 1, p. 291-305. ISSN: 2194-5357."
+        },
+        {
+            "year": "2016",
+            "citation": "MATERNA, Z.; KAPINUS, M.; SPANEL, M.; BERAN, V.; SMRZ, P. Simplified Industrial Robot Programming: Effects of Errors on Multimodal Interaction in WoZ experiment. In 25th IEEE International Symposium on Robot and Human Interactive Communication, RO-MAN 2016. New York City: Institute of Electrical and Electronics Engineers, 2016. p. 200-205. ISBN: 978-1-5090-3929-6."
+        },
+        {
+            "year": "2016",
+            "citation": "VOJVODA, J.; BERAN, V. Feature extraction for efficient image and video segmentation. In Proceedings - SCCG 2016: 32nd Spring Conference on Computer Graphics. Smolenice: Association for Computing Machinery, 2016. p. 75-80. ISBN: 978-1-4503-4436-4."
+        },
+        {
+            "year": "2015",
+            "citation": "CHRAPEK, D.; BERAN, V.; ZEMCIK, P. Depth-Based Filtration for Tracking Boost. In Springer International Publishing. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Catania: Springer International Publishing, 2015. no. 9386, p. 217-228. ISBN: 978-3-319-25903-1. ISSN: 0302-9743."
+        },
+        {
+            "year": "2015",
+            "citation": "POLOK, L.; KLICNAR, L.; ZEMCIK, P.; BERAN, V.; SMRZ, P. Quality Assurance in Large Collections of Video Sequences. In Proceedings - International Conference on Image Processing, ICIP. Quebec: IEEE Computer Society Press, 2015. p. 3580-3584. ISBN: 978-1-4799-8339-1."
+        },
+        {
+            "year": "2014",
+            "citation": "PLASCENCIA, A.; CALTENCO, H.; BERAN, V. Comparison of Different Powered-wheelchair Control Modes for Individuals with Severe Motor Impairments. In ICINCO 2014 - Proceedings of the 11th International Conference on Informatics in Control, Automation and Robotics. Vienna: IEEE Computer Society, 2014. p. 353-359. ISBN: 978-989-758-040-6."
+        },
+        {
+            "year": "2013",
+            "citation": "KLICNAR, L.; BERAN, V.; ZEMCIK, P. Dissimilarity Detection of Two Video Sequences. Proceedings of SCCG 2013. Proceeding of Spring Conference on Computer Graphics. Conference Materials and Posters. Smolenice: Comenius University in Bratislava, 2013. no. 5, p. 28-31. ISBN: 978-80-223-3377-1. ISSN: 1335-5694."
+        },
+        {
+            "year": "2012",
+            "citation": "HULIK, R.; BERAN, V.; SPANEL, M.; KRSEK, P.; SMRZ, P. Fast and Accurate Plane Segmentation in Depth Maps for Indoor Scenes. In IEEE International Conference on Intelligent Robots and Systems. Proceedings of the International Conference on Intelligent Robots and Systems. Vilamoura, Algarve: Department of Computer Graphics and Multimedia FIT BUT, 2012. no. 12, p. 1665-1670. ISBN: 978-1-4673-1737-5. ISSN: 2153-0858."
+        },
+        {
+            "year": "2012",
+            "citation": "KLICNAR, L.; BERAN, V. Robust motion segmentation for on-line application. In Proceedings of WSCG'12. 20th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision, WSCG 2012 - Conference Proceedings. Plzen: University of West Bohemia in Pilsen, 2012. p. 205-212. ISBN: 978-80-86943-79-4."
+        },
+        {
+            "year": "2012",
+            "citation": "SZOKE, I.; FAPSO, M.; ZIZKA, J.; BERAN, V.; CERNOCKY, J. Efektivni pristup ke znalostem v audio-vizualnich zaznamech. Proceedings of the Annual Database Conference. Praha: Technicka univerzita v Kosiciach, 2012. s. 57-74. ISBN: 978-80-553-1049-7."
+        },
+        {
+            "year": "2011",
+            "citation": "BERAN, V. On-line Data Analysis Based on Visual Codebooks. Brno: 2011. 94 p."
+        },
+        {
+            "year": "2011",
+            "citation": "BERAN, V.; HRADIS, M.; REZNICEK, I.; OTRUSINA, L. Content-based Copy Detection. In 2011 TREC Video Retrieval Evaluation Notebook Papers. Gaithersburg, MD: National Institute of Standards and Technology, 2011. p. 1-10."
+        },
+        {
+            "year": "2011",
+            "citation": "SOLONY, M.; ZAK, P.; BERAN, V.; SPANEL, M. Camera Localization Using Incomplete Chessboard Pattern. In VISAPP 2011 - Proceedings of the International Conference on Computer Vision Theory and Application. Algarve: Institute for Systems and Technologies of Information, Control and Communication, 2011. p. 415-418. ISBN: 978-989-8425-47-8."
+        },
+        {
+            "year": "2010",
+            "citation": "BERAN, V.; HEROUT, A.; ZEMCIK, P. On-line Video Synchronization Based on Visual Vocabularies. In Proceedings of WSCG'10. 18th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision, WSCG 2010. Plzen: University of West Bohemia in Pilsen, 2010. p. 31-34. ISBN: 978-80-86943-88-6."
+        },
+        {
+            "year": "2010",
+            "citation": "BERAN, V.; ZEMCIK, P. Visual Codebooks Survey for Video On-line Processing. In Second International Conference, ICCVG 2010, Proceedings Part 1. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Warsaw: Springer Verlag, 2010. no. 1, p. 1-10. ISBN: 978-3-642-15909-1. ISSN: 0302-9743."
+        },
+        {
+            "year": "2010",
+            "citation": "BERAN, V.; ZEMCIK, P.; HEROUT, A. On-line Video Synchronization Based on Visual Vocabularies. International Journal of Signal and Image Processing, 2010, vol. 2010, no. 2, p. 1-7. ISSN: 1737-9253."
+        },
+        {
+            "year": "2010",
+            "citation": "HRADIS, M.; BERAN, V.; REZNICEK, I.; HEROUT, A.; BARINA, D.; VLCEK, A.; ZEMCIK, P. Brno University of Technology at TRECVid 2010 SIN, CCD. In 2010 TREC Video Retrieval Evaluation Notebook Papers. Gaithersburg, MD: National Institute of Standards and Technology, 2010. p. 1-10."
+        },
+        {
+            "year": "2010",
+            "citation": "REZNICEK, I.; ZEMCIK, P.; HEROUT, A.; BERAN, V. SVM CLASSIFIERS CREATION IN PARALLEL CONSTRAINED ENVIRONMENT. In Proc. of the IADIS Int. Conf. - Computer Graphics, Visualization, Computer Vision and Image Processing, CGVCVIP 2010, Visual Commun., VC 2010, Web3DW 2010, Part of the MCCSIS 2010. Freiburg im Breissgau: IADIS, 2010. p. 535-538. ISBN: 978-972-8939-22-9."
+        },
+        {
+            "year": "2009",
+            "citation": "BERAN, V.; HEROUT, A.; REZNICEK, I. Video-Based Bicycle Detection in Underground Scenarios. Proceedings of WSCG'09. 17-th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision. Plzen: University of West Bohemia in Pilsen, 2009. p. 1-4. ISBN: 978-80-86943-94-7."
+        },
+        {
+            "year": "2009",
+            "citation": "BERAN, V.; JURANEK, R.; MLICH, J.; ZAK, P.; HEROUT, A.; ZEMCIK, P. On-Line Object Behaviour Analysis for Surveillance Systems. 10th Annual ICT Conference. Nairobi: 2009. p. 1-5."
+        },
+        {
+            "year": "2009",
+            "citation": "CHMELAR, P.; BERAN, V.; HEROUT, A.; HRADIS, M.; REZNICEK, I.; ZEMCIK, P. Brno University of Technology at TRECVid 2009. TRECVID 2009: Participant Notebook Papers and Slides. Gaithersburg, MD: National Institute of Standards and Technology, 2009. p. 1-11."
+        },
+        {
+            "year": "2008",
+            "citation": "BERAN, V.; HEROUT, A.; HRADIS, M.; REZNICEK, I.; ZEMCIK, P. Video Summarization at Brno University of Technology. ACM Multimedia. 2008 ACM International Conference on Multimedia Compilation E-Proceedings, TVS'08. New Yourk: Association for Computing Machinery, 2008. p. 31-34. ISBN: 978-1-60558-303-7."
+        },
+        {
+            "year": "2008",
+            "citation": "CHMELAR, P.; BERAN, V.; HEROUT, A.; HRADIS, M.; JURANEK, R.; LANIK, A.; MLICH, J.; NAVRATIL, J.; REZNICEK, I.; ZAK, P.; ZEMCIK, P. Brno University of Technology at TRECVid 2008. Proceedings of TRECVID 2008. Gaithersburg: National Institute of Standards and Technology, 2008. p. 1-16."
+        },
+        {
+            "year": "2008",
+            "citation": "HEROUT, A.; BERAN, V.; HRADIS, M.; POTUCEK, I.; ZEMCIK, P.; CHMELAR, P. TRECVID 2007 by the Brno Group. Proceedings of TRECVID 2007. Gaithersburg: National Institute of Standards and Technology, 2008. p. 1-6. ISBN: 978-1-59593-780-3."
+        },
+        {
+            "year": "2007",
+            "citation": "BERAN, V.; HRADIS, M.; HEROUT, A.; CHMELAR, P.; POTUCEK, I.; SUMEC, S.; ZEMCIK, P. Video Summarization at Brno University of Technology. ACM Multimedia. Augsburg: Association for Computing Machinery, 2007. p. 1-4. ISBN: 978-1-59593-702-5."
+        },
+        {
+            "year": "2007",
+            "citation": "POTUCEK, I.; BERAN, V.; SUMEC, S.; ZEMCIK, P. Evaluation and comparison of tracking methods using meeting omnidirectional images. Workshop on Multimodal Interaction and Related Machine Learning Algorithms (MLMI). Brno: 2007. p. 1-12."
+        },
+        {
+            "year": "2007",
+            "citation": "SILHAVA, J.; BERAN, V.; CHMELAR, P.; HEROUT, A.; HRADIS, M.; JURANEK, R.; ZEMCIK, P. Platform for Evaluation of Image Classifiers. Spring Conference on Computer Graphics. Budmerice: Comenius University in Bratislava, 2007. p. 103-109. ISBN: 978-80-223-2292-8."
+        },
+        {
+            "year": "2007",
+            "citation": "SILHAVA, J.; BERAN, V.; CHMELAR, P.; HEROUT, A.; HRADIS, M.; JURANEK, R.; ZEMCIK, P. Testbench for Evaluation of Image Classifiers. Computer Graphics & Geometry, 2007, vol. 2007, no. 9, p. 31-47. ISSN: 1811-8992."
+        },
+        {
+            "year": "2006",
+            "citation": "BERAN, V.; GRANAT, J.; HEROUT, A.; ZEMCIK, P. DSP and FPGA Based Raster Image Processing Architecture. Proceedings of the Digital Technologies 2007 Workshop. Zilina: Zilina University Publisher, 2006. p. 1-6."
+        },
+        {
+            "year": "2006",
+            "citation": "BERAN, V.; POTUCEK, I.; SCHREIBER, S.; SMITH, K.; GATICA-PEREZ, D.; RIGOLL, G. Multi-Person Tracking in Meetings: A Comparative Study. Machine Learning for Multimodal Interaction. Washington DC: 2006. p. 158-169."
+        },
+        {
+            "year": "2006",
+            "citation": "GATICA-PEREZ, D.; RIGOLL, G.; SCHREIBER, S.; SMITH, K.; POTUCEK, I.; BERAN, V. 2D Multi-Person Tracking: A Comparative Study in AMI Meetings. Lecture Notes in Computer Science. Image Processing, Computer Vision, Pattern Recognition, and Graphics, Vol. 4122. ...: Springer Science+Business Media B.V., 2006. p. 1-12. ISBN: 978-3-540-69567-7."
+        },
+        {
+            "year": "2006",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BERAN, V.; GRANAT, J. Hardware Accelerated Image Analysis in FPGA. Proceedings of SCCG. Casta-Papiernicka: Comenius University in Bratislava, 2006. p. 1-4. ISBN: 80-223-2175-3."
+        },
+        {
+            "year": "2006",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BERAN, V.; SUMEC, S.; POTUCEK, I. Real-Time Visual Processing Using \"Views\". Poster, MLMI Conference. Washington, DC: 2006. p. 1 (1 s.)."
+        },
+        {
+            "year": "2005",
+            "citation": "BERAN, V.; PECIVA, J. AUGMENTED MULTI-USER COOPERATIVE ENVIRONMENT. Proceedings of the 11th conference STUDENT EEICT 2005. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2005. s. 528-533. ISBN: 80-214-2890-2."
+        },
+        {
+            "year": "2005",
+            "citation": "SCHIER, J.; KOVAR, B.; ZEMCIK, P.; HEROUT, A.; BERAN, V. Reconfigurable image processing architecture with simulink prototyping support. Sbornik \"Technical Computing 2005\". Praha: 2005. p. 1-4."
+        },
+        {
+            "year": "2005",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BERAN, V.; POTUCEK, I.; FUCIK, O.; HONEC, J.; RICHTER, M.; JANAKOVA, I.; LISZTWAN, M. Image Processing in Traffic Applications. Proceedings of GVIP 2005. Proceedings of GVIP 2005. Cairo: 2005. p. 1-6. ISSN: 1687-398X."
+        },
+        {
+            "year": "2005",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BERAN, V.; SCHIER, J.; FUCIK, O. Reconfigurable Image Processing Architecture. Proceedings of GVIP2005. Proceedings of GVIP 2005. Cairo: 2005. p. 1-6. ISSN: 1687-398X."
+        },
+        {
+            "year": "2004",
+            "citation": "BERAN, V. Augmented Multi-User Communication System. Proceedings of the working conference on Advanced visual interfaces. Gallipoli: Association for Computing Machinery, 2004. p. 257-260. ISBN: 1-58113-867-9."
+        },
+        {
+            "year": "2004",
+            "citation": "BERAN, V.; POTUCEK, I. REAL-TIME RECONSTRUCTION OF INCOMPLETE HUMAN MODEL USING COMPUTER VISION. Proceeding of the 10th Conference and Competition STUDENT EEICT 2004, Volume 2. Brno: Faculty of Electrical Engineering and Communication BUT, 2004. p. 298-302. ISBN: 80-214-2635-7."
+        },
+        {
+            "year": "2004",
+            "citation": "HEROUT, A.; ZEMCIK, P.; BERAN, V.; KADLEC, J. Image and Video Processing Software Framework for Fast Application Development. Joint AMI/PASCAL/IM2/M4 workshop. Martigny: Institute for Perceptual Artificial Intelligence, 2004. 1 p."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2023",
+            "title": "Software pro zpracovani dat",
+            "metadata": "other, 2023",
+            "authors": "ZEMCIK, P.; BERAN, V.; DOBES, P.; FUCIK, O.; HEROUT, A.; PECIVA, J.; SMRZ, P."
+        },
+        {
+            "year": "2021",
+            "title": "Detector of the wanted person in the video-stream based on the image of the face",
+            "metadata": "testing, 2021",
+            "authors": "BAZOUT, D.; BERAN, V."
+        },
+        {
+            "year": "2020",
+            "title": "Algoritmy - Uprava, nastaveni, kalibrace",
+            "metadata": "report, 2020",
+            "authors": "HEROUT, A.; BARTL, V.; BERAN, V.; DRAHANSKY, M.; ZEMCIK, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2020",
+            "title": "HDR and 3D Occupancy map implementation on Embedded HW",
+            "metadata": "report, 2020",
+            "authors": "PLASCENCIA, A.; NOSKO, S.; BERAN, V.; ZEMCIK, P."
+        },
+        {
+            "year": "2020",
+            "title": "Provadeni testu a vyhodnoceni na aktualnich datech zadavatele a evaluace vysledku",
+            "metadata": "report, 2020",
+            "authors": "DRAHANSKY, M.; BERAN, V.; ZEMCIK, P."
+        },
+        {
+            "year": "2019",
+            "title": "Detekce anomalii na obrazovem zaznamu z dronu",
+            "metadata": "report, 2019",
+            "authors": "BAZOUT, D.; BERAN, V."
+        },
+        {
+            "year": "2019",
+            "title": "Drone sensory data processing for advanced drone control for augmented reality",
+            "metadata": "report, 2019",
+            "authors": "PLASCENCIA, A.; BERAN, V.; SEDLMAJER, K."
+        },
+        {
+            "year": "2018",
+            "title": "Detekce a identifikace hledanych osob ve videu",
+            "metadata": "report, 2018",
+            "authors": "BAZOUT, D.; BERAN, V."
+        },
+        {
+            "year": "2018",
+            "title": "Experimental Flying Platform",
+            "metadata": "report, 2018",
+            "authors": "PLASCENCIA, A.; BERAN, V."
+        },
+        {
+            "year": "2018",
+            "title": "PatrolBot self driving for map making based on laser and asus depth sensors",
+            "metadata": "testing, 2018",
+            "authors": "BERAN, V.; PLASCENCIA, A."
+        },
+        {
+            "year": "2018",
+            "title": "Rozsirena virtualita pro efektivni vzdalene rizeni dronu",
+            "metadata": "report, 2018",
+            "authors": "SEDLMAJER, K.; BAMBUSEK, D.; BERAN, V."
+        },
+        {
+            "year": "2017",
+            "title": "Device to pick&lift objects from the ground with natural user interface",
+            "metadata": "testing, 2017",
+            "authors": "BERAN, V."
+        },
+        {
+            "year": "2017",
+            "title": "Selected Video-Processing Methods and System Architecture Design",
+            "metadata": "report, 2017",
+            "authors": "BERAN, V.; BARTIK, V.; BARTL, V.; FROML, V.; HEROUT, A.; NOSKO, S.; SOLONY, M.; ZEMCIK, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2017",
+            "title": "Spider Lawn Mower Automation Design",
+            "metadata": "testing, 2017",
+            "authors": "PLASCENCIA, A.; BERAN, V."
+        },
+        {
+            "year": "2017",
+            "title": "Uzivatelske pozadavky a priklady pouziti",
+            "metadata": "report, 2017",
+            "authors": "BERAN, V.; DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "VideoTerror demonstrator. Event-based Video Analytic Tool (EVIDANT)",
+            "metadata": "report, 2015",
+            "authors": "BERAN, V.; KAPINUS, M.; KLICNAR, L.; MATERNA, Z.; HRADIS, M.; FROML, V.; VOLF, T.; MRACEK, S.; ZENDULKA, J.; ZEMCIK, P."
+        },
+        {
+            "year": "2014",
+            "title": "Video Sequence Summarization and Synopsis",
+            "metadata": "other unclassified results, 2014",
+            "authors": "BERAN, V.; KLICNAR, L."
+        },
+        {
+            "year": "2012",
+            "title": "Dissimilarity Detection of Two Video Sequences",
+            "metadata": "report, 2012",
+            "authors": "BERAN, V.; KLICNAR, L."
+        }
+    ],
+    "name": "Beran Vitezslav, doc. Ing., Ph.D."
+}

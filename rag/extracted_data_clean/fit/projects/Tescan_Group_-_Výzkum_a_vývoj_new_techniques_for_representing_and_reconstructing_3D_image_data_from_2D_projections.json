@@ -1,0 +1,31 @@
+{
+    "project": "Tescan Group - Vyzkum a vyvoj new techniques for representing and reconstructing 3D image data from 2D projections",
+    "title": "Tescan Group - Vyzkum a vyvoj novych metod reprezentace a rekonstrukce 3D obrazovych dat ze 2D projekci",
+    "metadata": {
+        "project_period": "1. 3. 2026 \u2013 31. 12. 2026",
+        "project_type": "contract",
+        "partner": "TESCAN GROUP, a.s."
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Tescan Group - Vyzkum a vyvoj new techniques for representing and reconstructing 3D image data from 2D projections"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "electron microscopy, microCT, deep learning, ML, machine learning"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The goal of this collaboration is to connect the research and development capabilities of the TESCAN 3D & ML Solutions team and the AI/ML researchers at FIT to explore and develop key technological directions in microscopic and CT data processing focusing on techniques for 3D image reconstruction from 2D projections. Through this joint effort, we aim to lay the groundwork for innovative products."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Spanel Michal, doc. Ing., Ph.D. (DCGM) \u2013 research leader Cizmarik Roman, Ing. (DCGM) Kubik Tibor, Ing. (DCGM) Pukanec David, Ing. (DCGM) Silling Petr, Ing. (DCGM)"
+        }
+    }
+}

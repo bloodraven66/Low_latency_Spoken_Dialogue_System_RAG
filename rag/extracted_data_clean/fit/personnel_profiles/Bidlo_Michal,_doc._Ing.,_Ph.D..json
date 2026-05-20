@@ -1,0 +1,571 @@
+{
+    "contact": {
+        "department": "Department of Computer Systems",
+        "department_abbr": "DCSY",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "bidlo@fit.vut.cz",
+            "work_phone": "+420 54114 1206",
+            "room": "L330 Office",
+            "researcher_id": "GRS-4501-2022",
+            "orcid_id": "0000-0002-1217-6711",
+            "scopus_author_id": "9333469700"
+        }
+    },
+    "roles": [
+        {
+            "organization": "EvoAI Hardware",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "MSc in computer science and engineering, Faculty of Information Technology, Brno University of Technology, 2004",
+            "Ph.D. - information technology, Faculty of Information Technology, Brno University of Technology, 2009"
+        ],
+        "awards": [
+            "Honorable Mention 2005",
+            "Jan Hlavicka Award for Best Paper Presented at PAD 2005",
+            "Enformatika: Achievement Award Certificate 2006",
+            "Jan Hlavicka Award for Best Paper Presented at PAD 2006",
+            "Jan Hlavicka Award for Best Paper Presented at PAD 2007",
+            "Siemens Award for Outstanding Ph.D thesis 2009",
+            "IJCCI-ECTA 2016 Best Paper Award",
+            "Silver Medal in the Human competitive awards in genetic and evolutionary computation (Humies) 2016",
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2019"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Anytime when the teacher is available in the office, you can view the availability and make a reservation in my reservation system . If the link does not work, try this one .",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "EVO",
+                "title": "Applied Evolutionary Algorithms",
+                "details": "Czech, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "IBT",
+                "title": "Bachelor's Thesis",
+                "details": "Czech, English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "SPP",
+                "title": "Fault Tolerant Systems",
+                "details": "Czech, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "SOD",
+                "title": "Fault Tolerant Systems",
+                "details": "Czech, English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "DIP",
+                "title": "Master's Thesis",
+                "details": "Czech, English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "DIPa",
+                "title": "Master's Thesis (in English)",
+                "details": "English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "SEP",
+                "title": "Semester Project",
+                "details": "Czech, English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "SEPa",
+                "title": "Semester Project (in English)",
+                "details": "English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "ITT",
+                "title": "Term Thesis",
+                "details": "Czech, English, winter",
+                "department": "DCSY"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "BIN",
+                "title": "Bio-Inspired Computers",
+                "details": "Lecture,\nCzech, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "EVO",
+                "title": "Applied Evolutionary Algorithms",
+                "details": "Individual preparation for a lecture, Individual preparation for an ending of the course, Lecture, Project,\nCzech, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "IEL",
+                "title": "Electronics for Information Technology",
+                "details": "Laboratory exercise,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IMP",
+                "title": "Microprocessors and Embedded Systems",
+                "details": "Lecture, Project, Seminar,\nCzech, English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "INP",
+                "title": "Design of Computer Systems",
+                "details": "Lecture, Project,\nCzech, English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "IPZ",
+                "title": "Peripheral Devices",
+                "details": "Laboratory exercise, Lecture,\nCzech, English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "IP1",
+                "title": "Project Practice 1",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP2",
+                "title": "Project Practice 2",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP2e",
+                "title": "Project Practice 2 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP3",
+                "title": "Project Practice 3",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP1",
+                "title": "Project Practice 1",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP2",
+                "title": "Project Practice 2",
+                "details": "Project,\nCzech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP2e",
+                "title": "Project Practice 2 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "SEPa",
+                "title": "Semester Project (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "SPP",
+                "title": "Fault Tolerant Systems",
+                "details": "Individual preparation - creating a presentation, Individual preparation for a lecture, Individual preparation for an ending of the course, Lecture, Project,\nCzech, summer",
+                "department": "DCSY"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "Datove rizena detekce obtiznych zakazek v dopravnich ulohach",
+            "details": "BUT, Vnitrni projekty VUT, FIT/FSI-J-26-9005, start: 2026-03-01, end: 2027-02-28, running"
+        },
+        {
+            "year": "2023",
+            "title": "Application-specific HW/SW architectures and their applications",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8141, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Providing consultations in the area of Genetic Programming",
+            "details": "start: 2023-11-01, end: 2028-09-30, running"
+        },
+        {
+            "year": "2021",
+            "title": "Pokrocila evolucni optimalizace matematickych struktur pro reseni inzenyrskych uloh",
+            "details": "BUT, Vnitrni projekty VUT, FIT/FSI-J-21-7432, start: 2021-03-01, end: 2022-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Bio-inspired methods for resource aware computer system design",
+            "details": "EU, European Cooperation in Science and Technology (COST), start: 2020-09-29, end: 2024-09-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Navrh, optimalizace a evaluace aplikacne specifickych pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6309, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Designing and exploiting libraries of approximate circuits",
+            "details": "GACR, Standardni projekty, GA19-10137S, start: 2019-01-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Advanced Methods of Nature-Inspired Optimisation and HPC Implementation for the Real-Life Applications",
+            "details": "MSMT, INTER-EXCELLENCE - Podprogram INTER-COST, LTC18053, start: 2018-06-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Pokrocile paralelni a vestavene pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3994, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Advanced Methods for Evolutionary Design of Complex Digital Circuits",
+            "details": "GACR, Standardni projekty, GA14-04197S, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Architektury paralelnich a vestavenych pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2297, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Student Competition Conference STUDENT EEICT 2014",
+            "details": "FIT-S-14-1, start: 2014-03-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-2, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Hardware education support based on FITkit platform",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2826/2010/G1, start: 2010-01-12, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Natural Computing on Unconventional Platforms",
+            "details": "GACR, Standardni projekty, GAP103/10/1517, start: 2010-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2010",
+            "title": "Recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-2, 2010, start: 2010-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Design and hardware implementation of a patent-invention machine",
+            "details": "GACR, Standardni projekty, GA102/07/0850, start: 2007-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Education support for evolutionary design based on development",
+            "details": "FR2472/2007/G1, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2006",
+            "title": "Biology-inspired hardware teaching support",
+            "details": "FR825/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Methods of polymorphic digital circuit design",
+            "details": "GACR, Standardni projekty, GA102/06/0599, start: 2006-01-01, end: 2008-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "BIDLO, M.; SARANOVA, I. Multi-purpose Image Filter Evolution Using Cellular Automata and Function-Based Conditional Rules. In Applications of Evolutionary Computation: 28th European Conference, EvoApplications 2025, Held as Part of EvoStar 2025, Trieste, Italy, April 23-25, 2025, Proceedings, Part II. Lecture Notes in Computer Science. Trieste: Springer Nature Switzerland AG, 2025. p. 457-472. ISBN: 978-3-031-90064-8."
+        },
+        {
+            "year": "2025",
+            "citation": "SEDLAK, D.; BIDLO, M.; CERVENKA, M. Action-based Representation for Stochastic Optimization of Complex Real-World RVRP. In 2025 IEEE Congress on Evolutionary Computation, CEC 2025. Hangzhou: Institute of Electrical and Electronics Engineers, 2025. p. 1-4. ISBN: 979-8-3315-3431-8."
+        },
+        {
+            "year": "2021",
+            "citation": "BIDLO, M. Evolution of Approximate Functions for Image Thresholding. In IEEE Symposium Series on Computational Intelligence (IEEE SSCI). Los Alamos: IEEE Computer Society, 2021. p. 1-6. ISBN: 978-1-7281-9048-8."
+        },
+        {
+            "year": "2021",
+            "citation": "BIDLO, M.; ZUFAN, P. Advances in Evolutionary Optimization of Quantum Operators. Mendel Journal series, 2021, vol. 27, no. 2, p. 12-22. ISSN: 1803-3814."
+        },
+        {
+            "year": "2020",
+            "citation": "BIDLO, M. Evolution of Cellular Automata with Conditionally Matching Rules for Image Filtering. In 2020 IEEE Congress on Evolutionary Computation (CEC). Los Alamitos: IEEE Computational Intelligence Society, 2020. p. 1-8. ISBN: 978-1-7281-6929-3."
+        },
+        {
+            "year": "2020",
+            "citation": "BIDLO, M.; DOBES, M. Evolutionary Development of Growing Generic Sorting Networks by Means of Rewriting Systems. IEEE transactions on evolutionary computation, 2020, vol. 24, no. 2, p. 232-244. ISSN: 1089-778X."
+        },
+        {
+            "year": "2020",
+            "citation": "BIDLO, M.; ZUFAN, P. On Comparison of Some Representations for the Evolution of Quantum Operators. In 2020 IEEE Symposium Series on Computational Intelligence, SSCI 2020. Canberra: Institute of Electrical and Electronics Engineers, 2020. p. 2101-2108. ISBN: 978-1-7281-2547-3."
+        },
+        {
+            "year": "2019",
+            "citation": "BIDLO, M. Advances in the Evolution of Complex Cellular Automata. In Computational Intelligence. International Joint Conference, IJCCI 2016 Porto, Portugal, November 9-11, 2016 Revised Selected Papers. Cham: Springer International Publishing, 2019. p. 123-146. ISBN: 978-3-319-99282-2."
+        },
+        {
+            "year": "2019",
+            "citation": "BIDLO, M. Comparison of Evolutionary Development of Cellular Automata Using Various Representations. Mendel Journal series, 2019, vol. 2019, no. 1, p. 95-102. ISSN: 1803-3814."
+        },
+        {
+            "year": "2019",
+            "citation": "BIDLO, M. Evolution of Cellular Automata Development Using Various Representations. In GECCO '19 Proceedings of the Genetic and Evolutionary Computation Conference Companion. Praha: Association for Computing Machinery, 2019. p. 107-108. ISBN: 978-1-4503-6748-6."
+        },
+        {
+            "year": "2019",
+            "citation": "BIDLO, M.; KORGO, J. Ant Colony Optimisation for Performing Computational Task in Cellular Automata. Mendel Journal series, 2019, vol. 25, no. 1, p. 147-156. ISSN: 1803-3814."
+        },
+        {
+            "year": "2017",
+            "citation": "BIDLO, M. Evolution of Cellular Automata-Based Replicating Structures Exhibiting Unconventional Features. In International Joint Conference, IJCCI 2015 Lisbon, Portugal, November 12-14, 2015, Revised Selected Papers. Computational Intelligence. Cham: Springer International Publishing, 2017. p. 21-41. ISBN: 978-3-319-48506-5."
+        },
+        {
+            "year": "2016",
+            "citation": "BIDLO, M. Evolution of Complex Emergent Behaviour in Multi-State Cellular Automata. In Proceedings of the 2016 on Genetic and Evolutionary Computation Conference Companion. New York: Association for Computing Machinery, 2016. p. 157-158. ISBN: 978-1-4503-4323-7."
+        },
+        {
+            "year": "2016",
+            "citation": "BIDLO, M. Evolution of Generic Square Calculations in Cellular Automata. In Proceedings of the 8th International Joint Conference on Computational Intelligence - Volume 3: ECTA. Porto: SciTePress - Science and Technology Publications, 2016. p. 94-102. ISBN: 978-989-758-201-1."
+        },
+        {
+            "year": "2016",
+            "citation": "BIDLO, M. On Routine Evolution of Complex Cellular Automata. IEEE transactions on evolutionary computation, 2016, vol. 20, no. 5, p. 742-754. ISSN: 1089-778X."
+        },
+        {
+            "year": "2015",
+            "citation": "BIDLO, M. Investigation of Replicating Tiles in Cellular Automata Designed by Evolution Using Conditionally Matching Rules. In 2015 IEEE International Conference on Evolvable Systems (ICES). Proceedings of the 2015 IEEE Symposium Series on Computational Intelligence (SSCI). Cape Town: IEEE Computational Intelligence Society, 2015. p. 1506-1513. ISBN: 978-1-4799-7560-0."
+        },
+        {
+            "year": "2015",
+            "citation": "BIDLO, M. On Routine Evolution of New Replicating Structures in Cellular Automata. In 7th International Conference on Evolutionary Computationa Theory and Applications. 7th International Joint Conference on Computational Intelligence. Lisbon: SciTePress - Science and Technology Publications, 2015. p. 28-38. ISBN: 978-989-758-157-1."
+        },
+        {
+            "year": "2014",
+            "citation": "BIDLO, M. Evolving multiplication as emergent behavior in cellular automata using conditionally matching rules. In 2014 IEEE Congress on Evolutionary Computation (CEC). Beijing: IEEE Computational Intelligence Society, 2014. p. 2732-2739. ISBN: 978-1-4799-1488-3."
+        },
+        {
+            "year": "2014",
+            "citation": "BIDLO, M.; VASICEK, Z. On Evolution of Multi-Category Pattern Classifiers Suitable for Embedded Systems. In Genetic Programming, 17th European Conference, EuroGP 2014. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2014. p. 234-245. ISBN: 978-3-662-44302-6."
+        },
+        {
+            "year": "2013",
+            "citation": "BIDLO, M.; VASICEK, Z. Evolution of Cellular Automata with Conditionally Matching Rules. In 2013 IEEE Congress on Evolutionary Computation (CEC 2013). Cancun: IEEE Computer Society, 2013. p. 1178-1185. ISBN: 978-1-4799-0452-5."
+        },
+        {
+            "year": "2013",
+            "citation": "BIDLO, M.; VASICEK, Z. Functional-Level Development of Image Filters by Means of Cellular Automata. In 2013 IEEE International Conference on Evolvable Systems (ICES). Proceedings of the 2013 IEEE Symposium Series on Computational Intelligence (SSCI). Singapore: IEEE Computer Society, 2013. p. 29-36. ISBN: 978-1-4673-5847-7."
+        },
+        {
+            "year": "2013",
+            "citation": "VASICEK, Z.; BIDLO, M.; SEKANINA, L. Evolution of efficient real-time non-linear image filters for FPGAs. SOFT COMPUTING, 2013, vol. 17, no. 11, p. 2163-2180. ISSN: 1432-7643."
+        },
+        {
+            "year": "2012",
+            "citation": "BIDLO, M.; VASICEK, Z. Cellular Automaton as Sorting Network Generator Using Instruction-Based Development. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7495, p. 214-223. ISSN: 0302-9743."
+        },
+        {
+            "year": "2012",
+            "citation": "BIDLO, M.; VASICEK, Z. Evolution of Cellular Automata Using Instruction-Based Approach. In 2012 IEEE World Congress on Computational Intelligence. CA: Institute of Electrical and Electronics Engineers, 2012. p. 1060-1067. ISBN: 978-1-4673-1508-1."
+        },
+        {
+            "year": "2011",
+            "citation": "VASICEK, Z.; BIDLO, M. Evolutionary Design of Robust Noise-Specific Image Filters. In 2011 IEEE Congress on Evolutionary Computation. New Orleans: IEEE Computer Society, 2011. p. 269-276. ISBN: 978-1-4244-7834-7."
+        },
+        {
+            "year": "2011",
+            "citation": "VASICEK, Z.; BIDLO, M.; SEKANINA, L.; GLETTE, K. Evolutionary Design of Efficient and Robust Switching Image Filters. In Proceedings of the 2011 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2011. p. 192-199. ISBN: 978-1-4577-0599-1."
+        },
+        {
+            "year": "2010",
+            "citation": "BIDLO, M. Evolutionary Design of Generic Structures Using Instruction-Based Development. Brno: Faculty of Information Technology BUT, 2010. 124 p. ISBN: 978-80-214-4210-8."
+        },
+        {
+            "year": "2010",
+            "citation": "BIDLO, M.; SEKANINA, L. On Impact of Environment on the Complexity Generated by Evolutionary Development. In MENDEL 2010 - 16th International Conference on Soft Computing. Brno: Faculty of Mechanical Engineering BUT, 2010. p. 501-508. ISBN: 978-80-214-4120-0."
+        },
+        {
+            "year": "2010",
+            "citation": "BIDLO, M.; VASICEK, Z.; SLANY, K. Sorting Network Development Using Cellular Automata. In Evolvable Systems: From Biology to Hardware. 9th International Conference, ICES 2010, York, UK, September 6-8, 2010, Proceedings, LNCS 6274. London: Springer London, 2010. p. 85-96. ISBN: 978-3-642-15322-8."
+        },
+        {
+            "year": "2010",
+            "citation": "KOTASEK, Z.; BIDLO, M.; JAROS, J. Pocitacove architektury a diagnostika. Brno: Fakulta informacnich technologii VUT v Brne, 2010. 183 s. ISBN: 978-80-214-4140-8."
+        },
+        {
+            "year": "2010",
+            "citation": "VASICEK, Z.; SEKANINA, L.; BIDLO, M. A Method for Design of Impulse Bursts Noise Filters Optimized for FPGA Implementations. DATE 2010: Design, Automation and Test in Europe. Dresden: European Design and Automation Association, 2010. p. 1731-1736. ISBN: 978-3-9810801-6-2."
+        },
+        {
+            "year": "2009",
+            "citation": "BIDLO, M. Evolutionary Design of Generic Structures Using Instruction-Based Development. Brno: Department of Computer Systems FIT BUT, 2009. 124 p."
+        },
+        {
+            "year": "2009",
+            "citation": "BIDLO, M.; VASICEK, Z. Comparison of the Uniform and Non-Uniform Cellular Automata-Based Approach to the Development of Combinational Circuits. Proceedings 2009 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2009. p. 423-430. ISBN: 978-0-7695-3714-6."
+        },
+        {
+            "year": "2009",
+            "citation": "BIDLO, M.; VASICEK, Z. Development of Combinational Circuits Using Non-Uniform Cellular Automata: Initial Results. Genetic and Evolutionary Computation. New York: Association for Computing Machinery, 2009. p. 1839-1840. ISBN: 978-1-60558-325-9."
+        },
+        {
+            "year": "2009",
+            "citation": "BIDLO, M.; VASICEK, Z. Investigating Gate-Level Evolutionary Development of Combinational Multipliers Using Enhanced Cellular Automata-Based Model. Proc. of 2009 IEEE Congress on Evolutionary Computation. NA: IEEE Computational Intelligence Society, 2009. p. 2241-2248. ISBN: 978-1-4244-2958-5."
+        },
+        {
+            "year": "2009",
+            "citation": "SEKANINA, L.; VASICEK, Z.; RUZICKA, R.; BIDLO, M.; JAROS, J.; SVENDA, P. Evolucni hardware: Od automatickeho generovani patentovatelnych invenci k sebemodifikujicim se strojum. Edice Gerstner. Edice Gerstner. Praha: Nakladatelstvi Academia, 2009. 328 s. ISBN: 978-80-200-1729-1."
+        },
+        {
+            "year": "2009",
+            "citation": "VASICEK, Z.; BIDLO, M.; SEKANINA, L.; TORRESEN, J.; GLETTE, K.; FURUHOLMEN, M. Evolution of Impulse Bursts Noise Filters. Proc. of the 2009 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2009. p. 27-34. ISBN: 978-0-7695-3714-6."
+        },
+        {
+            "year": "2008",
+            "citation": "BIDLO, M.; SKARVADA, J. Instruction-based development: From evolution to generic structures of digital circuits. International Journal of Knowledge-Based and Intelligent Engineering Systems, 2008, vol. 12, no. 3, p. 221-236. ISSN: 1327-2314."
+        },
+        {
+            "year": "2008",
+            "citation": "BIDLO, M.; VASICEK, Z. Cellular Automata-Based Development of Combinational and Polymorphic Circuits: A Comparative Study. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 106-117. ISBN: 978-3-540-85856-0."
+        },
+        {
+            "year": "2008",
+            "citation": "BIDLO, M.; VASICEK, Z. Gate-Level Evolutionary Development Using Cellular Automata. 2008 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society Press, 2008. p. 11-18. ISBN: 978-0-7695-3166-3."
+        },
+        {
+            "year": "2007",
+            "citation": "BIDLO, M. Biologii inspirovany vyvin jako technika evolucniho navrhu. Kognice a umely zivot VII. Opava: Slezska univerzita v Opave, 2007. s. 43-53. ISBN: 978-80-7248-412-6."
+        },
+        {
+            "year": "2007",
+            "citation": "BIDLO, M. Evolutionary Design of Generic Combinational Multipliers Using Development. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2007. p. 77-88. ISBN: 978-3-540-74625-6."
+        },
+        {
+            "year": "2007",
+            "citation": "BIDLO, M. Evolutionary Development of Generic Multipliers: Initial Results. Proc. of the 2007 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2007. p. 405-412. ISBN: 0-7695-2866-X."
+        },
+        {
+            "year": "2007",
+            "citation": "BIDLO, M. Vypocetni development zalozeny na instrukcich. Sbornik prispevku pracovniho seminare Pocitacove architektury & diagnostika. Plzen: Zapadoceska univerzita v Plzni, 2007. s. 53-59. ISBN: 978-80-7043-605-9."
+        },
+        {
+            "year": "2006",
+            "citation": "BIDLO, M. Evolutionary Design Using Development. Sbornik prispevku pracovniho seminare Pocitacove architektury & diagnostika pro studenty doktorskeho studia. Bratislava: Institute of Informatics, Slovak Academy of Sciences, 2006. p. 119-124. ISBN: 80-969202-2-7."
+        },
+        {
+            "year": "2006",
+            "citation": "BIDLO, M. Introducing New Fundamental Classification of Development for Evolutionary Design: Theory and Applications. Proc. of the 9th International Conference on Parallel Problem Solving from Nature - Workshop on Evolutionary Algorithms. Reykjavik: 2006. p. 1-12."
+        },
+        {
+            "year": "2006",
+            "citation": "BIDLO, M.; BIDLO, R.; SEKANINA, L. Designing a Novel General Sorting Network Constructor Using Artificial Evolution. Transactions on Engineering, Computing and Technology, 2006, vol. 15, no. 10, p. 85-90. ISSN: 1305-5313."
+        },
+        {
+            "year": "2006",
+            "citation": "BIDLO, M.; SEKANINA, L. Prostredky pro podporu vzdelavani v oblasti biologii inspirovanych vypocetnich systemu. Pedagogicky software 2006. Ceske Budejovice: Scientifik Pedagogical Publishing, 2006. s. 81-83. ISBN: 80-85645-56-4."
+        },
+        {
+            "year": "2005",
+            "citation": "BIDLO, M. A Benchmark for the Sorting Network Problem. Proc. of Genetic and Evolutionary Computation Conference - Workshops 2005. New York: Association for Computing Machinery, 2005. p. 289-291. ISBN: 1-59593-097-3."
+        },
+        {
+            "year": "2005",
+            "citation": "BIDLO, M. Vyuziti modelu ontogeneze v evolucnim navrhu cislicovych obvodu. Sbornik prispevku ze seminare Pocitacove Architektury & Diagnostika. Praha: Ceske vysoke uceni technicke, 2005. s. 13-18. ISBN: 80-01-03298-1."
+        },
+        {
+            "year": "2005",
+            "citation": "BIDLO, M.; SEKANINA, L. Providing Information from the Environment for Growing Electronic Circuits Through Polymorphic Gates. Proc. of Genetic and Evolutionary Computation Conference - Workshops 2005. New York: Association for Computing Machinery, 2005. p. 242-248. ISBN: 1-59593-097-3."
+        },
+        {
+            "year": "2005",
+            "citation": "SEKANINA, L.; BIDLO, M. Evolutionary Design of Arbitrarily Large Sorting Networks Using Development. Genetic Programming and Evolvable Machines, 2005, vol. 6, no. 3, p. 319-347. ISSN: 1389-2576."
+        },
+        {
+            "year": "2004",
+            "citation": "BIDLO, M. Evolutionary Constructor Design for the Sorting Networks. Proceedings of 10th Conference and Competition Student EEICT 2004, Volume 1. Brno: Faculty of Electrical Engineering and Communication BUT, 2004. p. 260-262. ISBN: 80-214-2634-9."
+        },
+        {
+            "year": "2003",
+            "citation": "BIDLO, M. Zpracovani obrazu s vyuzitim celularniho automatu. Proceedings of 9th Conference and Competition Student EEICT 2003, Volume 1. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2003. s. 228-230. ISBN: 80-214-2377-3."
+        }
+    ],
+    "name": "Bidlo Michal, doc. Ing., Ph.D."
+}

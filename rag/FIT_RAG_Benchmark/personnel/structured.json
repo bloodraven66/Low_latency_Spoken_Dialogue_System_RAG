@@ -1,0 +1,641 @@
+{
+  "dataset": "FIT_personnel_structured_v1",
+  "num_questions": 50,
+  "seed": 1337,
+  "source": "extracted_data_clean/fit/personnel_profiles",
+  "output_file": "FIT_RAG_Benchmark/personnel/structured.json",
+  "description": "Structured short-answer personnel benchmark with role, contact, project, award, and teaching questions.",
+  "items": [
+    {
+      "id": "personnel_struct_001",
+      "question": "How can I email Adam Rogalewicz?",
+      "expected_answer": "rogalew@fit.vut.cz",
+      "answer_field": "contact.details.e_mail",
+      "person": "Adam Rogalewicz",
+      "type": "email",
+      "actual_answer": "rogalew@fit.vut.cz"
+    },
+    {
+      "id": "personnel_struct_002",
+      "question": "Is Adam Rogalewicz currently involved in Reanimated book - digitized library treasures for the creative industries project?",
+      "expected_answer": "No",
+      "answer_field": "projects[].title + projects[].details(status=running)",
+      "person": "Adam Rogalewicz",
+      "type": "project_running_no",
+      "actual_answer": [
+        "Advancing Automated Verification of Low-Level Programs through Separation Logic and Bi-Abduction",
+        "NexTArc - Next Generation Open Innovations in Trustworthy Embedded AI Architectures for Smart Cities, Mobility and Logistics",
+        "QUAK: Quantum Program Analysis using Automata Toolkit",
+        "String Constraints for Security Analysis",
+        "Automata for Decision Procedures and Verification",
+        "Static and Dynamic Verification of Programs with Advanced Features of Concurrency and Unboundedness"
+      ]
+    },
+    {
+      "id": "personnel_struct_003",
+      "question": "What is the email for Bolaji Yusuf?",
+      "expected_answer": "iyusuf@fit.vut.cz",
+      "answer_field": "contact.details.e_mail",
+      "person": "Bolaji Yusuf",
+      "type": "email",
+      "actual_answer": "iyusuf@fit.vut.cz"
+    },
+    {
+      "id": "personnel_struct_004",
+      "question": "Does David Barina work on Cooperation in the development of the Turris Omina router project?",
+      "expected_answer": "No",
+      "answer_field": "projects[].title + projects[].details(status=running)",
+      "person": "David Barina",
+      "type": "project_running_no",
+      "actual_answer": [
+        "Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence",
+        "NGI0 Entrust Hop On",
+        "Safe and Secure Traffic Systems of New Generation",
+        "Distributed Artificial Intelligent Systems",
+        "SECUSEN II: SECure SENsors - Industrial Intelligence"
+      ]
+    },
+    {
+      "id": "personnel_struct_005",
+      "question": "Did Diez Sanchez Mireia win The Commemorative Medal of FIT BUT (The Bronze Medal) 2019?",
+      "expected_answer": "Yes",
+      "answer_field": "curriculum.awards[]",
+      "person": "Diez Sanchez Mireia",
+      "award": "The Commemorative Medal of FIT BUT (The Bronze Medal) 2019",
+      "type": "award_did_yes",
+      "actual_answer": [
+        "The Commemorative Medal of FIT BUT (The Bronze Medal) 2019"
+      ]
+    },
+    {
+      "id": "personnel_struct_006",
+      "question": "Does Diez Sanchez Mireia belong to Speech Data Mining Research Group BUT Speech@FIT?",
+      "expected_answer": "Yes",
+      "answer_field": "roles[].organization",
+      "person": "Diez Sanchez Mireia",
+      "type": "is_part_of_yes",
+      "actual_answer": [
+        "Speech Data Mining Research Group BUT Speech@FIT"
+      ]
+    },
+    {
+      "id": "personnel_struct_007",
+      "question": "When are consulting hours of Filip Macak?",
+      "expected_answer": "Can be arranged via email ( imacak@fit.vut.cz ) or Discord (fpmk).",
+      "answer_field": "teaching.consulting_hours",
+      "person": "Filip Macak",
+      "type": "consulting_hours",
+      "actual_answer": "Can be arranged via email ( imacak@fit.vut.cz ) or Discord (fpmk)."
+    },
+    {
+      "id": "personnel_struct_008",
+      "question": "Was The 14th CLSP Summer Workshop on Human Language Technology begins on July 7, 2008 awarded to Hynek Hermansky?",
+      "expected_answer": "No",
+      "answer_field": "curriculum.awards[]",
+      "person": "Hynek Hermansky",
+      "award": "The 14th CLSP Summer Workshop on Human Language Technology begins on July 7, 2008",
+      "type": "award_did_no",
+      "actual_answer": [
+        "The Commemorative Medal of FIT BUT (The Gold Medal) 2025"
+      ]
+    },
+    {
+      "id": "personnel_struct_009",
+      "question": "Who is listed as winner of The Commemorative Medal of FIT BUT (The Gold Medal) 2025?",
+      "expected_answer": "Hynek Hermansky",
+      "answer_field": "curriculum.awards[] across personnel_profiles",
+      "person": "Hynek Hermansky",
+      "award": "The Commemorative Medal of FIT BUT (The Gold Medal) 2025",
+      "type": "award_who",
+      "actual_answer": [
+        "Hynek Hermansky",
+        "Pavel Zemcik"
+      ]
+    },
+    {
+      "id": "personnel_struct_010",
+      "question": "Is Jakub Liska located in Q205 Laboratory?",
+      "expected_answer": "Yes",
+      "answer_field": "contact.details.room",
+      "person": "Jakub Liska",
+      "type": "office_yes",
+      "actual_answer": "Q205 Laboratory"
+    },
+    {
+      "id": "personnel_struct_011",
+      "question": "What is the email for Jakub Spanhel?",
+      "expected_answer": "ispanhel@fit.vut.cz",
+      "answer_field": "contact.details.e_mail",
+      "person": "Jakub Spanhel",
+      "type": "email",
+      "actual_answer": "ispanhel@fit.vut.cz"
+    },
+    {
+      "id": "personnel_struct_012",
+      "question": "What is Jakub Spanhel's work phone number?",
+      "expected_answer": "+420 54114 1298",
+      "answer_field": "contact.details.work_phone",
+      "person": "Jakub Spanhel",
+      "type": "phone",
+      "actual_answer": "+420 54114 1298"
+    },
+    {
+      "id": "personnel_struct_013",
+      "question": "Does Jakub Spanhel work on Safe and Secure Traffic Systems of New Generation project?",
+      "expected_answer": "Yes",
+      "answer_field": "projects[].title + projects[].details(status=running)",
+      "person": "Jakub Spanhel",
+      "type": "project_running_yes",
+      "actual_answer": [
+        "Safe and Secure Traffic Systems of New Generation",
+        "SECUSEN II: SECure SENsors - Industrial Intelligence"
+      ]
+    },
+    {
+      "id": "personnel_struct_014",
+      "question": "Is Jan Cernocky currently involved in Tools To Combat Voice DeepFakes project?",
+      "expected_answer": "Yes",
+      "answer_field": "projects[].title + projects[].details(status=running)",
+      "person": "Jan Cernocky",
+      "type": "project_running_yes",
+      "actual_answer": [
+        "SV Omilia - Customer-adapted speaker recognition system 2026",
+        "Enhanced Pilot Monitoring",
+        "Linguistics, Artificial Intelligence and Language and Speech Technologies: from Research to Applications",
+        "SV Omilia - Customer-adapted speaker recognition system",
+        "Advancing Robust and Creative Human language technologies through CHallenge Events and Research",
+        "Tools To Combat Voice DeepFakes",
+        "Transformace formy a obsahu vzdelavani na Vysokem uceni technickem v Brne",
+        "Security-Oriented Research in Information Technology"
+      ]
+    },
+    {
+      "id": "personnel_struct_015",
+      "question": "Is Jan Pavlik part of Dean's Collegium?",
+      "expected_answer": "No",
+      "answer_field": "roles[].organization",
+      "person": "Jan Pavlik",
+      "type": "is_part_of_no",
+      "actual_answer": [
+        "Members of Commissions for State Final Examinations at FIT"
+      ]
+    },
+    {
+      "id": "personnel_struct_016",
+      "question": "Was Jaroslav Dytrych involved in Data driven and anthropic coding and recognition of speech project?",
+      "expected_answer": "No",
+      "answer_field": "projects[].title + projects[].details(status=completed)",
+      "person": "Jaroslav Dytrych",
+      "type": "project_completed_no",
+      "actual_answer": [
+        "Making Software FAIR: Identifying and Extracting Software Mentions from Open Research Papers and Registering them with PIDs",
+        "5G-ERA - 5G-Enhanced Robot Autonomy",
+        "HAAWAII - Highly Automated Air Traffic Controller Workstations with Artificial Intelligence Integration",
+        "Framework of key enabling technologies for safe and autonomous drones applications",
+        "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+        "CPK - Using Semantic Technologies to Access Cultural Heritage Through The Central Portal of Czech Libraries",
+        "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets",
+        "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+        "Java platform for hIgh PErformance and Real-time large scale data management (JUNIPER)",
+        "Centrum excelence IT4Innovations"
+      ]
+    },
+    {
+      "id": "personnel_struct_017",
+      "question": "Did Jaroslav Dytrych work on Centrum excelence IT4Innovations project?",
+      "expected_answer": "Yes",
+      "answer_field": "projects[].title + projects[].details(status=completed)",
+      "person": "Jaroslav Dytrych",
+      "type": "project_completed_yes",
+      "actual_answer": [
+        "Making Software FAIR: Identifying and Extracting Software Mentions from Open Research Papers and Registering them with PIDs",
+        "5G-ERA - 5G-Enhanced Robot Autonomy",
+        "HAAWAII - Highly Automated Air Traffic Controller Workstations with Artificial Intelligence Integration",
+        "Framework of key enabling technologies for safe and autonomous drones applications",
+        "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+        "CPK - Using Semantic Technologies to Access Cultural Heritage Through The Central Portal of Czech Libraries",
+        "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets",
+        "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+        "Java platform for hIgh PErformance and Real-time large scale data management (JUNIPER)",
+        "Centrum excelence IT4Innovations"
+      ]
+    },
+    {
+      "id": "personnel_struct_018",
+      "question": "Is Jiri Novak a member of Pracovni skupina pro kvalitu vzdelavani?",
+      "expected_answer": "No",
+      "answer_field": "roles[].organization",
+      "person": "Jiri Novak",
+      "type": "is_part_of_no",
+      "actual_answer": [
+        "AeroWorks",
+        "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+        "Members of Commissions for State Final Examinations at FIT"
+      ]
+    },
+    {
+      "id": "personnel_struct_019",
+      "question": "What courses are taught by Jiri Novak?",
+      "expected_answer": "Cyber-Physical Systems Design (in English) (CPSa), Signals and Systems (ISS)",
+      "answer_field": "teaching.lectured_courses[]/teaching.guaranteed_courses[]",
+      "person": "Jiri Novak",
+      "type": "teaches",
+      "actual_answer": [
+        "Cyber-Physical Systems Design (in English) (CPSa)",
+        "Signals and Systems (ISS)"
+      ]
+    },
+    {
+      "id": "personnel_struct_020",
+      "question": "What is the consultation schedule of Josef Slapal?",
+      "expected_answer": "Monday, 14:00-16:00 , A1/1942 (Technicka 2896/2, Brno 616 69) Thursday, 13:00-15:00 , A1/1942 (Technicka 2896/2, Brno 616 69)",
+      "answer_field": "teaching.consulting_hours",
+      "person": "Josef Slapal",
+      "type": "consulting_hours",
+      "actual_answer": "Monday, 14:00-16:00 , A1/1942 (Technicka 2896/2, Brno 616 69) Thursday, 13:00-15:00 , A1/1942 (Technicka 2896/2, Brno 616 69)"
+    },
+    {
+      "id": "personnel_struct_021",
+      "question": "Is Kamil Behun located in L210 Office?",
+      "expected_answer": "Yes",
+      "answer_field": "contact.details.room",
+      "person": "Kamil Behun",
+      "type": "office_yes",
+      "actual_answer": "L210 Office"
+    },
+    {
+      "id": "personnel_struct_022",
+      "question": "Who won Minister of the Interior award for outstanding results in the area of security research 2018?",
+      "expected_answer": "Lukas Kekely",
+      "answer_field": "curriculum.awards[] across personnel_profiles",
+      "person": "Lukas Kekely",
+      "award": "Minister of the Interior award for outstanding results in the area of security research 2018",
+      "type": "award_who",
+      "actual_answer": [
+        "Lukas Kekely"
+      ]
+    },
+    {
+      "id": "personnel_struct_023",
+      "question": "Did Malik Aamir Saeed win The Commemorative Medal of FIT BUT (The Bronze Medal) 2023?",
+      "expected_answer": "Yes",
+      "answer_field": "curriculum.awards[]",
+      "person": "Malik Aamir Saeed",
+      "award": "The Commemorative Medal of FIT BUT (The Bronze Medal) 2023",
+      "type": "award_did_yes",
+      "actual_answer": [
+        "The Commemorative Medal of FIT BUT (The Bronze Medal) 2023"
+      ]
+    },
+    {
+      "id": "personnel_struct_024",
+      "question": "What is Malik Aamir Saeed's work phone number?",
+      "expected_answer": "+420 54114 1055",
+      "answer_field": "contact.details.work_phone",
+      "person": "Malik Aamir Saeed",
+      "type": "phone",
+      "actual_answer": "+420 54114 1055"
+    },
+    {
+      "id": "personnel_struct_025",
+      "question": "Is Marek Vasko's office C220 Office?",
+      "expected_answer": "No",
+      "answer_field": "contact.details.room",
+      "person": "Marek Vasko",
+      "type": "office_no",
+      "actual_answer": "L204 Office"
+    },
+    {
+      "id": "personnel_struct_026",
+      "question": "Was Martin Cadik involved in HiVisComp 2016 project?",
+      "expected_answer": "Yes",
+      "answer_field": "projects[].title + projects[].details(status=completed)",
+      "person": "Martin Cadik",
+      "type": "project_completed_yes",
+      "actual_answer": [
+        "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+        "5G-ERA - 5G-Enhanced Robot Autonomy",
+        "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+        "Deep-Learning Approach to Topographical Image Analysis",
+        "Colour Image in \"Realtime Embedded Computing\"",
+        "Moderni a otevrene studium techniky (MOST)",
+        "HiVisComp 2016",
+        "IT4Innovations excellence in science",
+        "Visual localization in natural environments (LOCATE)",
+        "Acquisition and processing of HDR images"
+      ]
+    },
+    {
+      "id": "personnel_struct_027",
+      "question": "Is Martin Fajcik part of Cyber Security Governance Committee?",
+      "expected_answer": "No",
+      "answer_field": "roles[].organization",
+      "person": "Martin Fajcik",
+      "type": "is_part_of_no",
+      "actual_answer": [
+        "Knowledge Technology Research Group",
+        "Members of Commissions for State Final Examinations at FIT",
+        "Supervisors Specialists in Doctoral Study Programme at FIT"
+      ]
+    },
+    {
+      "id": "personnel_struct_028",
+      "question": "Is Matej Gregr a member of Network Department?",
+      "expected_answer": "Yes",
+      "answer_field": "roles[].organization",
+      "person": "Matej Gregr",
+      "type": "is_part_of_yes",
+      "actual_answer": [
+        "Network Department",
+        "Members of Commissions for State Final Examinations at FIT",
+        "NES@FIT - Networks and distributed systems research group",
+        "Supervisors Specialists in Doctoral Study Programme at FIT"
+      ]
+    },
+    {
+      "id": "personnel_struct_029",
+      "question": "What is the phone number of Michal Bidlo?",
+      "expected_answer": "+420 54114 1206",
+      "answer_field": "contact.details.work_phone",
+      "person": "Michal Bidlo",
+      "type": "phone",
+      "actual_answer": "+420 54114 1206"
+    },
+    {
+      "id": "personnel_struct_030",
+      "question": "Has Michal Hradis worked on SAUCE - Smart Asset re-Use in Creative Environments project?",
+      "expected_answer": "No",
+      "answer_field": "projects[].title + projects[].details(status=completed)",
+      "person": "Michal Hradis",
+      "type": "project_completed_no",
+      "actual_answer": [
+        "AISEE - Artificial Intelligence based Search Environment for photo/video",
+        "SV - MAIA LABS",
+        "HAAWAII - Highly Automated Air Traffic Controller Workstations with Artificial Intelligence Integration",
+        "Advanced content extraction and recognition for printed and handwritten documents for better accessibility and usability",
+        "Progressive Image Processing Algorithms",
+        "Caffe XNOR-nets",
+        "enetCollect - Large-Scale Information Extraction and Gamification for Crowdsourced Language Learning",
+        "Innovation voucher - Text data extraction from card scan",
+        "Research and development of diagnostic unit for forming machines",
+        "User Activity Analysis and Emotional Competence Assessment for Investigation of Problematic Usage of the Internet",
+        "WearableRobots - Advanced Collaborative Aspects of Wearable Robotic Systems",
+        "IT4Innovations excellence in science",
+        "Intelligent visual quality control",
+        "Algorithms, Design Methods, and Many-Core Execution Platform for Low-Power Massive Data-Rate Video and Image Processing",
+        "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+        "Centrum excelence IT4Innovations",
+        "Support of teaching detection classifiers",
+        "Tools and Methods for Video and Image Processing for the Fight against Terrorism"
+      ]
+    },
+    {
+      "id": "personnel_struct_031",
+      "question": "Does Michal Kula work at L331 Office?",
+      "expected_answer": "No",
+      "answer_field": "contact.details.room",
+      "person": "Michal Kula",
+      "type": "office_no",
+      "actual_answer": "Q201 DCGM Office"
+    },
+    {
+      "id": "personnel_struct_032",
+      "question": "Was Michal Kula involved in Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat project?",
+      "expected_answer": "Yes",
+      "answer_field": "projects[].title + projects[].details(status=completed)",
+      "person": "Michal Kula",
+      "type": "project_completed_yes",
+      "actual_answer": [
+        "CR - MAIA LABS 2024",
+        "Dodani navrhu a vyvoj systemu pro rozdelovani vykonu GPU serveru, umistenych v datovych centrech",
+        "Intelligent Sensors for Traffic Monitoring",
+        "Intelligent Sensors for Traffic Monitoring - Camea SV",
+        "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+        "SECUre SENsors and data",
+        "Acceleration of algorithms for software solution of \"Picture in Picture (PinP) - 2\"",
+        "Acceleration of algorithms for software solution of \"Picture in Picture (PinP)\"",
+        "Moderni a otevrene studium techniky (MOST)",
+        "IT4Innovations excellence in science",
+        "CEPTIS - Computing Embedded Platforms for Traffic, Industry, and Surveillance",
+        "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+        "Intelligent Management Platform for Advanced Real-Time media processes",
+        "V3C - Visual Computing Competence Center",
+        "Centrum excelence IT4Innovations"
+      ]
+    },
+    {
+      "id": "personnel_struct_033",
+      "question": "What is the email for Michal Spanel?",
+      "expected_answer": "spanel@fit.vut.cz",
+      "answer_field": "contact.details.e_mail",
+      "person": "Michal Spanel",
+      "type": "email",
+      "actual_answer": "spanel@fit.vut.cz"
+    },
+    {
+      "id": "personnel_struct_034",
+      "question": "Does Michal Vlnas belong to Computer Graphics Research Group?",
+      "expected_answer": "Yes",
+      "answer_field": "roles[].organization",
+      "person": "Michal Vlnas",
+      "type": "is_part_of_yes",
+      "actual_answer": [
+        "Computer Graphics Research Group"
+      ]
+    },
+    {
+      "id": "personnel_struct_035",
+      "question": "Does Michal Vlnas work at Q202 DCGM Laboratory?",
+      "expected_answer": "Yes",
+      "answer_field": "contact.details.room",
+      "person": "Michal Vlnas",
+      "type": "office_yes",
+      "actual_answer": "Q202 DCGM Laboratory"
+    },
+    {
+      "id": "personnel_struct_036",
+      "question": "What courses are taught by Michal Vlnas?",
+      "expected_answer": "Advanced Computer Graphics (in English) (PGPa)",
+      "answer_field": "teaching.lectured_courses[]/teaching.guaranteed_courses[]",
+      "person": "Michal Vlnas",
+      "type": "teaches",
+      "actual_answer": [
+        "Advanced Computer Graphics (in English) (PGPa)"
+      ]
+    },
+    {
+      "id": "personnel_struct_037",
+      "question": "What is the email for milan ceska?",
+      "expected_answer": "ceskam@fit.vut.cz",
+      "answer_field": "contact.details.e_mail",
+      "person": "Milan Ceska",
+      "type": "example_milan_email",
+      "actual_answer": "ceskam@fit.vut.cz"
+    },
+    {
+      "id": "personnel_struct_038",
+      "question": "Does milan ceska work at A219 Office?",
+      "expected_answer": "Yes",
+      "answer_field": "contact.details.room",
+      "person": "Milan Ceska",
+      "type": "example_milan_office",
+      "actual_answer": "A219 Office"
+    },
+    {
+      "id": "personnel_struct_039",
+      "question": "What is the phone number of milan ceska?",
+      "expected_answer": "+420 54114 1178",
+      "answer_field": "contact.details.work_phone",
+      "person": "Milan Ceska",
+      "type": "example_milan_phone",
+      "actual_answer": "+420 54114 1178"
+    },
+    {
+      "id": "personnel_struct_040",
+      "question": "Does Milan Ceska belong to Automated Analysis and Verification Research Group - VeriFIT?",
+      "expected_answer": "Yes",
+      "answer_field": "roles[].organization",
+      "person": "Milan Ceska",
+      "type": "is_part_of_yes",
+      "actual_answer": [
+        "Automata@FIT",
+        "Automated Analysis and Verification Research Group - VeriFIT",
+        "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+        "Members of Commissions for State Doctoral Examinations",
+        "Members of Commissions for State Final Examinations at FIT",
+        "Supervisors in Doctoral Study Programme at FIT"
+      ]
+    },
+    {
+      "id": "personnel_struct_041",
+      "question": "What is the phone number of Milan Ceska?",
+      "expected_answer": "+420 54114 1178",
+      "answer_field": "contact.details.work_phone",
+      "person": "Milan Ceska",
+      "type": "phone",
+      "actual_answer": "+420 54114 1178"
+    },
+    {
+      "id": "personnel_struct_042",
+      "question": "Has Milan Ceska worked on Analysis and processing of data structures on the base of the VoIP protocol IPv4 and IPv6 project?",
+      "expected_answer": "No",
+      "answer_field": "projects[].title + projects[].details(status=completed)",
+      "person": "Milan Ceska",
+      "type": "project_completed_no",
+      "actual_answer": [
+        "EXCEL@FIT 2024",
+        "EXCEL@FIT 2023",
+        "Reliable, Secure, and Intelligent Computer Systems",
+        "Representing Boolean Functions by a Self-Adaptable Data Structure",
+        "VESCAA: Verifiable and Efficient Synthesis of Agent Controllers",
+        "EXCEL@FIT 2022",
+        "EXCEL@FIT 2021",
+        "CAQtuS: Computer-Aided Quantitative Synthesis",
+        "Efficient Finite Automata for Automated Reasoning",
+        "EXCEL@FIT 2020",
+        "Spolehlive, bezpecne a efektivni pocitacove systemy",
+        "Verification and Validation of Automated Systems' Safety and Security",
+        "Arrowhead Tools for Engineering of Digitalisation Solutions",
+        "Bezpecne a spolehlive pocitacove systemy",
+        "Moderni a otevrene studium techniky (MOST)",
+        "IT4Innovations excellence in science"
+      ]
+    },
+    {
+      "id": "personnel_struct_043",
+      "question": "What is the consultation schedule of Ondrej Kanich?",
+      "expected_answer": "Please contact me via email for any meeting necessary.",
+      "answer_field": "teaching.consulting_hours",
+      "person": "Ondrej Kanich",
+      "type": "consulting_hours",
+      "actual_answer": "Please contact me via email for any meeting necessary."
+    },
+    {
+      "id": "personnel_struct_044",
+      "question": "Was The Commemorative Medal of FIT BUT (The Silver Medal) 2012 awarded to Petr Matousek?",
+      "expected_answer": "Yes",
+      "answer_field": "curriculum.awards[]",
+      "person": "Petr Matousek",
+      "award": "The Commemorative Medal of FIT BUT (The Silver Medal) 2012",
+      "type": "award_did_yes",
+      "actual_answer": [
+        "Year activity and the best instructor price 2008",
+        "Best paper award of the ICN 2010",
+        "The Commemorative Medal of FIT BUT (The Silver Medal) 2012",
+        "Best Paper Award at KTTO 2014",
+        "2021 Prize in Partnership by the Technology Agency of the Czech Republic"
+      ]
+    },
+    {
+      "id": "personnel_struct_045",
+      "question": "What are the consulting hours for santosh kesiraju?",
+      "expected_answer": "Monday, 16:00-17:00 , B/L230.3 (Bozetechova 1/2, Brno 61200) Wednesday, 15:00-17:00 , B/L230.3 (Bozetechova 1/2, Brno 61200) Thursday, 16:00-17:00 , B/L230.3 (Bozetechova 1/2, Brno 61200)",
+      "answer_field": "teaching.consulting_hours",
+      "person": "Santosh Kesiraju",
+      "type": "example_santosh_consulting",
+      "actual_answer": "Monday, 16:00-17:00 , B/L230.3 (Bozetechova 1/2, Brno 61200) Wednesday, 15:00-17:00 , B/L230.3 (Bozetechova 1/2, Brno 61200) Thursday, 16:00-17:00 , B/L230.3 (Bozetechova 1/2, Brno 61200)"
+    },
+    {
+      "id": "personnel_struct_046",
+      "question": "What does santosh kesiraju teach?",
+      "expected_answer": "Natural Language Processing (in English) (ZPJa)",
+      "answer_field": "teaching.lectured_courses[]/teaching.guaranteed_courses[]",
+      "person": "Santosh Kesiraju",
+      "type": "example_santosh_teaches",
+      "actual_answer": [
+        "Natural Language Processing (in English) (ZPJa)"
+      ]
+    },
+    {
+      "id": "personnel_struct_047",
+      "question": "Does Santosh Kesiraju belong to Pracovni skupina k oblasti vzdelavaci cinnosti?",
+      "expected_answer": "No",
+      "answer_field": "roles[].organization",
+      "person": "Santosh Kesiraju",
+      "type": "is_part_of_no",
+      "actual_answer": [
+        "Knowledge Technology Research Group",
+        "Speech Data Mining Research Group BUT Speech@FIT",
+        "Supervisors Specialists in Doctoral Study Programme at FIT"
+      ]
+    },
+    {
+      "id": "personnel_struct_048",
+      "question": "Was BUT Siver medal 2020 awarded to Tomas Martinek?",
+      "expected_answer": "No",
+      "answer_field": "curriculum.awards[]",
+      "person": "Tomas Martinek",
+      "award": "BUT Siver medal 2020",
+      "type": "award_did_no",
+      "actual_answer": [
+        "Jan Hlavicka Award for Best Paper Presented at PAD 2007",
+        "The Commemorative Medal of FIT BUT (The Bronze Medal) 2019"
+      ]
+    },
+    {
+      "id": "personnel_struct_049",
+      "question": "Does Tomas Milet work on SECUSEN II: SECure SENsors - Industrial Intelligence project?",
+      "expected_answer": "Yes",
+      "answer_field": "projects[].title + projects[].details(status=running)",
+      "person": "Tomas Milet",
+      "type": "project_running_yes",
+      "actual_answer": [
+        "Qinfo - Acquisition and Statistical Processing of Subjective Attitudes in Time",
+        "Distributed Artificial Intelligent Systems",
+        "SECUSEN II: SECure SENsors - Industrial Intelligence"
+      ]
+    },
+    {
+      "id": "personnel_struct_050",
+      "question": "Is Zbynek Krivka working on Assessing and Enhancing Emotional Competence for Well-Being (ECoWeB) in the Young: A principled, evidence-based, mobile-health approach to prevent mental disorders and promote mental well-being project?",
+      "expected_answer": "No",
+      "answer_field": "projects[].title + projects[].details(status=running)",
+      "person": "Zbynek Krivka",
+      "type": "project_running_no",
+      "actual_answer": [
+        "Automata for Decision Procedures and Verification",
+        "Security-Oriented Research in Information Technology"
+      ]
+    }
+  ]
+}

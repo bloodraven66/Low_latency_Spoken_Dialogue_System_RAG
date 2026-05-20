@@ -1,0 +1,29 @@
+{
+    "project": "Czech National Quantum Communication Infrastructure",
+    "title": "Czech National Quantum Communication Infrastructure",
+    "metadata": {
+        "project_period": "1. 3. 2023 \u2013 31. 8. 2026",
+        "project_type": "grant",
+        "code": "101091684",
+        "agency": "European Union",
+        "program": "Digital Europe Programme"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Quantum Communication Infrastructure, EuroQCI, Quantum Key Distribution, QKD, Terrestrial QKD"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "CZQCI will deploy quantum communication infrastructure (QCI) in the Czech Republic. The infrastructure composed of advanced experimental European QKD devices will comprise: (a) backbone connecting the cities of Prague, Brno, and Ostrava, serving as a first long distance quantum communication network; (b) metropolitan side branches connecting public authorities and testing advanced use cases and scenarios; (c) advanced testing and training infrastructure concentrated in a single laboratory providing a representative sample of diverse QKD technologies. CZQCI will design and perform training programme to prepare users and experts from all sectors for exploitation of future quantum communication infrastructures. The infrastructure and expertise developed by CZQCI will allow testing advanced communication scenarios involving public institutions and users from industry, testing operational demands over long distance and long time, and testing QKD and network components. The ambitious testing exercises will pave the way to large-scale deployment of QCI. CZQCI will engage in international collaboration to exchange experiences and prepare connections to neighbouring countries and integration into EuroQCI. CZQCI will increase awareness of quantum technologies among diverse target audiences. In the Czech Republic, the responsible public authorities have delegated the responsibility for QCI deployment to CyberSecurity Hub, an institute co-founded by three leading Czech universities to coordinate cybersecurity research and knowledge transfer on the national level. Seven academic institutions with expertise in quantum technologies join the deployment consortium to concentrate the national knowledge relevant to quantum communication and facilitate its transfer through training and dissemination. This way, CZQCI will present a significant contribution to increasing cybersecurity efforts in Europe through promotion and adoption of European quantum communication technologies."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Rysavy Ondrej, doc. Ing., Ph.D. (DIFS) \u2013 research leader Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        }
+    }
+}

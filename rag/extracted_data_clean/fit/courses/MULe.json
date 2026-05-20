@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "code": "MULe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Multimedia (in English)"
+    },
+    "content": {
+        "guarantor": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. | (DCGM)",
+        "course_coordinator": "Barina David, Ing., Ph.D. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written+oral)",
+        "time_span": "- 26 hrs lectures\n- 26 hrs pc labs\n- 26 hrs projects",
+        "assessment_points": "- 51 pts final exam (15 pts written part, 36 pts test part)\n- 10 pts mid-term test (test part)\n- 39 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Barina David, Ing., Ph.D. | (DCGM) | Grezl Frantisek, Ing., Ph.D. | (DCGM) | Milet Tomas, Ing., Ph.D. | (DCGM) | Zemcik Pavel, prof. Dr. Ing., dr. h. c. | (DCGM)",
+        "instructor": "Barina David, Ing., Ph.D. | (DCGM) | Grezl Frantisek, Ing., Ph.D. | (DCGM) | Milet Tomas, Ing., Ph.D. | (DCGM) | Zemcik Pavel, prof. Dr. Ing., dr. h. c. | (DCGM)",
+        "learning_objectives": "To learn and understand basic methods of image processing and sound processing as 2D and 1D digital signals. To get acquainted with compression and decompression methods for image and sound data in PC environment. To learn how to exploit programmers' interfaces for image and sound. To get acquainted with data formats for image and sound representation. To get acquaited with basic features of digital signal processors. To learn about raster operations in Windows API, DirectX, and OpenGL and sound interfaces of Windows API and DirectX. To get acquainted with the anticipated development of multimedia data processing.The students will learn and understand basic methods of image processing and sound processing as 2D and 1D digital signals. They will get acquainted with compression and decompression methods for image and sound data in PC environment. They will also learn how to exploit programmers interfaces' for image and sound and get acquainted with data formats for image and sound representation and with basic features of digital signal processors. They will learn about raster operations in Windows API, DirectX, and OpenGL and with sound interfaces of Windows API and DirectX, too. Finally, they will get acquainted with the anticipated development of multimedia data processing.The students will learn to search team partners, to work in team, and to defend their work in public. They will also improve their skills in development tools usage and also in practical C/C++ programming.",
+        "recommended_prerequisites": "- Computer Graphics Principles(IZG)",
+        "prerequisite_knowledge_and_skills": "Knowledge of C/C++ programming, basics of signal processing.",
+        "study_literature": "- IEEE Multimedia, IEEE, USA \u2013 various articles\n- Oney, W.: Systems Programming for Windows, Microsoft Press, Redmond, WA, USA, 1996, ISBN 1-55615-949-8\n- Wodtke, M.: Mind Over Media, McGraw-Hill, New York, USA, 1993, ISBN 0-07-067633-X\n- Simon, R. J.: Multimedia & ODBC API Bible, Watte Group Press, Carte Madera, CA, USA, 1996, ISBN 1-57169-011-5\n- Wodaski, R.: PC Video Madness, SAMS Publishing, Carmel, IN, USA, 1993, ISBN 0-672-30322-1\n- Wodaski, R.: Multimedia Madness, SAMS Publishing, Carmel, IN, USA, 1992, ISBN 0-672-30249-7\n- Yun Q. Shi, Huifang Sun. Image and Video Compression for Multimedia Engineering: Fundamentals, Algorithms, and Standards. CRC Press, 1999. ISBN 978-1-4200-4979-8\n- John Watkinson. The MPEG Handbook. CRC Press, 2012. ISBN 978-1-136-02898-6\n- Iain E. G. Richardson. H.264 and MPEG-4 Video Compression: Video Coding for Next-generation Multimedia. John Wiley & Sons, 2003. ISBN 978-0-470-86960-7\n- David Salomon, Giovanni Motta. Handbook of Data Compression. Springer, 2010. ISBN 978-1-84882-902-2",
+        "fundamental_literature": "- Simon, R. J.: Multimedia & ODBC API Bible, Watte Group Press, Carte Madera, CA, USA, 1996, ISBN 1-57169-011-5\n- Oney, W.: Systems Programming for Windows, Microsoft Press, Redmond, WA, USA, 1996, ISBN 1-55615-949-8",
+        "syllabus_of_computer_exercises": "Introductory lab, introduction to tools (0th excercise)\n- Sound filter design and implementation\n- Raster operations in Windows API\n- Video sequence processing\n- JPEG compression - DCT settings\n- DirectX interface for sound and image",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "- Introduction to multimedia technology, multimedia peripheral devices, prerequisites overview\n- Connection between signal processing and multimedia, examples\n- Digital signal processors and their features, example of sound processing through signal processor\n- \"Case study\" of system design with digital signal processor\n- Windows sound and Video I API\n- Windows video II and raster operations API\n- Formats for image and sound, digitization, encoding\n- Image and video compression\n- Sound compression\n- DirectX - raster operations\n- DirectX - sound\n- OpenGL - raster operations\n- Multimedia programming interfaces",
+        "progress_assessment": "Mid-term test, evaluated computer excercises, and individual project.The monitores teaching activities include mid-term test, evaluated computer excercises, individual project, and final exam. The mid-term test does not have correction option, the final exam has two possible correction terms."
+    }
+}

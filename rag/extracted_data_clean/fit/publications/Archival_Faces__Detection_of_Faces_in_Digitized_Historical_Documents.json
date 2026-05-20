@@ -1,0 +1,75 @@
+{
+    "publication": "VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7. Detail VOJNAR, T.; ZHANG, L. Tools and algorithms for the construction and analysis of systems: a special issue for TACAS 2019. International Journal on Software Tools for Technology Transfer, 2026, vol. 24, no. 1, p. 29-31.",
+    "year": "2026",
+    "title": "Archival Faces: Detection of Faces in Digitized Historical Documents",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "conference paper"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Vasko Marek, Ing. , DCGM (FIT) Herout Adam, prof. Ing., Ph.D. , DCGM (FIT) Hradis Michal, Ing., Ph.D. , UAMT (FEEC), DCGM (FIT)"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "When digitizing historical archives, it is necessary to search for the faces of celebrities and ordinary people, especially in newspapers, link them to the surrounding text, and make them searchable. Existing face detectors on datasets of scanned historical documents fail remarkably -- current detection tools only achieve around 24% mAP at 50:90% IoU. This work compensates for this failure by introducing a new manually annotated domain-specific dataset in the style of the popular Wider Face dataset, containing 2.2k new images from digitized historical newspapers from the 19th to 20th century, with 11k new bounding-box annotations and associated facial landmarks. This dataset allows existing detectors to be retrained to bring their results closer to the standard in the field of face detection in the wild. We report several experimental results comparing different families of fine-tuned detectors against publicly available pre-trained face detectors and ablation studies of multiple detector sizes with comprehensive detection and landmark prediction performance results."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "historoical documents, face detection, object detection, biometry"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2026"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "17\u201334"
+        },
+        "proceedings": {
+            "label": "Proceedings",
+            "text": "Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II"
+        },
+        "conference": {
+            "label": "Conference",
+            "text": "International Conference on Document Analysis and Recognition"
+        },
+        "isbn": {
+            "label": "ISBN",
+            "text": "978-3-032-09370-7"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "Springer Nature Switzerland"
+        },
+        "place": {
+            "label": "Place",
+            "text": "Cham"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1007/978-3-032-09371-4_2"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-105027551477"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@inproceedings{BUT197677, author=\"Marek {Vasko} and Adam {Herout} and Michal {Hradis}\", title=\"Archival Faces: Detection of Faces in Digitized Historical Documents\", booktitle=\"Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II\", year=\"2026\", pages=\"17--34\", publisher=\"Springer Nature Switzerland\", address=\"Cham\", doi=\"10.1007/978-3-032-09371-4\\{_}2\", isbn=\"978-3-032-09370-7\", url=\"https://link.springer.com/chapter/10.1007/978-3-032-09371-4_2\" }"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Reanimated book - digitized library treasures for the creative industries , MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV033, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Computer Graphics and Multimedia (DCGM)"
+        }
+    }
+}

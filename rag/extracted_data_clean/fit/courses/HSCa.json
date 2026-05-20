@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "code": "HSCa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Hardware/Software Codesign (in English)"
+    },
+    "content": {
+        "guarantor": "Fucik Otto, doc. Dr. Ing. | (DCSY)",
+        "course_coordinator": "Martinek Tomas, doc. Ing., Ph.D. | (DCSY)",
+        "language_of_instruction": "English",
+        "completion": "Credit+Examination (written)",
+        "time_span": "- 39 hrs lectures\n- 13 hrs projects",
+        "assessment_points": "- 55 pts final exam (written part)\n- 20 pts mid-term test (written part)\n- 25 pts projects",
+        "department": "Department of Computer Systems | (UPSY)",
+        "lecturer": "Fucik Otto, doc. Dr. Ing. | (DCSY) | Kekely Lukas, Ing., Ph.D. | (DCSY) | Martinek Tomas, doc. Ing., Ph.D. | (DCSY)",
+        "learning_objectives": "The aim of the course is to gain knowledge and skills in HW/SW co-design of computing systems. The students will also learn about models of hardware and software component behavior and mutual interaction, hardware and software partitioning algorithms and techniques and assessment of the quality, and the final system synthesis and optimization according to various criteria.Students will gain knowledge and skill in theory and techniques of automatized HW/SW co-design of computation systems optimized according to various criteria.Theoretical background for analysis and design of HW/SW systems.",
+        "prerequisite_knowledge_and_skills": "Basics of system simulation and design.",
+        "study_literature": "- Lecture notes in e-format.",
+        "fundamental_literature": "- Schaumont, P. R.: A Practical Introduction to Hardware/Software Codesign, Second Edition, Springer, 2013, ISBN 978-1-4614-3737-6 (eBook).\nSchaumont, P. R.: A Practical Introduction to Hardware/Software Codesign, Second Edition, Springer, 2013, ISBN 978-1-4614-3737-6 (eBook).\n- De Micheli, G., Rolf, E., Wolf, W.: Readings in Hardware/Software Co-design, Morgan Kaufmann; 1. vydani, 2001, 697 s., ISBN: 1558607021.\nDe Micheli, G., Rolf, E., Wolf, W.: Readings in Hardware/Software Co-design, Morgan Kaufmann; 1. vydani, 2001, 697 s., ISBN: 1558607021.\n- L. H. Crockett, R. A. Elliot, M. A. Enderwitz and R. W. Stewart: The Zynq Book: Embedded Processing with the ARM CortexA9 on the Xilinx Zynq-7000 All Programmable SoC, First Edition, Strathclyde Academic Media, 2014.\n- D. D. Gajski, N. D. Dutt, A. C-H Wu, S. Y-L Lin: High-Level Synthesis: Introduction to Chip and System Design, Springer, 1992, ISBN-13: 978-0792391944.\n- M. Fingeroff: High-Level Synthesis Blue Book, Xlibris US, 2010, ISBN \u200e 1450097243.\nM. Fingeroff: High-Level Synthesis Blue Book, Xlibris US, 2010, ISBN \u200e 1450097243.",
+        "syllabus_of_lectures": "- System-level design methodology for embedded systems.\n- Heterogeneous computation structures, architectures and platforms.\n- Behavioral and structural HW/SW system description.\n- System-level synthesis - allocation, binding and scheduling.\n- HW structures synthesis and optimization.\n- Partitioning algorithms and tools.\n- System-level optimization.\n- Languages for HW/SW system description.\n- CAD tools for HW/SW codesign.\n- Inter-component interfaces and communication.\n- Design estimation and analysis techniques.\n- Low-power design techniques.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "Individual thirteen-hour project.",
+        "progress_assessment": "- Mid-term exam - 20 points.\n- Project - 25 points. For receiving the credit and thus for entering the exam, students have to obtain at least 5 points from the project.\n- Final exam - 55 points. The minimal number of points, which can be obtained from the final exam, is 25. Otherwise, no points will be assigned to a student.\n- Plagiarism and not allowed cooperation will cause that involved students are not classified and disciplinary action can be initiated."
+    }
+}

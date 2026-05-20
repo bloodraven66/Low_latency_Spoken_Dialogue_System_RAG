@@ -1,0 +1,405 @@
+{
+    "contact": {
+        "department": "Department of Computer Systems",
+        "department_abbr": "DCSY",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "martinto@fit.vut.cz",
+            "work_phone": "+420 54114 1350",
+            "room": "L331 Office",
+            "orcid_id": "0000-0003-3118-8475",
+            "scopus_author_id": "13006359500"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Accelerated Network Technologies Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Library Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            {
+                "date": "01.09.1998\n-\n30.06.2003",
+                "details": "Faculty of Information Technology, Brno University of TechnologyMSc in computer science and engineering"
+            },
+            {
+                "date": "01.09.2003\n-\n30.06.2010",
+                "details": "Faculty of Information Technology, Brno University of TechnologyPh.D. in computer science and engineering"
+            }
+        ],
+        "scientific_activities": [
+            "Bioinformatics",
+            "Hardware acceleration of algorithms in bioinformatics",
+            "FPGA Technology",
+            "High Level Synthesis"
+        ],
+        "prizing_by_scientific_community": [
+            "Best Paper Award na konferenci IEEE Field Custom Computing Machines (FCCM) 2010"
+        ],
+        "awards": [
+            "Jan Hlavicka Award for Best Paper Presented at PAD 2007",
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2019"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "By agreement by e-mail.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "BIF",
+                "title": "Bioinformatics",
+                "details": "Czech, summer",
+                "department": "DCSY"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "BIF",
+                "title": "Bioinformatics",
+                "details": "Individual preparation for a final exam, Individual preparation for a lecture, Individual preparation for a mid-semester exam, Lecture,\nCzech, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "HSCa",
+                "title": "Hardware/Software Codesign (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "INC",
+                "title": "Digital Systems Design",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DCSY"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Application-specific HW/SW architectures and their applications",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8141, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Flow-based Encrypted Traffic Analysis",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010024, start: 2022-01-01, end: 2025-06-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Navrh, optimalizace a evaluace aplikacne specifickych pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6309, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Introduction of attractive and effective English language studies at FIT",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, start: 2018-02-01, end: 2019-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Nastroje, metody a technologie ICT pro podporu konceptu smart cities",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3964, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Pokrocile paralelni a vestavene pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3994, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Research and develompent for RehiveTech, spol. s r.o",
+            "details": "RehiveTech, start: 2015-09-08, end: 2023-12-09, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Architektury paralelnich a vestavenych pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2297, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Modern Tools for Detection and Mitigation of Cyber Criminality on the New Generation Internet",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015022, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "NetCOPE for the NetFPGA-10G card",
+            "details": "Inkubator VUT, JIC-InVo-INVEA-2010, start: 2010-09-29, end: 2011-06-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Secured, reliable and adaptive computer systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-1, start: 2010-03-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "In vitro and in silico identification of non-canonical DNA structures in genomic sequences",
+            "details": "GACR, Standardni projekty, GA204/08/1560, start: 2008-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Design and hardware implementation of a patent-invention machine",
+            "details": "GACR, Standardni projekty, GA102/07/0850, start: 2007-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2005",
+            "title": "Using evolutionary algorithms for implementation of adaptive image filter in FPGA",
+            "details": "FR2987/2005/G1, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Opticka sit narodniho vyzkumu a jeji nove aplikace",
+            "details": "MSMT, Vyzkumna centra (2000-2004), MSM6383917201, start: 2004-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "6NET",
+            "details": "start: 2002-01-01, end: 2004-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2024",
+            "citation": "MARTINEK, T.; KORENEK, J.; CEJKA, T. LGBM2VHDL: Mapping of LightGBM Models to FPGA. In 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). Orlando, FL: IEEE Computer Society, 2024. p. 97-103. ISBN: 979-8-3503-7243-4."
+        },
+        {
+            "year": "2021",
+            "citation": "HON, J.; MARUSIAK, M.; MARTINEK, T.; KUNKA, A.; ZENDULKA, J.; BEDNAR, D.; DAMBORSKY, J. SoluProt: prediction of soluble protein expression in Escherichia coli. BIOINFORMATICS, 2021, vol. 37, no. 1, p. 23-28. ISSN: 1367-4803."
+        },
+        {
+            "year": "2021",
+            "citation": "PUTEROVA, J.; MARTINEK, T. digIS: Towards detecting distant and putative novel insertion sequences in prokaryotic genomes. BMC BIOINFORMATICS, 2021, vol. 22, no. 258, p. 1-20. ISSN: 1471-2105."
+        },
+        {
+            "year": "2020",
+            "citation": "HON, J.; BORKO, S.; STOURAC, J.; PROKOP, Z.; BEDNAR, D.; ZENDULKA, J.; MARTINEK, T.; DAMBORSKY, J. EnzymeMiner: automated mining of soluble enzymes with diverse structures, catalytic properties and stabilities. Nucleic Acids Research, 2020, vol. 48, no. 1, p. 104-109. ISSN: 1362-4962."
+        },
+        {
+            "year": "2018",
+            "citation": "HON, J.; MARUSIAK, M.; MARTINEK, T.; ZENDULKA, J.; BEDNAR, D.; DAMBORSKY, J. SoluProt: Prediction of Protein Solubility. DAZ & WIKT 2018 Proceedings. Brno: Brno University of Technology, 2018. p. 261-265. ISBN: 978-80-214-5679-2."
+        },
+        {
+            "year": "2018",
+            "citation": "MUSIL, M.; MARTINEK, T.; ZENDULKA, J. FireProt: web server for automated design of thermostable proteins. DAZ & WIKT 2018 Proceedings. Brno: 2018. p. 1-4."
+        },
+        {
+            "year": "2018",
+            "citation": "PUTEROVA, J.; MARTINEK, T. digIS: automated pipeline for detecting distant, novel insertion sequence elements in prokaryotes. Data & Knowledge 2018. Brno: Brno University of Technology, 2018. p. 1-5. ISBN: 978-80-214-5679-2."
+        },
+        {
+            "year": "2018",
+            "citation": "SUMBALOVA, L.; STOURAC, J.; MARTINEK, T.; BEDNAR, D.; DAMBORSKY, J. HotSpot Wizard 3.0: Web Server for Automated Design of Mutations and Smart Libraries based on Sequence Input Information. Nucleic Acids Research, 2018, vol. 46, no. 1, p. 356-362. ISSN: 1362-4962."
+        },
+        {
+            "year": "2017",
+            "citation": "HON, J.; MARTINEK, T.; ZENDULKA, J.; LEXA, M. pqsfinder: an exhaustive and imperfection-tolerant search tool for potential quadruplex-forming sequences in R. BIOINFORMATICS, 2017, vol. 33, no. 21, p. 3373-3379. ISSN: 1367-4803."
+        },
+        {
+            "year": "2017",
+            "citation": "KUPKOVA, K.; PROVAZNIK, I.; SEDLAR, K.; HON, J.; MARTINEK, T.; ZENDULKA, J. Visualization of Nanopore Sequencing Data in Metagenomics. Praha: 2017. p. 1 (1 s.)."
+        },
+        {
+            "year": "2017",
+            "citation": "MUSIL, M.; STOURAC, J.; BENDL, J.; BREZOVSKY, J.; PROKOP, Z.; ZENDULKA, J.; MARTINEK, T.; BEDNAR, D.; DAMBORSKY, J. FireProt: web server for automated design of thermostable proteins. Nucleic Acids Research, 2017, vol. 45, no. 1, p. 393-399. ISSN: 1362-4962."
+        },
+        {
+            "year": "2017",
+            "citation": "PUTEROVA, J.; RAZUMOVA, O.; MARTINEK, T.; ALEXANDROV, O.; DIVASHUK, M.; KUBAT, Z.; HOBZA, R.; KARLOV, G.; KEJNOVSKY, E. Satellite DNA and Transposable Elements in Seabuckthorn (Hippophae rhamnoides), a Dioecious Plant with Small Y and Large X Chromosomes. Genome Biology and Evolution, 2017, vol. 9, no. 1, p. 197-212. ISSN: 1759-6653."
+        },
+        {
+            "year": "2016",
+            "citation": "BRAZDOVA, M.; TICHY, V.; HELMA, R.; BAZANTOVA, P.; POLASKOVA, A.; KREJCI, A.; PETR, M.; NAVRATILOVA, L.; TICHA, O.; NEJEDLY, K.; BENNINK, M.; SUBRAMANIAM, V.; BABKOVA, Z.; MARTINEK, T.; LEXA, M.; ADAMIK, M. p53 Specifically Binds Triplex DNA In Vitro and in Cells. PLoS One, 2016, vol. 11, no. 12, p. 1-25. ISSN: 1932-6203."
+        },
+        {
+            "year": "2014",
+            "citation": "LEXA, M.; MARTINEK, T.; BRAZDOVA, M. Uneven distribution of potential triplex sequences in the human genome: In silico study using the R/Bioconductor package triplex. In Proceedings of the International Conference on Bioinformatics Models, Methods and Algorithms. Angers: SciTePress - Science and Technology Publications, 2014. p. 80-88. ISBN: 978-989-758-012-3."
+        },
+        {
+            "year": "2014",
+            "citation": "LEXA, M.; STEFLOVA, P.; MARTINEK, T.; VORLICKOVA, M.; VYSKOT, B.; KEJNOVSKY, E. Guanine quadruplexes are formed by specific regions of human transposable elements. BMC GENOMICS, 2014, vol. 15, no. 1032, p. 1-12. ISSN: 1471-2164."
+        },
+        {
+            "year": "2014",
+            "citation": "POLCAK, L.; HRANICKY, R.; MARTINEK, T. On Identities in Modern Networks. Journal of Digital Forensics Security and Law, 2014, vol. 2014, no. 2, p. 9-22. ISSN: 1558-7215."
+        },
+        {
+            "year": "2013",
+            "citation": "BRAZDOVA, M.; MARTINEK, T.; LEXA, M. In silico search for secondary structures in p53 target genes using R/Bioconductor. ITAT 2013: Information Technologies - Applications and Theory. Donovaly: CreativeSpace Independent Publishing Platform, 2013. p. 42-46. ISBN: 978-1-4909-5208-6."
+        },
+        {
+            "year": "2013",
+            "citation": "HON, J.; MARTINEK, T.; RAJDL, K.; LEXA, M. Triplex: an R/Bioconductor package for identification and visualization of potential intramolecular triplex patterns in DNA sequences. BIOINFORMATICS, 2013, vol. 29, no. 15, p. 1900-1901. ISSN: 1367-4803."
+        },
+        {
+            "year": "2011",
+            "citation": "LEXA, M.; MARTINEK, T.; BURGETOVA, I.; KOPECEK, D.; BRAZDOVA, M. A dynamic programming algorithm for identification of triplex-forming sequences. BIOINFORMATICS, 2011, vol. 27, no. 18, p. 2510-2517. ISSN: 1367-4803."
+        },
+        {
+            "year": "2011",
+            "citation": "MARTINEK, T.; LEXA, M. Architecture Model for Approximate Tandem Repeat Detection. 22nd IEEE International Conference on Application-specific Systems, Architectures and Processors. Santa Monica, California: IEEE Computer Society, 2011. p. 239-242. ISBN: 978-1-4577-1290-6."
+        },
+        {
+            "year": "2010",
+            "citation": "MARTINEK, T. Hodnoceni podobnosti biologickych sekvenci s vyuzitim technologie FPGA. Brno: Ustav pocitacovych systemu FIT VUT v Brne, 2010. 125 s."
+        },
+        {
+            "year": "2010",
+            "citation": "MARTINEK, T. Evaluation of Biological Sequence Similarity Using FPGA Technology. Information Sciences and Technologies Bulletin of the ACM Slovakia, 2010, vol. 2, no. 2, p. 93-102. ISSN: 1338-1237."
+        },
+        {
+            "year": "2010",
+            "citation": "MARTINEK, T.; LEXA, M. Hardware Acceleration of Approximate Tandem Repeat Detection. IEEE Symposium on Field-Programmable Custom Computing Machines. Charlotte: IEEE Computer Society, 2010. p. 79-86. ISBN: 978-0-7695-4056-6."
+        },
+        {
+            "year": "2010",
+            "citation": "MARTINEK, T.; ZADNIK, M. Precise Timestamp Generation Module and its Applications in Flow Monitoring. In Networking Studies IV, Selected Technical Reports. Praha: CESNET National Research and Education Network, 2010. p. 45-56. ISBN: 978-80-904173-8-0."
+        },
+        {
+            "year": "2009",
+            "citation": "MARTINEK, T. Architektura sbernice PCI, PCI-X a PCI Express. Sbornik prispevku 35. konference Europen. Plzen: Ceska spolecnost uzivatelu otevrenych systemu EurOpen.CZ, 2009. s. 37-50. ISBN: 978-80-86583-17-4."
+        },
+        {
+            "year": "2009",
+            "citation": "MARTINEK, T.; LEXA, M.; VOZENILEK, J. Architecture model for approximate palindrome detection. In 2009 IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Liberec: IEEE Computer Society, 2009. p. 90-95. ISBN: 978-1-4244-3339-1."
+        },
+        {
+            "year": "2008",
+            "citation": "MALEK, T.; MARTINEK, T.; KORENEK, J. GICS: Generic Interconnection System. 2008 International Conference on Field Programmable Logic and Applications. Heidelberg: IEEE Computer Society, 2008. p. 263-268. ISBN: 978-1-4244-1960-9."
+        },
+        {
+            "year": "2008",
+            "citation": "MARTINEK, T.; KOSEK, M. NetCOPE: Platform for Rapid Development of Network Applications. In Proc. of 2008 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Bratislava: IEEE Computer Society, 2008. p. 219-224. ISBN: 978-1-4244-2276-0."
+        },
+        {
+            "year": "2008",
+            "citation": "MARTINEK, T.; LEXA, M. Hardware Acceleration of Approximate Palindromes Searching. In The International Conference on Field-Programmable Technology. Taipei: IEEE Computer Society, 2008. p. 65-72. ISBN: 978-1-4244-2796-3."
+        },
+        {
+            "year": "2007",
+            "citation": "DEDEK, T.; MAREK, T.; MARTINEK, T. High Level Abstraction Language as an Alternative to Embeded Processors for Internet Packet Processing in FPGA. 2007 International Conference on Field Programmable Logic and Applications. Amsterdam: IEEE Computer Society, 2007. p. 648-651. ISBN: 1-4244-1060-6."
+        },
+        {
+            "year": "2007",
+            "citation": "LEXA, M.; MARTINEK, T.; BECK, P.; FUCIK, O.; VALLE, G.; ZARA, I. Genomic PCR simulation with hardware-accelerated approximate sequence matching. 21st European Conference on Modelling and Simulation. Praha: European Council for Modelling and Simulation, 2007. p. 333-338. ISBN: 978-0-9553018-2-7."
+        },
+        {
+            "year": "2007",
+            "citation": "MARTINEK, T. Automatizovane Mapovani architektur s promennym poctem vypocetnich elementu Automatizovane mapovani architektur s promennym poctem vypocetnich elementu. Pocitacove architektury a diagnostika 2007. Cesko-slovensky seminar pro studenty doktorandskeho studia. Plzen: Zapadoceska univerzita v Plzni, 2007. s. 77-83. ISBN: 978-80-7043-605-9."
+        },
+        {
+            "year": "2007",
+            "citation": "MARTINEK, T.; LEXA, M.; BECK, P.; FUCIK, O. Automatic Generation of Circuits for Approximate String Matching. In 2007 IEEE Design and Diagnostics of Electronic Circuits and Systems. Krakow: IEEE Computer Society, 2007. p. 203-208. ISBN: 1-4244-1161-0."
+        },
+        {
+            "year": "2007",
+            "citation": "SEKANINA, L.; MARTINEK, T. Evolving Image Operators Directly in Hardware. In Genetic and Evolutionary Computation for Image Processing and Analysis. EURASIP Book Series on Signal Processing and Communications, Volume 8. New York: Hindawi Publishing Corporation, 2007. p. 93-112. ISBN: 978-977-454-001-1."
+        },
+        {
+            "year": "2007",
+            "citation": "TOBOLA, J.; KOTASEK, Z.; KORENEK, J.; MARTINEK, T.; STRAKA, M. Online Protocol Testing for FPGA Based Fault Tolerant Systems. 10th EUROMICRO Conference on Digital System Design DSD 2007. Lubeck, Germany: IEEE Computer Society, 2007. p. 676-679. ISBN: 0-7695-2978-X."
+        },
+        {
+            "year": "2006",
+            "citation": "CERNY, S.; STRUZKA, P.; KORENEK, J.; MARTINEK, T.; KOTASEK, Z. FPGA Components in Simulink. Proceedings of XXVIIIth International Autumn Colloquium ASIS 2006. Ostrava: Marq software s.r.o., 2006. p. 158-163. ISBN: 80-86840-26-3."
+        },
+        {
+            "year": "2006",
+            "citation": "MARTINEK, T.; KORENEK, J.; NOVOTNY, J. Network Monitoring Adaptor for 10Gbps Technology using FPGA. CESNET Conference 2006 Proceedings. Prague : CESNET, z. s. p. o.: CESNET National Research and Education Network, 2006. p. 143-151. ISBN: 978-80-239-6533-9."
+        },
+        {
+            "year": "2006",
+            "citation": "MARTINEK, T.; LEXA, M.; KORENEK, J.; FUCIK, O. A flexible technique for the automatic design of approximate string matching architectures. In Proc. of 2006 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Praha: IEEE Computer Society, 2006. p. 83-84. ISBN: 1-4244-0184-4."
+        },
+        {
+            "year": "2006",
+            "citation": "SEKANINA, L.; MARTINEK, T.; GAJDA, Z. Extrinsic and Intrinsic Evolution of Multifunctional Combinational Modules. 2006 IEEE World Congress on Computational Intelligence. CA: IEEE Computational Intelligence Society, 2006. p. 9676-9683. ISBN: 0-7803-9489-5."
+        },
+        {
+            "year": "2005",
+            "citation": "MARTINEK, T. Analyza datovych toku s vyuzitim sebe-rekonfigurovatelnych automatu. Sbornik prispevku ze seminare Pocitacove Architektury a Diagnostika. Praha: Fakulta elektrotechniky CVUT, 2005. s. 119-124. ISBN: 80-01-03298-1."
+        },
+        {
+            "year": "2005",
+            "citation": "MARTINEK, T.; SEKANINA, L. An Evolvable Image Filter: Experimental Evaluation of a Complete Hardware Implementation in FPGA. In Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2005. p. 76-85. ISBN: 978-3-540-28736-0."
+        },
+        {
+            "year": "2005",
+            "citation": "MARTINEK, T.; ZEMCIK, P.; KORENEK, J. FPGA-Based Platform for Network Applications. Proc. of 8th IEEE Design and Diagnostic of Electronic Circuits and Systems Workshop. Sopron: University of West Hungary, 2005. p. 194-197. ISBN: 963-9364-48-7."
+        },
+        {
+            "year": "2004",
+            "citation": "MARTINEK, T.; KORENEK, J.; NOVOTNY, J. Passive network monitoring adapter intended for 10Gbps technology. Sbornik prispevku z XXV. konference Europen. Plzen: Czech Open Systems User's Group, 2004. p. 55-63. ISBN: 80-86583-07-4."
+        },
+        {
+            "year": "2002",
+            "citation": "MARTINEK, T. Deterministic parallel LR parsing. Proceedings of 8th conference and competition STUDENT EEICT 2002. Brno: Brno University of Technology, 2002. p. 192-194. ISBN: 80-214-2114-2."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2019",
+            "title": "EnzymeMiner: Web Server for Automated Mining and Annotation of Soluble Enzymes in Genomic Databases",
+            "metadata": "presentation, poster, 2019",
+            "authors": "HON, J.; BORKO, S.; MARUSIAK, M.; MARTINEK, T.; BEDNAR, D.; DAMBORSKY, J."
+        },
+        {
+            "year": "2017",
+            "title": "pqsfinder: imperfection-tolerant identification of potential quadruplex-forming sequences in R",
+            "metadata": "presentation, poster, 2017",
+            "authors": "HON, J.; LEXA, M.; MARTINEK, T.; ZENDULKA, J."
+        },
+        {
+            "year": "2014",
+            "title": "Zakonne odposlechy v modernich sitich - Shrnuti vysledku skupiny pro zakonne odposlechy projektu Moderni prostredky pro boj s kybernetickou kriminalitou na Internetu nove generace",
+            "metadata": "report, 2014",
+            "authors": "POLCAK, L.; MARTINEK, T.; HRANICKY, R.; BARTA, S.; HOLKOVIC, M.; FRANKOVA, B.; KRAMOLIS, P."
+        },
+        {
+            "year": "2012",
+            "title": "Dynamicka identifikace uzivatelu v prostredi siti IPv4 a IPv6",
+            "metadata": "report, 2012",
+            "authors": "MARTINEK, T.; KRAMOLIS, P.; HOLKOVIC, M.; POLCAK, L."
+        },
+        {
+            "year": "2011",
+            "title": "Architektura systemu pro zakonne odposlechy",
+            "metadata": "report, 2011",
+            "authors": "POLCAK, L.; KRAMOLIS, P.; KAJAN, M.; MARTINEK, T."
+        }
+    ],
+    "name": "Martinek Tomas, doc. Ing., Ph.D."
+}

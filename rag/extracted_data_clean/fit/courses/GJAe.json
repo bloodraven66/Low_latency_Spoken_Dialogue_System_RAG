@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "code": "GJAe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Graphical User Interfaces in Java (in English)"
+    },
+    "content": {
+        "guarantor": "Smrz Pavel, doc. RNDr., Ph.D. | (DCGM)",
+        "course_coordinator": "Dytrych Jaroslav, Ing., Ph.D. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Credit+Examination (written+oral)",
+        "time_span": "- 26 hrs lectures\n- 26 hrs projects",
+        "assessment_points": "- 51 pts final exam (15 pts written part, 26 pts test part, 10 pts oral part)\n- 10 pts mid-term test (test part)\n- 39 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Dytrych Jaroslav, Ing., Ph.D. | (DCGM) | Kozak David, Ing. | (DITS) | Rychly Marek, RNDr., Ph.D. | (DIFS)",
+        "instructor": "Dytrych Jaroslav, Ing., Ph.D. | (DCGM)",
+        "learning_objectives": "To get acquainted with the principles of Java programming language. To learn about methods of application development in Java programming language. To get acquainted with ways of exploitation of standard libraries and tools for application development. To learn about differences in Java programming and programming in other languages.\nThe students will get acquainted with the principles and history of Java programming language. They will learn about methods of application development in Java programming language. They will also get acquainted with ways of exploitation of standard libraries and tools for application development. Finally, the students will learn about differences in Java programming and programming in other languages.The students will improve their skills in programming language Java, in team work, and in preparation of project documentation.",
+        "prerequisite_knowledge_and_skills": "Basic knowledge of Java programming language (syntax, primitive data types, classes, interfaces, inheritance, packages, modifiers, type variables, wrapper classes, containers, I/O, exceptions, multithreading, running processes).",
+        "study_literature": "- Deitel, H.M., Deitel, P.J.: Java - How to program, ISBN 0-13-632589-0, Prentice Hall, 1997.\n- Niemeyer, P., Peck, J.: Exploring Java (2nd ed.), ISBN 1-56592-271-9, O'Reilly & Associates, 1997.\n- Cornell, C., Horstmann, C.: Core Java (2nd ed.), SunSoft Press, Prentice Hall, ISBN 0-13-596891-7, 1997\n- Grand, M.: Java Language Reference (2nd ed.), ISBN 1-56592-326-X, O'Reilly & Associates, 1997\n- Campione, M., Walrath, K.: Java Tutorial, Addison-Wesley, ISBN 3-8273-1050-4, 1997\n- Jendrock, E., Cervera-Navarro, R., Evans, I., Haase, K., & Markito, W.: The Java EE 7 Tutorial (Vol. 1), Addison-Wesley Professional, ISBN 978-0321994929, 2014\n- Gupta, A.: Java EE 7 Essentials: Enterprise Developer Handbook, O'Reilly Media, Inc., ISBN 978-1449370176, 2013\n- Juneau, J.: Java EE 7 recipes: a problem-solution approach, Apress, ISBN 978-1430244257, 2013\n- Juneau, J.: JavaServer Faces: Introduction by Example, Apress, ISBN 978-1484208397, 2013\n- Calskan, M., & Varaksin, O.: PrimeFaces cookbook, Packt Publishing Ltd. ISBN 978-1784393427, 2015\n- Gutierrez, F.: Introducing Spring framework: a primer, Apress, ISBN 978-1430265320, 2014\n- Walls, C. Spring in Action: Covers Spring 4, Manning Publications, ISBN 978-1617291203, 2014\n- Hohpe, G., Woolf, B.: Enterprise integration patterns, ISBN 0-321-20068-3, 2004\n- Claus Ibsen, C, Anstey, J.: Camel in Action, Second Edition, ISBN 9781617292934, 2018",
+        "syllabus_of_lectures": "- Introduction, Java servlets, JavaServerPages.\n- Testing, Maven and JAX.\n- RMI and JMS.\n- EJB and JavaServerFaces.\n- PrimeFaces.\n- Spring.\n- Midterm exam.\n- Java Persistence API, Hibernate.\n- Google Web Toolkit.\n- Vaadin.\n- Basics of Android OS.\n- Distributed systems.\n- Project defenses.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "- Individually assigned project throughout the course.",
+        "progress_assessment": "Mid-term test, individual projects."
+    }
+}

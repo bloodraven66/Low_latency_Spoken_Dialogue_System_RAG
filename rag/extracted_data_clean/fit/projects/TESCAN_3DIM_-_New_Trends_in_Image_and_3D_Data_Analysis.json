@@ -1,0 +1,39 @@
+{
+    "project": "TESCAN 3DIM - New Trends in Image and 3D Data Analysis",
+    "title": "TESCAN 3DIM - Nove trendy v analyze obrazovych a 3D dat",
+    "metadata": {
+        "project_period": "1. 2. 2025 \u2013 31. 8. 2025",
+        "project_type": "contract",
+        "partner": "TESCAN 3DIM, s.r.o."
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "TESCAN 3DIM - New Trends in Image and 3D Data Analysis"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "deep learning, neural networks, image analysis, polygonal mesh, 3D model, geometry processing, shape models"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "This contractual research aims to analyze new trends in deep learning for recognition and automated analysis of image and 3D geometric data with a focus on various types of 3D shape representations and large image data whose processing is demanding; furthermore, in the experimental verification of the suitability of using selected new methods for the needs and tasks defined by the Partner and consultations of the Partner's existing solutions and technical assistance in their innovation."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Spanel Michal, doc. Ing., Ph.D. (DCGM) \u2013 research leader Kubik Tibor, Ing. (DCGM) Pukanec David, Ing. (DCGM) Silling Petr, Ing. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- SILLING, P.; SPANEL, M. DEMIS: Electron Microscopy Image Stitching using Deep Learning Features and Global Optimisation. Proceedings of the 18th International Joint Conference on Biomedical Engineering Systems and Technologies - BIOIMAGING. Porto: Institute for Systems and Technologies of Information, Control and Communication, 2025. p. 255-256. ISBN: 978-989-758-731-3. Detail"
+        },
+        "results_with_impact_on_practice": {
+            "label": "Results with Impact on Practice",
+            "text": "- Souhrnna vyzkumna zprava k projektu TESCAN 3DIM - Nove trendy v analyze obrazovych a 3D dat , summary research report, 2025 Authors : SILLING, P.; PUKANEC, D.; KUBIK, T.; SPANEL, M."
+        }
+    }
+}

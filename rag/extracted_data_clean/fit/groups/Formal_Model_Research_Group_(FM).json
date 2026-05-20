@@ -1,0 +1,1120 @@
+{
+    "group": "Formal Model Research Group (FM)",
+    "about": {
+        "formal_model_research_group": [
+            "This group discusses formal languages and their models, such as automata, grammars and systems based upon them. It pays a special attention to the regulation of these models so they capture various context dependencies in a clear and precise way. The group also studies how to apply the formal models under investigation in various computer science areas, such as compilers any bioinformatics.Group Photo from 2021 (from the left: Dusan Kolar, Radim Kocman, Dominika Klobucnikova, Alexandr Meduna, Zbynek Krivka, Dominika Regeciova, Martin Tomko, Tomas Kozar)"
+        ],
+        "research_interests": [
+            "Theoretical Basis of Information Systems",
+            "Formal Languages and Their Models",
+            "Specification and Translation of Languages",
+            "Applications of Formal Models",
+            "Reverse Engineering and Decompilation"
+        ],
+        "current_research_topics": [
+            "The group focuses on the basic research in the theory of formal languages and compilation. Considering formal language theory, we usually study generative power of regulated models (eg. scaterred context grammars) or of the whole systems of models (eg. grammar systems). Further, we are interested in scattered information processing models such as jumping automata and grammars.From the practical areas, we investigate the automation of syntax and semantic analysis in compilers."
+        ],
+        "significant_results": [
+            "Meduna Alexander, Kozar Tomas : A utomata: Theory, Trends, and Applications , World Scientific Publishing Company, 2023, ISBN: 978-9811278129",
+            "Meduna Alexander, Krivka Zbynek: Jumping Computation Updating Automata and Grammars for Discontinuous Information Processing , CRC Press, 2024, ISBN 9780367634797",
+            "Meduna Alexander, Horacek Petr, Tomko Martin : Handbook of Mathematical Models for Languages and Computation . Stevenage, United Kingdom: The Institution of Engineering and Technology, 2020. ISBN 978-1-78561-659-4",
+            "Meduna Alexander, Soukup Ondrej: Modern Language Models and Computation: Theory with Applications . New York: Springer US, 2017. ISBN 978-3-319-63099-1",
+            "Meduna Alexander, Zemek Petr: Regulated Grammars and Automata , New York, US, Springer, 2014, 694 p., ISBN 978-1-4939-0368-9",
+            "Meduna Alexander : Formal Languages and Computation , New York, US, Taylor & Francis, 2014, 315 p., ISBN 978-1-4665-1345-7",
+            "Meduna Alexander, Zemek Petr : Jumping Finite Automata . International Journal of Foundations of Computer Science . 2012, 23(7), ISSN 0129-0541",
+            "Meduna Alexander, Techet Jiri : Scattered Context Grammars and their Applications , WIT Press, UK, GB, WIT, 2010, 199 p., ISBN 978-1-84564-426-0",
+            "Meduna Alexander : Elements of Compiler Design , New York, US, Taylor & Francis, 2008, 304 p., ISBN 978-1-4200-6323-3",
+            "Krivka Zbynek : Rewriting Systems with Restricted Configurations , Brno, CZ, FIT VUT, 2008, 131 p., ISBN 978-80-214-3722-7",
+            "Meduna Alexander, Svec Martin : Grammars with Context Conditions and Their Applications , Wiley, New York, US, WILEY, 2005, 1-225 p., ISBN 0-471-71831-9",
+            "Meduna Alexander : Automata and Languages: Theory and Applications , London, GB, Springer, 2000, 892 p., ISBN 1-85233-074-0"
+        ],
+        "cooperation": [
+            "The subteam under the supervision of dr. Kolar cooperates with Avast (former AVG Technologies) in research of reverse engineering and decompilation."
+        ],
+        "events,_seminars": [
+            "All those interested in theoretical computer science and not only in it are cordially invited to a seminar of our research group .",
+            "On the website of the international journal IJFCS in 2016/2017 the article \"Meduna, A., Soukup, O.: Simple Matrix Grammars and Their Leftmost Variants\" was among the most read and the article \"Meduna, A., Zemek, P.: Jumping Finite Automata\" among the most cited.",
+            "On December 3, 2012 Prof. Meduna received an honorary mention at the Siemens Prize in the category of \"Best Teacher\"."
+        ],
+        "contact": [
+            "Brno University of TechnologyFaculty of Information TechnologyDepartment of Information SystemsBozetechova 2612 00 Brno, Czech RepublicPhone: +420 54114-1232E-mail:meduna@fit.vutbr.cz"
+        ],
+        "information": [
+            "prof. Alexander MedunaBrno University of TechnologyFaculty of Information TechnologyFormal Model Research GroupBozetechova 2612 00 Brno, Czech RepublicPhone: +420 54114-1232E-mail:meduna@fit.vutbr.cz"
+        ],
+        "important_publications": [
+            "Meduna Alexander, Soukup Ondrej: Modern Language Models and Computation: Theory with Applications . New York: Springer US, 2017. ISBN 978-3-319-63099-1",
+            "Meduna Alexander, Zemek Petr: Regulated Grammars and Automata , New York, US, Springer, 2014, 694 p., ISBN 978-1-4939-0368-9",
+            "Meduna Alexander : Formal Languages and Computation , New York, US, Taylor & Francis, 2014, 315 p., ISBN 978-1-4665-1345-7",
+            "Meduna Alexander, Zemek Petr : Jumping Finite Automata . International Journal of Foundations of Computer Science . 2012, 23(7), ISSN 0129-0541",
+            "Meduna Alexander, Techet Jiri : Scattered Context Grammars and their Applications , WIT Press, UK, GB, WIT, 2010, 199 p., ISBN 978-1-84564-426-0",
+            "Meduna Alexander : Elements of Compiler Design , New York, US, Taylor & Francis, 2008, 304 p., ISBN 978-1-4200-6323-3",
+            "Krivka Zbynek : Rewriting Systems with Restricted Configurations , Brno, CZ, FIT VUT, 2008, 131 p., ISBN 978-80-214-3722-7",
+            "Meduna Alexander, Svec Martin : Grammars with Context Conditions and Their Applications , Wiley, New York, US, WILEY, 2005, 1-225 p., ISBN 0-471-71831-9",
+            "Meduna Alexander : Automata and Languages: Theory and Applications , London, GB, Springer, 2000, 892 p., ISBN 1-85233-074-0"
+        ],
+        "overview": [
+            "This group discusses formal languages and their models, such as automata, grammars and systems based upon them. It pays a special attention to the regulation of these models so they capture various context dependencies in a clear and precise way. The group also studies how to apply the formal models under investigation in various computer science areas, such as compilers any bioinformatics.Group Photo from 2021 (from the left: Dusan Kolar, Radim Kocman, Dominika Klobucnikova, Alexandr Meduna, Zbynek Krivka, Dominika Regeciova, Martin Tomko, Tomas Kozar)"
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Meduna Alexandr, prof. RNDr., CSc.",
+                "position": "Principal researcher",
+                "notes": [
+                    "Mathematically oriented computer science",
+                    "Areas of Special Interest: automata, formal languages, compilers, computer algebra, graphs, metamathematics",
+                    "My work website"
+                ]
+            }
+        ],
+        "researcher": [
+            {
+                "name": "Hruska Tomas, prof. Ing., CSc.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Kocman Radim, Ing., Ph.D.",
+                "position": "Researcher",
+                "notes": [
+                    "Theory of Formal Languages",
+                    "Jumping Finite Automata"
+                ]
+            },
+            {
+                "name": "Kolar Dusan, doc. Dr. Ing.",
+                "position": "Researcher",
+                "notes": [
+                    "Formal languages and automata",
+                    "Compilers and programming languages",
+                    "Reverse engineering, malware detection and elimination",
+                    "Advanced DB systems",
+                    "Modellng and simulation in information systems",
+                    "Tools and programming of embedded systems"
+                ]
+            },
+            {
+                "name": "Krivka Zbynek, Ing., Ph.D.",
+                "position": "Researcher",
+                "notes": [
+                    "Formal languages, grammars, automata",
+                    "Jumping models"
+                ]
+            }
+        ],
+        "ph.d._student": [
+            {
+                "name": "Havel Martin, Ing.",
+                "position": "Ph.D. student"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2012",
+            "title": "Mathematical Foundations of Formal Language Theory",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR271/2012/G1, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Context-free languages and pushdown automata",
+            "details": "MSMT, KONTAKT, MEB041003, start: 2010-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Inovative Approach to the Compiler Projects",
+            "details": "FR673/2007/G1, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Multi-Information Technologies",
+            "details": "GACR, Standardni projekty, GA201/07/0005, start: 2007-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Teaching of Formal Language Theory at the International Level of EU",
+            "details": "FR762/2007/G1, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Didactic Demonstration of Formal Language Models",
+            "details": "FR1909/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Virtual Laboratory of Microprocessor Technology Application",
+            "details": "MSMT, Informacni technologie pro znalostni spolecnost, 2C06008, start: 2006-07-01, end: 2011-06-30, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Innovation of Courses: Post-Relational Database Systems, Functional and Logic Programming",
+            "details": "FR1246/2005/F1, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Optimally Integrated Models of Modern Information Technologies",
+            "details": "GACR, Standardni projekty, GA201/04/0441, start: 2004-01-01, end: 2006-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "details": "HAVEL, M.; KRIVKA, Z.; MEDUNA, A. Scattered Context Grammars with One Non-Context-Free Production and Six Nonterminals Are Computationally Complete. In Descriptional Complexity of Formal Systems. Lecture Notes in Computer Science. Loughborough: Springer Verlag, 2025. no. 7, p. 123-136. ISBN: 978-3-031-97099-3. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "MAKIS, J.; MEDUNA, A.; KRIVKA, Z. Orchestration of Music by Grammar Systems. In Proceedings of the 15th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Loughborough: Open Publishing Association, 2025. no. 7, p. 45-58. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "MEDUNA, A.; FOLTYN, Z. Centralized Versions of Jumping Finite Automata. In Languages of Cooperation and Communication: Erzsebeth Csuhaj-Varju Festschrift. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2025. p. 69-84. ISBN: 978-3-031-97274-4. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HAVEL, M.; KRIVKA, Z.; MEDUNA, A. How to Demonstrate Metalinearness and Regularity by Tree-Restricted General Grammars. In Proceedings 14th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Gottingen: School of Computer Science and Engineering, University of New South Wales, 2024. no. 09, p. 86-99. ISSN: 2075-2180. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "MEDUNA, A.; KRIVKA, Z. Jumping Computation: Updating Automata and Grammars for Discontinuous Information Processing. Boca Raton: CRC Press LLC, 2024. 293 p. ISBN: 978-0-367-62093-6. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "POLANECKA, A.; NOVACKOVA, K.; BALAZ, T.; RYDLO, S.; KOLAR, D. Detection of Laser Beams Aimed at Aircraft in Flight. In 2024 New Trends in Civil Aviation (NTCA). Praha: Institute of Electrical and Electronics Engineers, 2024. p. 119-124. ISBN: 978-80-01-07182-3. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "KOZAR, T.; MEDUNA, A. Automata: Theory, Trends, And Applications. Singapore: World Scientific Publishing Co Pte Ltd, 2023. 436 p. ISBN: 978-981-1278-12-9. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "KOZAR, T.; MEDUNA, A.; KRIVKA, Z. Final sentential forms. In Proceedings 13th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Famagusta: School of Computer Science and Engineering, University of New South Wales, 2023. no. 9, p. 38-47. ISSN: 2075-2180. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "REGECIOVA, D.; KOLAR, D. GenRex: Leveraging Regular Expressions for Dynamic Malware Detection. IEEE Xplore. Exeter: Institute of Electrical and Electronics Engineers, 2023. p. 857-864. ISBN: 979-8-3503-8199-3. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HAMMER, J.; KRIVKA, Z. Practical Aspects of Membership Problem of Watson-Crick Context-free Grammars. In Proceedings 12th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Debrecen: School of Computer Science and Engineering, University of New South Wales, 2022. no. 367, p. 88-111. ISSN: 2075-2180. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HAVEL, M.; MEDUNA, A. On Elimination of Erasing Rules from E0S Grammars. Computer Science Journal of Moldova, 2022, vol. 30, no. 2, p. 135-147. ISSN: 1561-4042. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "KLOBUCNIKOVA, D.; KRIVKA, Z.; MEDUNA, A. Conclusive Tree-Controlled Grammars. In Proceedings 12th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Debrecen: School of Computer Science and Engineering, University of New South Wales, 2022. no. 367, p. 112-125. ISSN: 2075-2180. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A.; NAGY, B. A Jumping 5'->3' Watson-Crick Finite Automata Model. ACTA INFORMATICA, 2022, vol. 59, no. 5, p. 557-584. ISSN: 0001-5903. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "MARTISKO, J.; KRIVKA, Z.; MEDUNA, A. CD Grammar Systems with Two Propagating Scattered Context Components Characterize the Family of Context Sensitive Languages. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2022, vol. 33, no. 03, p. 335-348. ISSN: 0129-0541. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "KOVARI, A.; KRIVKA, Z.; MEDUNA, A. Evaluating Yona Language. In INTERNATIONAL CONFERENCES ON WWW/INTERNET 2021 AND APPLIED COMPUTING 2021. Lisabon: International Association for Development of the Information Society, 2021. p. 101-108. ISBN: 978-989-8704-34-4. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "KRIVKA, Z.; MEDUNA, A. Scattered Context Grammars with One Non-Context-Free Production are Computationally Complete. FUNDAMENTA INFORMATICAE, 2021, vol. 179, no. 4, p. 361-384. ISSN: 0169-2968. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. General CD Grammar Systems and Their Simplification. Journal of Automata, Languages and Combinatorics, 2020, vol. 25, no. 1, p. 37-54. ISSN: 1430-189X. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "MEDUNA, A.; HORACEK, P.; TOMKO, M. Handbook of Mathematical Models for Languages and Computation. Stevenage, United Kingdom: The Institution of Engineering and Technology, 2020. 761 p. ISBN: 978-1-78561-659-4. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MEDUNA, A.; KRCMAR, R.; KOVARI, A.; BENICKOVA, Z. On Operations over Language Families. Computer Science Journal of Moldova, 2019, vol. 27, no. 3, p. 255-282. ISSN: 1561-4042. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MEDUNA, A.; KRIVKA, Z.; KUCERA, J. Jumping Pure Grammars. COMPUTER JOURNAL, 2019, vol. 62, no. 1, p. 30-41. ISSN: 0010-4620. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CHARVAT, L.; MEDUNA, A. A Reduction of Finitely Expandable Deep Pushdown Automata. Schedae Informaticae, 2018, vol. 2017, no. 26, p. 61-68. ISSN: 0860-0295. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CHARVAT, L.; MEDUNA, A. Internally Expandable Pushdown Automata and Their Computational Completeness. Romanian Journal of Information Science and Technology, 2018, vol. 21, no. 3, p. 232-237. ISSN: 1453-8245. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. On Double-Jumping Finite Automata and Their Closure Properties. RAIRO-THEORETICAL INFORMATICS AND APPLICATIONS, 2018, vol. 52, no. 2, p. 185-199. ISSN: 0988-3754. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KOCMAN, R.; NAGY, B.; KRIVKA, Z.; MEDUNA, A. A Jumping 5'->3' Watson-Crick Finite Automata Model. Tenth Workshop on Non-Classical Models of Automata and Applications (NCMA 2018). books@ocg.at 332. Wien: Austrian Computer Society, 2018. p. 117-132. ISBN: 978-3-903035-21-8. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KUCERA, J.; KRIVKA, Z.; MEDUNA, A. On k#$-Rewriting Systems. Romanian Journal of Information Science and Technology, 2018, vol. 21, no. 3, p. 278-287. ISSN: 1453-8245. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "ZENDULKA, J.; BIELIKOVA, M.; BURGET, R.; KRIVKA, Z. Data a Znalosti & WIKT 2018. Brno: Vysoke uceni technicke v Brne, 2018. s. 1-291. ISBN: 978-80-214-5679-2. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "CHARVAT, L.; MEDUNA, A. A Reduction of Finitely Expandable Deep Pushdown Automata. Proceedings 12th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2017). Electronic Proceedings in Theoretical Computer Science. Telc: 2017. p. 1 (1 s.). Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. Rule-Homogeneous CD Grammar Systems. AFL 2017. Debrecen: 2017. 3 p. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KRIVKA, Z. Introduction to Graph Algorithms for Shortest-Paths Problems. Sego-bit. 2017. no. 5, p. 41-48. ISSN: 2386-866X. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MEDUNA, A.; MARTISKO, J. CD Grammar Systems with Two Propagating Scattered Context Components Characterize the Family of Context Sensitive Languages. In 15th International Conference on Automata and Formal Languages. Electronic Proceedings in Theoretical Computer Science, EPTCS. Debrecen: Open Publishing Association, 2017. no. 252, p. 170-179. ISSN: 2075-2180. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MEDUNA, A.; SOUKUP, O. Modern Language Models and Computation: Theory with Applications. New York: Springer US, 2017. 567 p. ISBN: 978-3-319-63099-1. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MEDUNA, A.; SOUKUP, O. Jumping Scattered Context Grammars. FUNDAMENTA INFORMATICAE, 2017, vol. 152, no. 1, p. 51-86. ISSN: 0169-2968. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MEDUNA, A.; SOUKUP, O.; CSUHAJ-VARJU, E. On Tree-Restricted Regular-Controlled Context-Free Grammars. International Journal of Computer Mathematics- Computer Systems Theory, 2017, vol. 2, no. 4, p. 147-163. ISSN: 2379-9927. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MILKOVIC, M. Extraction of Information from .NET Executable Files. Sbornik prispevku Mezinarodni Masarykovy konference pro doktorandy a mlade vedecke pracovniky 2017. Hradec Kralove: Akademicke sdruzeni MAGNANIMITAS Assn., 2017. p. 1-9. ISBN: 978-80-87952-22-1. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. On Double-Jumping Finite Automata. Eighth Workshop on Non-Classical Models of Automata and Applications (NCMA 2016). books@ocg.at 321. Wien: Austrian Computer Society, 2016. p. 195-210. ISBN: 978-3-903035-10-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KOCMAN, R.; MEDUNA, A. On Parallel Versions of Jumping Finite Automata. In Proceedings of the 2015 Federated Conference on Software Development and Object Technologies. Advances in Intelligent Systems and Computing. Cham: Springer International Publishing, 2016. p. 142-149. ISBN: 978-3-319-46534-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KRIVKA, Z.; MEDUNA, A.; ZEMEK, P. Phrase-Structure Grammars: Normal Forms and Reduction. COMPUTER JOURNAL, 2016, vol. 59, no. 8, p. 1180-1185. ISSN: 0010-4620. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KUCERA, J.; MEDUNA, A. On State-Synchronized Automata Systems. Schedae Informaticae, 2016, vol. 2015, no. 24, p. 221-237. ISSN: 0860-0295. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "MEDUNA, A.; SOUKUP, O. Simple Matrix Grammars and Their Leftmost Variants. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2016, vol. 27, no. 3, p. 359-373. ISSN: 0129-0541. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "KRIVKA, Z.; MEDUNA, A. Jumping Grammars. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2015, vol. 26, no. 6, p. 709-731. ISSN: 0129-0541. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MEDUNA, A.; KUCERA, J.; SOUKUP, O. Absolutely Unlimited Deep Pushdown Automata. Proceedings of the 10th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2015). Telc: Ing. Vladislav Pokorny - Litera, 2015. p. 36-44. ISBN: 978-80-214-5254-1. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MEDUNA, A.; SOUKUP, O.; ZEMEK, P. Ordered Pure Multi-Pushdown Automata. Theoretical and Applied Informatics, 2015, vol. 27, no. 1, p. 25-47. ISSN: 1896-5334. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HORACEK, P.; MEDUNA, A. New Grammar Systems and Their Application Perspectives. Schedae Informaticae, 2014, vol. 2013, no. 22, p. 47-68. ISSN: 0860-0295. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KOUTNY, J.; MEDUNA, A. On Normal Forms and Erasing Rules in Path-Controlled Grammars. Schedae Informaticae, 2014, vol. 2013, no. 22, p. 9-18. ISSN: 0860-0295. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KRIVKA, Z.; SUBRAMANIAN, K.; MARTIN-VIDE, C.; MEDUNA, A. A Variant of Pure Two-dimensional Context-free Grammars generating Picture Languages. In 16th International Workshop on Combinatorial Image Analysis. Lecture Notes in Computer Science. Lecture Notes in Computer Science, ISSN 0302-9743, Vol. 8466. Brno: Springer Verlag, 2014. no. 8466, p. 123-133. ISBN: 978-3-319-07147-3. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KUCERA, J. On Determinism in State-Synchronized Automata Systems. Proceedings of the 20th Conference STUDENT EEICT 2014. Volume 3. Brno: Brno University of Technology, 2014. p. 259-263. ISBN: 978-80-214-4924-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MEDUNA, A. Formal Languages and Computation. Taylor and Francis. Taylor and Francis. New York: Taylor & Francis Informa plc, 2014. 315 p. ISBN: 978-1-4665-1345-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MEDUNA, A.; SOUKUP, O. Computational Completeness Resulting from Scattered Context Grammars Working Under Various Derivation Modes. Proceedings of MEMICS'14. Brno: NOVPRESS s.r.o., 2014. p. 89-100. ISBN: 978-80-214-5022-6. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MEDUNA, A.; VRABEL, L.; ZEMEK, P. Solutions To Four Open Problems Concerning Controlled Pure Grammar Systems. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2014, vol. 91, no. 6, p. 1156-1169. ISSN: 0020-7160. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MEDUNA, A.; ZEMEK, P. Regulated Grammars and Automata. New York: Springer US, 2014. 694 p. ISBN: 978-1-4939-0368-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MEDUNA, A.; ZEMEK, P. Controlled Finite Automata. ACTA INFORMATICA, 2014, vol. 51, no. 5, p. 327-337. ISSN: 0001-5903. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MEDUNA, A.; ZEMEK, P. One-Sided Random Context Grammars with a Limited Number of Right Random Context Rules. Theoretical Computer Science, 2014, vol. 516, no. 1, p. 127-132. ISSN: 0304-3975. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MEDUNA, A.; ZEMEK, P. One-Sided Random Context Grammars: A Survey. In Computing with New Resources. Berlin: Springer Verlag, 2014. p. 338-351. ISBN: 978-3-319-13349-2. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "SOLAR, P. Deep Pushdown Transducers and State Translation Schemes. Proceedings of the 20th Conference STUDENT EEICT 2014 Volume 3. Brno: Brno University of Technology, 2014. p. 264-268. ISBN: 978-80-214-4924-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ZEMEK, P. One-Sided Random Context Grammars. Brno: 2014. 127 p. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HORACEK, P. Application Perspectives of Synchronous Matrix Grammars. Proceedings of the 19th Conference STUDENT EEICT 2013 Volume 3. Brno: Brno University of Technology, 2013. p. 202-206. ISBN: 978-80-214-4695-3. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KUCERA, J. A Combination of Automata and Grammars. Brno: Faculty of Information Technology BUT, 2013. 52 p. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KUCERA, J. On State-Synchronized Automata Systems. Proceedings of the 19th Conference STUDENT EEICT 2013 Volume 2. Brno: Brno University of Technology, 2013. p. 216-218. ISBN: 978-80-214-4694-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MEDUNA, A.; ZEMEK, P. Generalized One-Sided Forbidding Grammars. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2013, vol. 90, no. 2, p. 172-182. ISSN: 0020-7160. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MEDUNA, A.; ZEMEK, P. Left Random Context ET0L Grammars. FUNDAMENTA INFORMATICAE, 2013, vol. 123, no. 3, p. 289-304. ISSN: 0169-2968. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MEDUNA, A.; ZEMEK, P. On the Generation of Sentences with Their Parses by Propagating Regular-Controlled Grammars. Theoretical Computer Science, 2013, vol. 477, no. 1, p. 67-75. ISSN: 0304-3975. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SOLAR, P. Deep Pushdown Transducers and Parallel Deep Pushdown Transducers. Proceedings of the 19th Conference STUDENT EEICT 2013 Volume 3. Brno: Brno University of Technology, 2013. p. 207-211. ISBN: 978-80-214-4695-3. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ZEMEK, P. One-Sided Random Context Grammars: Established Results and Open Problems. Proceedings of the 19th Conference STUDENT EEICT 2013 Volume 3. Brno: Brno University of Technology, 2013. p. 222-226. ISBN: 978-80-214-4695-3. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "CERMAK, M. Formal Systems Based on Automata and Grammars. Brno: 2012. 95 p. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "CERMAK, M. Restrictions on Derivations in n-Generating Grammar Systems. Proceedings of the 18th Conference and Competition STUDENT EEICT 2012 Volume 5. Brno: Faculty of Information Technology BUT, 2012. p. 371-375. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "HORACEK, P. On Generative Power of Synchronous Grammars with Linked Rules. Proceedings of the 18th Conference STUDENT EEICT 2012 Volume 3. Brno: Brno University of Technology, 2012. p. 376-380. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "HORACEK, P.; MEDUNA, A. Synchronous Versions of Regulated Grammars: Generative Power and Linguistic Applications. Theoretical and Applied Informatics, 2012, vol. 24, no. 3, p. 175-190. ISSN: 1896-5334. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "JIRAK, O. Memory Consumption of Classical and Lazy Scattered Context Grammar Parser. Proceedings of the 18th Conference STUDENT EEICT 2012 Volume 3. Brno: Brno University of Technology, 2012. p. 381-385. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KOUTNY, J. Grammars with Restricted Derivation Trees. Brno: 2012. 91 p. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KOUTNY, J. On Path-Controlled Grammars and Pseudoknots. Proceedings of the 18th Conference STUDENT EEICT 2012 Volume 3. Brno: Brno University of Technology, 2012. p. 391-395. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KOUTNY, J.; MEDUNA, A. Tree-Controlled Grammars with Restrictions Placed upon Cuts and Paths. KYBERNETIKA, 2012, vol. 48, no. 1, p. 165-175. ISSN: 0023-5954. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MEDUNA, A.; CERMAK, M.; HORACEK, P. Rule-Restricted Automaton-Grammar Transducers: Power and Linguistic Applications. 8th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: 2012. 1 p. ISBN: 978-80-87342-15-2. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MEDUNA, A.; CERMAK, M.; HORACEK, P. Rule-restricted automaton-grammar transducers: Power and linguistic applications. Mathematics for applications, 2012, vol. 1, no. 1, p. 13-35. ISSN: 1805-3610. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MEDUNA, A.; VRABEL, L.; ZEMEK, P. An Infinite Hierarchy of Language Families Resulting from Stateless Pushdown Automata with Limited Pushdown Alphabets. DCFS'12: 14th International Workshop on Descriptional Complexity of Formal Systems. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Braga: Springer Verlag, 2012. p. 236-243. ISBN: 978-3-642-31622-7. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MEDUNA, A.; ZEMEK, P. Controlled Pure Grammar Systems. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2012, vol. 18, no. 14, p. 2024-2040. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MEDUNA, A.; ZEMEK, P. Jumping Finite Automata. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2012, vol. 23, no. 7, p. 1555-1578. ISSN: 0129-0541. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MEDUNA, A.; ZEMEK, P. Nonterminal Complexity of One-Sided Random Context Grammars. ACTA INFORMATICA, 2012, vol. 49, no. 2, p. 55-68. ISSN: 0001-5903. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MEDUNA, A.; ZEMEK, P. One-Sided Forbidding Grammars and Selective Substitution Grammars. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2012, vol. 89, no. 5, p. 586-596. ISSN: 0020-7160. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MEDUNA, A.; ZEMEK, P. One-Sided Random Context Grammars with Leftmost Derivations. In LNCS Festschrift Series: Languages Alive - Essays Dedicated to Jurgen Dassow on the Occasion of His 65th Birthday. Berlin-Heidelberg: Springer Verlag, 2012. p. 160-173. ISBN: 978-3-642-31643-2. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SOLAR, P. Parallel deep pushdown automata. Proceedings of the 18th Conference STUDENT EEICT 2012. vol. 3. Brno: Brno University of Technology, 2012. p. 410-414. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VRABEL, L. A New Normal Form for Programmed Grammars with Appearance Checking. Proceedings of the 18th Conference STUDENT EEICT 2012 Volume 3. Brno: Brno University of Technology, 2012. p. 420-425. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZEMEK, P. Normal Forms of One-Sided Random Context Grammars. Proceedings of the 18th Conference STUDENT EEICT 2012 Volume 3. Brno: Brno University of Technology, 2012. p. 430-434. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "CERMAK, M. Basic Properties of n-Languages. Proceedings of the 17th Conference and Competition STUDENT EEICT 2011 Volume 3. Brno: Faculty of Information Technology BUT, 2011. p. 460-464. ISBN: 978-80-214-4273-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "CERMAK, M.; KOUTNY, J.; MEDUNA, A. Parsing Based on n-Path Tree-Controlled Grammars. Theoretical and Applied Informatics, 2011, vol. 23, no. 3, p. 213-228. ISSN: 1896-5334. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "CERMAK, M.; MEDUNA, A. n-Accepting Restricted Pushdown Automata Systems. 13th International Conference on Automata and Formal Languages. Nyiregyhaza: Computer and Automation Research Institute, Hungarian Academy of Sciences, 2011. p. 168-183. ISBN: 978-615-5097-19-5. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "CERMAK, M.; MEDUNA, A. n-Accepting Restricted Pushdown Automata Systems. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2011. 1 p. ISBN: 978-80-214-4305-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Design of a Retargetable Decompiler for a Static Platform-Independent Malware Analysis. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2011. p. 114-114. ISBN: 978-80-214-4305-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Design of a Retargetable Decompiler for a Static Platform-Independent Malware Analysis. The 5th International Conference on Information Security and Assurance. Communications in Computer and Information Science, Volume 200. Brno: Springer Verlag, 2011. p. 72-86. ISBN: 978-3-642-23140-7. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "HORACEK, P. Parse Driven Translation. Proceedings of the 17th Conference and Competition STUDENT EEICT 2011 Volume 3. Brno: Faculty of Information Technology BUT, 2011. p. 480-484. ISBN: 978-80-214-4273-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "HORACEK, P.; MEDUNA, A. Regulated Rewriting in Natural Language Translation. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Brno University of Technology, 2011. p. 35-42. ISBN: 978-80-214-4305-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "JIRAK, O. Grammar-Based Malicious Code Detection Concept. Proceedings of the 17th Conference and Competition STUDENT EEICT 2011 Volume 3. Brno: Faculty of Information Technology BUT, 2011. p. 485-489. ISBN: 978-80-214-4273-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "JIRAK, O.; KOLAR, D. Comparison of Classical and Lazy Approach in SCG Compiler. NUMERICAL ANALYSIS AND APPLIED MATHEMATICS ICNAAM 2011: International Conference on Numerical Analysis and Applied Mathematics. AIP conference proceedings. Halkidiki: American Institute of Physics, 2011. no. 1, p. 873-876. ISBN: 978-0-7354-0956-9. ISSN: 1551-7616. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KOUTNY, J. Syntax Analysis of Tree-Controlled Languages. Proceedings of the 17th Conference STUDENT EEICT 2011 Volume 3. Brno: Brno University of Technology, 2011. p. 490-494. ISBN: 978-80-214-4273-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KOUTNY, J.; KRIVKA, Z.; MEDUNA, A. Pumping Properties of Path-Restricted Tree-Controlled Languages. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Brno University of Technology, 2011. p. 61-69. ISBN: 978-80-214-4305-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KRIVKA, Z.; MASOPUST, T. Cooperating Distributed Grammar Systems with Random Context Grammars as Components. Acta Cybernetica, 2011, vol. 20, no. 2, p. 269-283. ISSN: 0324-721X. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KROUSTEK, J.; ZIDEK, S.; KOLAR, D.; MEDUNA, A. Scattered Context Grammars with Priority. International Journal of Advanced Research in Computer Science, 2011, vol. 2, no. 4, p. 1-6. ISSN: 0976-5697. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MEDUNA, A.; CERMAK, M.; MASOPUST, T. Some Power-Decreasing Derivation Restrictions in Grammar Systems. Schedae Informaticae, 2011, vol. 2010, no. 19, p. 23-34. ISSN: 0860-0295. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MEDUNA, A.; VRABEL, L.; ZEMEK, P. On Nondeterminism in Programmed Grammars. 13th International Conference on Automata and Formal Languages. Debrecen: Computer and Automation Research Institute, Hungarian Academy of Sciences, 2011. p. 316-328. ISBN: 978-615-5097-19-5. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MEDUNA, A.; ZEMEK, P. One-Sided Random Context Grammars. ACTA INFORMATICA, 2011, vol. 48, no. 3, p. 149-163. ISSN: 0001-5903. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MEDUNA, A.; ZEMEK, P. Workspace Theorems for Regular-Controlled Grammars. Theoretical Computer Science, 2011, vol. 412, no. 35, p. 4604-4612. ISSN: 0304-3975. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PRIKRYL, Z.; KROUSTEK, J.; HRUSKA, T.; KOLAR, D.; MASARIK, K.; HUSAR, A. Design and Simulation of High Performance Parallel Architectures Using the ISAC Language. GSTF International Journal on Computing, 2011, vol. 1, no. 2, p. 97-106. ISSN: 2010-2283. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VRABEL, L. A New Normal Form for Programmed Grammars. Proceedings of the 17th Conference STUDENT EEICT 2011 Volume 3. Brno: Faculty of Information Technology BUT, 2011. p. 500-504. ISBN: 978-80-214-4273-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ZEMEK, P. On the Nonterminal Complexity of Left Random Context E0L Grammars. Proceedings of the 17th Conference STUDENT EEICT 2011 Volume 3. Brno: Faculty of Information Technology BUT, 2011. p. 510-514. ISBN: 978-80-214-4273-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ZEMEK, P.; MEDUNA, A.; VRABEL, L. LL Leftmost k-Linear Scattered Context Grammars. AIP Conference Proceedings. AIP conference proceedings. Kassandra, Halkidiki: American Institute of Physics, 2011. no. 1, p. 833-836. ISBN: 978-0-7354-0956-9. ISSN: 1551-7616. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ZIDEK, S. Scattered Context Grammars Generating Derivation Trees. Proceedings of the 17th Conference and Competition STUDENT EEICT 2011 Volume 3. Brno: Faculty of Information Technology BUT, 2011. p. 515-519. ISBN: 978-80-214-4273-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ZIDEK, S.; MEDUNA, A. Scattered Context Grammars Generating Sentences Followed by Derivation Trees. Theoretical and Applied Informatics, 2011, vol. 23, no. 2, p. 97-106. ISSN: 1896-5334. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "CERMAK, M. Multilanguages and Multiaccepting Automata System. Proceedings of the 16th Conference and Competition STUDENT EEICT 2010 Volume 5. Brno: Faculty of Information Technology BUT, 2010. p. 146-150. ISBN: 978-80-214-4080-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "GOLDEFUS, F. On Relations on Productions for Cooperative Distributed Grammar Systems. Proceedings of the 16th Conference Student EEICT 2010. Volume 5. Brno: Brno University of Technology, 2010. p. 156-160. ISBN: 978-80-214-4080-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "HORACEK, P. Formal Models in Processing of Japanese Language. Proceedings of the 16th Conference and Competition STUDENT EEICT 2010 Volume 5. Brno: Faculty of Information Technology BUT, 2010. p. 161-165. ISBN: 978-80-214-4080-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "JIRAK, O. Table-Driven Parsing of Scattered Context Grammar. Proceedings of the 16th Conference Student EEICT 2010 Volume 5. Brno: Faculty of Information Technology BUT, 2010. p. 171-175. ISBN: 978-80-214-4080-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "JIRAK, O.; KRIVKA, Z. Hardware Design Tool based on Eclipse Modeling Framework. Proceedings of the 44th Spring International Conference Modeling and Simulation Systems. Ostrava: Marq software s.r.o., 2010. p. 138-144. ISBN: 978-80-86840-51-2. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KOLAR, D.; KVETONOVA, S. Comparison of Formal Models for Processes with Scattered Inter-Dependencies. Proceedings of The European Simulation and Modelling Conference - ESM'2010. Ghent: EUROSIS, 2010. p. 23-26. ISBN: 978-90-77381-57-1. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KOUTNY, J. On n-Path-Controlled Grammars. Proceedings of the 16th Conference STUDENT EEICT 2010 Volume 5. Brno: Brno University of Technology, 2010. p. 176-180. ISBN: 978-80-214-4080-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KROUSTEK, J.; ZIDEK, S. Generating Proper VLIW Assembler Code Using Scattered Context Grammars. Proceedings of the 16th Conference Student EEICT 2010 Volume 5. Brno: Faculty of Information Technology BUT, 2010. p. 181-185. ISBN: 978-80-214-4080-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KROUSTEK, J.; ZIDEK, S.; KOLAR, D.; MEDUNA, A. Exploitation of Scattered Context Grammars to Model VLIW Instruction Constraints. In Proceedings of the 12th Biennial Baltic Electronics Conference. Tallinn: Institute of Electrical and Electronics Engineers, 2010. p. 165-168. ISBN: 978-1-4244-7357-1. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "LUKAS, R.; MEDUNA, A. Multigenerative Grammar Systems and Matrix Grammars. KYBERNETIKA, 2010, vol. 46, no. 1, p. 68-82. ISSN: 0023-5954. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "MASOPUST, T.; GOLDEFUS, F.; MEDUNA, A. Left-Forbidding Cooperating Distributed Grammar Systems. Theoretical Computer Science, 2010, vol. 411, no. 40, p. 3661-3667. ISSN: 0304-3975. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "MEDUNA, A.; TECHET, J. Scattered Context Grammars and their Applications. WIT Press, UK. WIT Press, UK. WIT Press, UK: WIT Press, 2010. 224 p. ISBN: 978-1-84564-426-0. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "MEDUNA, A.; ZEMEK, P. Regulated Grammars and Their Transformations. Brno: Brno University of Technology, 2010. 239 p. ISBN: 978-80-214-4203-0. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "PRIKRYL, Z.; KROUSTEK, J.; HRUSKA, T.; KOLAR, D.; MASARIK, K.; HUSAR, A. Design and Debugging of Parallel Architectures Using the ISAC Language. Proceedings ot the Annual International Conference on Advanced Distributed and Parallel Computing and Real-Time and Embedded Systems. Singapore: Global Science & Technology Forum, 2010. p. 213-221. ISBN: 978-981-08-7656-2. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ZEMEK, P. k-Limited Erasing Performed by Regular-Controlled Context-Free Grammars. Proceedings of the 16th Conference and Competition STUDENT EEICT 2010. Volume 3. Brno: Faculty of Information Technology BUT, 2010. p. 42-44. ISBN: 978-80-214-4078-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ZEMEK, P. On Erasing Rules in Regulated Grammars. Brno: Faculty of Information Technology BUT, 2010. 71 p. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "CERMAK, M. Power Decreasing Derivation Restriction in Grammar Systems. Proceedings of the 15th Conference and Competition STUDENT EEICT 2009 Volume 4. Brno: Faculty of Information Technology BUT, 2009. p. 385-389. ISBN: 978-80-214-3870-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "CSUHAJ-VARJU, E.; MASOPUST, T.; VASZIL, G. Cooperating Distributed Grammar Systems with Permitting Grammars as Components. Romanian Journal of Information Science and Technology, 2009, vol. 12, no. 2, p. 175-189. ISSN: 1453-8245. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "GOLDEFUS, F. Cooperating Distributed Grammar Systems and Graph Controlled Grammar Systems with Infinite Number of Components. Proceedings of the 15th Conference and Competition STUDENT EEICT 2009 Volume 4. 4. Brno: Department of Information Systems FIT BUT, 2009. p. 400-4004. ISBN: 978-80-214-3870-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "JIRAK, O. Delayed Execution of Scattered Context Grammar Rules. Proceedings of the 15th Conference and Competition STUDENT EEICT 2009 Volume 4. Brno: Faculty of Information Technology BUT, 2009. p. 405-409. ISBN: 978-80-214-3870-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "JIRAK, O.; KOLAR, D. Derivation in Scattered Context Grammar via Lazy Function Evaluation. 5th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2009. p. 118-125. ISBN: 978-80-87342-04-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "JIRAK, O.; KOLAR, D. Derivation in Scattered Context Grammar via Lazy Function Evaluation. Annual Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS'09). OpenAccess Series in Informatics (OASIcs). Wadern: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2009. no. 13, p. 1-10. ISBN: 978-3-939897-15-6. ISSN: 2190-6807. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KOLAR, D. Exploitation of Scattered Context Grammars to Model Constraints between Components. Proceedings of 31st Autumn International Colloqium ASIS 2009, Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2009. p. 13-18. ISBN: 978-80-86840-47-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KOUTNY, J. Regular Paths in Derivation Trees of Context-free Grammars. Proceedings of the 15th Conference STUDENT EEICT 2009 Volume 4. Brno: Brno University of Technology, 2009. p. 410-414. ISBN: 978-80-214-3870-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KRIVKA, Z.; JIRAK, O. Simulation-based Debugging of 8-bit Softcore Processor. Proceedings of XXXIth International Autumn Colloquium Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2009. p. 68-73. ISBN: 978-80-86840-47-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KRIVKA, Z.; MASOPUST, T. A Note on the Cooperation in Rewriting Systems with Context-Dependency Checking. 11th Italian Conference on Theoretical Computer Science. Cremona: 2009. p. 129-135. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KVETONOVA, S.; KOLAR, D. Optimization of Car Repair Processes by Scattered Context Grammars Application. The 2009 European Simulation and Modelling Conference. Ghent: EUROSIS, 2009. p. 146-149. ISBN: 978-90-77381-52-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MASOPUST, T. Regulated Nondeterminism in PDAs: The Non-Regular Case. Proceedings of Workshop on Non-Classical Models of Automata and Applications (NCMA). books@ocg.at Band 256. Wroclaw: Austrian Computer Society, 2009. p. 181-194. ISBN: 978-3-85403-256-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MASOPUST, T. A Note on the Generative Power of Some Simple Variants of Context-Free Grammars Regulated by Context Conditions. In LATA 2009 proceedings. Lecture Notes in Computer Science. Lecture notes in computer science. Springer-Verlag Berlin Heidelberg: Springer Verlag, 2009. no. 5457, p. 554-565. ISBN: 978-3-642-00981-5. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MASOPUST, T. On the Descriptional Complexity of Scattered Context Grammars. Theoretical Computer Science, 2009, vol. 410, no. 1, p. 108-112. ISSN: 0304-3975. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MASOPUST, T. On the Terminating Derivation Mode in Cooperating Distributed Grammar Systems with Forbidding Components. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2009, vol. 20, no. 2, p. 331-340. ISSN: 0129-0541. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MASOPUST, T.; MEDUNA, A. Descriptional Complexity of Three-Nonterminal Scattered Context Grammars: An Improvement. Proceedings of 11th International Workshop on Descriptional Complexity of Formal Systems. Magdeburg: Otto-von-Guericke-University of Magdeburg, 2009. p. 235-245. ISBN: 978-3-940961-31-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MASOPUST, T.; MEDUNA, A. On context-free rewriting with a simple restriction and its computational completeness. RAIRO-THEORETICAL INFORMATICS AND APPLICATIONS, 2009, vol. 43, no. 2, p. 365-378. ISSN: 0988-3754. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MASOPUST, T.; MEDUNA, A. On Pure Multi-Pushdown Automata that Perform Complete Pushdown Pops. Acta Cybernetica, 2009, vol. 19, no. 2, p. 537-552. ISSN: 0324-721X. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MEDUNA, A.; TECHET, J. An Infinite Hierarchy of Language Families Generated by Scattered Context Grammars with n-Limited Derivations. Theoretical Computer Science, 2009, vol. 410, no. 21, p. 1961-1969. ISSN: 0304-3975. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "RYCHNOVSKY, L. Regulated Pushdown Automata Revisited. Proceedings of the 15th Conference STUDENT EEICT 2009. Brno: Faculty of Information Technology BUT, 2009. p. 440-444. ISBN: 978-80-214-3870-5. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "CERMAK, M. Systems of Formal Models and Their Application. Proceedings of the 14th Conference Student EEICT 2008. Volume 2. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2008. s. 164-166. ISBN: 978-80-214-3615-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "JIRAK, O.; KOLAR, D. Control Flow Graph Retrieval and Analysis via Simulation. MOSIS '08. Ostrava: Marq software s.r.o., 2008. p. 67-74. ISBN: 978-80-86840-40-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KOLAR, D. Scattered Context Grammars Parsers. Proceedings of the 14th International Congress of Cybernetics and Systems of WOCS. Wroclaw: Wroclaw University of Technology, 2008. p. 491-500. ISBN: 978-83-7493-400-8. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KOLAR, D.; KVETONOVA, S. Project Plan Formalization and Modeling via Timed CPN. Proceedings of the 6th Industrial Simulation Conference - ISC 08. Ostend: EUROSIS, 2008. p. 34-39. ISBN: 978-90-77381-40-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KOLAR, D.; KVETONOVA, S. Seamless Simplification of Timed-CPN in Project Plan Formalization. 3rd IFIP Central and Eastern European Conference on Software Engineering Techniques CEE-SET 2008. Wroclaw: Wroclaw University of Technology, 2008. p. 29-39. ISBN: 978-83-7493-421-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KOLAR, D.; KVETONOVA, S. Timed Coloured Petri Nets Use in Project Management Formalization Domain. Proceedings of 23th European Simulation and Modelling Conference ESM'2008. France: EUROSIS, 2008. p. 473-478. ISBN: 978-90-77381-44-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KOPECEK, T.; MEDUNA, A. Conditional Grammars and Their Reduction. Brno: Faculty of Information Technology BUT, 2008. 138 p. ISBN: 978-80-214-3750-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KOUTNY, J. L-systemy a jejich aplikace. Proceedings of the 14th Conference STUDENT EEICT 2008. Volume 2. Brno: Vysoke uceni technicke v Brne, 2008. s. 170-172. ISBN: 978-80-214-3615-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KRIVKA, Z. Rewriting Systems with Restricted Configurations. Brno: Faculty of Information Technology BUT, 2008. 131 p. ISBN: 978-80-214-3722-7. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MASOPUST, T. Descriptional Complexity of Multi-Parallel Grammars. INFORMATION PROCESSING LETTERS, 2008, vol. 108, no. 2, p. 68-70. ISSN: 0020-0190. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MASOPUST, T.; MEDUNA, A. On Pure Multi-Pushdown Automata that Perform Complete-Pushdown Pops. Automata and Formal Languages. The 12th International Conference, AFL 2008, Balatonfured, Hungary, May 27-30, 2008, Proceedings. Balatonfured: Computer and Automation Research Institute, Hungarian Academy of Sciences, 2008. p. 325-336. ISBN: 978-963-311-367-7. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MASOPUST, T.; MEDUNA, A. On Descriptional Complexity of Partially Parallel Grammars. FUNDAMENTA INFORMATICAE, 2008, vol. 87, no. 3, p. 407-415. ISSN: 0169-2968. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MASOPUST, T.; MEDUNA, A.; SIMACEK, J. Two Power-Decreasing Derivation Restrictions in Generalized Scattered Context Grammars. Acta Cybernetica, 2008, vol. 18, no. 4, p. 783-793. ISSN: 0324-721X. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MASOPUST, T.; TECHET, J. Leftmost Derivations of Propagating Scattered Context Grammars: A New Proof. DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE, 2008, vol. 10, no. 2, p. 39-46. ISSN: 1365-8050. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MEDUNA, A. Elements of Compiler Design. Taylor and Francis. Taylor and Francis. New York: Taylor & Francis Informa plc, 2008. 304 p. ISBN: 978-1-4200-6323-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MEDUNA, A.; TECHET, J. Scattered Context Grammars that Erase Nonterminals in a Generalized k-Limited Way. ACTA INFORMATICA, 2008, vol. 45, no. 7, p. 593-608. ISSN: 0001-5903. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "RYCHNOVSKY, L. Start String in Formal Language Theory. Proceedings of the 14th Conference STUDENT EEICT 2008. Brno: Faculty of Information Technology BUT, 2008. p. 422-426. ISBN: 978-80-214-3617-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "TECHET, J. Scattered Context in Formal Languages. Brno: Faculty of Information Technology BUT, 2008. 123 p. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "ZEMEK, P. An Infinite Hierarchy of Language Families Resulting from n-limited Programmed Grammars. Proceedings of the 14th Conference STUDENT EEICT 2008. Volume 1. Brno: Faculty of Electrical Engineering and Communication BUT, 2008. p. 164-166. ISBN: 978-80-214-3614-5. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "JIRAK, O. Control Flow Graph. Proceedings of the 13th Conference STUDENT EEICT 2005 Volume 2. Brno: 2007. s. 204-206. ISBN: 978-80-214-3408-0. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KRIVKA, Z. Deterministic #-Rewriting Systems. Proceedings of the 13th Conference STUDENT EEICT 2007, Volume 4. Brno: Faculty of Electrical Engineering and Communication BUT, 2007. p. 386-390. ISBN: 978-80214-3410-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KRIVKA, Z. Prepisujici systemy s omezenymi konfiguracemi. Brno: 2007. 98 s. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KRIVKA, Z.; MEDUNA, A. Generalized #-Rewriting Systems of Finite Index. Information Systems and Formal Models (Proceedings of 2nd International Workshop on Formal Models (WFM'07)). Opava: Silesian University, 2007. p. 197-204. ISBN: 978-807248-006-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KRIVKA, Z.; MEDUNA, A.; SMRCEK, J. n-Right-Linear #-Rewriting Systems. Third Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2007). Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 105-112. ISBN: 978-80-7355-077-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "LORENC, L.; KRIVKA, Z.; SCHONECKER, R. A Note on the Parsing of Complete VHDL-2002. Information Systems and Formal Models (Proceedings of 2nd International Workshop on Formal Models (WFM'07)). Opava: Silesian University, 2007. p. 245-248. ISBN: 978-807248-006-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "LUKAS, R.; MEDUNA, A. General Multigenerative Grammar Systems. Information Systems and Formal Models ISIM, WFM '07. Hradec nad Moravici: Silesian University, 2007. p. 205-212. ISBN: 978-80-7248006-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MASOPUST, T. A Note on the Descriptional Complexity of Semi-Conditional Grammars. Information Systems and Formal Models ISIM, WFM '07. Hradec nad Moravici: Silesian University, 2007. p. 213-218. ISBN: 978-80-7248-0067. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MASOPUST, T. Formal Models: Regulation and Reduction. Brno: Faculty of Information Technology BUT, 2007. 103 p. ISBN: 978-80-214-3550-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MASOPUST, T. Generalized Forbidding Grammars with Linear Productions. Third Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2007). Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 121-126. ISBN: 978-80-7355-077-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MASOPUST, T. Regulated Formal Models and Their Reduction. Brno: 2007. 71 p. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MASOPUST, T. Scattered Context Grammars Can Generate the Powers of 2. Proceedings of the 13th Conference STUDENT EEICT 2007, Volume 4. Brno: Faculty of Electrical Engineering and Communication BUT, 2007. p. 401-404. ISBN: 978-80214-3410-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MASOPUST, T.; MEDUNA, A. Descriptional Complexity of Generalized Forbidding Grammars. Proceedings of 9th International Workshop on Descriptional Complexity of Formal Systems. High Tatras, Slovakia: University of Pavol Jozef Safarik, 2007. p. 170-177. ISBN: 978-80-7097-688-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MASOPUST, T.; MEDUNA, A. Descriptional Complexity of Grammars Regulated by Context Conditions. LATA 2007 Pre-proceedings. Reports of the Research Group on Mathematical Linguistics 35/07, Universitat Rovira i Virgili. Tarragona, Spain: 2007. p. 403-411. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MASOPUST, T.; MEDUNA, A. Descriptional Complexity of Semi-Conditional Grammars. INFORMATION PROCESSING LETTERS, 2007, vol. 104, no. 1, p. 29-31. ISSN: 0020-0190. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MEDUNA, A.; KOPECEK, T.; SVEC, M. Equivalent language models that closely simulate one another and their illustration in terms of L systems. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2007, vol. 2007, no. 84, p. 1555-1566. ISSN: 0020-7160. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MEDUNA, A.; LUKAS, R.; FIALA, J. Homogeneous Multicontinuous Grammars and Their Reduction. MEMICS 2007 Proceedings. Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 90-96. ISBN: 978-80-7355-077-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MEDUNA, A.; MASOPUST, T. Self-Regulating Finite Automata. Acta Cybernetica, 2007, vol. 18, no. 1, p. 135-153. ISSN: 0324-721X. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MEDUNA, A.; TECHET, J. Maximal and Minimal Scattered Context Rewriting. FCT 2007 Proceedings. Lecture Notes in Computer Science. Budapest: Springer Verlag, 2007. no. 4639, p. 412-423. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MEDUNA, A.; TECHET, J. Reduction of Scattered Context Generators of Sentences Preceded by Their Leftmost Parses. Proceedings of 9th International Workshop on Descriptional Complexity of Formal Systems. High Tatras: University of Pavol Jozef Safarik, 2007. p. 178-185. ISBN: 978-80-7097-688-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MEDUNA, A.; TECHET, J. Canonical Scattered Context Generators of Sentences with Their Parses. Theoretical Computer Science, 2007, vol. 2007, no. 389, p. 73-81. ISSN: 0304-3975. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "RYCHNOVSKY, L. Parsing of Context-Sensitive Languages. Information Systems and Formal Models (Proceedings of 2nd International Workshop on Formal Models (WFM'07)). Opava: Silesian University, 2007. p. 219-226. ISBN: 978-80-7248-006-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "RYCHNOVSKY, L. Type Checking by Context-Sensitive Languages. Proceedings of the 13th Conference STUDENT EEICT 2007, Volume 4. Brno: Faculty of Electrical Engineering and Communication BUT, 2007. p. 405-409. ISBN: 978-80-214-3410-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "TECHET, J. A Note on Scattered Context Grammars with Non-Context-Free Components. MEMICS 2007 Proceedings. Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 225-232. ISBN: 978-80-7355-077-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "TECHET, J. k-Limited Erasing Performed by Scattered Context Grammars. Information Systems and Formal Models ISIM, WFM '07. Hradec nad Moravici: Silesian University, 2007. p. 227-234. ISBN: 978-80-7248006-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "TECHET, J. k-Limited Erasing Performed by Scattered Context Grammars. Proceedings of the 13th Conference STUDENT EEICT 2007, Volume 4. Brno: Faculty of Electrical Engineering and Communication BUT, 2007. p. 419-423. ISBN: 978-80214-3410-3. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "CERMAK, M. Syntax Analysis Based on Commpination of Several Methods. Proceedings of the 12th Conference STUDENT EEICT 2006. Volume 1. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2006. s. 200-202. ISBN: 80-214-3160-1. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KOLAR, D.; BLIZNAK, M. Formal-method-based Software Development Applied on Embedded Systems: Basic concepts. 17th International DAAAM Symposium 2006. Vienna: 2006. p. 45-46. ISBN: 3-901509-57-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KOLAR, D.; BLIZNAK, M. Formal-method-based Software Development Applied on Embedded Systems: Platform-independent Source Code. Conference Proceedings of MITIP. Budapest: 2006. p. 487-492. ISBN: 963-86586-5-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KRIVKA, Z.; LUKAS, R.; MEDUNA, A. Didakticke demonstrace modelu pro popis formalnich jazyku. Pedagogicky software 2006. Ceske Budejovice: Zemedelska fakulta, Jihoceska univerzita, 2006. s. 54-56. ISBN: 80-85645-56-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KRIVKA, Z.; MEDUNA, A. General Top-Down Parsers Based On Deep Pushdown Expansions. Proceedings of 1st International Workshop on Formal Models (WFM'06). Ostrava: Marq software s.r.o., 2006. p. 11-18. ISBN: 80-86840-20-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KRIVKA, Z.; MEDUNA, A.; SCHONECKER, R. Generation of Languages by Rewriting Systems that Resemble Automata. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2006, vol. 17, no. 5, p. 1223-1229. ISSN: 0129-0541. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KRIVKA, Z.; SCHONECKER, R. String-Partitioning Systems and An Infinite Hierarchy. Proceedings of 1st International Workshop on Formal Models (WFM'06). Ostrava: Marq software s.r.o., 2006. p. 53-60. ISBN: 80-86840-20-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "MASOPUST, T. An Improvement of the Descriptional Complexity of Grammars Regulated by Context Conditions. Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2006). Mikulov: Faculty of Information Technology BUT, 2006. p. 105-112. ISBN: 80-214-3287-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "MASOPUST, T. Closure Properties of Linear Languages under Operations of Linear Deletion. Proceedings of 1st International Workshop WFM'06. Prerov: Marq software s.r.o., 2006. p. 45-52. ISBN: 80-86840-20-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "MASOPUST, T. Closure Properties of Linear Languages under Operations of Linear Deletion. Proceedings of the 12th Conference and Competition STUDENT EEICT 2006 Volume 4. Brno: Faculty of Information Technology BUT, 2006. p. 390-394. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SCHONECKER, R.; KRIVKA, Z.; MEDUNA, A. Reducing Deep Pushdown Automata and Infinite Hierarchy. MEMICS 2006 Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Mikulov: Faculty of Information Technology BUT, 2006. p. 214-221. ISBN: 80-214-3287-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "TECHET, J. Bidirectional Contextual Grammars. Proceedings of 1st International Workshop WFM '06. Prerov: Marq software s.r.o., 2006. p. 61-68. ISBN: 80-86840-20-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "TECHET, J. Bidirectional Contextual Grammars. Proceedings of the 12th Conference and Competition STUDENT EEICT 2006 Volume 4. Brno: Faculty of Information Technology BUT, 2006. p. 405-409. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BIDLO, R. Context-Free Grammars over Free Groups. Proceedings of 8th International Conference ISIM'05 Information System Implementation and Modeling. Ostrava: Marq software s.r.o., 2005. p. 95-100. ISBN: 80-86840-09-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BIDLO, R.; BLATNY, P. How to Generate Recursively Enumerable Languages Using Only Context-free Productions and Eight Nonterminals. Proceedings of 11th Conference and Competition Student EEICT 2005, Volume 3. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 536-541. ISBN: 80-214-2890-2. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BIDLO, R.; BLATNY, P.; MEDUNA, A. Formal Models over Free Groups. PRE-PROCEEDINGS of the 1st Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Faculty of Informatics MU, 2005. p. 193-199. ISBN: 0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BLATNY, P. E0L Grammars on Free Groups. Proceedings of 8th International Conference ISIM'05 Information System Implementation and Modeling. Ostrava: Marq software s.r.o., 2005. p. 81-86. ISBN: 80-86840-09-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BURGER, T.; HRUSKA, T. Formalism for the Systems with Roles. papers from the AAAI Fall Symposium. Roles, an Interdisciplinary Perspective: Ontologies, Programming Languages, and Multiagent Systems. Menlo Park, California: American Association for Artificial Intelligence, 2005. p. 26-30. ISBN: 978-1-57735-254-9. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KOLAR, D. Pushdown Automata: Another Extensions and Transformations. Brno: Faculty of Information Technology BUT, 2005. 76 p. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KOLAR, D.; MEDUNA, A. Regulated Automata: From Theory towards Applications. Proceeding of 8th International Conference on Information Systems Implementation and Modelling ISIM'05. 1st edition. Ostrava: Marq software s.r.o., 2005. p. 33-48. ISBN: 80-86840-09-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KOPECEK, T.; MEDUNA, A.; SVEC, M. Simulation of Scattered Context Grammars and Phrase-Structured Grammars by Symbiotic E0L Grammars. In Proceeding of 8th International Conference on Information Systems Implementation and Modelling ISIM'05. Brno: 2005. p. 59-66. ISBN: 80-86840-09-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KRIVKA, Z. Recursive Erasing in Programmed Grammars. PRE-PROCEEDINGS of the 1st Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Znojmo: Faculty of Informatics MU, 2005. p. 139-144. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KRIVKA, Z.; MEDUNA, A. Random Context and Programmed Grammars of Finite Index Have The Same Generative Power. Proceedings of 8th International Conference ISIM'05 Information Systems Implementation and Modelling. 1st edition. Ostrava: Marq software s.r.o., 2005. p. 67-72. ISBN: 80-86840-09-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "LORENC, L. Self-Reproducing Pushdown Translation. Proceedings of the 11th Conference Student EEICT 2005. Volume 3. Brno: Publishing house of Brno University of Technology VUTIUM, 2005. p. 561-565. ISBN: 80-214-2890-2. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "LORENC, L.; MEDUNA, A. A Rigorous Approach to Self-Reproducing Pushdown Translation. Proceedings of 8th Spring International Conference ISIM'05 Information Systems Implementation and Modelling. 1st edition. Ostrava: Marq software s.r.o., 2005. p. 51-58. ISBN: 80-86840-09-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "LORENC, L.; MEDUNA, A. Self-Reproducing Pushdown Transducers. KYBERNETIKA, 2005, vol. 2005, no. 4, p. 533-539. ISSN: 0023-5954. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "LUKAS, R.; HRUSKA, T.; KOLAR, D.; MASARIK, K. Two-Way Deterministic Translation and Its Usage in Practice. Proceedings of 8th Spring International Conference - ISIM'05. Ostrava: Marq software s.r.o., 2005. p. 101-107. ISBN: 80-86840-09-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MEDUNA, A. Automata and Languages: Theory and Applications. London: Springer Verlag, 2005. 892 p. ISBN: 1-85233-074-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MEDUNA, A.; LUKAS, R. A Note on Iteratively Extendable Strings. Rostocker mathematisches kolloquium, 2005, vol. 2005, no. 59, p. 71-73. ISSN: 0138-3248. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MEDUNA, A.; SVEC, M. Grammars with Context Conditions and Their Applications [Wiley, 2004]. Wiley, New York: WILEY, 2005. 225 p. ISBN: 0-471-71831-9. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MEDUNA, A.; TECHET, J. Generation of Sentences with Their Parses: the Case of Propagating Scattered Context Grammars. Acta Cybernetica, 2005, vol. 17, no. 1, p. 11-20. ISSN: 0324-721X. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "TECHET, J. Canonical Scattered Context Generators of Sentences with Their Parses. HONEYWELL EMI 2005 Proceedings of the International Interdisciplinary Student Competition and Conference. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 80-84. ISBN: 80-214-2942-9. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "TECHET, J. Canonical Scattered Context Generators of Sentences with Their Parses. Proceedings of the 11th Conference and Competition STUDENT EEICT 2005 Volume 1. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 280-282. ISBN: 80-214-2888-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "TECHET, J. Scattered Context Generators of Sentences with Their Parses. PRE-PROCEEDINGS of the 1st Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Znojmo: Faculty of Informatics MU, 2005. p. 68-77. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "BLATNY, P. Syntakticka analyza zalozena na gramatikach s rozptylenym kontextem. Proceedings of 10th Conference and Competition Student EEICT 2004, Volume 1. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2004. s. 191-193. ISBN: 80-214-2634-9. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "BLATNY, P. Syntakticka analyza zalozena na gramatikach s rozptylenym kontextem. SVOC 2004 - Soutez vysokoskolaku ve vedecke odborne cinnosti v matematice. Brno: Fakulta strojniho inzenyrstvi VUT, 2004. s. 32-32. ISBN: 0. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "TECHET, J. Generation of Sentences with Their Parses by Scattered Context Grammars. Proceedings of the 10th Conference and Competition STUDENT EEICT 2004 Volume 1. Brno: Faculty of Electrical Engineering and Communication BUT, 2004. p. 227-229. ISBN: 80-214-2634-9. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "TECHET, J. Generation of Sentences with Their Parses by Scattered Context Grammars. Proceedings of the International Conference and Competition of Students' Scientific Works STUDENT EEICT 2004. Bratislava: Slovak University of Technology in Bratislava, 2004. p. 113-119. ISBN: 80-227-2057-7. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "BLATNY, P. Syntakticka analyza zalozena na 2-limitovych gramatikach s rozptylenym kontextem. Proceedings of 9th Conference and Competition Student EEICT 2003, Volume 1. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2003. s. 167-169. ISBN: 80-214-2377-3. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2024",
+            "title": "GenRex: Generator of Regular Expressions",
+            "authors": "GenRex: Generator of Regular Expressions , software, 2024 : KOLAR, D.; MILKOVIC, M.; REGECIOVA, D."
+        },
+        {
+            "year": "2023",
+            "title": "Extractor",
+            "authors": "Extractor , software, 2023 : REGECIOVA, D.; KOLAR, D.; PLUSKAL, J."
+        },
+        {
+            "year": "2022",
+            "title": "Membership solver for Watson-Crick Context-free Grammars",
+            "authors": "Membership solver for Watson-Crick Context-free Grammars , software, 2022 : HAMMER, J.; KRIVKA, Z."
+        },
+        {
+            "year": "2015",
+            "title": "LLk Parsing Table Generator",
+            "authors": "LLk Parsing Table Generator , software, 2015 : KOCMAN, R.; KOLAR, D."
+        },
+        {
+            "year": "2013",
+            "title": "PicoBlaze Simulator",
+            "authors": "PicoBlaze Simulator , software, 2013 : SIMEK, J.; KRIVKA, Z."
+        },
+        {
+            "year": "2011",
+            "title": "Integrovane vyvojove prostredi VLAM",
+            "authors": "Integrovane vyvojove prostredi VLAM , software, 2011 : KRIVKA, Z.; JIRAK, O.; VASICEK, Z.; OLSAROVA, N."
+        },
+        {
+            "year": "2009",
+            "title": "PicoBlaze C Compiler",
+            "authors": "PicoBlaze C Compiler , software, 2009 : KRIVKA, Z."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2020",
+            "title": "Architektura systemu, ViAn Server, Snimaci uzel a ViAn GUI",
+            "authors": "Architektura systemu, ViAn Server, Snimaci uzel a ViAn GUI , report, 2020 : BARTIK, V.; KOCMAN, R.; VOLF, T.; ZENDULKA, J."
+        },
+        {
+            "year": "2013",
+            "title": "On Stateless Pushdown Automata And Limited Pushdown Alphabets",
+            "authors": "On Stateless Pushdown Automata And Limited Pushdown Alphabets , other unclassified results, 2013 : VRABEL, L."
+        },
+        {
+            "year": "2008",
+            "title": "Canonical Derivations in Programmed Grammars",
+            "authors": "Canonical Derivations in Programmed Grammars , report, 2008 : ZEMEK, P."
+        }
+    ]
+}

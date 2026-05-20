@@ -1,0 +1,544 @@
+{
+    "group": "Robotic research group Robo@FIT (ROBO)",
+    "about": {
+        "robotic_research_group_robo@fit": [
+            "Robotic research group at FIT focuses on the development of advanced methods of autonomous intelligent systems and mobile platforms, processing and fusion of sensory data, creating dynamic 3D models of the environment, intelligent decisions and mission planning, knowledge management, multi-agent systems and advanced human-robot interaction systems."
+        ],
+        "research_interests": [
+            "Sensory data processing and fusion",
+            "Object detection and classification",
+            "Localization and mapping",
+            "3D environment modelling",
+            "Simulations and Visualizations",
+            "Advanced and assistive user interfaces",
+            "Augmented reality, Virtual reality",
+            "Collaborative robotics"
+        ],
+        "current_research_topics": [
+            "Robotic research group at FIT focuses is currently engaged in research into human-robot interaction, especially in shared-space collaborative environments in the programming, parametrization, or revision of production procedures using augmented reality."
+        ],
+        "significant_results": [
+            "ARCOR2 - framework for simplified robot programming",
+            "Spatial Augmented Reality User Interface for Collaborative Robot",
+            "Teleoperating Assistive Robots: A Novel User Interface for Remote Manipulation and Navigation Relying on Semi-Autonomy and Global 3D Environment Mapping",
+            "Collaborative robot 2.0: cognition of the work environment, augmented reality-based user interface, simple deployment and reconfiguration"
+        ],
+        "cooperation": [
+            "In the area of safe human-robot interaction, we offer collaboration to solve the tasks of programming and inspection of collaborative robot procedures in Industry 4.0 with the use of mobile devices and augmented reality. An example is the recent collaboration with ABB (see avideo)."
+        ],
+        "more_information": [
+            "On October 29, 2014, Robo@FIT group organized ROS workshop 2015 - annual seminar of practical experiences with ROS platform.",
+            "On October 29, 2014, Robo@FIT group organized ROS workshop 2014 - annual seminar of practical experiences with ROS platform.",
+            "On May 22, 2014, the Faculty of Information Technology BUT organized the Robo@FIT Open Day event, which showcased robotic platforms - from the ground to the air - along with sample applications on these platforms, including laboratory equipment and selected results of the robotic research group and student works. The event was attended by over 50 visitors, among whom were also students from other Brno universities, representatives of companies and the general public.",
+            "Getting started in Robotics&ROS - second workshop providing practical basics to ROS platform"
+        ],
+        "robotic_lab": [
+            "PR2 is robotic research and development platform that combines the mobility to navigate human environments and the dexterity to grasp and manipulate objects in those environments.",
+            "MELFA RV6-SL robotic manipulator workcell. Example of tasks is collecting of known objects that are scattered on the floor. The robot finds them with a sensor, plans motion to collect them and executes the motion.",
+            "Rescue Robot was designed by FIT researchers for search of human beings in damaged houses, debris or avalanches. It is remotely controlled by an operator endowed with a small amount of intelligence to protect itself and to find way back in case of loss of communication. Its modular design of the body and electronics allows full support of the operator and choice of the appropriate set of sensors for the given task.",
+            "Toad platform is outdoor platform with novel 3D Lidar technology. The Toad is focused on development of large-scale SLAM, 3D environment model reconstruction, navigation and exploration. Pioneer 3-AT, http://www.mobilerobots.com/Libraries/Downloads/Pioneer3AT-P3AT-RevA.sflb.ashx Lidar, Velodyne HD Lidar HDL-32E, http://velodynelidar.com/lidar/hdlproducts/hdl32e.aspx high-performance, miniature GPS-Aided Inertial Navigation System (GPS/INS), IMU+GPS 3DM-GX3-45-USB-SK1, http://www.zse.de/index.cfm/content/products/gr_id/844/ Lidar, Hokuyo UTM-30LX, http://www.hokuyo-aut.jp/02sensor/07scanner/utm_30lx.html",
+            "Pioneer 3-AT, http://www.mobilerobots.com/Libraries/Downloads/Pioneer3AT-P3AT-RevA.sflb.ashx",
+            "Lidar, Velodyne HD Lidar HDL-32E, http://velodynelidar.com/lidar/hdlproducts/hdl32e.aspx",
+            "high-performance, miniature GPS-Aided Inertial Navigation System (GPS/INS), IMU+GPS 3DM-GX3-45-USB-SK1, http://www.zse.de/index.cfm/content/products/gr_id/844/",
+            "Lidar, Hokuyo UTM-30LX, http://www.hokuyo-aut.jp/02sensor/07scanner/utm_30lx.html",
+            "Edward (or Ed ) is platform assembled for development particular service robotic tasks such as social interaction, transportation, person-following, etc. PatrolBot, http://www.mobilerobots.com/Libraries/Downloads/PatrolBot-PTLB-RevA.sflb.ashx Lidar, Hokuyo UTM-30LX, http://www.hokuyo-aut.jp/02sensor/07scanner/utm_30lx.html ASUS Xtion Pro, Kinect Lenovo All-in-One touch screen",
+            "PatrolBot, http://www.mobilerobots.com/Libraries/Downloads/PatrolBot-PTLB-RevA.sflb.ashx",
+            "Lidar, Hokuyo UTM-30LX, http://www.hokuyo-aut.jp/02sensor/07scanner/utm_30lx.html",
+            "ASUS Xtion Pro, Kinect",
+            "Lenovo All-in-One touch screen",
+            "Tyra is UAV platform for large-scale environment mapping, monitoring, inspection, etc.",
+            "UAV, AscTec Pelican, http://www.asctec.de/downloads/flyer/AscTec-UNI-Flyer-2011-No-08_Infos-only.pdf",
+            "UAV, AscTec Pelican, http://www.asctec.de/downloads/flyer/AscTec-UNI-Flyer-2011-No-08_Infos-only.pdf",
+            "TurtleBut2 (or TB2 ) is experimental laboratory platform designed to service robotics task in indoor environment. TurtleBot, http://turtlebot.com/ Kinect Lidar, Hokuyo UTM-30LX, http://www.hokuyo-aut.jp/02sensor/07scanner/utm_30lx.html WiFi AP - TP-LINK TL-WR1043ND, http://www.alza.cz/tp-link-tew-671br-d235410.htm Low-cost IMU, Pololu CHR-UM6 Orientation Sensor, http://www.pololu.com/catalog/product/1255 Manipulator, CrustCrowler AX-18A, http://www.crustcrawler.com/products/AX-18F%20Smart%20Robotic%20Arm/ Joystick - Sony PS3 DualShock 3, http://www.alza.cz/bezdratovy-vibracni-gamepad-sony-dualshock-3-pro-ps3-cerny-black-d85804.htm#foto",
+            "TurtleBot, http://turtlebot.com/",
+            "Kinect",
+            "Lidar, Hokuyo UTM-30LX, http://www.hokuyo-aut.jp/02sensor/07scanner/utm_30lx.html",
+            "WiFi AP - TP-LINK TL-WR1043ND, http://www.alza.cz/tp-link-tew-671br-d235410.htm",
+            "Low-cost IMU, Pololu CHR-UM6 Orientation Sensor, http://www.pololu.com/catalog/product/1255",
+            "Manipulator, CrustCrowler AX-18A, http://www.crustcrawler.com/products/AX-18F%20Smart%20Robotic%20Arm/",
+            "Joystick - Sony PS3 DualShock 3, http://www.alza.cz/bezdratovy-vibracni-gamepad-sony-dualshock-3-pro-ps3-cerny-black-d85804.htm#foto",
+            "The robotic lab is further equiped by wide range of tools and devices: fully equipped hardware development working place with a modern tools common cameras and radars, Kinects, stereo-cameras Lidar - SICK LMS 100 HRI devices (iPads, ThinkPad Tablets, widescreen multi-touch displays ELO 4200L (42\") or NEC V-Touch 3210w (32\")) VR/AR tools (ARvision-3D, i-glasses PC 3D PRO, eMagin Z800 3DVisor, CyberGlove, CyberTouch, Flock of Birds etc.), Microsoft HoloLens",
+            "fully equipped hardware development working place with a modern tools",
+            "common cameras and radars, Kinects, stereo-cameras",
+            "Lidar - SICK LMS 100",
+            "HRI devices (iPads, ThinkPad Tablets, widescreen multi-touch displays ELO 4200L (42\") or NEC V-Touch 3210w (32\"))",
+            "VR/AR tools (ARvision-3D, i-glasses PC 3D PRO, eMagin Z800 3DVisor, CyberGlove, CyberTouch, Flock of Birds etc.), Microsoft HoloLens"
+        ],
+        "overview": [
+            "Robotic research group at FIT focuses on the development of advanced methods of autonomous intelligent systems and mobile platforms, processing and fusion of sensory data, creating dynamic 3D models of the environment, intelligent decisions and mission planning, knowledge management, multi-agent systems and advanced human-robot interaction systems."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Orsag Filip, Ing., Ph.D.",
+                "position": "Principal researcher"
+            }
+        ],
+        "researcher": [
+            {
+                "name": "Bambusek Daniel, Ing.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Beran Vitezslav, doc. Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Hanacek Petr, doc. Dr. Ing.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Janousek Vladimir, doc. Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Kapinus Michal, Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Materna Zdenek, Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Rozman Jaroslav, Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Smrz Pavel, doc. RNDr., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Solony Marek, Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Spanel Michal, doc. Ing., Ph.D.",
+                "position": "Researcher",
+                "notes": [
+                    "Image processing and machine vision - 2D/3D image segmentation, deep learning and neural networks, object detection and recognition, 3D shape analysis and 3D reconstruction.",
+                    "3D data visualization and processing - 3D images, point clouds, 3D meshes, etc.",
+                    "3D geometry processing"
+                ]
+            },
+            {
+                "name": "Zboril Frantisek, doc. Ing., CSc.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Zemcik Pavel, prof. Dr. Ing., dr. h. c.",
+                "position": "Researcher"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "ARCOR2: multithreaded actions",
+            "details": "Kinalisoft, start: 2024-06-01, end: 2024-06-30, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Automaticka kalibrace robota",
+            "details": "Y-Soft, start: 2022-11-01, end: 2023-08-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Test-it-off: Robotic offline product testing",
+            "details": "MPO, TRIO, FV40052, start: 2019-01-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Collaborative robot 2.0: cognition of the work environment, augmented reality-based user interface, simple deployment and reconfiguration",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu ZETA, TJ01000352, start: 2017-09-01, end: 2019-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Transfer of knowledge in the field of 3D reconstruction and 3D mapping",
+            "details": "EU, OP PIK - Partnerstvi znalostniho transferu, start: 2017-01-01, end: 2018-09-30, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Reconfigurable ROS-based Resilient Reasoning Robotic Cooperating Systems",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H14003, start: 2014-02-01, end: 2017-01-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Intelligent assistance systems: multisensor processing and reliability analysis",
+            "details": "NATO, CBP.EAP.CLG 984, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Recognition of persons and their behaviour in intelligent households",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, AKTION-FHV, start: 2012-07-01, end: 2013-07-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "SPAce exploration Research for Throatable Advanced eNgine (SPARTAN)",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, 7E11027-fit, start: 2011-02-01, end: 2013-02-28, completed"
+        },
+        {
+            "year": "2011",
+            "title": "SRS - Multi-Role Shadow Robotic System for Independent Living",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, 7E12056, start: 2011-09-01, end: 2013-04-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Robot for search of human beings in incrushes and avalanches",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102014024, start: 2010-10-01, end: 2014-07-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Research and development of technologies for intelligent optical tracking systems",
+            "details": "MPO, TIP, FR-TI1/195, start: 2009-03-01, end: 2012-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2024",
+            "details": "KAPINUS, M.; BERAN, V.; MATERNA, Z.; BAMBUSEK, D. Augmented Reality Spatial Programming Paradigm Applied to End-User Robot Programming. ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING, 2024, vol. 89, no. 89, p. 1-13. ISSN: 0736-5845. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "BAMBUSEK, D.; MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. How Do I Get There? Overcoming Reachability Limitations of Constrained Industrial Environments in Augmented Reality Applications. In 2023 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). Shanghai: Institute of Electrical and Electronics Engineers, 2023. p. 115-122. ISBN: 979-8-3503-4815-6. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "BAMBUSEK, D.; MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. Handheld Augmented Reality: Overcoming Reachability Limitations by Enabling Temporal Switch to Virtual Reality. In HRI '22: Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. Sapporo, Hokkaido: Association for Computing Machinery, 2022. p. 698-702. ISBN: 978-1-6654-0731-1. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "KAPINUS, M.; BAMBUSEK, D.; MATERNA, Z.; BERAN, V.; SMRZ, P. Improved Indirect Virtual Objects Selection Methods for Cluttered Augmented Reality Environments on Mobile Devices. In HRI '22: Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. Sapporo, Hokkaido: Association for Computing Machinery, 2022. p. 834-838. ISBN: 978-1-6654-0731-1. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KAPINUS, M.; MATERNA, Z.; BAMBUSEK, D.; BERAN, V. End-User Robot Programming Case Study: Augmented Reality vs. Teach Pendant. In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction. Cambridge: Association for Computing Machinery, 2020. p. 281-283. ISBN: 978-1-4503-7057-8. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BALAZ, T.; KREJCI, J.; SVEC, M.; DRAHANSKY, M. UAV Range Measurement by Impulse Laser Rangefinder. In Proceedings of the 7th International Conference on Military Technologies 2019. Brno: IEEE Computer Society, 2019. p. 1-7. ISBN: 978-1-7281-4593-8. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BAMBUSEK, D.; MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. Combining Interactive Spatial Augmented Reality with Head-Mounted Display for End-User Collaborative Robot Programming. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). New Delhi: Institute of Electrical and Electronics Engineers, 2019. p. 1-9. ISBN: 978-1-7281-2622-7. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KAPINUS, M.; BERAN, V.; MATERNA, Z.; BAMBUSEK, D. Spatially Situated End-User Robot Programming in Augmented Reality. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). New Delhi: Institute of Electrical and Electronics Engineers, 2019. p. 1-9. ISBN: 978-1-7281-2622-7. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "SEDLMAJER, K.; BAMBUSEK, D.; BERAN, V. Effective Remote Drone Control Using Augmented Virtuality. In Proceedings of the 3rd International Conference on Computer-Human Interaction Research and Applications 2019. Vienna: SciTePress - Science and Technology Publications, 2019. p. 177-182. ISBN: 978-989-758-376-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P.; ZEMCIK, P. Interactive Spatial Augmented Reality in Collaborative Robot Programming: User Experience Evaluation. In RO-MAN 2018 - 27th IEEE International Symposium on Robot and Human Interactive Communication. NanJing: Institute of Electrical and Electronics Engineers, 2018. p. 80-87. ISBN: 978-1-5386-7980-7. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A. CNN for IMU Assisted Odometry Estimation using Velodyne LiDAR. In IEEE International Conference on Autonomous Robot Systems and Competitions. IEEE International Conference on Autonomous Robot Systems and Competitions. Torres Vedras: Institute of Electrical and Electronics Engineers, 2018. no. 4, p. 71-77. ISBN: 978-1-5386-5221-3. ISSN: 2573-9387. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A. CNN for Very Fast Ground Segmentation in Velodyne LiDAR Data. In IEEE International Conference on Autonomous Robot Systems and Competitions. Torres Vedras: Institute of Electrical and Electronics Engineers, 2018. p. 97-103. ISBN: 978-1-5386-5221-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LUZA, R.; ORSAG, F.; DRAHANSKY, M.; ROZMAN, J. Robot RUDA - Introduction and Current Research. Central European Researchers Journal, 2017, vol. 3, no. 1, p. 1-8. ISSN: 2453-7314. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. Using Persona, Scenario, and Use Case to Develop a Human-Robot Augmented Reality Collaborative Workspace. In ACM/IEEE International Conference on Human-Robot Interaction. Viden: Association for Computing Machinery, 2017. p. 201-202. ISBN: 978-1-4503-4885-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MATERNA, Z.; SPANEL, M.; MAST, M.; BERAN, V.; WEISSHARDT, F.; BURMESTER, M.; SMRZ, P. Teleoperating Assistive Robots: A Novel User Interface Relying on Semi-Autonomy and 3D Environment Mapping. Journal of Robotics and Mechatronics, 2017, vol. 29, no. 2, p. 381-394. ISSN: 0915-3942. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "PRIVALOV, V.; BERAN, V.; SMRZ, P. Effectiveness of the Bag-of-Words approach on the object search problem in 3D domain. In Proceedings of SCCG 2017. Proceedings - SCCG 2017: 33rd Spring Conference on Computer Graphics. New York City, NY: Association for Computing Machinery, 2017. p. 138-145. ISBN: 978-1-4503-5107-2. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "STADLER, S.; GIULIANI, M.; KAPINUS, M.; MATERNA, Z.; MIRNIG, N.; TSCHELIGI, M. Industrial Human-Robot Interaction: Creating Personas for Augmented Reality supported Robot Control and Teaching. In Proceedings of the Companion of the 2017 ACM/IEEE International Conference on Human-Robot Interaction. Vienna: Association for Computing Machinery, 2017. p. 291-292. ISBN: 978-1-4503-4885-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "MATERNA, Z.; KAPINUS, M.; SPANEL, M.; BERAN, V.; SMRZ, P. Simplified Industrial Robot Programming: Effects of Errors on Multimodal Interaction in WoZ experiment. In 25th IEEE International Symposium on Robot and Human Interactive Communication, RO-MAN 2016. New York City: Institute of Electrical and Electronics Engineers, 2016. p. 200-205. ISBN: 978-1-5090-3929-6. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "PLASCENCIA, A.; ROZMAN, J. Towards a User-Wheelchair Shared Control Paradigm for Individuals with Severe Motor Impairments. In ICINCO 2016 13th International Conference on Informatics in Control, Automation and Robotics. Lisabon: Institute for Systems and Technologies of Information, Control and Communication, 2016. p. 246-253. ISBN: 978-989-758-198-4. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "VELAS, M.; SPANEL, M. Improving Multi-view Object Recognition by Detecting Changes in Point Clouds. In IEEE Symposium on Computational Intelligence for Multimedia, Signal and Vision Processing. Ateny: IEEE Computer Society, 2016. p. 1-7. ISBN: 978-1-5090-4239-5. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "VELAS, M.; SPANEL, M.; HEROUT, A. Collar Line Segments for Fast Odometry Estimation from Velodyne Point Clouds. In Proceedings of IEEE International Conference on Robotics and Automation. Stockholm: IEEE Computer Society, 2016. p. 4486-4491. ISBN: 978-1-4673-8025-6. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "VOJVODA, J.; BERAN, V. Feature extraction for efficient image and video segmentation. In Proceedings - SCCG 2016: 32nd Spring Conference on Computer Graphics. Smolenice: Association for Computing Machinery, 2016. p. 75-80. ISBN: 978-1-4503-4436-4. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MAST, M.; BURMESTER, M.; GRAF, B.; WEISSHARDT, F.; ARBEITER, G.; SPANEL, M.; MATERNA, Z.; SMRZ, P.; KRONREIF, G. Design of the human-robot interaction for a semi-autonomous service robot to assist elderly people. In Ambient Assisted Living. Advanced Technologies and Societal Change. Berlin: Springer International Publishing, 2015. p. 15-29. ISBN: 978-3-319-11865-9. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MAST, M.; MATERNA, Z.; SPANEL, M.; WEISSHARDT, F.; ARBEITER, G.; BURMESTER, M.; SMRZ, P. Semi-Autonomous Domestic Service Robots: Evaluation of a User Interface for Remote Manipulation and Navigation With Focus on Effects of Stereoscopic Display. International Journal of Social Robotics, 2015, vol. 2015, no. 7, p. 183-202. ISSN: 1875-4791. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ORSAG, F.; DRAHANSKY, M. Construction of a Rescue Robot: Robotic Arm Module. Applied Mechanics and Materials, 2014, vol. 2014, no. 613, p. 139-143. ISSN: 1662-7482. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "PLASCENCIA, A.; CALTENCO, H.; BERAN, V. Comparison of Different Powered-wheelchair Control Modes for Individuals with Severe Motor Impairments. In ICINCO 2014 - Proceedings of the 11th International Conference on Informatics in Control, Automation and Robotics. Vienna: IEEE Computer Society, 2014. p. 353-359. ISBN: 978-989-758-040-6. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "PLASCENCIA, A.; KARSTOFT, H. Map Building Based on a Xtion Pro Live RGBD and a Laser Sensors. Journal of information technology & software engineering, 2014, vol. 4, no. 1, p. 1-7. ISSN: 2165-7866. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "VELAS, M.; SPANEL, M.; MATERNA, Z.; HEROUT, A. Calibration of RGB Camera With Velodyne LiDAR. In WSCG 2014 Communication Papers Proceedings. Journal of WSCG. Plzen: Union Agency, 2014. no. 22, p. 135-144. ISBN: 978-80-86943-71-8. ISSN: 1213-6972. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HULIK, R.; SPANEL, M.; MATERNA, Z.; SMRZ, P. Continuous Plane Detection in Point-cloud Data Based on 3D Hough Transform. JOURNAL OF VISUAL COMMUNICATION AND IMAGE REPRESENTATION, 2013, vol. 25, no. 1, p. 86-97. ISSN: 1047-3203. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ILA, V.; POLOK, L.; SMRZ, P.; SOLONY, M.; ZEMCIK, P. Incremental Block Cholesky Factorization for Nonlinear Least Squares in Robotics. In proceedings of The Robotics: Science and Systems 2013 Conference. Berlin: MIT Press, 2013. p. 1-8. ISBN: 978-981-07-3937-9. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ILA, V.; POLOK, L.; SMRZ, P.; SOLONY, M.; ZEMCIK, P. Incremental Cholesky Factorization for Least Squares Problems in Robotics. Proceedings of The 2013 IFAC Intelligent Autonomous Vehicles Symposium. Gold Coast: IEEE Computer Society, 2013. p. 1-8. ISBN: 978-3-902823-36-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MAST, M.; SPANEL, M.; ARBEITER, G.; STANCL, V.; MATERNA, Z.; WEISSHARDT, F.; BURMESTER, M.; SMRZ, P. Teleoperation of Domestic Service Robots: Effects of Global 3D Environment Maps in the User Interface on Operators' Cognitive and Performance Metrics. Proceedings of International Conference on Social Robotics. Lecture Notes in Computer Science. Lecture Notes in Artificial Intelligence (LNCS/LNAI). Bristol: Springer Verlag, 2013. no. 8239, p. 392-401. ISBN: 978-3-319-02674-9. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "POLOK, L.; ILA, V.; SMRZ, P. Cache Efficient Implementation for Block Matrix Operations. Proceedings of the 21st High Performance Computing Symposium (HPC'13). San Diego: Association for Computing Machinery, 2013. p. 698-706. ISBN: 1-56555-350-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "POLOK, L.; ILA, V.; SOLONY, M.; ZEMCIK, P.; SMRZ, P. Efficient Implementation for Block Matrix Operations Nonlinear Least Squares Problems for Robotic Applications. Proceedings of 2013 IEEE International Conference on Robotics and Automation. Karlsruhe: IEEE Computer Society, 2013. p. 123-131. ISBN: 978-1-4673-5642-8. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "HULIK, R.; BERAN, V.; SPANEL, M.; KRSEK, P.; SMRZ, P. Fast and Accurate Plane Segmentation in Depth Maps for Indoor Scenes. In IEEE International Conference on Intelligent Robots and Systems. Proceedings of the International Conference on Intelligent Robots and Systems. Vilamoura, Algarve: Department of Computer Graphics and Multimedia FIT BUT, 2012. no. 12, p. 1665-1670. ISBN: 978-1-4673-1737-5. ISSN: 2153-0858. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KLICNAR, L.; BERAN, V. Robust motion segmentation for on-line application. In Proceedings of WSCG'12. 20th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision, WSCG 2012 - Conference Proceedings. Plzen: University of West Bohemia in Pilsen, 2012. p. 205-212. ISBN: 978-80-86943-79-4. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "QIU, R.; JI, Z.; NOYVIRT, A.; SOROKA, A.; SETCHI, R.; PHAM, D.; XU, S.; SHIVAROV, N.; PIGINI, L.; ARBEITER, G.; WEISSHARDT, F.; GRAF, B.; MAST, M.; BLASI, L.; FACAL, D.; ROOKER, M.; LOPEZ, R.; LI, D.; LIU, B.; KRONREIF, G.; SMRZ, P. Towards robust personal assistant robots: Experience gained in the SRS project. Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Vilamoura: Institute of Electrical and Electronics Engineers, 2012. p. 1651-1657. ISBN: 978-1-4673-1737-5. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ROZMAN, J. Design of a system for automatic operation in storehouse. Proceedings of CSE 2012 International Scientific Conference on Computer Science and Engeneering. Kosice: The University of Technology Kosice, 2012. p. 1-10. ISBN: 978-80-8143-049-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZBORIL, F.; DRAHANSKY, M.; HANACEK, P.; HORACEK, J. Security in Wireless Sensor Networks with Mobile Codes. In Threats, Countermeasures, and Advances in Applied Information Security. Hershey: IGI Global, 2012. p. 411-425. ISBN: 978-1-4666-0978-5. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DRAHANSKY, M.; BALITANAS, M. Cipher for Internet-based Supervisory Control and Data Acquisition Architecture. Journal of Security Engineering, 2011, vol. 8, no. 3, p. 337-348. ISSN: 1738-7531. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KUBAT, D.; DRAHANSKY, M. RF Touch for Wireless Control of Intelligent Houses. In Ubiquitous Computing and Multimedia Applications: Second International Conference, UCMA 2011. Part I, CCIS 150. Berlin: Springer Verlag, 2011. p. 206-210. ISBN: 978-3-642-20974-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KUBAT, D.; DRAHANSKY, M. Wireless Control of Intelligent Houses. International Journal of Control and Automation, 2011, vol. 4, no. 3, p. 123-126. ISSN: 2005-4297. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DRAHANSKY, M.; ORSAG, F.; HANACEK, P. Accelerometer Based Digital Video Stabilization for General Security Surveillance Systems. International Journal of Security and Its Applications, 2010, vol. 2010, no. 1, p. 1-10. ISSN: 1738-9976. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "MARVAN, A.; HAJEK, J.; VANA, J.; DVORAK, R.; DRAHANSKY, M. Scanning and Measuring Device for Diagnostic of Barrel Bore. In Signal Processing and Multimedia 2010. Jeju Island: Springer Verlag, 2010. p. 24-29. ISBN: 978-3-642-17640-1. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ORSAG, F.; DRAHANSKY, M. Image stabilization and object tracking in a video-stream. World and homeland security. Brno: University of Defence in Brno, 2010. p. 432-439. ISBN: 978-80-7231-728-8. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2021",
+            "title": "ARCOR2 - framework pro snadne programovani robotu",
+            "authors": "ARCOR2 - framework pro snadne programovani robotu , software, 2021 : MATERNA, Z.; KAPINUS, M.; BAMBUSEK, D.; BERAN, V."
+        },
+        {
+            "year": "2020",
+            "title": "DroCo - Multi-Drone Control Vizualization Tool",
+            "authors": "DroCo - Multi-Drone Control Vizualization Tool , software, 2020 : BERAN, V.; BAMBUSEK, D.; HUBINAK, R.; SEDLMAJER, K."
+        },
+        {
+            "year": "2020",
+            "title": "Zarizeni pro on-line zpracovani videosekvenci v realnem case",
+            "authors": "Zarizeni pro on-line zpracovani videosekvenci v realnem case , functioning sample, 2020 : BERAN, V.; DRAHANSKY, M.; HEROUT, A.; ZEMCIK, P.; ZENDULKA, J.; BAMBUSEK, D.; BARTIK, V.; BARTL, V.; GOLDMANN, T.; KANICH, O.; KOCMAN, R.; MALANIK, P.; NOSKO, S.; PLASCENCIA, A.; VOLF, T."
+        },
+        {
+            "year": "2019",
+            "title": "Spolupracujici robot 2.0: interakce",
+            "authors": "Spolupracujici robot 2.0: interakce , software, 2019 : KAPINUS, M.; MATERNA, Z.; JURANKOVA, M."
+        },
+        {
+            "year": "2018",
+            "title": "Spolupracujici robot 2.0: vnimani",
+            "authors": "Spolupracujici robot 2.0: vnimani , software, 2018 : KAPINUS, M.; MATERNA, Z.; JURANKOVA, M."
+        },
+        {
+            "year": "2017",
+            "title": "Spatial Augmented Reality User Interface for Collaborative Robot",
+            "authors": "Spatial Augmented Reality User Interface for Collaborative Robot , software, 2017 : KAPINUS, M.; MATERNA, Z.; BERAN, V.; SMRZ, P."
+        },
+        {
+            "year": "2017",
+            "title": "Spolupracujici robot 2.0: kalibrace",
+            "authors": "Spolupracujici robot 2.0: kalibrace , software, 2017 : KAPINUS, M.; MATERNA, Z.; JURANKOVA, M."
+        },
+        {
+            "year": "2015",
+            "title": "Funkcni vzorek roboticke platformy pro hledani osob v zavalech a lavinach",
+            "authors": "Funkcni vzorek roboticke platformy pro hledani osob v zavalech a lavinach , functioning sample, 2015 : DRAHANSKY, M.; ORSAG, F.; HAJEK, J.; LUZA, R.; VANA, J.; MARVAN, A.; NOVOTNY, T.; BABINEC, A.; TRHON, A."
+        },
+        {
+            "year": "2015",
+            "title": "Odometry Estimation from Velodyne LiDAR Point Clouds",
+            "authors": "Odometry Estimation from Velodyne LiDAR Point Clouds , software, 2015 : VELAS, M.; SPANEL, M.; HEROUT, A."
+        },
+        {
+            "year": "2015",
+            "title": "Pruzkumny robot, bioradar, manipulator robota, prehledova kamera",
+            "authors": "Pruzkumny robot, bioradar, manipulator robota, prehledova kamera , industrial design, 2015 : DRAHANSKY, M.; POKORNY, J.; MARVAN, A.; HAJEK, J.; VANA, J.; NOVOTNY, T."
+        },
+        {
+            "year": "2015",
+            "title": "Venkovni roboticka platforma pro snimani senzorovych dat a experimentalni overovani algoritmu 3D rekonstrukce",
+            "authors": "Venkovni roboticka platforma pro snimani senzorovych dat a experimentalni overovani algoritmu 3D rekonstrukce , functioning sample, 2015 : MATERNA, Z.; BERAN, V.; SPANEL, M.; VELAS, M.; KAPINUS, M."
+        },
+        {
+            "year": "2014",
+            "title": "Modules for Velodyne 3D LiDAR Calibration and Data Processing",
+            "authors": "Modules for Velodyne 3D LiDAR Calibration and Data Processing , software, 2014 : VELAS, M.; SPANEL, M.; MATERNA, Z."
+        },
+        {
+            "year": "2014",
+            "title": "Roboticka platforma pro hledani osob v zavalech a lavinach",
+            "authors": "Roboticka platforma pro hledani osob v zavalech a lavinach , utility model, 2014 : DRAHANSKY, M.; HAJEK, J.; MARVAN, A.; NOVOTNY, T.; POKORNY, J."
+        },
+        {
+            "year": "2013",
+            "title": "Funkcni vzorek manipulatoru robota",
+            "authors": "Funkcni vzorek manipulatoru robota , functioning sample, 2013 : DRAHANSKY, M.; ORSAG, F.; VANA, J.; HAJEK, J.; MARVAN, A.; NOVOTNY, T."
+        },
+        {
+            "year": "2013",
+            "title": "Funkcni vzorek podvozku robota",
+            "authors": "Funkcni vzorek podvozku robota , functioning sample, 2013 : DRAHANSKY, M.; ORSAG, F.; MARVAN, A.; HAJEK, J.; NOVOTNY, T.; VANA, J."
+        },
+        {
+            "year": "2013",
+            "title": "OMToolkit - The polygonal mesh processing toolkit",
+            "authors": "OMToolkit - The polygonal mesh processing toolkit , software, 2013 : HULIK, R.; SPANEL, M.; SMRZ, P."
+        },
+        {
+            "year": "2012",
+            "title": "Obstacle avoidance module for robotic systems",
+            "authors": "Obstacle avoidance module for robotic systems , software, 2012 : ROZMAN, J.; LUZA, R.; BAIZID, K.; BERAN, V."
+        },
+        {
+            "year": "2010",
+            "title": "3D model reconstruction from point clouds",
+            "authors": "3D model reconstruction from point clouds , software, 2010 : HULIK, R.; SPANEL, M."
+        },
+        {
+            "year": "2010",
+            "title": "Automatic robot localization based on visual and range sensors",
+            "authors": "Automatic robot localization based on visual and range sensors , software, 2010 : SOLONY, M."
+        },
+        {
+            "year": "2010",
+            "title": "Obstacle detector for robotic systems based on visual and range sensor fusion",
+            "authors": "Obstacle detector for robotic systems based on visual and range sensor fusion , software, 2010 : SVOBODA, P.; BERAN, V."
+        },
+        {
+            "year": "2009",
+            "title": "Merici ustredna pro UAV (SEDAQ)",
+            "authors": "Merici ustredna pro UAV (SEDAQ) , functioning sample, 2009 : MARVAN, A.; POPELA, R.; DRAHANSKY, M.; ZIKMUND, P."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2019",
+            "title": "Souhrnna vyzkumna zprava k projektu - Geodrom - Vylepseni presnosti prenosneho 3D mapovaciho systemu",
+            "authors": ", summary research report, 2019 : VELAS, M.; SPANEL, M."
+        },
+        {
+            "year": "2018",
+            "title": "Souhrnna vyzkumna zprava k projektu Geodrom - Geodrom - Experimentalni overeni vlastnosti prenosneho 3D mapovaciho systemu",
+            "authors": ", summary research report, 2018 : SPANEL, M.; VELAS, M."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2020",
+            "title": "HDR and 3D Occupancy map implementation on Embedded HW",
+            "authors": "HDR and 3D Occupancy map implementation on Embedded HW , report, 2020 : PLASCENCIA, A.; NOSKO, S.; BERAN, V.; ZEMCIK, P."
+        },
+        {
+            "year": "2019",
+            "title": "Detekce anomalii na obrazovem zaznamu z dronu",
+            "authors": "Detekce anomalii na obrazovem zaznamu z dronu , report, 2019 : BAZOUT, D.; BERAN, V."
+        },
+        {
+            "year": "2019",
+            "title": "Drone sensory data processing for advanced drone control for augmented reality",
+            "authors": "Drone sensory data processing for advanced drone control for augmented reality , report, 2019 : PLASCENCIA, A.; BERAN, V.; SEDLMAJER, K."
+        },
+        {
+            "year": "2018",
+            "title": "Detekce a identifikace hledanych osob ve videu",
+            "authors": "Detekce a identifikace hledanych osob ve videu , report, 2018 : BAZOUT, D.; BERAN, V."
+        },
+        {
+            "year": "2018",
+            "title": "Experimental Flying Platform",
+            "authors": "Experimental Flying Platform , report, 2018 : PLASCENCIA, A.; BERAN, V."
+        },
+        {
+            "year": "2018",
+            "title": "PatrolBot self driving for map making based on laser and asus depth sensors",
+            "authors": "PatrolBot self driving for map making based on laser and asus depth sensors , testing, 2018 : BERAN, V.; PLASCENCIA, A."
+        },
+        {
+            "year": "2018",
+            "title": "Rozsirena virtualita pro efektivni vzdalene rizeni dronu",
+            "authors": "Rozsirena virtualita pro efektivni vzdalene rizeni dronu , report, 2018 : SEDLMAJER, K.; BAMBUSEK, D.; BERAN, V."
+        },
+        {
+            "year": "2017",
+            "title": "Ground Segmentation by CNNs in Velodyne Data",
+            "authors": "Ground Segmentation by CNNs in Velodyne Data , testing, 2017 : VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A."
+        },
+        {
+            "year": "2017",
+            "title": "Spider Lawn Mower Automation Design",
+            "authors": "Spider Lawn Mower Automation Design , testing, 2017 : PLASCENCIA, A.; BERAN, V."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "project": "Machine learning for printed heritage digitisation",
+    "title": "Smart digilinka - Strojove uceni pro digitalizaci tisteneho dedictvi",
+    "metadata": {
+        "project_period": "1. 3. 2023 \u2013 31. 12. 2027",
+        "project_type": "grant",
+        "code": "DH23P03OVV066",
+        "agency": "Ministry of Culture Czech Republic",
+        "program": "NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Machine learning for printed heritage digitisation"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "digital libraries, image manipulation, machine learning"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The aim of the presented project is to create a pilot line of digitization line, using machine learning tools already in the process of digitization so that this process is significantly streamlined and all activities that can be provided by modern software are removed from it. The pilot plant will combine existing state-of-the-art components with tools developed specifically for pilot plant needs. The result of the project will be usable at digitization workplaces of large Czech libraries, either in the form of a separate installation or a service used remotely by the National Library of the Czech Republic."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Hradis Michal, Ing., Ph.D. (DCGM) \u2013 research leader Cadik Martin, prof. Ing., Ph.D. (DCGM) Docekal Martin, Ing. (DCGM) Fajcik Martin, Ing., Ph.D. (DCGM) Jenis Radek (CVT) Kavalova Radka, Mgr. (RCIT) Kiss Martin, Ing. (DCGM) Kohut Jan, Ing. (DCGM) Kostelnik Martin, Ing. (DCGM) Solony Marek, Ing., Ph.D. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- KOHUT, J.; DOCEKAL, M.; HRADIS, M.; VASKO, M. BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction. In Document Analysis and Recognition \u2013 ICDAR 2025. Cham: Springer Nature Switzerland, 2025. p. 287-304. ISBN: 978-3-032-04623-9. Detail\n- KOHUT, J.; HRADIS, M.; KISS, M. Towards Writing Style Adaptation in Handwriting Recognition. In Document Analysis and Recognition - ICDAR 2023. Lecture Notes in Computer Science. Lecture Notes in Computer Science. San Jose: Springer Nature Switzerland AG, 2023. no. 1, p. 377-394. ISBN: 978-3-031-41684-2. ISSN: 0302-9743. Detail"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- Exposea \u2013 system pro snimani a automaticke vyrovnavani predloh , software, 2025 Authors : PUKANEC, D.; SOLONY, M.; HRADIS, M."
+        },
+        "results_with_impact_on_practice": {
+            "label": "Results with Impact on Practice",
+            "text": "- Metodika scelovani po castech skenovanych predloh , approved methodologies, 2025 Authors : ZABICKA, P.; HRADIS, M.; SOLONY, M.; PUKANEC, D."
+        }
+    }
+}

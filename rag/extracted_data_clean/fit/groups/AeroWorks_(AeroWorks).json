@@ -1,0 +1,23 @@
+{
+    "group": "AeroWorks (AeroWorks)",
+    "about": {
+        "aeroworks": [
+            "The Aeroworks research group at the Faculty of Information Technology BUT, has a wide portfolio of multidisciplinary competences which include research and development of human-machine interfaces, modeling and simulation, robust control systems, parameter estimation and identification of dynamic systems, and the design and implementation of complex software solutions for renowned industrial partners with global business outreach. These competences serve as a basis for the collaboration in research and development with prestigious university partners. The Aeroworks team members are proficient in academic research, regulations aware product development, with a special emphasis on meeting project goals (project cost, quality, and deadlines)."
+        ],
+        "overview": [
+            "The Aeroworks research group at the Faculty of Information Technology BUT, has a wide portfolio of multidisciplinary competences which include research and development of human-machine interfaces, modeling and simulation, robust control systems, parameter estimation and identification of dynamic systems, and the design and implementation of complex software solutions for renowned industrial partners with global business outreach. These competences serve as a basis for the collaboration in research and development with prestigious university partners. The Aeroworks team members are proficient in academic research, regulations aware product development, with a special emphasis on meeting project goals (project cost, quality, and deadlines)."
+        ]
+    },
+    "team": {
+        "member_of_workgroup": [
+            {
+                "name": "Kasparek Tomas, Ing., Ph.D.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Novak Jiri, Ing., Ph.D.",
+                "position": "Member of Workgroup"
+            }
+        ]
+    }
+}

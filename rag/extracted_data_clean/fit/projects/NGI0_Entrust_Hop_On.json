@@ -1,0 +1,36 @@
+{
+    "project": "NGI0 Entrust Hop On",
+    "title": "NGI0 Entrust Hop On",
+    "metadata": {
+        "project_period": "2. 6. 2023 \u2013 31. 1. 2026",
+        "project_type": "grant",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "NGI0 Entrust Hop On"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "(user-centric) privacy preservation, Digital identity, Internet Services & Applications, Trustworthy ICT, Data portability, Trustworthiness, OSHW, Open Source, Free Software, FOSS"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "This proposal aims at increasing the visibility of the NGI Zero Entrust granting programme, to promote its output and its grant mechanisms. We will increase the interaction with scientific and technical output throughout the region of Central and East Europe and beyond - which due to the nature of the funding scheme (small, early stage grants for deep tech) requires continuous attention to reach the right talent."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader Barina David, Ing., Ph.D. (DCGM) Dobes Petr, Ing. (DCGM) Dolezal Jan, Ing. (DCGM) John Petr, Ing. (DCGM) Jurankova Marketa, Ing., Ph.D. (DCGM) Lazur Juraj, Ing. (DIFS) Liska Jakub, Ing. (DCGM) Lojda Jakub, Ing., Ph.D. (DCSY) Mihola David, Ing. (DCSY) Musil Martin, Ing., Ph.D. (DCGM) Nosko Svetozar, Ing., Ph.D. (DCGM) Vlnas Michal, Ing. (DCGM) Volf Tomas, Ing. Zaklova Kristyna, Ing. (DFIT-ISD) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- CHLUBNA, T.; MILET, T.; ZEMCIK, P. Light Field Video Streaming on GPU. SIGNAL PROCESSING-IMAGE COMMUNICATION, 2025, vol. 2025, no. 138, 12 p. Detail CHLUBNA, T.; VLNAS, M.; MILET, T.; ZEMCIK, P. Survey of FOSS 3D/2D Graphics Software Blender Usage in Science, Academia, and Industry. The visual computer, 2025, vol. 42, no. 1, p. 1-32. Detail PECIVA, J. Vulkan Tutorial - Chapter 1: Devices, Instance and Loader. 2025. p. 1-5. Detail\n- CHLUBNA, T.; VLNAS, M.; MILET, T.; ZEMCIK, P. Survey of FOSS 3D/2D Graphics Software Blender Usage in Science, Academia, and Industry. The visual computer, 2025, vol. 42, no. 1, p. 1-32. Detail PECIVA, J. Vulkan Tutorial - Chapter 1: Devices, Instance and Loader. 2025. p. 1-5. Detail\n- PECIVA, J. Vulkan Tutorial - Chapter 1: Devices, Instance and Loader. 2025. p. 1-5. Detail"
+        }
+    }
+}

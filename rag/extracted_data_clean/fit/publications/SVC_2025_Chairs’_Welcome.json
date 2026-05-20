@@ -1,0 +1,55 @@
+{
+    "publication": "YU, Z.; LIU, X.; DAMER, N.; FAN, D.; SHI, J.; GUO, X.; LIN, X.; WEN, B.; KONG, A.; KALVIAINEN, H.; SCHULLER, B.; CAO, X. SVC 2025 Chairs\u2019 Welcome. Svc 2025 Proceedings of the 1st International Workshop and Challenge on Subtle Visual Computing Co Located with mm 2025. Association for Computing Machinery, Inc, 2025. ISBN: 9798400718373. Detail ZAKLOVA, K.; JOHN, P.; JANOSIK, A.; HYNEK, J.; HRUSKA, T. Transparency in Czech Regions: Evaluation of Open Data Availability for Public Awareness. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail ZAVREL, J.; KOUTENSKY, M.; DOLEJSKA, D.; VESELY, V. Tumbling Down the Stairs: Exploiting a Tumbler's Attempt to Hide with Ordinary-looking Transactions using Wallet Fingerprinting. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-9. ISSN: 2666-2817. Detail ZBORIL, F.; VIDENSKY, F.; KOCI, R.; ZBORIL, F. Advanced Evaluation of Variable Binding Strategies in BDI Agents with Integrated Failure Handling. In Agents and Artificial Intelligence. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2025. p. 3-29. ISBN: 978-3-031-87326-3. Detail ZEINALI, H.; LEE, K.; ALAM, J.; BURGET, L. Text-dependent Speaker Verification Challenge 2024: Exploring Shared and User-defined Passphrases. In 2025 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Hyderabad, Indicka republika: Institute of Electrical and Electronics Engineers Inc., 2025. p. 1-5. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; LU, W.; XU, J. Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing. IEEE Transactions on Audio, Speech, and Language Processing, 2025, no. 33, p. 3850-3865. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; XU, J.; LU, W. SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing. IEEE Transactions on Information Forensics and Security, 2025, no. 20, p. 6474-6489. Detail ZHANG, Y.; TIAN, B.; ZHANG, L.; DUAN, Z. PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 5353-5357.",
+    "year": "2025",
+    "title": "SVC 2025 Chairs\u2019 Welcome",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "conference proceedings"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Yu Zitong Liu Xin Damer Naser Fan Deng Ping Shi Jingang Guo Xiaobao Lin Xun Wen Bihan Kong Adams Wai Kin Kalviainen Heikki Antero, prof., Dr. , DCGM (FIT) Schuller Bjorn W. Cao Xiaochun"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "It is our great pleasure to welcome you to the 1st Workshop & Challenge on Subtle Visual Computing (SVC). This workshop aims to explore how imperceptible or weak signals in visual data\u2014often overlooked by the human eye\u2014can reveal critical information for understanding complex environments. SVC provides a dedicated forum for presenting novel theories, algorithms, and applications that advance the detection, analysis, and interpretation of subtle visual cues. The mission of SVC is to bring together researchers and practitioners from diverse communities, including computer vision, pattern recognition, affective computing, and medical imaging, to exchange insights, foster collaborations, and identify new research directions in this rapidly growing field. The call for papers attracted 7 submissions, and the SVC Challenge successfully engaged 21 participating teams. We are also delighted to feature a set of keynote and invited talks by distinguished scholars, who will provide valuable perspectives and stimulate discussions on the future of subtle visual computing: SVC Opening Plenary Talk, Zitong Yu (who is currently at Great Bay University) When the Computers Spot the Lie (and Humans Don't), Rada Mihalcea (who is currently at University of Michigan) Seeing the Unseen: Unsupervised Learning for Remote Plethysmography and Its Applications in Deception and Liveness Detection, Adam Czajka (who is currently at University of Notre Dame)"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "subtle visual signals micro-expressions, micro-gestures, representation learning, understanding complex environments"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2025"
+        },
+        "book": {
+            "label": "Book",
+            "text": "Svc 2025 Proceedings of the 1st International Workshop and Challenge on Subtle Visual Computing Co Located with mm 2025"
+        },
+        "isbn": {
+            "label": "ISBN",
+            "text": "9798400718373"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "Association for Computing Machinery, Inc"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1145/3728425"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-105025354375"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Computer Graphics and Multimedia (DCGM)"
+        }
+    }
+}

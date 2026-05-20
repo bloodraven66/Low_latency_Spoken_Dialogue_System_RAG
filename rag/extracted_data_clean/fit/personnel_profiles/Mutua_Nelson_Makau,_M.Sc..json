@@ -1,0 +1,114 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "imutua@fit.vut.cz",
+            "work_phone": "+420 54114 1316",
+            "phone": "+420 608 388 148",
+            "room": "C221 Office",
+            "researcher_id": "AAC-5803-2022",
+            "orcid_id": "0000-0001-6079-711X",
+            "scopus_author_id": "57191037998"
+        }
+    },
+    "roles": [
+        {
+            "organization": "NES@FIT - Networks and distributed systems research group",
+            "role": "Member"
+        }
+    ],
+    "curriculum": {
+        "career_overview": [
+            {
+                "date": "01.07.2021\n-\n...",
+                "details": "Strathmore University, Nairobi, Kenya.External: Assistant Lecturer - Msc. in Information Security Systems."
+            },
+            {
+                "date": "01.01.2024\n-\n...",
+                "details": "Brno University of TechnologyScientific Researcher."
+            }
+        ],
+        "scientific_activities": [
+            "Anomaly detection of Cyber-Physical Systems.",
+            "Security monitoring of ICS and SCADA networks.",
+            "Security monitoring of computer networks.",
+            "Digital forensic analysis."
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Friday, 10:00-14:00 , When consulting on a projects, I expect you to come up with a specific problem to be solved. Please send me an email in advance accompanied by the problem being solved and a summary of your efforts to solve the problem independently.",
+        "lectured_courses": [
+            {
+                "abbreviation": "CSOa",
+                "title": "CCNA Cybersecurity Operations (in English)",
+                "details": "Lecture,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "DFAa",
+                "title": "Digital Forensics (in English)",
+                "details": "Laboratory exercise, Lecture,\nEnglish, summer",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "Rozvoj kapacit v kyberbezpecnosti v Kenske republice",
+            "details": "MZV, Posilovani kapacit verejnych vysokych skol v rozvojovych zemich - vyhlaseni dotacniho programu pro rok 2025, 25-PKVV-020, start: 2025-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2024",
+            "title": "Combined passive and active network monitoring",
+            "details": "TACR, 10. verejna soutez - Program na podporu aplikovaneho vyzkumu, experimentalniho vyvoje TREND, podprogram 1, FW10010040, start: 2024-01-01, end: 2026-06-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "Privacy-respecting Explainable Assessment and Collection of Threats",
+            "details": "TACR, 5. verejna soutez programu Delta 2, TM05000014, start: 2024-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Alliance for developing, teaching and training Digital Forensics and Incident Response students and practitioners",
+            "details": "EU, Erasmus+, 2020-1-LI01-KA203-000185, start: 2020-09-01, end: 2023-08-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Security monitoring of ICS communication in the smart grid",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022138, start: 2019-11-01, end: 2022-10-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "MUTUA, N.; NADJM-TEHRANI, S.; MATOUSEK, P. Penetrating the Power Grid: Realistic Adversarial Attacks on Smart Grid Intrusion Detection Systrems. Critical Information Infrastructures Security. Lecture Notes in Computer Science. Springer Cham: Springer Nature Switzerland AG, 2025. p. 249-268. ISBN: 978-3-031-84259-7."
+        },
+        {
+            "year": "2021",
+            "citation": "MUTUA, N.; MATOUSEK, P. Outlier Detection in Smart Grid Communication. Fast Abstracts and Student Forum Proceedings, 17th European Dependable Computing Conference. Munich: 2021. p. 1-4."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2021",
+            "title": "Statistical Methods for Anomaly Detection in Industrial Communication",
+            "metadata": "report, 2021",
+            "authors": "BURGETOVA, I.; MATOUSEK, P.; MUTUA, N."
+        },
+        {
+            "year": "2020",
+            "title": "Application of Approximate Matching on Industrial Control System (ICS) Network Communication Using Ssdeep Algorithm",
+            "metadata": "report, 2020",
+            "authors": "MUTUA, N."
+        }
+    ],
+    "name": "Mutua Nelson Makau, M.Sc."
+}

@@ -1,0 +1,105 @@
+data:
+  modes: [train, val] #keep this fixed
+  
+  datasets:
+    spokenwoz:    
+      raw_path: /mnt/matylda4/udupa/data/SpokenWOZ/
+      sr: 8000
+      # num_samples:
+        # train: 100
+    humdial:
+      raw_path: /mnt/matylda4/udupa/data/HumDial/
+      sr: 16000
+      languages: [en] #dataset has en and zh
+      # num_samples:
+        # train: 100
+    mlc:
+      raw_path: /mnt/matylda2/data/MLC-SLM/
+      sr: 16000
+      languages: [en] #dataset has en, fr, de, it, kr, jn, pt, ru, es, th, vi
+
+
+  save_paths:
+    dump: /mnt/matylda4/udupa/data/dump/endpointing/
+    preprocessed_data_path: "{dataset}/preprocessed_{mode}.json"
+    vad_data_path: "{dataset}/vad_processed_{mode}.json"
+    processed_data_path: "{dataset}/processed_{mode}.json"
+    filtered_data_path: "{dataset}/filtered_{mode}_context_{context_in_sec}_offset_{extra_offset}.json"
+    resampled_audios_path: "{dataset}/resampled_audios_{mode}_target_sr_{target_sr}"
+  
+  override_preprocessed_data: [] ##fill this with dataset names to override
+  override_vad_data: []
+  override_processed_data: []
+  override_filtered_data: []
+
+  max_length: 500
+  num_vad_workers: 4
+
+  label_params:
+    forecast_intervals_ms: [160, 320, 640, 1280, 1920, 2560] #0.16s to 2.56s
+    context_in_sec: 40.0
+    extra_offset: 10.0
+    use_fixed_context_training: True
+    use_random_start: True
+    
+  special_tokens:
+    system_end: <system_end>
+    user_end: <user_end>
+    system: system
+    user: user
+
+#https://huggingface.co/nvidia/stt_en_fastconformer_hybrid_large_streaming_multi
+  audio_params:
+    audio_feature: fastconformer_streaming
+    target_sr: 16000
+    model_repo: nvidia/stt_en_fastconformer_hybrid_large_streaming_multi
+    feat_size: 512
+    freq: 12.6
+    att_context_size: [70,0]  
+    upsample: false
+
+  text_delim: "_##_"
+
+forecast: true
+endpoint: false
+
+model:
+  name: fc_base_lstm
+  use_system_ip_embed: False
+  mask_system_tokens: True
+  loss_weight_factors: 
+    non_forecast_frames: 1.0
+    forecast_frames: 1.0
+
+model_params:
+  num_layers: 3
+  hidden_size: 324
+  bidirectional: False
+  dropout: 0.1
+  temporal_window: 50
+  
+run_params:
+  device: cuda
+  epochs: 50
+  batch_size: 32
+  lr: 0.001
+  load_checkpoint: False
+  loss_fn: frame_level_binary_cross_entropy
+  save_folder: /mnt/matylda4/udupa/exps/endpointing/NAC-LD-Endpointer/checkpoints
+  overwrite_prev_run: True
+  early_stopping: True
+  early_stopping_patience: 6
+  save_best_from_val_loss: False
+  save_best_from_val_acc: True
+  epoch_save_interval: 1
+  epoch_save_all: False
+  log_img_to_wandb: True 
+  asr_scores_save_filename: asr_offline_scores.pt
+  ep_cutoff_save_filename: ep_cutoff.pt
+  latency_save_filename: median_latency.pt
+  compile_model: True
+
+wandb:
+  wandb_project: 
+  use_wandb: False
+

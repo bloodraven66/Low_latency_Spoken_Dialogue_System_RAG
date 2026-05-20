@@ -1,0 +1,30 @@
+{
+    "project": "Enhanced Pilot Monitoring",
+    "title": "Enhanced Pilot Monitoring",
+    "metadata": {
+        "project_period": "23. 12. 2025 \u2013 23. 2. 2030",
+        "project_type": "contract"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Vylepsene monitorovani pilotu"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "enhanced, pilot, monitoring, communication, human-machine interaction"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Project aims to develop and validate potential advancements in the ability of autonomous systems to sense changes in pilot communications as a result of changes in workload and related conditions, such as stress and fatigue. Such advancements can be used to improve pilot communications and human-machine interactions."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM) \u2013 research leader Cernocky Jan, prof. Dr. Ing. (DCGM) Odehnal Ondrej, Ing. (DCGM) Otahalova Sylva (DCGM) Plchot Oldrich, Ing., Ph.D. (DCGM) Szoke Igor, Ing., Ph.D. (DCGM)"
+        }
+    }
+}

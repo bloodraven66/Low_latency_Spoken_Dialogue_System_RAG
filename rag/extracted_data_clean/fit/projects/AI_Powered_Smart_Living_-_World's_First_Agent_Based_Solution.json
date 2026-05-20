@@ -1,0 +1,33 @@
+{
+    "project": "AI Powered Smart Living - World's First Agent Based Solution",
+    "title": "Chytre bydleni postavene na umele inteligenci - celosvetove prvni reseni zalozene na agentech",
+    "metadata": {
+        "project_period": "1. 9. 2025 \u2013 31. 8. 2027",
+        "project_type": "grant",
+        "code": "FY01010115",
+        "agency": "Ministry of Industry and Trade of the Czech Republic",
+        "program": "Program TWIST - Podprogram 1 \u201eAplikovany vyzkum ve strategickych oblastech (1. verejna soutez)"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "AI Powered Smart Living - World's First Agent Based Solution"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "smart home, artificial intelligence, AI agents, automation, semantic model, Loxone, KNX, digitalization, energy efficiency, smart home"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project is developing the world's first digital solution (Smart Home AI Suite) that uses interconnected AI agents to automate the key phases of a smart home lifecycle - study, design, and programming. At present, the realization of fully integrated smart homes is time-consuming, expensive, and heavily dependent on highly skilled experts, which limits their availability. The new solution will significantly streamline and reduce the cost of these processes, making smart homes accessible to a wider range of customers and enabling implementation companies to deliver more projects with higher quality. A central component of the project is a semantic model of home behavior that links individual technologies and ensures consistency across lifecycle phases. The platform will be cloud-based, scalable, and support systems such as Loxone and KNX, while its behavior specification module will be universally applicable to other platforms. The project contributes to digitalization and the sustainable development of smart living in the Czech Republic and abroad."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Materna Zdenek, Ing., Ph.D. (DCGM) \u2013 research leader Kuchynka Marek, Ing. (DFIT-ISD) Smrz Pavel, doc. RNDr., Ph.D. (DCGM) Smahel Michal, Bc. (DCGM) Vrska Ludek (DFIT-ISD)"
+        }
+    }
+}

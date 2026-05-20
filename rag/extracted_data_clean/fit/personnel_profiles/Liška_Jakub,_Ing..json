@@ -1,0 +1,48 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "iliska@fit.vut.cz",
+            "work_phone": "+420 54114 1312",
+            "room": "Q205 Laboratory",
+            "orcid_id": "0009-0003-6462-4904"
+        }
+    },
+    "teaching": {
+        "consulting_hours": "9:00-16:30 , B/Q205 (Bozetechova 1/2, Brno 61200) Consultations in the office and online are available by prior arrangement at the specified times from Monday to Friday.",
+        "lectured_courses": [
+            {
+                "abbreviation": "ITU",
+                "title": "User Interface Programming",
+                "details": "Exercise in computer lab,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ROBa",
+                "title": "Robotics (in English)",
+                "details": "Laboratory exercise, Project,\nEnglish, winter",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "NGI0 Commons FUND",
+            "details": "EU, HORIZON EUROPE, 101135429, start: 2025-03-26, end: 2027-06-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "NGI0 Core HopOn",
+            "details": "EU, HORIZON EUROPE, SEP-210981495, start: 2024-12-10, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "NGI0 Entrust Hop On",
+            "details": "EU, HORIZON EUROPE, start: 2023-06-02, end: 2026-01-31, running"
+        }
+    ],
+    "name": "Liska Jakub, Ing."
+}

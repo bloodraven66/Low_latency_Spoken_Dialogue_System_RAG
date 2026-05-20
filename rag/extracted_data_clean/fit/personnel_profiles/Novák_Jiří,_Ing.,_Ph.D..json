@@ -1,0 +1,154 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "inovak@fit.vut.cz",
+            "work_phone": "+420 54114 1476",
+            "phone": "+420 608 960 219",
+            "room": "Q203 Laboratory",
+            "orcid_id": "0009-0001-0060-1629",
+            "scopus_author_id": "58261102700"
+        }
+    },
+    "roles": [
+        {
+            "organization": "AeroWorks",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "teaching": {
+        "guaranteed_courses": [
+            {
+                "abbreviation": "CPSa",
+                "title": "Cyber-Physical Systems Design (in English)",
+                "details": "English, summer",
+                "department": "DCGM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "CPSa",
+                "title": "Cyber-Physical Systems Design (in English)",
+                "details": "Laboratory exercise, Lecture,\nEnglish, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ISS",
+                "title": "Signals and Systems",
+                "details": "Fundamentals seminar, Lecture,\nCzech, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "Multi-modal validation system simulator for autonomous driving",
+            "details": "TACR, 12. verejna soutez - Program na podporu prumysloveho vyzkumu a experimentalniho vyvoje TREND, PP1, FW12010130, start: 2025-04-01, end: 2027-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Advanced compression and noise reduction for hyperspectral images data",
+            "details": "NS, Prime kontrakty - smluvni vyzkum, neverejne zdroje, 3-17659/22/NL/GLC/mkn, start: 2022-05-15, end: 2024-06-30, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Laser sensor for autonomous driving of trucks",
+            "details": "TACR, 2. verejna soutez programu Doprava 2020+, CK02000106, start: 2021-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Nanoradar for autonomous driving of trucks and its industrialization 4.0",
+            "details": "TACR, 3. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, PODPROGRAM 1 \u2013 TECHNOLOGICTI LIDRI, FW03010614, start: 2021-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "HERA Cubesat Implementation Phase",
+            "details": "ESA, 4000131925/20/NL/GLC, start: 2020-07-01, end: 2024-12-31, running"
+        },
+        {
+            "year": "2019",
+            "title": "Artificial Intelligence Driven Autonomy",
+            "details": "TACR, Narodni centra kompetence 1, TN01000029, TN01000029/02, start: 2019-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Framework of key enabling technologies for safe and autonomous drones  applications",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A19003, start: 2019-10-01, end: 2023-01-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "HANAK, J.; NOVAK, J.; CHUDY, P. Cognitive Agent Evaluation for Synthetic Pilot Training. In 2025 AIAA DATC/IEEE 44th Digital Avionics Systems Conference (DASC). Montreal, QC, Canada: IEEE, 2025. p. 1-10. ISBN: 979-8-3315-2519-4."
+        },
+        {
+            "year": "2025",
+            "citation": "HANAK, J.; NOVAK, J.; CHUDY, P.; BEN-ASHER, J. Cross-Entropy Method for Laser Defense Applications. Journal of Aerospace Information Systems, 2025, vol. 22, no. 1, p. 53-58. ISSN: 2327-3097."
+        },
+        {
+            "year": "2025",
+            "citation": "NOVAK, J.; CHUDY, P.; HANAK, J. Weight-varying Model Predictive Control for Coupled Cyber-Physical Systems: Aerial Grasping Study. In Machine Learning, Optimization, and Data Science. Lecture Notes in Computer Science. Castiglione della Pescaia: Springer Nature Switzerland AG, 2025. p. 13-27. ISBN: 978-3-031-82481-4."
+        },
+        {
+            "year": "2024",
+            "citation": "HANAK, J.; NOVAK, J.; CHUDY, P. Cognitive Modeling Approach for Generating Authentic Tactical Agent Behavior. In AIAA/IEEE Digital Avionics Systems Conference - Proceedings. IEEE/AIAA ... Digital Avionics Systems Conference. San Diego: Institute of Electrical and Electronics Engineers, 2024. no. 9, p. 1-15. ISBN: 979-8-3503-4961-0. ISSN: 2155-7195."
+        },
+        {
+            "year": "2024",
+            "citation": "HANAK, J.; NOVAK, J.; CHUDY, P. Tactical Scenario Adaptation for Pilot Training. In AIAA/IEEE Digital Avionics Systems Conference - Proceedings. IEEE/AIAA ... Digital Avionics Systems Conference. San Diego: Institute of Electrical and Electronics Engineers, 2024. no. 9, p. 1-7. ISBN: 979-8-3503-4961-0. ISSN: 2155-7195."
+        },
+        {
+            "year": "2024",
+            "citation": "NOVAK, J.; CHUDY, P. Dynamic Soaring in Uncertain Wind Conditions: Polynomial Chaos Expansion Approach. In Machine Learning, Optimization, and Data Science. Lecture Notes in Computer Science. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Grasmere: Springer Nature Switzerland AG, 2024. no. 14505, p. 104-115. ISBN: 978-3-031-53968-8. ISSN: 0302-9743."
+        },
+        {
+            "year": "2024",
+            "citation": "NOVAK, J.; CHUDY, P.; HANAK, J. Model Predictive Control Driven Aerial Grasping with Soft Operational Constraints. In ICAS Proceedings. ICAS Proceedings. Florence: International Council of the Aeronautical Sciences, 2024. no. 10, p. 1-15. ISSN: 2958-4647."
+        },
+        {
+            "year": "2024",
+            "citation": "NOVAK, J.; HANAK, J.; CHUDY, P. Hybrid Modeling Approach for Optimization Based Control of Multirotor Unmanned Aerial Vehicles. In ICAS Proceedings. ICAS Proceedings. Florence: International Council of the Aeronautical Sciences, 2024. no. 10, p. 1-10. ISSN: 2958-4647."
+        },
+        {
+            "year": "2024",
+            "citation": "NOVAK, J.; HANAK, J.; CHUDY, P. Predictive Control Driven Tactical Maneuvering. In ICAS Proceedings. ICAS Proceedings. Florence: International Council of the Aeronautical Sciences, 2024. no. 9, p. 1-12. ISSN: 2958-4647."
+        },
+        {
+            "year": "2024",
+            "citation": "NOVAK, J.; HANAK, J.; CHUDY, P. Reliability-Based Control System Optimization in Uncertain Conditions. In AIAA Aviation Forum and ASCEND, 2024. Las Vegas: American Institute of Aeronautics and Astronautics, 2024. p. 1-15. ISBN: 978-1-62410-716-0."
+        },
+        {
+            "year": "2023",
+            "citation": "NOVAK, J.; CHUDY, P. Surrogate Modeling of Optimal Control Based Collision Avoidance System for Multirotor Unmanned Aerial Vehicles. In AIAA/IEEE Digital Avionics Systems Conference - Proceedings. IEEE/AIAA ... Digital Avionics Systems Conference. Barcelona: Institute of Electrical and Electronics Engineers, 2023. no. 10, p. 1-7. ISBN: 979-8-3503-3357-2. ISSN: 2155-7195."
+        },
+        {
+            "year": "2022",
+            "citation": "NOVAK, J.; CHUDY, P. Unmanned Aerial Vehicle's Trajectory Optimization in Constrained Environments. In 33rd Congress of the International Council of the Aeronautical Sciences, ICAS 2022. ICAS Proceedings. Stockholm: International Council of the Aeronautical Sciences, 2022. no. 11, p. 5682-5696. ISBN: 978-1-7138-7116-3. ISSN: 2958-4647."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2022",
+            "title": "From hyperspectral data processing to pulsar navigation - Aeroworks research group",
+            "metadata": "presentation, poster, 2022",
+            "authors": "KASPAREK, T.; NOVAK, J."
+        }
+    ],
+    "name": "Novak Jiri, Ing., Ph.D."
+}

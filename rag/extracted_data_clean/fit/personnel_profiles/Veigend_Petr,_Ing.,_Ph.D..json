@@ -1,0 +1,297 @@
+{
+    "contact": {
+        "department": "Department of Intelligent Systems",
+        "department_abbr": "DITS",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "veigend@fit.vut.cz",
+            "work_phone": "+420 54114 1183",
+            "phone": "+420 731 137 853",
+            "room": "A305 Office",
+            "researcher_id": "KRR-1450-2024",
+            "orcid_id": "0000-0003-3995-1527",
+            "scopus_author_id": "57053305700"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Bachelor Study Programme Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Contact persons for social safety at FIT",
+            "role": "Study Advisor"
+        },
+        {
+            "organization": "Council for the Use of Information Technologies and Equipment at FIT BUT",
+            "role": "Member"
+        },
+        {
+            "organization": "Dean's Collegium",
+            "role": "Study Advisor"
+        },
+        {
+            "organization": "High Performance Computing Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Intelligent Systems Research Group",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Rada pro sport",
+            "role": "Member"
+        }
+    ],
+    "curriculum": {
+        "scientific_activities": [
+            "Taylor series and its practical applicationsdynamic systems controlsolution of linear and nonlinear differential equationsparallel solution using several approaches",
+            "dynamic systems control",
+            "solution of linear and nonlinear differential equations",
+            "parallel solution using several approaches",
+            "I m also interested in IT security and communication technologies"
+        ],
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2022"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Monday, 13:00-16:00 , B/A305 (Bozetechova 1/2, Brno 61200) Tuesday, 13:00-16:00 , B/A305 (Bozetechova 1/2, Brno 61200) Wednesday, 8:00-10:00 , B/A305 (Bozetechova 1/2, Brno 61200) If you plan on coming during this time, please let me know in advance. Wednesday, 14:00-16:00 , B/A305 (Bozetechova 1/2, Brno 61200) Thursday, 14:00-16:00 , B/A305 (Bozetechova 1/2, Brno 61200) Friday, 15:00-16:00 , B/A305 (Bozetechova 1/2, Brno 61200) Instead of meeting in person, we can use any available online tool. If you want to meet, let me know email, MS Teams ( veigend ), phone +420 731 137 853 personal: Discord, Facebook Outside of specified dates, consultations are possible after arranging them via email. Current information 4 March 2026: consultation hours are cancelled",
+        "lectured_courses": [
+            {
+                "abbreviation": "IEL",
+                "title": "Electronics for Information Technology",
+                "details": "Laboratory exercise, Lecture, Seminar,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IKK",
+                "title": "Circle Consultations",
+                "details": "Fundamentals seminar,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITY",
+                "title": "Typography and Publishing",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IUS",
+                "title": "Introduction to Software Engineering",
+                "details": "Fundamentals seminar, Project,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IVS",
+                "title": "Practical Aspects of Software Design",
+                "details": "Individual preparation - creating a presentation, Individual preparation for a mid-semester exam, Individual preparation for a project work, Lecture, Project,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IZP",
+                "title": "Introduction to Programming Systems",
+                "details": "Exercise in computer lab, Project,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "PRL",
+                "title": "Parallel and Distributed Algorithms",
+                "details": "Project,\nCzech, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "VND",
+                "title": "Highly Sophisticated Computations",
+                "details": "Exercise in computer lab,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "VNV",
+                "title": "High Performance Computations",
+                "details": "Exercise in computer lab, Individual preparation for a final exam, Individual preparation for a lecture, Individual preparation for excercises, Lecture,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "VNVe",
+                "title": "High Performance Computations (in English)",
+                "details": "Exercise in computer lab, Individual preparation for a final exam, Individual preparation for a lecture, Individual preparation for excercises, Lecture,\nEnglish, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "SFC",
+                "title": "Soft Computing",
+                "details": "Project,\nCzech, winter",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Reliable, Secure, and Intelligent Computer Systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Spolehlive, bezpecne a efektivni pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Alba Metal Preparedness Analysis and Industry 4.0",
+            "details": "Intemac Solutions, start: 2018-05-02, end: 2018-05-23, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Bezpecne a spolehlive pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-4014, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Exploring new Applications for Modern Taylor Series Methods to Solve Stiff and High-Order Systems",
+            "details": "MSMT, AKTION Ceska republika - Rakousko, Aktion-76p11, start: 2016-07-01, end: 2017-10-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Simulace toku plynu pistni skupinou spalovacich motoru",
+            "details": "BUT, Vnitrni projekty VUT, FIT/FSI-J-16-3688, start: 2016-03-01, end: 2017-02-28, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "VEIGEND, P.; NECASOVA, G.; SATEK, V. Taylor series based numerical integration method for solution of nonlinear problems with division. In 2024 IEEE 17th International Scientific Conference on Informatics Proceedings. Poprad: Institute of Electrical and Electronics Engineers, 2025. p. 421-426. ISBN: 979-8-3503-8768-1."
+        },
+        {
+            "year": "2025",
+            "citation": "VIDENSKY, F.; ZBORIL, F.; VEIGEND, P. Integrating Late Variable Binding with SP-MCTS for Efficient Plan Execution in BDI Agents. In Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART. Porto: SciTePress - Science and Technology Publications, 2025. p. 679-686. ISBN: 978-989-758-737-5."
+        },
+        {
+            "year": "2024",
+            "citation": "VEIGEND, P.; NECASOVA, G.; SATEK, V. Solving linear and nonlinear problems using Taylor Series Method. Open Computer Science, 2024, vol. 14, no. 1, p. 1-15. ISSN: 2299-1093."
+        },
+        {
+            "year": "2024",
+            "citation": "VEIGEND, P.; SATEK, V. Non-linear control using the numerical method based on the Taylor series. In 20th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Heraklion: American Institute of Physics, 2024. no. 3094, p. 1-4. ISSN: 0094-243X."
+        },
+        {
+            "year": "2023",
+            "citation": "VEIGEND, P.; NECASOVA, G.; SATEK, V. Taylor Series Method in Numerical Integration: Linear and Nonlinear problems. In 2022 IEEE 16th International Scientific Conference on Informatics, Informatics 2022 - Proceedings. Poprad: IEEE Communications Society, 2023. p. 239-244. ISBN: 979-8-3503-1034-4."
+        },
+        {
+            "year": "2023",
+            "citation": "VEIGEND, P.; SATEK, V. Nonlinear Control Using High-Order Integration Method. In 19th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2023. no. 2849, p. 1-4. ISSN: 0094-243X."
+        },
+        {
+            "year": "2022",
+            "citation": "NECASOVA, G.; VEIGEND, P.; SATEK, V. Parallel Solution of Partial Differential Equations Using Taylor Series Method. In 18th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2022. no. 3, p. 1-4. ISSN: 0094-243X."
+        },
+        {
+            "year": "2022",
+            "citation": "VEIGEND, P.; NECASOVA, G.; SATEK, V. System control using high order numerical method. In 18th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2022. no. 3, p. 1-4. ISSN: 0094-243X."
+        },
+        {
+            "year": "2020",
+            "citation": "VEIGEND, P.; NECASOVA, G.; SATEK, V. Taylor Series Based Numerical Integration Method. Open Computer Science, 2020, vol. 11, no. 1, p. 60-69. ISSN: 2299-1093."
+        },
+        {
+            "year": "2019",
+            "citation": "SATEK, V.; VEIGEND, P.; NECASOVA, G. Taylor Series Based Integration in Electric Circuits Simulations. Advances in Electrical and Electronic Engineering, 2019, vol. 17, no. 3, p. 352-359. ISSN: 1804-3119."
+        },
+        {
+            "year": "2019",
+            "citation": "VEIGEND, P.; NECASOVA, G.; SATEK, V. High Order Numerical Integration Method and its Applications - The First 36 Years of MTSM. In 2019 IEEE 15th International Scientific Conference on Informatics. Poprad: Institute of Electrical and Electronics Engineers, 2019. p. 25-30. ISBN: 978-1-7281-3179-5."
+        },
+        {
+            "year": "2019",
+            "citation": "VEIGEND, P.; SATEK, V. Linear system control using high order method. In 16th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2019. no. 7, p. 1-4. ISSN: 0094-243X."
+        },
+        {
+            "year": "2018",
+            "citation": "NECASOVA, G.; VEIGEND, P.; SATEK, V. Modern Taylor series method in numerical integration: PART 2. 17th Czech-Polish Conference Modern Mathematical Methods in Engineering (3mi). Horni Lomna: VSB - Technical University of Ostrava, 2018. p. 211-220. ISBN: 978-80-248-4135-9."
+        },
+        {
+            "year": "2018",
+            "citation": "SATEK, V.; VEIGEND, P.; NECASOVA, G. Taylor Series Based Solution of Nonlinear-quadratic ODE Systems. MATHMOD VIENNA 2018 - 9th Vienna International Conference on Mathematical Modelling. Vienna: ARGE Simulation News, 2018. p. 99-100. ISBN: 978-3-901608-91-9."
+        },
+        {
+            "year": "2018",
+            "citation": "VEIGEND, P.; RAFFAI, P.; NECASOVA, G.; SATEK, V.; KUNOVSKY, J. Gas flow through the piston ring pack. In 15rd International Conference of Numerical Analysis and Applied Mathematics. Thessaloniki: American Institute of Physics, 2018. p. 1-4. ISBN: 978-0-7354-1690-1."
+        },
+        {
+            "year": "2018",
+            "citation": "VEIGEND, P.; SATEK, V.; KUNOVSKY, J. System control using the Modern Taylor series method. In 15th International Conference of Numerical Analysis and Applied Mathematics. Thessaloniki: American Institute of Physics, 2018. p. 1-4. ISBN: 978-0-7354-1690-1."
+        },
+        {
+            "year": "2018",
+            "citation": "VEIGEND, P.; SATEK, V.; NECASOVA, G. Model of the Telegraph line and its Numerical Solution. Open Computer Science, 2018, vol. 8, no. 1, p. 10-17. ISSN: 2299-1093."
+        },
+        {
+            "year": "2017",
+            "citation": "CHALOUPKA, J.; KOCINA, F.; VEIGEND, P.; NECASOVA, G.; SATEK, V.; KUNOVSKY, J. Multiple Integral Computations. In 14th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2017. no. 1863, p. 1-4. ISSN: 0094-243X."
+        },
+        {
+            "year": "2017",
+            "citation": "CHALOUPKA, J.; NECASOVA, G.; VEIGEND, P.; KUNOVSKY, J.; SATEK, V. Modern Taylor series method in numerical integration: PART 1. 16th Czech-Polish Conference Modern Mathematical Methods in Engineering (3mi). Systemy Wspomagania w Inzynierii Produkcji. Rybnik: 2017. no. 4, p. 263-273. ISBN: 978-83-65265-14-2. ISSN: 2391-9361."
+        },
+        {
+            "year": "2017",
+            "citation": "KOCINA, F.; NECASOVA, G.; VEIGEND, P.; CHALOUPKA, J.; SATEK, V.; KUNOVSKY, J. Modelling VLSI Circuits Using Taylor Series. In 14th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2017. no. 1863, p. 1-4. ISSN: 0094-243X."
+        },
+        {
+            "year": "2017",
+            "citation": "NECASOVA, G.; KOCINA, F.; VEIGEND, P.; CHALOUPKA, J.; SATEK, V.; KUNOVSKY, J. Solving Wave Equation Using Finite Differences and Taylor Series. In 14th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2017. no. 1863, p. 1-4. ISSN: 0094-243X."
+        },
+        {
+            "year": "2017",
+            "citation": "NECASOVA, G.; KOCINA, F.; VEIGEND, P.; SATEK, V.; KUNOVSKY, J. Model of the Telegraph Line. In Informatics 2017 - 14th International Scientific Conference on Informatics. Poprad: Institute of Electrical and Electronics Engineers, 2017. p. 271-275. ISBN: 978-1-5386-0888-3."
+        },
+        {
+            "year": "2017",
+            "citation": "VEIGEND, P.; NECASOVA, G.; KOCINA, F.; CHALOUPKA, J.; SATEK, V.; KUNOVSKY, J. Real Time Simulation of Transport Delay. In 14th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2017. no. 1863, p. 1-4. ISSN: 0094-243X."
+        },
+        {
+            "year": "2016",
+            "citation": "KOCINA, F.; KUNOVSKY, J.; NECASOVA, G.; SATEK, V.; VEIGEND, P. Parallel solution of higher order differential equations. In Proceedings of the 2016 International Conference on High Performance Computing & Simulation (HPCS 2016). Insbruck: Institute of Electrical and Electronics Engineers, 2016. p. 302-309. ISBN: 978-1-5090-2088-1."
+        },
+        {
+            "year": "2015",
+            "citation": "CHALOUPKA, J.; KUNOVSKY, J.; SATEK, V.; VEIGEND, P.; MARTINKOVICOVA, A. Numerical Integration of Multiple Integrals Using Taylor's Polynomial. In Proceedings of the 5th International Conference on Simulation and Modeling Methodologies, Technologies and Applications. Colmar: SciTePress - Science and Technology Publications, 2015. p. 163-171. ISBN: 978-989-758-120-5."
+        },
+        {
+            "year": "2015",
+            "citation": "KOCINA, F.; SATEK, V.; VEIGEND, P.; NECASOVA, G.; VALENTA, V.; KUNOVSKY, J. New Trends in Taylor Series Based Applications. In 13rd International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2015. no. 1648, p. 1-4. ISBN: 978-0-7354-1287-3. ISSN: 0094-243X."
+        },
+        {
+            "year": "2015",
+            "citation": "KOCINA, F.; VEIGEND, P.; NECASOVA, G.; KUNOVSKY, J. Parallel Computations of Differential Equations. Proceedings of the 10th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Telc: Ing. Vladislav Pokorny - Litera, 2015. p. 28-35. ISBN: 978-80-214-5254-1."
+        },
+        {
+            "year": "2015",
+            "citation": "KUNOVSKY, J.; SATEK, V.; NECASOVA, G.; VEIGEND, P.; KOCINA, F. The Positive Properties of Taylor Series Method. In Proceedings of the 13th International Conference Informatics' 2015. Poprad: Institute of Electrical and Electronics Engineers, 2015. p. 156-160. ISBN: 978-1-4673-9867-1."
+        },
+        {
+            "year": "2015",
+            "citation": "NECASOVA, G.; KUNOVSKY, J.; SATEK, V.; CHALOUPKA, J.; VEIGEND, P. Taylor Series Based Differential Formulas. In MATHMOD VIENNA 2015 - 8th Vienna Conference on Mathematical Modelling. ARGESIM REPORT No. 44. Vienna: ARGE Simulation News, 2015. p. 705-706. ISBN: 978-3-901608-46-9."
+        },
+        {
+            "year": "2015",
+            "citation": "VEIGEND, P.; KUNOVSKY, J.; KOCINA, F.; NECASOVA, G.; SATEK, V.; VALENTA, V. Electronic Representation of Wave Equation. In 13rd International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2015. no. 1738, p. 1-4. ISBN: 978-0-7354-1392-4. ISSN: 0094-243X."
+        }
+    ],
+    "name": "Veigend Petr, Ing., Ph.D."
+}

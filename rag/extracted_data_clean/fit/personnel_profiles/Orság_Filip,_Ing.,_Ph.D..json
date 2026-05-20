@@ -1,0 +1,514 @@
+{
+    "contact": {
+        "department": "Department of Intelligent Systems",
+        "department_abbr": "DITS",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "orsag@fit.vut.cz",
+            "work_phone": "+420 54114 1195",
+            "room": "S202 Office",
+            "researcher_id": "Q-8107-2019",
+            "orcid_id": "0000-0001-8865-0128",
+            "scopus_author_id": "15132592400"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Robotic research group Robo@FIT",
+            "role": "Principal researcher"
+        },
+        {
+            "organization": "Security Technology Research and Development",
+            "role": "Deputy Head"
+        },
+        {
+            "organization": "Faculty Trade Union of FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "Siemens Prize for the Diploma Thesis 2001",
+            "AFCEA Prize for the Diploma Thesis 2002",
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2012",
+            "The Commemorative Medal of BUT (The Silver Medal) Team STRaDe 2015"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Monday, 8:00-10:30 , B/S202 (Bozetechova 22/1, Brno 61200)",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "IPA",
+                "title": "Advanced Assembly Languages",
+                "details": "Czech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "ISU",
+                "title": "Machine Level Programming",
+                "details": "Czech, English, summer",
+                "department": "DITS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "BIO",
+                "title": "Biometric Systems",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IPA",
+                "title": "Advanced Assembly Languages",
+                "details": "Exercise in computer lab, Lecture, Project,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "ISU",
+                "title": "Machine Level Programming",
+                "details": "Exercise in computer lab, Lecture,\nCzech, English, summer",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2022",
+            "title": "Aviation protection against low-energy lasers",
+            "details": "TACR, 3. verejna soutez programu Doprava 2020+, CK03000036, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Soil analysis and evaluation system",
+            "details": "EU, OP PIK - Aplikace, EG21_374/0026793, CZ.01.1.02/0.0./0.0/21_374/0026793, start: 2022-01-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Universal telemedicine software libraries",
+            "details": "EU, OP PIK - Aplikace, EG20_321/0024616, start: 2021-09-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Universal telemedicine software libraries - SV",
+            "details": "Meta, start: 2021-09-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Spolehlive, bezpecne a efektivni pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Device for automatic scanning of eye retina",
+            "details": "TACR, Program aplikovaneho vyzkumu, experimentalniho vyvoje a inovaci GAMA (2014-2019), TG01010054, start: 2018-04-01, end: 2019-06-30, running"
+        },
+        {
+            "year": "2017",
+            "title": "Bezpecne a spolehlive pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-4014, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Spolehlivost a bezpecnost v IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2486, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Support for practical training course Intelligent Sensors",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2414/2011/G1, start: 2011-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Robot for search of human beings in incrushes and avalanches",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102014024, start: 2010-10-01, end: 2014-07-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Secured, reliable and adaptive computer systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-1, start: 2010-03-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Tools and Methods for Video and Image Processing for the Fight against Terrorism",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015006, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Automated attack processing",
+            "details": "MPO, TIP, FR-TI1/037, start: 2009-10-01, end: 2013-09-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Multimedial and wireless extension intelligent electroinstallation INELS",
+            "details": "MPO, TIP, FR-TI1/392, start: 2009-03-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Research and development of technologies for intelligent optical tracking systems",
+            "details": "MPO, TIP, FR-TI1/195, start: 2009-03-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Testing of the sensor TST-Biometrics BiRD 3",
+            "details": "TST-2009-FIT, start: 2009-08-01, end: 2009-10-28, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Creation of a New Subject for Extension of Language Support at FEEC BUT",
+            "details": "FR1756/2008/F1, start: 2008-01-26, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Expansion of the Laboratory of Biometric Systems",
+            "details": "FR1561/2008/A, start: 2008-01-25, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Software Stabilisation of Image Signal from Camera System II",
+            "details": "HS1480033, start: 2008-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Innovation of Intelligent systems laboratory",
+            "details": "FR1743/2007/A, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2007",
+            "title": "Software Stabilisation of Image Signal from Camera System",
+            "details": "HS1470031, start: 2007-01-04, end: 2007-07-15, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Technical Evaluation of Biometric Systems",
+            "details": "NBU, Projekty resi problematiku vyzkumu a vyvoje v oblasti kryptografie a kryptoanalyzy s cilem zajisteni kryptografickych prostredku pro ochranu utajovanych skutecnosti., ST20072007006, start: 2007-03-27, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Intelligent Systems Laboratory",
+            "details": "FR1688/2004/A, start: 2004-01-01, end: 2004-12-31, completed"
+        },
+        {
+            "year": "2003",
+            "title": "Biometric Security Systems",
+            "details": "FR0835/2003/G1, start: 2003-01-01, end: 2003-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Intelligent systems - preparation of course",
+            "details": "FR1834/2002/F1, start: 2002-04-16, end: 2002-12-31, completed"
+        },
+        {
+            "year": "2001",
+            "title": "Digital processing of the speech signal",
+            "details": "FR0151/2001/G1, start: 2001-02-14, end: 2001-12-31, completed"
+        },
+        {
+            "year": "2001",
+            "title": "Environment for Development, Modelling, and Application of Heterogeneous Systems",
+            "details": "GACR, Standardni projekty, GA102/01/1485, start: 2001-01-01, end: 2003-12-31, completed"
+        },
+        {
+            "year": "2001",
+            "title": "Usage of the digital signature in the automatisation",
+            "details": "FR0142/2001/G1, start: 2001-03-10, end: 2001-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2026",
+            "citation": "RYDLO, S.; ORSAG, F.; GOLDMANN, T.; KOLAR, D. Finger Vein Identification Using Pretrained Feature Matching Networks. IEEE Access, 2026, no. VOLUME 14, 2026, p. 23814-23823."
+        },
+        {
+            "year": "2017",
+            "citation": "LUZA, R.; ORSAG, F.; DRAHANSKY, M.; ROZMAN, J. Robot RUDA - Introduction and Current Research. Central European Researchers Journal, 2017, vol. 3, no. 1, p. 1-8. ISSN: 2453-7314."
+        },
+        {
+            "year": "2014",
+            "citation": "ORSAG, F.; DRAHANSKY, M. Construction of a Rescue Robot: Robotic Arm Module. Applied Mechanics and Materials, 2014, vol. 2014, no. 613, p. 139-143. ISSN: 1662-7482."
+        },
+        {
+            "year": "2013",
+            "citation": "HERMAN, D.; ORSAG, F. Development of Algorithms of the Foreground Objects Effects Compensation for the Passive Optoelectronic Rangefinder. Proceedings of the IASTED International Conference Modelling, Identification and Control (MIC 2013). Innsbruck: ACTA Press, 2013. p. 240-247. ISBN: 978-0-88986-943-1."
+        },
+        {
+            "year": "2013",
+            "citation": "HERMAN, D.; ORSAG, F. Exploring k-PSO Algorithm for Clustering. Proceedings of the IASTED International Conference Artificial Intelligence and Applications (AIA 2013). Innsbruck: ACTA Press, 2013. p. 161-168. ISBN: 978-0-88986-943-1."
+        },
+        {
+            "year": "2012",
+            "citation": "HERMAN, D.; ORSAG, F.; DRAHANSKY, M. Object Tracking in Monochromatic Video Sequences Using Particle Filter. In 7th Scientific International Conference - Enviromental Protection of Population. Brno: Karel Englis College Inc., 2012. p. 120-128. ISBN: 978-80-86710-57-0."
+        },
+        {
+            "year": "2011",
+            "citation": "DRAHANSKY, M.; ORSAG, F.; DVORAK, R.; HAJEK, J.; VANA, J.; HERMAN, D.; KNEZIK, J.; MARVAN, A.; LODROVA, D.; DOLEZEL, M.; HANACEK, P.; MRACEK, S.; STRUZKA, J. Biometrie. Brno: Computer Press, s.r.o, 2011. 294 s. ISBN: 978-80-254-8979-6."
+        },
+        {
+            "year": "2010",
+            "citation": "BREZINOVA, E.; DRAHANSKY, M.; ORSAG, F. Dermatologic Diseases and Fingerprint Recognition. In Database Theory and Application, Bio-Science and Bio-Technology 2010. Communications in Computer and Information Science. Berlin: Springer Verlag, 2010. p. 251-257. ISBN: 978-3-642-17621-0."
+        },
+        {
+            "year": "2010",
+            "citation": "DRAHANSKY, M.; BREZINOVA, E.; LODROVA, D.; ORSAG, F. Fingerprint Recognition Influenced by Skin Diseases. International Journal of Bio-Science and Bio-Technology, 2010, vol. 3, no. 4, p. 11-22. ISSN: 1976-118X."
+        },
+        {
+            "year": "2010",
+            "citation": "DRAHANSKY, M.; BREZINOVA, E.; ORSAG, F.; LODROVA, D. Dermatologicke faktory ovlivnujici snimani otisku prstu pro biometricke ucely. Kriminalistika, 2010, roc. 43, c. 3, s. 196-206. ISSN: 1210-9150."
+        },
+        {
+            "year": "2010",
+            "citation": "DRAHANSKY, M.; ORSAG, F.; HANACEK, P. Accelerometer Based Digital Video Stabilization for General Security Surveillance Systems. International Journal of Security and Its Applications, 2010, vol. 2010, no. 1, p. 1-10. ISSN: 1738-9976."
+        },
+        {
+            "year": "2010",
+            "citation": "DVORAK, R.; DRAHANSKY, M.; ORSAG, F. Object Surface Reconstruction from One Camera System. International Journal of Multimedia and Ubiquitous Engineering, 2010, vol. 5, no. 2, p. 27-38. ISSN: 1975-0080."
+        },
+        {
+            "year": "2010",
+            "citation": "HANACEK, P.; DRAHANSKY, M.; ORSAG, F. Angriffe auf sichere Hardwarelosungen. Die Datenschleuder, 2010, roc. 2010, c. 94, s. 12-14. ISSN: 0930-1054."
+        },
+        {
+            "year": "2010",
+            "citation": "HERMAN, D.; NAJVAREK, J.; ONDRACEK, T.; ORSAG, F.; DRAHANSKY, M. Robot pro Robotour 2010. Proceedings of the 5th Robotour Workshop. Bratislava: 2010. s. 33-37."
+        },
+        {
+            "year": "2010",
+            "citation": "LODROVA, D.; DVORAK, R.; DRAHANSKY, M.; ORSAG, F. A New Method of Finger Veins Detection. International Journal of Bio-Science and Bio-Technology, 2010, vol. 2009, no. 4, p. 11-15. ISSN: 1976-118X."
+        },
+        {
+            "year": "2010",
+            "citation": "LODROVA, D.; DVORAK, R.; DRAHANSKY, M.; ORSAG, F. Method for Finger Veins Detection. In Analysis of Biomedical Signals and Images. Brno: Brno University of Technology, 2010. p. 240-243. ISBN: 978-80-214-4105-7."
+        },
+        {
+            "year": "2010",
+            "citation": "ORSAG, F. Speaker Dependent Coefficients for Speaker Recognition. International Journal of Security and Its Applications, 2010, vol. 2010, no. 1, p. 31-47. ISSN: 1738-9976."
+        },
+        {
+            "year": "2010",
+            "citation": "ORSAG, F.; DRAHANSKY, M. Image stabilization and object tracking in a video-stream. World and homeland security. Brno: University of Defence in Brno, 2010. p. 432-439. ISBN: 978-80-7231-728-8."
+        },
+        {
+            "year": "2009",
+            "citation": "DRAHANSKY, M.; BREZINOVA, E.; ORSAG, F.; LODROVA, D. Classification of Skin Diseases and Their Impact on Fingerprint Recognition. In Proceedings of the Special Interest Group on Biometrics and Electronic Signatures. Lecture Notes in Informatics. Darmstadt: Society for Informatics, 2009. p. 173-176. ISBN: 978-3-88579-249-9."
+        },
+        {
+            "year": "2009",
+            "citation": "DRAHANSKY, M.; LODROVA, D.; ORSAG, F.; BREZINOVA, E. Detekce zivosti prstu. Data Security Management, 2009, roc. 13, c. 2, s. 22-26. ISSN: 1211-8737."
+        },
+        {
+            "year": "2009",
+            "citation": "DRAHANSKY, M.; ORSAG, F. Digital Image Stabilization in a Video-Stream. Proceedings of VISAPP 2009. Lisboa: Institute for Systems and Technologies of Information, Control and Communication, 2009. p. 621-625. ISBN: 978-989-8111-74-6."
+        },
+        {
+            "year": "2009",
+            "citation": "DRAHANSKY, M.; ORSAG, F. Real-time video stabilisation. International Journal of Autonomic Computing, 2009, vol. 2009, no. 2, p. 202-210. ISSN: 1741-8569."
+        },
+        {
+            "year": "2009",
+            "citation": "DRAHANSKY, M.; ORSAG, F.; HANACEK, P. Securing of Communication in GSM Networks. Proceedings of NGWS2009. Melbourne: Lambert Academic Publishing, 2009. p. 30-36. ISBN: 978-3-8383-5346-3."
+        },
+        {
+            "year": "2009",
+            "citation": "DRAHANSKY, M.; ORSAG, F.; HANACEK, P. Accelerometer Based Digital Video Stabilization for Security Surveillance Systems. In Proceedings of International Conference SecTech 2009. Communications in Computer and Information Science 58. Berlin: Springer Verlag, 2009. p. 225-233. ISBN: 978-3-642-10846-4."
+        },
+        {
+            "year": "2009",
+            "citation": "DRAHANSKY, M.; OUJEZDSKY, T.; ORSAG, F. Shooting Emplacement with Wireless Control. Proceedings of NGWS2009. Melbourne: Science & Engineering Research Support Center, 2009. p. 21-23."
+        },
+        {
+            "year": "2009",
+            "citation": "DVORAK, R.; DRAHANSKY, M.; ORSAG, F. Object Surface Reconstruction from One Camera System. In Future Generation Information Technology. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2009. p. 87-94. ISBN: 978-3-642-10508-1."
+        },
+        {
+            "year": "2009",
+            "citation": "LODROVA, D.; DVORAK, R.; DRAHANSKY, M.; ORSAG, F. A New Approach for Veins Detection. In Proceedings of Internation Conference BSBT 2009. Communications in Computer and Information Science 57. Berlin: Springer Verlag, 2009. p. 76-80. ISBN: 978-3-642-10615-6."
+        },
+        {
+            "year": "2009",
+            "citation": "MARVAN, A.; DRAHANSKY, M.; ORSAG, F. Robot for Minisumo. In The 35th Annual Conference of IEEE Industrial Electronics Society, 2009. Porto: Institute of Electrical and Electronics Engineers, 2009. p. 2332-2335. ISBN: 978-1-4244-4648-3."
+        },
+        {
+            "year": "2009",
+            "citation": "ORSAG, F. Speaker Dependent Frequency Cepstrum Coefficients. Security Technology. CCIS 58. Berlin: Springer Verlag, 2009. p. 258-264. ISBN: 978-3-642-10846-4."
+        },
+        {
+            "year": "2007",
+            "citation": "DRAHANSKY, M.; ORSAG, F. Testovani kvality snimku otisku prstu. Datakon 2007. Brno: Masarykova universita, 2007. s. 161-168. ISBN: 978-80-7355-076-9."
+        },
+        {
+            "year": "2007",
+            "citation": "ORSAG, F.; DRAHANSKY, M. Institut fur Intelligente Systeme. Informatik Spektrum, 2007, roc. 30, c. 2, s. 109-109. ISSN: 0170-6012."
+        },
+        {
+            "year": "2006",
+            "citation": "DRAHANSKY, M.; ORSAG, F. Biometrische kryptograpfische Schlussel. DuD - Datenschutz und Datensicherheit, 2006, roc. 2006, c. 8, s. 501-505. ISSN: 1614-0702."
+        },
+        {
+            "year": "2006",
+            "citation": "DRAHANSKY, M.; ORSAG, F. Smernice a standardy v biometrii. Data Security Management, 2006, roc. 2006, c. 4, s. 26-29. ISSN: 1211-8737."
+        },
+        {
+            "year": "2006",
+            "citation": "ORSAG, F. Speaker recognition in the biometric security systems. COMPUTING AND INFORMATICS, 2006, vol. 2006, no. 5, p. 369-391. ISSN: 1335-9150."
+        },
+        {
+            "year": "2005",
+            "citation": "ARNOST, V.; ORSAG, F. Comparison of Spatial Audio Simulation Systems. Proceedings of 39th Spring International Conference MOSIS'05 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2005. p. 282-287. ISBN: 80-86840-10-7."
+        },
+        {
+            "year": "2005",
+            "citation": "DRAHANSKY, M.; ORSAG, F. Muze biometrie slouzit ke kryptografii?. Crypto-world, 2005, roc. 7, c. 11, s. 13-18. ISSN: 1801-2140."
+        },
+        {
+            "year": "2004",
+            "citation": "DRAHANSKY, M.; ORSAG, F. Biometric Security Systems: Robustness of the Fingerprint and Speech Technologies. BT 2004 - International Workshop on Biometric Technologies. Calgary: 2004. p. 99-103."
+        },
+        {
+            "year": "2004",
+            "citation": "DRAHANSKY, M.; ORSAG, F.; ZBORIL, F. Biometrics in Security Applications. Proceedings of 38th International Conference MOSIS '04. Ostrava: Marq software s.r.o., 2004. p. 201-206. ISBN: 80-85988-98-4."
+        },
+        {
+            "year": "2004",
+            "citation": "ORSAG, F. Biometric Security Systems: Speaker Recognition Technology. Brno: 2004. 109 p."
+        },
+        {
+            "year": "2004",
+            "citation": "ORSAG, F. Biometric Security Systems: Speaker Recognition Technology. Brno: Publishing house of Brno University of Technology VUTIUM, 2004. 32 p. ISBN: 80-214-2771-X."
+        },
+        {
+            "year": "2004",
+            "citation": "ORSAG, F. Vision fur die Zukunft. In Biometrie. Sensorpraxis, Band 5. Kreutztal: b-Quadrat Verlag, 2004. s. 131-145. ISBN: 3-933609-02-X."
+        },
+        {
+            "year": "2003",
+            "citation": "DRAHANSKY, M.; ORSAG, F. Biometric Security Systems: Fingerprint and Speech Technology. Proceedings of the 1st Indian International Conference on Artificial Intelligence. Tallahassee: Indian International Conference of Artificial Intelligence, 2003. p. 703-711. ISBN: 0-9727412-0-8."
+        },
+        {
+            "year": "2003",
+            "citation": "DRAHANSKY, M.; ORSAG, F.; SMOLIK, L. Biometric Security Systems. Sbornik Mikulasske kryptobesidky 2003. Praha: ECOM-MONITOR, 2003. p. 1-10. ISBN: 80-903083-3-3."
+        },
+        {
+            "year": "2003",
+            "citation": "ORSAG, F.; ZBORIL, F. Endpoint Detection in the Continuous Speech Using the Neural Networks. Proceedings of 37th International Conference MOSIS 03 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2003. p. 280-286. ISBN: 80-85988-86-0."
+        },
+        {
+            "year": "2002",
+            "citation": "DRAHANSKY, M.; ORSAG, F. Fingerprints and Speech Recognition as parts of the biometry. Proceedings of 36th International Conference MOSIS '02. Ostrava: Marq software s.r.o., 2002. p. 177-183. ISBN: 80-85988-71-2."
+        },
+        {
+            "year": "2002",
+            "citation": "ORSAG, F. Some basic techniques of the speech recognition. Proceedings of 8th Conference STUDENT EEICT 2002. vol. 3. Brno: Faculty of Electrical Engineering and Communication BUT, 2002. p. 90-94. ISBN: 80-214-2116."
+        },
+        {
+            "year": "2001",
+            "citation": "ORSAG, F. Anwendungen der digitalen Sprachverarbeitung. Brno: 2001. 83 s."
+        },
+        {
+            "year": "2001",
+            "citation": "ORSAG, F. Rozpoznavani samohlasek. Proceedings of 7th Conference Student FEI 2001. Brno: Vysoke uceni technicke v Brne, 2001. s. 298-300. ISBN: 80-214-1859-1."
+        },
+        {
+            "year": "2000",
+            "citation": "ORSAG, F. Rozpoznavani hlasu. Sbornik praci studentu a doktorandu. Brno: Akademicke nakladatelstvi CERM sro., 2000. s. 216-218. ISBN: 80-7204-155-X."
+        },
+        {
+            "year": "2000",
+            "citation": "ORSAG, F. Valcovy model hlasoveho traktu. Nove smery v spracovani signalov V. Liptovsky Mikulas: neznama agentura, 2000. s. 101-106. ISBN: 80-8040-071-125X."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2015",
+            "title": "Aplikace Anonymizer",
+            "metadata": "report, 2015",
+            "authors": "ORSAG, F."
+        },
+        {
+            "year": "2015",
+            "title": "Funkcni vzor sledovaciho systemu - zaverecna zprava",
+            "metadata": "report, 2015",
+            "authors": "ORSAG, F."
+        },
+        {
+            "year": "2014",
+            "title": "Algoritmus sledovani objektu pro funkcni vzor sledovaciho systemu",
+            "metadata": "report, 2014",
+            "authors": "ORSAG, F."
+        },
+        {
+            "year": "2013",
+            "title": "Jednokamerovy system pro sledovani objektu",
+            "metadata": "report, 2013",
+            "authors": "ORSAG, F."
+        },
+        {
+            "year": "2012",
+            "title": "Quido - the robot that won the Robotour 2011 competition",
+            "metadata": "presentation, poster, 2012",
+            "authors": "ORSAG, F.; HERMAN, D.; ONDRACEK, T."
+        },
+        {
+            "year": "2011",
+            "title": "Reserse clanku zamerenych na sledovani objektu ve videu",
+            "metadata": "report, 2011",
+            "authors": "ORSAG, F.; SELINGEROVA, B."
+        },
+        {
+            "year": "2011",
+            "title": "Zprovozneni kitu Xilinx Spartan-6 FPGA Industrial Video Processing Kit",
+            "metadata": "report, 2011",
+            "authors": "ORSAG, F."
+        },
+        {
+            "year": "2007",
+            "title": "Prasentation der Forschungsgruppe Biometrie und BUSLab",
+            "metadata": "presentation, poster, 2007",
+            "authors": "ORSAG, F.; DRAHANSKY, M."
+        },
+        {
+            "year": "2007",
+            "title": "Testovani snimacu firmy Suprema",
+            "metadata": "report, 2007",
+            "authors": "DRAHANSKY, M.; ORSAG, F.; MALINKA, K."
+        },
+        {
+            "year": "2003",
+            "title": "Entwurf eines biometrischen Sicherheitssystems",
+            "metadata": "report, 2003",
+            "authors": "DRAHANSKY, M.; ORSAG, F.; SMOLIK, L."
+        }
+    ],
+    "name": "Orsag Filip, Ing., Ph.D."
+}

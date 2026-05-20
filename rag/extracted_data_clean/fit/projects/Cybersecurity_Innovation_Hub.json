@@ -1,0 +1,33 @@
+{
+    "project": "Cybersecurity Innovation Hub",
+    "title": "Cybersecurity Innovation Hub",
+    "metadata": {
+        "project_period": "1. 4. 2023 \u2013 30. 4. 2026",
+        "project_type": "grant",
+        "code": "101083932",
+        "agency": "European Union",
+        "program": "Digital Europe Programme"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Cybersecurity Innovation Hub"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "cybersecurity, digital, centrum"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Cybersecurity Innovation Hub (CIH) is the only European Digital Innovation Hub (EDIH) in the Czech Republic and one of the very few in Central Europe that focuses on Cybersecurity and Trust as the Specific Objective 3 within Digital Europe (DEP)."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM) \u2013 research leader Firc Anton, Ing., Ph.D. (DITS) Gregr Matej, Ing., Ph.D. (DIFS) Hajny Jan, prof. Ing., Ph.D. (UTKO) Homoliak Ivan, doc. Ing., Ph.D. (DITS) Hranicky Radek, Ing., Ph.D. (DIFS) Hruska Tomas, prof. Ing., CSc. (DIFS) Jirovec Martin, Ing. (DFIT-Dean) Letavay Viliam, Ing. (DIFS) Licka Zbynek, Ing. (DITS) Malinka Kamil, doc. Mgr., Ph.D. (DITS) Ondryas Ondrej, Ing. (DIFS) Peresini Martin, Ing. (DITS) Plesko Filip, Ing. (DITS) Pluskal Jan, Ing., Ph.D. (DIFS) Polisensky Jan, Ing. (DIFS) Res Jakub, Ing. (DITS) Rysavy Ondrej, doc. Ing., Ph.D. (DIFS) Stanek Vojtech, Ing. (DITS) Salko Milan, Ing. (DITS) Vesely Vladimir, Ing., Ph.D. (DIFS) Zavrel Jan, Ing. (DIFS)"
+        }
+    }
+}

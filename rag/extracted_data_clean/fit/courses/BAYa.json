@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "code": "BAYa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Bayesian Models for Machine Learning (in English)"
+    },
+    "content": {
+        "guarantor": "Burget Lukas, doc. Ing., Ph.D. | (DCGM)",
+        "course_coordinator": "Cernocky Jan, prof. Dr. Ing. | (DCGM) | Diez Sanchez Mireia, M.Sc., Ph.D.",
+        "language_of_instruction": "English",
+        "completion": "Examination",
+        "time_span": "- 26 hrs lectures\n- 13 hrs seminar\n- 13 hrs projects",
+        "assessment_points": "- 51 pts final exam (written part)\n- 24 pts mid-term test (written part)\n- 25 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Burget Lukas, doc. Ing., Ph.D. | (DCGM) | Diez Sanchez Mireia, M.Sc., Ph.D. | Yusuf Bolaji | (DCGM)",
+        "instructor": "Burget Lukas, doc. Ing., Ph.D. | (DCGM) | Diez Sanchez Mireia, M.Sc., Ph.D.",
+        "learning_objectives": "To demonstrate the limitations of Deep Neural Nets (DNN) that have become a very popular machine learning tool successful in many areas, but that excel only when sufficient amount of well annotated training data is available. To present Bayesian models (BMs) allowing to make robust decisions even in cases of scarce training data as they take into account the uncertainty in the model parameter estimates. To introduce the concept of latent variables making BMs modular (i.e. more complex models can be built out of simpler ones) and well suitable for cases with missing data (e.g. unsupervised learning when annotations are missing). To introduce basic skills and intuitions about the BMs and to develop more advanced topics such as: approximate inference methods necessary for more complex models, infinite mixture models based on non-parametric BMs. The course is taught in English.",
+        "study_literature": "- http://www.fit.vutbr.cz/study/courses/BAYa/public/\n- C. Bishop: Pattern Recognition and Machine Learning, Springer, 2006\n- S. J. Gershman and D.M. Blei: A tutorial on Bayesian nonparametric models, Journal of Mathematical Psychology, 2012.\n- P Orbanz: Tutorials on Bayesian Nonparametrics:http://stat.columbia.edu/~porbanz/npb-tutorial.html",
+        "syllabus_of_lectures": "- Probability theory and probability distributions\n- Bayesian Inference (priors, uncertainty of the parameter estimates, posterior predictive probability)\n- Inference in Bayesian models with conjugate priors\n- Inference in Bayesian Networks (loopy belief propagation)\n- Expectation-Maximization algorithm (with application to Gaussian Mixture Model)\n- Approximate inference in Bayesian models using Gibbs sampling\n- Variational Bayes inference\n- Infinite mixture models, Dirichlet Process, Chinese Restaurant Process\n- Pitman-Yor Process for Language modeling\n- Practical applications of Bayesian inference",
+        "syllabus_of_seminars": "Lectures will be immediately followed by demonstration exercises where examples in Python will be presented. Code and data of all demonstrations will be made available to the students and will constitute the basis for the project.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "The project will follow on the demonstration exercises and will make the student work on provided (simulated or real) data. The students will work in teams in \"evaluation\" mode and present their results at the final lecture/exercise.",
+        "progress_assessment": "- Mid-term exam (24 points)\nMid-term exam (24 points)\n- Submission and presentation of project (25 points)\nSubmission and presentation of project (25 points)\n- Final exam (51points)\nFinal exam (51points)\nTo get points from the exam, you need to get min. 20 points, otherwise the exam is rated 0 points."
+    }
+}

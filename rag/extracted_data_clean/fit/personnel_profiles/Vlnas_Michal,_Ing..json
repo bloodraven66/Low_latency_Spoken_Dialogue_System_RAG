@@ -1,0 +1,99 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "ivlnas@fit.vut.cz",
+            "work_phone": "+420 54114 1477",
+            "room": "Q202 DCGM Laboratory",
+            "researcher_id": "ABH-2904-2022",
+            "orcid_id": "0000-0003-1329-4717",
+            "scopus_author_id": "59900481000"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Computer Graphics Research Group",
+            "role": "Researcher"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "Tuesday, 15:00-18:00 , B/Q202 (Bozetechova 1/2, Brno 61200) Sign up in the table here In other days scheduled with email",
+        "lectured_courses": [
+            {
+                "abbreviation": "PGPa",
+                "title": "Advanced Computer Graphics (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "NGI0 Commons FUND",
+            "details": "EU, HORIZON EUROPE, 101135429, start: 2025-03-26, end: 2027-06-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence",
+            "details": "EU, HORIZON EUROPE, 101159156, start: 2024-05-01, end: 2026-09-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "DynaCount",
+            "details": "TACR, 8. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW08010022, start: 2023-07-01, end: 2024-09-30, completed"
+        },
+        {
+            "year": "2023",
+            "title": "NGI0 Entrust Hop On",
+            "details": "EU, HORIZON EUROPE, start: 2023-06-02, end: 2026-01-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "RoSuM - 5G-enabled Road Surface Marking and Traffic Sign Localization, Quality Inspection, and Regular Passportization",
+            "details": "TACR, 8. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW08010017, start: 2023-06-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Intelligent Sensors for Traffic Monitoring",
+            "details": "EU, OP PIK - Aplikace, EG21_374/0026902, start: 2022-03-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Verification and Validation of Automated Systems' Safety and Security",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A20009, start: 2020-05-01, end: 2023-07-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "V3C - Visual Computing Competence Center",
+            "details": "TACR, Centra kompetence, TE01020415, start: 2012-05-01, end: 2019-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "CHLUBNA, T.; VLNAS, M.; BARINA, D.; MILET, T.; ZEMCIK, P. Focus-aware compression and image quality metric for 3D displays. Signal processing, 2025, vol. 2026, no. 238, p. 1-14. ISSN: 0165-1684."
+        },
+        {
+            "year": "2025",
+            "citation": "CHLUBNA, T.; VLNAS, M.; MILET, T.; ZEMCIK, P. Survey of FOSS 3D/2D Graphics Software Blender Usage in Science, Academia, and Industry. The visual computer, 2025, vol. 42, no. 1, p. 1-32."
+        },
+        {
+            "year": "2025",
+            "citation": "VLNAS, M.; MILET, T.; ZEMCIK, P. Low-error Reconstruction of Directional Functions with Spherical Harmonics. IEEE transactions on visualization and computer graphics, 2025, vol. 31, no. 10, p. 8413-8424. ISSN: 1077-2626."
+        }
+    ],
+    "name": "Vlnas Michal, Ing."
+}

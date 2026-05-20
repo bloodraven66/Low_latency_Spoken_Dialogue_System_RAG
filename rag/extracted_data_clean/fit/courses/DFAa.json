@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "code": "DFAa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Digital Forensics (in English)"
+    },
+    "content": {
+        "guarantor": "Rysavy Ondrej, doc. Ing., Ph.D. | (DIFS)",
+        "course_coordinator": "Matousek Petr, doc. Ing., Ph.D., M.A. | (DIFS)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written+oral)",
+        "time_span": "- 26 hrs lectures\n- 13 hrs laboratories\n- 13 hrs projects",
+        "assessment_points": "- 55 pts final exam\n- 30 pts numeric exercises\n- 15 pts projects",
+        "department": "Department of Information Systems | (UIFS)",
+        "lecturer": "Mutua Nelson Makau, M.Sc. | (DIFS) | Rysavy Ondrej, doc. Ing., Ph.D. | (DIFS)",
+        "instructor": "Mutua Nelson Makau, M.Sc. | (DIFS) | Rysavy Ondrej, doc. Ing., Ph.D. | (DIFS)",
+        "learning_objectives": "The aim is to understand principles of computer forensics and the basic concepts used in a computer forensics examination; introduces techniques required for conducting a forensic analysis of systems and data.\nStudent acquaints basic concepts and principles of computer forensics and skills in a computer forensic examination.",
+        "prerequisite_knowledge_and_skills": "Basic knowledge of operating systems, storage media, networks, and the ability to create simple programs.",
+        "study_literature": "- Nipun Jaswal: Hands-On Network Forensics: Investigate network attacks and find evidence using common network forensic tools, Packt Publishing, 2019.\n- Bruce Nikkel , Practical Linux Forensics, No Starch Press, 2021",
+        "fundamental_literature": "- Daren Hayes, Practical Guide to Digital Forensics Investigations, Pearson IT Certification; 2nd edition, 2020.\n- Gerard Johansen: Digital Forensics and Incident Response: Incident response techniques and procedures to respond to modern cyber threats, Packt Publishing; 2nd edition, 2020",
+        "syllabus_of_lectures": "- Introduction to Forensic Investigation\n- Forensic Data Acquisition\n- Hands-on Lab: Forensic Data Acquisition and Analysis\n- Computer Forensic Examination\n- Hands-on lab: Web Browser Analysis\n- Network Forensics\n- Hands-on Lab: Network Forensics using Wireshark\n- Traffic Tunneling, VPNs, and Covert Channels\n- Hands-on Lab: Covert Channels Analysis\n- Malware Forensics\n- Hands-on Lab: Malware Forensics\n- Password Recovery\n- Hands-on Lab: Password Recovery",
+        "syllabus_of_laboratory_exercises": "- Forensic Data Acquisition and Analysis\n- Web Browser Analysis\n- Network Forensics using Wireshark\n- Covert Channels Analysis\n- Malware Forensics\n- Password Recovery",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "Performing the investigation of the selected cases. Solving the cases and writing the report.",
+        "progress_assessment": "- Project (15 points).\n- Hands-on labs (30 points). Missed labs can only be replaced if there is a serious obstacle in the study.\n- Final exam (55 points). Minimum of 20 points of the final exam is necessary to pass the course.\nControlled activities include the project (15 points), hands-on labs (30 points), and the final exam (55 points). Missed labs can only be replaced if there is a serious obstacle in the study.",
+        "how_to_contact_the_teacher": "As part of face-to-face activities. Possibilities of individual consultations during the teacher's consultation hours or at other times by appointment."
+    }
+}

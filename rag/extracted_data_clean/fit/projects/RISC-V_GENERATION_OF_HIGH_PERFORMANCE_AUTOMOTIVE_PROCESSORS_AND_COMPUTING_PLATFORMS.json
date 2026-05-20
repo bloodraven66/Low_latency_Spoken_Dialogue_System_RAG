@@ -1,0 +1,29 @@
+{
+    "project": "RISC-V GENERATION OF HIGH PERFORMANCE AUTOMOTIVE PROCESSORS AND COMPUTING PLATFORMS",
+    "title": "RISC-V GENERATION OF HIGH PERFORMANCE AUTOMOTIVE PROCESSORS AND COMPUTING PLATFORMS",
+    "metadata": {
+        "project_period": "1. 7. 2025 \u2013 30. 6. 2028",
+        "project_type": "grant",
+        "code": "9A25001",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Automotive RISC-V, high performance, control processors, AI accelerators, European sovereignty in embedded computing, RT, functional safety, security, embedded domains, standards, open source"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Electrification and autonomy drive the rapid evolution of modern vehicles, requiring increasing computational capabilities, coupled with safety and efficiency. The classical, decentralized multi- Electronic Control Units (ECU) architecture has significant drawbacks when it comes to scalability, and it is becoming untenable. The dominant megatrend pushes for an increasing number of key functionalities to be software-defined, with the direct implication that the software content (lines-of-code) in a vehicle will grow by 10x in just 5 years, to 1 billion by 2030. From a hardware viewpoint, increased complexity and autonomy requires a more centralized approach to on-board computing to curtail cost, latency and bandwidth bottlenecks of the in-vehicle network. Centralizing the E/E architecture requires merging multiple Electronic Control Units (ECUs) into powerful, fully programmable Domain Control Units (DCUs) or Zonal Control Units (ZCUs). To address this paradigm shift, the Rigoletto project will establish the foundation for a next-generation Automotive Hardware Platform based on the open RISC-V instruction set architecture (ISA), bolstering and securing Europe's leading role in the automotive electronics industry. The project aligns with the high-level goal of EU Chips Joint Undertaking and the of the industry-led Vehicle of the Future initiative: namely, the creation of a RISC-V based automotive hardware platform strongly linked with the formation of an open, software-defined vehicle ecosystem led by European automotive manufacturers and suppliers. Rigoletto aims at developing RISC-V intellectual property (IP) components, including processor cores, accelerators, interconnects, memory hierarchy and peripheral subsystems. A wide range of performance profiles will be targeted for next-generation DCUs and ZCUs, to enable increasingly electrified, automated, and connected vehicles."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader Bambusek Daniel, Ing. (DCGM) Bobak Petr, Ing., Ph.D. (DCGM) Chlubna Tomas, Ing., Ph.D. (DCGM) Mihola David, Ing. (DCSY) Otrusina Lubomir, Ing. (DCGM) Reich Borek, Ing. (DCGM) Starka Tomas, Ing. (DCGM) Staron Patrik, Ing. (DCGM) Strycek Simon, Ing. (DCGM) Simek Vaclav, Ing. (DCSY) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM) Zarsky Daniel, Bc. (DCGM)"
+        }
+    }
+}

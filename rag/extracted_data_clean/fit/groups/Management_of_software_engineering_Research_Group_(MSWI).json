@@ -1,0 +1,424 @@
+{
+    "group": "Management of software engineering Research Group (MSWI)",
+    "about": {
+        "management_of_software_engineering_research_group": [
+            "Management research group at FIT focuses on the development of advanced methods of processes of software development management. Group is more dealing with development in area Big Data technology."
+        ],
+        "research_interests": [
+            "Management of processes, projects, quality and risk in software management.",
+            "Object oriented software metrics and standards",
+            "Specification methods of processes and IT projects",
+            "Formal models of processes",
+            "Methods and tools for analyzing and design of processes",
+            "Improving of software development process",
+            "Methods of formal analyzing, design and verification of business processes",
+            "Modelling and optimization of business processes",
+            "Business process reengineering",
+            "Development of technologies applied in Big Data area",
+            "Development of tools for support of e-learning",
+            "Management, improvement and ensurence of quality by ISO 9000"
+        ],
+        "current_research_topics": [
+            "Management research group at FIT is currently engaged in research on the development of advanced methods of processes of software development management. Group is more dealing with development in area Big Data technology."
+        ],
+        "significant_results": [
+            "Business Rules Definition for Decision Support System Using Matrix Grammar",
+            "Business Rules Definition for Decision Support System Using Matrix Grammar",
+            "Performance Measurement of Complex Event Platforms",
+            "A tool for formalization of the business rules using business vocabulary and semantics",
+            "Formalization of the business rules - Extension",
+            "Security-Oriented Research in Information Technology"
+        ],
+        "cooperation": [
+            "In the area Big Data processing, we offer collaboration to solve the tasks from area application of Business Rules in information systems."
+        ],
+        "contact": [
+            "Brno University of TechnologyFaculty of Information TechnologyDepartment of Information SystemsBozetechova 2612 00 Brno, Czech RepublicPhone: +420 54114-1260E-mail:kreslika@fit.vutbr.cz"
+        ],
+        "information": [
+            "doc. RNDr. Jitka Kreslikova, CSc.Brno University of TechnologyFaculty of Information TechnologyBozetechova 2, 612 00 Brno, Czech RepublicPhone: +420 541 141 260, Fax: +420 541 141 270mailto:kreslika@fit.vutbr.cz"
+        ],
+        "overview": [
+            "Management research group at FIT focuses on the development of advanced methods of processes of software development management. Group is more dealing with development in area Big Data technology."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Kreslikova Jitka, doc. RNDr., CSc.",
+                "position": "Principal researcher"
+            }
+        ],
+        "researcher": [
+            {
+                "name": "Honzik Jan M., prof. Ing., CSc.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Kvetonova Sarka, Ing., Ph.D.",
+                "position": "Researcher"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2014",
+            "title": "Student Competition Conference STUDENT EEICT 2014",
+            "details": "FIT-S-14-1, start: 2014-03-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Preparing study programme Service Science, Management and Engineering",
+            "details": "MSMT, Rozvojove programy MSMT, C11, start: 2010-01-08, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Network supporting university - enterprise collaboration in Southern Moravia",
+            "details": "EU, OP VK - Oblast podpory 2.4 - Partnerstvi a site (2. vyzva), EE2.4.12.0017, start: 2009-10-15, end: 2012-10-14, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2006",
+            "title": "Identification and analysis of relations of proces and project management in SW product development and their influence on quality management",
+            "details": "FR2557/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Application of Object Oriented Development in Project Management",
+            "details": "FR1692/2004/G1, start: 2004-01-02, end: 2004-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Innovation of Introduction to Software Engineering Course",
+            "details": "FR1689/2004/F1, start: 2004-01-01, end: 2004-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Research and implementation the knowledge management methods for development and maintenance of software",
+            "details": "AV CR, Informacni spolecnost (Narodni program vyzkumu), 1ET409980417, start: 2004-09-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Enhancement and superior practice education Project Management course",
+            "details": "FR1795/2002/F1, start: 2002-01-01, end: 2002-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2017",
+            "details": "HYPSKY, R.; KRESLIKOVA, J. DEFINITION OF BUSINESS RULES USING BUSINESS VOCABULARY AND SEMANTICS. Acta Informatica Pragensia, 2017, vol. 6, no. 1, p. 72-77. ISSN: 1805-4951. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ZAMECNIKOVA, E.; KRESLIKOVA, J. Business Rules Definition for Decision Support System Using Matrix Grammar. Acta Informatica Pragensia, 2016, vol. 5, no. 1, p. 72-81. ISSN: 1805-4951. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ZAMECNIKOVA, E.; KRESLIKOVA, J. Performance Measurement of Complex Event Platforms. Journal of Information and Organizational Sciences, 2016, vol. 40, no. 2, p. 237-254. ISSN: 1846-9418. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "RES, R.; KRESLIKOVA, J. Web applications automated testing. Proceedings of the ECBS-EERC 2015. Brno: 2015. p. 1-5. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HYPSKY, R. A Tool to Support Stakeholder Management. STUDENT EEICT 2014. Volume 2. Brno: Brno University of Technology, 2014. p. 167-169. ISBN: 978-80-214-4923-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "RES, R. Web Applications Quality Assurance Using Automated Testing Tools. STUDENT EEICT 2014. Volume 2. Brno: Brno University of Technology, 2014. p. 182-184. ISBN: 978-80-214-4923-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "VLK, J. Tool for Projects Management Support. STUDENT EEICT 2014. Volume 2. Brno: Brno University of Technology, 2014. p. 188-190. ISBN: 978-80-214-4923-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ZAMECNIKOVA, E. Design Of Autonomous Algorithmic Models For Time Series Prediction. STUDENT EEICT 2014. Volume 3. Brno: Brno University of Technology, 2014. p. 279-283. ISBN: 978-80-214-4924-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ZAMECNIKOVA, E.; KRESLIKOVA, J. Time Series Prediction Based on Event Driven Business Process Management. International Journal of Computational Engineering Research (IJCER), 2014, vol. 4, no. 4, p. 1-6. ISSN: 2250-3005. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SOPUCH, Z. Comparative Attributes of High-frequency Market Making Algorithms. Proceedings of the 19th Conference and Competition STUDENT EEICT 2013 Volume 3. Brno: Faculty of Information Technology BUT, 2013. p. 212-216. ISBN: 978-80-214-4695-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KVETONOVA, S.; TELMOUDI, A. Extended BSC Model (eBSC) Based on Complex Analysis of Business Environment. International Journal of Arts and Sciences, 2011, vol. 2011, no. 6, p. 1-4. ISSN: 1943-6114. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KVETONOVA, S.; TELMOUDI, A. Extended BSC Model (eBSC) Based on Complex Analysis of Business Environment. International Journal of Multidisciplinary Thought, 2011, vol. 2011, no. 1, p. 153-157. ISSN: 2156-6992. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SEDLACKOVA, J. FUNCTION POINT ANALYSIS AND WORKFLOW PROJECTS. Proceedings of the 16th Conference and Competition STUDENT EEICT 2010 Volume 5. Brno: Faculty of Information Technology BUT, 2010. p. 195-199. ISBN: 978-80-214-4080-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SEDLACKOVA, J.; KRESLIKOVA, J. Improvement Estimation of Software by Security Factor. Proceedings of the Work in Progress Session SEAA 2010. Linz: Johannes Kepler University Linz, 2010. p. 48-49. ISBN: 978-3-902457-27-1. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SEDLACKOVA, J.; KRESLIKOVA, J. SECURITY FACTORS IN EFFORT ESTIMATION. Information Systems Architecture and Technology - IT Models in Management Process. Wroclaw: Wroclaw University of Technology, 2010. p. 475-485. ISBN: 978-83-7493-544-9. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SEDLACKOVA, J.; KRESLIKOVA, J. Improvement of Function Point Analysis by Security Factor. Procesny manazer, 2010, vol. 5, no. 8, p. 4-8. ISSN: 1336-8680. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SVOJANOVSKY, P.; KRESLIKOVA, J. Rizeni rizik v bezpecnosti sluzeb IT. European Risk Management, 2010, roc. 7, c. 1, s. 1-12. ISSN: 1802-0496. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SVOJANOVSKY, P.; NOVAK, L. Rizeni rizik ucelne a prakticky?. Konference Internet ve statni sprave a samosprave. Hradec Kralove: Triada, spol. s r. o., 2010. s. 170-174. ISBN: 978-80-904566-0-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KVETONOVA, S.; KOLAR, D. Optimization of Car Repair Processes by Scattered Context Grammars Application. The 2009 European Simulation and Modelling Conference. Ghent: EUROSIS, 2009. p. 146-149. ISBN: 978-90-77381-52-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVOJANOVSKY, P. Rizeni rizik ICT v praxi. ICT & Security 2009. Praha: DCD Publishing, s.r.o., 2009. s. 17-19. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVOJANOVSKY, P.; KRESLIKOVA, J.; NOVAK, L. Risk Identification in ISO/IEC 20000:2005 Implementation. Proceedings of 43rd Spring International Conference MOSIS'09 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2009. p. 55-61. ISBN: 978-80-86840-45-1. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVOJANOVSKY, P.; KRESLIKOVA, J.; NOVAK, L. Rizika v implementaci procesu managementu sluzeb IT. Projektovy management jistota x riziko. Zlin: Univerzita Tomase Bati ve Zline, 2009. s. 152-164. ISBN: 978-80-7318-808-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVOJANOVSKY, P.; NOVAK, L. Prehled metodik pro strategicke rizeni IT. Professional Computing, 2009, roc. 10, c. 12, s. 27-29. ISSN: 1214-5335. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVOJANOVSKY, P.; NOVAK, L.; KRESLIKOVA, J. Process Improvement Towards Information Security. Security and Protection of Information 2009. Brno: University of Defence in Brno, 2009. p. 15-22. ISBN: 978-80-7231-641-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVOJANOVSKY, P.; NOVAK, L.; KRESLIKOVA, J. Role rizeni IT sluzeb v informacni bezpecnosti. Soucasnost a budoucnost krizoveho rizeni 2009. Praha: T-SOFT s.r.o., 2009. s. 11-15. ISBN: 978-80-254-5912-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DOSEDLA, M. Adaptive Process Management Overview. Proceedings of the 14th Conference and Competition STUDENT EEICT 2008 Volume 4. Brno: Faculty of Information Technology BUT, 2008. p. 398-402. ISBN: 978-80-214-3617-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "JANOUSEK, V.; KVETONOVA, S. Object Oriented Petri Nets Usage in Project Portfolio Modeling Domain. Proceedings of 22th European Simulation and Modelling Conference ESM'2008. France: EUROSIS, 2008. p. 1-7. ISBN: 978-90-77381-44-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KOLAR, D.; KVETONOVA, S. Project Plan Formalization and Modeling via Timed CPN. Proceedings of the 6th Industrial Simulation Conference - ISC 08. Ostend: EUROSIS, 2008. p. 34-39. ISBN: 978-90-77381-40-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KOLAR, D.; KVETONOVA, S. Seamless Simplification of Timed-CPN in Project Plan Formalization. 3rd IFIP Central and Eastern European Conference on Software Engineering Techniques CEE-SET 2008. Wroclaw: Wroclaw University of Technology, 2008. p. 29-39. ISBN: 978-83-7493-421-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KOLAR, D.; KVETONOVA, S. Timed Coloured Petri Nets Use in Project Management Formalization Domain. Proceedings of 23th European Simulation and Modelling Conference ESM'2008. France: EUROSIS, 2008. p. 473-478. ISBN: 978-90-77381-44-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KRESLIKOVA, J.; KVETONOVA, S. Risk Assessment in Software Development Projects. Work in Progress 34th Euromicro SEAA Conference. Parma: Johannes Kepler University Linz, 2008. p. 13-14. ISBN: 978-0-7695-3276-9. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KVETONOVA, S.; JANOUSEK, V. Vyuziti OOPN v oblasti modelovani projektoveho portfolia. Proceedings of of Advanced Simulation of Systems 2008 - ASIS 08. Ostrava: 2008. s. 174-179. ISBN: 978-80-86840-42-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KVETONOVA, S.; KRESLIKOVA, J. Unified Methodology to Risk Management in Projects. Proceedings of the 14th International Congress of Cybernetics and Systems of WOCS. Wroclaw: Wroclaw University of Technology, 2008. p. 1-6. ISBN: 978-83-7493-400-8. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KVETONOVA, S.; KRESLIKOVA, J. Integrated Approach to Risk Management in Software Projects. Computer and Software Engineering, 2008, vol. 2008, no. 1, p. 1-4. ISSN: 1844-539X. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KVETONOVA, S.; KRESLIKOVA, J. Risk Management in Software Projects by Pmbok Standard Approach. In Information Systems Architecture and Technology. Models of Organisation s Risk Management. Wroclaw: Wroclaw University of Technology, 2008. p. 143-153. ISBN: 978-83-7493-413-8. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SEDLACKOVA, J. Database System of Environmental Monitoring in the Czech Republic. 22. International Conference on Informatics fo Environmental Protection. Aachen: Shaker Verlag, 2008. p. 549-554. ISBN: 978-3-8322-7313-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SEDLACKOVA, J. Using CSP in Description of Workflow Processes. Proceedings of the 14th Conference and Competition STUDENT EEICT 2008 Volume 4. Brno: Faculty of Information Technology BUT, 2008. p. 423-427. ISBN: 978-80-214-3617-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SEDLACKOVA, J.; MINISTR, J.; RACEK, J. Development of an Information System for the Administration of Environmental Monitoring Data. Proceedings of the International Congress on Environmental Modelling and Software. Barcelona: 2008. s. 69-74. ISBN: 978-84-7653-074-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SEDLACKOVA, J.; RACEK, J. Optimalizace databaze kontaminovanych mist. Tvorba softwaru 2008. Ostrava: 2008. s. 164-167. ISBN: 978-80-248-1765-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SVOJANOVSKY, P.; KRESLIKOVA, J. Specific Attitude to Risk Management on the Background of Global Software Development. 3rd IFIP Central and Eastern European Conference on Software Engineering Techniques CEE-SET 2008. Wroclaw: Wroclaw University of Technology, 2008. p. 271-282. ISBN: 978-83-7493-421-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DOSEDLA, M. Informacni bezpecnost a system jejiho rizeni. Moderni technologie ve vyuce. Brno: MSD, spol. s r. o., 2007. s. 29-31. ISBN: 978-80-7392-003-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KVETONOVA, S.; KRESLIKOVA, J. An iterative software process management using Petri nets. Proceedings of the 16th International Conference on Systems Science. Wroclaw: Wroclaw University of Technology, 2007. p. 334-341. ISBN: 978-83-7493-340-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KVETONOVA, S.; KRESLIKOVA, J. Modelling of Project Management by Petri Nets. Proceedings of the 28th International Scientific School. Wroclaw: Wroclaw University of Technology, 2007. p. 149-156. ISBN: 978-83-7493-346-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KVETONOVA, S.; KRESLIKOVA, J. Project Management Processes Modelling Using Petri Nets. Proceedings of 21th European Simulation and Modelling Conference ESM'2007. Malta: EUROSIS, 2007. p. 1-5. ISBN: 978-90-77381-36-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KVETONOVA, S.; KRESLIKOVA, J. Integrovany pristup k managementu rizik v projektu. Procesny manazer, 2007, roc. 2007, c. 2, s. 16-22. ISSN: 1336-8680. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KVETONOVA, S.; MARTINEK, Z. Statistical Process Control in Software Engineering. Proceedings of the 13th conference Student EEICT 2007. Brno: Faculty of Electrical Engineering and Communication BUT, 2007. p. 1-4. ISBN: 978-80-214-3410-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KVETONOVA, S.; MARTINEK, Z. The Unified Approach to Modelling of Software Project Management Processes. Proceedings of 9th International Conference ISIM'07. Opava: Faculty of Philosophy and Science in Opava, Silesian university in Opava, 2007. p. 20-27. ISBN: 978-80-7248-006-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KVETONOVA, S.; MARTINEK, Z.; KRESLIKOVA, J. Modelling of Software Products Deployment by PMBOK. Proceedings of the 8th International Carpathian Control Conference. Kosice: The University of Technology Kosice, 2007. p. 20-23. ISBN: 978-80-8073-805-1. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SEDLACKOVA, J. Vyuziti CSP pri odhadovani nakladu workflow procesu. Sbornik prispevku 4. Letni skoly aplikovane informatiky. Brno: Masarykova universita, 2007. s. 11-15. ISBN: 80-210-4146-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SEDLACKOVA, J.; RACEK, J. Portalova podpora Narodniho onkologickeho programu. Tvorba software 2007. Ostrava: Ceska spolecnost pro systemovou integraci, 2007. s. 174-179. ISBN: 978-80-248-1427-8. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KRESLIKOVA, J. Management rizik. European Risk Management, 2006, roc. 2006, c. 1, 12 s. ISSN: 1802-0496. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KRESLIKOVA, J. Rizeni kvality v ramci projektu. European Risk Management, 2006, roc. 2006, c. 4, 15 s. ISSN: 1802-0496. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KUBAT, L. CERTIFICATION OF QUALITY SYSTEM. Proceedings of the 12th Conference and Competition STUDENT EEICT 2006 Volume 4. Brno: Faculty of Information Technology BUT, 2006. p. 85-89. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KUBAT, L. IMPLEMENTING A QUALITY SYSTEM. ICCC 2006. Roznov: 2006. p. 54-57. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KUBAT, L. Procedures within Quality Audits. NETSS 2006. Ostrava: 2006. p. 28-34. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KVETONOVA, S.; KRESLIKOVA, J. Softwarova podpora projektoveho mysleni. PROMA 05. Acta EVIDA No 45. Plzen: Sdruzeni Evida - konferencni servis, 2006. s. 1-8. ISBN: 80-86596-72-9. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "MARTINEK, Z. Identification of Process Level in Relation to Utilization in Workflow Management. Student EEICT 2006, Volume 4. Brno: 2006. p. 385-389. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "MARTINEK, Z.; KRESLIKOVA, J. Vztah procesniho a projektoveho rizeni pri vyvoji software. Pedagogicky software 2006. Ceske Budejovice: Scientifik Pedagogical Publishing, 2006. s. 75-77. ISBN: 80-85645-56-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "MARTINEK, Z.; KRESLIKOVA, J. Vztahy procesniho a projektoveho rizeni. PROMA 06. Acta EVIDA No. 52. Plzen: Sdruzeni Evida - konferencni servis, 2006. s. 1-6. ISBN: 80-86596-85-0. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SEDLACKOVA, J.; HUNKA, F. Odhady nakladu workflow projektu metodou FPA. Sbornik prispevku 3. letni skola aplikovane informatiky. Brno: 2006. s. 94-98. ISBN: 80-210-4146-3. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SEDLACKOVA, J.; HUNKA, F.; MINISTR, J.; RACEK, J. Pouziti metody funkcnich bodu v oblasti workflow procesu. Informacni technologie pro praxi. Ostrava: VSB Technicka univerzita Ostrava, 2006. s. 96-100. ISBN: 80-248-1162-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BEDNAR, D.; KRESLIKOVA, J. Metodika projektoveho rizeni vyvoje softwarovych aplikaci. Automa, 2005, roc. 2005, c. 7, s. 10-12. ISSN: 1210-9592. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KUBAT, L.; KRESLIKOVA, J. Rizeni jakosti v ramci projektu. PRONT 05. Acta Evida No 41. Plzen: Sdruzeni Evida - konferencni servis, 2005. s. 83-96. ISBN: 80-86596-65-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KVETONOVA, S.; KRESLIKOVA, J. Procesy managementu komunikace v projektu. PRONT 05. Acta Evida No 41. Plzen: Sdruzeni Evida - konferencni servis, 2005. s. 97-107. ISBN: 80-86596-65-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MARTINEK, Z. Fewer Faults Due to Requierments Engineering. Proceedings of the 11th Conference and Competition STUDENT EEICT 2005. Brno: 2005. p. 35-40. ISBN: 80-214-2890-2. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MARTINEK, Z.; KRESLIKOVA, J. How to utilise algebra of Communicating Sequential Processes in modelling of software product development. New Trends in System Simulation. Ostrava: VSB - Technical University of Ostrava, 2005. p. 1-6. ISBN: 80-86840-07-7. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "POLAK, V.; KRESLIKOVA, J. Management rizik v managementu projektu. PRONT 05. Acta Evida No 41. Plzen: Sdruzeni Evida - konferencni servis, 2005. s. 159-165. ISBN: 80-86596-65-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SEDLACKOVA, J.; FIALA, J.; MINISTR, J.; RACEK, J. Measurement of Workflow System Development. EnviroInfo 2005 - Networking Environmental Information. Brno: Medical Faculty of Masaryk University, 2005. p. 646-650. ISBN: 80-210-3780-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SEDLACKOVA, J.; RACEK, J. Measurements of Biological Software. Proceedings of the 1st International Summer School on Computational Biology. Brno: Medical Faculty of Masaryk University, 2005. p. 140-143. ISBN: 80-210-3907-8. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2017",
+            "title": "Formalizace semantiky BR - rozsireni",
+            "authors": "Formalizace semantiky BR - rozsireni , software, 2017 : HYPSKY, R.; KRESLIKOVA, J."
+        },
+        {
+            "year": "2017",
+            "title": "Nastroj pro formalizaci podnikovych pravidel s vyuzitim jejich semantiky a podnikoveho slovniku",
+            "authors": "Nastroj pro formalizaci podnikovych pravidel s vyuzitim jejich semantiky a podnikoveho slovniku , software, 2017 : HYPSKY, R.; KRESLIKOVA, J."
+        },
+        {
+            "year": "2009",
+            "title": "Nastroj pre riadenie rizik technickych zmien",
+            "authors": "Nastroj pre riadenie rizik technickych zmien , software, 2009 : STRYKA, L.; KRESLIKOVA, J.; KVETONOVA, S."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2008",
+            "title": "Metodika hodnoceni rizik technickych zmen",
+            "authors": ", results incorporated in guidelines, 2008 : KRESLIKOVA, J.; KVETONOVA, S.; STRYKA, L."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2009",
+            "title": "Nastroj pre riadenie rizik technickych zmien",
+            "authors": "Nastroj pre riadenie rizik technickych zmien , report, 2009 : STRYKA, L.; KRESLIKOVA, J.; KVETONOVA, S."
+        },
+        {
+            "year": "2008",
+            "title": "Metodika hodnoceni rizik technickych zmen",
+            "authors": "Metodika hodnoceni rizik technickych zmen , report, 2008 : KRESLIKOVA, J.; KVETONOVA, S.; STRYKA, L."
+        }
+    ]
+}

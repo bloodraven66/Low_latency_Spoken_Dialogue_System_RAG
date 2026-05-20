@@ -1,0 +1,25 @@
+{
+    "project": "Japan and EU Semiconductors: Mutual Innovation & Excellence",
+    "title": "Japan and EU Semiconductors: Mutual Innovation & Excellence",
+    "metadata": {
+        "project_period": "1. 7. 2026 \u2013 31. 12. 2027",
+        "project_type": "grant",
+        "code": "101291275",
+        "agency": "Ministry of Education, Youth and Sports",
+        "program": "Chips Joint Undertaking"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "JASMINE (Japan and EU Semiconductors: Mutual Innovation & Excellence) is a Horizon Europe Coordination and Support Action (CSA) designed to strengthen strategic cooperation between the European Union and Japan in the semiconductor sector. In alignment with the European Chips Act, the project aims to enhance the resilience, sustainability, and competitiveness of the EU semiconductor ecosystem by leveraging Japan's complementary strengths in materials science, manufacturing equipment, and advanced packaging. Over an 18-month period, JASMINE will conduct a comprehensive mapping of semiconductor value chains, identify joint research and innovation (R&I) priorities, and propose coordinated investment and regulatory strategies. The project will also foster talent development through staff exchange programs, job fairs, and academic-industry collaborations, while promoting alignment in Life Cycle Assessment (LCA) methodologies to support sustainable semiconductor manufacturing. By facilitating bilateral and multilateral partnerships, JASMINE seeks to deliver strategic recommendations and a roadmap for future EU-Japan collaboration, contributing to Europe's goal of increasing its global semiconductor market share to 30% by 2030. The initiative brings together major leading institutions and companies across Europe and Japan, creating a robust framework for innovation, policy alignment, and long-term industrial cooperation."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader"
+        }
+    }
+}

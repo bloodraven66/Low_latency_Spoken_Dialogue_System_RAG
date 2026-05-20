@@ -1,0 +1,36 @@
+{
+    "project": "Advancing Robust and Creative Human language technologies through CHallenge Events and Research",
+    "title": "Advancing Robust and Creative Human language technologies through CHallenge Events and Research",
+    "metadata": {
+        "project_period": "1. 12. 2024 \u2013 30. 11. 2029",
+        "project_type": "grant",
+        "agency": "European Union",
+        "program": "European Defence Fund"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Vylepsovani robustnich a kreativnich technologii lidskeho jazyka prostrednictvim akci a vyzkumu CHallenge"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Human Language, HLT, NLP, Translation, Speech Challenge"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Human Language Technologies (HLT) development has boomed in recent years. These developments have yielded significant improvements in machine translation capabilities, automatic speech processing, extraction of information of interest from texts, etc. They have facilitated the operational use of HLT in several information systems, including online translation services, call centres, and voice assistants. However, the application and the deployment of these technologies in Defence systems for C4ISR and multinational operations reveals a number of shortcomings, failing to meet the operational needs and to achieve the required accuracy. This is mainly due to the specific needs of the Defence domain and its corresponding characteristics (dialects, low resources, or rare languages, use in the field, noise and communications quality, etc.) which are not taken into account by solutions originating in the civilian domain. With the digitalisation of the battlefield, which leads to more and more complex user interfaces and to ever-increasing volumes of language data to process, there is a growing need for enhanced language processing capabilities, particularly in the areas of speech recognition, machine translation, and natural language processing. To both tackle these problems and preserve Europe sovereignty in the sector, ARCHER will deliver a multi-annual challenge encouraging research to advance HLT bricks specifically tailored to Defence applications. The challenge will serve as a pivotal resource for evaluating the efficiency and reliability of HLT bricks, to best meet end-user needs."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Cernocky Jan, prof. Dr. Ing. (DCGM) \u2013 research leader Han Jiangyu (DCGM) Hegde Pradyoth (FIT) Klement Dominik, Ing. (DCGM) Kocour Martin, Ing. (DCGM) Odehnal Ondrej, Ing. (DCGM) Palka Petr, Ing. (DCGM) Peng Junyi (DCGM) Plchot Oldrich, Ing., Ph.D. (DCGM) Polok Alexander, Ing. (DCGM) Rohdin Johan Andreas, M.Sc., Ph.D. (DCGM) Sedlacek Simon, Ing. (DCGM) Schwarz Petr, Ing., Ph.D. (DCGM) Szoke Igor, Ing., Ph.D. (DCGM) Svec Jan, Ing. (DCGM) Vendrame Katia, Ing. (DCGM) Vesely Karel, Ing., Ph.D. (DCGM) Zizka Josef, Ing. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- HAN, J.; LANDINI, F.; ROHDIN, J.; SILNOVA, A.; DIEZ, M.; CERNOCKY, J.; BURGET, L. Fine-tune Before Structured Pruning: Towards Compact and Accurate Self-Supervised Models for Speaker Diarization. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1583-1587. Detail HEGDE, P.; KESIRAJU, S.; SVEC, J.; SEDLACEK, S.; YUSUF, B.; PLCHOT, O.; DEEPAK, K.; CERNOCKY, J. Factors affecting the in-context learning abilities of LLMs for dialogue state tracking. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 4818-4822. Detail PENG, J.; MOSNER, L.; ZHANG, L.; PLCHOT, O.; STAFYLAKIS, T.; BURGET, L.; CERNOCKY, J. CA-MHFA: A Context-Aware Multi-Head Factorized Attentive Pooling for SSL-Based Speaker Verification. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1. Detail SEDLACEK, S.; YUSUF, B.; SVEC, J.; HEGDE, P.; KESIRAJU, S.; PLCHOT, O.; CERNOCKY, J. Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1748-1752. Detail\n- HEGDE, P.; KESIRAJU, S.; SVEC, J.; SEDLACEK, S.; YUSUF, B.; PLCHOT, O.; DEEPAK, K.; CERNOCKY, J. Factors affecting the in-context learning abilities of LLMs for dialogue state tracking. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 4818-4822. Detail PENG, J.; MOSNER, L.; ZHANG, L.; PLCHOT, O.; STAFYLAKIS, T.; BURGET, L.; CERNOCKY, J. CA-MHFA: A Context-Aware Multi-Head Factorized Attentive Pooling for SSL-Based Speaker Verification. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1. Detail SEDLACEK, S.; YUSUF, B.; SVEC, J.; HEGDE, P.; KESIRAJU, S.; PLCHOT, O.; CERNOCKY, J. Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1748-1752. Detail\n- PENG, J.; MOSNER, L.; ZHANG, L.; PLCHOT, O.; STAFYLAKIS, T.; BURGET, L.; CERNOCKY, J. CA-MHFA: A Context-Aware Multi-Head Factorized Attentive Pooling for SSL-Based Speaker Verification. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1. Detail SEDLACEK, S.; YUSUF, B.; SVEC, J.; HEGDE, P.; KESIRAJU, S.; PLCHOT, O.; CERNOCKY, J. Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1748-1752. Detail\n- SEDLACEK, S.; YUSUF, B.; SVEC, J.; HEGDE, P.; KESIRAJU, S.; PLCHOT, O.; CERNOCKY, J. Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1748-1752. Detail"
+        }
+    }
+}

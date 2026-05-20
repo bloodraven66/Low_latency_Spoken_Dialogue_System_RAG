@@ -1,0 +1,1060 @@
+{
+    "group": "Dependable Digital Systems Research Group (DEPSYS)",
+    "about": {
+        "dependable_digital_systems_research_group": [
+            "The group researches methods for the design and implementation of modern digital systems with an emphasis on reliability, safety, and related features. The interests of the group members span the levels of digital circuit design and modelling from the transistor level through the gate level, RT, and up to the system level."
+        ],
+        "research_interests": [
+            "Reliability and safety",
+            "Fault injection and fault tolerant systems",
+            "Cyber-physical, critical, real-time and reconfigurable systems",
+            "Functional verification and modeling checking of systems",
+            "Assessment of dependability attributes of systems",
+            "Novel and unconventional approaches to dependability related problems",
+            "Design methods and techniques for digital systems in the \"Beyond-CMOS\" era"
+        ],
+        "current_research_topics": [
+            "Increasing dependability by means of partial dynamic reconfiguration in an FPGA (contact: Josef Strnadel ). Keywords: partial dynamic reconfiguration, control, controller, FPGA.",
+            "Means of a fault injection into an FPGA (contact: Josef Strnadel ). Keywords: fault, injection, FPGA.",
+            "Methods for acceleration of functional verification using machine learning algorithms (contact: Marcela Simkova ). Keywords: functional verification, UVM, machine learning algorithms, acceleration, automation.",
+            "Vertical reusability of verification models between different levels of digital circuit design (contact: Marcela Zachariasova ). Keywords: portable models, PSS, functional verification, UVM.",
+            "Dependability of critical and cyber-physical systems (contact : Josef Strnadel ). Keywords: dependability, quantification of dependability attributes, processor, operating system, real time, control, formal verification, model checking.",
+            "Unconventional and Emerging Technologies and Techniques of Digital Systems Design (contact: Richard Ruzicka) . Keywords: polymorphic electronics, ambipolar elements.",
+            "Protection against unauthorized modifications of digital systems in the process of their design and production (contact: Richard Ruzicka ). Keywords: hardware trojan horses, obfuscation, watermarking, physically unclonable functions (PUF)."
+        ],
+        "significant_results": [
+            "Publishing an article \"Predictability Analysis of Interruptible Systems by Statistical Model Checking\" in IEEE Design & Test",
+            "Publishing an article \"Functional Verification Based Platform for Evaluating Fault Tolerance Properties\" in Microprocessors and Microsystems",
+            "Software GDRC: Generic partial dynamic reconfiguration controller",
+            "Tools enabling to develop fault tolerant architectures and checkers from VHDL",
+            "Prototype intMAN: Priority-Driven Load-Adaptive Monitoring-Based Hardware for Managing Interrupts in Embedded Event-Triggered Real-Time Systems",
+            "Publishing a book \"Hardware Accelerated Functional Verification\""
+        ],
+        "cooperation": [
+            "We welcome cooperation and offer the opportunity to engage others in our research topics (e.g., during the Ph.D. study or intership) or doing a short-term work (e.g., during the project practice, Bc. or MSc. thesis).",
+            "We offer our institutional, industrial and other partners, e.g., the possibility of joint participation in national, European or international projects."
+        ],
+        "more_information": [
+            "Typically, group members publish their papers at international conferences such as IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS), Euromicro Conference on Digital System Design (DSD), Design and Verification Conference (DVCON) and in journals such as Microprocessors and Microsystems or Computing and Informatics.",
+            "For realization purposes, we use particularly field programmable gate arrays (FPGA) and development tools from Xilinx, microcontrollers (MCU) and development tools from NXP, ARM and tools from Siemens and Cadence company."
+        ],
+        "information": [
+            "Dependable Digital Systems Research GroupBrno University of Technology, Faculty of Information TechnologyBozetechova 2612 00 BrnoCzech RepublicTel.: +420 54114-1223Fax.: +420 54114-1270E-mail:kotasek@fit.vutbr.cz"
+        ],
+        "overview": [
+            "The group researches methods for the design and implementation of modern digital systems with an emphasis on reliability, safety, and related features. The interests of the group members span the levels of digital circuit design and modelling from the transistor level through the gate level, RT, and up to the system level."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Ruzicka Richard, doc. Ing., Ph.D., MBA",
+                "position": "Principal researcher"
+            }
+        ],
+        "researcher": [
+            {
+                "name": "Lojda Jakub, Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Strnadel Josef, Ing., Ph.D.",
+                "position": "Researcher",
+                "notes": [
+                    "Dependability",
+                    "Embedded, critical and cyber-physical systems",
+                    "Real-time (operating) systems",
+                    "Modeling and analysis of dynamic systems",
+                    "Formal verification and model checking, statistical model checking",
+                    "Application of timed automata"
+                ]
+            },
+            {
+                "name": "Simek Vaclav, Ing.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Zachariasova Marcela, Ing., Ph.D.",
+                "position": "Researcher"
+            }
+        ],
+        "ph.d._student": [
+            {
+                "name": "Bardonek Petr, Ing.",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Panek Richard, Ing., Ph.D.",
+                "position": "Ph.D. student"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2012",
+            "title": "Methodologies for Fault Tolerant Systems Design Development, Implementation and Verification",
+            "details": "MSMT, COST CZ (2011-2017), LD12036, start: 2012-03-01, end: 2015-11-30, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Manufacturable and Dependable Multicore Architectures at Nanoscale",
+            "details": "MSMT, COST, COST IC1103, start: 2011-06-15, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Vyuziti modernich pristupu k vytvareni cislicovych systemu zalozenych na rekonfigurovatelnych architekturach",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2348/2010/G1, start: 2010-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Podpora predmetu zamerenych na navrh cislicovych systemu s ohledem na diagnostiku",
+            "details": "FR2318/2009/G1, start: 2009-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "SoC circuits reliability and availability improvement",
+            "details": "GACR, Standardni projekty, GA102/09/1668, start: 2009-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Test scheduling for embedded systems under power constraints",
+            "details": "FR3383/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Testing of embedded systems",
+            "details": "FR3198/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Evolutionary Design of Benchmark Circuits",
+            "details": "FR3041/2005/G1, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Optimizing Methods in Digital Systems Diagnosis",
+            "details": "GACR, Postdoktorandske granty, GP102/05/P193, start: 2005-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Modern Methods of Digital Systems Design",
+            "details": "GACR, Standardni projekty, GA102/04/0737, start: 2004-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2003",
+            "title": "Evolvable hardware based applications design methods",
+            "details": "GACR, Postdoktorandske granty, GP102/03/P004, start: 2003-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2003",
+            "title": "Formal approach to digital circuits test scheduling",
+            "details": "GACR, Postdoktorandske granty, GP102/03/P176, start: 2003-01-01, end: 2005-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "details": "LOJDA, J.; JOYCE, D.; SMRZ, P.; KATHURIA, S.; STRNADEL, J.; QUINN, C.; SIMEK, V.; STARON, P. Portable Simulation Models for Energy Aspects of IoT Devices in the LoLiPoP-IoT Project. 2025 28th Euromicro Conference on Digital System Design (DSD). Salerno: IEEE Computer Society, 2025. p. 368-375. ISBN: 979-8-3315-8499-3. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "LOJDA, J.; STRNADEL, J.; SMRZ, P.; SIMEK, V. Multi-Partner Project: LoLiPoP-IoT - Design and Simulation of Energy-Efficient Devices for the Internet of Things. In 2025 Design, Automation & Test in Europe Conference (DATE) Proceedings. Lyon: Institute of Electrical and Electronics Engineers, 2025. p. 1-7. ISBN: 978-3-9826741-0-0. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "LOJDA, J.; STRNADEL, J.; SIMEK, V.; SMRZ, P.; HAYES, M.; POPP, R. The LoLiPoP-IoT Project: Long Life Power Platforms for Internet of Things. In Proceedings - 2024 27th Euromicro Conference on Digital System Design, DSD 2024. Paris: Institute of Electrical and Electronics Engineers, 2024. p. 604-611. ISBN: 979-8-3503-8038-5. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "LOJDA, J.; STRNADEL, J.; SMRZ, P.; SIMEK, V. First Steps Towards Unified Low-Power IoT Design: The \"DYNAMIC\" Framework. 2024 IEEE East-West Design and Test Symposium, EWDTS 2024 - Proceedings. Yerevan: Institute of Electrical and Electronics Engineers, 2024. p. 1-6. ISBN: 979-8-3315-1576-8. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "STRNADEL, J.; LOJDA, J.; SMRZ, P.; SIMEK, V. On SMC-Based Dependability Analysis in LoLiPoP-IoT Project. Steffen, B. (eds) Bridging the Gap Between AI and Reality (AISolA 2024). Lecture Notes in Computer Science. Limenas Hersonissou: Springer Nature Switzerland AG, 2024. p. 420-425. ISBN: 978-3-031-75434-0. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "STRNADEL, J.; LOJDA, J.; SMRZ, P.; SIMEK, V. Machine Learning in Context of IoT/Edge Devices and LoLiPoP-IoT Project. In Proceedings of 32nd Austrian Workshop on Microelectronics (Austrochip 2024). Vienna: Institute of Electrical and Electronics Engineers, US, 2024. p. 1-4. ISBN: 979-8-3315-1617-8. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "LOJDA, J.; PANEK, R.; SEKANINA, L.; KOTASEK, Z. Automated Design and Usage of the Fault-Tolerant Dynamic Partial Reconfiguration Controller for FPGAs. MICROELECTRONICS RELIABILITY, 2023, vol. 2023, no. 144, p. 1-16. ISSN: 0026-2714. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "PANEK, R.; LOJDA, J. The Fault-tolerant Single-FPGA Systems with a Self-repair Reconfiguration Controller. In LASCAS 2023 - 14th IEEE Latin American Symposium on Circuits and Systems, Proceedings. Quito: Institute of Electrical and Electronics Engineers, 2023. p. 104-107. ISBN: 978-1-6654-5705-7. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "STRNADEL, J. Analyzing Dynamic Aspects of AxC Systems by Means of Statistical Model Checking. In Proceedings of 2022 25th International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS). Prague: Institute of Electrical and Electronics Engineers, 2022. p. 88-93. ISBN: 978-1-6654-9431-1. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "LOJDA, J.; PANEK, R.; KOTASEK, Z. Automatic Design of Fault-Tolerant Systems for VHDL and SRAM-based FPGAs. In Proceedings - 2021 24th Euromicro Conference on Digital System Design, DSD 2021. Palermo: Institute of Electrical and Electronics Engineers, 2021. p. 549-552. ISBN: 978-1-6654-2703-6. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "LOJDA, J.; PANEK, R.; KOTASEK, Z. Automatically-Designed Fault-Tolerant Systems: Failed Partitions Recovery. In 2021 IEEE East-West Design and Test Symposium, EWDTS 2021 - Proceedings. Batumi: Institute of Electrical and Electronics Engineers, 2021. p. 26-33. ISBN: 978-1-6654-4503-0. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "LOJDA, J.; PANEK, R.; PODIVINSKY, J.; CEKAN, O.; KRCMA, M.; KOTASEK, Z. Testing Embedded Software Through Fault Injection: Case Study on Smart Lock. In 2021 IEEE 22nd Latin American Test Symposium, LATS 2021. Punta del Este: Institute of Electrical and Electronics Engineers, 2021. p. 80-85. ISBN: 978-1-6654-2057-0. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "LOJDA, J.; PODIVINSKY, J.; CEKAN, O.; KOTASEK, Z. Accelerating Tests of Arithmetic Circuits Through On-FPGA Stimuli Generation and Their Reduction. In International Conference on Electrical, Computer, Communications and Mechatronics Engineering, ICECCME 2021. Mauritius: Institute of Electrical and Electronics Engineers, 2021. p. 1628-1633. ISBN: 978-1-6654-1262-9. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "PANEK, R.; LOJDA, J.; PODIVINSKY, J.; KOTASEK, Z. Reliability Analysis of the FPGA Control System with Reconfiguration Hardening. In Proceedings - 2021 24th Euromicro Conference on Digital System Design, DSD 2021. Palermo: Institute of Electrical and Electronics Engineers, 2021. p. 553-556. ISBN: 978-1-6654-2703-6. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "STRNADEL, J. Using Model Checker to Analyze and Test Digital Circuits with Regard to Delay Faults. In Proceedings of 2021 24th International Symposium on Design and Diagnostics of Electronic Circuits & Systems. Vienna: Institute of Electrical and Electronics Engineers, 2021. p. 111-114. ISBN: 978-1-6654-3595-6. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "LOJDA, J.; PANEK, R.; PODIVINSKY, J.; CEKAN, O.; KRCMA, M.; KOTASEK, Z. Analysis of Software-Implemented Fault Tolerance: Case Study on Smart Lock. In 2020 IEEE East-West Design and Test Symposium, EWDTS 2020 - Proceedings. Varna: Institute of Electrical and Electronics Engineers, 2020. p. 24-28. ISBN: 978-1-7281-9899-6. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "LOJDA, J.; PANEK, R.; PODIVINSKY, J.; CEKAN, O.; KRCMA, M.; KOTASEK, Z. Hardening of Smart Electronic Lock Software against Random and Deliberate Faults. In Proceedings - Euromicro Conference on Digital System Design, DSD 2020. Kranj: Institute of Electrical and Electronics Engineers, 2020. p. 680-683. ISBN: 978-1-7281-9535-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "LOJDA, J.; PODIVINSKY, J.; CEKAN, O.; PANEK, R.; KRCMA, M.; KOTASEK, Z. Automatic Design of Reliable Systems Based on the Multiple-choice Knapsack Problem. In Proceedings - 2020 23rd International Symposium on Design and Diagnostics of Electronic Circuits and Systems, DDECS 2020. Novi Sad: Institute of Electrical and Electronics Engineers, 2020. p. 1-4. ISBN: 978-1-7281-9938-2. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "PANEK, R.; LOJDA, J.; PODIVINSKY, J.; KOTASEK, Z. Reliability Analysis of Reconfiguration Controller for FPGA-Based Fault Tolerant Systems: Case Study. In 2020 International Symposium on VLSI Design, Automation, and Test (VLSI-DAT) : proceedings of technical papers. Hsinchu: IEEE Computer Society, 2020. p. 121-124. ISBN: 978-1-7281-6083-2. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "PODIVINSKY, J.; LOJDA, J.; PANEK, R.; CEKAN, O.; KRCMA, M.; KOTASEK, Z. Evaluation Platform For Testing Fault Tolerance: Testing Reliability of Smart Electronic Locks. In 2020 IEEE 11th Latin American Symposium on Circuits & Systems (LASCAS). San Jose: IEEE Circuits and Systems Society, 2020. p. 1-4. ISBN: 978-1-7281-3427-7. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "STRNADEL, J. Statistical Model Checking of Approximate Circuits: Challenges and Opportunities. In Proceedings of the 2020 Design, Automation & Test in Europe Conference & Exhibition (DATE). Grenoble: IEEE Computer Society, 2020. p. 1574-1577. ISBN: 978-3-9819263-4-7. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "CEKAN, O.; PODIVINSKY, J.; LOJDA, J.; PANEK, R.; KRCMA, M.; KOTASEK, Z. Smart Electronic Locks and Their Reliability. Proceedings of the 7th Prague Embedded Systems Workshop. Roztoky u Prahy: Czech Technical University, 2019. p. 4-5. ISBN: 978-80-01-06607-2. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "CEKAN, O.; PODIVINSKY, J.; LOJDA, J.; PANEK, R.; KRCMA, M.; KOTASEK, Z. Testing Reliability of Smart Electronic Locks: Analysis and the First Steps Towards. In Proceedings of the 2019 22nd Euromicro Conference on Digital System Design. Kalithea: Institute of Electrical and Electronics Engineers, 2019. p. 506-513. ISBN: 978-1-7281-2861-0. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KRCMA, M.; KOTASEK, Z.; LOJDA, J. Detecting hard synapses faults in artificial neural networks. In 20th IEEE Latin American Test Symposium (LATS 2019). Santiago de Chile: IEEE Computer Society, 2019. p. 1-6. ISBN: 978-1-7281-1756-0. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "LOJDA, J.; PODIVINSKY, J.; KOTASEK, Z. Reliability Indicators for Automatic Design and Analysis of Fault-Tolerant FPGA Systems. In 20th IEEE Latin American Test Symposium (LATS 2019). Santiago: IEEE Computer Society, 2019. p. 93-96. ISBN: 978-1-7281-1756-0. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "PODIVINSKY, J.; LOJDA, J.; KOTASEK, Z. Extended Reliability Analysis of Fault-Tolerant FPGA-based Robot Controller. In 20th IEEE Latin American Test Symposium (LATS 2019). Santiago: IEEE Computer Society, 2019. p. 97-100. ISBN: 978-1-7281-1756-0. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "STRNADEL, J. Using Statistical Model Checking to Assess Reliability for Bathtub-Shaped Failure Rates. In Design, Automation & Test in Europe Conference & Exhibition (DATE). Florence: IEEE Computer Society, 2019. p. 614-617. ISBN: 978-3-9819263-2-3. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "SZURMAN, K.; KOTASEK, Z. Fault Recovery for Coarse-Grained TMR Soft-Core Processor Using Partial Reconfiguration and State Synchronization. Proceedings of the 7th Prague Embedded Systems Workshop. Roztoky u Prahy: Faculty of Information Technology, Czech Technical University, 2019. p. 6-7. ISBN: 978-80-01-06607-2. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "SZURMAN, K.; KOTASEK, Z. Coarse-Grained TMR Soft-Core Processor Fault Tolerance Methods and State Synchronization for Run-Time Fault Recovery. In 20th IEEE Latin American Test Symposium (LATS 2019). Santiago: IEEE Computer Society, 2019. p. 32-35. ISBN: 978-1-7281-1756-0. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "SZURMAN, K.; KOTASEK, Z. Run-Time Reconfigurable Fault Tolerant Architecture for Soft-Core Processor neo430. In 22nd International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS 2019). Cluj-Napoca: IEEE Computer Society, 2019. p. 136-140. ISBN: 978-1-7281-0073-9. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CEKAN, O.; KOTASEK, Z. Random Test Generation Through a Probabilistic Constrained Grammar. INFORMAL PROCEEDINGS 21st IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Budapest: 2018. p. 5-8. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CEKAN, O.; PANEK, R.; KOTASEK, Z. Input and Output Generation for the Verification of ALU: a Use Case. In Proceedings of 2018 IEEE East-West Design and Test Symposium, EWDTS 2018. Kazan: IEEE Computer Society, 2018. p. 331-336. ISBN: 978-1-5386-5710-2. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CEKAN, O.; PODIVINSKY, J.; KOTASEK, Z. Program Generation Through a Probabilistic Constrained Grammar. In Proceedings - 21st Euromicro Conference on Digital System Design, DSD 2018. Praha: IEEE Computer Society, 2018. p. 214-220. ISBN: 978-1-5386-7376-8. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "LOJDA, J.; KOTASEK, Z. Automatizace navrhu spolehlivych systemu a jeji dilci komponenty. Pocitacove architektury & diagnostika 2018. Stachy: Zapadoceska univerzita v Plzni, 2018. s. 5-8. ISBN: 978-80-261-0814-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "LOJDA, J.; KOTASEK, Z. Fault Tolerance in HLS for the Purposes of Reliable System Design Automation. Proceedings of the 6th Prague Embedded Systems Workshop. Roztoky u Prahy: Faculty of Information Technology, Czech Technical University, 2018. p. 31-32. ISBN: 978-80-01-06456-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "LOJDA, J.; PODIVINSKY, J.; CEKAN, O.; PANEK, R.; KOTASEK, Z. FT-EST Framework: Reliability Estimation for the Purposes of Fault-Tolerant Systems Design Automation. In Proceedings of the 2018 21st Euromicro Conference on Digital System Design. Praha: IEEE Computer Society, 2018. p. 244-251. ISBN: 978-1-5386-7376-8. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "LOJDA, J.; PODIVINSKY, J.; KOTASEK, Z. Fault Tolerance Properties of Systems Generated with the Use of High-Level Synthesis. In Proceedings of IEEE East-West Design & Test Symposium. Kazan: IEEE Computer Society, 2018. p. 80-86. ISBN: 978-1-5386-5710-2. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "LOJDA, J.; PODIVINSKY, J.; KOTASEK, Z.; KRCMA, M. Majority Type and Redundancy Level Influences on Redundant Data Types Approach for HLS. In 2018 16th Biennial Baltic Electronics Conference (BEC). Tallinn: IEEE Computer Society, 2018. p. 1-4. ISBN: 978-1-5386-7312-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "PANEK, R. Metodika navrhu radice rekonfigurace pro Systemy odolne proti porucham. Pocitacove architektury & diagnostika 2018. Stachy: Zapadoceska univerzita v Plzni, 2018. s. 21-24. ISBN: 978-80-261-0814-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "PANEK, R.; LOJDA, J.; PODIVINSKY, J.; KOTASEK, Z. Partial Dynamic Reconfiguration in an FPGA-based Fault-Tolerant System: Simulation-based Evaluation. In Proceedings of IEEE East-West Design & Test Symposium. Kazan: IEEE Computer Society, 2018. p. 129-134. ISBN: 978-1-5386-5710-2. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "PODIVINSKY, J.; CEKAN, O.; KRCMA, M.; BURGET, R.; HRUSKA, T.; KOTASEK, Z. A Processor Optimization Framework for a Selected Application. In Proceedings of IEEE East-West Design & Test Symposium. Kazan: IEEE Computer Society, 2018. p. 564-574. ISBN: 978-1-5386-5710-2. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "PODIVINSKY, J.; KOTASEK, Z. Testing Fault Tolerance Properties: Soft-core Processor-based Experimental Robot Controller. Proceedings of the 6th Prague Embedded Systems Workshop. Roztoky u Prahy: Czech Technical University, 2018. p. 33-34. ISBN: 978-80-01-06456-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "PODIVINSKY, J.; LOJDA, J.; CEKAN, O.; KOTASEK, Z. Evaluation Platform for Testing Fault Tolerance Properties: Soft-core Processor-based Experimental Robot Controller. In Proceedings of the 2018 21st Euromicro Conference on Digital System Design. Praha: IEEE Computer Society, 2018. p. 229-236. ISBN: 978-1-5386-7376-8. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "PODIVINSKY, J.; LOJDA, J.; KOTASEK, Z. FPGA-based Robot Controller: An Experimental Evaluation of Fault Tolerance Properties. INFORMAL PROCEEDINGS 21st IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Budapest: 2018. p. 9-12. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "PODIVINSKY, J.; LOJDA, J.; KOTASEK, Z. An Experimental Evaluation of Fault-Tolerant FPGA-based Robot Controller. In Proceedings of IEEE East-West Design & Test Symposium. Kazan: IEEE Computer Society, 2018. p. 63-69. ISBN: 978-1-5386-5710-2. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "STRNADEL, J. Predictability Analysis of Interruptible Systems by Statistical Model Checking. IEEE Design & Test, 2018, vol. 35, no. 2, p. 57-63. ISSN: 2168-2356. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "STRNADEL, J. Statistical Model Checking of Processor Systems in Various Interrupt Scenarios. In Proceedings of 8th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISoLA). Lecture Notes in Computer Science. Lecture Notes in Computer Science, Vol. 11245. Cham: Springer International Publishing, 2018. no. 10, p. 414-429. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "CEKAN, O.; KOTASEK, Z. Random Test Stimuli Generation Based on a Probabilistic Grammar. Proceedings of the 5th Prague Embedded Systems Workshop. Roztoky u Prahy: Faculty of Information Technology, Czech Technical University, 2017. p. 43-44. ISBN: 978-80-01-06178-7. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "CEKAN, O.; KOTASEK, Z. A Probabilistic Context-Free Grammar Based Random Test Program Generation. In Proceedings of 20th Euromicro Conference on Digital System Design. Viden: Technical University Wien, 2017. p. 356-359. ISBN: 978-1-5386-2145-5. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KRCMA, M.; KOTASEK, Z. Approximation accuracy of different FPNN types. Proceedings of the 5th Prague Embedded Systems Workshop. Roztoky u Prahy: Faculty of Information Technology, Czech Technical University, 2017. p. 81-82. ISBN: 978-80-01-06178-7. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KRCMA, M.; KOTASEK, Z.; LOJDA, J. Comparison of FPNNs Models Approximation Capabilities and FPGA Resources Utilization. In Proceedings of IEEE 13th International Conference on Intelligent Computer Communication and Processing. Cluj-Nappoca: IEEE Computer Society, 2017. p. 125-132. ISBN: 978-1-5386-3368-7. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KRCMA, M.; LOJDA, J.; KOTASEK, Z. Triple Modular Redundancy Used in Field Programmable Neural Networks. In Proceedings of IEEE East-West Design & Test Symposium. Novi Sad: IEEE Computer Society, 2017. p. 1-6. ISBN: 978-1-5386-3299-4. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LOJDA, J.; KOTASEK, Z. A Basic Approach to Fault Tolerance of Data Paths of HLS-synthesized Systems and its Evaluation. Proceedings of the 5th Prague Embedded Systems Workshop. Roztoky u Prahy: Faculty of Information Technology, Czech Technical University, 2017. p. 79-80. ISBN: 978-80-01-06178-7. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LOJDA, J.; KOTASEK, Z. Automatizace navrhu systemu odolnych proti porucham pomoci vysokourovnove syntezy. Pocitacove architektury & diagnostika 2017. Smolenice: Slovenska technicka univerzita v Bratislave, 2017. s. 59-62. ISBN: 978-80-972784-0-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LOJDA, J.; PODIVINSKY, J.; KOTASEK, Z. Redundant Data Types and Operations in HLS and their Use for a Robot Controller Unit Fault Tolerance Evaluation. In Proceedings of IEEE East-West Design & Test Symposium. Novi Sad: IEEE Computer Society, 2017. p. 359-364. ISBN: 978-1-5386-3299-4. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LOJDA, J.; PODIVINSKY, J.; KOTASEK, Z.; KRCMA, M. Data Types and Operations Modifications: a Practical Approach to Fault Tolerance in HLS. In Proceedings of IEEE East-West Design & Test Symposium. Novi Sad: IEEE Computer Society, 2017. p. 273-278. ISBN: 978-1-5386-3299-4. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "PANEK, R. Systemy odolne proti porucham - metodika navrhu radice rekonfigurace. Pocitacove architektury & diagnostika 2017. Smolenice: Slovenska technicka univerzita v Bratislave, 2017. s. 24-27. ISBN: 978-80-972784-0-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "PODIVINSKY, J.; CEKAN, O.; LOJDA, J.; ZACHARIASOVA, M.; KRCMA, M.; KOTASEK, Z. Functional Verification Based Platform for Evaluating Fault Tolerance Properties. Microprocessors and Microsystems, 2017, vol. 52, no. 5, p. 145-159. ISSN: 0141-9331. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "PODIVINSKY, J.; KOTASEK, Z. The Use of Functional Verification for Monitoring Impact of Faults in SRAM-based FPGAs. Proceedings of the 5th Prague Embedded Systems Workshop. Roztoky u Prahy: Faculty of Information Technology, Czech Technical University, 2017. p. 81-82. ISBN: 978-80-01-06178-7. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "PODIVINSKY, J.; LOJDA, J.; CEKAN, O.; PANEK, R.; KOTASEK, Z. Reliability Analysis and Improvement of FPGA-based Robot Controller. In Proceedings of the 2017 20th Euromicro Conference on Digital System Design. Viden: IEEE Computer Society, 2017. p. 337-344. ISBN: 978-1-5386-2145-5. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "STRNADEL, J. On Dependability Assessment of Fault Tolerant Systems by Means of Statistical Model Checking. In Proceedings of the 2017 20th Euromicro Conference on Digital System Design. Los Alamitos: IEEE Computer Society, 2017. p. 352-355. ISBN: 978-1-5386-2146-2. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "SZURMAN, K.; KOTASEK, Z. State Synchronization of Faulty Soft Core Processors in Reconfigurable TMR Architecture. Pocitacove architektury & diagnostika 2017. Smolenice: Slovak University of Technology in Bratislava, 2017. p. 51-54. ISBN: 978-80-972784-0-3. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "CEKAN, O. Generovani testovacich stimulu. Pocitacove architektury a diagnostika PAD 2016. Boretice - Kravi Hora: Fakulta informacnich technologii VUT v Brne, 2016. s. 97-100. ISBN: 978-80-214-5376-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "CEKAN, O.; KOTASEK, Z. Software-implemented Fault-Tolerant Program Generation. Proceedings of the 4th Prague Embedded Systems Workshop. Roztoky u Prahy: 2016. p. 13-13. ISBN: 978-80-01-05984-5. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "CEKAN, O.; PODIVINSKY, J.; KOTASEK, Z. Random Stimuli Generation Based on a Stochastic Context-Free Grammar. In Proceedings of the 2016 International Conference on Field Programmable Technology. Xi'an: IEEE Computer Society, 2016. p. 295-296. ISBN: 978-1-5090-5602-6. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KOTASEK, Z.; PODIVINSKY, J. Verification of Robot Controller for Evaluating Impacts of Faults in Electro-mechanical Systems. Proceedings of the 4th Prague Embedded Systems Workshop. Roztoky u Prahy: 2016. 1 p. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KRCMA, M.; KOTASEK, Z.; LOJDA, J.; KASTIL, J. Comparison of FPNNs Approximation Capabilities. Proceedings of the Work in progress Session held in connection with DSD 2016. Limassol: Johannes Kepler University Linz, 2016. p. 1-2. ISBN: 978-3-902457-46-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "LOJDA, J.; KOTASEK, Z. A Systematic Approach to the Description of Fault-tolerant Systems. Proceedings of the 4th Prague Embedded Systems Workshop. Roztoky u Prahy: 2016. 1 p. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "LOJDA, J.; PODIVINSKY, J.; KRCMA, M.; KOTASEK, Z. HLS-based Fault Tolerance Approach for SRAM-based FPGAs. In Proceedings of the 2016 International Conference on Field Programmable Technology. Xi'an: IEEE Computer Society, 2016. p. 301-302. ISBN: 978-1-5090-5602-6. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "PODIVINSKY, J. Funkcni verifikace jako nastroj pro sledovani vlivu poruch na elektro-mechanicky system. Pocitacove architektury a diagnostika PAD 2016. Boretice - Kravi Hora: Fakulta informacnich technologii VUT v Brne, 2016. s. 101-104. ISBN: 978-80-214-5376-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "PODIVINSKY, J.; CEKAN, O.; LOJDA, J.; KOTASEK, Z. Functional Verification as a Tool for Monitoring Impact of Faults in SRAM-based FPGAs. In Proceedings of the 2016 International Conference on Field Programmable Technology. Xi'an: IEEE Computer Society, 2016. p. 293-294. ISBN: 978-1-5090-5602-6. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "PODIVINSKY, J.; CEKAN, O.; LOJDA, J.; KOTASEK, Z. Verification of Robot Controller for Evaluating Impacts of Faults in Electro-mechanical Systems. In Proceedings of the 19th Euromicro Conference on Digital Systems Design. Limassol: IEEE Computer Society, 2016. p. 487-494. ISBN: 978-1-5090-2816-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "RISA, M. Scheduling and Synchronization on Multicores. Sbornik prispevku Cesko-slovenskeho seminare pro studenty doktorskeho studia Pocitacove architektury & diagnostika. Brno: Faculty of Information Technology BUT, 2016. p. 10-13. ISBN: 978-80-214-5376-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "STRNADEL, J. Modeling and Analysis of Fault-Tolerant Systems by Means of UPPAAL SMC: Method and Benefits. Informal Proceedings of the 2016 IEEE 19th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS). Bratislava: Slovak University of Technology in Bratislava, 2016. p. 32-37. ISBN: 978-80-8086-256-5. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "STRNADEL, J. On Creation and Analysis of Reliability Models by Means of Stochastic Timed Automata and Statistical Model Checking: Principle. In Leveraging Applications of Formal Methods, Verification and Validation: Foundational Techniques. Lecture Notes in Computer Science. Lecture Notes in Computer Science, Vol. 9952. Cham: Springer International Publishing, 2016. no. 10, p. 166-181. ISBN: 978-3-319-47166-2. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "STRNADEL, J.; RISA, M. On Analysis of Software Interrupt Limiters for Embedded Systems by Means of UPPAAL SMC. In Proceedings of the 24th Austrian Workshop on Microelectronics. Villach: IEEE Computer Society Press, 2016. p. 45-50. ISBN: 978-1-5090-1040-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ZACHARIASOVA, M.; KEKELYOVA, M.; KOTASEK, Z. Regression Test Suites Optimization for Application-specific Instruction-set Processors and Their Use for Dependability Analysis. In Proceedings of the 19th Euromicro Conference on Digital Systems Design. Limassol Cyprus: IEEE Computer Society, 2016. p. 380-387. ISBN: 978-1-5090-2816-0. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "CEKAN, O. Principy generovani verifikacnich stimulu. Pocitacove architektury a diagnostika PAD 2015. Zlin: Fakulta aplikovane informatiky, Univerzita Tomase Bati ve Zline, 2015. s. 13-18. ISBN: 978-80-7454-522-1. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "CEKAN, O.; PODIVINSKY, J.; KOTASEK, Z. Software Fault Tolerance: the Evaluation by Functional Verification. In Proceedings of the 18th Euromicro Conference on Digital Systems Design. Funchal: IEEE Computer Society, 2015. p. 284-287. ISBN: 978-1-4673-8035-5. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "CEKAN, O.; ZACHARIASOVA, M.; KOTASEK, Z. Universal Pseudo-random Generation of Assembler Codes for Processors. Proceedings of The Third Workshop on Manufacturable and Dependable Multicore Architectures at Nanoscale. Grenoble: COST, European Cooperation in Science and Technology, 2015. p. 70-73. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "KRCMA, M. FPNN - neuronove site v FPGA. Pocitacove architektury a diagnostika PAD 2015. Zlin: Univerzita Tomase Bati ve Zline, 2015. s. 81-86. ISBN: 978-80-7454-522-1. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "KRCMA, M.; KASTIL, J.; KOTASEK, Z. Mapping trained neural networks to FPNNs. In IEEE 18th International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Belgrade: IEEE Computer Society, 2015. p. 157-160. ISBN: 978-1-4799-6779-7. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "KRCMA, M.; KOTASEK, Z.; KASTIL, J. Fault Tolerant Field Programmable Neural Networks. In 1st IEEE Nordic Circuits and Systems (NORCAS) Conference. Oslo: IEEE Computer Society, 2015. p. 1-4. ISBN: 978-1-4673-6575-8. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODIVINSKY, J. Vyuziti funkcni verifikace pro overovani metodik pro zajisteni odolnosti proti porucham. Pocitacove architektury a diagnostika PAD 2015. Zlin: Univerzita Tomase Bati ve Zline, 2015. s. 7-12. ISBN: 978-80-7454-522-1. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODIVINSKY, J.; CEKAN, O.; ZACHARIASOVA, M.; KOTASEK, Z. The Evaluation Platform for Testing Fault-Tolerance Methodologies in Electro-mechanical Applications. Microprocessors and Microsystems, 2015, vol. 39, no. 8, p. 1215-1230. ISSN: 0141-9331. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODIVINSKY, J.; ZACHARIASOVA, M.; CEKAN, O.; KOTASEK, Z. FPGA Prototyping and Accelerated Verification of ASIPs. In IEEE 18th International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Belgrade: IEEE Computer Society, 2015. p. 145-148. ISBN: 978-1-4799-6780-3. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODIVINSKY, J.; ZACHARIASOVA, M.; KOTASEK, Z. Radiation Impact on Mechanical Application Driven by FPGA-based Controller. Proceedings of The Fourth Workshop on Manufacturable and Dependable Multicore Architectures at Nanoscale. Grenoble: COST, European Cooperation in Science and Technology, 2015. p. 13-16. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "STRNADEL, J. Comparison of Generally Applicable Mechanisms for Preventing Embedded Event-Driven Real-Time Systems from Interrupt Overloads. In Proceedings of the 2015 4th Eastern European Regional Conference on the Engineering of Computer Based Systems. Brno: Brno University of Technology, 2015. p. 39-44. ISBN: 978-1-4673-7967-0. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "ZACHARIASOVA, M.; KOTASEK, Z. Automation and Optimization of Coverage-driven Verification. In Proceedings of the 18th Euromicro Conference on Digital Systems Design. Funchal: IEEE Computer Society, 2015. p. 87-94. ISBN: 978-1-4673-8035-5. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "CEKAN, O. Universal Generation of Test Vectors for Functional Verification. Pocitacove architektury a diagnostika 2014. Liberec: Liberec University of Technology, 2014. p. 44-49. ISBN: 978-80-7494-027-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "CEKAN, O.; ZACHARIASOVA, M.; KOTASEK, Z. Solving of Constraint Satisfaction Problem. Proceedings of the 20th Conference STUDENT EEICT 2014. Volume 3. Brno: Faculty of Information Technology BUT, 2014. p. 291-295. ISBN: 978-80-214-4924-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KOTASEK, Z.; MICULKA, L. Generic Partial Dynamic Reconfiguration Controller for Transient and Permanent Fault Mitigation in Fault Tolerant Systems Implemented Into FPGA. In 17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Warszawa: IEEE Computer Society, 2014. p. 171-174. ISBN: 978-0-7695-5074-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MATUSOVA, L.; KASTIL, J.; KOTASEK, Z. Automatic Construction of On-line Checking Circuits Based on Finite Automata. In 17th Euromicro Conference on Digital Systems Design. Verona: IEEE Computer Society, 2014. p. 326-332. ISBN: 978-0-7695-5074-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "PODIVINSKY, J. Testing Fault-Tolerance Properties in FPGA based Electro-mechanical Applications. Pocitacove architektury a diagnostika 2014. Liberec: Liberec University of Technology, 2014. p. 13-18. ISBN: 978-80-7494-027-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "PODIVINSKY, J.; ZACHARIASOVA, M.; KOTASEK, Z. Complex Control System for Testing Fault-Tolerance Methodologies. Proceedings of The Third Workshop on Manufacturable and Dependable Multicore Architectures at Nanoscale. Dresden: COST, European Cooperation in Science and Technology, 2014. p. 24-27. ISBN: 978-2-11-129175-1. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "STRNADEL, J.; POKORNY, M. Comparing Availability-Aware Real-Time Schedulers by Means of Configurable Experimental Framework. In Proceedings of the 2014 17th Euromicro Conference on Digital System Design. Los Alamitos: IEEE Computer Society, 2014. p. 333-340. ISBN: 978-1-4799-5793-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "STRNADEL, J.; SLIMARIK, F. Impact of Software Fault Tolerance to Fault Effects in OS-Driven RT Systems. COMPUTING AND INFORMATICS, 2014, vol. 33, no. 4, p. 757-782. ISSN: 1335-9150. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "SZURMAN, K. Synchronization Methodology for Fault Tolerant System Recovery After Its Failure. Pocitacove architektury & diagnostika 2014. Mala Skala: Liberec University of Technology, 2014. p. 111-116. ISBN: 978-80-7494-027-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ZACHARIASOVA, M. Application of Evolutionary Computing for Optimization of Functional Verification. Pocitacove architektury a diagnostika 2014. Liberec: Liberec University of Technology, 2014. p. 135-140. ISBN: 978-80-7494-027-9. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MICULKA, L. Metoda navrhu systemu odolnych proti porucham do omezeneho implementacniho prostoru na bazi FPGA. Pocitacove architektury & diagnostika 2013. Plzen: Zapadoceska univerzita v Plzni, 2013. s. 63-68. ISBN: 978-80-261-0270-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MICULKA, L.; STRAKA, M.; KOTASEK, Z. Methodology for Fault Tolerant System Design Based on FPGA Into Limited Redundant Area. 16th Euromicro Conference on Digital System Design: Architectures, Methods and Tools. Santander: IEEE Computer Society, 2013. p. 227-234. ISBN: 978-0-7695-5074-9. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "STRAKA, M.; KASTIL, J.; KOTASEK, Z.; MICULKA, L. Fault Tolerant System Design and SEU Injection Based Testing. Microprocessors and Microsystems, 2013, vol. 2013, no. 37, p. 155-173. ISSN: 0141-9331. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "STRNADEL, J. Load-Adaptive Monitor-Driven Hardware for Preventing Embedded Real-Time Systems from Overloads Caused by Excessive Interrupt Rates. Architecture of Computing Systems - ARCS 2013. Lecture Notes in Computer Science. Lecture Notes in Computer Science, ISSN 0302-9743, Vol. 7767. Berlin: Springer Verlag, 2013. no. 7767, p. 98-109. ISBN: 978-3-642-36423-5. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "STRNADEL, J. On Design of Priority-Driven Load-Adaptive Monitoring-Based Hardware for Managing Interrupts in Embedded Event-Triggered Real-Time Systems. Proceedings of the IEEE 16th International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Brno: IEEE Computer Society, 2013. p. 24-29. ISBN: 978-1-4673-6133-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SZURMAN, K. Fault Tolerant CAN Bus Control System Implemented into FPGA and its synchronization after failure and recovery. Pocitacove architektury & diagnostika 2013. Plzen: University of West Bohemia in Pilsen, 2013. p. 21-26. ISBN: 978-1-4673-6136-1. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SZURMAN, K.; KASTIL, J.; STRAKA, M.; KOTASEK, Z. Fault Tolerant CAN Bus Control System Implemented into FPGA. IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems 2013. Karlovy Vary: IEEE Computer Society, 2013. p. 289-292. ISBN: 978-1-4673-6136-1. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ZACHARIASOVA, M. New Methods for Increasing Efficiency and Speed of Functional Verification Processes. Pocitacove architektury a diagnostika PAD 2013. Plzen: University of West Bohemia in Pilsen, 2013. p. 111-116. ISBN: 978-80-261-0270-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ZACHARIASOVA, M.; BOLCHINI, C.; KOTASEK, Z. Analysis and Comparison of Functional Verification and ATPG for Testing Design Reliability. IEEE 16th International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Karlovy Vary: IEEE Computer Society, 2013. p. 275-278. ISBN: 978-1-4673-6133-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ZACHARIASOVA, M.; BOLCHINI, C.; KOTASEK, Z. Analysis and Comparison of Functional Verification and ATPG for Testing Design Reliability. Proceedings of The Second Workshop on Manufacturable and Dependable Multicore Architectures at Nanoscale. Avignon: COST, European Cooperation in Science and Technology, 2013. p. 35-38. ISBN: 978-2-11-129175-1. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ZACHARIASOVA, M.; PRIKRYL, Z.; HRUSKA, T.; KOTASEK, Z. Automated Functional Verification of Application Specific Instruction-set Processors. IFIP Advances in Information and Communication Technology, 2013, vol. 4, no. 403, p. 128-138. ISSN: 1868-4238. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KASTIL, J.; STRAKA, M.; KOTASEK, Z. Methodology for Increasing Reliability of FPGA Design via Partial Reconfiguration. The First Workshop on Manufacturable and Dependable Multicore Architectures at Nanoscale (MEDIAN'12). Annecy: Politecnico di Milano, 2012. p. 1-4. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KASTIL, J.; STRAKA, M.; MICULKA, L.; KOTASEK, Z. Dependability Analysis of Fault Tolerant Systems Based on Partial Dynamic Reconfiguration Implemented into FPGA. 15th Euromicro Conference on Digital System Design: Architectures, Methods and Tools. Cesme-Izmir: IEEE Computer Society, 2012. p. 250-257. ISBN: 978-0-7695-4798-5. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KOTASEK, Z.; SKARVADA, J. Low Power Testing. In Design and Test Technology foir Dependable Systems-on-Chip. Hershey: IGI Global, 2012. p. 395-412. ISBN: 978-1-60960-212-3. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MICULKA, L. Metoda navrh systemu odolnych proti porucham do omezeneho implementacniho prostoru na bazi FPGA. Pocitacove architektury & diagnostika 2012. Praha: Fakulta informacnich technologii CVUT, 2012. s. 109-115. ISBN: 978-80-01-05106-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MICULKA, L.; KOTASEK, Z. Design Sychronization after Partial Dynamic Reconfiguration of Fault Tolerant System. 15th Euromicro Conference on Digital System Design: Architectures, Methods and Tools. Cesme-Izmir: IEEE Computer Society, 2012. p. 20-21. ISBN: 978-3-902457-33-2. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "STRAKA, M.; KASTIL, J.; KOTASEK, Z. FPGA-based Fault Tolerant Architectures and Their Dependability Analysis. MEMICS'12 -- 8th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Faculty of Informatics MU, 2012. p. 1 (1 s.). Detail"
+        },
+        {
+            "year": "2012",
+            "details": "STRAKA, M.; KASTIL, J.; KOTASEK, Z. Methodology for Reliability Analysis of FPGA-based Fault Tolerant Systems. CSE'2012 International Scientific Conference on Computer Science and Engineering. Kosice: The University of Technology Kosice, 2012. p. 146-153. ISBN: 978-80-8143-049-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "STRAKA, M.; MICULKA, L.; KASTIL, J.; KOTASEK, Z. Test Platform for Fault Tolerant Systems Design Qualities Verification. 15th IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Tallin: IEEE Computer Society, 2012. p. 336-341. ISBN: 978-1-4673-1185-4. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "STRNADEL, J. Monitoring-Driven HW/SW Interrupt Overload Prevention for Embedded Real-Time Systems. In Proceedings of the 15th International IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS). Tallin: IEEE Computer Society, 2012. p. 121-126. ISBN: 978-1-4673-1188-5. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "STRNADEL, J.; RAJNOHA, P. Reflecting RTOS Model During WCET Timing Analysis: MSP430/FreeRTOS Case Study. Acta Electrotechnica et Informatica, 2012, vol. 12, no. 4, p. 17-29. ISSN: 1335-8243. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "STRNADEL, J.; SLIMARIK, F. On Distribution and Impact of Fault Effects at Real-Time Kernel and Application Levels. Proceedings of the 15th Euromicro Conference on Digital System Design: Architectures, Methods and Tools. Pistacaway: IEEE Computer Society, 2012. p. 272-279. ISBN: 978-0-7695-4798-5. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZACHARIASOVA, M. Acceleration of Functional Verification in the Development Cycle of Hardware Systems. Pocitacove architektury a diagnostika. Praha: Czech Technical University, 2012. p. 73-78. ISBN: 978-80-01-05106-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZACHARIASOVA, M.; LENGAL, O. Towards Beneficial Hardware Acceleration in HAVEN: Evaluation of Testbed Architectures. Lecture Notes in Computer Science, 2012, vol. 2013, no. 7857, p. 266-273. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "BARTOS, P. Metody optimalizace propojeni scan retezce. Pocitacove architektury a diagnostika 2011. Bratislava: Vydavatelstvo STU, 2011. s. 97-102. ISBN: 978-80-227-3552-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "BARTOS, P. Test Time Reduction by Scan Chain Reordering. Proceedings of the 17th Conference STUDENT EEICT 2011. Volume 3. Brno: Faculty of Electrical Engineering and Communication BUT, 2011. p. 564-568. ISBN: 978-80-214-4273-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "BARTOS, P.; KOTASEK, Z.; DOHNAL, J. Decreasing Test Time by Scan Chain Reorganization. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Brno University of Technology, 2011. p. 108-108. ISBN: 978-80-214-4305-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "BARTOS, P.; KOTASEK, Z.; DOHNAL, J. Decreasing Test Time by Scan Chain Reorganization. IEEE Design and Diagnostics of Electronic Circuits and Systems DDECS'2011. Cottbus: IEEE Computer Society, 2011. p. 371-374. ISBN: 978-1-4244-9753-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "HERRMAN, T. Metodika aplikace testu obvodu zalozena na identifikaci testovatelnych bloku. Brno: 2011. 95 s. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "RUMPLIK, M.; STRNADEL, J. On RTL Testability and Gate-Level Stuck-At-Fault Coverage Correlation for Scan Circuits. Proceedings of the 14th Euromicro Conference on Digital System Design - Architectures, Methods and Tools 2011. Oulu: IEEE Computer Society, 2011. p. 367-374. ISBN: 978-0-7695-4494-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "STRAKA, M.; KASTIL, J.; KOTASEK, Z. SEU Simulation Framework for Xilinx FPGA: First Step Towards Testing Fault Tolerant Systems. 14th EUROMICRO Conference on Digital System Design. Oulu: IEEE Computer Society, 2011. p. 223-230. ISBN: 978-0-7695-4494-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "STRAKA, M.; KASTIL, J.; NOVOTNY, J.; KOTASEK, Z. Advanced Fault Tolerant Bus for Multicore System Implemented in FPGA. IEEE Design and Diagnostics of Electronic Circuits and Systems DDECS'2011. Cottbus: IEEE Computer Society, 2011. p. 397-398. ISBN: 978-1-4244-9753-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "STRNADEL, J. Concept of Adaptive Embedded HW/SW Architecture for Dynamic Prevention from Interrupt Overloads. Proceedings of the Work in Progress Session held in connection with SEAA 2011, the 37th EUROMICRO Conference on Software Engineering and Advanced Applications and DSD 2011, the 14th EUROMICRO Conference on Digital System Design. Oulu: Johannes Kepler University Linz, 2011. p. 21-22. ISBN: 978-3-902457-30-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "STRNADEL, J. Proposal of Flexible Monitoring-Driven HW/SW Interrupt Management for Embedded COTS-Based Event-Triggered Real-Time Systems. Proceedings of the Work-in-Progress Session of the 32nd IEEE Real-Time Systems Symposium. Vienna: Technical University Wien, 2011. p. 29-32. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "STRNADEL, J. Navrh casove kritickych systemu III: priorita uloh. Automa, 2011, roc. 2011, c. 2, s. 50-52. ISSN: 1210-9592. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "STRNADEL, J. Navrh casove kritickych systemu IV: realizace prostredky RTOS. Automa, 2011, roc. 2011, c. 4, s. 58-60. ISSN: 1210-9592. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KOTASEK, Z.; BIDLO, M.; JAROS, J. Pocitacove architektury a diagnostika. Brno: Fakulta informacnich technologii VUT v Brne, 2010. 183 s. ISBN: 978-80-214-4140-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KOTASEK, Z.; SKARVADA, J.; STRNADEL, J. Reduction of Power Dissipation Through Parallel Optimization of Test Vector and Scan Register Sequences. Proceedings of the 13th IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Vienna: IEEE Computer Society, 2010. p. 364-369. ISBN: 978-1-4244-6610-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KOTASEK, Z.; SKARVADA, J.; STRNADEL, J. The Use of Genetic Algorithm to Derive Correlation Between Test Vector and Scan Register Sequences and Reduce Power Consumption. Proceedings of 13th Euromicro Conference on Digital System Design Architectures, Methods and Tools. Los Alamitos: IEEE Computer Society, 2010. p. 644-651. ISBN: 978-0-7695-4171-6. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SKARVADA, J.; KOTASEK, Z.; STRNADEL, J. Optimalizace aplikace testu cislicovych systemu pro nizky prikon. Brno: Fakulta informacnich technologii VUT v Brne, 2010. 142 s. ISBN: 978-80-214-4209-2. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SKARVADA, J.; KOTASEK, Z.; STRNADEL, J. The Use of Genetic Algorithm to Reduce Power Consumption during Test Application. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Lecture Notes in Computer Science, ISSN 0302-9743, Vol. 6274. Berlin: Springer Verlag, 2010. no. 6274, p. 181-192. ISBN: 978-3-642-15322-8. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "STRAKA, M.; KASTIL, J.; KOTASEK, Z. Fault Tolerant Structure for SRAM-based FPGA via Partial Dynamic Reconfiguration. 13th EUROMICRO Conference on Digital System Design, DSD'2010. Lille: IEEE Computer Society, 2010. p. 365-372. ISBN: 978-0-7695-4171-6. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "STRAKA, M.; KASTIL, J.; KOTASEK, Z. Generic Partial Dynamic Reconfiguration Controller for Fault Tolerant Designs Based on FPGA. NORCHIP 2010. Tampere: IEEE Computer Society, 2010. p. 1-4. ISBN: 978-1-4244-8971-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "STRAKA, M.; KASTIL, J.; KOTASEK, Z. Methodology for Design of Highly Dependable Systems in FPGA. International Scientific Conference on Computer Science and Engineering. Kosice: The University of Technology Kosice, 2010. p. 186-193. ISBN: 978-80-8086-164-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "STRAKA, M.; KASTIL, J.; KOTASEK, Z. Modern Fault Tolerant Architectures Based on Partial Dynamic Reconfiguration in FPGAs. Proceedings of the 2010 IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems DDECS 2010. Wien: IEEE Computer Society, 2010. p. 173-176. ISBN: 978-1-4244-6610-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "STRNADEL, J. Task-Level Modeling and Design of Components for Construction of Dependable Time-Critical Systems Implemented by Means of RT Kernel. Sbornik prednasek z 33. mezinarodni konference TD 2010 - DIAGON 2010. Zlin: Tomas Bata University in Zlin, 2010. p. 99-104. ISBN: 978-80-7318-940-2. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "STRNADEL, J. Navrh casove kritickych systemu I: specifikace a verifikace. Automa, 2010, roc. 2010, c. 10, s. 42-44. ISSN: 1210-9592. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "STRNADEL, J. Navrh casove kritickych systemu II: ulohy realneho casu. Automa, 2010, roc. 2010, c. 12, s. 18-19. ISSN: 1210-9592. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KOTASEK, Z.; STRAKA, M. The Design of On-line Checkers and Their Use in Verification and Testing. Acta Electrotechnica et Informatica, 2009, vol. 2009, no. 3, p. 8-15. ISSN: 1335-8243. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SKARVADA, J. Optimalizace aplikace testu cislicovych systemu pro nizky prikon. Brno: Ustav pocitacovych systemu FIT VUT v Brne, 2009. 125 s. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "STRAKA, M.; KOTASEK, Z. High Availability Fault Tolerant Architectures Implemented into FPGAs. 12th EUROMICRO Conference on Digital System Design DSD 2009. Patras: IEEE Computer Society, 2009. p. 108-116. ISBN: 978-0-7695-3782-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "STRAKA, M.; KOTASEK, Z. Reliability Models for Fault Tolerant Architectures Based on FPGA. 5th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Faculty of Informatics MU, 2009. p. 239-239. ISBN: 978-80-87342-04-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "STRNADEL, J. Overview of Mechanisms for Improving Reliability of Embedded Real-Time Systems. Proceedings of 32th International Conference TD - DIAGON 2009. Zlin: Tomas Bata University in Zlin, 2009. p. 19-24. ISBN: 978-80-7318-840-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "STRNADEL, J.; RUZICKA, R. Testability Analysis Driven Data Path Modification And Controller Synthesis. Proceedings of 16th Electronic Devices and Systems IMAPS CS International Conference. Brno: Brno University of Technology, 2009. p. 363-368. ISBN: 978-80-214-3933-7. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HERRMAN, T. Identifikace testovatelnych bloku v obvodu na urovni RT. Pocitacove architektury a diagnostika 2008. Liberec: Technicka univerzita v Liberci, 2008. s. 25-35. ISBN: 978-80-7372-378-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "PECENKA, T. Prostredky a metody pro automaticke generovani testovacich obvodu. Brno: Fakulta informacnich technologii VUT v Brne, 2008. 141 s. ISBN: 978-80-214-3603-9. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "PECENKA, T.; SEKANINA, L.; KOTASEK, Z. Evolution of Synthetic RTL Benchmark Circuits with Predefined Testability. ACM TRANSACTIONS ON DESIGN AUTOMATION OF ELECTRONIC SYSTEMS, 2008, vol. 13, no. 3, p. 1-21. ISSN: 1084-4309. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SEKANINA, L.; STARECEK, L.; KOTASEK, Z.; GAJDA, Z. Polymorphic Gates in Design and Test of Digital Circuits. International Journal of Unconventional Computing, 2008, vol. 4, no. 2, p. 125-142. ISSN: 1548-7199. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SKARVADA, J. Optimalizace testu pro nizky prikon. Pocitacove architektury a diagnostika 2008. Liberec: Technicka univerzita v Liberci, 2008. s. 103-111. ISBN: 978-80-7372-378-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SKARVADA, J.; KOTASEK, Z.; HERRMAN, T. Power Conscious RTL Test Scheduling. 4th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Znojmo: Masaryk University, 2008. p. 265-265. ISBN: 978-80-7355-082-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SKARVADA, J.; KOTASEK, Z.; HERRMAN, T. Power Conscious RTL Test Scheduling. Proceedings of 11th Euromicro Conference on Digital Systems Design Architectures, Methods and Tools. Los Alamitos: IEEE Computer Society, 2008. p. 721-728. ISBN: 978-0-7695-3277-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SKARVADA, J.; KOTASEK, Z.; HERRMAN, T. Testability Analysis Based on the Identification of Testable Blocks with Predefined Properties. Microprocessors and Microsystems, 2008, vol. 32, no. 5, p. 296-302. ISSN: 0141-9331. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "STARECEK, L.; SEKANINA, L.; KOTASEK, Z. Reduction of Test Vectors Volume by Means of Gate-Level Reconfiguration. Proc. of 2008 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Bratislava: IEEE Computer Society, 2008. p. 255-258. ISBN: 978-1-4244-2276-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "STRAKA, M. Checkers Design for Communication Protocols Based on FPGAs. Proceedings of the 14th Conference STUDENT EEICT 2008 Volume 4. Brno: Faculty of Information Technology BUT, 2008. p. 467-473. ISBN: 978-80-214-3617-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "STRAKA, M.; KOTASEK, Z. Design of FPGA-Based Dependable Systems. 4th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Znojmo: Masaryk University, 2008. p. 240-247. ISBN: 978-80-7355-082-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "STRAKA, M.; KOTASEK, Z.; WINTER, J. Digital Systems Architectures Based on On-line Checkers. 11th EUROMICRO Conference on Digital System Design DSD 2008. Parma: IEEE Computer Society, 2008. p. 81-87. ISBN: 978-0-7695-3277-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "STRNADEL, J. Analyza a zlepseni testovatelnosti cislicovych obvodu na urovni meziregistrovych prenosu. Brno: Fakulta informacnich technologii VUT v Brne, 2008. 187 s. ISBN: 978-80-214-3599-5. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "STRNADEL, J. TASTE: Testability Analysis Engine and Opened Libraries for Digital Data Path. Proceedings of 11th Euromicro Conference on Digital Systems Design Architectures, Methods and Tools. Los Alamitos: IEEE Computer Society, 2008. p. 865-872. ISBN: 978-0-7695-3277-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "STRNADEL, J. Testability Enhancement of Multilevel Designs Guided by Testability Analysis Method. Proceedings of Electronic Devices and Systems IMAPS CS International Conference. Brno: Brno University of Technology, 2008. p. 367-372. ISBN: 978-80-214-3717-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "STRNADEL, J.; PECENKA, T.; KOTASEK, Z. Measuring Design for Testability Tool Effectiveness by Means of FITTest_BENCH06 Benchmark Circuits. COMPUTING AND INFORMATICS, 2008, vol. 27, no. 6, p. 913-930. ISSN: 1335-9150. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "HERRMAN, T. Metodika identifikace testovatelnych bloku v obvodu na urovni RT. Pocitacove architektury a diagnostika 2007. Plzen: Zapadoceska univerzita v Plzni, 2007. s. 67-76. ISBN: 978-80-7043-605-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "HERRMAN, T. Testability Analysis Based on the Identification of Testable Blocks with Predefined Properties. MEMICS proceedings 2007. Brno: Ing. Zdenek Novotny, CSc., 2007. p. 269-269. ISBN: 978-80-7355-077-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KOTASEK, Z.; KUBEK, J. Finite State Machine Localisation Based on IP Softcores Analysis. 6th Electronic Circuits and Systems Conference. Conference Proceedings. Bratislava: Slovak University of Technology in Bratislava, 2007. p. 137-142. ISBN: 978-80-227-2697-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "RUZICKA, R. Podpora navrhu pro snadnou testovatelnost cislicovych obvodu popsanych na urovni meziregistrovych prenosu. Brno: Fakulta informacnich technologii VUT v Brne, 2007. 130 s. ISBN: 978-80-214-3551-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "RUZICKA, R.; STRNADEL, J. Test Controller Synthesis Constrained by Circuit Testability Analysis. Proceedings of 10th Euromicro Conference on Digital System Design, Architectures, Methods and Tools. Los Alamitos: IEEE Computer Society Press, 2007. p. 626-633. ISBN: 0-7695-2978-X. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SKARVADA, J. Optimalizace planovani testu vzhledem k prikonu. Pocitacove architektury a diagnostika 2007. Plzen: Zapadoceska univerzita v Plzni, 2007. s. 85-92. ISBN: 978-80-7043-605-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SKARVADA, J. RT Level Power Consumption Estimation Tool. Proceedings of the 13th Conference STUDENT EEICT 2007 Volume 4. Brno: Brno University of Technology, 2007. p. 467-471. ISBN: 80-214-3410-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SKARVADA, J. RT Level Test Optimization for Low Power Consumption. MEMICS proceedings 2007. Brno: Ing. Zdenek Novotny, CSc., 2007. p. 185-192. ISBN: 978-80-7355-077-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SKARVADA, J.; HERRMAN, T.; KOTASEK, Z. RTL Testability Analysis Based on Circuit Partitioning and Its Link with Professional Tool. IEEE 8th Workshop on RTL and High Level Testing. Beijing: Institute of Computing Technology, Chinese Academy of Sciences, 2007. p. 175-181. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SKARVADA, J.; HERRMAN, T.; KOTASEK, Z. Testability Analysis Based on the Identification of Testable Blocks with Predefined Properties. 10th EUROMICRO CONFERENCE ON DIGITAL SYSTEM DESIGN Architectures, Methods and Tools (DSD 2007). Lubeck: IEEE Computer Society, 2007. p. 611-618. ISBN: 0-7695-2978-X. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "STRAKA, M. VHDL Design of Educational, Modern and Open-Architecture CPU. Proceedings of the 13th Conference STUDENT EEICT 2007 Volume 4. Brno: Brno University of Technology, 2007. p. 457-461. ISBN: 978-80-214-3410-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "STRAKA, M.; TOBOLA, J.; KOTASEK, Z. Checker Design for On-line Testing of Xilinx FPGA Communication. The 22nd IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems. Rome: IEEE Computer Society, 2007. p. 152-160. ISBN: 0-7695-2885-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "STRNADEL, J. Educational Toolset for Experimenting with Optimizations in the Area of Cost/Quality Trade-Offs Related to Digital Circuit Diagnosis. Proceedings of 14th Electronic Devices and Systems IMAPS CS International Conference. Brno: Brno University of Technology, 2007. p. 333-338. ISBN: 978-80-214-3470-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "STRNADEL, J. On Encoding and Utilization of Diagnostic Information Extracted from Design-Data for Testability Analysis Purposes. Proceedings of the 6th Electronic Circuits and Systems Conference. Bratislava: Slovak University of Technology in Bratislava, 2007. p. 171-176. ISBN: 978-80-227-2697-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "TOBOLA, J.; KOTASEK, Z.; KORENEK, J.; MARTINEK, T.; STRAKA, M. Online Protocol Testing for FPGA Based Fault Tolerant Systems. 10th EUROMICRO Conference on Digital System Design DSD 2007. Lubeck, Germany: IEEE Computer Society, 2007. p. 676-679. ISBN: 0-7695-2978-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "HERRMAN, T. Formal Model of Testable Block. Proceedings of 12th Conference Student EEICT 2006, Volume 4. Brno: Faculty of Electrical Engineering and Communication BUT, 2006. p. 451-455. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "HERRMAN, T. Metodika aplikace testu obvodu zalozena na identifikaci Testovatelnych bloku. Pocitacove architektury a diagnostika - zbornik prispovkov. Bratislava: Ustav informatiky Slovenskej akademie vied, 2006. s. 131-136. ISBN: 80-969202-2-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "HERRMAN, T. Testability Analysis Based on Formal Model. Proceedings of the Sevnth International Scientific Conference ECI 2006. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2006. p. 243-248. ISBN: 80-8073-598-0. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KOTASEK, Z.; STRNADEL, J. SET: Interactive Tool for Learning and Training Scan-Based DFT Principles and Their Consequences to Parameters of Embedded System. Proceedings of the 13th IEEE International Symposium and Workshop on the Engineering of Computer-Based Systems (ECBS). Los Alamitos, CA: IEEE Computer Society, 2006. p. 497-498. ISBN: 0-7695-2546-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "PECENKA, T. Prostredky a metody pro automaticke vytvareni testovacich obvodu. Sbornik prispevku pracovniho seminare Pocitacove architektury & diagnostika pro studenty doktorskeho studia. Bratislava: Ustav informatiky Slovenskej akademie vied, 2006. s. 13-18. ISBN: 80-969202-2-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "PECENKA, T.; KOTASEK, Z. I-path Scheduling Algorithm for RT Level Circuits. MEMICS 2006 2nd Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Mikulov: 2006. p. 174-181. ISBN: 80-214-3287-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "PECENKA, T.; KOTASEK, Z.; SEKANINA, L. FITTest_BENCH06: A New Set of Benchmark Circuits Reflecting Testability Properties. Proc. of 2006 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Praha: IEEE Computer Society, 2006. p. 285-289. ISBN: 1424401844. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "PECENKA, T.; STRNADEL, J.; KOTASEK, Z.; SEKANINA, L. Testability Estimation Based on Controllability and Observability Parameters. Proceedings of the 9th EUROMICRO Conference on Digital System Design (DSD'06). IEEE CS. Cavtat: IEEE Computer Society, 2006. p. 504-514. ISBN: 0-7695-2609-8. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SKARVADA, J. GA Based Test Scheduling Under Power Constraints. Proceedings of 12th Conference Student EEICT 2006, Volume 4. Brno: Faculty of Electrical Engineering and Communication BUT, 2006. p. 461-465. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SKARVADA, J. Optimalizace planovani testu cislicovych systemu vzhledem k prikonu. Sbornik prispevku pracovniho seminare Pocitacove architektury & diagnostika pro studenty doktorskeho studia. Bratislava: Ustav informatiky Slovenskej akademie vied, 2006. s. 143-148. ISBN: 80-9692-0227. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SKARVADA, J. Test Scheduling for SOC under Power Constraints. Proceedings of the 2006 IEEE Workshop on Design and Diagnostics of Electronic Circuits and Systems. Prague: Czech Technical University Publishing House, 2006. p. 91-93. ISBN: 1-4244-0184-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SKARVADA, J.; RUZICKA, R. Using Petri Nets for RT Level Digital Systems Test Scheduling. Proceedings of 1st International Workshop on Formal Models (WFM'06). Ostrava: Marq software s.r.o., 2006. p. 79-86. ISBN: 80-86840-20-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "STRNADEL, J. On Distribution of Testability Values in Scan-Layout State-Space. Proceedings of the 7th International Scientific Conference on Electronic Computers and Informatics. Kosice: The University of Technology Kosice, 2006. p. 308-313. ISBN: 80-8073-598-0. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "STRNADEL, J. Power-Constrained, Sessionless SOC Test Scheduling Based on Exploration of I-Schedule State-Space. Proceedings of the 2006 IEEE Workshop on Design and Diagnostics of Electronic Circuits and Systems. Prague: Czech Technical University Publishing House, 2006. p. 161-162. ISBN: 1-4244-0184-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "STRNADEL, J. Testability Analysis and Improvements of Register-Transfer Level Digital Circuits. COMPUTING AND INFORMATICS, 2006, vol. 25, no. 5, p. 441-464. ISSN: 1335-9150. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "STRNADEL, J.; DHALI, A. Novel Optimizing Approach in the Area of STEP-Based Construction of Sessionless, Power-Constrainted, TAM and Time Optimal Test Schedules. Proceedings of the 13th IEEE International Symposium and Workshop on the Engineering of Computer-Based Systems (ECBS). Los Alamitos, CA: IEEE Computer Society, 2006. p. 360-367. ISBN: 0-7695-2546-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KOTASEK, Z.; STRNADEL, J. Testing Tools for Training and Education. Proceedings of 12th International Conference on Mixed Design of Integrated Circuits and Systems. Krakow: Department of Microelectronics and Computer Science, Technical University of Lodz, 2005. p. 671-676. ISBN: 83-919289-9-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KOTASEK, Z.; STRNADEL, J.; PECENKA, T. Methodology of Selecting Scan-Based Testability Improving Technique. Proc. of 8th IEEE Design and Diagnostic of Electronic Circuits and Systems Workshop. Sopron: University of West Hungary, 2005. p. 186-189. ISBN: 963-9364-48-7. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MIKA, D. Uplatneni formalnich postupu pri navrhu radice testu cislicoveho obvodu. Brno: 2005. 144 s. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "PECENKA, T. At-speed Wiring Interconnects Testing on COMBO6 Card. Proc. of 8th IEEE Design and Diagnostic of Electronic Circuits and Systems Workshop. Sopron: University of West Hungary, 2005. p. 221-223. ISBN: 963-9364-48-7. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "PECENKA, T. Generating Synthetic Benchmark Circuits with Predefined Testability Properties. Pre-Proc. 1st Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: 2005. p. 200-209. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "PECENKA, T. Prostredky a metody pro automaticke vytvareni testovacich obvodu. Sbornik prispevku ze seminare Pocitacove Architektury a Diagnostika. Praha: Fakulta elektrotechniky CVUT, 2005. s. 135-140. ISBN: 80-01-03298-1. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "PECENKA, T.; KOTASEK, Z.; SEKANINA, L.; STRNADEL, J. Automatic Discovery of RTL Benchmark Circuits with Predefined Testability Properties. Proc. of the 2005 NASA/DoD Conference on Evolvable Hardware. Los Alamitos: IEEE Computer Society Press, 2005. p. 51-58. ISBN: 0-7695-2399-4. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "RUZICKA, R. A Complex Approach to Digital RTL Circuit Testability - iFCoRT System. Informal Digest of Papers of the IEEE European Test Symposium 2005. Tallinn: Tallinn University of Technology, 2005. p. 156-157. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "RUZICKA, R. On the Petri Net Based Test Scheduling. Proceedings of the Work in Progress Session at Euromicro SEAA/DSD 2005. Linz: Johannes Kepler University Linz, 2005. p. 18-19. ISBN: 3-902457-09-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "STRNADEL, J. VIRTA: Virtual Port Based Register-Transfer Level Testability Analysis and Improvements. Proceedings of 8th IEEE Design and Diagnostic of Electronic Circuits and Systems Workshop. Sopron: University of West Hungary, 2005. p. 190-193. ISBN: 963-9364-48-7. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "STRNADEL, J.; KOTASEK, Z. Educational Tool for the Demonstration of Dft Principles Based on Scan Methodologies. Proceedings of 8th Euromicro Conference on Digital System Design. Los Alamitos: IEEE Computer Society, 2005. p. 420-427. ISBN: 0-7695-2433-8. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "STRNADEL, J.; PECENKA, T.; SEKANINA, L. On Testability Analysis Driven Generation of Synthetic Register-Transfer Level Benchmark Circuits. Proceedings of 5th Electronic Circuits and Systems Conference. Bratislava: Slovak University of Technology in Bratislava, 2005. p. 107-110. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "STRNADEL, J. Analyza a zlepseni testovatelnosti cislicoveho obvodu na urovni meziregistrovych prenosu. Brno: 2004. 150 s. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "RUZICKA, R. Formalni pristup k analyze testovatelnosti cislicovych obvodu na urovni RT. Brno: 2002. 102 s. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOTASEK, Z. Uplatneni principu riditelnosti/pozorovatelnosti pri navrhu cislicovych obvodu. Brno: Vysoke uceni technicke v Brne, 2000. s. 1-80. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2015",
+            "title": "GPDRC: Radic castecne dynamicke rekonfigurace pro odolne architektury",
+            "authors": "GPDRC: Radic castecne dynamicke rekonfigurace pro odolne architektury , software, 2015 : STRAKA, M.; KASTIL, J."
+        },
+        {
+            "year": "2015",
+            "title": "Nastroje pro generovani odolnych architektur a hlidacich obvodu z jazyka VHDL",
+            "authors": "Nastroje pro generovani odolnych architektur a hlidacich obvodu z jazyka VHDL , software, 2015 : STRAKA, M."
+        },
+        {
+            "year": "2013",
+            "title": "intMAN: Priority-Driven Load-Adaptive Monitoring-Based Hardware for Managing Interrupts in Embedded Event-Triggered Real-Time Systems",
+            "authors": "intMAN: Priority-Driven Load-Adaptive Monitoring-Based Hardware for Managing Interrupts in Embedded Event-Triggered Real-Time Systems , prototype, 2013 : STRNADEL, J.; SIMEK, V."
+        },
+        {
+            "year": "2008",
+            "title": "TASTE: Testability Analysis SuiTE",
+            "authors": "TASTE: Testability Analysis SuiTE , software, 2008 : STRNADEL, J."
+        },
+        {
+            "year": "2007",
+            "title": "RTL benchmark circuit generator",
+            "authors": "RTL benchmark circuit generator , software, 2007 : PECENKA, T.; KOTASEK, Z."
+        },
+        {
+            "year": "2007",
+            "title": "Set of tools for RTL circuits testability analysis",
+            "authors": "Set of tools for RTL circuits testability analysis , software, 2007 : SKARVADA, J.; KOTASEK, Z."
+        },
+        {
+            "year": "2007",
+            "title": "Tools for split RTL circuit into Testable blocks",
+            "authors": "Tools for split RTL circuit into Testable blocks , software, 2007 : HERRMAN, T.; KOTASEK, Z."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2012",
+            "title": "Towards Beneficial Hardware Acceleration in HAVEN: Evaluation of Testbed Architectures",
+            "authors": "Towards Beneficial Hardware Acceleration in HAVEN: Evaluation of Testbed Architectures , report, 2012 : ZACHARIASOVA, M.; LENGAL, O."
+        }
+    ]
+}

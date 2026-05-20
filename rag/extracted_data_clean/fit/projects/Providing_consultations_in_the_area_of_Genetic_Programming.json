@@ -1,0 +1,30 @@
+{
+    "project": "Providing consultations in the area of Genetic Programming",
+    "title": "Poskytovani konzultaci v oblasti genetickeho programovani - doplnkova cinnost",
+    "metadata": {
+        "project_period": "1. 11. 2023 \u2013 30. 9. 2028",
+        "project_type": "contract"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Providing consultations in the area of Genetic Programming"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "evolutionary algorithm, evolution strategy, genetic algorithm, genetic programming, logistic plan"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The aim of this project is to provide consultations related to the solution of the master thesis of mr. David Sedlak, a student of BUT FIT, in the cooperation of the company Center for Genetic proggramming, s.r.o. The work is focused on the generation and optimization of logistic plans."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Bidlo Michal, doc. Ing., Ph.D. (DCSY) \u2013 research leader"
+        }
+    }
+}

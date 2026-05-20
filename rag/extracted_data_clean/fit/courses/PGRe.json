@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "code": "PGRe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Computer Graphics (in English)"
+    },
+    "content": {
+        "guarantor": "Herout Adam, prof. Ing., Ph.D. | (DCGM)",
+        "course_coordinator": "Milet Tomas, Ing., Ph.D. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written)",
+        "time_span": "- 39 hrs lectures\n- 6 hrs pc labs\n- 7 hrs projects",
+        "assessment_points": "- 51 pts final exam (written part)\n- 7 pts mid-term test (test part)\n- 16 pts seminars in computer labs\n- 26 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Herout Adam, prof. Ing., Ph.D. | (DCGM) | Milet Tomas, Ing., Ph.D. | (DCGM)",
+        "instructor": "Herout Adam, prof. Ing., Ph.D. | (DCGM) | Milet Tomas, Ing., Ph.D. | (DCGM)",
+        "learning_objectives": "To learn about theoretical background of spatial computer graphics. To get acquainted with tools for graphics scenes modelling. To learn limitations imposed by physical nature of light propagation in computer graphics. To learn principles of methods and algorithms of spatial computer graphics. To learn principles of computer animation. To get acquainted with OpenGL graphics library. To acquire practical skills needed for application development with computer graphics or computer animation features.The students will learn about theoretical background of spatial computer graphics. They get acquainted with tools for graphics scenes modelling. They learn limitations imposed to physical nature of light propagation in computer graphics, principles of methods and algorithms of spatial computer graphics, and principles of computer animation. They get acquainted with OpenGL graphics library, too. Students also acquire practical skills needed for application development with computer graphics or computer animation features.The students will learn to work in team. They will also improve their skills in development tools usage and also in practical C/C++ programming.",
+        "prerequisite_knowledge_and_skills": "Basic knowledge of C/C++ programming, basic principles of computer graphics (vector and raster), basic operations of planar (2D) and spatial (3D) graphics, principles of main graphics application interfaces, methods and algorithms for rasterization of lines, circles and curves, filling of closed areas, methods and algorithms for pbject transformations, visibility solving, lighting, shading, and texturing.",
+        "study_literature": "- Sillion, F., Puech, C.: Radiosity and Global Illumination, Morgan Kaufmann, 1994, ISBN 1558602771\n- Ebert, D.S. et al.: Texturing and Modelling: A Procedural Approach, Academic Press, 1998, ISBN 0122287304",
+        "syllabus_of_lectures": "- Introduction, OpenGL graphics library - basics of rendering\n- OpenGL graphics library - drawing of graphics primitives, their features, camera settings\n- OpenGL graphics library - materials and lighting\n- OpenGL graphics library - textures, MIP mapping, filtration\n- OpenGL graphic library - advanced techniques, shaders\n- Global visibility; Level of Detail\n- Rendering and processing volumetric data\n- Realistic rendering - Ray Tracing\n- Realistic rendering - Radiosity, Particle methods, Path tracing\n- Textures (generation, procedural textures, special textures)\n- Point-based graphics\n- 2D vector and raster morphing; Animation - particle systems\n- Virtual and augmented reality",
+        "syllabus_of_computer_exercises": "- 2D drawing, 3D objects, Camera setup\n- Shading, Lighting, Materials, Texturing\n- Animation, Selection buffer, Stencil buffer",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "- Individually assigned projects / Team projects",
+        "progress_assessment": "- Mid-term test - up to 7 points\n- Evaluated computer labs - up to 12 points\n- Individual project - up to 30 points\n- Written exam - up to 51 points\nMid-term test, evaluated computer labs, and individual project."
+    }
+}

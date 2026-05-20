@@ -1,0 +1,271 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Professor",
+        "details": {
+            "e_mail": "cadik@fit.vut.cz",
+            "work_phone": "+420 54114 1272",
+            "room": "L231 Office",
+            "researcher_id": "O-4824-2014",
+            "orcid_id": "0000-0001-7058-9912",
+            "scopus_author_id": "6507934276"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Computational Photography Group - CPhoto@FIT",
+            "role": "Principal researcher, Head"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "chairman"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "1992-1996: Secondary school of electrical engineering, Karla IV. 13, Pardubice; specialization in computer engineering;",
+            "1996-2002: Ms.C. studies (Ing.) at the Department of Computer Science and Engineering,Faculty of Electrical Engineering, Czech Technical University in Prague;",
+            "2002-2008: Ph.D. studies at the Department of Computer Science and Engineering, Faculty of Electrical Engineering, Czech Technical University in Prague",
+            "2009-2013: Max-Planck-Institut fur Informatik, Saarbrucken, Germany; position: post-doc researcher",
+            "2015: Associate Professor at FIT BUT, Head ofCPhoto@FITresearch group",
+            "2025: Professor at FIT BUT, Head ofCPhoto@FITresearch group"
+        ],
+        "scientific_activities": [
+            "Computer Graphics, High Dynamic Range Imaging, Image Processing and Computer Vision, Image and Video Quality Assessment, Human Visual Perception, Computational Photography and AestheticsComputational Photography Group - CPhoto@FIT",
+            "My personal webpagesGoogle Scholar citationsLinkedIn profileTwitter profile"
+        ],
+        "awards": [
+            "Outstanding master thesis award, Dean of FEL, CTU in Prague 2002",
+            "Trans it! - the best applicable inventions at CTU award 2008",
+            "Outstanding dissertaion award, Rector of CTU in Prague 2009",
+            "NPAR 2011 Best Paper Award",
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2019",
+            "BUT Rector's award for extraordinary scientific achievements 2024",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2025"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Please reserve your slot in wiki , or send me an email.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "VYF",
+                "title": "Computational Photography",
+                "details": "Czech, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "VIN",
+                "title": "Computer Art",
+                "details": "Czech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "1ZHERV",
+                "title": "Introduction to Game Development",
+                "details": "Czech, winter",
+                "department": "AHM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "1ZHERV",
+                "title": "Introduction to Game Development",
+                "details": "Lecture,\nCzech, winter",
+                "department": "AHM"
+            },
+            {
+                "abbreviation": "PGPa",
+                "title": "Advanced Computer Graphics (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "POVa",
+                "title": "Computer Vision (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "VIN",
+                "title": "Computer Art",
+                "details": "Lecture,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "VYF",
+                "title": "Computational Photography",
+                "details": "Lecture, Project,\nCzech, summer",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Machine learning for printed heritage digitisation",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV066, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2021",
+            "title": "5G-ERA - 5G-Enhanced Robot Autonomy",
+            "details": "EU, Horizon 2020, start: 2021-01-01, end: 2024-06-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Deep-Learning Approach to Topographical Image Analysis",
+            "details": "MSMT, INTER-EXCELLENCE - Podprogram INTER-ACTION, LTAIZ19004, start: 2019-07-01, end: 2022-06-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Colour Image in \"Realtime Embedded Computing\"",
+            "details": "BUT, Vnitrni projekty VUT, TH03010330, start: 2018-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "HiVisComp 2016",
+            "details": "start: 2016-02-01, end: 2016-03-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Visual localization in natural environments (LOCATE)",
+            "details": "4SGA8694, start: 2014-03-01, end: 2016-07-19, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Acquisition and processing of HDR images",
+            "details": "MSMT, COST CZ (2011-2017), LD12027, start: 2012-03-01, end: 2015-04-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2024",
+            "citation": "BOBAK, P.; CMOLIK, L.; CADIK, M. Reinforced Labels: Multi-Agent Deep Reinforcement Learning for Point-Feature Label Placement. IEEE transactions on visualization and computer graphics, 2024, vol. 30, no. 9, p. 5908-5922. ISSN: 1077-2626."
+        },
+        {
+            "year": "2024",
+            "citation": "DEKEL, S.; KELLER, Y.; CADIK, M. Estimating Extreme 3D Image Rotations using Cascaded Attention. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Seattle: IEEE Computer Society, 2024. p. 2588-2598. ISBN: 979-8-3503-5301-3."
+        },
+        {
+            "year": "2023",
+            "citation": "POLASEK, T.; CADIK, M. Predicting Photovoltaic Power Production using High-Uncertainty Weather Forecasts. Applied Energy, 2023, vol. 2023, no. 339, p. 120989-121004. ISSN: 0306-2619."
+        },
+        {
+            "year": "2023",
+            "citation": "POLASEK, T.; CADIK, M.; KELLER, Y.; BENES, B. Vision UFormer: Long-Range Monocular Absolute Depth Estimation. COMPUTERS & GRAPHICS-UK, 2023, vol. 111, no. 4, p. 180-189. ISSN: 0097-8493."
+        },
+        {
+            "year": "2022",
+            "citation": "RAJASEKARAN, S.; KANG, H.; CADIK, M.; GALIN, E.; GUERIN, E.; PEYTAVIE, A.; SLAVIK, P.; BENES, B. PTRM: Perceived Terrain Realism Metric. ACM Transactions on Applied Perception, 2022, vol. 19, no. 2, p. 1-22. ISSN: 1544-3558."
+        },
+        {
+            "year": "2022",
+            "citation": "TOMESEK, J.; CADIK, M.; BREJCHA, J. CrossLocate: Cross-Modal Large-Scale Visual Geo-Localization in Natural Environments using Rendered Modalities. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). Waikoloa: Institute of Electrical and Electronics Engineers, 2022. p. 2193-2202. ISBN: 978-1-6654-0477-8."
+        },
+        {
+            "year": "2021",
+            "citation": "AHMAD, T.; EMAMI, E.; CADIK, M.; BEBIS, G. Resource Efficient Mountainous Skyline Extraction using Shallow Learning. In Proceedings of the International Joint Conference on Neural Networks (IJCNN). Hoffman Estates: Institute of Electrical and Electronics Engineers, 2021. p. 1-9. ISBN: 978-1-6654-3900-8."
+        },
+        {
+            "year": "2021",
+            "citation": "POLASEK, T.; HRUSA, D.; BENES, B.; CADIK, M. ICTree: Automatic Perceptual Metrics for Tree Models. ACM TRANSACTIONS ON GRAPHICS, 2021, vol. 40, no. 6, p. 1-15. ISSN: 0730-0301."
+        },
+        {
+            "year": "2020",
+            "citation": "BOBAK, P.; CMOLIK, L.; CADIK, M. Temporally Stable Boundary Labeling for Interactive and Non-Interactive Dynamic Scenes. COMPUTERS & GRAPHICS-UK, 2020, vol. 91, no. 10, p. 265-278. ISSN: 0097-8493."
+        },
+        {
+            "year": "2020",
+            "citation": "BREJCHA, J.; LUKAC, M.; HOLD-GEOFFROY, Y.; WANG, O.; CADIK, M. LandscapeAR: Large Scale Outdoor Augmented Reality by Matching Photographs with Terrain Models Using Learned Descriptors. In Computer Vision - ECCV 2020. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2020. p. 295-312. ISBN: 978-3-030-58525-9."
+        },
+        {
+            "year": "2019",
+            "citation": "BOBAK, P.; CMOLIK, L.; CADIK, M. Video Sequence Boundary Labeling with Temporal Coherence. In CGI 2019 Proceedings. Lecture Notes in Computer Science. LNCS, volume 11542. Calgary: Springer International Publishing, 2019. no. 11542, p. 40-52. ISBN: 978-3-030-22514-8. ISSN: 0302-9743."
+        },
+        {
+            "year": "2018",
+            "citation": "BREJCHA, J.; CADIK, M. Camera Orientation Estimation in Natural Scenes Using Semantic Cues. In 2018 International Conference on 3D Vision. Verona: IEEE Computer Society, 2018. p. 208-217. ISBN: 978-1-5386-2610-8."
+        },
+        {
+            "year": "2018",
+            "citation": "BREJCHA, J.; LUKAC, M.; CHEN, Z.; DIVERDI, S.; CADIK, M. Immersive Trip Reports. In Proceedings of the 31st ACM User Interface Software and Technology Symposium. Berlin: Association for Computing Machinery, 2018. p. 389-401. ISBN: 978-1-4503-5948-1."
+        },
+        {
+            "year": "2018",
+            "citation": "CADIK, M.; SYKORA, D.; LEE, S. Automated outdoor depth-map generation and alignment. COMPUTERS & GRAPHICS-UK, 2018, vol. 74, no. 3, p. 109-118. ISSN: 0097-8493."
+        },
+        {
+            "year": "2017",
+            "citation": "AHMAD, T.; CAMPR, P.; CADIK, M.; BEBIS, G. Comparison of Semantic Segmentation Approaches for Horizon/Sky Line Detection. In Proceedings of the International Joint Conference on Neural Networks (IJCNN). Anchorage: Institute of Electrical and Electronics Engineers, 2017. p. 4436-4443. ISBN: 978-1-4799-1961-1."
+        },
+        {
+            "year": "2017",
+            "citation": "BREJCHA, J.; CADIK, M. GeoPose3K: Mountain Landscape Dataset for Camera Pose Estimation in Outdoor Environments. IMAGE AND VISION COMPUTING, 2017, vol. 2017, no. 1, p. 1-41. ISSN: 0262-8856."
+        },
+        {
+            "year": "2017",
+            "citation": "BREJCHA, J.; CADIK, M. State-of-the-art in Visual Geo-localization. PATTERN ANALYSIS AND APPLICATIONS, 2017, vol. 2017, no. 3, p. 1-25. ISSN: 1433-7541."
+        },
+        {
+            "year": "2017",
+            "citation": "PRIBYL, B.; ZEMCIK, P.; CADIK, M. Absolute Pose Estimation from Line Correspondences using Direct Linear Transformation. COMPUTER VISION AND IMAGE UNDERSTANDING, 2017, vol. 161, no. 1, p. 130-144. ISSN: 1077-3142."
+        },
+        {
+            "year": "2016",
+            "citation": "CADIK, M.; AYDIN, T. HDR Video Metrics. In High Dynamic Range Video: Concepts, Technologies and Applications. London: Elsevier Science, 2016. p. 111-125. ISBN: 978-0-12-809477-8."
+        },
+        {
+            "year": "2016",
+            "citation": "PRIBYL, B.; CHALMERS, A.; ZEMCIK, P.; HOOBERMAN, L.; CADIK, M. Evaluation of Feature Point Detection in High Dynamic Range Imagery. JOURNAL OF VISUAL COMMUNICATION AND IMAGE REPRESENTATION, 2016, vol. 38, no. 1, p. 141-160. ISSN: 1047-3203."
+        },
+        {
+            "year": "2015",
+            "citation": "CADIK, M. Computational Photography. Brno: Faculty of Information Technology BUT, 2015. 195 p."
+        },
+        {
+            "year": "2015",
+            "citation": "CADIK, M.; VASICEK, J.; HRADIS, M.; RADENOVIC, F.; CHUM, O. Camera Elevation Estimation from a Single Mountain Landscape Photograph. In British Machine Vision Conference 2015. Swansea: The British Machine Vision Association and Society for Pattern Recognition, 2015. p. 1-12. ISBN: 978-1-901725-53-7."
+        },
+        {
+            "year": "2015",
+            "citation": "PRIBYL, B.; ZEMCIK, P.; CADIK, M. Camera Pose Estimation from Lines using Plucker Coordinates. In Proceedings of the British Machine Vision Conference (BMVC 2015). Swansea: The British Machine Vision Association and Society for Pattern Recognition, 2015. p. 1-12. ISBN: 978-1-901725-53-7."
+        },
+        {
+            "year": "2014",
+            "citation": "FISER, J.; LUKAC, M.; JAMRISKA, O.; CADIK, M.; GINGOLD, Y.; ASENTE, G.; SYKORA, D. Color Me Noisy: Example-based Rendering of Hand-colored Animations with Temporal Noise Control. Computer Graphics Forum, 2014, vol. 2014, no. 4, p. 1-10. ISSN: 0167-7055."
+        },
+        {
+            "year": "2014",
+            "citation": "SYKORA, D.; KAVAN, L.; CADIK, M.; JAMRISKA, O.; JACOBSON, A.; WHITED, B.; SIMMONS, M.; SORKINE-HORNUNG, O. Ink-and-Ray: Bas-Relief Meshes for Adding Global Illumination Effects to Hand-Drawn Characters. ACM TRANSACTIONS ON GRAPHICS, 2014, vol. 2014, no. 2, p. 1-16. ISSN: 0730-0301."
+        },
+        {
+            "year": "2013",
+            "citation": "CADIK, M.; HERZOG, R.; MANTIUK, R.; MANTIUK, R.; MYSZKOWSKI, K.; SEIDEL, H. Learning to Predict Localized Distortions in Rendered Images. Computer Graphics Forum, 2013, vol. 2013, no. 7, p. 401-410. ISSN: 0167-7055."
+        }
+    ],
+    "name": "Cadik Martin, prof. Ing., Ph.D."
+}

@@ -1,0 +1,33 @@
+{
+    "project": "AI enabled artistic solutions for sustainable food systems",
+    "title": "AI enabled artistic solutions for sustainable food systems",
+    "metadata": {
+        "project_period": "1. 9. 2022 \u2013 28. 2. 2026",
+        "project_type": "grant",
+        "code": "101069990",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "agriculture, food, AI, digital arts, creative coding, sustainability, responsible innovation, ethics, green, care, health, systems design, experimentation, prototyping, usability, use-scenarios"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Hungry EcoCities puts forward a high-level alliance between science, technology, and the arts, to effectively explore how digital technologies & applications can lead in turn to reduced food waste, more sustainable value chains, eco-friendly attitudes, and a more ethical food consumption. Hungry EcoCities brings together some of the worlds most renowned art studios with leading AI and agricultural experts and a network of over 40 leading European agricultural companies to develop ways of creating a more healthy, sustainable, and affordable agri-food system for all."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader Bambusek Daniel, Ing. (DCGM) Otahalova Sylva (DCGM) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- CHLUBNA, T.; VLNAS, M.; BARINA, D.; MILET, T.; ZEMCIK, P. Focus-aware compression and image quality metric for 3D displays. Signal processing, 2025, vol. 2026, no. 238, p. 1-14. ISSN: 0165-1684. Detail CHLUBNA, T.; ZEMCIK, P. Comparative Survey of Image Compression Methods Across Different Pixel Formats and Bit Depths. Signal Image and Video Processing, 2025, vol. 19, no. 12, 13 p. Detail\n- CHLUBNA, T.; ZEMCIK, P. Comparative Survey of Image Compression Methods Across Different Pixel Formats and Bit Depths. Signal Image and Video Processing, 2025, vol. 19, no. 12, 13 p. Detail\n- CHLUBNA, T.; MILET, T.; ZEMCIK, P. Out-of-Focus Artifacts Mitigation and Autofocus Methods for 3D Displays. Visual Informatics, 2024, vol. 9, no. 1, p. 31-42. ISSN: 2468-502X. Detail"
+        }
+    }
+}

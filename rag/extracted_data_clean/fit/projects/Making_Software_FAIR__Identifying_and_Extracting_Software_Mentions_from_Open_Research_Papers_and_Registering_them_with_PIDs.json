@@ -1,0 +1,41 @@
+{
+    "project": "Making Software FAIR: Identifying and Extracting Software Mentions from Open Research Papers and Registering them with PIDs",
+    "title": "Making Software FAIR: Identifying and Extracting Software Mentions from Open Research Papers and Registering them with PIDs",
+    "metadata": {
+        "project_period": "1. 1. 2024 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "TH86010002",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "CHRIST-ERA Call Open Research Data"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Software odpovdajc principum FAIR (nalezitelny, dostupny, interoperabiln a znovuvyuzitelny): Strojove podporovany pracovn postup pro zivotn cyklus vyzkumneho softwaru"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "open research data, FAIR, ML-based bibliographoc extraction tool"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Collaboration with partners to further develop existing ML-based bibliographic extraction tools, which are already state of the art, can significantly improve on current methodologies. By integrating and applying these new tools within established open scholarly infrastructures used by millions of people (CORE, EuropePMC, HAL, Software Heritage), we will increase metadata quality and facilitate the adoption of persistent identifiers across the open repositories network. This will make research software more discoverable within the open scholarly infrastructure in line with FAIR policies. The systematic archival in the Software Heritage universal archive of the corresponding source code, when available, will also make research software available and reusable."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader Docekal Martin, Ing. (DCGM) Dytrych Jaroslav, Ing., Ph.D. (DCGM) Fajcik Martin, Ing., Ph.D. (DCGM) Jurankova Marketa, Ing., Ph.D. (DCGM) Matysek Michal, Ing. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- CANCELLIERI, M.; DOCEKAL, M.; PRIDE, D.; GRUENPETER, M.; DOUARD, D.; KNOTH, P. Interoperable verification and dissemination of software assets in repositories using COAR Notify. 2025. Detail\n- KNOTH, P.; LAURENT, R.; LOPEZ, P.; DI COSMO, R.; SMRZ, P.; UMERLE, T.; HARRISON, M.; MONTEIL, A.; CANCELLIERI, M.; PRIDE, D. Making Software FAIR: A machine-assisted workflow for the research software lifecycle. 2024. Detail"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- Software for Disambiguating Mentions of Software Tools Used in Scientific Papers , software, 2025 Authors : DOCEKAL, M.; SMRZ, P."
+        }
+    }
+}

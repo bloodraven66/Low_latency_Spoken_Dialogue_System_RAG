@@ -1,0 +1,508 @@
+{
+  "dataset": "FIT_courses_structured_v1",
+  "num_questions": 50,
+  "seed": 1337,
+  "source": "extracted_data_clean/fit/courses",
+  "output_file": "FIT_RAG_Benchmark/courses/structured.json",
+  "description": "Structured short-answer course benchmark with paraphrased question templates and procedural answers.",
+  "items": [
+    {
+      "id": "courses_struct_001",
+      "question": "BAYa stands for what course name?",
+      "expected_answer": "Bayesian Models for Machine Learning (in English)",
+      "answer_field": "metadata.course_name",
+      "course_code": "BAYa",
+      "type": "code_expansion",
+      "actual_answer": "Bayesian Models for Machine Learning (in English)"
+    },
+    {
+      "id": "courses_struct_002",
+      "question": "Is BAYa offered in the summer semester?",
+      "expected_answer": "No",
+      "answer_field": "metadata.semester",
+      "course_code": "BAYa",
+      "type": "is_summer",
+      "actual_answer": "Winter semester"
+    },
+    {
+      "id": "courses_struct_003",
+      "question": "Recommend one textbook for BAYa.",
+      "expected_answer": "C. Bishop: Pattern Recognition and Machine Learning, Springer, 2006",
+      "answer_field": "content.fundamental_literature/content.study_literature(first item)",
+      "course_code": "BAYa",
+      "type": "textbook",
+      "actual_answer": "C. Bishop: Pattern Recognition and Machine Learning, Springer, 2006"
+    },
+    {
+      "id": "courses_struct_004",
+      "question": "What department teaches BFTa?",
+      "expected_answer": "Faculty of Information Technology",
+      "answer_field": "content.department",
+      "course_code": "BFTa",
+      "type": "department",
+      "actual_answer": "Faculty of Information Technology"
+    },
+    {
+      "id": "courses_struct_005",
+      "question": "Which code corresponds to Biometric Systems (in English)*)?",
+      "expected_answer": "BIOe",
+      "answer_field": "metadata.code",
+      "course_code": "BIOe",
+      "type": "code_lookup",
+      "actual_answer": "BIOe"
+    },
+    {
+      "id": "courses_struct_006",
+      "question": "Final exam points for BIOe?",
+      "expected_answer": "55 pts",
+      "answer_field": "content.assessment_points/progress_assessment(final)",
+      "course_code": "BIOe",
+      "type": "final_points",
+      "actual_answer": "55 pts"
+    },
+    {
+      "id": "courses_struct_007",
+      "question": "What is the credit value of BRIa?",
+      "expected_answer": "5 credits",
+      "answer_field": "metadata.credits",
+      "course_code": "BRIa",
+      "type": "credits",
+      "actual_answer": "5 credits"
+    },
+    {
+      "id": "courses_struct_008",
+      "question": "Which teachers are assigned to BRIa?",
+      "expected_answer": "Malik Aamir Saeed, prof., Ph.D., Blaskova Barbora, Ing., Hussain Yasir, Zaheer Muhammad Asad",
+      "answer_field": "content.lecturer/content.instructor",
+      "course_code": "BRIa",
+      "type": "who_teaches",
+      "actual_answer": [
+        "Malik Aamir Saeed, prof., Ph.D.",
+        "Blaskova Barbora, Ing.",
+        "Hussain Yasir",
+        "Zaheer Muhammad Asad"
+      ]
+    },
+    {
+      "id": "courses_struct_009",
+      "question": "What does CPSa stand for?",
+      "expected_answer": "Cyber-Physical Systems Design (in English)",
+      "answer_field": "metadata.course_name",
+      "course_code": "CPSa",
+      "type": "code_expansion",
+      "actual_answer": "Cyber-Physical Systems Design (in English)"
+    },
+    {
+      "id": "courses_struct_010",
+      "question": "What does CSOa stand for?",
+      "expected_answer": "CCNA Cybersecurity Operations (in English)",
+      "answer_field": "metadata.course_name",
+      "course_code": "CSOa",
+      "type": "code_expansion",
+      "actual_answer": "CCNA Cybersecurity Operations (in English)"
+    },
+    {
+      "id": "courses_struct_011",
+      "question": "Does DFAa include a project?",
+      "expected_answer": "Yes",
+      "answer_field": "content.time_span/assessment/progress(project presence)",
+      "course_code": "DFAa",
+      "type": "has_project",
+      "actual_answer": true
+    },
+    {
+      "id": "courses_struct_012",
+      "question": "How many points for project in DFAa?",
+      "expected_answer": "15 pts",
+      "answer_field": "content.assessment_points/progress_assessment(project)",
+      "course_code": "DFAa",
+      "type": "project_points",
+      "actual_answer": "15 pts"
+    },
+    {
+      "id": "courses_struct_013",
+      "question": "Is DIPa taught in summer semester?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.semester",
+      "course_code": "DIPa",
+      "type": "is_summer",
+      "actual_answer": "Summer semester"
+    },
+    {
+      "id": "courses_struct_014",
+      "question": "Does FYOe include a project?",
+      "expected_answer": "Yes",
+      "answer_field": "content.time_span/assessment/progress(project presence)",
+      "course_code": "FYOe",
+      "type": "has_project",
+      "actual_answer": true
+    },
+    {
+      "id": "courses_struct_015",
+      "question": "Project points in FYOe?",
+      "expected_answer": "30 pts",
+      "answer_field": "content.assessment_points/progress_assessment(project)",
+      "course_code": "FYOe",
+      "type": "project_points",
+      "actual_answer": "30 pts"
+    },
+    {
+      "id": "courses_struct_016",
+      "question": "Is Havel Martin, Ing. teaching GALe?",
+      "expected_answer": "Yes",
+      "answer_field": "content.lecturer/content.instructor",
+      "course_code": "GALe",
+      "type": "is_teacher_yes",
+      "actual_answer": [
+        "Havel Martin, Ing.",
+        "Krivka Zbynek, Ing., Ph.D."
+      ]
+    },
+    {
+      "id": "courses_struct_017",
+      "question": "Which teachers are assigned to HSCa?",
+      "expected_answer": "Fucik Otto, doc. Dr. Ing., Kekely Lukas, Ing., Ph.D., Martinek Tomas, doc. Ing., Ph.D.",
+      "answer_field": "content.lecturer/content.instructor",
+      "course_code": "HSCa",
+      "type": "who_teaches",
+      "actual_answer": [
+        "Fucik Otto, doc. Dr. Ing.",
+        "Kekely Lukas, Ing., Ph.D.",
+        "Martinek Tomas, doc. Ing., Ph.D."
+      ]
+    },
+    {
+      "id": "courses_struct_018",
+      "question": "IFJe stands for what course name?",
+      "expected_answer": "Formal Languages and Compilers (in English)",
+      "answer_field": "metadata.course_name",
+      "course_code": "IFJe",
+      "type": "code_expansion",
+      "actual_answer": "Formal Languages and Compilers (in English)"
+    },
+    {
+      "id": "courses_struct_019",
+      "question": "Which department is responsible for IFJe?",
+      "expected_answer": "Department of Information Systems",
+      "answer_field": "content.department",
+      "course_code": "IFJe",
+      "type": "department",
+      "actual_answer": "Department of Information Systems"
+    },
+    {
+      "id": "courses_struct_020",
+      "question": "Which code corresponds to Microelectronics in English?",
+      "expected_answer": "MPA-MEN",
+      "answer_field": "metadata.code",
+      "course_code": "MPA-MEN",
+      "type": "code_lookup",
+      "actual_answer": "MPA-MEN"
+    },
+    {
+      "id": "courses_struct_021",
+      "question": "Which textbook is useful for MPA-MEN?",
+      "expected_answer": "Sedra,A. Smith,K.: Microelectronic Circuits - 8th edition, Oxford University Press, 2019,",
+      "answer_field": "content.fundamental_literature/content.study_literature(first item)",
+      "course_code": "MPA-MEN",
+      "type": "textbook",
+      "actual_answer": "Sedra,A. Smith,K.: Microelectronic Circuits - 8th edition, Oxford University Press, 2019,"
+    },
+    {
+      "id": "courses_struct_022",
+      "question": "Which teachers are assigned to MULe?",
+      "expected_answer": "Barina David, Ing., Ph.D., Grezl Frantisek, Ing., Ph.D., Milet Tomas, Ing., Ph.D., Zemcik Pavel, prof. Dr. Ing., dr. h. c.",
+      "answer_field": "content.lecturer/content.instructor",
+      "course_code": "MULe",
+      "type": "who_teaches",
+      "actual_answer": [
+        "Barina David, Ing., Ph.D.",
+        "Grezl Frantisek, Ing., Ph.D.",
+        "Milet Tomas, Ing., Ph.D.",
+        "Zemcik Pavel, prof. Dr. Ing., dr. h. c."
+      ]
+    },
+    {
+      "id": "courses_struct_023",
+      "question": "Which teachers are assigned to PDBe?",
+      "expected_answer": "Kolar Dusan, doc. Dr. Ing., Rychly Marek, RNDr., Ph.D.",
+      "answer_field": "content.lecturer/content.instructor",
+      "course_code": "PDBe",
+      "type": "who_teaches",
+      "actual_answer": [
+        "Kolar Dusan, doc. Dr. Ing.",
+        "Rychly Marek, RNDr., Ph.D."
+      ]
+    },
+    {
+      "id": "courses_struct_024",
+      "question": "What does PDSe stand for?",
+      "expected_answer": "Data Communications, Computer Networks and Protocols (in English)",
+      "answer_field": "metadata.course_name",
+      "course_code": "PDSe",
+      "type": "code_expansion",
+      "actual_answer": "Data Communications, Computer Networks and Protocols (in English)"
+    },
+    {
+      "id": "courses_struct_025",
+      "question": "Does Starka Tomas, Ing. teach PDSe?",
+      "expected_answer": "No",
+      "answer_field": "content.lecturer/content.instructor",
+      "course_code": "PDSe",
+      "type": "is_teacher_no",
+      "actual_answer": [
+        "Gregr Matej, Ing., Ph.D.",
+        "Matousek Petr, doc. Ing., Ph.D., M.A."
+      ]
+    },
+    {
+      "id": "courses_struct_026",
+      "question": "How many points for midterm in PGPa?",
+      "expected_answer": "9 pts",
+      "answer_field": "content.assessment_points/progress_assessment(mid-term)",
+      "course_code": "PGPa",
+      "type": "midterm_points",
+      "actual_answer": "9 pts"
+    },
+    {
+      "id": "courses_struct_027",
+      "question": "Which code corresponds to Computer Graphics (in English)?",
+      "expected_answer": "PGRe",
+      "answer_field": "metadata.code",
+      "course_code": "PGRe",
+      "type": "code_lookup",
+      "actual_answer": "PGRe"
+    },
+    {
+      "id": "courses_struct_028",
+      "question": "Recommend one textbook for PGRe.",
+      "expected_answer": "Sillion, F., Puech, C.: Radiosity and Global Illumination, Morgan Kaufmann, 1994,",
+      "answer_field": "content.fundamental_literature/content.study_literature(first item)",
+      "course_code": "PGRe",
+      "type": "textbook",
+      "actual_answer": "Sillion, F., Puech, C.: Radiosity and Global Illumination, Morgan Kaufmann, 1994,"
+    },
+    {
+      "id": "courses_struct_029",
+      "question": "Does Rysavy Ondrej, doc. Ing., Ph.D. teach PKSa?",
+      "expected_answer": "Yes",
+      "answer_field": "content.lecturer/content.instructor",
+      "course_code": "PKSa",
+      "type": "is_teacher_yes",
+      "actual_answer": [
+        "Matousek Petr, doc. Ing., Ph.D., M.A.",
+        "Rysavy Ondrej, doc. Ing., Ph.D."
+      ]
+    },
+    {
+      "id": "courses_struct_030",
+      "question": "How many points is the mid-term worth in PKSa?",
+      "expected_answer": "20 pts",
+      "answer_field": "content.assessment_points/progress_assessment(mid-term)",
+      "course_code": "PKSa",
+      "type": "midterm_points",
+      "actual_answer": "20 pts"
+    },
+    {
+      "id": "courses_struct_031",
+      "question": "How many points are for project work in PKSa?",
+      "expected_answer": "8 pts",
+      "answer_field": "content.assessment_points/progress_assessment(project)",
+      "course_code": "PKSa",
+      "type": "project_points",
+      "actual_answer": "8 pts"
+    },
+    {
+      "id": "courses_struct_032",
+      "question": "What does POVa stand for?",
+      "expected_answer": "Computer Vision (in English)",
+      "answer_field": "metadata.course_name",
+      "course_code": "POVa",
+      "type": "code_expansion",
+      "actual_answer": "Computer Vision (in English)"
+    },
+    {
+      "id": "courses_struct_033",
+      "question": "What code is used for Computer Vision (in English)?",
+      "expected_answer": "POVa",
+      "answer_field": "metadata.code",
+      "course_code": "POVa",
+      "type": "code_lookup",
+      "actual_answer": "POVa"
+    },
+    {
+      "id": "courses_struct_034",
+      "question": "Is Malik Aamir Saeed, prof., Ph.D. teaching POVa?",
+      "expected_answer": "No",
+      "answer_field": "content.lecturer/content.instructor",
+      "course_code": "POVa",
+      "type": "is_teacher_no",
+      "actual_answer": [
+        "Beran Vitezslav, doc. Ing., Ph.D.",
+        "Cadik Martin, prof. Ing., Ph.D.",
+        "Hradis Michal, Ing., Ph.D.",
+        "Juranek Roman, Ing., Ph.D.",
+        "Solony Marek, Ing., Ph.D.",
+        "Spanel Michal, doc. Ing., Ph.D.",
+        "Vasko Marek, Ing.",
+        "Zemcik Pavel, prof. Dr. Ing., dr. h. c.",
+        "Bartl Vojtech, Ing., Ph.D.",
+        "Behun Kamil, Ing.",
+        "Spanhel Jakub, Ing., Ph.D."
+      ]
+    },
+    {
+      "id": "courses_struct_035",
+      "question": "How many credits for ROBa course?",
+      "expected_answer": "5 credits",
+      "answer_field": "metadata.credits",
+      "course_code": "ROBa",
+      "type": "credits",
+      "actual_answer": "5 credits"
+    },
+    {
+      "id": "courses_struct_036",
+      "question": "Final exam points for ROBa?",
+      "expected_answer": "55 pts",
+      "answer_field": "content.assessment_points/progress_assessment(final)",
+      "course_code": "ROBa",
+      "type": "final_points",
+      "actual_answer": "55 pts"
+    },
+    {
+      "id": "courses_struct_037",
+      "question": "How many points are for project work in ROBa?",
+      "expected_answer": "14 pts",
+      "answer_field": "content.assessment_points/progress_assessment(project)",
+      "course_code": "ROBa",
+      "type": "project_points",
+      "actual_answer": "14 pts"
+    },
+    {
+      "id": "courses_struct_038",
+      "question": "Which teachers are assigned to ROBa?",
+      "expected_answer": "Kapinus Michal, Ing., Ph.D., Rozman Jaroslav, Ing., Ph.D., Liska Jakub, Ing.",
+      "answer_field": "content.lecturer/content.instructor",
+      "course_code": "ROBa",
+      "type": "who_teaches",
+      "actual_answer": [
+        "Kapinus Michal, Ing., Ph.D.",
+        "Rozman Jaroslav, Ing., Ph.D.",
+        "Liska Jakub, Ing."
+      ]
+    },
+    {
+      "id": "courses_struct_039",
+      "question": "TAMa stands for what course name?",
+      "expected_answer": "Application Development for Mobile Devices (in English)",
+      "answer_field": "metadata.course_name",
+      "course_code": "TAMa",
+      "type": "code_expansion",
+      "actual_answer": "Application Development for Mobile Devices (in English)"
+    },
+    {
+      "id": "courses_struct_040",
+      "question": "How many points is the mid-term worth in TAMa?",
+      "expected_answer": "30 pts",
+      "answer_field": "content.assessment_points/progress_assessment(mid-term)",
+      "course_code": "TAMa",
+      "type": "midterm_points",
+      "actual_answer": "30 pts"
+    },
+    {
+      "id": "courses_struct_041",
+      "question": "How many credits is UXIa?",
+      "expected_answer": "5 credits",
+      "answer_field": "metadata.credits",
+      "course_code": "UXIa",
+      "type": "credits",
+      "actual_answer": "5 credits"
+    },
+    {
+      "id": "courses_struct_042",
+      "question": "Does UXIa run in summer semester?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.semester",
+      "course_code": "UXIa",
+      "type": "is_summer",
+      "actual_answer": "Summer semester"
+    },
+    {
+      "id": "courses_struct_043",
+      "question": "What does VGEe stand for?",
+      "expected_answer": "Computational Geometry (in English)*)",
+      "answer_field": "metadata.course_name",
+      "course_code": "VGEe",
+      "type": "code_expansion",
+      "actual_answer": "Computational Geometry (in English)*)"
+    },
+    {
+      "id": "courses_struct_044",
+      "question": "Is there a project component in VGEe?",
+      "expected_answer": "Yes",
+      "answer_field": "content.time_span/assessment/progress(project presence)",
+      "course_code": "VGEe",
+      "type": "has_project",
+      "actual_answer": true
+    },
+    {
+      "id": "courses_struct_045",
+      "question": "Is Hradis Michal, Ing., Ph.D. teaching VGEe?",
+      "expected_answer": "No",
+      "answer_field": "content.lecturer/content.instructor",
+      "course_code": "VGEe",
+      "type": "is_teacher_no",
+      "actual_answer": [
+        "Barina David, Ing., Ph.D.",
+        "Beran Vitezslav, doc. Ing., Ph.D.",
+        "Herout Adam, prof. Ing., Ph.D.",
+        "Spanel Michal, doc. Ing., Ph.D.",
+        "Zemcik Pavel, prof. Dr. Ing., dr. h. c."
+      ]
+    },
+    {
+      "id": "courses_struct_046",
+      "question": "Which department runs VNVe?",
+      "expected_answer": "Department of Intelligent Systems",
+      "answer_field": "content.department",
+      "course_code": "VNVe",
+      "type": "department",
+      "actual_answer": "Department of Intelligent Systems"
+    },
+    {
+      "id": "courses_struct_047",
+      "question": "What is the full name of VYPa?",
+      "expected_answer": "Compiler Construction (in English)",
+      "answer_field": "metadata.course_name",
+      "course_code": "VYPa",
+      "type": "code_expansion",
+      "actual_answer": "Compiler Construction (in English)"
+    },
+    {
+      "id": "courses_struct_048",
+      "question": "What code is used for Compiler Construction (in English)?",
+      "expected_answer": "VYPa",
+      "answer_field": "metadata.code",
+      "course_code": "VYPa",
+      "type": "code_lookup",
+      "actual_answer": "VYPa"
+    },
+    {
+      "id": "courses_struct_049",
+      "question": "Which code corresponds to Year Project 2?",
+      "expected_answer": "YP2a",
+      "answer_field": "metadata.code",
+      "course_code": "YP2a",
+      "type": "code_lookup",
+      "actual_answer": "YP2a"
+    },
+    {
+      "id": "courses_struct_050",
+      "question": "ZPJa stands for what course name?",
+      "expected_answer": "Natural Language Processing (in English)",
+      "answer_field": "metadata.course_name",
+      "course_code": "ZPJa",
+      "type": "code_expansion",
+      "actual_answer": "Natural Language Processing (in English)"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "code": "PDSe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Data Communications, Computer Networks and Protocols (in English)"
+    },
+    "content": {
+        "guarantor": "Matousek Petr, doc. Ing., Ph.D., M.A. | (DIFS)",
+        "language_of_instruction": "English",
+        "completion": "Examination",
+        "time_span": "- 26 hrs lectures\n- 26 hrs projects",
+        "assessment_points": "- 60 pts final exam (oral part)\n- 20 pts mid-term test (written part)\n- 20 pts projects",
+        "department": "Department of Information Systems | (UIFS)",
+        "lecturer": "Gregr Matej, Ing., Ph.D. | (DIFS) | Matousek Petr, doc. Ing., Ph.D., M.A. | (DIFS)",
+        "instructor": "Gregr Matej, Ing., Ph.D. | (DIFS)",
+        "learning_objectives": "Understand the principles and implementation of network algorithms in computer networks. Become familiar with the design of common network devices. Study advanced methods of classification and analysis of network traffic, as well as and error detection in computer communications. Understand the principles of modern networking technologies.",
+        "prerequisite_knowledge_and_skills": "The set theory, graph theory and relations. Fundamentals of computer networks and communication protocols. Principles of the Internet.",
+        "study_literature": "- D. Medhi, K. Ramasamy: Network Routing. Algorithms, Protocols, and Architecture. 2nd Edition, Elsevier, 2018.\nD. Medhi, K. Ramasamy: Network Routing. Algorithms, Protocols, and Architecture. 2nd Edition, Elsevier, 2018.\n- George Varghese. Network Algorithmics. Elsevier, Inc., 2005.",
+        "fundamental_literature": "- D. Medhi, K. Ramasamy: Network Routing. Algorithms, Protocols, and Architecture. 2nd Edition, Elsevier, 2018.\n- George Varghese. Network Algorithmics. Elsevier, Inc., 2005.\nGeorge Varghese. Network Algorithmics. Elsevier, Inc., 2005.\n- Andrew Tanenbaum and David Wetherall. Computer Networks. Pearson, Global edition, 2021.\nAndrew Tanenbaum and David Wetherall. Computer Networks. Pearson, Global edition, 2021.\n- James Aweya. Switch/Router Architectures. Shared-Bus and Shared-Memory Based Systems. Wiley-IEEE Press, 1st edition, 2018.\nJames Aweya. Switch/Router Architectures. Shared-Bus and Shared-Memory Based Systems. Wiley-IEEE Press, 1st edition, 2018.",
+        "syllabus_of_lectures": "- Overview of computer networks.\n- Routing algorithms and protocols.\n- Transport protocols.\n- Network security.\n- Switch design.\n- Router design.\n- Classification and packet filtering.\n- P2P networks.\n- SDN networks, data centres, virtualization.\n- Privacy and anonymity on the Internet.\n- IPv6 networking.\n- Network traffic identification.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "Configuration of a network service, data capturing and analysis.",
+        "progress_assessment": "Written mid-term exam. The mid-term exam cannot be repeated. The individual project and its oral presentation. The oral final exam. The minimum for passing the final exam is 20 out of 60. If this is not achieved, the total score will be 0 points."
+    }
+}

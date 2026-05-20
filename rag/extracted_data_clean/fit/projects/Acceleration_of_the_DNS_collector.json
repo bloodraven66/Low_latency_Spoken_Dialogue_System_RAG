@@ -1,0 +1,35 @@
+{
+    "project": "Acceleration of the DNS collector",
+    "title": "CZ.NIC - Urychleni DNS kolektoru",
+    "metadata": {
+        "project_period": "1. 2. 2018 \u2013 31. 12. 2099",
+        "project_type": "contract",
+        "partner": "CZ.NIC, z.s.p.o."
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Acceleration of the DNS collector"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Acceleration, DNS, collector"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Accelerating the DNS collector, using the DPDK system and then using the available hardware platform with the powerful NXP network processor and the FPGA chip."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Korenek Jan, doc. Ing., Ph.D. (DCSY) \u2013 research leader Dolezal Pavel, Ing. Drazil Jan, Ing. Foltova Jana, Mgr. Fukac Tomas, Ing., Ph.D. (RG ANT) Kekely Lukas, Ing., Ph.D. (DCSY) Postolka Matej, Ing."
+        },
+        "results_with_impact_on_practice": {
+            "label": "Results with Impact on Practice",
+            "text": "- Souhrnna vyzkumna zprava k projektu Urychleni DNS kolektoru za rok 2018 , summary research report, 2018 Authors : DRAZIL, J.; KORENEK, J."
+        }
+    }
+}

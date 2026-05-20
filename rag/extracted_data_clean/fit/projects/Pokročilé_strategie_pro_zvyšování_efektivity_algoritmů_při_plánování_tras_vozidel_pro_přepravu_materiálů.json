@@ -1,0 +1,25 @@
+{
+    "project": "Pokrocile strategie pro zvysovani efektivity algoritmu pri planovani tras vozidel pro prepravu materialu",
+    "title": "Pokrocile strategie pro zvysovani efektivity algoritmu pri planovani tras vozidel pro prepravu materialu",
+    "metadata": {
+        "project_period": "1. 3. 2025 \u2013 28. 2. 2026",
+        "project_type": "grant",
+        "code": "FIT/FSI-J-25-8755",
+        "agency": "Brno University of Technology",
+        "program": "Vnitrni projekty VUT"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Projekt se zameruje na vyvoj optimalizacnich algoritmu pro logistiku ve spolupraci UPI FSI a UPSY FIT. Cilem je vytvorit algoritmus pro planovani prepravy zohlednujici realne provozni podminky, jako jsou napr. casova okna, kompatibilita materialu a dostupnost ridicu. Projekt zahrnuje vyvoj novych algoritmu, jejich paralelizaci a testovani na realnych datech, coz zajisti rychlost a skalovatelnost. Vystupem bude prakticky vyuzitelny nastroj pro planovani prepravy."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Nemcova Lucie, Ing. (UPI) \u2013 research leader Hobza Jakub, Ing. (UPI OPI) Jaros Jiri, prof. Ing., Ph.D. (DCSY) Kunik Oliver, Ing. (DCSY) Somplak Radovan, doc. Ing., Ph.D. (UPI OPI)"
+        }
+    }
+}

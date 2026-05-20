@@ -1,0 +1,398 @@
+{
+    "contact": {
+        "department": "Department of Computer Systems",
+        "department_abbr": "DCSY",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "fucik@fit.vut.cz",
+            "work_phone": "+420 54114 1212",
+            "room": "L337 Office",
+            "orcid_id": "0000-0002-2312-591X",
+            "scopus_author_id": "6508026050"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Bachelor Study Programme Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "chairman"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2002",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2022"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Wednesday, 13:00-13:50 , B/L337 (Bozetechova 1/2, Brno 61200)",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "PND",
+                "title": "Advanced Techniques in Digital Design",
+                "details": "Czech, English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "CZSa",
+                "title": "Digital Signal Processing (in English)",
+                "details": "English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "INC",
+                "title": "Digital Systems Design",
+                "details": "Czech, English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "HSCa",
+                "title": "Hardware/Software Codesign (in English)",
+                "details": "English, winter",
+                "department": "DCSY"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "CZSa",
+                "title": "Digital Signal Processing (in English)",
+                "details": "Lecture, Seminar,\nEnglish, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "HSCa",
+                "title": "Hardware/Software Codesign (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "INC",
+                "title": "Digital Systems Design",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DCSY"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Detection of Traffic Threats and 3D Semantic Analysis of Traffic Scenes",
+            "details": "TACR, 5. verejna soutez programu Delta 2, TM05000040, start: 2024-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Transformace formy a obsahu vzdelavani na Vysokem uceni technickem v Brne",
+            "details": "MSMT, Vyzva pro VS v ramci NPO, NPO_VUT_MSMT\u201016609/2022, start: 2022-04-01, end: 2024-12-31, running"
+        },
+        {
+            "year": "2021",
+            "title": "Condition diagnostics and protection of bridge constructions system with application of WIM system",
+            "details": "TACR, 2. verejna soutez programu Doprava 2020+, CK02000126, start: 2021-04-01, end: 2024-03-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Navrh, optimalizace a evaluace aplikacne specifickych pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6309, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Recognition, extraction and analysis of information in images",
+            "details": "ALLIUM, start: 2019-10-01, end: 2020-06-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Pokrocile paralelni a vestavene pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3994, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Architektury paralelnich a vestavenych pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2297, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Innovation of laboratory of chips security analysis",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR1239/2013/Aa, start: 2013-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Java platform for hIgh PErformance and Real-time large scale data management (JUNIPER)",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, start: 2013-09-01, end: 2015-11-30, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Research and development focused on monitoring and management of lorry movement on lower class road network in the Czech Republic",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA02030841, start: 2012-01-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Verification of the implementation of continuous traffic load map using modern classification and prediction methods",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA02030915, start: 2012-01-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Verifikace a optimalizace pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-12-1, start: 2012-01-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-2, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-2, 2010, start: 2010-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "In vitro and in silico identification of non-canonical DNA structures in genomic sequences",
+            "details": "GACR, Standardni projekty, GA204/08/1560, start: 2008-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2007",
+            "title": "Teaching kits for technical courses",
+            "details": "FR2331/2007/A, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Opticka sit narodniho vyzkumu a jeji nove aplikace",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM6383917201, start: 2004-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Rapid prototyping tools for development of HW-accelerated embedded image- and video-processing applications",
+            "details": "AV CR, Informacni spolecnost (Narodni program vyzkumu), 1ET400750408, start: 2004-07-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Computer graphics algorithms with FPGA support",
+            "details": "GACR, Standardni projekty, GA102/02/0507, start: 2002-01-01, end: 2003-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Methodology and tools for digital circuits testability analysis",
+            "details": "GACR, Standardni projekty, GA102/98/1463, start: 1998-01-01, end: 2006-03-31, completed"
+        },
+        {
+            "year": "1995",
+            "title": "Developement of flexible digital architectures",
+            "details": "GACR, Standardni projekty, GA102/95/1334, start: 1995-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1994",
+            "title": "Advanced Computer Education Network",
+            "details": "JEN 0449, start: 1994-01-01, end: 1995-12-31, completed"
+        },
+        {
+            "year": "1994",
+            "title": "Computational models and their parallel implementation",
+            "details": "GACR, Standardni projekty, GA102/94/1096, start: 1994-01-01, end: 1996-12-31, completed"
+        },
+        {
+            "year": "1994",
+            "title": "Parallel computing and architectures",
+            "details": "C32/94-95, start: 1994-01-01, end: 1995-12-31, completed"
+        },
+        {
+            "year": "1992",
+            "title": "Advanced Computer Education Project - ACEP",
+            "details": "JEP 0449, start: 1992-01-01, end: 1993-12-31, completed"
+        },
+        {
+            "year": "1991",
+            "title": "CAD Methodology and Tools for VLSI",
+            "details": "FEI, start: 1991-01-01, end: 1993-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2014",
+            "citation": "PETRLIK, J.; FUCIK, O.; SEKANINA, L. Multiobjective Selection of Input Sensors for SVR Applied to Road Traffic Prediction. In Parallel Problem Solving from Nature - PPSN XIII. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2014. p. 802-811. ISBN: 978-3-319-10761-5."
+        },
+        {
+            "year": "2014",
+            "citation": "PETRLIK, J.; FUCIK, O.; SEKANINA, L. Multiobjective Selection of Input Sensors for Travel Times Forecasting Using Support Vector Regression. In 2014 IEEE Symposium on Computational Intelligence in Vehicles and Transportation Systems Proceedings. Piscataway: Institute of Electrical and Electronics Engineers, 2014. p. 14-21. ISBN: 978-1-4799-4498-9."
+        },
+        {
+            "year": "2013",
+            "citation": "KADLCEK, F.; FUCIK, O. Automatic synthesis of small AdaBoost Classifier in FPGA. IEEE Design and Diagnostics of Electronic Circuits and Systems DDECS'2013. Brno: IEEE Computer Society, 2013. p. 1-6. ISBN: 978-1-4673-6133-0."
+        },
+        {
+            "year": "2013",
+            "citation": "KADLCEK, F.; FUCIK, O. Fast and Energy Efficient AdaBoost Classifier. FPGAWorld'13. Copenhagen and Stockholm: Association for Computing Machinery, 2013. p. 1-5. ISBN: 978-1-4503-2496-0."
+        },
+        {
+            "year": "2013",
+            "citation": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Advanced Approach to Calibration of Traffic Microsimulation Using Travel Times. Journal of Cellular Automata, 2013, vol. 8, no. 6, p. 457-467. ISSN: 1557-5969."
+        },
+        {
+            "year": "2012",
+            "citation": "KADLCEK, F.; FUCIK, O. Evolutionary Design of Local Binary Pattern Feature Shapes for Object Detection. 2012 NASA/ESA Adaptive Hardware and Systems (AHS-2012) Conference. CFP1263A-USB. Nuremberg: IEEE Computer Society, 2012. p. 1-8. ISBN: 978-1-4673-1914-0."
+        },
+        {
+            "year": "2012",
+            "citation": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Calibration of Traffic Simulation Models Using Vehicle Travel Times. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7495, p. 807-816. ISSN: 0302-9743."
+        },
+        {
+            "year": "2012",
+            "citation": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Evolutionary approach to calibration of cellular automaton based traffic simulation model. In Proceedings of the 15th International IEEE Conference on Intelligent Transportation Systems. Anchorage: IEEE Intelligent Transportation Systems Society, 2012. p. 122-129. ISBN: 978-1-4673-3062-6."
+        },
+        {
+            "year": "2012",
+            "citation": "PETRLIK, J.; KORCEK, P.; FUCIK, O.; BESZEDES, M.; SEKANINA, L. Estimation of missing values in traffic density maps. In Proceedings of the 15th International IEEE Conference on Intelligent Transportation Systems. Anchorage: IEEE Intelligent Transportation Systems Society, 2012. p. 632-637. ISBN: 978-1-4673-3062-6."
+        },
+        {
+            "year": "2011",
+            "citation": "KORCEK, P.; SEKANINA, L.; FUCIK, O. A Scalable Cellular Automata Based Microscopic Traffic Simulation. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2011. p. 1 (1 s.). ISBN: 978-80-214-4305-1."
+        },
+        {
+            "year": "2011",
+            "citation": "KORCEK, P.; SEKANINA, L.; FUCIK, O. A Scalable Cellular Automata Based Microscopic Traffic Simulation. Proceedings of the IEEE Intelligent Vehicles Symposium 2011 (IV11). Baden-Baden: IEEE Intelligent Transportation Systems Society, 2011. p. 13-18. ISBN: 978-1-4577-0889-3."
+        },
+        {
+            "year": "2011",
+            "citation": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Cellular automata based traffic simulation accelerated on GPU. Proceedings of the 17th International Conference on Soft Computing (MENDEL2011). Brno: Institute of Automation and Computer Science FME BUT, 2011. p. 395-402. ISBN: 978-80-214-4302-0."
+        },
+        {
+            "year": "2011",
+            "citation": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Microscopic traffic simulation using CUDA. Advanced Computer Architecture and Compilation for High-Performace and Embedded Systems (ACACES 2011) Poster Abstracts. Fiuggi: Academia Press, 2011. p. 207-210. ISBN: 978-90-382-1798-7."
+        },
+        {
+            "year": "2011",
+            "citation": "ZEMCIK, P.; MARSIK, L.; SIROKY, V.; FUCIK, O.; KORCEK, P.; SUSTEK, J. AX32 Low Power Embedded Video Enabled System Using FPGA. Proceedings of the 21th Conference on Field Programmable Logic and Applications Workshop. Chania: Institute of Electrical and Electronics Engineers, 2011. p. 1-2. ISBN: 978-0-7695-4529-5."
+        },
+        {
+            "year": "2010",
+            "citation": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Towards Scalable and Accurate Microscopic Traffic Simulation Using Advanced Cellular Automata Based Models. Proceedings of the 13th International IEEE Conference on Intelligent Transportation Systems Workshops. Madeira Island: IEEE Intelligent Transportation Systems Society, 2010. p. 27-35. ISBN: 978-972-8822-20-0."
+        },
+        {
+            "year": "2008",
+            "citation": "FUCIK, O. Rekonfigurovatelne vypocetni platformy. Brno: Fakulta informacnich technologii VUT v Brne, 2008. 95 s."
+        },
+        {
+            "year": "2007",
+            "citation": "BRYAN, L.; FUCIK, O. FPGA Implementation of a Reconfigurable License Plate Detection Method. Proceedings of the 2007 Engineering of Reconfigurable Systems and Algorithms. CSREA Press. Las Vegas, NV: Penn State Erie, The Behrend College, 2007. p. 1-4. ISBN: 1-60132-026-4."
+        },
+        {
+            "year": "2007",
+            "citation": "BRYAN, L.; FUCIK, O.; DRABEK, V. HW-Based Object Detection Method for Traffic Monitoring. 6th Electronic Circuits and Systems Conference (ECS 2007). Bratislava: Faculty of Electrical Engineering and Information Technology, Slovak University of Technology in Bratislava, 2007. p. 93-96. ISBN: 978-80-227-2697-9."
+        },
+        {
+            "year": "2007",
+            "citation": "LEXA, M.; MARTINEK, T.; BECK, P.; FUCIK, O.; VALLE, G.; ZARA, I. Genomic PCR simulation with hardware-accelerated approximate sequence matching. 21st European Conference on Modelling and Simulation. Praha: European Council for Modelling and Simulation, 2007. p. 333-338. ISBN: 978-0-9553018-2-7."
+        },
+        {
+            "year": "2007",
+            "citation": "MARTINEK, T.; LEXA, M.; BECK, P.; FUCIK, O. Automatic Generation of Circuits for Approximate String Matching. In 2007 IEEE Design and Diagnostics of Electronic Circuits and Systems. Krakow: IEEE Computer Society, 2007. p. 203-208. ISBN: 1-4244-1161-0."
+        },
+        {
+            "year": "2006",
+            "citation": "MARTINEK, T.; LEXA, M.; KORENEK, J.; FUCIK, O. A flexible technique for the automatic design of approximate string matching architectures. In Proc. of 2006 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Praha: IEEE Computer Society, 2006. p. 83-84. ISBN: 1-4244-0184-4."
+        },
+        {
+            "year": "2005",
+            "citation": "SUSTEK, J.; BRYAN, L.; FUCIK, O. Environment for Hw/Sw Codesign of Embedded Systems. Proc. of 8th IEEE Design and Diagnostic of Electronic Circuits and Systems Workshop. Sopron: University of West Hungary, 2005. p. 236-240. ISBN: 9639364487."
+        },
+        {
+            "year": "2005",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BERAN, V.; POTUCEK, I.; FUCIK, O.; HONEC, J.; RICHTER, M.; JANAKOVA, I.; LISZTWAN, M. Image Processing in Traffic Applications. Proceedings of GVIP 2005. Proceedings of GVIP 2005. Cairo: 2005. p. 1-6. ISSN: 1687-398X."
+        },
+        {
+            "year": "2005",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BERAN, V.; SCHIER, J.; FUCIK, O. Reconfigurable Image Processing Architecture. Proceedings of GVIP2005. Proceedings of GVIP 2005. Cairo: 2005. p. 1-6. ISSN: 1687-398X."
+        },
+        {
+            "year": "2004",
+            "citation": "BRYAN, L.; FUCIK, O.; DRABEK, V. Image filter implementation in FPGA used for the license plate. Proceedings of 38th International Conference MOSIS'04. Ostrava: Marq software s.r.o., 2004. p. 169-174. ISBN: 80-85988-98-4."
+        },
+        {
+            "year": "2004",
+            "citation": "FUCIK, O.; ZEMCIK, P.; TUPEC, P.; BRYAN, L.; HEROUT, A. The Networked Photo-Enforcement and Traffic Monitoring System. Proceedings of Engineering of Computer-Based Systems. Los Alamitos: IEEE Computer Society, 2004. p. 423-428. ISBN: 0-7695-2125-8."
+        },
+        {
+            "year": "2004",
+            "citation": "TUPEC, P.; FUCIK, O. Software monitoring of the PCI bus. 6th International Workshop on Electronics, Control, Measurment and Signals. ECMS 2003. Liberec: Liberec University of Technology, 2004. p. 310-314. ISBN: 55-025-003."
+        },
+        {
+            "year": "2004",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BRYAN, L.; TUPEC, P.; FUCIK, O. Particle rendering pipeline in DSP and FPGA. Proceedings of Engineering of Computer-Based Systems. Los Alamitos: IEEE Computer Society, 2004. p. 361-368. ISBN: 0-7695-2125-8."
+        },
+        {
+            "year": "2003",
+            "citation": "BRYAN, L.; FUCIK, O.; ZEMCIK, P.; DRABEK, V.; TUPEC, P. Inter Chip Communicating System with Dynamically Reconfigurable Hardware Support. Poznan: University of Technology at Poznan, 2003. p. 311-312. ISBN: 83-7143-557-6."
+        },
+        {
+            "year": "2002",
+            "citation": "FUCIK, O.; ZEMCIK, P. Hardware Accelerated Imaging Algorithms. AUTOS 2002 Automatizace systemu. sbornik prednasek. Praha: Ceske vysoke uceni technicke, 2002. s. 165-171. ISBN: 1213-8134."
+        },
+        {
+            "year": "2001",
+            "citation": "FUCIK, O.; ZEMCIK, P.; FORD, R.; LOKER, D.; WEISSBACH, R. A Flexible DSP Hardware Platform for LVDT Signal Conditioning. Proceedings of Electromotion International Symposium. Bologna: 2001. p. 1-8."
+        },
+        {
+            "year": "2001",
+            "citation": "ZEMCIK, P.; FUCIK, O.; RICHTER, M.; VALENTA, P. Imaging Algorithm Speedup Using Co-Design. Summaries Volume Process Control 01. Strbske Pleso: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2001. p. 96-97. ISBN: 80-227-1542-5."
+        },
+        {
+            "year": "2000",
+            "citation": "FUCIK, O. Laboratory for the Introductory Digital Course. Proceedings of the 2000 ASEE Annual Conference & Exposition. St. Louis, MO: 2000. 10 p."
+        },
+        {
+            "year": "2000",
+            "citation": "FUCIK, O.; HONEC, J.; RICHTER, M.; VALENTA, P.; ZEMCIK, P.; DVORAK, L. Industrial Applications of Computer Vision. Automa, 2000, vol. 2002, no. 5, p. 28-30. ISSN: 1210-9592."
+        },
+        {
+            "year": "1997",
+            "citation": "FUCIK, O. Rekonfigurovatelne vestavene systemy. Brno: 1997. 69 s."
+        },
+        {
+            "year": "1997",
+            "citation": "FUCIK, O.; HONEC, J.; RICHTER, M.; VALENTA, P.; ZEMCIK, P. Visual Analysis on the Production Line. The 10th Scandinavian Conference on Image Analysis. Lappeenranta: unknown, 1997. p. 301-308. ISBN: 951-764-145-1."
+        },
+        {
+            "year": "1994",
+            "citation": "FUCIK, O.; HONEC, J.; VALENTA, P.; ZEMCIK, P. Cost Efficient ImageDigitising and Processing Using FPGAs. Proceedings MICROCOMPUTER'94. Zakopane: neznama, 1994. s. 225-229."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2023",
+            "title": "Software pro zpracovani dat",
+            "metadata": "other, 2023",
+            "authors": "ZEMCIK, P.; BERAN, V.; DOBES, P.; FUCIK, O.; HEROUT, A.; PECIVA, J.; SMRZ, P."
+        }
+    ],
+    "name": "Fucik Otto, doc. Dr. Ing."
+}

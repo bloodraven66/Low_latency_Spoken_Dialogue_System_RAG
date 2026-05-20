@@ -1,0 +1,25 @@
+{
+    "project": "Datove rizena detekce obtiznych zakazek v dopravnich ulohach",
+    "title": "Datove rizena detekce obtiznych zakazek v dopravnich ulohach",
+    "metadata": {
+        "project_period": "1. 3. 2026 \u2013 28. 2. 2027",
+        "project_type": "grant",
+        "code": "FIT/FSI-J-26-9005",
+        "agency": "Brno University of Technology",
+        "program": "Vnitrni projekty VUT"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Predkladany projekt, vznikajici ve spolupraci mezi Ustavem procesniho inzenyrstvi (FSI) a Ustavem pocitacovych systemu (FIT), prinasi inovativni pohled na optimalizaci planovani tras vozidel. Cilem je s vyuzitim metod strojoveho uceni vytvorit predikcni model schopny identifikovat skryte vzory a kombinace podminek, ktere velmi vyrazne ztezuji algoritmicke zarazeni zakazek do planu flotily. Vznikly nastroj poskytne dispecerum spojite skore rizika, cimz nove umozni proaktivni upravu planu bez nutnosti narocneho vypoctu."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Hobza Jakub, Ing. (UPI OPI) \u2013 research leader Bidlo Michal, doc. Ing., Ph.D. (DCSY) Nemcova Lucie, Ing. (UPI) Sedlak David, Ing. (DCSY) Somplak Radovan, doc. Ing., Ph.D. (UPI OPI)"
+        }
+    }
+}

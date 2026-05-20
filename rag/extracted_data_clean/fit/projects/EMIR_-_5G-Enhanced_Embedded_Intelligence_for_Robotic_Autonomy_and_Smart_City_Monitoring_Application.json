@@ -1,0 +1,33 @@
+{
+    "project": "EMIR - 5G-Enhanced Embedded Intelligence for Robotic Autonomy and Smart City Monitoring Application",
+    "title": "EMIR - Vestavena inteligence s podporou 5G pro autonomii robotu a aplikace pro monitorovani chytrych mest",
+    "metadata": {
+        "project_period": "1. 1. 2023 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "FW07010052",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "7. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "EMIR - 5G-Enhanced Embedded Intelligence for Robotic Autonomy and Smart City Monitoring Application"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "5G networks; COGNITECHNA; connection"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project focuses on the use of advanced features of 5G networks (eg slicing) to expand existing and new COGNITECHNA products in order to use existing and gradually expanding standards of 5G (and higher) networks, with a possible contribution to new standards. Some existing solutions of COGNITECHNA s.r.o. Today, they rely on communication via 4G networks and for some data transmission applications only in places where it is possible to connect them via a standard Ethernet cable, or where a dedicated WiFi network is available. The project of enabling the implementation of new functionality, which is currently not possible to provide in the required scope or quality."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM) \u2013 research leader Juricek Zdenek Ondrej Karel, Ing. (FIT) Skokanova Jana, Mgr. (DFIT-ISD) Smrz Pavel, doc. RNDr., Ph.D. (DCGM) Starka Tomas, Ing. (DCGM)"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "publication": "CHLUBNA, T. vkCompViz: Universal C++ Library for GPU-Based Experiments. Journal of open source software, 2026, vol. 11, no. 117, 5 p. Detail GAO, R.; LIU, X.; XING, B.; YU, Z.; SCHULLER, B.; KALVIAINEN, H. Identity-Free Artificial Emotional Intelligence via Micro-Gesture Understanding. IEEE Transactions on Affective Computing, 2026, no. 04 February 2026, 15 p. Detail GURGUROV, D.; TRINLEY, K.; VYKOPAL, I.; VAN GENABITH, J.; OSTERMANN, S.; ZAMPARELLI, R. Multilingual Political Views of Large Language Models: Identification and Steering. Mumbai, India: Association for Computational Linguistics, 2026. p. 279-298. ISBN: 979-8-89176-303-6. Detail HRANICKY, R.; ONDRYAS, O.; HORAK, A.; POUC, P.; JERABEK, K.; EBERT, T.; POLISENSKY, J. A Multi-Dimensional DNS Domain Intelligence Dataset for Cybersecurity Research. Data in Brief, 2026, vol. 62, no. October, p. 1-13. Detail KISS, M.; HRADIS, M.; DVORAKOVA, M.; JIROUSEK, V.; KERSCH, F. AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2026. p. 50-66. ISBN: 978-3-032-09370-7. Detail KRAVIC, N.; PAJEVIC, I.; HASANOVIC, M.; DE LEON MARTINEZ, S.; NIEDERKROTENTHALER, T.; VORACEK, M.; DERVIC, K. War orphan age at father loss and resilience in late adolescence. Wiener klinische Wochenschrift, 2026, no. January 2026, 8 p. Detail POLOK, A.; KLEMENT, D.; KOCOUR, M.; HAN, J.; LANDINI, F.; YUSUF, B.; WIESNER, M.; KHUDANPUR, S.; CERNOCKY, J.; BURGET, L. DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition. COMPUTER SPEECH AND LANGUAGE, 2026, vol. 95, no. 1, p. 1-19. Detail RYDLO, S.; ORSAG, F.; GOLDMANN, T.; KOLAR, D. Finger Vein Identification Using Pretrained Feature Matching Networks. IEEE Access, 2026, no. VOLUME 14, 2026, p. 23814-23823. Detail THORBECKE, I.; VILLATORO-TELLO, E.; ZULUAGA, J.; KUMAR, S.; BURDISSO, S.; RANGAPPA, P.; CAROFILIS, A.; MADIKERI, S.; MOTLICEK, P.; PANDIA, K.; HACIOGLU, K.; STOLCKE, A. Unifying Global and Near-Context Biasing in a Single Trie Pass. In Lecture Notes in Artificial Intelligence. Lecture Notes in Computer Science. CHAM: Springer Nature, 2026. p. 170-181. ISBN: 978-3-032-02547-0. Detail VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7. Detail VOJNAR, T.; ZHANG, L. Tools and algorithms for the construction and analysis of systems: a special issue for TACAS 2019. International Journal on Software Tools for Technology Transfer, 2026, vol. 24, no. 1, p. 29-31.",
+    "year": "2026",
+    "title": "vkCompViz: Universal C++ Library for GPU-Based Experiments",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "journal article"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Chlubna Tomas, Ing., Ph.D. , DCGM (FIT)"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "GPUs are gaining popularity due to their massive computational parallelism and usage in interactive graphics or machine learning applications. Prototyping GPU-executed experiments is often time-consuming due to the complexity of GPU-related APIs. Multiplatform and multi-vendor support is also not guaranteed with all existing APIs. The vkCompViz C++ library offers a simple way to write a GPGPU (general-purpose computing on graphics processing units) program. Only the paths to files with GPU code (shader/kernel), paths to input images, or a buffer of arbitrary input data need to be provided by the host application. The library is capable of running a sequence of compute shaders, processing the input data, and storing the result or presenting it in a window. Memory usage and computational time can also be automatically measured."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "GPU, Vulkan, GPGPU"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2026"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "5"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "Journal of open source software, vol. 11, no. 117, ISSN"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.21105/joss.08871"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@article{BUT200328, author=\"Tomas {Chlubna}\", title=\"vkCompViz: Universal C++ Library for GPU-Based Experiments\", journal=\"Journal of open source software\", year=\"2026\", volume=\"11\", number=\"117\", pages=\"5\", doi=\"10.21105/joss.08871\", issn=\"2475-9066\", url=\"https://joss.theoj.org/papers/10.21105/joss.08871\" }"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat , BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Computer Graphics and Multimedia (DCGM)"
+        }
+    }
+}

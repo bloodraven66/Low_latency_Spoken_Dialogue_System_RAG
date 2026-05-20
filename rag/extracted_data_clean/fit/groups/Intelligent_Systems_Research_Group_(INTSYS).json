@@ -1,0 +1,1521 @@
+{
+    "group": "Intelligent Systems Research Group (INTSYS)",
+    "about": {
+        "intelligent_systems_research_group": [
+            "The group focuses on theoretical and practical aspects of the design and implementation of intelligent systems, particularly in the areas of softcomputing, machine learning, software agents and robotic systems."
+        ],
+        "research_interests": [
+            "Artificial Intelligence, Soft computing, Machine Learning and optimization",
+            "Software agents and multiagent systems",
+            "Trust and reputation in distributed and multi-agent systems",
+            "Robotic systems and intelligent sensors",
+            "Model driven development of intelligent systems",
+            "Planing and Scheduling",
+            "Combinatorial optimization in operational research tasks (production, logistics)",
+            "Modelling, simulation and prediction in technological processes"
+        ],
+        "current_research_topics": [
+            "Multiagent programming languages and models",
+            "Design and implementation of systems based on models (model-continuity)",
+            "Optimization of production processes. Optimization in logistics",
+            "Deploying simulation calculations in the cloud infrastructure environment",
+            "Project DEMoS (Database of Early Modern Sources) - database of registry data transcriptions and creation of genealogical models"
+        ],
+        "significant_results": [
+            "2nd place in 2019 https://multiagentcontest.org/2019/",
+            "1st place in 2020 https://multiagentcontest.org/2020/",
+            "3rd place in 2022 https://multiagentcontest.org/2022/"
+        ],
+        "cooperation": [
+            "Cooperation with FME BUT on the solution of TACR project FW03010505 Control system for virtual power plants based on artificial intelligence"
+        ],
+        "overview": [
+            "The group focuses on theoretical and practical aspects of the design and implementation of intelligent systems, particularly in the areas of softcomputing, machine learning, software agents and robotic systems."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Zboril Frantisek, doc. Ing., CSc.",
+                "position": "Principal researcher"
+            }
+        ],
+        "member": [
+            {
+                "name": "Beran Jan, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Hruby Martin, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Janousek Vladimir, doc. Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Koci Radek, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Necasova Gabriela, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Rozman Jaroslav, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Satek Vaclav, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Sustek Martin, Ing.",
+                "position": "Member",
+                "notes": [
+                    "Machine Learning",
+                    "Neural Networks",
+                    "Generative Models"
+                ]
+            },
+            {
+                "name": "Veigend Petr, Ing., Ph.D.",
+                "position": "Member",
+                "notes": [
+                    "Taylor series and its practical applicationsdynamic systems controlsolution of linear and nonlinear differential equationsparallel solution using several approaches",
+                    "dynamic systems control",
+                    "solution of linear and nonlinear differential equations",
+                    "parallel solution using several approaches",
+                    "I m also interested in IT security and communication technologies"
+                ]
+            },
+            {
+                "name": "Vidensky Frantisek, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Zboril Frantisek, doc. Ing., Ph.D.",
+                "position": "Member"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2022",
+            "title": "Optimization of Trucks Loading",
+            "details": "start: 2022-10-25, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "A tool for creating technological schemas of wastewater treatment plants",
+            "details": "KUNST, start: 2018-05-02, end: 2019-05-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Possibilities for creation of communite genealogical database with semantic information and uncertainty",
+            "details": "TACR, Program na podporu aplikovaneho spolecenskovedniho a humanitniho vyzkumu, experimentalniho vyvoje a inovaci ETA., TL01000130, start: 2018-03-01, end: 2021-02-28, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Support of education of Fundamentals of Artificial Intelligence and Soft-Computing courses",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR1613/2010/G1, start: 2010-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Use of authentication-security technologies for automation and enhancement of efectivity by selected processes in monitoring of object's state and movement",
+            "details": "Inkubator VUT, JIC-InVo-Siemens-2010, start: 2010-03-01, end: 2010-09-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Adjustment of algorithms for 3D fingerprints",
+            "details": "TBS-BL-2009, start: 2009-11-01, end: 2010-01-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Education of liveness testing in subject Biometric systems",
+            "details": "FR2525/2009/G1, start: 2009-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Laboratory of Wireless Sensor Networks",
+            "details": "FR753/2009/A, start: 2009-01-09, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Testing of the sensor TST-Biometrics BiRD 3",
+            "details": "TST-2009-FIT, start: 2009-08-01, end: 2009-10-28, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Creation of a New Subject for Extension of Language Support at FEEC BUT",
+            "details": "FR1756/2008/F1, start: 2008-01-26, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Expansion of the Laboratory of Biometric Systems",
+            "details": "FR1561/2008/A, start: 2008-01-25, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Idex project",
+            "details": "IDEX, start: 2008-09-01, end: 2009-08-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Laboratory of human machine interaction",
+            "details": "FR0274/2008/Aa, start: 2008-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Sensor data acquisition for UAV [SEDAQ]",
+            "details": "1M0501-P2, start: 2008-07-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Software Stabilisation of Image Signal from Camera System II",
+            "details": "HS1480033, start: 2008-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Innovation of Intelligent systems laboratory",
+            "details": "FR1743/2007/A, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Intellligent Agent and Multi-agent Systems",
+            "details": "GACR, Postdoktorandske granty, GP102/07/P431, start: 2007-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Software Stabilisation of Image Signal from Camera System",
+            "details": "HS1470031, start: 2007-01-04, end: 2007-07-15, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Teaching support for course Intelligent systems",
+            "details": "FR2286/2007/G1, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Technical Evaluation of Biometric Systems",
+            "details": "NBU, Projekty resi problematiku vyzkumu a vyvoje v oblasti kryptografie a kryptoanalyzy s cilem zajisteni kryptografickych prostredku pro ochranu utajovanych skutecnosti., ST20072007006, start: 2007-03-27, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Mobile Autonomous Robot",
+            "details": "FR2818/2006/G1, start: 2006-01-31, end: 2007-01-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Teaching support for course Modelling and Simulation",
+            "details": "FR3097/2006/G1, start: 2006-01-31, end: 2006-01-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Intelligent Systems Laboratory",
+            "details": "FR1688/2004/A, start: 2004-01-01, end: 2004-12-31, completed"
+        },
+        {
+            "year": "2003",
+            "title": "BioFinger",
+            "details": "BioFinger II, start: 2003-01-01, end: 2003-12-30, completed"
+        },
+        {
+            "year": "2003",
+            "title": "Biometric Security Systems",
+            "details": "FR0835/2003/G1, start: 2003-01-01, end: 2003-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "BioFinger",
+            "details": "BioFinger I, start: 2002-09-01, end: 2002-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Intelligent systems - preparation of course",
+            "details": "FR1834/2002/F1, start: 2002-04-16, end: 2002-12-31, completed"
+        },
+        {
+            "year": "2001",
+            "title": "Neural Heteroassociative Memories",
+            "details": "FR0173/2001/G1, start: 2001-01-01, end: 2001-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Application of Neural Associative Memories",
+            "details": "FR191/1998/G, start: 1998-01-01, end: 1998-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Neural Associative Memory Applications in Image Processing",
+            "details": "MSM26000, start: 1998-01-01, end: 1998-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Neural Net Applications in Image Processing",
+            "details": "FV480012, start: 1998-01-01, end: 1998-12-31, completed"
+        },
+        {
+            "year": "1997",
+            "title": "Associative neural memories",
+            "details": "FR627/1997/G, start: 1997-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1971",
+            "title": "Statni ukol III-2-1/8",
+            "details": "start: 1971-01-01, end: 1975-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "details": "VEIGEND, P.; NECASOVA, G.; SATEK, V. Taylor series based numerical integration method for solution of nonlinear problems with division. In 2024 IEEE 17th International Scientific Conference on Informatics Proceedings. Poprad: Institute of Electrical and Electronics Engineers, 2025. p. 421-426. ISBN: 979-8-3503-8768-1. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "VIDENSKY, F.; ZBORIL, F.; VEIGEND, P. Integrating Late Variable Binding with SP-MCTS for Efficient Plan Execution in BDI Agents. In Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART. Porto: SciTePress - Science and Technology Publications, 2025. p. 679-686. ISBN: 978-989-758-737-5. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HASLINGER, J.; KUCERA, R.; MOTYCKOVA, K.; SATEK, V. Stokes problem with the Coulomb stick-slip boundary conditions in 3D: formulations, approximation, algorithms, and experiments. MATHEMATICS AND COMPUTERS IN SIMULATION, 2024, vol. 216, no. February, p. 145-167. ISSN: 0378-4754. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "KOCI, R. On the Object Oriented Petri Nets Model Transformation into Java Programming Language. ICSEA 2024 The Nineteenth International Conference on Software Engineering Advances. Venice: Xpert Publishing Services, 2024. p. 38-42. ISBN: 978-1-68558-194-7. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "NECASOVA, G.; SATEK, V. Parallel solution of parabolic partial differential equation using higher-order method. In 20th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Heraklion: American Institute of Physics, 2024. no. 3094, p. 1-4. ISSN: 0094-243X. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "VEIGEND, P.; NECASOVA, G.; SATEK, V. Solving linear and nonlinear problems using Taylor Series Method. Open Computer Science, 2024, vol. 14, no. 1, p. 1-15. ISSN: 2299-1093. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "VEIGEND, P.; SATEK, V. Non-linear control using the numerical method based on the Taylor series. In 20th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Heraklion: American Institute of Physics, 2024. no. 3094, p. 1-4. ISSN: 0094-243X. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "VIDENSKY, F.; ZBORIL, F.; BERAN, J.; KOCI, R.; ZBORIL, F. Comparing Variable Handling Strategies in BDI Agents: Experimental Study. In Proceedings of the 16th International Conference on Agents and Artificial Intelligence - Volume 1. Rome: SciTePress - Science and Technology Publications, 2024. p. 25-36. ISBN: 978-989-758-680-4. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "KOCI, R.; JANOUSEK, V. Prerequisites for Simulation-Based Software Design and Deployment. ICSEA 2023 The Eighteenth International Conference on Software Engineering Advances. Porto: Xpert Publishing Services, 2023. p. 105-109. ISBN: 978-1-68558-098-8. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "KUCERA, R.; SATEK, V. Numerical solution of the Navier-Stokes system with the stick-slip boundary condition. In 19th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2023. no. 2849, p. 1-4. ISSN: 0094-243X. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "NECASOVA, G.; SATEK, V. Taylor series based parallel numerical solution of partial differential equations. In 19th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2023. no. 2849, p. 1-4. ISSN: 0094-243X. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "SUSTEK, M.; JOSHI, S.; LI, H.; THEBAUD, T.; VILLALBA LOPEZ, J.; KHUDANPUR, S.; DEHAK, N. Joint Energy-Based Model for Robust Speech Classification System against Dirty-Label Backdoor Poisoning Attacks. Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU). Taipei: IEEE Signal Processing Society, 2023. p. 1-8. ISBN: 979-8-3503-0689-7. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "THEBAUD, T.; JOSHI, S.; LI, H.; SUSTEK, M.; VILLALBA LOPEZ, J.; KHUDANPUR, S.; DEHAK, N. Clustering Unsupervised Representations as Defense against Poisoning Attacks on Speech Commands Classification System. Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU). Taipei: IEEE Signal Processing Society, 2023. p. 1-8. ISBN: 979-8-3503-0689-7. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "VEIGEND, P.; NECASOVA, G.; SATEK, V. Taylor Series Method in Numerical Integration: Linear and Nonlinear problems. In 2022 IEEE 16th International Scientific Conference on Informatics, Informatics 2022 - Proceedings. Poprad: IEEE Communications Society, 2023. p. 239-244. ISBN: 979-8-3503-1034-4. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "VEIGEND, P.; SATEK, V. Nonlinear Control Using High-Order Integration Method. In 19th International Conference of Numerical Analysis and Applied Mathematics. AIP conference proceedings. Rhodes: American Institute of Physics, 2023. no. 2849, p. 1-4. ISSN: 0094-243X. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "VIDENSKY, F.; ZBORIL, F.; KOCI, R.; ZBORIL, F. Operational Semantic of an AgentSpeak(L) Interpreter using Late Bindings. In Proceedings of the 15th International Conference on Agents and Artificial Intelligence, Volume 1. Lisabon: SciTePress - Science and Technology Publications, 2023. p. 173-180. ISBN: 978-989-758-623-1. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Energy Efficiency of a Wheeled Bio-Inspired Hexapod Walking Robot in Sloping Terrain. Robotics, 2023, vol. 12, no. 2, p. 1-15. ISSN: 2218-6581. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "ZBORIL, F.; DOKOUPIL, L.; VIDENSKY, F.; BERAN, J. General deSouches commands multi-agent army for performing in Agents Assembe III scenario: FIT-BUT at MAPC 2022. In The Multi-Agent Programming Contest 2022 Coordinating Agents in a Dynamic World: Agents Follow the Rules, or Not. Lecture Notes in Computer Science. Lecture Notes of Artificial Intelligence. Berlin: Springer Nature Switzerland AG, 2023. no. 13997, p. 120-150. ISSN: 1611-3349. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HRUBY, M.; GONZALEZ, A.; RUIZ NOLASCO, R.; BIRO, P. Simulation Setup for a Closed-Loop Regulation of Neuro-Muscular Blockade. In EUROCAST 2022. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Las Palmas de Gran Canaria: Springer Verlag, 2022. p. 207-214. ISBN: 978-3-031-25311-9. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "KOCI, R.; OSADSKY, L. On the Applicability of ALF Language in Real Software Projects. ICSEA 2022, The Seventeenth International Conference on Software Engineering Advances. Lisbon: Xpert Publishing Services, 2022. p. 102-107. ISBN: 978-1-61208-997-3. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "SUSTEK, M.; SADHU, S.; HERMANSKY, H. Dealing with Unknowns in Continual Learning for End-to-end Automatic Speech Recognition. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 1046-1050. ISSN: 1990-9772. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "ZBORIL, F.; VIDENSKY, F.; KOCI, R.; ZBORIL, F. Late Bindings in AgentSpeak(L). In Proceedings of the 14th International Conference on Agents and Artificial Intelligence vol. 3. Lisabon: SciTePress - Science and Technology Publications, 2022. p. 715-724. ISBN: 978-989-758-547-0. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "HASLINGER, J.; KUCERA, R.; MOTYCKOVA, K.; SATEK, V. Numerical modeling of the leak through semipermeable walls for 2D/3D Stokes flow: experimental scalability of dual algorithms. Mathematics, 2021, vol. 9, no. 22, p. 1-24. ISSN: 2227-7390. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "JANOUSEK, V.; KOCI, R. On the Model Continuity in Control Systems Design Using DEVS, UML, and IEC 61499. ICSEA 2021, The Sixteenth International Conference on Software Engineering Advances. Barcelona: Xpert Publishing Services, 2021. p. 114-120. ISBN: 978-1-61208-894-5. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "UHLIR, V.; ZBORIL, F.; VIDENSKY, F. FIT BUT: Rational Agents in the Multi-Agent Programming Contest. In The Multi-Agent Programming Contest 2021, One-and-a-Half Decades of Exploring Multi-Agent Systems. Lecture Notes in Computer Science. Lecture Notes of Computer Challenges. Berlin: Springer International Publishing, 2021. no. 10, p. 23-45. ISBN: 978-3-030-88548-9. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Design and Control of 7-DOF Omni-directional Hexapod Robot. Open Computer Science, 2021, vol. 11, no. 1, p. 80-89. ISSN: 2299-1093. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "ZBORIL, F. Zaklady umele inteligence. Brno: 2021. s. 1-189. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HRUBY, M.; GONZALES, A.; RUIZ NOLASCO, R.; SHARMAN, K.; SAEZ, S. Simulation Infrastructure for Automated Anesthesia During Operations. In International Conference on Computer Aided Systems Theory (EUROCAST'19). Lecture Notes in Computer Science. Cham: Springer Verlag, 2020. p. 474-481. ISBN: 978-3-030-45092-2. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KOCI, R. Requirements Validation Through Scenario Generation and Comparison. The Fifteenth International Conference on Software Engineering Advances, ICSEA 2020. Porto: Xpert Publishing Services, 2020. p. 129-134. ISBN: 978-1-61208-827-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KOCI, R.; ROZMAN, J.; ZBORIL, F. Database Concept for Transcription of Registry Records into Digital Form. In Proceedings of the 3rd International Conference on Software Engineering and Information Management - ICSIM'20. Sydney: Association for Computing Machinery, 2020. p. 21-25. ISBN: 978-1-4503-7690-7. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "UHLIR, V.; VIDENSKY, F.; ZBORIL, F. Multi-Agent Programming Contest 2019 FIT BUT Team solution. In The Multi-Agent Programming Contest 2019, Agents Assemble - Block by Block to Victory. Lecture Notes in Computer Science. Lecture Notes of Computer Challenges. Berlin: Springer International Publishing, 2020. no. 8, p. 59-78. ISBN: 978-3-030-59298-1. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "ROZMAN, J.; HRIBEK, D.; ZBORIL, F. Testing of Various Approaches for Semiautomatic Parish Records Word Standardization. In JIST: Joint International Semantic Technology Conference. Communications in Computer and Information Science. Communications in Computer and Information Science. Hangzhou: Springer International Publishing, 2019. no. 1157, p. 21-33. ISBN: 978-981-1534-11-9. ISSN: 1865-0929. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "SUSTEK, M.; VIDENSKY, F.; ZBORIL, F.; ZBORIL, F. Family Coat of Arms and Armorial Achievement Classification. In Intelligent Systems Design and Applications. Advances in Intelligent Systems and Computing. Advances in Intelligent Systems and Computing. Los Alamitos: Springer International Publishing, 2019. no. 2, p. 577-586. ISSN: 2194-5357. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Design of Omni-directional Hexapod Robot with Horizontal Coxa Joint. In INFORMATICS 2019 - IEEE 15th International Scientific Conference on Informatics, Proceedings. Poprad: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2019. p. 119-123. ISBN: 978-1-7281-3179-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "ZBORIL, F.; ROZMAN, J.; KOCI, R. Algorithmic creation of genealogical models. In Proceedings of ISDA 2018. Advances in Intelligent Systems and Computing. Advances in Intelligent Systems and Computing. Los Alamitos: Springer International Publishing, 2019. no. 941, p. 650-658. ISBN: 978-3-030-16659-5. ISSN: 2194-5357. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "ROZMAN, J.; ZBORIL, F.; KOCI, R. Possibilities of Creation of Community Genealogical Database with Semantic Information. In ICSIM2018: 2018 International Conference on Software Engineering and Information Management. Casablanca: 2018. p. 87-91. ISBN: 978-1-4503-5438-7. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SUSTEK, M.; ZBORIL, F. Obtaining word embedding from existing classification model. In Intelligent Systems Design and Applications. Advances in Intelligent Systems and Computing. ISDA 2017 Intelligent Systems Design and Applications. Cham: Springer International Publishing, 2018. no. 736, p. 540-547. ISBN: 978-3-319-76347-7. ISSN: 2194-5357. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "UHLIR, V.; ZBORIL, F.; ROZMAN, J. Improving upon package and food delivery by Semi-autonomous Tag-along Vehicles. In Intelligent Systems Design and Applications. ISDA 2017: Intelligent Systems Design and Applications. Cham: Springer International Publishing, 2018. p. 589-596. ISBN: 978-3-319-76347-7. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "VIDENSKY, F.; ZBORIL, F. Computer Aided Recognition and Classification of Coats of Arms. In Proceedings ISDA 2017. Advances in Intelligent Systems and Computing. Advances in Intelligent Systems and Computing, vol 736. Los Alamitos: Springer International Publishing, 2018. no. 3, p. 63-73. ISBN: 978-3-319-76347-7. ISSN: 2194-5357. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "VIDENSKY, F.; ZBORIL, F. Strojove rozpoznavani rodovych erbu. Genealogicke a heraldicke informace, 2018, roc. 22, c. 1, s. 73-82. ISSN: 0862-8963. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KOCI, R.; JANOUSEK, V. Validation of Specification Models Based on Petri Nets. Software Engineering Advances. Ateny: Xpert Publishing Services, 2017. p. 232-237. ISBN: 978-1-61208-590-6. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KOCI, R.; JANOUSEK, V. Specification of Requirements Using Unified Modeling Language and Petri Nets. International Journal on Advances in Software, 2017, vol. 10, no. 12, p. 121-131. ISSN: 1942-2628. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "RICHTA, T.; JANOUSEK, V. Data-Driven Maritime Processes Management Using Executable Models. In Computer Aided Systems Theory - EUROCAST 2017. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Berlin Heidelberg: Springer Verlag, 2017. p. 134-141. ISBN: 978-3-319-74726-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "DALECKY, S.; SNASELOVA, P.; LUZA, R.; ZAK, M.; ROZMAN, J.; ZBORIL, F. SmartMowers as a Part of a SmartCity. In Proceedings of the 2016 17th International Carpathian Control Conference, ICCC 2016. Tatranska Lomnica: The University of Technology Kosice, 2016. p. 156-160. ISBN: 978-1-4673-8606-7. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "LUZA, R.; DRAHANSKY, M.; ZBORIL, F. Localization of rescue robot in hybrid environment. ICCITR2016. Dubai: Higher Institute of Technological Studies, 2016. p. 1-4. ISBN: 978-9973-9816-2-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "LUZA, R.; DRAHANSKY, M.; ZBORIL, F. RUDA - Robot for Search for Human Beings in Debris and Avalanches. In Proceedings of ISDA 2015. Marrakesh: Faculty of Information Technology, Czech Technical University, 2016. p. 1-6. ISBN: 978-1-4673-8712-5. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "LUZA, R.; ZBORIL, F.; DRAHANSKY, M. High-level control of RUDA - the robot for rescuing people in debris and under avalanches. In ICCC. Tatranska Lomnica: The University of Technology Kosice, 2016. p. 467-472. ISBN: 978-1-4673-8605-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "PLASCENCIA, A.; ROZMAN, J. Towards a User-Wheelchair Shared Control Paradigm for Individuals with Severe Motor Impairments. In ICINCO 2016 13th International Conference on Informatics in Control, Automation and Robotics. Lisabon: Institute for Systems and Technologies of Information, Control and Communication, 2016. p. 246-253. ISBN: 978-989-758-198-4. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ZAK, M.; ROZMAN, J. Design, Construction and Control of Hexapod Walking Robot. In 2015 IEEE 13th International Scientific Conference on Informatics, INFORMATICS 2015 - Proceedings. Poprad: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2016. p. 302-307. ISBN: 978-1-4673-9867-1. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Hexapod Robot: Test Platform for Bio-Inspired Controllers. In Proceedings of the 2016 17th International Carpathian Control Conference, ICCC 2016. Tatranska Lomnica: The University of Technology Kosice, 2016. p. 819-824. ISBN: 978-1-4673-8606-7. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Overview of Bio-Inspired Control Mechanisms for Hexapod Robot. International Journal of Computer Information Systems and Industrial Management Applications, 2016, vol. 2016, no. 8, p. 125-134. ISSN: 2150-7988. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Overview of Bio-Inspired Control Mechanisms for Hexapod Robot. In International Conference on Intelligent Systems Design and Applications, ISDA. Marrakesh: Machine Intelligence Research Labs, 2016. p. 160-165. ISBN: 978-1-4673-8709-5. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "DALECKY, S.; ZBORIL, F. An Approach to ANFIS Performance. In Advances in Intelligent Systems and Computing. Mendel 2015 Recent Advances in Soft Computing. Brno: 2015. p. 195-206. ISBN: 978-3-319-19823-1. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "DRAHANSKY, M.; HANACEK, P.; ZBORIL, F.; HENZL, M.; ZBORIL, F.; YIM, J.; SHIM, K. Cryptomodules in Wireless Networks using Biometric Authentication: Securing Nodes in Wireless Networks. In Improving Information Security Practices through Computational Intelligence. Washington: IGI Global, 2015. p. 198-227. ISBN: 978-1-4666-9426-2. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "LUZA, R.; ROZMAN, J.; ZBORIL, F. ROS-based Remote Controlled Robotic Arm Workcell. In International Conference on Intelligent Systems Design and Applications, ISDA. Okinawa: Institute of Electrical and Electronics Engineers, 2015. p. 101-106. ISBN: 978-1-4799-7938-7. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "SNASELOVA, P.; ZBORIL, F. Genetic Algorithm using Theory of Chaos. Procedia Computer Science, 2015, vol. 2015, no. 51, p. 316-325. ISSN: 1877-0509. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KRAL, J.; ZBORIL, F.; ZBORIL, F. Handling Multiple Intentions Using Action Heuristics. In Proceedings of the 2014 International Conference on Intelligent Systems Design and Applications. Okinawa: Institute of Electrical and Electronics Engineers, 2014. p. 56-61. ISBN: 978-1-4799-7938-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "LUZA, R.; ZBORIL, F. Detection of mechanical play of revolute robot joint. In ICINCO 2014 Proceedings of the 11th International Conference on Informatics in Control, Automation and Robotics Volume 2. Viden: Department of Intelligent Systems FIT BUT, 2014. p. 327-332. ISBN: 978-989-758-040-6. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "SAMEK, J.; MALACKA, O.; ZBORIL, F.; ZBORIL, F. Decision Making and Partner Selection Based on Trust in Multi-context Environment. In Proceedings of the 2014 International Conference on Intelligent Systems Design and Applications (ISDA 2014). Okinawa: Institute of Electrical and Electronics Engineers, 2014. p. 19-24. ISBN: 978-1-4799-7938-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ZAK, J.; ZBORIL, F. JESTER Methodology: A Wood of Fire Case Study. In Proceedings of ISDA 2014. Okinawa: Institute of Electrical and Electronics Engineers, 2014. p. 1-6. ISBN: 978-1-4799-7938-7. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DRAHANSKY, M.; HANACEK, P.; ZBORIL, F.; ZBORIL, F.; BARABAS, M.; ANTAL, L. Threats in Networks using Agent and Biometric Systems. International Journal of Bio-Science and Bio-Technology, 2013, vol. 5, no. 3, p. 119-133. ISSN: 2233-7849. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HORACEK, J.; ZBORIL, F.; ZAK, J. Mobile Agents in Wireless Sensor Networks. Journal of Network and Innovative Computing (JNIC), 2013, vol. 1, no. 1, p. 214-223. ISSN: 2160-2174. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KALMAR, R.; ZBORIL, F.; ZBORIL, F. Security threats classification in wireless sensor networks with mobile codes. Proceedings of the 12th International Conference on Informatics. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2013. p. 210-215. ISBN: 978-80-8143-127-2. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KRAL, J.; ZBORIL, F.; ZBORIL, F. Flexible Plan Handling using Extended Environment. Proceedings of the 12th International Conference on Informatics. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2013. p. 228-233. ISBN: 978-80-8143-127-2. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "LUZA, R.; ROZMAN, J.; ZBORIL, F. Remote Controlling of the Robotic Arm Mitsubishi Melfa. Informatics 2013. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2013. p. 329-334. ISBN: 978-80-8143-127-2. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SVEC, T.; SAMEK, J. Trust evaluation on Facebook using multiple contexts. CEUR workshop proceedings, 2013, vol. 2013, no. 997, p. 23-32. ISSN: 1613-0073. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ZAK, J.; HORACEK, J.; ZBORIL, F.; ZBORIL, F. JADE Agents to Wireless Sensors: Easy Wireless Sensor Network Management. Journal of Network and Innovative Computing (JNIC), 2013, vol. 1, no. 1, p. 260-269. ISSN: 2160-2174. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DVORAK, R.; ZBORIL, F. On the usage of ELLAM to solve advection-diffusion equation describing the pollutant transport in planetary boundary layer. Acta Electrotechnica et Informatica, 2012, vol. 2012, no. 1, p. 44-48. ISSN: 1335-8243. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "HORACEK, J.; ZBORIL, F. Mobile code placement in wireless sensor networks. Proceedings of the 2012 12th International Conference on Intelligent Systems Design and Applications (ISDA). Kocin (Cochin): Institute of Electrical and Electronics Engineers, 2012. p. 172-177. ISBN: 978-1-4673-5118-8. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "HORACEK, J.; ZBORIL, F.; HANACEK, P. Agent Aided Routing in Wireless Sensor Networks. Proceedings of CSE 2012 International Scientific Conference on Computer Science and Engineering. Kosice: The University of Technology Kosice, 2012. p. 119-126. ISBN: 978-80-8143-049-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "LUZA, R.; ROZMAN, J.; ZBORIL, F. Robotic Arm Controlling in ROS Environment. CSSim. Brno: Brno University of Technology, 2012. p. 61-66. ISBN: 978-80-214-4576-5. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "LUZA, R.; ZBORIL, F. Autonomous Manipulation with Know Objects by Robotic Arm. Proceedings of CSE 2012 International Scientific Conference on Computer Science and Engineering. Kosice: The University of Technology Kosice, 2012. p. 183-190. ISBN: 978-80-8143-049-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MALACKA, O.; SAMEK, J.; ZBORIL, F.; ZBORIL, F. Interval Trust Representation. Proceedings of CSE 2012 International Conference on Computer Science and Engineering. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2012. p. 175-182. ISBN: 978-80-8143-049-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MALACKA, O.; SAMEK, J.; ZBORIL, F.; ZBORIL, F. Case study: Different Approaches and Their Aspects for Partner Selection Based on Trust. In Proceedings of the 2012 12th International Conference on Intelligent Systems Design and Applications (ISDA). Kochi, Indie: Institute of Electrical and Electronics Engineers, 2012. p. 285-290. ISBN: 978-1-4673-5118-8. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MALACKA, O.; SAMEK, J.; ZBORIL, F.; ZBORIL, F. Decision Making and Recommendation Protocol Based on Trust for Multi-agent Systems. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7138, p. 280-291. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ROZMAN, J. Design of a system for automatic operation in storehouse. Proceedings of CSE 2012 International Scientific Conference on Computer Science and Engeneering. Kosice: The University of Technology Kosice, 2012. p. 1-10. ISBN: 978-80-8143-049-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ROZMAN, J. Exploration and Traversable Area Marking for the VisualSLAM. Information Sciences and Technologies Bulletin of the ACM Slovakia, 2012, vol. 4, no. 1, p. 29-38. ISSN: 1338-1237. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SAMEK, J. Duvera a reputace v distribuovanych systemech. Brno: 2012. 140 s. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SAMEK, J. Multi-contextual Trust Model for Multi-Agent Systems. Information Sciences and Technologies Bulletin of the ACM Slovakia, 2012, vol. 4, no. 1, p. 44-54. ISSN: 1338-1237. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SAMEK, J.; MALACKA, O.; KRAL, J.; ZBORIL, F.; ZBORIL, F. HMTCsim: A simulation tool for multi-agent systems with using decision making based on trust. Proceedings of Third International Conference on Computer Modelling and Simulation. Brno: Faculty of Information Technology BUT, 2012. p. 80-85. ISBN: 978-80-214-4576-5. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZAK, J.; HORACEK, J.; ZBORIL, F.; KOCI, R.; KRAL, J. JADE Agents Used for Wireless Sensors Control: System Based on Services. Proceedings of the 2012 12th International Conference on Intelligent Systems Design and Applications (ISDA). Kochi (Cochin): Institute of Electrical and Electronics Engineers, 2012. p. 252-257. ISBN: 978-1-4673-5118-8. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZBORIL, F.; DRAHANSKY, M.; HANACEK, P.; HORACEK, J. Security in Wireless Sensor Networks with Mobile Codes. In Threats, Countermeasures, and Advances in Applied Information Security. Hershey: IGI Global, 2012. p. 411-425. ISBN: 978-1-4666-0978-5. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DVORAK, R.; ZBORIL, F. On the usage of ELLAM to solve advection-diffusion equation describing the pollutant transport in planetary boundary layer. Proceedings of the Eleventh International Conference on Informatics. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2011. p. 227-230. ISBN: 978-80-89284-94-8. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "HORACEK, J.; ZBORIL, F. Secured Agent Platform for Wireless Sensor Networks. Lecture Notes in Computer Science, 2011, vol. 2011, no. 4, p. 476-485. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MALACKA, O.; SAMEK, J.; ZBORIL, F.; ZBORIL, F. Decision Making and Recommendation Protocol Based on Trust for Multi-Agent Systems. Proceedings of Trust, Reputation and User Modeling Workshop (TRUM 2011). Girona: 2011. p. 33-40. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ROZMAN, J.; ZBORIL, F. Exploration in the VisualSLAM. 2nd International Conference on Computer Modelling and Simulation. Brno: Faculty of Information Technology BUT, 2011. p. 119-127. ISBN: 978-80-214-4320-4. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ROZMAN, J.; ZBORIL, F. Path planning and traversable area marking for stereo vision-based 3D map building. International Journal of Computational Vision and Robotics (IJCVR), 2011, vol. 2, no. 4, p. 277-289. ISSN: 1752-914X. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SAMEK, J.; MALACKA, O.; ZBORIL, F.; HANACEK, P. Multi-Agent Experimental Framework with Hierarchical Model of Trust in Contexts for Decision Making. Proceeding of the 2nd International Conference on Computer Modelling and Simulation. Brno: Department of Intelligent Systems FIT BUT, 2011. p. 128-136. ISBN: 978-80-214-4320-4. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ZAK, J.; HORACEK, J.; ZBORIL, F.; KOCI, R.; GABOR, M. Remote controlling and monitoring tool for wireless sensor network using WSageNt platform. Proceeding of the 2nd International Conference on Computer Modelling and Simulation. Brno: Department of Intelligent Systems FIT BUT, 2011. p. 1-8. ISBN: 978-80-214-4320-4. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ZBORIL, F. Multiagentni systemy. Datakon 2011, Tutorials. Mikulov: Vysoke uceni technicke v Brne, 2011. s. 75-100. ISBN: 978-80-214-4330-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DROZDOVA, M.; ZBORIL, F. Simulation of Queuing Systems using QS_PN_Simulation tool. EUROSIM - Simulation News Europe, 2010, vol. 2010, no. 1, p. 35-37. ISSN: 0929-2268. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DVORAK, R.; FIALA, J.; ZENDULKA, J.; ZBORIL, F. The Design of Self-Developmental Model of Atmospheric Pollutant Dispersion. Proceedings of the 7th EUROSIM Congress on Modelling and Simulation. Praha: Czech Technical University Publishing House, 2010. p. 1-6. ISBN: 978-80-01-04589-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DVORAK, R.; ZBORIL, F. Preliminary Study of Using Ellam Framework for Solution of Atmospheric Advection Diffusion Reaction Equation. Proceedings of the 7th EUROSIM Congress on Modelling and Simulation. Praha: Czech Technical University Publishing House, 2010. p. 1-6. ISBN: 978-80-01-04589-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "HORACEK, J.; ZBORIL, F. WSageNt: A case study. Proceedings of CSE 2010 International Scientific Conference on Computer Science and Engineering. Volume 1. Kosice: The University of Technology Kosice, 2010. p. 258-264. ISBN: 978-80-8086-164-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KOCI, R.; JANOUSEK, V.; ZBORIL, F. Object Oriented Petri Nets - Modelling Techniques Case Study. International Journal of Simulation Systems, Science & Technology, 2010, vol. 10, no. 3, p. 32-44. ISSN: 1473-8031. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KOCI, R.; ZBORIL, F.; ZAK, J. Integrating Multiple Modeling and Development Tools for Realization of Distributed Intelligent System. Proceedings of the 10th International Conference on Intelligent Systems Design and Applications. Cairo: IEEE Computer Society, 2010. p. 658-663. ISBN: 978-1-4244-8135-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "MALACKA, O.; ZBORIL, F.; SAMEK, J. Increasing Profit in Agent Business Model with Trust. Proceedings of the 7th EUROSIM Congress on Modelling and Simulation. Vol. 2. Praha: Czech Technical University Publishing House, 2010. p. 109-114. ISBN: 978-80-01-04589-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ROZMAN, J. Visualization of a 3D Textured Model for the World Modeling. Proceedings of CSE 2010 International Scientific Conference on Computer Science and Engineering. Volume 1. Kosice: The University of Technology Kosice, 2010. p. 314-319. ISBN: 978-80-8086-164-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ROZMAN, J. Incremental Creation of a 3D Map with a Stereocamera. In Proceedings of the 2010 10th International Conference on Intelligent Systems Design and Applications, ISDA'10. Cairo: IEEE Computer Society, 2010. p. 861-865. ISBN: 978-1-4244-8135-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ROZMAN, J.; ZBORIL, F. A Concept of a Robot for the Robotour Competition. Proceedings of the 7th EUROSIM Congress on Modelling and Simulation. Vol. 2. Praha: Czech Technical University Publishing House, 2010. p. 1-6. ISBN: 978-80-01-04589-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ROZMAN, J.; ZBORIL, F. Sampling-Based Algorithms for the Motion Planning. Proceedings of the 16th International Scientific and Practical Conference of Students, Post-graduates and Young Scientists, MODERN TECHNIQUE AND TECHNOLOGIES MTT 2010. Tomsk: Institute of Electrical and Electronics Engineers, 2010. p. 110-112. ISBN: 0-7803-8226-9. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SAMEK, J.; ZBORIL, F. Algorithmic Evaluation of Trust in Multilevel Model. Proceedings of the 7th EUROSIM Congress on Modelling and Simulation. Vol. 2. Praha: Czech Technical University Publishing House, 2010. p. 90-95. ISBN: 978-80-01-04589-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SAMEK, J.; ZBORIL, F. ContextGraph: Simulation Tool for Hierarchical Model of Trust in Context. Proceedings of CSE 2010 International Scientific Conference on Computer Science and Engineering. Vol. 1. Kosice: The University of Technology Kosice, 2010. p. 265-270. ISBN: 978-80-8086-164-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SAMEK, J.; ZBORIL, F. Hierarchical Model of Trust in Contexts. Networked Digital Technologies. Communications in Computer and Information Science. Communications in Computer and Information Science (CCIS). Heidelberg: Springer Verlag, 2010. no. 88, p. 356-365. ISBN: 978-3-642-14305-2. ISSN: 1865-0929. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SAMEK, J.; ZBORIL, F.; MALACKA, O. Event Driven Multi-context Trust Model. Proceedings of the 10th International Conference on Intelligent Systems Design and Applications. Cairo: IEEE Computer Society, 2010. p. 911-917. ISBN: 978-1-4244-8135-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SIMEK, V.; DVORAK, R.; ZBORIL, F.; DRABEK, V. Performance Evaluation of OpenCL Framework for Numerical Solver of Advection Diffusion Equation. Proceedings of CSE 2010 International Scientific Conference on Computer Science and Engineering. Kosice: The University of Technology Kosice, 2010. p. 279-286. ISBN: 978-80-8086-164-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ZAK, J.; ZBORIL, F.; KOCI, R.; JANOUSEK, V. Connecting Jade with PN agent. Proceedings of Seventh EUROSIM Congress on Modelling and Simulation. Vol. 2. Prague: Czech Technical University Publishing House, 2010. p. 97-105. ISBN: 978-80-01-04589-3. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DROZDOVA, M.; ZBORIL, F. A new Java tool for discrete simulation. International Journal of Autonomic Computing, 2009, vol. 1, no. 2, p. 163-172. ISSN: 1741-8569. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DVORAK, R.; SIMEK, V.; ZBORIL, F. A Numerical Solution of the Dispersion Modeling in the Planetary Boundary Layer. 2009 International Conference on Computational Intelligence, Modelling and Simulation. Brno: IEEE Computer Society, 2009. p. 6-10. ISBN: 978-0-7695-3795-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DVORAK, R.; SIMEK, V.; ZBORIL, F.; DRABEK, V. GPU Accelerated Solver of Time-Dependent Air Pollutant Transport Equations. In 12th EUROMICRO Conference on Digital System Design DSD 2009. Patras: IEEE Computer Society, 2009. p. 707-713. ISBN: 978-0-7695-3277-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DVORAK, R.; ZBORIL, F. Simulation of Atmospheric Pollution Dispersion. Proceedings MATHMOD 09 Vienna - Full Papers CD Volume. Vienna: ARGE Simulation News, 2009. p. 2671-2674. ISBN: 978-3-901608-35-3. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DVORAK, R.; ZBORIL, F.; SRNEC, P. Adding a Rough Terrain to Atmospheric Pollutant Dispersion Model. Proceedings of the Tenth International Conference of Informatics. Kosice: The University of Technology Kosice, 2009. p. 221-226. ISBN: 978-80-8086-126-1. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "GRULICH, L.; ZBORIL, F. Socio-Economic Modeling Using the DEVS Formalism. International Journal of Autonomic Computing, 2009, vol. 1, no. 2, p. 173-181. ISSN: 1741-8569. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "HRUBY, M.; HANACEK, P.; ZBORIL, F. Nove obory v magisterskem studijnim programu na FIT VUT v Brne. Informatika 2009. Brno: Konvoj, 2009. s. 128-129. ISBN: 978-80-7302-152-8. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "PECHO, P.; ZBORIL, F.; DRAHANSKY, M.; HANACEK, P. Agent Platform for Wireless Sensor Network with Support for Cryptographic Protocols. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2009, vol. 15, no. 6, p. 992-1006. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "ROZMAN, J. 2D and 3D Motion Model with Uncertainty. Proceedings of XXXIth International Autumn Colloquium Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2009. p. 37-42. ISBN: 978-80-86840-47-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "ROZMAN, J. Grid-based map making using particle filters. International Journal of Autonomic Computing, 2009, vol. 1, no. 2, p. 211-221. ISSN: 1741-8569. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SAMEK, J.; ZBORIL, F. Agent Reasoning Based On Trust And Reputation. Proceedings MATHMOD 09 Vienna - Full Papers CD Volume. Vienna: ARGE Simulation News, 2009. p. 538-544. ISBN: 978-3-901608-35-3. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SIMEK, V.; DVORAK, R.; ZBORIL, F.; KUNOVSKY, J. Towards Accelerated Computation of Atmospheric Equations using CUDA. In Proceedings of Eleventh International Conference on Computer Modelling and Simulation. Cambridge: IEEE Computer Society, 2009. p. 449-454. ISBN: 978-0-7695-3593-7. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "ZBORIL, F.; HORACEK, J.; SPACIL, P. Intelligent Agent Platform and Control Language for Wireless Sensor Networks. Proceedings of 3rd EMS. Ateny: IEEE Computer Society, 2009. p. 482-487. ISBN: 978-0-7695-3886-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "ZBORIL, F.; JANOUSEK, V.; KOCI, R.; MAZAL, Z.; ZBORIL, F. Framework for model-based design of mullti-agent systems. International Journal of Autonomic Computing, 2009, vol. 1, no. 2, p. 140-162. ISSN: 1741-8569. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "ZBORIL, F.; SPACIL, P. Automata for Agent Low Level Language Interpretation. Proceedings of UKSim 2009. Cambridge: IEEE Computer Society, 2009. p. 1-6. ISBN: 978-0-7695-3593-7. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DROZDOVA, M.; ZBORIL, F. New Java Tool for Discrete Simulation. Proceedings of MOSIS '08. Ostrava: Marq software s.r.o., 2008. p. 7-12. ISBN: 978-80-86840-40-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DROZDOVA, M.; ZBORIL, F. Simulation of Queuing Systems using QS_PN_Simulation tool. Proceedings of CSE 2008. Kosice: elfa, s.r.o., TU Kosice, 2008. p. 299-304. ISBN: 978-80-8086-092-9. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DVORAK, R.; DRAHANSKY, M. Physically Based Real-Time Terrain Deformations: Extensions. In Proceedings of 18th International Conference on Computer Graphics and Vision. Moscow: Lomonosov Moscow State University, 2008. p. 74-78. ISBN: 978-5-9556-0112-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DVORAK, R.; ZBORIL, F. Modeling of Atmospheric Dispersion from Point Source. Proceedings 2nd UKSim European Symposium on Computer Modelling and Simulation. Liverpool: IEEE Computer Society, 2008. p. 46-51. ISBN: 978-0-7695-3325-4. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DVORAK, R.; ZBORIL, F. Modeling of Dispersion of Windborne Material in Atmosphere. Chemicke listy. CHEMICKE LISTY. Brno: Czech Chemical Society, 2008. no. 15, p. 386-391. ISSN: 0009-2770. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DVORAK, R.; ZBORIL, F. Solving of Advection-diffusion Equation Using Method of Lines. Proceedings 8th International Scientific Conference on Computers Science and Engineering. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2008. p. 305-311. ISBN: 978-80-8086-092-9. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "GRULICH, L.; ZBORIL, F. Socio-Economic Modelling Using the DEVS Formalism. Proceedings of MOSIS '08. Ostrava: Marq software s.r.o., 2008. p. 101-107. ISBN: 978-80-86840-40-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KOCI, R.; JANOUSEK, V.; ZBORIL, F. Object Oriented Petri Nets -- Modelling Techniques Case Study. Second UKSIM European Symposium on Computer Modeling and Simulation. Liverpool: IEEE Computer Society, 2008. p. 165-170. ISBN: 978-0-7695-3325-4. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KUNOVSKY, J.; ZBORIL, F.; DROZDOVA, M.; SEHNALOVA, P.; PETREK, J. Multi-rate Integration and Modern Taylor Series Method. Proceedings UKSim 10th International Conference EUROSIM/UKSim2008. Cambridge: IEEE Computer Society, 2008. p. 386-391. ISBN: 0-7695-3114-8. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "LODROVA, D.; DRAHANSKY, M. Methods of Liveness Testing By Fingers. In Analysis of Biomedical Signals and Images. Analysis of Biomedical Signals and Images. Brno: Publishing house of Brno University of Technology VUTIUM, 2008. no. 6, p. 1-7. ISBN: 978-80-214-3612-1. ISSN: 1211-412X. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MARTINSKY, O.; ZBORIL, F.; DRAHANSKY, M. Software Image Stabilization in a Fixed Point Arithmetic. 1st IEEE ICADIWT. Ostrava: Faculty of Electrical Engineering and Computer Science, VSB-TU Ostrava, 2008. p. 380-385. ISBN: 978-1-4244-2624-9. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MAZAL, Z. Modelovani uvazujicich agentu Petriho sitemi. Brno: Fakulta informacnich technologii VUT v Brne, 2008. 98 s. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MAZAL, Z.; JANOUSEK, V.; KOCI, R. Enhancing the PNtalk Language with Negative Predicates. MOSIS '08. Ostrava: Marq software s.r.o., 2008. p. 28-34. ISBN: 978-80-86840-40-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "ROZMAN, J. Grid-Based Map Making using Particle Filters. Proceedings of MOSIS '08. Ostrava: Marq software s.r.o., 2008. p. 186-192. ISBN: 978-80-86840-40-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SAMEK, J.; ZBORIL, F. Multiple Context Model for Trust and Reputation Evaluating in Multi-Agent Systems. Proceedings of CSE 2008. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2008. p. 336-343. ISBN: 978-80-8086-092-9. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "ZBORIL, F.; KOCI, R.; JANOUSEK, V.; MAZAL, Z. Reactive Planning with Weak Plan Instances. Proceedings of 8th ISDA. Los Alamitos: IEEE Computer Society, 2008. p. 643-648. ISBN: 978-0-7695-3382-7. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "ZBORIL, F.; KOCI, R.; ZBORIL, F.; JANOUSEK, V.; MAZAL, Z. T-Mass v.2, State of the art. Second UKSIM European Symposium on Computer Modeling and Simulation. Liverpool: IEEE Computer Society, 2008. p. 240-245. ISBN: 978-0-7695-3325-4. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "ZBORIL, F.; ZBORIL, F. Simulation of Wireless Sensor Networks with Intelligent Nodes. 10th International Conference on Computer Modelling and Simulation. Cambridge: IEEE Computer Society, 2008. p. 746-751. ISBN: 0-7695-3114-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DRAHANSKY, M. Identita v nas ukryta (detailni rozbor biometrickych systemu). Journal CONNECT!, 2007, roc. 2007, c. 4, s. 24-25. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DRAHANSKY, M. Sinusoidal Shape of a Papillary Line Crosscut. In 2007 ECSIC Symposium on Bio-Inspired Learning, And Intelligent Systems for Security. Los Alamitos: IEEE Computer Society, 2007. p. 19-21. ISBN: 978-0-7695-2919-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DRAHANSKY, M.; NEZHYBA, O. Testy obrazove kvality snimacu otisku prstu Suprema. Crypto-world, 2007, roc. 9, c. 11, s. 6-11. ISSN: 1801-2140. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DRAHANSKY, M.; ORSAG, F. Testovani kvality snimku otisku prstu. Datakon 2007. Brno: Masarykova universita, 2007. s. 161-168. ISBN: 978-80-7355-076-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DVORAK, R.; DRAHANSKY, M. Real-Time Terrain Deformations. In Proceedings of the Fourth International Conference on Image and Graphics. Los Alamitos: IEEE Computer Society, 2007. p. 1020-1025. ISBN: 0-7695-2929-1. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "JANOUSEK, V.; KOCI, R.; ZBORIL, F. Towards Modeling Rational Agents with Object Oriented Petri Nets. Proceedings of the Workshop on Petri Nets and Software Engineering. Siedlce: 2007. p. 244-245. ISBN: 978-83-7051-427-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KNEZIK, J.; DRAHANSKY, M. Simple EEG Driven Mouse Cursor Movement. In Computer Recognition Systems 2. Advances in Soft Computing, vol. 45. Wroclaw: Springer Verlag, 2007. p. 1-5. ISBN: 978-3-540-75174-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KOCI, R.; MAZAL, Z.; ZBORIL, F.; JANOUSEK, V. Modeling Deliberative Agents Using Object Oriented Petri Nets. Proceedings of the 7th ISDA. Los Alamitos: IEEE Computer Society, 2007. p. 15-20. ISBN: 0-7695-2976-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KUNOVSKY, J.; PINDRYC, M.; SATEK, V.; ZBORIL, F. Stiff systems in theory and practice. Proceedings of the 6th EUROSIM Congress on Modelling and Simulation. Ljubljana: ARGE Simulation News, 2007. p. 114-119. ISBN: 978-3-901608-32-2. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MAZAL, Z.; JURKA, P.; ZBORIL, F. Framework for Intelligent Systems Education Support at FIT BUT. ASIS 2007. Ostrava: Marq software s.r.o., 2007. p. 173-176. ISBN: 978-80-86840-34-5. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "ORSAG, F.; DRAHANSKY, M. Institut fur Intelligente Systeme. Informatik Spektrum, 2007, roc. 30, c. 2, s. 109-109. ISSN: 0170-6012. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "POLASKOVA, M.; DRAHANSKY, M. Technicke hodnoceni biometrickych systemu. Brno: 2007. s. 1 (1 s.). Detail"
+        },
+        {
+            "year": "2007",
+            "details": "ROZMAN, J. Mobile Autonomous Robot. Proceedings of the 13th Conference and Competition STUDENT EEICT 2007 Volume 4. Brno: Faculty of Information Technology BUT, 2007. p. 478-482. ISBN: 978-80-214-3410-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "ZBORIL, F.; KOCI, R. Intention Structures Modelling Using Object Oriented Petri Nets. Proceedings of the 7th ISDA. Los Alamitos: IEEE Computer Society, 2007. p. 33-38. ISBN: 0-7695-2976-3. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "ARNOST, V. Simulation of Spatial Sound Propagation. Brno: 2006. 94 p. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "DRAHANSKY, M.; FUNK, W.; NOTZEL, R. Liveness Detection based on Fine Movements of the Fingertip Surface. In IEEE - The West Point Workshop. West Point, New York: 2006. p. 42-47. ISBN: 1-4244-0130-5. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "DRAHANSKY, M.; ORSAG, F. Biometrische kryptograpfische Schlussel. DuD - Datenschutz und Datensicherheit, 2006, roc. 2006, c. 8, s. 501-505. ISSN: 1614-0702. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "DRAHANSKY, M.; ORSAG, F. Smernice a standardy v biometrii. Data Security Management, 2006, roc. 2006, c. 4, s. 26-29. ISSN: 1211-8737. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "JURKA, P. Mining Quantitative Association Rules in Large Relation Tables. NETSS 2006. Ostrava: Marq software s.r.o., 2006. p. 11-14. ISBN: 80-86840-06-9. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "JURKA, P. Using Rough Sets in Data Mining. Proceedings of the 12th Conference and Competition STUDENT EEICT 2006 Volume 4. Brno: Fakulta informacnich technologii VUT v Brne, 2006. s. 475-480. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "MAZAL, Z. Multiagent System for Searching in FOAF Networks. Proceedings of the 12th Conference and Competition STUDENT EEICT 2006 Volume 4. Brno: Faculty of Information Technology BUT, 2006. p. 481-485. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "MAZAL, Z.; ZBORIL, F. Modelling Sensor Networks using Multiagent Systems. NETSS 2006. Ostrava: Marq software s.r.o., 2006. p. 15-18. ISBN: 80-86840-06-9. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "ORSAG, F. Speaker recognition in the biometric security systems. COMPUTING AND INFORMATICS, 2006, vol. 2006, no. 5, p. 369-391. ISSN: 1335-9150. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "ZBORIL, F. A Petri Nets Approach to Rational Agent Development. Proceedings of XXVIIIth International Autumn Colloquium ASIS 2006. Ostrava: Marq software s.r.o., 2006. p. 170-175. ISBN: 80-86840-26-3. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "ZBORIL, F.; ZBORIL, F. Meta-interpretation of the t-Sapi Language. Proceedings of the Sevnth International Scientific Conference ECI 2006. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2006. p. 76-81. ISBN: 80-8073-150-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ARNOST, V.; ORSAG, F. Comparison of Spatial Audio Simulation Systems. Proceedings of 39th Spring International Conference MOSIS'05 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2005. p. 282-287. ISBN: 80-86840-10-7. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "DAO ANH, M.; ZBORIL, F. Partition of Fuzzy Parameters in Neuro-Fuzzy System for Monochrome Images Classification. Proceedings of the NETSS2005. Ostrava: Marq software s.r.o., 2005. p. 56-62. ISBN: 80-86840-07-7. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "DRAHANSKY, M. Biometric Security Systems - Fingerprint Recognition Technology. Brno: 2005. 140 p. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "DRAHANSKY, M. Biometric Security Systems - Fingerprint Recognition Technology. Brno: Publishing house of Brno University of Technology VUTIUM, 2005. 32 p. ISBN: 80-214-2969-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "DRAHANSKY, M. Biometrische Sicherheitssysteme - Fingerabdrucktechnologie. MTK'05. Remagen: 2005. s. 1-25. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "DRAHANSKY, M. Concept of Biometric Security System. Proceedings of the 11th Conference and Competition STUDENT EEICT 2005. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 200-204. ISBN: 80-214-2890-2. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "DRAHANSKY, M.; ORSAG, F. Muze biometrie slouzit ke kryptografii?. Crypto-world, 2005, roc. 7, c. 11, s. 13-18. ISSN: 1801-2140. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ONDRACEK, T. Adaptivni vicevrstve neuronove site. Brno: 2005. 88 s. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ONDRACEK, T.; ZBORIL, F. Constructive Gradient Neural Network. MOSIS '05. Ostrava: Marq software s.r.o., 2005. p. 196-201. ISBN: 80-86840-10-7. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ONDRACEK, T.; ZBORIL, F. System Time Coefficients Identification by Constructive Gradient Neural Network. In ASIS 2005. Ostrava: 2005. p. 29-36. ISBN: 80-86840-16-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ROZMAN, J.; ZBORIL, F. Potential Fields and their use in Robot Navigation. In Proceedings of XXVIIth International Autumn Colloquium ASIS 2005. Ostrava: 2005. p. 221-224. ISBN: 80-86840-16-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ROZMAN, J.; ZBORIL, F. Trilobot Mobile Robot and its Using in Education. In MOSIS '05. Ostrava: 2005. p. 188-195. ISBN: 80-86840-10-7. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ZBORIL, F. Development of a New Simulation Tool for Intelligent Distributed Systems. Proceedings of the International Workshop MOSMIC'2005. Zilina: Faculty of management science and Informatics of Zilina University, 2005. p. 67-72. ISBN: 80-8070-468-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ZBORIL, F. Low Level Language for Agent Behaviour Control. Proceedings of XXVIIth International Autumn Colloquium ASIS 2005. Ostrava: Marq software s.r.o., 2005. p. 138-143. ISBN: 80-86840-16-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ZBORIL, F. Trilobot Robot Control. In MOSMIC'2005. Zilina: Zilina University Publisher, 2005. p. 47-52. ISBN: 80-8070-468-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ZBORIL, F., ZBORIL, F. Inteligentni systemy. In Proceedings of the I&IT '04. Banska Bystrica: Fakulta prirodnych vied Universita Meteja Bela, 2005. s. 20-25. ISBN: 80-8083-017-7. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DRAHANSKY, M. Multibiometric Systems. Proceedings of the 10th Conference and Competition STUDENT EEICT 2004. Brno: Faculty of Information Technology BUT, 2004. p. 1-5. ISBN: 80-214-2635-7. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DRAHANSKY, M. Nutzung biometrischer Daten zur Gewinnung personenbezogener kryptographischer Schlussel. BIOSIG 2004. Darmstadt: Fraunhofer Institute - Graphic Data Processing Institute, 2004. s. 1-30. ISBN: 3-88579-360-1. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DRAHANSKY, M.; BONFIG, K. Biometrie. Sensorpraxis, Band 5. Sensorpraxis, Band 5. Kreuztal: b-Quadrat Verlag, 2004. 153 s. ISBN: 3-933609-02-X. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DRAHANSKY, M.; NOTZEL, R. Sensoren zur Fingerabdruckerkennung. In Sensoren, Signale, Systeme. Messen, Prufen, Automatisieren, Band 5. Kreuztal: b-Quadrat Verlag, 2004. s. 49-60. ISBN: 3-933609-19-4. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DRAHANSKY, M.; ORSAG, F. Biometric Security Systems: Robustness of the Fingerprint and Speech Technologies. BT 2004 - International Workshop on Biometric Technologies. Calgary: 2004. p. 99-103. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DRAHANSKY, M.; ORSAG, F.; ZBORIL, F. Biometrics in Security Applications. Proceedings of 38th International Conference MOSIS '04. Ostrava: Marq software s.r.o., 2004. p. 201-206. ISBN: 80-85988-98-4. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DRAHANSKY, M.; SMOLIK, L. Entropic Numbers from the Fingerprint. Entropic Numbers from the Fingerprint. Londyn: The Royal Statistical Society, 2004. p. 1-20. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DRAHANSKY, M.; SMOLIK, L. Biometricke certifikaty. Data Security Management, 2004, roc. 8, c. 5, s. 20-22. ISSN: 1211-8737. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "HANACEK, P.; ZBORIL, F.; ZBORIL, F. Bezpecna komunikace autonomnich agentu-robotu v nepratelskem prostredi. NETSS2004. Ostrava: Marq software s.r.o., 2004. s. 91-95. ISBN: 80-85988-92-5. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "NOTZEL, R.; DRAHANSKY, M. Ein einfaches Verfahren zur Parameteridentifikation am Beispiel einer Freiformschmiedepresse. In Sensoren, Signale, Systeme, Band 5. Messen, Prufen, Automatisieren. Kreuztal: b-Quadrat Verlag, 2004. s. 71-82. ISBN: 3-933609-19-4. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "ORSAG, F. Biometric Security Systems: Speaker Recognition Technology. Brno: 2004. 109 p. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "ORSAG, F. Biometric Security Systems: Speaker Recognition Technology. Brno: Publishing house of Brno University of Technology VUTIUM, 2004. 32 p. ISBN: 80-214-2771-X. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "ORSAG, F. Vision fur die Zukunft. In Biometrie. Sensorpraxis, Band 5. Kreutztal: b-Quadrat Verlag, 2004. s. 131-145. ISBN: 3-933609-02-X. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "POSPISIL, D.; ZBORIL, F. Building Triangle Strips Using Hopfield Neural Network. Proceedings of the Sixth International Scientific Conference ECI 2004. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2004. p. 394-398. ISBN: 80-8073-150-0. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "ZBORIL, F. Argumentation Base Selection. Proceedings of 38th International Conference MOSIS '04. Ostrava: Marq software s.r.o., 2004. p. 207-212. ISBN: 80-85988-98-4. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "ZBORIL, F. Planovani a komunikace v multiagentnich systemech. Brno: Fakulta informacnich technologii VUT v Brne, 2004. 107 s. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "ZBORIL, F.; ZBORIL, F. Building of Multiagent Models. Proceedings of the ECI2004. Kosice: The University of Technology Kosice, 2004. p. 388-393. ISBN: 80-8073-150. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "DRAHANSKY, M.; ORSAG, F. Biometric Security Systems: Fingerprint and Speech Technology. Proceedings of the 1st Indian International Conference on Artificial Intelligence. Tallahassee: Indian International Conference of Artificial Intelligence, 2003. p. 703-711. ISBN: 0-9727412-0-8. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "DRAHANSKY, M.; ORSAG, F.; SMOLIK, L. Biometric Security Systems. Sbornik Mikulasske kryptobesidky 2003. Praha: ECOM-MONITOR, 2003. p. 1-10. ISBN: 80-903083-3-3. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "HANACEK, P.; RABOVA, Z.; ZBORIL, F. Model okolniho prostredi mobilniho robota. MOSMIC'2003. Zilina: Vydavatelstvi Zilinske univerzity, 2003. s. 25-30. ISBN: 80-8070-139-3. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "ORSAG, F.; ZBORIL, F. Endpoint Detection in the Continuous Speech Using the Neural Networks. Proceedings of 37th International Conference MOSIS 03 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2003. p. 280-286. ISBN: 80-85988-86-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "ZBORIL, F. Information Sharing and Distribution in Multiagent Systems. Proceedings of 37th International Conference MOSIS '03. Ostrava: Marq software s.r.o., 2003. p. 287-292. ISBN: 80-85988-86-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "ZBORIL, F. Risk Analysis through Multiagent Systems. Proceedings of International Carpathian Control Conference. Kosice: The University of Technology Kosice, 2003. p. 845-848. ISBN: 80-7099-509-2. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "ZBORIL, F.; ZBORIL, F. Plan Reconsideration in Hybrid Agent System. Proceedings of XXVth International Autumn Colloquium ASIS 2003. Ostrava: Marq software s.r.o., 2003. p. 315-320. ISBN: 80-85988-88-7. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "ARNOST, V. Comparison of Interpolation Algorithms in Real-Time Sound Processing. Proceedings of the 3rd Conference of Czech Student AES Section on Audio Technologies and Processing. Brno: 2002. s. 60-66. ISBN: 80-214-2128-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "DRAHANSKY, M. Fingerprint Recognition and Smart Cards. Proceedings of 8th EEICT conference. Brno: Faculty of Information Technology BUT, 2002. p. 436-440. ISBN: 80-214-2116-9. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "DRAHANSKY, M.; ORSAG, F. Fingerprints and Speech Recognition as parts of the biometry. Proceedings of 36th International Conference MOSIS '02. Ostrava: Marq software s.r.o., 2002. p. 177-183. ISBN: 80-85988-71-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "ORSAG, F. Some basic techniques of the speech recognition. Proceedings of 8th Conference STUDENT EEICT 2002. vol. 3. Brno: Faculty of Electrical Engineering and Communication BUT, 2002. p. 90-94. ISBN: 80-214-2116. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "ZBORIL, F. Simulation Languages for Agent Systems. Proceedings of the Fifth International Scientific Conference ECI 2002. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2002. p. 73-77. ISBN: 80-7099-879-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "ZBORIL, F., KOTASEK, Z., MIKA, D., STRNADEL, J. The Identification of Feedback Loops in RTL Structures. In Proceedings of The fifth International Scientific Conference Electronic Computers and Informatics 2002. Edition 55. Kosice: The University of Technology Kosice, 2002. p. 142-147. ISBN: 80-7099-879-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "ZBORIL, F.; ZBORIL, F. Formal Models of Agent Systems. Proceedings of 36th International Conference MOSIS '02. Vol. I. Ostrava: Marq software s.r.o., 2002. p. 163-168. ISBN: 80-85988-71-2. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "ARNOST, V. Vypocet diskretni konvoluce na procesoru EMU10K1. In: Proceedings of the 2nd Conference of Czech Student AES Section on Audio Technologies and Processing. Praha: 2001. s. 17-24. ISBN: 80-214-1950-4. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "DAO ANH, M.; ZBORIL, F. Tuning of Fuzzy Neural Network Classifier. Proceedings of the 35th Spring International Conference MOSIS'01. Ostrava: Marq software s.r.o., 2001. p. 201-206. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "KOTASEK, Z.; RUZICKA, R.; STRNADEL, J.; ZBORIL, F. Two Level Testability Analysis System. Proceedings of the 35th Spring International Conference MOSIS'01. Ostrava: Marq software s.r.o., 2001. p. 433-440. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "ORSAG, F. Rozpoznavani samohlasek. Proceedings of 7th Conference Student FEI 2001. Brno: Vysoke uceni technicke v Brne, 2001. s. 298-300. ISBN: 80-214-1859-1. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "ZBORIL, F., ZBORIL, F. The Role of Agents in Simulation Models. In Proceedings of XXIIIrd International Autumn Colloquium ASIS 2001. Ostrava: MARQ, 2001. p. 111-116. ISBN: 80-85988-61-5. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "ARNOST, V. Discrete Simulation of Sound Wave Propagation. MOSIS 2000 Proceedings. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 241-246. ISBN: 80-85988-44-5. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "ARNOST, V. Pocitacova simulace sireni zvuku. Proceedings of the 1st Conference of Czech Student AES Section on Audio Technologies and Processing. Brno: Fakulta elektrotechniky a informatiky VUT, 2000. s. 76-79. ISBN: 80-214-1602-5. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "DAO ANH, M. Optimal Linear Neural Associative Memory Using for Pattern Association. 34th Spring International Conference Modelling and Simulation of Systems MOSIS 2000. Ostrava: Marq software s.r.o., 2000. p. 71-74. ISBN: 80-85988-44-5. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "DOBES, M. Rozpoznavani obrazu se zamerenim na identifikaci osob dle otisku prstu. Brno: Fakulta elektrotechniky a informatiky VUT, 2000. 90 s. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "GREBENICEK, F. Constructing Hierarchical Neural Nets Using Sparse Distributed Memory. ASIS 2000 Proceedings of the Colloquium. Sv. Hostyn, Bystrice pod Hostynem: Marq software s.r.o., 2000. p. 359-364. ISBN: 80-85988-51-8. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "GREBENICEK, F. Neural Nets as Associative Memories -- Sparse Distributed Memory. Brno: Faculty of Electrical Engineering and Computer Science BUT, 2000. 64 p. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "GREBENICEK, F. Sparse Distributed Memory -- Pattern Data Analysis. MOSIS 2000 Proceedings. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 165-170. ISBN: 80-85988-44-5. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "ZBORIL, F. Neural Network for Text Associations. Proceedings of XXIInd International Colloquium ASIS 2000. Ostrava: Marq software s.r.o., 2000. p. 145-150. ISBN: 80-85988-51-8. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "ZBORIL, F. VHDL RT Level Parser/Analyser of a Source Code. Proceedings of the fourth international scientific conference Electronic Computers & Informatics'2000. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2000. p. 150-155. ISBN: 80-88922-25-9. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "ZBORIL, F.; ZBORIL, F. The use of the RCE Neural Network in a Pattern Recognition. 34th Spring International Conference Modelling and Simulation of Systems MOSIS 2000. Ostrava: Marq software s.r.o., 2000. p. 65-70. ISBN: 80-85988-44-5. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "ARNOST, V. Pouziti Wave-Table syntezy. Sbornik praci studentu a doktorandu FEI VUT. Sbornik praci studentu a doktorandu FEI VUT. Brno: Faculty of Electrical Engineering and Computer Science BUT, 1999. p. 71-72. ISBN: 80-214-1155-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "ARNOST, V. Software Musical Synthesizer. MOSIS '99 Proceedings. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 23-28. ISBN: 80-85988-33-X. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "GREBENICEK, F. Educational Models of Neural Nets. IWCIT'99. Ostrava: unknown, 1999. p. 92-97. ISBN: 80-7078-679-5. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "GREBENICEK, F. Educational Models of Selected Neural Net Types. MOSIS'99 Proceedings. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 77-83. ISBN: 80-85988-33-X. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "GREBENICEK, F. Self-Organized Sparse Distributed Memory -- an Application. ASIS '99. Krnov: Marq software s.r.o., 1999. p. 39-44. ISBN: 80-85988-41-0. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "GREBENICEK, F. Self-Organizing Sparse Distributed Memory as a Predictive Memory. Nostradamus '99. Zlin: unknown, 1999. p. 17-22. ISBN: 80-214-1424-3. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "GREBENICEK, F. Konstrukce malych levnych robotu. In Brno: Fakulta elektrotechniky a informatiky VUT, 1999. s. 81-82. ISBN: 80-214-1155-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KOTASEK, Z.; RUZICKA, R.; ZBORIL, F. Partial Scan Methodology in VHDL Environment. CEI'99. Herlany: unknown, 1999. p. 146-151. ISBN: 80-88922-05-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KOTASEK, Z.; ZBORIL, F. Neuronove site jako asociativni pameti. I&IT'99. Banska Bystrica: neznama, 1999. s. 63-68. ISBN: 80-8055-335-1. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KOTASEK, Z.; ZBORIL, F.; HLAVICKA, J. Partial Scan Methodology for RTL Designs. Compendium of Papers ETW'99. Constance: unknown, 1999. 2 p. ISBN: 0-7695-0390-X. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "ONDRACEK, T. Univerzalni BPN neuronova sit pro urceni casovych koeficientu dynamickych systemu. In Sbornik praci studentu a doktorandu. Brno: Fakulta elektrotechniky a informatiky VUT, 1999. s. 91-92. ISBN: 80-214-1155-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "ONDRACEK, T.; ZBORIL, F. An Identification of Transfer Function Coefficients of Systems with Time Delay Using a Neural Network. Proceedings of the ASIS'99. Krnov: Marq software s.r.o., 1999. p. 203-208. ISBN: 80-85988-41-0. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "ONDRACEK, T.; ZBORIL, F. Identification of Time Coefficients of Systems using Neural Network. Proceedings of the MOSIS'99. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 93-98. ISBN: 80-85988-33-X. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "ZBORIL, F. Identifikace systemu neuronovou siti. MOSMIC'99. Sulov: neznama, 1999. s. 165-170. ISBN: 80-7100-635-1. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "ZBORIL, F. Neural Associative Memories. Proceedings of the MOSIS'99. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 131-136. ISBN: 80-85988-33-X. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "ARNOST, V. Programovy syntetizer hudebnich nastroju. Brno: Ustav informatiky a vypocetni techniky FEI VUT, 1998. 52 s. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "GREBENICEK, F. Computer Aided Cytological Examination. ECI'98 Proceedings. Kosice - Herlany: unknown, 1998. p. 222-227. ISBN: 80-88786-94-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "GREBENICEK, F. Data coding for SDM. Mosis'98 Proceedings. Hostyn: Marq software s.r.o., 1998. p. 149-154. ISBN: 80-85988-23-2. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "GREBENICEK, F. Neural Net Applications in Image Processing. Asis'98 Proceedings. Krnov: Marq software s.r.o., 1998. p. 27-32. ISBN: 80-85988-27-5. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KOTASEK, Z.; TOMISEK, P.; ZBORIL, F. Testing PCBs Based on Boundary Scan and EDIF Data Analysis. Proceedings of the DDECS'98. Szczyrk: unknown, 1998. p. 95-101. ISBN: 83-908409-6-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KOTASEK, Z.; ZBORIL, F. Nonstandard Automatic Test Pattern Generation Based on Neural Network Theory. Proceedings of the ECI'98. Herlany: Slovak Academy of Science, 1998. p. 75-80. ISBN: 80-88786-94-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "ONDRACEK, T. Klasifikace snimku s vyuzitim neuronove site. Sbornik praci studentu a doktorandu FEI VUT. Sbornik praci studentu a doktorandu FEI VUT. Brno: Fakulta elektrotechniky a informatiky VUT, 1998. s. 55-56. ISBN: 80-214-1141-4. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "ZBORIL, F. Analysis of Neural Networks Applications in Heterogeneous Models. Proceedings of the ASIS'98. Krnov: Marq software s.r.o., 1998. p. 21-26. ISBN: 80-85988-26-7. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "ZBORIL, F. Sparse Distributed Memory and Restricted Coulomb Energy Classifier. Proceedings of the MOSIS'98. Sv. Hostyn - Bystrice pod Hostynem: Marq software s.r.o., 1998. p. 171-176. ISBN: 80-85988-23-2. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "CIBULKA, J. Sparse Distributed Memory: An Analysis. ASIS 1997. Krnov: Marq software s.r.o., 1997. p. 121-126. ISBN: 80-85988-20-8. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HLAVICKA, J.; KOTASEK, Z.; ZBORIL, F. Test Overhead Reduction through RT Level Testability Analysis. Proceedings of the IEEE ETW 1997. Cagliary: unknown, 1997. p. 43-47. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOTASEK, Z.; ZBORIL, F. RT Level Testability Analysis In PROLOG Enviroment. Proceedings of the DDECS'97. Ostrava: Marq software s.r.o., 1997. p. 47-52. ISBN: 80-85988-19-4. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOTASEK, Z.; ZBORIL, F. RT Level Testability Analysis to Reduce Test Application Time. Proceedings of the EUROMICRO 97. Budapest: unknown, 1997. p. 104-111. ISBN: 0-8186-8129-2. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "NEMCOVA, A.; ZBORIL, F. Multispectral Image Analysis by Neural Network. Proceedings of the MOSIS '97. Hradec nad Moravici: Marq software s.r.o., 1997. p. 311-315. ISBN: 80-85988-18-6. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "ZBORIL, F. An Application of the Sparse Distributed Memory. Proceedings of the ASIS 1997. Krnov: Marq software s.r.o., 1997. p. 127-132. ISBN: 80-85988-20-8. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "KUNOVSKY, J.; MIKULASEK, K.; ZBORIL, F. Extremly Exact and Fast Solutions of PDE' in a Transputer Network. EUROSIM'96. Amsterdam: EUROSIM-FRANCOSIM-ARGESIM, 1996. p. 245-252. ISBN: 0-444-82559-2. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "KUNOVSKY, J.; PAPEZIK, M.; ZBORIL, F. Exact and Fast Computations. Proceedings of the Workshop'96. Brno: 1996. p. 223-224. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "ZBORIL, F. Hard Disc Drive Head Presure Distribution Problem. Proceedings of the MOSIS'96. Krnov: 1996. p. 159-164. ISBN: 80-85988-03-8. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "ZBORIL, F. Rotatory Pump Dynamic Problem. Proceedings of the ASS 1996. Zabreh na Morave: 1996. p. 89-94. ISBN: 80-85988-10-0. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "ZBORIL, F. Solving Partial Differential Equations. Proceedings of the ECI'96. Kosice: 1996. p. 288-293. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "DVORAK, V.; KUNOVSKY, J.; SCHWARZ, J.; ZBORIL, F. Problem Solving with Parallel Processing. Proceedings of the Workshop'95. Praha: 1995. p. 215-216. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "KUNOVSKY, J.; MIKULASEK, K.; ZBORIL, F. Parallel solutions of PDE. Proceedings of the ESM'95. Praha: 1995. p. 649-652. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "KUNOVSKY, J.; NEMEC, V.; ZBORIL, F. Simulation Language TKSL/TRANSP and Partial Differential Equations. Poster Book of the EUROSIM'95. Vienna: EUROSIM-FRANCOSIM-ARGESIM, 1995. 75 p. ISBN: 3-901608-03-6. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "KUNOVSKY, J.; ZBORIL, F. Reseni stacionarnich poli metodou primek. Sbornik CS'95. Ostrava: 1995. s. 115-121. ISBN: 80-901751-7-1. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "ZBORIL, F. Neuronove site jako asociativni pameti. Sbornik ASS 1995. Zabreh na Morave: 1995. s. 5-15. ISBN: 80-901751-1-2. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "KUNOVSKY, J.; MIKULASEK, K.; ZBORIL, F. Modern Taylor Series Method and Partial Differential Equations. Proceedings of the CISS 94. Zurich: unknown, 1994. p. 134-136. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "KUNOVSKY, J.; STEFAN, J.; ZBORIL, F. K problematice reseni PDR. Proceedings of the VPSM'94. Brno: Marq software s.r.o., 1994. s. 139-144. ISBN: 80-901229-9-X. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "KUNOVSKY, J.; STRAKA, L.; ZBORIL, F. Exact and Fast Numerical Solutions of PDE's. Proceedings of the ECI 94. Kosice-Herlany: unknown, 1994. p. 84-89. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "ZBORIL, F. Reseni parcialnich diferencialnich rovnic metodou primek. Proceedings of the MOSIS'94. Zabreh na Morave: Marq software s.r.o., 1994. s. 287-295. ISBN: 80-901229-8-1. Detail"
+        },
+        {
+            "year": "1986",
+            "details": "ZBORIL, F.; KRESLIKOVA, J. Programovaci jazyky. Brno: 1986. p. 1-161. Detail"
+        },
+        {
+            "year": "1972",
+            "details": "ZBORIL, F. Prehled modernich metod reseni parcialnich diferencialnich rovnic. Simulace dynamickych systemu. Ostrava: 1972. s. 305-318. Detail"
+        },
+        {
+            "year": "1970",
+            "details": "ZBORIL, F. Tranzistorove klice. MEDA-8. Praha: 1970. s. 28-35. Detail"
+        },
+        {
+            "details": "GREBENICEK, F. Vyuziti neuronovych asociativnich pameti pri zpracovani obrazu. In Sbornik praci studentu a doktorandu FEI VUT. Brno: FEI VUT Brno, 2 s. ISBN: 80-214-114. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2020",
+            "title": "AnPaSim v1",
+            "authors": "AnPaSim v1 , software, 2020 : HRUBY, M."
+        },
+        {
+            "year": "2014",
+            "title": "ComputerAsTherapy framework 1.1.0",
+            "authors": "ComputerAsTherapy framework 1.1.0 , software, 2014 : FIALA, J.; KOCI, R.; VEJTASA, O.; MECA, V.; TUMA, J."
+        },
+        {
+            "year": "2013",
+            "title": "PNtalk 2.0",
+            "authors": "PNtalk 2.0 , software, 2013 : KOCI, R."
+        },
+        {
+            "year": "2012",
+            "title": "GDEfALLL: Graphical development environment for ALLL language",
+            "authors": "GDEfALLL: Graphical development environment for ALLL language , software, 2012 : HORACEK, J.; ZBORIL, F.; ZAK, J."
+        },
+        {
+            "year": "2010",
+            "title": "ContextGraph: Simulation tool for Hierarchical Model of Trust In Contexts",
+            "authors": "ContextGraph: Simulation tool for Hierarchical Model of Trust In Contexts , software, 2010 : SAMEK, J.; ZBORIL, F.; MALACKA, O."
+        },
+        {
+            "year": "2010",
+            "title": "QS_PN_Simulation tool",
+            "authors": "QS_PN_Simulation tool , software, 2010 : DROZDOVA, M.; ZBORIL, F."
+        },
+        {
+            "year": "2010",
+            "title": "T-Mass(X): a Tool for Multi-agent Systems Simulation",
+            "authors": "T-Mass(X): a Tool for Multi-agent Systems Simulation , software, 2010 : ZBORIL, F.; HORACEK, J.; SAMEK, J."
+        },
+        {
+            "year": "2010",
+            "title": "WSageNt: Multiagent Platform for Wireless Sensor Networks",
+            "authors": "WSageNt: Multiagent Platform for Wireless Sensor Networks , software, 2010 : HORACEK, J.; ZBORIL, F."
+        },
+        {
+            "year": "2008",
+            "title": "Waste to Energy (W2E)",
+            "authors": "Waste to Energy (W2E) , software, 2008 : FIALA, J.; SKYDANEK, L.; KOCI, R.; PAVLAS, M.; TOUS, M."
+        },
+        {
+            "year": "2006",
+            "title": "MagicGel",
+            "authors": "MagicGel , software, 2006 : DRAHANSKY, M.; ORSAG, F."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2003",
+            "title": "Asemblery",
+            "authors": ", audiovisual work, 2003 : ZBORIL, F."
+        },
+        {
+            "year": "2002",
+            "title": "Neuronove site",
+            "authors": ", audiovisual work, 2002 : ZBORIL, F."
+        },
+        {
+            "year": "1998",
+            "title": "Aplikace neuronovych asociativnich pameti",
+            "authors": ", research report, 1998 : DAO ANH, M.; GREBENICEK, F.; ONDRACEK, T.; ZBORIL, F."
+        },
+        {
+            "year": "1997",
+            "title": "Neuronove asociativni pameti",
+            "authors": ", research report, 1997 : ZBORIL, F.; GREBENICEK, F."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2007",
+            "title": "Image stabilization in a video-stream",
+            "authors": "Image stabilization in a video-stream , report, 2007 : DRAHANSKY, M.; VASICEK, Z."
+        },
+        {
+            "year": "2007",
+            "title": "Methods for Quality Determination of Papillary Lines in Fingerprints",
+            "authors": "Methods for Quality Determination of Papillary Lines in Fingerprints , presentation, poster, 2007 : DRAHANSKY, M."
+        },
+        {
+            "year": "2007",
+            "title": "Prasentation der Forschungsgruppe Biometrie und BUSLab",
+            "authors": "Prasentation der Forschungsgruppe Biometrie und BUSLab , presentation, poster, 2007 : ORSAG, F.; DRAHANSKY, M."
+        },
+        {
+            "year": "2007",
+            "title": "Prehled biometrickych systemu a testovani jejich spolehlivosti",
+            "authors": "Prehled biometrickych systemu a testovani jejich spolehlivosti , presentation, poster, 2007 : DRAHANSKY, M."
+        },
+        {
+            "year": "2007",
+            "title": "Testen der Qualitat von Fingerabdruckbildern",
+            "authors": "Testen der Qualitat von Fingerabdruckbildern , presentation, poster, 2007 : DRAHANSKY, M."
+        },
+        {
+            "year": "2007",
+            "title": "Testovani snimacu firmy Suprema",
+            "authors": "Testovani snimacu firmy Suprema , report, 2007 : DRAHANSKY, M.; ORSAG, F.; MALINKA, K."
+        },
+        {
+            "year": "2005",
+            "title": "Improving the Accuracy of a Hydraulic Forging Press using a Real Time Model",
+            "authors": "Improving the Accuracy of a Hydraulic Forging Press using a Real Time Model , lecture, 2005 : DRAHANSKY, M."
+        },
+        {
+            "year": "2004",
+            "title": "BioFinger - Evaluierung biometrischer Systeme (Fingerabdrucktechnologien)",
+            "authors": "BioFinger - Evaluierung biometrischer Systeme (Fingerabdrucktechnologien) , report, 2004 : ARNOLD, M.; BUSCH, C.; DRAHANSKY, M.; IHMOR, H.; REINEFELD, T.; ZWIESELE, A."
+        },
+        {
+            "year": "2004",
+            "title": "Fundamentals of Artificial Intelligence",
+            "authors": "Fundamentals of Artificial Intelligence , presentation, poster, 2004 : ZBORIL, F."
+        },
+        {
+            "year": "2004",
+            "title": "Zaklady umele inteligence",
+            "authors": "Zaklady umele inteligence , presentation, poster, 2004 : ZBORIL, F."
+        },
+        {
+            "year": "2003",
+            "title": "Assembly languages",
+            "authors": "Assembly languages , presentation, poster, 2003 : ZBORIL, F."
+        },
+        {
+            "year": "2003",
+            "title": "Entwurf eines biometrischen Sicherheitssystems",
+            "authors": "Entwurf eines biometrischen Sicherheitssystems , report, 2003 : DRAHANSKY, M.; ORSAG, F.; SMOLIK, L."
+        },
+        {
+            "year": "2003",
+            "title": "Strojove orientovane jazyky",
+            "authors": "Strojove orientovane jazyky , presentation, poster, 2003 : ZBORIL, F."
+        },
+        {
+            "year": "2002",
+            "title": "Evaluierung biometrischer Systeme - Fingerabdrucktechnologie",
+            "authors": "Evaluierung biometrischer Systeme - Fingerabdrucktechnologie , twin study, 2002 : DRAHANSKY, M."
+        },
+        {
+            "year": "2002",
+            "title": "Umela inteligence",
+            "authors": "Umela inteligence , presentation, poster, 2002 : ZBORIL, F."
+        }
+    ]
+}

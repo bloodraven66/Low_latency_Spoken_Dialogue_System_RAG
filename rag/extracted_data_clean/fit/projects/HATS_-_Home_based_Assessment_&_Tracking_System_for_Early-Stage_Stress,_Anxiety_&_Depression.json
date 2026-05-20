@@ -1,0 +1,33 @@
+{
+    "project": "HATS - Home based Assessment & Tracking System for Early-Stage Stress, Anxiety & Depression",
+    "title": "HATS - domaci system hodnoceni a sledovani pro rany stres, uzkost a deprese",
+    "metadata": {
+        "project_period": "1. 3. 2025 \u2013 28. 2. 2026",
+        "project_type": "grant",
+        "code": "TQ11000003, TQ11000003/1_04",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "4. verejna soutez programu SIGMA - DILCI CIL 1: PODPORA AKTIVIT \u201ePROOF OF CONCEPT\u201d VE VYZKUMNYCH ORGANIZACICH"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "HATS - Home based Assessment & Tracking System for Early-Stage Stress, Anxiety & Depression"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Early Stage, Assessment, Tracking, Stress, Anxiety, Depression, Mobile App, Web Interface, Database, Multiple Modalities, Smart Phone, Smart Watch, Digital Pen, EEG Headset, Home"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Objective 1 - Testing the proposed system: The primary goal is to enable people to easily assess, track, and manage their mental health information from the comfort of their home using consumer technologies designed for self-monitoring. There are several modalities that can detect abnormalities based on slow and subtle changes in behavior, demeanor, body language, physical features (e.g., face, speech, text, handwriting), or in physiological and neurophysiological parameters that are affected by stress, anxiety, or depression in the early stages. The Health Assessment and Tracking System (HATS) uses these commonly available consumer modalities: 1. Smartphone and tablet: Access to visual data (for facial analysis), speech data (for speech analysis), and text data (for text analysis). 2. Digital pen. 3. Smartwatch: Allows recording of various physiological parameters (including heart rate variability, oxygen saturation, sleep monitoring). 4. EEG Kit: Allows the user to capture electroencephalograph (EEG) signals. HATS uses an app to collect data from these modalities, which then analyzes the data for the presence of early signs and symptoms of stress, anxiety, and depression. The first goal is to test HATS on a minimum of 100 subjects and then modify the system based on their feedback. Modifications may include technical improvements, increased usability, improved accessibility, greater scalability, and user interface improvements. Objective 2 - Preparation of a business plan: Based on Objective 1, an implementation plan and business plan will be developed. These plans will include a detailed description of the problem and proposed solution, market size information, product differentiation from competitors, competitor analysis, revenue model, marketing and sales strategy, identification of risks and potential problems, and financial projections. The business plan will include a detailed profile of the potential customer, including their problems and expected benefits, and a description of the product features that meet these needs. The aim is to create a value proposition precisely tailored to the planned product. Data from customer surveys, needs discovery surveys, search trend analysis and forum discussions will be collected to prepare the business plan. In addition to the above, the business plan will include a perceptual mapping of the product in terms of innovation, credibility, availability compared to conventional approaches. The approximate number of customers will be calculated based on a PESTEL (political, economic, social, technological, environmental, legal) analysis and key success factors. Product development and delivery plans will be prepared with complete financial projections including investments, expected revenues and profitability analysis."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Malik Aamir Saeed, prof., Ph.D. (DCSY) \u2013 research leader"
+        }
+    }
+}

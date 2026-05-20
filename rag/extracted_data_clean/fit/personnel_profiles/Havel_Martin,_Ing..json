@@ -1,0 +1,82 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "ihavelm@fit.vut.cz",
+            "room": "C220 Office",
+            "orcid_id": "0009-0008-3000-6514",
+            "scopus_author_id": "57812666000"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Formal Model Research Group",
+            "role": "Ph.D. student"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "By agreement through ihavelm@fit.vut.cz",
+        "lectured_courses": [
+            {
+                "abbreviation": "GAL",
+                "title": "Graph Algorithms",
+                "details": "Lecture, Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "GALe",
+                "title": "Graph Algorithms (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IFJ",
+                "title": "Formal Languages and Compilers",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IFJe",
+                "title": "Formal Languages and Compilers (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IPPe",
+                "title": "Principles of Programming Languages (in English)",
+                "details": "Lecture,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "VYPa",
+                "title": "Compiler Construction (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "HAVEL, M.; KRIVKA, Z.; MEDUNA, A. Scattered Context Grammars with One Non-Context-Free Production and Six Nonterminals Are Computationally Complete. In Descriptional Complexity of Formal Systems. Lecture Notes in Computer Science. Loughborough: Springer Verlag, 2025. no. 7, p. 123-136. ISBN: 978-3-031-97099-3."
+        },
+        {
+            "year": "2024",
+            "citation": "HAVEL, M.; KRIVKA, Z.; MEDUNA, A. How to Demonstrate Metalinearness and Regularity by Tree-Restricted General Grammars. In Proceedings 14th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Gottingen: School of Computer Science and Engineering, University of New South Wales, 2024. no. 09, p. 86-99. ISSN: 2075-2180."
+        },
+        {
+            "year": "2022",
+            "citation": "HAVEL, M.; MEDUNA, A. On Elimination of Erasing Rules from E0S Grammars. Computer Science Journal of Moldova, 2022, vol. 30, no. 2, p. 135-147. ISSN: 1561-4042."
+        }
+    ],
+    "name": "Havel Martin, Ing."
+}

@@ -1,0 +1,33 @@
+{
+    "project": "National Center for Artificial Intelligence",
+    "title": "Narodni centrum umele inteligence",
+    "metadata": {
+        "project_period": "1. 1. 2026 \u2013 31. 12. 2031",
+        "project_type": "grant",
+        "code": "TQ28000003",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "13. verejna soutez SIGMA \u2013 Dilci cil 5: Centra aplikovaneho vyzkumu"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "National Center for Artificial Intelligence"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Machine Learning; Multimodal AI; Cybersecurity; Autonomous Systems; HPC; Digital Twins; Data-Driven Methods; Biomedical AI; Smart Manufacturing; Construction Technology; Trustworthy AI; Ethical AI"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project establishes the National Center for Artificial Intelligence (NCUI) as an applied research platform with national and European impact. A consortium of 6 academic, 30+ industrial and state partners will implement 9 interdisciplinary work packages to achieve 5 goals: 1) build NCUI with effective governance, 2) integrate AI subdisciplines with application research, 3) strengthen academia-industry links, 4) consolidate national research capacity, and 5) promote science-for-policy with ethical and social focus. The outcome will be a stronger Czech AI ecosystem, knowledge transfer, and development of trustworthy AI."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Cernocky Jan, prof. Dr. Ing. (DCGM) \u2013 research leader Cadik Martin, prof. Ing., Ph.D. (DCGM)"
+        }
+    }
+}

@@ -1,0 +1,460 @@
+{
+  "dataset": "FIT_projects_structured_v1",
+  "num_questions": 50,
+  "seed": 1337,
+  "source": "extracted_data_clean/fit/projects",
+  "output_file": "FIT_RAG_Benchmark/projects/structured.json",
+  "description": "Structured short-answer project benchmark with funding, program, period, and code questions.",
+  "items": [
+    {
+      "id": "projects_struct_001",
+      "question": "Under what program is AISEE - AI Softwarovy expertni vyhledavac pro videa a fotografie listed?",
+      "expected_answer": "Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019–2025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS)",
+      "answer_field": "metadata.program",
+      "project": "AISEE - AI Softwarovy expertni vyhledavac pro videa a fotografie",
+      "type": "project_program",
+      "actual_answer": "Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019–2025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS)"
+    },
+    {
+      "id": "projects_struct_002",
+      "question": "Is Ministry of Education, Youth and Sports funding this project Analyza bezpecnostnich hrozeb s ohledem na ochranu soukromi?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Analyza bezpecnostnich hrozeb s ohledem na ochranu soukromi",
+      "type": "agency_funding_no",
+      "actual_answer": "Technology Agency of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_003",
+      "question": "What agency funds project Analyza bezpecnostnich hrozeb s ohledem na ochranu soukromi?",
+      "expected_answer": "Technology Agency of the Czech Republic",
+      "answer_field": "metadata.agency",
+      "project": "Analyza bezpecnostnich hrozeb s ohledem na ochranu soukromi",
+      "type": "who_funding",
+      "actual_answer": "Technology Agency of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_004",
+      "question": "Is Ministry of Culture Czech Republic the funder of Analyza sifrovaneho provozu pomoci sitovych toku?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Analyza sifrovaneho provozu pomoci sitovych toku",
+      "type": "agency_funding_no",
+      "actual_answer": "Ministry of the Interior of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_005",
+      "question": "What agency funds project Answer to EC Tender CNECT/LUX/2022/OP/0030 - LANGUAGE TECHNOLOGY SOLUTIONS Lot 2?",
+      "expected_answer": "European Union",
+      "answer_field": "metadata.agency",
+      "project": "Answer to EC Tender CNECT/LUX/2022/OP/0030 - LANGUAGE TECHNOLOGY SOLUTIONS Lot 2",
+      "type": "who_funding",
+      "actual_answer": "European Union"
+    },
+    {
+      "id": "projects_struct_006",
+      "question": "Does funding for Bezpecne dopravni systemy s pokrocilou technologii come from Ministry of the Interior of the Czech Republic?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Bezpecne dopravni systemy s pokrocilou technologii",
+      "type": "agency_funding_yes",
+      "actual_answer": "Ministry of the Interior of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_007",
+      "question": "Does funding for Concise Models for Efficient Reasoning come from Czech Science Foundation?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Concise Models for Efficient Reasoning",
+      "type": "agency_funding_yes",
+      "actual_answer": "Czech Science Foundation"
+    },
+    {
+      "id": "projects_struct_008",
+      "question": "Is this Concise Models for Efficient Reasoning funded by Czech Science Foundation?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Concise Models for Efficient Reasoning",
+      "type": "funded_by_yes",
+      "actual_answer": "Czech Science Foundation"
+    },
+    {
+      "id": "projects_struct_009",
+      "question": "Does funding for Distributed Multi-Sensor System For Human Safety and Health (DistriMuSe) come from Ministry of Culture Czech Republic?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Distributed Multi-Sensor System For Human Safety and Health (DistriMuSe)",
+      "type": "agency_funding_no",
+      "actual_answer": "European Union"
+    },
+    {
+      "id": "projects_struct_010",
+      "question": "Is this EvoML-EDA: Synergy of Evolutionary Algorithms and Advanced Machine Learning Algorithms for Digital Circuit Design funded by Czech Science Foundation?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "EvoML-EDA: Synergy of Evolutionary Algorithms and Advanced Machine Learning Algorithms for Digital Circuit Design",
+      "type": "funded_by_yes",
+      "actual_answer": "Czech Science Foundation"
+    },
+    {
+      "id": "projects_struct_011",
+      "question": "What is the code of project EvoML-EDA: Synergy of Evolutionary Algorithms and Advanced Machine Learning Algorithms for Digital Circuit Design?",
+      "expected_answer": "26-22525M",
+      "answer_field": "metadata.code",
+      "project": "EvoML-EDA: Synergy of Evolutionary Algorithms and Advanced Machine Learning Algorithms for Digital Circuit Design",
+      "type": "project_code",
+      "actual_answer": "26-22525M"
+    },
+    {
+      "id": "projects_struct_012",
+      "question": "What is the project period of EvoML-EDA: Synergy of Evolutionary Algorithms and Advanced Machine Learning Algorithms for Digital Circuit Design?",
+      "expected_answer": "1. 1. 2026 – 31. 12. 2030",
+      "answer_field": "metadata.project_period",
+      "project": "EvoML-EDA: Synergy of Evolutionary Algorithms and Advanced Machine Learning Algorithms for Digital Circuit Design",
+      "type": "project_period",
+      "actual_answer": "1. 1. 2026 – 31. 12. 2030"
+    },
+    {
+      "id": "projects_struct_013",
+      "question": "Is Ministry of Culture Czech Republic funding this project FactDeMice - Overovani faktu na zaklade textovych dokladu s vyuzitim prekladu konzistentniho s fakty, detekci falesnych recenzi a automaticke extrakce zavadejicich tvrzeni?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "FactDeMice - Overovani faktu na zaklade textovych dokladu s vyuzitim prekladu konzistentniho s fakty, detekci falesnych recenzi a automaticke extrakce zavadejicich tvrzeni",
+      "type": "agency_funding_no",
+      "actual_answer": "Technology Agency of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_014",
+      "question": "Does funding for Hardware-Aware Machine Learning: From Automated Design to Innovative and Explainable Solutions come from Czech Science Foundation?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Hardware-Aware Machine Learning: From Automated Design to Innovative and Explainable Solutions",
+      "type": "agency_funding_yes",
+      "actual_answer": "Czech Science Foundation"
+    },
+    {
+      "id": "projects_struct_015",
+      "question": "Is this Hardware-Aware Machine Learning: From Automated Design to Innovative and Explainable Solutions funded by Czech Science Foundation?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Hardware-Aware Machine Learning: From Automated Design to Innovative and Explainable Solutions",
+      "type": "funded_by_yes",
+      "actual_answer": "Czech Science Foundation"
+    },
+    {
+      "id": "projects_struct_016",
+      "question": "What program is this project High Performance, Safe, Secure, Open-Source Leveraged RISC-V Domain-Specific Ecosystems part of?",
+      "expected_answer": "HORIZON EUROPE",
+      "answer_field": "metadata.program",
+      "project": "High Performance, Safe, Secure, Open-Source Leveraged RISC-V Domain-Specific Ecosystems",
+      "type": "project_program",
+      "actual_answer": "HORIZON EUROPE"
+    },
+    {
+      "id": "projects_struct_017",
+      "question": "Is this Japan and EU Semiconductors: Mutual Innovation & Excellence funded by Ministry of Industry and Trade of the Czech Republic?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Japan and EU Semiconductors: Mutual Innovation & Excellence",
+      "type": "funded_by_no",
+      "actual_answer": "Ministry of Education, Youth and Sports"
+    },
+    {
+      "id": "projects_struct_018",
+      "question": "Is this Jazykova pamet regionu Ceske republiky. Metody strojoveho uceni pro uchovani, dokumentaci a prezentaci nareci ceskeho jazyka funded by Czech Science Foundation?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Jazykova pamet regionu Ceske republiky. Metody strojoveho uceni pro uchovani, dokumentaci a prezentaci nareci ceskeho jazyka",
+      "type": "funded_by_no",
+      "actual_answer": "Ministry of Culture Czech Republic"
+    },
+    {
+      "id": "projects_struct_019",
+      "question": "Is project Jazykoveda, umela inteligence a jazykove a recove technologie: od vyzkumu k aplikacim funded by European Union?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Jazykoveda, umela inteligence a jazykove a recove technologie: od vyzkumu k aplikacim",
+      "type": "funded_by_yes",
+      "actual_answer": "European Union"
+    },
+    {
+      "id": "projects_struct_020",
+      "question": "Under what program is MIXER: Budovani komunity k problematice kryptomenovych mixeru listed?",
+      "expected_answer": "Vyhlaseni druhe verejne souteze podprogramu 3, PROGRAMU STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1), PODPROGRAMU 3 ROZVOJ INICIATIVY V BEZPECNOSTNIM VYZKUMU",
+      "answer_field": "metadata.program",
+      "project": "MIXER: Budovani komunity k problematice kryptomenovych mixeru",
+      "type": "project_program",
+      "actual_answer": "Vyhlaseni druhe verejne souteze podprogramu 3, PROGRAMU STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1), PODPROGRAMU 3 ROZVOJ INICIATIVY V BEZPECNOSTNIM VYZKUMU"
+    },
+    {
+      "id": "projects_struct_021",
+      "question": "What is the code of project Monitorovani kyberneticke bezpecnosti site rozsirene o velke jazykove modely?",
+      "expected_answer": "TQ26000006",
+      "answer_field": "metadata.code",
+      "project": "Monitorovani kyberneticke bezpecnosti site rozsirene o velke jazykove modely",
+      "type": "project_code",
+      "actual_answer": "TQ26000006"
+    },
+    {
+      "id": "projects_struct_022",
+      "question": "Is project Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence funded by Ministry of Foreign Affairs of the Czech Republic?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence",
+      "type": "funded_by_no",
+      "actual_answer": "European Union"
+    },
+    {
+      "id": "projects_struct_023",
+      "question": "Is this NEXT GENERATION VUT: Zvysovani kvality a relevance vzdelavani na VUT funded by Czech Science Foundation?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "NEXT GENERATION VUT: Zvysovani kvality a relevance vzdelavani na VUT",
+      "type": "funded_by_no",
+      "actual_answer": "European Union"
+    },
+    {
+      "id": "projects_struct_024",
+      "question": "Is this NGI0 Commons FUND funded by Brno University of Technology?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "NGI0 Commons FUND",
+      "type": "funded_by_no",
+      "actual_answer": "European Union"
+    },
+    {
+      "id": "projects_struct_025",
+      "question": "Is European Union funding this project NGI0 Entrust Hop On?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "NGI0 Entrust Hop On",
+      "type": "agency_funding_yes",
+      "actual_answer": "European Union"
+    },
+    {
+      "id": "projects_struct_026",
+      "question": "Who is funding this project NGI0 Entrust Hop On?",
+      "expected_answer": "European Union",
+      "answer_field": "metadata.agency",
+      "project": "NGI0 Entrust Hop On",
+      "type": "who_funding",
+      "actual_answer": "European Union"
+    },
+    {
+      "id": "projects_struct_027",
+      "question": "Does funding for Na vsechno sami: prilezitosti a rizika individualizace spolecnosti come from Technology Agency of the Czech Republic?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Na vsechno sami: prilezitosti a rizika individualizace spolecnosti",
+      "type": "agency_funding_no",
+      "actual_answer": "European Union"
+    },
+    {
+      "id": "projects_struct_028",
+      "question": "Does funding for Narodni centrum umele inteligence come from Technology Agency of the Czech Republic?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Narodni centrum umele inteligence",
+      "type": "agency_funding_yes",
+      "actual_answer": "Technology Agency of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_029",
+      "question": "Is Technology Agency of the Czech Republic the funder of Ochrana letectvi pred nizkoenergetickymi lasery?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Ochrana letectvi pred nizkoenergetickymi lasery",
+      "type": "agency_funding_yes",
+      "actual_answer": "Technology Agency of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_030",
+      "question": "Is project Ochrana letectvi pred nizkoenergetickymi lasery funded by Ministry of Education, Youth and Sports?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Ochrana letectvi pred nizkoenergetickymi lasery",
+      "type": "funded_by_no",
+      "actual_answer": "Technology Agency of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_031",
+      "question": "Is Ochrana letectvi pred nizkoenergetickymi lasery financed by Technology Agency of the Czech Republic?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Ochrana letectvi pred nizkoenergetickymi lasery",
+      "type": "funded_by_yes",
+      "actual_answer": "Technology Agency of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_032",
+      "question": "Does funding for Optimalizace navrhu vykonovych transformatoru s vyuzitim algoritmu simulovaneho zihani come from Brno University of Technology?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Optimalizace navrhu vykonovych transformatoru s vyuzitim algoritmu simulovaneho zihani",
+      "type": "agency_funding_yes",
+      "actual_answer": "Brno University of Technology"
+    },
+    {
+      "id": "projects_struct_033",
+      "question": "Is Brno University of Technology funding this project Orbis pictus - oziveni knihy pro kulturni a kreativni odvetvi?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Orbis pictus - oziveni knihy pro kulturni a kreativni odvetvi",
+      "type": "agency_funding_no",
+      "actual_answer": "Ministry of Culture Czech Republic"
+    },
+    {
+      "id": "projects_struct_034",
+      "question": "What is the period for this project Orbis pictus - oziveni knihy pro kulturni a kreativni odvetvi?",
+      "expected_answer": "1. 3. 2023 – 31. 12. 2027",
+      "answer_field": "metadata.project_period",
+      "project": "Orbis pictus - oziveni knihy pro kulturni a kreativni odvetvi",
+      "type": "project_period",
+      "actual_answer": "1. 3. 2023 – 31. 12. 2027"
+    },
+    {
+      "id": "projects_struct_035",
+      "question": "Is Planovani a evidence improvizovanych ukrytu financed by Ministry of the Interior of the Czech Republic?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Planovani a evidence improvizovanych ukrytu",
+      "type": "funded_by_yes",
+      "actual_answer": "Ministry of the Interior of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_036",
+      "question": "Is this Pokrocila analyza a verifikace pro pokrocily software funded by Czech Science Foundation?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Pokrocila analyza a verifikace pro pokrocily software",
+      "type": "funded_by_yes",
+      "actual_answer": "Czech Science Foundation"
+    },
+    {
+      "id": "projects_struct_037",
+      "question": "Is Brno University of Technology funding this project Qinfo - Zjistovani a statisticke vyhodnocovani subjektivnich postoju v case?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Qinfo - Zjistovani a statisticke vyhodnocovani subjektivnich postoju v case",
+      "type": "agency_funding_no",
+      "actual_answer": "Technology Agency of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_038",
+      "question": "What is the duration of project Qinfo - Zjistovani a statisticke vyhodnocovani subjektivnich postoju v case?",
+      "expected_answer": "1. 9. 2023 – 31. 8. 2026",
+      "answer_field": "metadata.project_period",
+      "project": "Qinfo - Zjistovani a statisticke vyhodnocovani subjektivnich postoju v case",
+      "type": "project_period",
+      "actual_answer": "1. 9. 2023 – 31. 8. 2026"
+    },
+    {
+      "id": "projects_struct_039",
+      "question": "Which agency is funding RISC-V GENERATION OF HIGH PERFORMANCE AUTOMOTIVE PROCESSORS AND COMPUTING PLATFORMS?",
+      "expected_answer": "European Union",
+      "answer_field": "metadata.agency",
+      "project": "RISC-V GENERATION OF HIGH PERFORMANCE AUTOMOTIVE PROCESSORS AND COMPUTING PLATFORMS",
+      "type": "who_funding",
+      "actual_answer": "European Union"
+    },
+    {
+      "id": "projects_struct_040",
+      "question": "Is Ministry of Foreign Affairs of the Czech Republic the funder of Robustni zpracovani nahravek pro operativu a bezpecnost?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Robustni zpracovani nahravek pro operativu a bezpecnost",
+      "type": "agency_funding_no",
+      "actual_answer": "Ministry of the Interior of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_041",
+      "question": "Under what program is Rozvoj kapacit v kyberbezpecnosti a umele inteligenci v Jordanskem kralovstvi listed?",
+      "expected_answer": "Posilovani kapacit verejnych vysokych skol v rozvojovych zemich (+ Ukrajina) - vyhlaseni dotacniho programu pro rok 2026",
+      "answer_field": "metadata.program",
+      "project": "Rozvoj kapacit v kyberbezpecnosti a umele inteligenci v Jordanskem kralovstvi",
+      "type": "project_program",
+      "actual_answer": "Posilovani kapacit verejnych vysokych skol v rozvojovych zemich (+ Ukrajina) - vyhlaseni dotacniho programu pro rok 2026"
+    },
+    {
+      "id": "projects_struct_042",
+      "question": "Which agency is funding Rozvoj kapacit v kyberbezpecnosti a umele inteligenci v Jordanskem kralovstvi?",
+      "expected_answer": "Ministry of Foreign Affairs of the Czech Republic",
+      "answer_field": "metadata.agency",
+      "project": "Rozvoj kapacit v kyberbezpecnosti a umele inteligenci v Jordanskem kralovstvi",
+      "type": "who_funding",
+      "actual_answer": "Ministry of Foreign Affairs of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_043",
+      "question": "What agency funds project SIMLIB - simulacni knihovna pro C++?",
+      "expected_answer": "Brno University of Technology",
+      "answer_field": "metadata.agency",
+      "project": "SIMLIB - simulacni knihovna pro C++",
+      "type": "who_funding",
+      "actual_answer": "Brno University of Technology"
+    },
+    {
+      "id": "projects_struct_044",
+      "question": "Is Sada forenznich analytickych nastroju ke zpracovani obrazu a videa pro sluzbu kriminalni policie a vysetrovani financed by Ministry of Foreign Affairs of the Czech Republic?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Sada forenznich analytickych nastroju ke zpracovani obrazu a videa pro sluzbu kriminalni policie a vysetrovani",
+      "type": "funded_by_no",
+      "actual_answer": "Ministry of the Interior of the Czech Republic"
+    },
+    {
+      "id": "projects_struct_045",
+      "question": "Under what program is Smart digilinka - Strojove uceni pro digitalizaci tisteneho dedictvi listed?",
+      "expected_answer": "NAKI III – program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030",
+      "answer_field": "metadata.program",
+      "project": "Smart digilinka - Strojove uceni pro digitalizaci tisteneho dedictvi",
+      "type": "project_program",
+      "actual_answer": "NAKI III – program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030"
+    },
+    {
+      "id": "projects_struct_046",
+      "question": "Is Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat financed by Ministry of the Interior of the Czech Republic?",
+      "expected_answer": "No",
+      "answer_field": "metadata.agency",
+      "project": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+      "type": "funded_by_no",
+      "actual_answer": "Brno University of Technology"
+    },
+    {
+      "id": "projects_struct_047",
+      "question": "Is Czech Science Foundation the funder of String Constraints for Security Analysis?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "String Constraints for Security Analysis",
+      "type": "agency_funding_yes",
+      "actual_answer": "Czech Science Foundation"
+    },
+    {
+      "id": "projects_struct_048",
+      "question": "Who is funding this project String Constraints for Security Analysis?",
+      "expected_answer": "Czech Science Foundation",
+      "answer_field": "metadata.agency",
+      "project": "String Constraints for Security Analysis",
+      "type": "who_funding",
+      "actual_answer": "Czech Science Foundation"
+    },
+    {
+      "id": "projects_struct_049",
+      "question": "What is the period for this project TENACITy: Travelling intelligENce Against CrIme and Terrorism?",
+      "expected_answer": "1. 9. 2022 – 31. 8. 2025",
+      "answer_field": "metadata.project_period",
+      "project": "TENACITy: Travelling intelligENce Against CrIme and Terrorism",
+      "type": "project_period",
+      "actual_answer": "1. 9. 2022 – 31. 8. 2025"
+    },
+    {
+      "id": "projects_struct_050",
+      "question": "Is Verification and Analysis for Safety and Security of Applications in Life financed by European Union?",
+      "expected_answer": "Yes",
+      "answer_field": "metadata.agency",
+      "project": "Verification and Analysis for Safety and Security of Applications in Life",
+      "type": "funded_by_yes",
+      "actual_answer": "European Union"
+    }
+  ]
+}

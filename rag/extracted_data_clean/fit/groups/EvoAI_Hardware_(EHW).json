@@ -1,0 +1,1989 @@
+{
+    "group": "EvoAI Hardware (EHW)",
+    "about": {
+        "evoai_hardware": [
+            "The research is primarily focused on two areas: (1) The design, modeling, and implementation of hardware accelerators for AI methods (deep neural networks, genetic programming, etc.). (2) The use of AI, especially evolutionary algorithms, for the automated design of computer circuits such as arithmetic circuits. Inspired by nature and supported by AI, we develop highly optimized hardware and software. The members of the group are internationally recognized researchers in the fields of nature-inspired methods and models (genetic and evolutionary algorithms, neurocomputing and cellular computing), digital circuit design, FPGA technology, and approximate computing. Applications of these methods include automated logic synthesis and circuit optimization, adaptive hardware, automated neural network design, and optimization in the areas of image processing, security, transportation, and engineering."
+        ],
+        "research_interests": [
+            "bio-inspired hardware and software",
+            "modeling, design and implementation of neural network accelerators",
+            "approximate computing",
+            "neuroevolution",
+            "evolutionary logic synthesis and optimization",
+            "evolvable hardware in FPGAs",
+            "cellular automata and their applications",
+            "applications of evolutionary algorithms in computer engineering"
+        ],
+        "current_research_topics": [
+            "Evolutionary design, optimization and approximation of digital circuits, neural architecture search, hardware accelerators for neural networks, evolvable hardware in FPGAs, evolution of cellular automata, genetic programming."
+        ],
+        "significant_results": [
+            "Best Student Paper Award - DDECS 2022 (J. Klhufek, V. Mrazek)",
+            "Best Paper Award - DDECS 2021 (Z. Vasicek)",
+            "Czech head - Doctorandus of Technical Science (V. Mrazek, 2019)",
+            "Czech Science Foundation President Award 2017 for excellent results of the Advanced Methods for Evolutionary Design of Complex Digital Circuits project ( press info , youtube video )",
+            "1 Gold, 3 Silver and 1 Bronze medals from the Humies competitions annually organized at GECCO conference series.",
+            "Best paper/presentation awards on international conferences: DDECS 2022 (student), DDECS 2021, DATE 2017, ECTA 2016, EuroGP 2015, AHS 2013, FC 2009, MEMICS 2009, EvoHOT 2005, ICES 2003, DDECS 2002.",
+            "Joseph Fourier Prize for research in computer science (1st place, Z. Vasicek, 2011)",
+            "The Prize of Antonin Svoboda for the Best Dissertation Thesis of 2018 (V. Mrazek)",
+            "Czech patent no. 304181 (2013) - image filter that was automatically designed by evolutionary algorithm",
+            "EvoApproxLib",
+            "Best paper award - DDECS 2024 (J. Klhufek, M. Safar, V. Mrazek, Z. Vasicek)"
+        ],
+        "cooperation": [
+            "NYU Abu Dhabi (Prof. Muhammad Shafique, dr. Alberto Marchisio)",
+            "University of Patras (Prof. Georgios Zervakis)",
+            "University of Alberta ( Prof. Jie Han )",
+            "University of York (Prof. Steve S. Smith)",
+            "Purdue University ( Prof. Kaushik Roy )",
+            "NASA JPL Advanced Robotic Controls Group (dr. Adrian Stoica)",
+            "University of Oslo ( Prof. Jim Torresen , Dr. Kyrre Glette)",
+            "Center of Industrial Electronics , Universidad Politecnica de Madrid (dr. Ruben Salvador, dr. Eduardo de la Torre)",
+            "Universidad Carlos III de Madrid (Antonio J. Sanchez-Clemente, dr. Luis Entrena)",
+            "Faculty of Informatics, Masaryk University (dr. Petr Svenda , prof. Vashek Matyas )",
+            "Faculty of Information Technology, Czech Technical University in Prague ( dr. Petr Fiser , dr. Jan Schmidt)"
+        ],
+        "information": [
+            "Lukas Sekanina, sekanina@fit.vutbr.czWeb presentation:https://ehw.fit.vutbr.cz/"
+        ],
+        "overview": [
+            "The research is primarily focused on two areas: (1) The design, modeling, and implementation of hardware accelerators for AI methods (deep neural networks, genetic programming, etc.). (2) The use of AI, especially evolutionary algorithms, for the automated design of computer circuits such as arithmetic circuits. Inspired by nature and supported by AI, we develop highly optimized hardware and software. The members of the group are internationally recognized researchers in the fields of nature-inspired methods and models (genetic and evolutionary algorithms, neurocomputing and cellular computing), digital circuit design, FPGA technology, and approximate computing. Applications of these methods include automated logic synthesis and circuit optimization, adaptive hardware, automated neural network design, and optimization in the areas of image processing, security, transportation, and engineering."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Sekanina Lukas, prof. Ing., Ph.D.",
+                "position": "Principal researcher",
+                "notes": [
+                    "Citations:Scopus;Google Scholar",
+                    "DBLPBibliography Server",
+                    "IEEE Transactions on Evolutionary Computation (Associate Editor, 2011 - 2014)",
+                    "Genetic Programming and Evolvable Machines (Editorial Board Member 2012 - 2016, Associate Editor 2016 - )",
+                    "International Journal of Innovative Computing and Applications (2007 - )",
+                    "Radioengineering (2017 - 2018)",
+                    "Springer's Natural Computing book series (Advisory Board member, 2019 - )",
+                    "Conference Invited Talks and Keynotes (since 2020)Evolutionary Machine Learning in Electronic Design Automationat the International Symposium on Design and Diagnostics of Electronic Circuits and Systems, DDECS (Lyon, France, 2025)Cartesian Genetic Programming in Electronic Design Automationat the Graph-Based Genetic Programming Workshop at GECCO 2023 (Lisbon, Portugal, 2023)",
+                    "Evolutionary Machine Learning in Electronic Design Automationat the International Symposium on Design and Diagnostics of Electronic Circuits and Systems, DDECS (Lyon, France, 2025)",
+                    "Cartesian Genetic Programming in Electronic Design Automationat the Graph-Based Genetic Programming Workshop at GECCO 2023 (Lisbon, Portugal, 2023)",
+                    "Tutorials (since 2020)Jelinek Summer Workshop on Speech and Language Technology, JSALT 2025 (Brno, CZ)42nd IEEE International Conference on Computer Design, ICCD 2024 (Milan, IT)IEEE International Conference on Systems, Man, and Cybernetics SMC 2022 (Praha, CZ)IEEE World Congres on Computational Intelligence WCCI 2022 (Padua, IT)Symposium on Design and Diagnostics of Electronic Circuits and Systems DDECS 2022 (Praha, CZ)Design Automation Conference DAC 2021 (San Francisco, US)IEEE Congress on Evolutionary Computation CEC 2021 (Glasgow, UK)European Test Symposium ETS 2021 (Tallinn, EE)",
+                    "Jelinek Summer Workshop on Speech and Language Technology, JSALT 2025 (Brno, CZ)",
+                    "42nd IEEE International Conference on Computer Design, ICCD 2024 (Milan, IT)",
+                    "IEEE International Conference on Systems, Man, and Cybernetics SMC 2022 (Praha, CZ)",
+                    "IEEE World Congres on Computational Intelligence WCCI 2022 (Padua, IT)",
+                    "Symposium on Design and Diagnostics of Electronic Circuits and Systems DDECS 2022 (Praha, CZ)",
+                    "Design Automation Conference DAC 2021 (San Francisco, US)",
+                    "IEEE Congress on Evolutionary Computation CEC 2021 (Glasgow, UK)",
+                    "European Test Symposium ETS 2021 (Tallinn, EE)",
+                    "Invited talks (since 2020)CSE Seminar, University of Michigan, Ann Arbor, MI, US (June 5, 2024)linkFaculty of Informatics, Masaryk University, Brno (December 5, 2023)TU Dresden (January 19, 2023)linkUniversitat Leipzig, ScaDS.AI, Leipzig (January 18, 2023)Prague computer science seminar, Prague (June 9, 2022)linkUniversity of Lyon - Lyon Institute of Nanotechnology, FR (May 10, 2022)Institute of Informatics, Slovak Academy of Sciences, Bratislava (February 11, 2020)",
+                    "CSE Seminar, University of Michigan, Ann Arbor, MI, US (June 5, 2024)link",
+                    "Faculty of Informatics, Masaryk University, Brno (December 5, 2023)",
+                    "TU Dresden (January 19, 2023)link",
+                    "Universitat Leipzig, ScaDS.AI, Leipzig (January 18, 2023)",
+                    "Prague computer science seminar, Prague (June 9, 2022)link",
+                    "University of Lyon - Lyon Institute of Nanotechnology, FR (May 10, 2022)",
+                    "Institute of Informatics, Slovak Academy of Sciences, Bratislava (February 11, 2020)",
+                    "complete list",
+                    "IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (since 2013; a chair 2020 - 2025)",
+                    "European Conference on Genetic programming (2019 -)",
+                    "DDECS 2026: Design and Diagnostics of Electronic Circuits and Systems - PC co-chair",
+                    "DATE 2026: Design Automation and Test in Europe - Vice Programme Chair",
+                    "DATE 2025: Design Automation and Test in Europe - chair of track D (Design)",
+                    "DATE 2024: Design Automation and Test in Europe - chair of track D (Design)",
+                    "EvoStar 2023 - Local co-chair (Brno, CZ)",
+                    "DATE 2023: Design Automation and Test in Europe - chair of track D (Design)",
+                    "DATE 2022: Design Automation and Test in Europe - topic chair (D11 - Approximate computing)",
+                    "DATE 2021: Design Automation and Test in Europe - topic chair (D11 - Approximate computing)",
+                    "DDECS 2021: Design and Diagnostics of Electronic Circuits and Systems (Vienna, AT) - PC co-chair",
+                    "DATE 2020: Design Automation and Test in Europe - topic chair (D10 - Approximate computing)",
+                    "DDECS 2020: Design and Diagnostics of Electronic Circuits and Systems (Novi Sad) - topic chair",
+                    "EuroGP 2019: European Conference on Genetic Programming (Leipzig, DE) - program co-chair",
+                    "EuroGP 2018: European Conference on Genetic Programming (Parma, IT) - program co-chair",
+                    "DATE 2017: Special Session - Biologically-inspired techniques for smart, secure and low power SoCs (Lausanne, CH) - SS co-chair",
+                    "EuroGP 2017: 20th European Conference on Genetic Programming (Amsterdam, NL) - publication chair",
+                    "DTIS 2016: 11th International Conference on Design & Technology of Integrated Systems in Nanoscale Era (Istanbul, TR) - program chair",
+                    "IEEE DDECS 2014: Design and Diagnostics of Electronic Circuits and Systems (Warsaw, PL) - general vice-chair",
+                    "IEEE DDECS 2013: Design and Diagnostics of Electronic Circuits and Systems (Karlovy Vary, CZ) - general chair",
+                    "MEMICS 2011: Annual Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (Lednice, CZ) - program co-chair",
+                    "ICES 2008: International Conference on Evolvable Systems: From Biology to Hardware (Praha, CZ) - program co-chair",
+                    "2025: DATE, DDECS, EuroGP, GECCO",
+                    "2024: CEC, DATE, DDECS, EuroGP, GECCO, IEEE CAI",
+                    "2023: CEC, DATE, DDECS, EuroGP, GECCO",
+                    "2022: CEC, DATE, DDECS, EuroGP, GECCO",
+                    "2021: AICAS, CEC, DATE, DDECS, EuroGP, GECCO, ICES-SSCI, IGSC",
+                    "2020: AICAS, CEC, DATE, DDECS, EuroGP, GECCO, ICES-SSCI, SMC",
+                    "2019: AICAS, AxC, AHS, CEC, DATE, DDECS, EuroGP, GECCO, SMC",
+                    "2018: AxC, AHS, CEC, DATE, DDECS, EuroGP, GECCO, ICES-SSCI",
+                    "a dalsi"
+                ]
+            }
+        ],
+        "researcher": [
+            {
+                "name": "Bidlo Michal, doc. Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Drahosova Michaela, Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Mrazek Vojtech, Ing., Ph.D.",
+                "position": "Researcher",
+                "notes": [
+                    "Mrazek, V.: Evolutionary design methods in approximate computing, NTU Athens & University of Patras, GR (December 2024)",
+                    "Mrazek, V.: Evolutionary approximation: From components to hardware accelerators, Invited keynote lecture, Approximate Computing workshop, ICCAD conference, New Jersey, USA (October 2024)",
+                    "Mrazek, V.: Approximate computing in neural networks, Prague Embedded Systems Workshop, Prague, (June 30, 2023)",
+                    "Mrazek, V.: Approximation of Hardware Accelerators driven by Machine-Learning Models, DDECS conference, Tallinn, ES (May 4, 2023)",
+                    "Mrazek, V.: Approximate computing in neural networks, SMART-PLANT IEEE SEASONAL SCHOOL, Thessaloniki, GR (December 10, 2023)",
+                    "Mrazek, V.: Energy-efficient neural networks for embedded systems, Colloquium of Faculty of Informatics, Brno, CZ (February 2, 2020)"
+                ]
+            },
+            {
+                "name": "Vasicek Zdenek, doc. Ing., Ph.D.",
+                "position": "Researcher"
+            }
+        ],
+        "ph.d._student": [
+            {
+                "name": "Bartu Tomas, Ing.",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Fritz Karel, Ing.",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Hurta Martin, Ing., Ph.D.",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Husa Rostislav, Ing.",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Klhufek Jan, Ing.",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Pinos Michal, Ing.",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Plevac Lukas, Ing.",
+                "position": "Ph.D. student"
+            },
+            {
+                "name": "Sedlak David, Ing.",
+                "position": "Ph.D. student"
+            }
+        ],
+        "former_member": [
+            {
+                "name": "Dvoracek Petr, Ing.",
+                "position": "Former member"
+            },
+            {
+                "name": "Gajda Zbysek, Ing., Ph.D.",
+                "position": "Former member"
+            },
+            {
+                "name": "Grochol David, Ing., Ph.D.",
+                "position": "Former member"
+            },
+            {
+                "name": "Hrbacek Radek, Ing., Ph.D.",
+                "position": "Former member"
+            },
+            {
+                "name": "Husa Jakub, Ing., Ph.D.",
+                "position": "Former member"
+            },
+            {
+                "name": "Kocnova Jitka, Ing., Ph.D.",
+                "position": "Former member"
+            },
+            {
+                "name": "Korcek Pavol, Ing., Ph.D.",
+                "position": "Former member"
+            },
+            {
+                "name": "Minarik Milos, Ing., Ph.D.",
+                "position": "Former member"
+            },
+            {
+                "name": "Petrlik Jiri, Ing., Ph.D.",
+                "position": "Former member"
+            },
+            {
+                "name": "Ruzicka Richard, doc. Ing., Ph.D., MBA",
+                "position": "Former member"
+            },
+            {
+                "name": "Salvador Ruben",
+                "position": "Former member"
+            },
+            {
+                "name": "Slany Karel, Ing.",
+                "position": "Former member"
+            },
+            {
+                "name": "Starecek Lukas, Ing., Ph.D.",
+                "position": "Former member"
+            },
+            {
+                "name": "Zamba Martin, Ing.",
+                "position": "Former member"
+            },
+            {
+                "name": "Zaloudek Ludek, Ing.",
+                "position": "Former member"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Hardware-Aware Machine Learning: From Automated Design to Innovative and Explainable Solutions",
+            "details": "GACR, Standardni projekty, GA24-10990S, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2022",
+            "title": "AppNeCo: Approximate Neurocomputing",
+            "details": "GACR, Standardni projekty, GA22-02067S, start: 2022-01-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Automated design of hardware accelerators for resource-aware machine learning",
+            "details": "GACR, Standardni projekty, GA21-13001S, start: 2021-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Bio-inspired methods for resource aware computer system design",
+            "details": "EU, European Cooperation in Science and Technology (COST), start: 2020-09-29, end: 2024-09-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Designing and exploiting libraries of approximate circuits",
+            "details": "GACR, Standardni projekty, GA19-10137S, start: 2019-01-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Advanced Methods of Nature-Inspired Optimisation and HPC Implementation for the Real-Life Applications",
+            "details": "MSMT, INTER-EXCELLENCE - Podprogram INTER-COST, LTC18053, start: 2018-06-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Advancing cryptanalytic methods through evolutionary computing",
+            "details": "GACR, Standardni projekty, GA16-08565S, start: 2016-01-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Relaxed equivalence checking for approximate computing",
+            "details": "GACR, Standardni projekty, GA16-17538S, start: 2016-01-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Advanced Methods for Evolutionary Design of Complex Digital Circuits",
+            "details": "GACR, Standardni projekty, GA14-04197S, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Sensors and computing infrastructure to support education in classification, recognition and evolutionary algorithms",
+            "details": "MSMT, Rozvojove programy MSMT, FR2306/2012/Ab, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Natural Computing on Unconventional Platforms",
+            "details": "GACR, Standardni projekty, GAP103/10/1517, start: 2010-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2007",
+            "title": "Design and hardware implementation of a patent-invention machine",
+            "details": "GACR, Standardni projekty, GA102/07/0850, start: 2007-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Biology-inspired hardware teaching support",
+            "details": "FR825/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Methods of polymorphic digital circuit design",
+            "details": "GACR, Standardni projekty, GA102/06/0599, start: 2006-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Evolutionary desing of sorting and median networks using FPGA",
+            "details": "FR3042/2005/G1, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Using evolutionary algorithms for implementation of adaptive image filter in FPGA",
+            "details": "FR2987/2005/G1, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2003",
+            "title": "Evolvable hardware based applications design methods",
+            "details": "GACR, Postdoktorandske granty, GP102/03/P004, start: 2003-01-01, end: 2005-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "details": "BIDLO, M.; SARANOVA, I. Multi-purpose Image Filter Evolution Using Cellular Automata and Function-Based Conditional Rules. In Applications of Evolutionary Computation: 28th European Conference, EvoApplications 2025, Held as Part of EvoStar 2025, Trieste, Italy, April 23-25, 2025, Proceedings, Part II. Lecture Notes in Computer Science. Trieste: Springer Nature Switzerland AG, 2025. p. 457-472. ISBN: 978-3-031-90064-8. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "BOSIO, A.; BERNARDI, P.; TRAIOLA, M.; MRAZEK, V. 28th International Symposium on Design and Diagnostics of Electronic Circuits & Systems. Lyon: Institute of Electrical and Electronics Engineers, 2025. 168 p. ISBN: 979-8-3315-2801-0. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "HURTA, M.; OVESNA, A.; MRAZEK, V.; SEKANINA, L. Multi-Objective Evolutionary Design of Explainable EEG Classifier. In Genetic Programming, 28th European Conference, EuroGP 2025. Lecture Notes in Computer Science. Terst: Springer Nature Switzerland AG, 2025. p. 52-67. ISBN: 978-3-031-89990-4. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "KALKREUTH, R.; DE, O.; JANKOVIC, A.; ANASTACIO, M.; DIERKES, J.; VASICEK, Z.; HOOS, H. TinyverseGP: Towards a Modular Cross-domain Benchmarking Framework for Genetic Programming. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2172-2176. ISBN: 979-8-4007-1464-1. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "KLHUFEK, J.; MARCHISIO, A.; MRAZEK, V.; SEKANINA, L.; SHAFIQUE, M. TransInferSim: Toward Fast and Accurate Evaluation of Embedded Hardware Accelerators for Transformer Networks. IEEE Access, 2025, vol. 13, no. October, p. 177215-177226. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "MASAR, F.; MRAZEK, V.; SEKANINA, L. Late Breaking Result: FPGA-Based Emulation and Fault Injection for CNN Inference Accelerators. In 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE). Lyon: Institute of Electrical and Electronics Engineers, 2025. p. 1-2. ISBN: 978-3-9826741-0-0. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "MRAZEK, V.; BALASKAS, K.; DUARTE, P.; VASICEK, Z.; TAHOORI, M.; ZERVAKIS, G. Arbitrary Precision Printed Ternary Neural Networks with Holistic Evolutionary Approximation. IEEE Transactions on Circuits and Systems for Artificial Intelligence, 2025, vol. 2, no. 4, p. 351-363. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "MRAZEK, V.; VASICEK, Z. AxMED: Formal Analysis and Automated Design of Approximate Median Filters using BDDs. In 2025 IEEE International Symposium on Circuits and Systems (ISCAS). London: Institute of Electrical and Electronics Engineers, 2025. p. 1-5. ISBN: 979-8-3503-5683-0. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "PINOS, M.; KLHUFEK, J.; MRAZEK, V.; SEKANINA, L. Inference Energy Analysis in Context of Hardware-Aware NAS. In 2025 28th International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Lyon: Institute of Electrical and Electronics Engineers, 2025. p. 161-164. ISBN: 979-8-3315-2801-0. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "PLEVAC, L.; VASICEK, Z. Towards Efficient Semantic Mutation in CGP: Enhancing SOMOk. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2172-2176. ISBN: 979-8-4007-1464-1. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "SEDLAK, D.; KLHUFEK, J.; MRAZEK, V.; VASICEK, Z. Towards Efficient Scheduling of Transformer Neural Network Computation for Edge AI Deployment. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2242-2248. ISBN: 979-8-4007-1464-1. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "VLCEK, O.; MRAZEK, V. ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing. In 2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD). Munich, Germany: IEEE, 2025. p. 1-8. ISBN: 979-8-3315-1560-7. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "ARIF, M.; REHMAN, F.; SEKANINA, L.; MALIK, A. A comprehensive survey of evolutionary algorithms and metaheuristics in brain EEG-based applications. Journal of Neural Engineering, 2024, vol. 21, no. 5, p. 1-25. ISSN: 1741-2552. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "DENIZIAK, S.; SITEK, P.; JENIHHIN, M.; STEININGER, A.; SCHOLZEL, M.; MRAZEK, V. 27th International Symposium on Design and Diagnostics of Electronic Circuits & Systems. Kliece: Institute of Electrical and Electronics Engineers, 2024. 155 p. ISBN: 979-8-3503-5934-3. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HUSA, J.; SEKANINA, L. Semantic Mutation Operator for Fast and Efficient Design of Bent Boolean Functions. Genetic Programming and Evolvable Machines, 2024, vol. 25, no. 3, p. 1-32. ISSN: 1389-2576. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "KLHUFEK, J.; SAFAR, M.; MRAZEK, V.; VASICEK, Z.; SEKANINA, L. Exploiting Quantization and Mapping Synergy in Hardware-Aware Deep Neural Network Accelerators. In 2024 27th International Symposium on Design & Diagnostics of Electronic Circuits & Systems (DDECS). Kielce: Institute of Electrical and Electronics Engineers, 2024. p. 1-6. ISBN: 979-8-3503-5934-3. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "MRAZEK, V.; KOKKINIS, A.; PAPANIKOLAOU, P.; VASICEK, Z.; SIOZIOS, K.; TZIMPRAGOS, G.; TAHOORI, M.; ZERVAKIS, G. Evolutionary Approximation of Ternary Neurons for On-sensor Printed Neural Networks. In 2024 IEEE/ACM International Conference on Computer Aided Design (ICCAD). New York: Association for Computing Machinery, 2024. p. 1-9. ISBN: 979-8-4007-1077-3. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "PINOS, M.; SEKANINA, L.; MRAZEK, V. ApproxDARTS: Differentiable Neural Architecture Search with Approximate Multipliers. In 2024 The International Joint Conference on Neural Networks (IJCNN). Yokohama: Institute of Electrical and Electronics Engineers, 2024. p. 1-8. ISBN: 979-8-3503-5931-2. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "SEKANINA, L. Tutorial: Evolutionary Design Methods in Electronic Design Automation. In IEEE 42nd International Conference on Computer Design (ICCD). Milano: IEEE Computer Society, 2024. p. 689-690. ISBN: 979-8-3503-8040-8. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "SIMA, J.; VIDNEROVA, P.; MRAZEK, V. Energy Complexity of Convolutional Neural Networks. NEURAL COMPUTATION, 2024, vol. 36, no. 8, p. 1601-1625. ISSN: 0899-7667. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "VASICEK, Z.; MRAZEK, V.; SEKANINA, L. Automated Verifiability-Driven Design of Approximate Circuits: Exploiting Error Analysis. In 2024 Design, Automation & Test in Europe Conference & Exhibition (DATE). Valencia: Institute of Electrical and Electronics Engineers, 2024. p. 1-6. ISBN: 979-8-3503-4859-0. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "GIACOBINI, M.; PAPPA, G.; VASICEK, Z. Genetic Programming. LNCS 13986. Cham: Springer Verlag, 2023. 356 p. ISBN: 978-3-031-29572-0. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HURTA, M.; MRAZEK, V.; DRAHOSOVA, M.; SEKANINA, L. Multi-objective Design of Hardware Accelerators for Levodopa-Induced Dyskinesia Classifiers. Evo* 2023 -- Late-Breaking Abstracts Volume. Brno: 2023. 4 p. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HURTA, M.; MRAZEK, V.; DRAHOSOVA, M.; SEKANINA, L. ADEE-LID: Automated Design of Energy-Efficient Hardware Accelerators for Levodopa-Induced Dyskinesia Classifiers. In 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE). Antwerp: Institute of Electrical and Electronics Engineers, 2023. p. 1-2. ISBN: 978-3-9819263-7-8. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HURTA, M.; MRAZEK, V.; DRAHOSOVA, M.; SEKANINA, L. MODEE-LID: Multiobjective Design of Energy-Efficient Hardware Accelerators for Levodopa-Induced Dyskinesia Classifiers. In 2023 26th International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS). Tallinn: Institute of Electrical and Electronics Engineers, 2023. p. 155-160. ISBN: 979-8-3503-3277-3. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HURTA, M.; SCHWARZEROVA, J.; NAGELE, T.; WECKWERTH, W.; PROVAZNIK, V.; SEKANINA, L. Utilizing Genetic Programming to Enhance Polygenic Risk Score Calculation. In 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023). Istanbul: Institute of Electrical and Electronics Engineers, 2023. p. 3782-3787. ISBN: 979-8-3503-3748-8. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HURTA, M.; SCHWARZEROVA, J.; PROVAZNIK, V.; WECKWERTH, W.; WALTHER, D.; SEKANINA, L. Utilizing Cartesian Genetic Programming for Efficient Polygenic Risk Score Calculation in Plants. Program and Abstract Book: Swedish Bioinformatics Workshop 2023. Stockholm: 2023. p. 49-49. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HUSA, J.; SEKANINA, L. Semantic Mutation Operator for Fast and Efficient Design of Bent Boolean Functions. Evo* 2023 -- Late-Breaking Abstracts Volume. Brno: 2023. 4 p. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "JUZA, T.; SEKANINA, L. GPAM: Genetic Programming with Associative Memory. In 26th European Conference on Genetic Programming (EuroGP) Held as Part of EvoStar. Lecture Notes in Computer Science. LNCS. Cham: Springer Nature Switzerland AG, 2023. no. 3, p. 68-83. ISBN: 978-3-031-29572-0. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "KALKREUTH, R.; VASICEK, Z.; HUSA, J.; VERMETTEN, D.; YE, F.; THOMAS, B. General Boolean Function Benchmark Suite. In FOGA 2023 - Proceedings of the 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms. Potsdam: Association for Computing Machinery, 2023. p. 84-95. ISBN: 979-8-4007-0202-0. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "KALKREUTH, R.; VASICEK, Z.; HUSA, J.; VERMETTEN, D.; YE, F.; THOMAS, B. Towards a General Boolean Function Benchmark Suite. In GECCO 2023 Companion - Proceedings of the 2023 Genetic and Evolutionary Computation Conference Companion. New York: Association for Computing Machinery, 2023. p. 591-594. ISBN: 979-8-4007-0120-7. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "LOJDA, J.; PANEK, R.; SEKANINA, L.; KOTASEK, Z. Automated Design and Usage of the Fault-Tolerant Dynamic Partial Reconfiguration Controller for FPGAs. MICROELECTRONICS RELIABILITY, 2023, vol. 2023, no. 144, p. 1-16. ISSN: 0026-2714. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "MARCHISIO, A.; BUSSOLINO, B.; COLUCCI, A.; MRAZEK, V.; HANIF, M.; MARTINA, M.; MASERA, G.; SHAFIQUE, M. Hardware and Software Optimizations for Capsule Networks. In Embedded Machine Learning for Cyber-Physical, IoT, and Edge Computing. Cham: Springer Nature Switzerland AG, 2023. p. 303-328. ISBN: 978-3-031-39932-9. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "MRAZEK, V. Approximation of Hardware Accelerators driven by Machine-Learning Models. In Proceedings of International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS '23). Tallinn: Institute of Electrical and Electronics Engineers, 2023. p. 91-92. ISBN: 979-8-3503-3277-3. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "MRAZEK, V.; JAWED, S.; ARIF, M.; MALIK, A. Effective EEG Feature Selection for Interpretable MDD (Major Depressive Disorder) Classification. In GECCO 2023 - Proceedings of the 2023 Genetic and Evolutionary Computation Conference. Lisbon: Association for Computing Machinery, 2023. p. 1427-1435. ISBN: 979-8-4007-0119-1. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "PINOS, M.; MRAZEK, V.; SEKANINA, L. Prediction of Inference Energy on CNN Accelerators Supporting Approximate Circuits. In 2023 26th International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Talinn: Institute of Electrical and Electronics Engineers, 2023. p. 45-50. ISBN: 979-8-3503-3277-3. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "PINOS, M.; MRAZEK, V.; VAVERKA, F.; VASICEK, Z.; SEKANINA, L. Acceleration Techniques for Automated Design of Approximate Convolutional Neural Networks. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023, vol. 13, no. 1, p. 212-224. ISSN: 2156-3357. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "PRABAKARAN, B.; MRAZEK, V.; VASICEK, Z.; SEKANINA, L.; SHAFIQUE, M. Xel-FPGAs: An End-to-End Automated Exploration Framework for Approximate Accelerators in FPGA-Based Systems. In 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD). San Francisco: Institute of Electrical and Electronics Engineers, 2023. p. 1-9. ISBN: 979-8-3503-1559-2. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "SEDLACEK, M.; SEKANINA, L. Evolution of Editing Scripts From Examples. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '23). Lisbon: Association for Computing Machinery, 2023. p. 803-806. ISBN: 979-8-4007-0120-7. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "SEKANINA, L.; MRAZEK, V.; PINOS, M. Hardware-Aware Evolutionary Approaches to Deep Neural Networks. In Handbook of Evolutionary Machine Learning. Genetic and Evolutionary Computation. Singapore: Springer Nature Singapore, 2023. p. 367-396. ISBN: 978-981-9938-13-1. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "SIMA, J.; VIDNEROVA, P.; MRAZEK, V. Energy Complexity Model for Convolutional Neural Networks. In Artificial Neural Networks and Machine Learning - ICANN 2023: 32nd International Conference on Artificial Neural Networks. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Heraklion: Springer Nature Switzerland AG, 2023. p. 186-198. ISBN: 978-3-031-44203-2. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; SEKANINA, L.; VASICEK, Z.; VOJNAR, T. SagTree: Towards Efficient Mutation in Evolutionary Circuit Approximation. Swarm and Evolutionary Computation, 2022, vol. 69, no. 100986, p. 1-10. ISSN: 2210-6502. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VOJNAR, T. Designing Approximate Arithmetic Circuits with Combined Error Constraints. In Proceeding of 25th Euromicro Conference on Digital System Design 2022 (DSD'22). Gran Canaria: Institute of Electrical and Electronics Engineers, 2022. p. 785-792. ISBN: 978-1-6654-7404-7. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HANIF, M.; MRAZEK, V.; SHAFIQUE, M. Approximate Computing Architectures. In Handbook of Computer Architecture. Handbook of Computer Architecture. Singapore: Springer Nature Singapore, 2022. p. 1-41. ISBN: 978-981-1564-01-7. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HURTA, M.; DRAHOSOVA, M.; MRAZEK, V. Evolutionary Design of Reduced Precision Preprocessor for Levodopa-Induced Dyskinesia Classifier. In Parallel Problem Solving from Nature - PPSN XVII. Lecture Notes in Computer Science. Dortmund: Springer Nature Switzerland AG, 2022. p. 491-504. ISBN: 978-3-031-14713-5. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HURTA, M.; DRAHOSOVA, M.; SEKANINA, L.; SMITH, S.; ALTY, J. Evolutionary Design of Reduced Precision Levodopa-Induced Dyskinesia Classifiers. In Genetic Programming, 25th European Conference, EuroGP 2022. Lecture Notes in Computer Science. Madrid: Springer Nature Switzerland AG, 2022. p. 85-101. ISBN: 978-3-031-02055-1. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "KALKREUTH, R.; DAL PICCOL SOTTO, L.; VASICEK, Z. Graph-based Genetic Programming. In GECCO 2022 Companion - Proceedings of the 2022 Genetic and Evolutionary Computation Conference. Boston: Association for Computing Machinery, 2022. p. 958-982. ISBN: 978-1-4503-9268-6. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "KLHUFEK, J.; MRAZEK, V. ArithsGen: Arithmetic Circuit Generator for Hardware Accelerators. In 2022 25th International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS '22). Prague: Institute of Electrical and Electronics Engineers, 2022. p. 44-47. ISBN: 978-1-6654-9431-1. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "MARCHISIO, A.; MRAZEK, V.; MASSA, A.; BUSSOLINO, B.; MARTINA, M.; SHAFIQUE, M. RoHNAS: A Neural Architecture Search Framework with Conjoint Optimization for Adversarial Robustness and Hardware Efficiency of Convolutional and Capsule Networks. IEEE Access, 2022, vol. 2022, no. 10, p. 109043-109055. ISSN: 2169-3536. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "MRAZEK, V. Optimization of BDD-based Approximation Error Metrics Calculations. In IEEE Computer Society Annual Symposium on VLSI (ISVLSI '22). Paphos: Institute of Electrical and Electronics Engineers, 2022. p. 86-91. ISBN: 978-1-6654-6605-9. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "PINOS, M.; MRAZEK, V.; SEKANINA, L. Evolutionary Approximation and Neural Architecture Search. Genetic Programming and Evolvable Machines, 2022, vol. 23, no. 3, p. 351-374. ISSN: 1389-2576. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "SEKANINA, L.; VASICEK, Z.; MRAZEK, V. Inexact Arithmetic Operators. In Approximate Computing Techniques. Cham: Springer International Publishing, 2022. p. 81-107. ISBN: 978-3-030-94704-0. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "VALEK, M.; SEKANINA, L. Evolutionary Approximation in Non-Local Means Image Filters. In 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC). Praha: Institute of Electrical and Electronics Engineers, 2022. p. 2759-2766. ISBN: 978-1-6654-5258-8. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "BIDLO, M. Evolution of Approximate Functions for Image Thresholding. In IEEE Symposium Series on Computational Intelligence (IEEE SSCI). Los Alamos: IEEE Computer Society, 2021. p. 1-6. ISBN: 978-1-7281-9048-8. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "HODAN, D.; MRAZEK, V.; VASICEK, Z. Semantically-oriented mutation operator in cartesian genetic programming for evolutionary circuit design. Genetic Programming and Evolvable Machines, 2021, vol. 22, no. 4, p. 539-572. ISSN: 1389-2576. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "KOCNOVA, J.; VASICEK, Z. Resynthesis of logic circuits using machine learning and reconvergent paths. In 2021 24th Euromicro Conference on Digital System Design (DSD). Palermo: Institute of Electrical and Electronics Engineers, 2021. p. 69-76. ISBN: 978-1-6654-2704-3. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MARCHISIO, A.; MRAZEK, V.; HANIF, M.; SHAFIQUE, M. DESCNet: Developing Efficient Scratchpad Memories for Capsule Network Hardware. IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTEMS, 2021, vol. 40, no. 9, p. 1768-1781. ISSN: 1937-4151. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MARCHISIO, A.; MRAZEK, V.; HANIF, M.; SHAFIQUE, M. FEECA: Design Space Exploration for Low-Latency and Energy-Efficient Capsule Network Accelerators. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2021, vol. 29, no. 4, p. 716-729. ISSN: 1063-8210. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "PINOS, M.; MRAZEK, V.; SEKANINA, L. Evolutionary Neural Architecture Search Supporting Approximate Multipliers. In Genetic Programming, 24th European Conference, EuroGP 2021. Lecture Notes in Computer Science, vol 12691. Seville: Springer Nature Switzerland AG, 2021. p. 82-97. ISBN: 978-3-030-72812-0. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "SEKANINA, L. Evolutionary Algorithms in Approximate Computing: A Survey. Journal of Integrated Circuits and Systems, 2021, vol. 16, no. 2, p. 1-12. ISSN: 1872-0234. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "SEKANINA, L. Neural Architecture Search and Hardware Accelerator Co-Search: A Survey. IEEE Access, 2021, vol. 9, no. 9, p. 151337-151362. ISSN: 2169-3536. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "SHAFIQUE, M.; STEININGER, A.; SEKANINA, L.; KRSTIC, M.; STOJANOVIC, G.; MRAZEK, V. 24th International Symposium on Design and Diagnostics of Electronic Circuits & Systems. USA: Institute of Electrical and Electronics Engineers, 2021. 158 p. ISBN: 978-1-6654-3595-6. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "VASICEK, Z. Synthesis of approximate circuits for LUT-based FPGAs. In 24th International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS). Vienna: IEEE Computer Society, 2021. p. 17-22. ISBN: 978-1-6654-3595-6. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "ANSARI, M.; MRAZEK, V.; COCKBURN, B.; SEKANINA, L.; VASICEK, Z.; HAN, J. Improving the Accuracy and Hardware Efficiency of Neural Networks Using Approximate Multipliers. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2020, vol. 28, no. 2, p. 317-328. ISSN: 1063-8210. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "BIDLO, M. Evolution of Cellular Automata with Conditionally Matching Rules for Image Filtering. In 2020 IEEE Congress on Evolutionary Computation (CEC). Los Alamitos: IEEE Computational Intelligence Society, 2020. p. 1-8. ISBN: 978-1-7281-6929-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "BIDLO, M.; DOBES, M. Evolutionary Development of Growing Generic Sorting Networks by Means of Rewriting Systems. IEEE transactions on evolutionary computation, 2020, vol. 24, no. 2, p. 232-244. ISSN: 1089-778X. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "BIDLO, M.; ZUFAN, P. On Comparison of Some Representations for the Evolution of Quantum Operators. In 2020 IEEE Symposium Series on Computational Intelligence, SSCI 2020. Canberra: Institute of Electrical and Electronics Engineers, 2020. p. 2101-2108. ISBN: 978-1-7281-2547-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "BOSIO, A.; DI CARLO, S.; GIRARD, P.; SANCHEZ, E.; SAVINO, A.; SEKANINA, L.; TRAIOLA, M.; VASICEK, Z.; VIRAZEL, A. Design, Verification, Test and In-Field Implications of Approximate Computing Systems. In 25th IEEE European Test Symposium. Los Alamitos: Institute of Electrical and Electronics Engineers, 2020. p. 1-10. ISBN: 978-1-7281-4312-5. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; SEKANINA, L.; VASICEK, Z.; VOJNAR, T. Adaptive verifiability-driven strategy for evolutionary approximation of arithmetic circuits. APPLIED SOFT COMPUTING, 2020, vol. 95, no. 106466, p. 1-17. ISSN: 1568-4946. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VOJNAR, T. Satisfiability Solving Meets Evolutionary Optimisation in Designing Approximate Circuits. In Theory and Applications of Satisfiability Testing - SAT 2020. Lecture Notes in Computer Science. Alghero: Springer International Publishing, 2020. p. 481-491. ISBN: 978-3-030-51824-0. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "COLUCCI, A.; MARCHISIO, A.; BUSSOLINO, B.; MRAZEK, V.; MARTINA, M.; MASERA, G.; SHAFIQUE, M. A Fast Design Space Exploration Framework for the Deep Learning Accelerators: Work-in-Progress. In 2020 International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)}. Singapore: Institute of Electrical and Electronics Engineers, 2020. p. 34-36. ISBN: 978-1-7281-9198-0. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "GROCHOL, D.; SEKANINA, L. Evolutionary Design of Hash Functions for IPv6 Network Flow Hashing. In IEEE Congress on Evolutionary Computation. Los Alamitos: IEEE Computational Intelligence Society, 2020. p. 1-8. ISBN: 978-1-7281-6929-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HODAN, D.; MRAZEK, V.; VASICEK, Z. Semantically-Oriented Mutation Operator in Cartesian Genetic Programming for Evolutionary Circuit Design. In GECCO 2020 - Proceedings of the 2020 Genetic and Evolutionary Computation Conference. Cancun: Association for Computing Machinery, 2020. p. 940-948. ISBN: 978-1-4503-7128-5. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HUSA, J.; SEKANINA, L. Evolving Cryptographic Boolean Functions with Minimal Multiplicative Complexity. In 2020 IEEE Congress on Evolutionary Computation (CEC). Los Alamitos: IEEE Computational Intelligence Society, 2020. p. 1-8. ISBN: 978-1-7281-6929-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KOCNOVA, J.; VASICEK, Z. EA-based Resynthesis: An Efficient Tool for Optimization of Digital Circuits. Genetic Programming and Evolvable Machines, 2020, vol. 21, no. 3, p. 287-319. ISSN: 1389-2576. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "MARCHISIO, A.; MASSA, A.; MRAZEK, V.; BUSSOLINO, B.; MARTINA, M.; SHAFIQUE, M. NASCaps: A Framework for Neural Architecture Search to Optimize the Accuracy and Hardware Efficiency of Convolutional Capsule Networks. In IEEE/ACM International Conference on Computer-Aided Design (ICCAD '20). Virtual Event: Association for Computing Machinery, 2020. p. 1-9. ISBN: 978-1-4503-8026-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "MARCHISIO, A.; MRAZEK, V.; HANIF, M.; SHAFIQUE, M. ReD-CaNe: A Systematic Methodology for Resilience Analysis and Design of Capsule Networks under Approximations. In Proceedings of the 2020 Design, Automation and Test in Europe Conference and Exhibition, DATE 2020. Grenoble: Institute of Electrical and Electronics Engineers, 2020. p. 1205-1210. ISBN: 978-3-9819263-4-7. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "MRAZEK, V.; SEKANINA, L.; VASICEK, Z. Libraries of Approximate Circuits: Automated Design and Application in CNN Accelerators. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2020, vol. 10, no. 4, p. 406-418. ISSN: 2156-3357. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "MRAZEK, V.; SEKANINA, L.; VASICEK, Z. Using Libraries of Approximate Circuits in Design of Hardware Accelerators of Deep Neural Networks. In 2nd IEEE International Conference on Artificial Intelligence Circuits and Systems. Genoa: Institute of Electrical and Electronics Engineers, 2020. p. 243-247. ISBN: 978-1-7281-4922-6. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "PRABAKARAN, B.; MRAZEK, V.; VASICEK, Z.; SEKANINA, L.; SHAFIQUE, M. ApproxFPGAs: Embracing ASIC-based Approximate Arithmetic Components for FPGA-Based Systems. In 2020 57th ACM/IEEE Design Automation Conference (DAC). San Francisco: Institute of Electrical and Electronics Engineers, 2020. p. 1-6. ISBN: 978-1-4503-6725-7. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "VAVERKA, F.; MRAZEK, V.; VASICEK, Z.; SEKANINA, L. TFApprox: Towards a Fast Emulation of DNN Approximate Hardware Accelerators on GPU. In 2020 Design, Automation & Test in Europe Conference & Exhibition (DATE). Grenoble: Institute of Electrical and Electronics Engineers, 2020. p. 294-297. ISBN: 978-3-9819263-4-7. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BADAN, F.; SEKANINA, L. Optimizing Convolutional Neural Networks for Embedded Systems By Means of Neuroevolution. In Theory and Practice of Natural Computing. LNCS 11934. Cham: Springer International Publishing, 2019. p. 109-121. ISBN: 978-3-030-34499-3. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BIDLO, M. Advances in the Evolution of Complex Cellular Automata. In Computational Intelligence. International Joint Conference, IJCCI 2016 Porto, Portugal, November 9-11, 2016 Revised Selected Papers. Cham: Springer International Publishing, 2019. p. 123-146. ISBN: 978-3-319-99282-2. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BIDLO, M. Comparison of Evolutionary Development of Cellular Automata Using Various Representations. Mendel Journal series, 2019, vol. 2019, no. 1, p. 95-102. ISSN: 1803-3814. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BIDLO, M. Evolution of Cellular Automata Development Using Various Representations. In GECCO '19 Proceedings of the Genetic and Evolutionary Computation Conference Companion. Praha: Association for Computing Machinery, 2019. p. 107-108. ISBN: 978-1-4503-6748-6. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BIDLO, M.; KORGO, J. Ant Colony Optimisation for Performing Computational Task in Cellular Automata. Mendel Journal series, 2019, vol. 25, no. 1, p. 147-156. ISSN: 1803-3814. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "DRAHOSOVA, M.; SEKANINA, L.; WIGLASZ, M. Adaptive Fitness Predictors in Coevolutionary Cartesian Genetic Programming. EVOLUTIONARY COMPUTATION, 2019, vol. 27, no. 3, p. 497-523. ISSN: 1063-6560. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HUSA, J. Comparison of Genetic Programming Methods on Design of Cryptographic Boolean Functions. In Genetic Programming 22st European Conference, EuroGP 2019, Proceedings. Cham: Springer International Publishing, 2019. p. 228-244. ISBN: 978-3-030-14811-9. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HUSA, J. Designing Correlation Immune Boolean Functions With Minimal Hamming Weight Using Various Genetic Programming Methods. In GECCO '19 Proceedings of the Genetic and Evolutionary Computation Conference Companion. Praha: Association for Computing Machinery, 2019. p. 342-343. ISBN: 978-1-4503-6748-6. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KOCNOVA, J.; VASICEK, Z. EA-based refactoring of mapped logic circuits. In 2019 IEEE International Symposium on Circuits and Systems (ISCAS). Red Hook, NY: IEEE Computer Society Press, 2019. p. 1-5. ISBN: 978-1-7281-0397-6. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KOCNOVA, J.; VASICEK, Z. Impact of subcircuit selection on the efficiency of CGP-based optimization of gate-level circuits. In GECCO '19 Proceedings of the Genetic and Evolutionary Computation Conference Companion. New York: Association for Computing Machinery, 2019. p. 377-378. ISBN: 978-1-4503-6748-6. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KOCNOVA, J.; VASICEK, Z. Towards a Scalable EA-based Optimization of Digital Circuits. In Genetic Programming 22nd European Conference, EuroGP 2019. Cham: Springer International Publishing, 2019. p. 81-97. ISBN: 978-3-030-16669-4. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KONCAL, O.; SEKANINA, L. Cartesian Genetic Programming as an Optimizer of Programs Evolved with Geometric Semantic Genetic Programming. In Genetic Programming 22nd European Conference, EuroGP 2019. Cham: Springer International Publishing, 2019. p. 98-113. ISBN: 978-3-030-16669-4. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MRAZEK, V.; HANIF, M.; VASICEK, Z.; SEKANINA, L.; SHAFIQUE, M. autoAx: An Automatic Design Space Exploration and Circuit Building Methodology utilizing Libraries of Approximate Components. In The 56th Annual Design Automation Conference 2019 (DAC '19). Las Vegas: Association for Computing Machinery, 2019. p. 1-6. ISBN: 978-1-4503-6725-7. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MRAZEK, V.; SEKANINA, L.; DOBAI, R.; SYS, M.; SVENDA, P. Efficient On-Chip Randomness Testing Utilizing Machine Learning Techniques. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2019, vol. 27, no. 12, p. 2734-2744. ISSN: 1063-8210. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MRAZEK, V.; VASICEK, Z.; SEKANINA, L.; HANIF, M.; SHAFIQUE, M. ALWANN: Automatic Layer-Wise Approximation of Deep Neural Network Accelerators without Retraining. In Proceedings of the IEEE/ACM International Conference on Computer-Aided Design. Denver: Institute of Electrical and Electronics Engineers, 2019. p. 1-8. ISBN: 978-1-7281-2350-9. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "REK, P.; SEKANINA, L. TypeCNN: CNN Development Framework With Flexible Data Types. In Design, Automation and Test in Europe Conference. Florence: European Design and Automation Association, 2019. p. 292-295. ISBN: 978-3-9819263-2-3. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "SEKANINA, L.; HU, T.; LOURENCO, N.; RICHTER, H.; GARCIA-SANCHEZ, P. Genetic Programming 22nd European Conference. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2019. 294 p. ISBN: 978-3-030-16669-4. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "SEKANINA, L.; VASICEK, Z.; MRAZEK, V. Automated Search-Based Functional Approximation for Digital Circuits. In Approximate Circuits - Methodologies and CAD. Heidelberg: Springer International Publishing, 2019. p. 175-203. ISBN: 978-3-319-99322-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "STAMENKOVIC, Z.; BOSIO, A.; CSEREY, G.; NOVAK, O.; PLESKACZ, W.; SEKANINA, L.; STEININGER, A.; STOJANOVIC, G.; STOPJAKOVA, V. International Symposium on Design and Diagnostics of Electronic Circuits and Systems. In 2019 IEEE International Test Conference. Washington, DC: Institute of Electrical and Electronics Engineers, 2019. p. 1-4. ISBN: 978-1-7281-4823-6. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "VASICEK, Z. Formal Methods for Exact Analysis of Approximate Circuits. IEEE Access, 2019, vol. 7, no. 1, p. 177309-177331. ISSN: 2169-3536. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "VASICEK, Z.; MRAZEK, V.; SEKANINA, L. Automated Circuit Approximation Method Driven by Data Distribution. In Design, Automation and Test in Europe Conference. Florence: European Design and Automation Association, 2019. p. 96-101. ISBN: 978-3-9819263-2-3. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CASTELLI, M.; SEKANINA, L.; ZHANG, M.; CAGNONI, S.; GARCIA-SANCHEZ, P. 21st European Conference on Genetic Programming. Lecture Notes in Computer Science. Berlin: Springer International Publishing, 2018. 323 p. ISBN: 978-3-319-77552-4. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "GROCHOL, D.; SEKANINA, L. Fast Reconfigurable Hash Functions for Network Flow Hashing in FPGAs. In Proceedings of the 2018 NASA/ESA Conference on Adaptive Hardware and Systems. Edinburgh: Institute of Electrical and Electronics Engineers, 2018. p. 257-263. ISBN: 978-1-5386-7753-7. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "GROCHOL, D.; SEKANINA, L. Multi-Objective Evolution of Ultra-Fast General-Purpose Hash Functions. In European Conference on Genetic Programming. Lecture Notes in Computer Science. Berlin: Springer International Publishing, 2018. p. 187-202. ISBN: 978-3-319-77553-1. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "HUSA, J.; KALKREUTH, R. A Comparative Study on Crossover in Cartesian Genetic Programming. In Genetic Programming 21st European Conference, EuroGP 2018, Proceedings. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2018. no. 1, p. 203-219. ISBN: 978-3-319-77553-1. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MRAZEK, V.; SYS, M.; VASICEK, Z.; SEKANINA, L.; MATYAS, V. Evolving Boolean Functions for Fast and Efficient Randomness Testing. In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '18). Kyoto: Association for Computing Machinery, 2018. p. 1302-1309. ISBN: 978-1-4503-5618-3. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MRAZEK, V.; VASICEK, Z. Evolutionary Design of Large Approximate Adders Optimized for Various Error Criteria. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '18). Kyoto: Association for Computing Machinery, 2018. p. 294-295. ISBN: 978-1-4503-5764-7. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MRAZEK, V.; VASICEK, Z.; HRBACEK, R. Role of circuit representation in evolutionary design of energy-efficient approximate circuits. IET Computers and Digital Techniques, 2018, vol. 2018, no. 4, p. 139-149. ISSN: 1751-8601. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MRAZEK, V.; VASICEK, Z.; SEKANINA, L. Design of Quality-Configurable Approximate Multipliers Suitable for Dynamic Environment. In Proceedings of the 2018 NASA/ESA Conference on Adaptive Hardware and Systems. Edinburgh: Institute of Electrical and Electronics Engineers, 2018. p. 264-271. ISBN: 978-1-5386-7753-7. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MRAZEK, V.; VASICEK, Z.; SEKANINA, L.; JIANG, H.; HAN, J. Scalable Construction of Approximate Multipliers With Formally Guaranteed Worst Case Error. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2018, vol. 26, no. 11, p. 2572-2576. ISSN: 1063-8210. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SEKANINA, L. Approximate Computing: An Old Job for Cartesian Genetic Programming?. In Inspired by Nature. Emergence, Complexity and Computation, Vol. 28. Cham: Springer International Publishing, 2018. p. 195-212. ISBN: 978-3-319-67996-9. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SEKANINA, L.; MRAZEK, V.; VASICEK, Z. Design Space Exploration for Approximate Implementations of Arithmetic Data Path Primitives. In 25th IEEE International Conference on Electronics Circuits and Systems (ICECS). Bordeaux: IEEE Circuits and Systems Society, 2018. p. 377-380. ISBN: 978-1-5386-9562-3. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SEKANINA, L.; VASICEK, Z.; BOSIO, A.; TRAIOLA, M.; RECH, P.; OLIVEIRA, D.; FERNANDES, F.; DI CARLO, S. Special Session: How Approximate Computing impacts Verification, Test and Reliability. 2018 IEEE 36th VLSI Test Symposium. San Francisco: IEEE Computer Society, 2018. 1 p. ISBN: 978-1-5386-3774-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "VASICEK, Z. Bridging the Gap Between Evolvable Hardware and Industry Using Cartesian Genetic Programming. In Inspired by Nature. Emergence, Complexity and Computation, Vol. 28. Cham: Springer International Publishing, 2018. p. 39-55. ISBN: 978-3-319-67996-9. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "WIGLASZ, M.; SEKANINA, L. Cooperative Coevolutionary Approximation in HOG-based Human Detection Embedded System. In 2018 IEEE Symposium Series on Computational Intelligence (SSCI 2018). Bengaluru: Institute of Electrical and Electronics Engineers, 2018. p. 1313-1320. ISBN: 978-1-5386-9276-9. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "BIDLO, M. Evolution of Cellular Automata-Based Replicating Structures Exhibiting Unconventional Features. In International Joint Conference, IJCCI 2015 Lisbon, Portugal, November 12-14, 2015, Revised Selected Papers. Computational Intelligence. Cham: Springer International Publishing, 2017. p. 21-41. ISBN: 978-3-319-48506-5. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VASICEK, Z.; SEKANINA, L.; VOJNAR, T. Approximating Complex Arithmetic Circuits with Formal Error Guarantees: 32-bit Multipliers Accomplished. In Proceedings of 36th IEEE/ACM International Conference On Computer Aided Design (ICCAD). Irvine, CA: Institute of Electrical and Electronics Engineers, 2017. p. 416-423. ISBN: 978-1-5386-3093-8. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "DOBAI, R.; KORENEK, J.; SEKANINA, L. Evolutionary design of hash function pairs for network filters. APPLIED SOFT COMPUTING, 2017, vol. 56, no. 7, p. 173-181. ISSN: 1568-4946. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "GROCHOL, D.; SEKANINA, L. Comparison of Parallel Linear Genetic Programming Implementations. In Recent Advances in Soft Computing: Proceedings of the 22nd International Conference on Soft Computing (MENDEL 2016) held in Brno, Czech Republic, at June 8-10, 2016. Cham: Springer International Publishing, 2017. p. 64-76. ISBN: 978-3-319-58088-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "GROCHOL, D.; SEKANINA, L. Multiobjective Evolution of Hash Functions for High Speed Networks. In Proceedings of the 2017 IEEE Congress on Evolutionary Computation. San Sebastian: IEEE Computer Society, 2017. p. 1533-1540. ISBN: 978-1-5090-4600-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "HUSA, J.; DOBAI, R. Designing Bent Boolean Functions With Parallelized Linear Genetic Programming. In GECCO Companion '17 Proceedings of the Companion Publication of the 2017 on Genetic and Evolutionary Computation Conference. Berlin: Association for Computing Machinery, 2017. p. 1825-1832. ISBN: 978-1-4503-4939-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KESNER, F.; SEKANINA, L.; BRAZDIL, M. Modular Framework for Detection of Inter-ictal Spikes in iEEG. In The 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'17). Los Alamos: Institute of Electrical and Electronics Engineers, 2017. p. 418-421. ISBN: 978-1-5090-2809-2. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KIDON, M.; DOBAI, R. Evolutionary design of hash functions for IP address hashing using genetic programming. In 2017 IEEE Congress on Evolutionary Computation (CEC). San Sebastian: Institute of Electrical and Electronics Engineers, 2017. p. 1720-1727. ISBN: 978-1-5090-4601-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MCDERMOTT, J.; CASTELLI, M.; SEKANINA, L.; HAASDIJK, E.; GARCIA-SANCHEZ, P. 20th European Conference on Genetic Programming. Lecture Notes in Computer Science. Berlin: Springer International Publishing, 2017. 359 p. ISBN: 978-3-319-55696-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MRAZEK, V.; HRBACEK, R.; VASICEK, Z.; SEKANINA, L. EvoApprox8b: Library of Approximate Adders and Multipliers for Circuit Design and Benchmarking of Approximation Methods. In Proc. of the 2017 Design, Automation & Test in Europe Conference & Exhibition (DATE). Lausanne: European Design and Automation Association, 2017. p. 258-261. ISBN: 978-3-9815370-9-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MRAZEK, V.; VASICEK, Z. Parallel Optimization of Transistor Level Circuits using Cartesian Genetic Programming. In GECCO Companion '17 Proceedings of the Companion Publication of the 2017 on Genetic and Evolutionary Computation Conference. Berlin: Association for Computing Machinery, 2017. p. 1849-1856. ISBN: 978-1-4503-4939-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "SEKANINA, L.; VASICEK, Z.; MRAZEK, V. Approximate Circuits in Low-Power Image and Video Processing: The Approximate Median Filter. Radioengineering, 2017, vol. 26, no. 3, p. 623-632. ISSN: 1210-2512. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "SHAFIQUE, M.; HAFIZ, R.; JAVED, M.; ABBAS, S.; SEKANINA, L.; VASICEK, Z.; MRAZEK, V. Adaptive and Energy-Efficient Architectures for Machine Learning: Challenges, Opportunities, and Research Roadmap. In 2017 IEEE Computer Society Annual Symposium on VLSI. Los Alamitos: IEEE Computer Society Press, 2017. p. 627-632. ISBN: 978-1-5090-6762-6. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "VASICEK, Z. Relaxed equivalence checking: a new challenge in logic synthesis. In Proceedings 2017 IEEE 20th International Symposium on Design and Diagnotics of Electronic Circuit & Systems. Dresden: IEEE Computer Society, 2017. p. 1-6. ISBN: 978-1-5386-0472-4. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "VASICEK, Z.; MRAZEK, V. Trading between Quality and Non-functional Properties of Median Filter in Embedded Systems. Genetic Programming and Evolvable Machines, 2017, vol. 18, no. 1, p. 45-82. ISSN: 1389-2576. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "VASICEK, Z.; MRAZEK, V.; SEKANINA, L. Towards Low Power Approximate DCT Architecture for HEVC Standard. In Proc. of the 2017 Design, Automation & Test in Europe Conference & Exhibition (DATE). Lausanne: European Design and Automation Association, 2017. p. 1576-1581. ISBN: 978-3-9815370-9-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "WIGLASZ, M.; SEKANINA, L. Evolutionary Approximation of Gradient Orientation Module in HOG-based Human Detection System. In 2017 IEEE Global Conference on Signal and Information Processing GlobalSIP 2017. Montreal: IEEE Signal Processing Society, 2017. p. 1300-1304. ISBN: 978-1-5090-5989-8. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "BIDLO, M. Evolution of Complex Emergent Behaviour in Multi-State Cellular Automata. In Proceedings of the 2016 on Genetic and Evolutionary Computation Conference Companion. New York: Association for Computing Machinery, 2016. p. 157-158. ISBN: 978-1-4503-4323-7. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "BIDLO, M. Evolution of Generic Square Calculations in Cellular Automata. In Proceedings of the 8th International Joint Conference on Computational Intelligence - Volume 3: ECTA. Porto: SciTePress - Science and Technology Publications, 2016. p. 94-102. ISBN: 978-989-758-201-1. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "BIDLO, M. On Routine Evolution of Complex Cellular Automata. IEEE transactions on evolutionary computation, 2016, vol. 20, no. 5, p. 742-754. ISSN: 1089-778X. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "DOBAI, R.; KORENEK, J.; SEKANINA, L. Adaptive Development of Hash Functions in FPGA-Based Network Routers. In 2016 IEEE Symposium Series on Computational Intelligence. Athens: IEEE Computational Intelligence Society, 2016. p. 1-8. ISBN: 978-1-5090-4240-1. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "DVORACEK, P.; SEKANINA, L. Evolutionary Approximation of Edge Detection Circuits. In 19th European Conference on Genetic programming. Lecture Notes in Computer Science. Berlin: Springer International Publishing, 2016. p. 19-34. ISBN: 978-3-319-30667-4. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "GROCHOL, D. Evolucni hardware v sitovych aplikacich. Pocitacove architektury a diagnostika PAD 2016. Boretice: Fakulta informacnich technologii VUT v Brne, 2016. s. 57-60. ISBN: 978-80-214-5376-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "GROCHOL, D.; SEKANINA, L. Evolutionary design of fast high-quality hash functions for network applications. In GECCO '16 Proceedings of the 2016 on Genetic and Evolutionary Computation Conference. New York, NY: Association for Computing Machinery, 2016. p. 901-908. ISBN: 978-1-4503-4206-3. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "GROCHOL, D.; SEKANINA, L.; KORENEK, J.; ZADNIK, M.; KOSAR, V. Evolutionary Circuit Design for Fast FPGA-Based Classification of Network Application Protocols. APPLIED SOFT COMPUTING, 2016, vol. 38, no. 1, p. 933-941. ISSN: 1568-4946. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; SEKANINA, L.; VASICEK, Z.; VOJNAR, T. Towards Formal Relaxed Equivalence Checking in Approximate Computing Methodology. 2nd Workshop on Approximate Computing (WAPCO 2016). Prague: 2016. p. 1-6. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "HRBACEK, R.; MRAZEK, V.; VASICEK, Z. Automatic Design of Approximate Circuits by Means of Multi-Objective Evolutionary Algorithms. In Proceedings of the 11th International Conference on Design & Technology of Integrated Systems in Nanoscale Era. Istanbul: Istanbul Sehir University, 2016. p. 239-244. ISBN: 978-1-5090-0335-8. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "MRAZEK, V. Evolucni snizovani prikonu: Od obvodu na urovni tranzistoru po neuronove site na cipu. Pocitacove architektury a diagnostika PAD 2016. Boretice: Fakulta informacnich technologii VUT v Brne, 2016. s. 61-64. ISBN: 978-80-214-5376-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "MRAZEK, V.; SARWAR, S.; SEKANINA, L.; VASICEK, Z.; ROY, K. Design of Power-Efficient Approximate Multipliers for Approximate Artificial Neural Networks. In Proceedings of the IEEE/ACM International Conference on Computer-Aided Design. Austin, TX: Association for Computing Machinery, 2016. p. 811-817. ISBN: 978-1-4503-4466-1. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "MRAZEK, V.; VASICEK, Z. Automatic Design of Arbitrary-Size Approximate Sorting Networks with Error Guarantee. In Power and Timing Modeling, Optimization and Simulation (PATMOS), 2016 26rd International Workshop on. Bremen: Institute of Electrical and Electronics Engineers, 2016. p. 221-228. ISBN: 978-1-5090-0733-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "SANCHEZ-CLEMENTE, A.; ENTRENA, L.; HRBACEK, R.; SEKANINA, L. Error Mitigation using Approximate Logic Circuits: A Comparison of Probabilistic and Evolutionary Approaches. IEEE TRANSACTIONS ON RELIABILITY, 2016, vol. 65, no. 4, p. 1871-1883. ISSN: 0018-9529. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "SEKANINA, L. Introduction to Approximate Computing: Embedded Tutorial. In 19th IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems. Kosice: Institute of Electrical and Electronics Engineers, 2016. p. 90-95. ISBN: 978-1-5090-2467-4. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "SEKANINA, L.; KAPUSTA, V. Visualisation and Analysis of Genetic Records Produced by Cartesian Genetic Programming. In GECCO'16 Companion. New York: Association for Computing Machinery, 2016. p. 1411-1418. ISBN: 978-1-4503-4323-7. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "SEKANINA, L.; VASICEK, Z. Genetic Improvement for Approximate Computing. 2nd Workshop on Approximate Computing (WAPCO 2016). Prague: 2016. p. 1-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "VASICEK, Z.; MRAZEK, V.; SEKANINA, L. Evolutionary Functional Approximation of Circuits Implemented into FPGAs. In 2016 IEEE Symposium Series on Computational Intelligence. Athens: Institute of Electrical and Electronics Engineers, 2016. p. 1-8. ISBN: 978-1-5090-4240-1. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "VASICEK, Z.; SEKANINA, L. Evolutionary Design of Complex Approximate Combinational Circuits. Genetic Programming and Evolvable Machines, 2016, vol. 17, no. 2, p. 169-192. ISSN: 1389-2576. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "VASICEK, Z.; SEKANINA, L. Search-based synthesis of approximate circuits implemented into FPGAs. In 26th International Conference on Field Programmable Logic and Applications. Lausanne: Institute of Electrical and Electronics Engineers, 2016. p. 1-4. ISBN: 978-2-8399-1844-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "VAVERKA, F.; HRBACEK, R.; SEKANINA, L. Evolving Component Library for Approximate High Level Synthesis. In 2016 IEEE Symposium Series on Computational Intelligence. Athens: IEEE Computational Intelligence Society, 2016. p. 1-8. ISBN: 978-1-5090-4240-1. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "WIGLASZ, M.; DRAHOSOVA, M. Plastic Fitness Predictors Coevolved with Cartesian Programs. In 19th European Conference on Genetic programming. Lecture Notes in Computer Science. Berlin: Springer International Publishing, 2016. p. 164-179. ISBN: 978-3-319-30667-4. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "BIDLO, M. Investigation of Replicating Tiles in Cellular Automata Designed by Evolution Using Conditionally Matching Rules. In 2015 IEEE International Conference on Evolvable Systems (ICES). Proceedings of the 2015 IEEE Symposium Series on Computational Intelligence (SSCI). Cape Town: IEEE Computational Intelligence Society, 2015. p. 1506-1513. ISBN: 978-1-4799-7560-0. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "BIDLO, M. On Routine Evolution of New Replicating Structures in Cellular Automata. In 7th International Conference on Evolutionary Computationa Theory and Applications. 7th International Joint Conference on Computational Intelligence. Lisbon: SciTePress - Science and Technology Publications, 2015. p. 28-38. ISBN: 978-989-758-157-1. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "DOBAI, R.; KORENEK, J. Evolution of Non-Cryptographic Hash Function Pairs for FPGA-Based Network Applications. In 2015 IEEE Symposium Series on Computational Intelligence. Cape Town: Institute of Electrical and Electronics Engineers, 2015. p. 1214-1219. ISBN: 978-1-4799-7560-0. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "DOBAI, R.; SEKANINA, L. Low-Level Flexible Architecture with Hybrid Reconfiguration for Evolvable Hardware. ACM Transactions on Reconfigurable Technology and Systems, 2015, vol. 8, no. 3, p. 1-24. ISSN: 1936-7406. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "DRAHOSOVA, M.; HULVA, J.; SEKANINA, L. Indirectly Encoded Fitness Predictors Coevolved with Cartesian Programs. In Genetic Programming. Lecture Notes in Computer Science. Berlin: Springer International Publishing, 2015. p. 113-125. ISBN: 978-3-319-16500-4. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "GROCHOL, D.; SEKANINA, L.; ZADNIK, M.; KORENEK, J. A Fast FPGA-Based Classification of Application Protocols Optimized Using Cartesian GP. In Applications of Evolutionary Computation, 18th European Conference. Lecture Notes in Computer Science. Berlin: Springer International Publishing, 2015. p. 67-78. ISBN: 978-3-319-16548-6. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "HRBACEK, R. Parallel Multi-Objective Evolutionary Design of Approximate Circuits. In GECCO '15 Proceedings of the 2015 conference on Genetic and evolutionary computation. New York: Association for Computing Machinery, 2015. p. 687-694. ISBN: 978-1-4503-3472-3. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MRAZEK, V. Evolucni navrh nizkoprikonovych obvodu. Pocitacove architektury a diagnostika PAD 2015. Zlin: Fakulta aplikovane informatiky, Univerzita Tomase Bati ve Zline, 2015. s. 1-6. ISBN: 978-80-7454-522-1. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MRAZEK, V.; VASICEK, Z. Automatic Design of Low-Power VLSI Circuits: Accurate and Approximate Multipliers. In Proceedings of 13th IEEE/IFIP International Conference on Embedded and Ubiquitous Computing. Porto: Institute of Electrical and Electronics Engineers, 2015. p. 106-113. ISBN: 978-1-4673-8299-1. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MRAZEK, V.; VASICEK, Z. Evolutionary Design of Transistor Level Digital Circuits using Discrete Simulation. In Genetic Programming, 18th European Conference, EuroGP 2015. LCNS 9025. Berlin: Springer International Publishing, 2015. p. 66-77. ISBN: 978-3-319-16500-4. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MRAZEK, V.; VASICEK, Z.; SEKANINA, L. Evolutionary Approximation of Software for Embedded Systems: Median Function. In GECCO Companion '15 Proceedings of the Companion Publication of the 2015 on Genetic and Evolutionary Computation Conference. ACM. New York: Association for Computing Machinery, 2015. p. 795-801. ISBN: 978-1-4503-3488-4. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PETRLIK, J.; SEKANINA, L. Towards Robust and Accurate Traffic Prediction Using Parallel Multiobjective Genetic Algorithms and Support Vector Regression. In 2015 IEEE 18th International Conference on Intelligent Transportation Systems. Los Alamitos: IEEE Computer Society, 2015. p. 2231-2236. ISBN: 978-1-4673-6596-3. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "SEKANINA, L. Principles and Applications of Polymorphic Circuits. In Evolvable Hardware - From Practice to Application. Berlin: Springer Verlag, 2015. p. 209-224. ISBN: 978-3-662-44615-7. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "SEKANINA, L.; VASICEK, Z. Evolutionary Computing in Approximate Circuit Design and Optimization. 1st Workshop on Approximate Computing (WAPCO 2015). Amsterdam: 2015. p. 1-6. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "SEKANINA, L.; VASICEK, Z. Functional Equivalence Checking for Evolution of Complex Digital Circuits. In Evolvable Hardware - From Practice to Application. Berlin: Springer Verlag, 2015. p. 175-189. ISBN: 978-3-662-44615-7. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "VASICEK, Z. Cartesian GP in Optimization of Combinational Circuits with Hundreds of Inputs and Thousands of Gates. In Genetic Programming, 18th European Conference, EuroGP 2015. LCNS 9025. Berlin: Springer International Publishing, 2015. p. 139-150. ISBN: 978-3-319-16500-4. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "VASICEK, Z.; SEKANINA, L. Circuit Approximation Using Single- and Multi-Objective Cartesian GP. In Genetic Programming. Lecture Notes in Computer Science. Berlin: Springer International Publishing, 2015. p. 217-229. ISBN: 978-3-319-16500-4. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "VASICEK, Z.; SEKANINA, L. Evolutionary approximation of complex digital circuits. In Proceedings of the Companion Publication of the 2015 on Genetic and Evolutionary Computation Conference. New York: Association for Computing Machinery, 2015. p. 1505-1506. ISBN: 978-1-4503-3488-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "BIDLO, M. Evolving multiplication as emergent behavior in cellular automata using conditionally matching rules. In 2014 IEEE Congress on Evolutionary Computation (CEC). Beijing: IEEE Computational Intelligence Society, 2014. p. 2732-2739. ISBN: 978-1-4799-1488-3. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "BIDLO, M.; VASICEK, Z. On Evolution of Multi-Category Pattern Classifiers Suitable for Embedded Systems. In Genetic Programming, 17th European Conference, EuroGP 2014. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2014. p. 234-245. ISBN: 978-3-662-44302-6. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "DOBAI, R. Evolutionary On-line Synthesis of Hardware Accelerators for Software Modules in Reconfigurable Embedded Systems. In 2014 24th International Conference on Field Programmable Logic and Applications (FPL). Munich: Institute of Electrical and Electronics Engineers, 2014. p. 1-6. ISBN: 978-3-00-044645-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "DOBAI, R.; GLETTE, K.; TORRESEN, J.; SEKANINA, L. Evolutionary Digital Circuit Design with Fast Candidate Solution Establishment in Field Programmable Gate Arrays. In 2014 IEEE International Conference on Evolvable Systems Proceedings. Piscataway: Institute of Electrical and Electronics Engineers, 2014. p. 85-92. ISBN: 978-1-4799-4480-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "DRAHOSOVA, M.; KOMJATHY, G.; SEKANINA, L. Towards Compositional Coevolution in Evolutionary Circuit Design. In 2014 IEEE International Conference on Evolvable Systems Proceedings. Piscataway: Institute of Electrical and Electronics Engineers, 2014. p. 157-164. ISBN: 978-1-4799-4479-8. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HRBACEK, R. Bent Functions Synthesis on Xeon Phi Coprocessor. In Mathematical and Engineering Methods in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2014. p. 88-99. ISBN: 978-3-319-14895-3. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HRBACEK, R.; DVORAK, V. Bent Function Synthesis by Means of Cartesian Genetic Programming. In Parallel Problem Solving from Nature - PPSN XIII. Heidelberg: Springer Verlag, 2014. p. 414-423. ISBN: 978-3-319-10761-5. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HRBACEK, R.; SEKANINA, L. Towards Highly Optimized Cartesian Genetic Programming: From Sequential via SIMD and Thread to Massive Parallel Implementation. In GECCO '14 Proceedings of the 2014 conference on Genetic and evolutionary computation. New York: Association for Computing Machinery, 2014. p. 1015-1022. ISBN: 978-1-4503-2662-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MINARIK, M.; SEKANINA, L. Exploring the Search Space of Hardware / Software Embedded Systems by Means of GP. In Genetic Programming, 17th European Conference, EuroGP 2014. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2014. p. 112-123. ISBN: 978-3-662-44302-6. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MRAZEK, V. Akcelerace evolucniho navrhu digitalnich obvodu na urovni tranzistoru s vyuzitim platformy Zynq. Proceedings of the 20th Student Conference, EEICT 2014. Volume 2. Brno: Vysoke uceni technicke v Brne, 2014. s. 229-231. ISBN: 978-80-214-4923-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MRAZEK, V.; VASICEK, Z. Acceleration of Transistor-Level Evolution using Xilinx Zynq Platform. In 2014 IEEE International Conference on Evolvable Systems Proceedings. Piscataway: Institute of Electrical and Electronics Engineers, 2014. p. 9-16. ISBN: 978-1-4799-4480-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "PETRLIK, J.; FUCIK, O.; SEKANINA, L. Multiobjective Selection of Input Sensors for SVR Applied to Road Traffic Prediction. In Parallel Problem Solving from Nature - PPSN XIII. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2014. p. 802-811. ISBN: 978-3-319-10761-5. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "PETRLIK, J.; FUCIK, O.; SEKANINA, L. Multiobjective Selection of Input Sensors for Travel Times Forecasting Using Support Vector Regression. In 2014 IEEE Symposium on Computational Intelligence in Vehicles and Transportation Systems Proceedings. Piscataway: Institute of Electrical and Electronics Engineers, 2014. p. 14-21. ISBN: 978-1-4799-4498-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "SEKANINA, L.; PTAK, O.; VASICEK, Z. Cartesian Genetic Programming as Local Optimizer of Logic Networks. In 2014 IEEE Congress on Evolutionary Computation. Beijing: IEEE Computational Intelligence Society, 2014. p. 2901-2908. ISBN: 978-1-4799-1488-3. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "SEKANINA, L.; VASICEK, Z. On Evolutionary Approximation of Logic Circuits. In Computing with New Resources. Berlin: Springer Verlag, 2014. p. 367-378. ISBN: 978-3-319-13349-2. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "VASICEK, Z.; SEKANINA, L. Evolutionary Design of Approximate Multipliers Under Different Error Metrics. In 17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Warsaw: IEEE Computer Society, 2014. p. 135-140. ISBN: 978-1-4799-4558-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "VASICEK, Z.; SEKANINA, L. How to Evolve Complex Combinational Circuits From Scratch?. In 2014 IEEE International Conference on Evolvable Systems Proceedings. Piscataway: Institute of Electrical and Electronics Engineers, 2014. p. 133-140. ISBN: 978-1-4799-4480-4. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "BIDLO, M.; VASICEK, Z. Evolution of Cellular Automata with Conditionally Matching Rules. In 2013 IEEE Congress on Evolutionary Computation (CEC 2013). Cancun: IEEE Computer Society, 2013. p. 1178-1185. ISBN: 978-1-4799-0452-5. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "BIDLO, M.; VASICEK, Z. Functional-Level Development of Image Filters by Means of Cellular Automata. In 2013 IEEE International Conference on Evolvable Systems (ICES). Proceedings of the 2013 IEEE Symposium Series on Computational Intelligence (SSCI). Singapore: IEEE Computer Society, 2013. p. 29-36. ISBN: 978-1-4673-5847-7. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "BRAZDOVA, M.; MARTINEK, T.; LEXA, M. In silico search for secondary structures in p53 target genes using R/Bioconductor. ITAT 2013: Information Technologies - Applications and Theory. Donovaly: CreativeSpace Independent Publishing Platform, 2013. p. 42-46. ISBN: 978-1-4909-5208-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DOBAI, R.; SEKANINA, L. Image Filter Evolution on the Xilinx Zynq Platform. Proceedings of the 2013 NASA/ESA Conference on Adaptive Hardware and Systems. Torino: IEEE Circuits and Systems Society, 2013. p. 164-171. ISBN: 978-1-4673-6381-5. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DOBAI, R.; SEKANINA, L. Towards Evolvable Systems Based on the Xilinx Zynq Platform. 2013 IEEE International Conference on Evolvable Systems (ICES). Proceedings of the 2013 IEEE Symposium Series on Computational Intelligence (SSCI). Singapur: IEEE Computational Intelligence Society, 2013. p. 89-95. ISBN: 978-1-4673-5869-9. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DRAHOSOVA, M. Koevolucni algoritmus v kartezskem genetickem programovani. Pocitacove architektury a diagnostika PAD 2013. Plzen: Zapadoceska univerzita v Plzni, 2013. s. 123-128. ISBN: 978-80-261-0270-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HRBACEK, R. Hardware Platform for Coevolutionary Design. In Proceedings of the 19th Conference STUDENT EEICT 2013 Volume 2. Brno: LITERA, 2013. p. 279-281. ISBN: 978-80-214-4694-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HRBACEK, R.; DRAHOSOVA, M. Coevolutionary Cartesian Genetic Programming in FPGA. Advances in Artificial Life, ECAL 2013, Proceedings of the Twelfth European Conference on the Synthesis and Simulation of Living Systems. Cambridge: MIT Press, 2013. p. 431-438. ISBN: 978-0-262-31709-2. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Advanced Approach to Calibration of Traffic Microsimulation Using Travel Times. Journal of Cellular Automata, 2013, vol. 8, no. 6, p. 457-467. ISSN: 1557-5969. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MINARIK, M.; SEKANINA, L. Concurrent Evolution of Hardware and Software for Application-Specific Microprogrammed Systems. 2013 IEEE International Conference on Evolvable Systems (ICES). Proceedings of the 2013 IEEE Symposium Series on Computational Intelligence (SSCI). Singapur: IEEE Computational Intelligence Society, 2013. p. 43-50. ISBN: 978-1-4673-5869-9. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "RUZICKA, R.; SIMEK, V. More Complex Polymorphic Circuits: A Way to Implementation of Smart Dependable Systems. ElectroScope, 2013, vol. 7, no. 5, p. 1-6. ISSN: 1802-4564. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SALVADOR, R.; OTERO, A.; MORA, J.; DE LA TORRE, E.; RIESGO, T.; SEKANINA, L. Self-Reconfigurable Evolvable Hardware System for Adaptive Image Processing. IEEE TRANSACTIONS ON COMPUTERS, 2013, vol. 62, no. 8, p. 1481-1493. ISSN: 0018-9340. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SEKANINA, L. Ubiquity symposium: Evolutionary computation and the processes of life: evolutionary computation in physical world. Ubiquity, 2013, vol. 2013, no. 2, p. 1-7. ISSN: 1530-2180. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SEKANINA, L.; RUZICKA, R.; VASICEK, Z.; SIMEK, V.; HANACEK, P. Implementing a Unique Chip ID on a Reconfigurable Polymorphic Circuit. Information Technology and Control, 2013, vol. 42, no. 1, p. 7-14. ISSN: 1392-124X. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SIMEK, V.; RUZICKA, R. More Complex Polymorphic Circuits and Their Physical Implementation. Proceedings of the 20th Electronic Devices and Systems IMAPS CS International Conference. Brno: Brno University of Technology, 2013. p. 189-194. ISBN: 978-80-214-4754-7. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VASICEK, Z.; BIDLO, M.; SEKANINA, L. Evolution of efficient real-time non-linear image filters for FPGAs. SOFT COMPUTING, 2013, vol. 17, no. 11, p. 2163-2180. ISSN: 1432-7643. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "BIDLO, M.; VASICEK, Z. Cellular Automaton as Sorting Network Generator Using Instruction-Based Development. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7495, p. 214-223. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "BIDLO, M.; VASICEK, Z. Evolution of Cellular Automata Using Instruction-Based Approach. In 2012 IEEE World Congress on Computational Intelligence. CA: Institute of Electrical and Electronics Engineers, 2012. p. 1060-1067. ISBN: 978-1-4673-1508-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DRAHOSOVA, M.; SEKANINA, L. Acceleration of Evolutionary Image Filter Design Using Coevolution in Cartesian GP. 8th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2012. p. 121-121. ISBN: 978-80-87342-15-2. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DRAHOSOVA, M.; SEKANINA, L. Coevolution in Cartesian Genetic Programming. Proc. of the 15th European Conference on Genetic Programming. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2012. p. 182-193. ISBN: 978-3-642-29138-8. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DRAHOSOVA, M.; SEKANINA, L. Acceleration of Evolutionary Image Filter Design Using Coevolution in Cartesian GP. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7491, p. 163-172. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Calibration of Traffic Simulation Models Using Vehicle Travel Times. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7495, p. 807-816. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Evolutionary approach to calibration of cellular automaton based traffic simulation model. In Proceedings of the 15th International IEEE Conference on Intelligent Transportation Systems. Anchorage: IEEE Intelligent Transportation Systems Society, 2012. p. 122-129. ISBN: 978-1-4673-3062-6. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "PETRLIK, J.; KORCEK, P.; FUCIK, O.; BESZEDES, M.; SEKANINA, L. Estimation of missing values in traffic density maps. In Proceedings of the 15th International IEEE Conference on Intelligent Transportation Systems. Anchorage: IEEE Intelligent Transportation Systems Society, 2012. p. 632-637. ISBN: 978-1-4673-3062-6. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "PETRLIK, J.; SEKANINA, L. Multiobjective Evolution of Multiple-Constant Multipliers. Proceedings of the 18th International Conference on Soft Computing (MENDEL2012). Brno: Faculty of Mechanical Engineering BUT, 2012. p. 64-69. ISBN: 978-80-214-4540-6. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "RUZICKA, R.; SIMEK, V. NAND/NOR Gate Polymorphism in Low Temperature Environment. Proceedings of the 2012 IEEE 15th International Symposium on Design and Diagnostics of Electronic Circuits & Systems. Tallinn: Institute of Electrical and Electronics Engineers, 2012. p. 34-37. ISBN: 978-1-4673-1185-4. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "RUZICKA, R.; SIMEK, V. Polymeric Polymorphic Electronics: Towards Multifunctional Logic Elements Based on Organic Semiconductor Materials. Proceedings of CSE 2012 International Scientific Conference on Computer Science and Engineerig. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2012. p. 154-161. ISBN: 978-80-8143-049-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SALVADOR, R.; OTERO, A.; MORA, J.; DE LA TORRE, E.; RIESGO, T.; SEKANINA, L. Implementation Techniques for Evolvable HW Systems: Virtual vs. Dynamic Reconfiguration. Proc. of the 22nd International Conference on Field Programmable Logic and Applications (FPL). Oslo: IEEE Computer Society, 2012. p. 547-550. ISBN: 978-1-4673-2257-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SALVADOR, R.; VIDAL, A.; MORENO, F.; RIESGO, T.; SEKANINA, L. Accelerating FPGA-based evolution of wavelet transform filters by optimized task scheduling. Microprocessors and Microsystems, 2012, vol. 36, no. 5, p. 427-438. ISSN: 0141-9331. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SEKANINA, L. Evolvable hardware. In Handbook of Natural Computing. Berlin: Springer Verlag, 2012. p. 1657-1705. ISBN: 978-3-540-92909-3. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SEKANINA, L.; SALAJKA, V. Towards New Applications of Multi-Function Logic: Image Multi-Filtering. Proc. of the 2012 Design, Automation and Test in Europe. Dresden: European Design and Automation Association, 2012. p. 824-827. ISBN: 978-1-4577-2145-8. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SEKANINA, L.; SALAJKA, V.; VASICEK, Z. Two-Step Evolution of Polymorphic Circuits for Image Multi-Filtering. In 2012 IEEE World Congress on Computational Intelligence. CA: Institute of Electrical and Electronics Engineers, 2012. p. 432-439. ISBN: 978-1-4673-1508-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SEKANINA, L.; VASICEK, Z. A SAT-based Fitness Function for Evolutionary Optimization of Polymorphic Circuits. Proc. of the 2012 Design, Automation and Test in Europe. Dresden: European Design and Automation Association, 2012. p. 715-720. ISBN: 978-1-4577-2145-8. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SMOLKA, T.; SVENDA, P.; SEKANINA, L.; MATYAS, V. Evolutionary Design of Message Efficient Secrecy Amplification Protocols. Proc. of the 15th European Conference on Genetic Programming. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2012. p. 194-205. ISBN: 978-3-642-29138-8. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VASICEK, Z.; SEKANINA, L. On Area Minimization of Complex Combinational Circuits Using Cartesian Genetic Programming. In 2012 IEEE World Congress on Computational Intelligence. CA: Institute of Electrical and Electronics Engineers, 2012. p. 2379-2386. ISBN: 978-1-4673-1508-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VASICEK, Z.; SLANY, K. Efficient Phenotype Evaluation in Cartesian Genetic Programming. In Proc. of the 15th European Conference on Genetic Programming. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2012. p. 266-278. ISBN: 978-3-642-29138-8. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZALOUDEK, L.; SEKANINA, L. Cellular automata-based systems with fault-tolerance. Natural Computing, 2012, vol. 11, no. 4, p. 673-685. ISSN: 1567-7818. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "GAJDA, Z. Evolutionary Approach to Synthesis and Optimization of Ordinary and Polymorphic Circuits. Brno: Department of Computer Systems FIT BUT, 2011. 92 p. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "GAJDA, Z.; SEKANINA, L. Recent Advances in Evolutionary Synthesis and Optimization of Ordinary and Polymorphic Circuits. Brno: Faculty of Information Technology BUT, 2011. 111 p. ISBN: 978-80-214-4417-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "GAJDA, Z.; SEKANINA, L. On Evolutionary Synthesis of Compact Polymorphic Combinational Circuits. JOURNAL OF MULTIPLE-VALUED LOGIC AND SOFT COMPUTING, 2011, vol. 17, no. 6, p. 607-631. ISSN: 1542-3980. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KORCEK, P. Simulacie dopravy pre dlhodobu predpoved stavu dopravy. Pocitacove architektury a diagnostika 2011. Bratislava: Faculty of Informatics and Information Technology Slovak University of Technology in Bratislava, 2011. s. 115-120. ISBN: 978-80-227-3552-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KORCEK, P.; SEKANINA, L.; FUCIK, O. A Scalable Cellular Automata Based Microscopic Traffic Simulation. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2011. p. 1 (1 s.). ISBN: 978-80-214-4305-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KORCEK, P.; SEKANINA, L.; FUCIK, O. A Scalable Cellular Automata Based Microscopic Traffic Simulation. Proceedings of the IEEE Intelligent Vehicles Symposium 2011 (IV11). Baden-Baden: IEEE Intelligent Transportation Systems Society, 2011. p. 13-18. ISBN: 978-1-4577-0889-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Cellular automata based traffic simulation accelerated on GPU. Proceedings of the 17th International Conference on Soft Computing (MENDEL2011). Brno: Institute of Automation and Computer Science FME BUT, 2011. p. 395-402. ISBN: 978-80-214-4302-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KORCEK, P.; SEKANINA, L.; FUCIK, O. Microscopic traffic simulation using CUDA. Advanced Computer Architecture and Compilation for High-Performace and Embedded Systems (ACACES 2011) Poster Abstracts. Fiuggi: Academia Press, 2011. p. 207-210. ISBN: 978-90-382-1798-7. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MINARIK, M.; SEKANINA, L. Evolution of Iterative Formulas Using Cartesian Genetic Programming. Lecture Notes in Computer Science, 2011, vol. 2011, no. 6881, p. 11-20. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "OTERO, A.; SALVADOR, R.; MORA, J.; DE LA TORRE, E.; RIESGO, T.; SEKANINA, L. A Fast Reconfigurable 2D HW Core Architecture on FPGAs for Evolvable Self-Adaptive Systems. Proceedings of the 2011 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2011. p. 336-343. ISBN: 978-1-4577-0599-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "RUZICKA, R.; SIMEK, V. Chip Temperature Selfregulation for Digital Circuits Using Polymorphic Electronics Principles. Proceedings of 14th Euromicro Conference on Digital System Design. Los Alamitos: IEEE Computer Society Press, 2011. p. 205-212. ISBN: 978-0-7695-4494-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "RUZICKA, R.; SIMEK, V. On Properties of Basic Building Blocks for Printable Polymer and Nanometal Logic. Proc. of IMAPS CS International Conference on Electronic Devices and Systems. Brno: Brno University of Technology, 2011. p. 258-263. ISBN: 978-80-214-4303-7. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "RUZICKA, R.; SIMEK, V.; SEKANINA, L. Behavior of CMOS Polymorphic Circuits in High Temperature Environment. Proceedings of the 2011 IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Cottbus: IEEE Computer Society, 2011. p. 447-452. ISBN: 978-1-4244-9753-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SALVADOR, R.; MORENO, F.; RIESGO, T.; SEKANINA, L. Evolutionary Approach to Improve Wavelet Transforms for Image Compression in Embedded Systems. EURASIP Journal on Advances in Signal Processing, 2011, vol. 2011, no. 2011, p. 1-20. ISSN: 1687-6172. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SALVADOR, R.; OTERO, A.; MORA, J.; DE LA TORRE, E.; RIESGO, T.; SEKANINA, L. Evolvable 2D computing matrix model for intrinsic evolution in commercial FPGAs with native reconfiguration support. Proceedings of the 2011 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2011. p. 184-191. ISBN: 978-1-4577-0599-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SALVADOR, R.; OTERO, A.; MORA, J.; DE LA TORRE, E.; SEKANINA, L.; RIESGO, T. Fault Tolerance Analysis and Self-Healing Strategy of Autonomous, Evolvable Hardware Systems. Proc. of the 2011 International Conference on ReConFigurable Computing and FPGAs. Los Alamitos: IEEE Computer Society, 2011. p. 164-169. ISBN: 978-0-7695-4551-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SALVADOR, R.; VIDAL, A.; MORENO, F.; RIESGO, T.; SEKANINA, L. Bio-inspired FPGA architecture for self-calibration of an image compression core based on wavelet transforms in embedded systems. VLSI Circuits and Systems V. Proc. of SPIE Vol. 8067. Bellingham: SPIE - the international society for optics and photonics, 2011. p. 1-13. ISBN: 978-0-8194-8656-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SEKANINA, L. Evolution of digital circuits (Tutorial). Proceedings of the 2011 GECCO conference companion on Genetic and evolutionary computation. New York: Association for Computing Machinery, 2011. p. 1343-1359. ISBN: 978-1-4503-0690-4. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SEKANINA, L. Evolutionary hardware design (Invited Paper). VLSI Circuits and Systems V. Proc. of SPIE Vol. 8067. Bellingham: SPIE - the international society for optics and photonics, 2011. p. 1-11. ISBN: 978-0-8194-8656-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SEKANINA, L.; HARDING, S.; BANZHAF, W.; KOWALIW, T. Image Processing and CGP. In Cartesian Genetic Programming. Natural Computing Series. Berlin: Springer Verlag, 2011. p. 181-215. ISBN: 978-3-642-17309-7. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SEKANINA, L.; KOMENDA, T. Global Control in Polymorphic Cellular Automata. Journal of Cellular Automata, 2011, vol. 6, no. 4, p. 301-321. ISSN: 1557-5969. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SEKANINA, L.; VASICEK, Z. CGP Acceleration Using Field-Programmable Gate Arrays. In Cartesian Genetic Programming. Natural Computing Series. Berlin: Springer Verlag, 2011. p. 217-230. ISBN: 978-3-642-17309-7. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SEKANINA, L.; WALKER, J.; KAUFMANN, P.; PLATZNER, M. Evolution of Electronic Circuits. In Cartesian Genetic Programming. Natural Computing Series. Berlin: Springer Verlag, 2011. p. 125-179. ISBN: 978-3-642-17309-7. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VASICEK, Z.; BIDLO, M. Evolutionary Design of Robust Noise-Specific Image Filters. In 2011 IEEE Congress on Evolutionary Computation. New Orleans: IEEE Computer Society, 2011. p. 269-276. ISBN: 978-1-4244-7834-7. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VASICEK, Z.; BIDLO, M.; SEKANINA, L.; GLETTE, K. Evolutionary Design of Efficient and Robust Switching Image Filters. In Proceedings of the 2011 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2011. p. 192-199. ISBN: 978-1-4577-0599-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VASICEK, Z.; SEKANINA, L. A Global Postsynthesis Optimization Method for Combinational Circuits. Proc. of the Design, Automation and Test in Europe DATE 2011. Grenoble: European Design and Automation Association, 2011. p. 1525-1528. ISBN: 978-3-9810801-7-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VASICEK, Z.; SEKANINA, L. Evolutionary Optimization of Complex Digital Circuits. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2011. p. 127-127. ISBN: 978-80-214-4305-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VASICEK, Z.; SEKANINA, L. Extensions of Cartesian Genetic Programming for Optimization of Complex Combinational Circuits. Proc. of the 20th International Workshop on Logic and Synthesis. San Diego: University of California San Diego, 2011. p. 55-61. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VASICEK, Z.; SEKANINA, L. Formal verification of candidate solutions for post-synthesis evolutionary optimization in evolvable hardware. Genetic Programming and Evolvable Machines, 2011, vol. 12, no. 3, p. 305-327. ISSN: 1389-2576. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BIDLO, M. Evolutionary Design of Generic Structures Using Instruction-Based Development. Brno: Faculty of Information Technology BUT, 2010. 124 p. ISBN: 978-80-214-4210-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BIDLO, M.; SEKANINA, L. On Impact of Environment on the Complexity Generated by Evolutionary Development. In MENDEL 2010 - 16th International Conference on Soft Computing. Brno: Faculty of Mechanical Engineering BUT, 2010. p. 501-508. ISBN: 978-80-214-4120-0. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BIDLO, M.; VASICEK, Z.; SLANY, K. Sorting Network Development Using Cellular Automata. In Evolvable Systems: From Biology to Hardware. 9th International Conference, ICES 2010, York, UK, September 6-8, 2010, Proceedings, LNCS 6274. London: Springer London, 2010. p. 85-96. ISBN: 978-3-642-15322-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "FISER, P.; SCHMIDT, J.; VASICEK, Z.; SEKANINA, L. On Logic Synthesis of Conventionally Hard to Synthesize Circuits Using Genetic Programming. Proc. of the 13th Int. IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Vienna: IEEE Computer Society, 2010. p. 346-351. ISBN: 978-1-4244-6610-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "GAJDA, Z.; SEKANINA, L. An Efficient Selection Strategy for Digital Circuit Evolution. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2010. p. 13-24. ISBN: 978-3-642-15322-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "GAJDA, Z.; SEKANINA, L. When Does Cartesian Genetic Programming Minimize the Phenotype Size Implicitly?. Proceeding of Genetic and Evolutionary Computation Conference, GECCO 2010. New York: Association for Computing Machinery, 2010. p. 983-984. ISBN: 978-1-4503-0072-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KOTASEK, Z.; BIDLO, M.; JAROS, J. Pocitacove architektury a diagnostika. Brno: Fakulta informacnich technologii VUT v Brne, 2010. 183 s. ISBN: 978-80-214-4140-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "RUZICKA, R. Gracefully Degrading Circuit Controllers Based on Polytronics. Proc. of 13th Euromicro Conference on Digital System Design. Los Alamitos: IEEE Computer Society, 2010. p. 809-812. ISBN: 978-0-7695-4171-6. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SALVADOR, R.; MORENO, F.; RIESGO, T.; SEKANINA, L. Evolutionary design and optimization of Wavelet Transforms for image compression in embedded systems. Proc. of the 2010 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2010. p. 177-184. ISBN: 978-1-4244-5888-2. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SALVADOR, R.; MORENO, F.; RIESGO, T.; SEKANINA, L. High level validation of an optimization algorithm for the implementation of adaptive Wavelet Transforms in FPGAs. Proc. of 13th Euromicro Conference on Digital System Design. Los Alamitos: IEEE Computer Society, 2010. p. 96-103. ISBN: 978-0-7695-4171-6. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SALVADOR, R.; MORENO, F.; RIESGO, T.; SEKANINA, L. Implementation of bio-inspired adaptive wavelet transforms in FPGAs. Modelling, validation and profiling of the algorithm. Proceedings of the XXV Conference on Design of Circuits and Integrated Systems. Lanzarote: The Universidad de Las Palmas de Gran Canaria, 2010. p. 210-215. ISBN: 978-84-693-7393-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SEKANINA, L. Evolutionary Circuit Design: Tutorial. Proc. of the 13th Int. IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Vienna: IEEE Computer Society, 2010. p. 5-5. ISBN: 978-1-4244-6610-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SEKANINA, L. Evolucni navrh elektronickych obvodu. Automa, 2010, roc. 2010, c. 1, s. 48-51. ISSN: 1210-9592. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SEKANINA, L. Evolucni navrh hardware. In Umela inteligencia a kognitivna veda II. Edicia vyskumnych textov FIIT STU. Bratislava: Vydavatelstvo STU, 2010. s. 437-465. ISBN: 978-80-227-3284-0. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SIMACEK, J.; SEKANINA, L.; STARECEK, L. Evolutionary Design of Reconfiguration Strategies to Reduce the Test Application Time. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2010. p. 214-225. ISBN: 978-3-642-15322-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SIMEK, V.; RUZICKA, R.; SEKANINA, L. On Analysis of Fabricated Polymorphic Circuits. Proc. of the 13th Int. IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Vienna: IEEE Computer Society, 2010. p. 281-284. ISBN: 978-1-4244-6610-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "VASICEK, Z.; SEKANINA, L. Hardware Accelerator of Cartesian Genetic Programming with Multiple Fitness Units. COMPUTING AND INFORMATICS, 2010, vol. 29, no. 6, p. 1359-1371. ISSN: 1335-9150. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "VASICEK, Z.; SEKANINA, L.; BIDLO, M. A Method for Design of Impulse Bursts Noise Filters Optimized for FPGA Implementations. DATE 2010: Design, Automation and Test in Europe. Dresden: European Design and Automation Association, 2010. p. 1731-1736. ISBN: 978-3-9810801-6-2. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ZALOUDEK, L.; SEKANINA, L.; SIMEK, V. Accelerating Cellular Automata Evolution on Graphics Processing Units. International Journal on Advances in Software, 2010, vol. 3, no. 1, p. 294-303. ISSN: 1942-2628. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "BIDLO, M.; VASICEK, Z. Investigating Gate-Level Evolutionary Development of Combinational Multipliers Using Enhanced Cellular Automata-Based Model. Proc. of 2009 IEEE Congress on Evolutionary Computation. NA: IEEE Computational Intelligence Society, 2009. p. 2241-2248. ISBN: 978-1-4244-2958-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "GAJDA, Z. Navrh a optimalizace polymorfnich obvodu. Pocitacova architektura a Diagnostika 2009. Zlin: Univerzita Tomase Bati ve Zline, 2009. s. 63-67. ISBN: 978-80-7318-847-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "GAJDA, Z.; SEKANINA, L. Gate-Level Optimization of Polymorphic Circuits Using Cartesian Genetic Programming. Proc. of 2009 IEEE Congress on Evolutionary Computation. NA: IEEE Computational Intelligence Society, 2009. p. 1599-1604. ISBN: 978-1-4244-2958-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "NEGOITA, M.; SEKANINA, L.; STOICA, A. Adaptive and evolvable hardware and systems: the state of the art and the prospectus for future development. Journal of Automation, Mobile Robotics and Intelligent Systems, 2009, vol. 3, no. 2, p. 70-75. ISSN: 1897-8649. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SEKANINA, L. Evolvable Hardware: From Applications to Implications for the Theory of Computation. Proc. of the 8th Int. Conference on Unconventional Computation. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2009. p. 24-36. ISBN: 978-3-642-03744-3. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SEKANINA, L.; RUZICKA, R.; GAJDA, Z. Polymorphic FIR Filters with Backup Mode Enabling Power Savings. Proc. of the 2009 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2009. p. 43-50. ISBN: 978-0-7695-3714-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SEKANINA, L.; RUZICKA, R.; VASICEK, Z.; PROKOP, R.; FUJCIK, L. REPOMO32 - New Reconfigurable Polymorphic Integrated Circuit for Adaptive Hardware. Proc. of the 2009 IEEE Symposium Series on Computational Intelligence - Workshop on Evolvable and Adaptive Hardware. Nashville: IEEE Computational Intelligence Society, 2009. p. 39-46. ISBN: 978-1-4244-2755-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SEKANINA, L.; VASICEK, Z.; RUZICKA, R.; BIDLO, M.; JAROS, J.; SVENDA, P. Evolucni hardware: Od automatickeho generovani patentovatelnych invenci k sebemodifikujicim se strojum. Edice Gerstner. Edice Gerstner. Praha: Nakladatelstvi Academia, 2009. 328 s. ISBN: 978-80-200-1729-1. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SLANY, K. Comparison of CGP and Age-Layered CGP Performance in Image Operator Evolution. Genetic Programming, 12th European Conference, EuroGP 2009. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Tubingen: Springer Verlag, 2009. p. 351-361. ISBN: 978-3-642-01180-1. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SLANY, K. Towards the Automatic Evolutionary Prediction of the FOREX Market Behaviour. Proceedings of the 2009 International Conference on Adaptive and Intelligent Systems. Klagenfurt: IEEE Computer Society, 2009. p. 141-145. ISBN: 978-0-7695-3827-3. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVENDA, P.; SEKANINA, L.; MATYAS, V. Evolutionary Design of Secrecy Amplification Protocols for Wireless Sensor Networks. Proc. of the ACM Conference on Wireless Network Security. New York: Association for Computing Machinery, 2009. p. 225-236. ISBN: 978-1-60558-460-7. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "VASICEK, Z.; BIDLO, M.; SEKANINA, L.; TORRESEN, J.; GLETTE, K.; FURUHOLMEN, M. Evolution of Impulse Bursts Noise Filters. Proc. of the 2009 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2009. p. 27-34. ISBN: 978-0-7695-3714-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "VASICEK, Z.; SEKANINA, L. Efficient Hardware Accelerator for Symbolic Regression Problems. 5th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Znojmo: Masaryk University, 2009. p. 192-199. ISBN: 978-80-87342-04-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "ZALOUDEK, L.; SEKANINA, L.; SIMEK, V. GPU Accelerators for Evolvable Cellular Automata. Computation World: Future Computing, Service Computation, Adaptive, Content, Cognitive, Patterns. Athens: Institute of Electrical and Electronics Engineers, 2009. p. 533-537. ISBN: 978-0-7695-3862-4. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "BIDLO, M.; SKARVADA, J. Instruction-based development: From evolution to generic structures of digital circuits. International Journal of Knowledge-Based and Intelligent Engineering Systems, 2008, vol. 12, no. 3, p. 221-236. ISSN: 1327-2314. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "BIDLO, M.; VASICEK, Z. Cellular Automata-Based Development of Combinational and Polymorphic Circuits: A Comparative Study. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 106-117. ISBN: 978-3-540-85856-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "BIDLO, M.; VASICEK, Z. Gate-Level Evolutionary Development Using Cellular Automata. 2008 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society Press, 2008. p. 11-18. ISBN: 978-0-7695-3166-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "GAJDA, Z. Navrh polymorfnich obvodu. Pocitacove architektury a diagnostika 2008. Liberec: Technicka univerzita v Liberci, 2008. s. 17-23. ISBN: 978-80-7372-378-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "GAJDA, Z. Polymorphic Circuit Design. MEMICS 2008 - Fourth Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2008. p. 256-256. ISBN: 978-80-7355-082-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HORNBY, G.; SEKANINA, L.; HADDOW, P. Proceedings of Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. 444 p. ISBN: 978-3-540-85856-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "NEGOITA, M.; SEKANINA, L.; STOICA, A. Adaptive and Evolvable Hardware and Systems: The State of the Art and the Prospectus for Future Development. Knowledge-Based Intelligent Information and Engineering Systems. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 310-318. ISBN: 978-3-540-85566-8. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "PECENKA, T.; SEKANINA, L.; KOTASEK, Z. Evolution of Synthetic RTL Benchmark Circuits with Predefined Testability. ACM TRANSACTIONS ON DESIGN AUTOMATION OF ELECTRONIC SYSTEMS, 2008, vol. 13, no. 3, p. 1-21. ISSN: 1084-4309. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "RUZICKA, R. On Bifunctional Polymorphic Gates Controlled by a Special Signal. WSEAS Transactions on Circuits, 2008, vol. 7, no. 3, p. 96-101. ISSN: 1109-2734. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "RUZICKA, R.; SEKANINA, L.; PROKOP, R. Physical Demonstration of Polymorphic Self-checking Circuits. Proc. of the 14th IEEE Int. On-Line Testing Symposium. Los Alamitos: IEEE Computer Society, 2008. p. 31-36. ISBN: 978-0-7695-3264-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SEKANINA, L.; MIKUSEK, P. Analysis of Reconfigurable Logic Blocks for Evolvable Digital Architectures. Applications of Evolutionary Computing. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 144-153. ISBN: 978-3-540-78760-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SEKANINA, L.; STARECEK, L.; KOTASEK, Z.; GAJDA, Z. Polymorphic Gates in Design and Test of Digital Circuits. International Journal of Unconventional Computing, 2008, vol. 4, no. 2, p. 125-142. ISSN: 1548-7199. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SLANY, K. Branch Predictor On-line Evolutionary System. 2008 Genetic and Evolutionary Computation Conference GECCO. New York: Association for Computing Machinery, 2008. p. 1643-1648. ISBN: 978-1-60558-131-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SLANY, K. Evolucni adaptace prediktoru v realnem case. Pocitacove architektury a diagnostika 2008. Liberec: Technicka univerzita v Liberci, 2008. s. 89-95. ISBN: 978-80-7372-378-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "STARECEK, L.; SEKANINA, L.; KOTASEK, Z. Reduction of Test Vectors Volume by Means of Gate-Level Reconfiguration. Proc. of 2008 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Bratislava: IEEE Computer Society, 2008. p. 255-258. ISBN: 978-1-4244-2276-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VASICEK, Z. Adaptivni hardware na bazi vyvijejicich se obvodu. Pocitacove architektury a diagnostika 2008. Cesko-slovensky seminar pro studenty doktorandskeho studia. Liberec: Technicka univerzita v Liberci, 2008. s. 119-124. ISBN: 978-80-7372-378-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VASICEK, Z. Towards Automatic Design of Competitive Image Filters in FPGAs. Proceedings of Junior Scientist Conference 2008. Vienna: Technical University Wien, 2008. p. 55-56. ISBN: 978-3-200-01612-5. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VASICEK, Z.; CAPKA, L.; SEKANINA, L. Analysis of Reconfiguration Options for a Reconfigurable Polymorphic Circuit. Proc. of the 2008 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2008. p. 3-10. ISBN: 978-0-7695-3166-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VASICEK, Z.; SEKANINA, L. Hardware Accelerators for Cartesian Genetic Programming. Eleventh European Conference on Genetic Programming. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 230-241. ISBN: 978-3-540-78670-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VASICEK, Z.; SEKANINA, L. Novel Hardware Implementation of Adaptive Median Filters. In Proc. of 2008 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Bratislava: IEEE Computer Society, 2008. p. 110-115. ISBN: 978-1-4244-2276-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VASICEK, Z.; ZADNIK, M.; SEKANINA, L.; TOBOLA, J. On Evolutionary Synthesis of Linear Transforms in FPGA. Evolvable Systems: From Biology > to > Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 141-152. ISBN: 978-3-540-85856-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "ZALOUDEK, L. Sebereplikace ve vypocetnich systemech. Pocitacove architektury a diagnostika 2008. Liberec: Technicka univerzita v Liberci, 2008. s. 131-136. ISBN: 978-80-7372-378-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "ZALOUDEK, L.; SEKANINA, L. Transistor-level Evolution of Digital Circuits Using a Special Circuit Simulator. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 320-331. ISBN: 978-3-540-85856-0. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "BIDLO, M. Biologii inspirovany vyvin jako technika evolucniho navrhu. Kognice a umely zivot VII. Opava: Slezska univerzita v Opave, 2007. s. 43-53. ISBN: 978-80-7248-412-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "BIDLO, M. Evolutionary Design of Generic Combinational Multipliers Using Development. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2007. p. 77-88. ISBN: 978-3-540-74625-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "BIDLO, M. Evolutionary Development of Generic Multipliers: Initial Results. Proc. of the 2007 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2007. p. 405-412. ISBN: 0-7695-2866-X. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "BIDLO, M. Vypocetni development zalozeny na instrukcich. Sbornik prispevku pracovniho seminare Pocitacove architektury & diagnostika. Plzen: Zapadoceska univerzita v Plzni, 2007. s. 53-59. ISBN: 978-80-7043-605-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "CAPKA, L.; VASICEK, Z. Investigating the Influence of Mutation Operators in Cartesian Genetic Programming. 13th International Conference on Soft Computing. Brno: Faculty of Mechanical Engineering BUT, 2007. p. 43-47. ISBN: 978-80-214-3473-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "GAJDA, Z. Metody navrhu polymorfnich obvodu. Sbornik prispevku Cesko-slovenskeho seminare Pocitacove architektury a diagnostika pro studenty doktorandskeho studia. Plzen: Zapadoceska univerzita v Plzni, 2007. s. 19-25. ISBN: 978-80-7043-605-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "GAJDA, Z.; SEKANINA, L. Reducing the Number of Transistors in Digital Circuits Using Gate-Level Evolutionary Design. 2007 Genetic and Evolutionary Computation Conference. New York: Association for Computing Machinery, 2007. p. 245-252. ISBN: 9781595936974. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "RUZICKA, R. New Polymorphic NAND/XOR Gate. Proceedings of 7th WSEAS International Conference on Applied Computer Science. WSEAS Applied Informatics & Communications. Computer Science Challenges. Venice: World Scientific and Engineering Academy, 2007. no. 11, p. 192-196. ISBN: 978-960-6766-15-2. ISSN: 1790-5117. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "RUZICKA, R.; STARECEK, L. Development of Building Blocks for Polymorphic Digital Circuits. Proceedings of the Work in Progress Session of 10th Euromicro DSD 2007. Linz: Johannes Kepler University Linz, 2007. p. 33-34. ISBN: 978-3-902457-16-5. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SEKANINA, L. Design and Analysis of a New Self-Testing Adder Which Utilizes Polymorphic Gates. 2007 IEEE Workshop on Design and Diagnostics of Electronic Circuits and Systems. Gliwice: IEEE Computer Society, 2007. p. 243-246. ISBN: 1424411610. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SEKANINA, L. Evolution of Polymorphic Self-Checking Circuits. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2007. p. 186-197. ISBN: 978-3-540-74625-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SEKANINA, L. Evolvable hardware: Tutorial. 2007 Genetic and Evolutionary Computational Conference. New York: Association for Computing Machinery, 2007. p. 3627-3644. ISBN: 9781595936981. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SEKANINA, L. Vztah mezi abstraktnim a fyzickym vypoctem v kontextu evolucniho navrhu. Kognice a umely zivot VII. Opava: Slezska univerzita v Opave, 2007. s. 305-310. ISBN: 9788072484126. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SEKANINA, L. Evolutionary Functional Recovery in Virtual Reconfigurable Circuits. ACM Journal on Emerging Technologies in Computing Systems, 2007, vol. 3, no. 2, p. 1-22. ISSN: 1550-4832. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SEKANINA, L. Evolved Computing Devices and the Implementation Problem. MINDS AND MACHINES, 2007, vol. 17, no. 3, p. 311-329. ISSN: 0924-6495. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SEKANINA, L.; MARTINEK, T. Evolving Image Operators Directly in Hardware. In Genetic and Evolutionary Computation for Image Processing and Analysis. EURASIP Book Series on Signal Processing and Communications, Volume 8. New York: Hindawi Publishing Corporation, 2007. p. 93-112. ISBN: 978-977-454-001-1. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SLANY, K.; DVORAK, V. Evolutionary Designed Branch Predictors. 13th International Conference on Soft Computing. Brno: Faculty of Mechanical Engineering BUT, 2007. p. 18-23. ISBN: 978-80-214-3473-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SLANY, K.; SEKANINA, L. Fitness Landscape Analysis and Image Filter Evolution Using Functional-Level CGP. Genetic Programming, 10th European Conference, EuroGP 2007. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2007. p. 311-320. ISBN: 978-3-540-71602-0. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "STARECEK, L. Polymorfni hradla pro optimalizaci testu obvodu. Sbornik prispevku Cesko-slovenskeho seminare Pocitacove architektury a diagnostika pro studenty doktorandskeho studia. Plzen: Zapadoceska univerzita v Plzni, 2007. s. 41-46. ISBN: 978-80-7043-605-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "STARECEK, L.; SEKANINA, L.; GAJDA, Z.; KOTASEK, Z.; PROKOP, R.; MUSIL, V. On Properties and Utilization of Some Polymorphic Gates. 6th Electronic Circuits and Systems Conference (ECS 2007). Bratislava: Faculty of Informatics and Information Technology Slovak University of Technology in Bratislava, 2007. p. 77-81. ISBN: 978-80-227-2697-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "VASICEK, Z. Realne aplikace evolucniho navrhu. Pocitacove architektury a diagnostika 2007. Cesko-slovensky seminar pro studenty doktorandskeho studia. Plzen: Zapadoceska univerzita v Plzni, 2007. s. 137-142. ISBN: 978-80-7043-605-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "VASICEK, Z.; SEKANINA, L. An Area-Efficient Alternative to Adaptive Median Filtering in FPGAs. Proc. of 2007 International Conference on Field Programmable Logic and Applications. Los Alamitos: IEEE Computer Society, 2007. p. 216-221. ISBN: 1424410606. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "VASICEK, Z.; SEKANINA, L. Evaluation of a New Platform For Image Filter Evolution. Proc. of the 2007 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2007. p. 577-584. ISBN: 076952866X. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "VASICEK, Z.; SEKANINA, L. Reducing the Area on a Chip Using a Bank of Evolved Filters. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2007. p. 222-232. ISBN: 978-3-540-74625-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "VASICEK, Z.; SEKANINA, L. An Evolvable Hardware System in Xilinx Virtex II Pro FPGA. International Journal of Innovative Computing and Applications, 2007, vol. 1, no. 1, p. 63-73. ISSN: 1751-648X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "BIDLO, M. Evolutionary Design Using Development. Sbornik prispevku pracovniho seminare Pocitacove architektury & diagnostika pro studenty doktorskeho studia. Bratislava: Institute of Informatics, Slovak Academy of Sciences, 2006. p. 119-124. ISBN: 80-969202-2-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "BIDLO, M. Introducing New Fundamental Classification of Development for Evolutionary Design: Theory and Applications. Proc. of the 9th International Conference on Parallel Problem Solving from Nature - Workshop on Evolutionary Algorithms. Reykjavik: 2006. p. 1-12. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "BIDLO, M.; BIDLO, R.; SEKANINA, L. Designing a Novel General Sorting Network Constructor Using Artificial Evolution. Transactions on Engineering, Computing and Technology, 2006, vol. 15, no. 10, p. 85-90. ISSN: 1305-5313. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "GAJDA, Z. A Core Generator for Multi-ALU Processors Utilized in Genetic Parallel Programming. Proc. of 2006 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Praha: IEEE Computer Society, 2006. p. 238-240. ISBN: 1424401844. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "GAJDA, Z. Navrh polymorfnich obvodu. Sbornik prispevku pracovniho seminare Pocitacove architektury & diagnostika pro studenty doktorskeho studia. Bratislava: Ustav informatiky Slovenskej akademie vied, 2006. s. 55-60. ISBN: 80-969202-2-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "RUZICKA, R.; SEKANINA, L. Evolutionary Circuit Design in REPOMO - Reconfigurable Polymorphic Module. Proceedings of the Second IASTED International Conference on Computational Intelligence. Anaheim: ACTA Press, 2006. p. 237-241. ISBN: 0-88986-602-3. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SEKANINA, L. Evolutionary Approach to the Implementation Problem. Brno: Faculty of Information Technology BUT, 2006. 127 p. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SEKANINA, L. Evolutionary Design of Digital Circuits: Where Are Current Limits?. Proc. of the 1st NASA/ESA Conference on Adaptive Hardware and Systems. Piscataway: IEEE Computer Society, 2006. p. 171-178. ISBN: 0-7695-2614-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SEKANINA, L. On Dependability of FPGA-Based Evolvable Hardware Systems That Utilize Virtual Reconfigurable Circuits. Computing Frontiers 2006 Conference. New York: Association for Computing Machinery, 2006. p. 221-228. ISBN: 1595933026. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SEKANINA, L.; MARTINEK, T.; GAJDA, Z. Extrinsic and Intrinsic Evolution of Multifunctional Combinational Modules. 2006 IEEE World Congress on Computational Intelligence. CA: IEEE Computational Intelligence Society, 2006. p. 9676-9683. ISBN: 0-7803-9489-5. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SEKANINA, L.; STARECEK, L.; GAJDA, Z.; KOTASEK, Z. Evolution of Multifunctional Combinational Modules Controlled by the Power Supply Voltage. Proc. of the 1st NASA/ESA Conference on Adaptive Hardware and Systems. Piscataway: IEEE Computer Society, 2006. p. 186-193. ISBN: 0-7695-2614-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SEKANINA, L.; STARECEK, L.; KOTASEK, Z. Novel Logic Circuits Controlled by Vdd. Proc. of 2006 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Praha: IEEE Computer Society, 2006. p. 85-86. ISBN: 1424401844. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SEKANINA, L.; VASICEK, Z. On the Practical Limits of the Evolutionary Digital Filter Design at the Gate Level. Applications of Evolutionary Computing. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2006. p. 344-355. ISBN: 978-3-540-33237-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "STARECEK, L. Modelovani polymorfnich hradel a obvodu. Sbornik prispevku Cesko-slovenskeho seminare Pocitacove architektury a diagnostika pro studenty doktorandskeho studia. Bratislava: Slovenska akademie ved, 2006. s. 67-72. ISBN: 80-969202-2-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "ZEBULUM, R.; KEYMEULEN, D.; RAMESHAM, R.; SEKANINA, L.; MAO, J.; KUMAR, N.; STOICA, A. Characterization and Synthesis of Circuits at Extreme Low Temperatures. In Evolvable Hardware. Genetic and Evolutionary Computation. Berlin: Springer Verlag, 2006. p. 161-172. ISBN: 0-387-24386-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BIDLO, M.; SEKANINA, L. Providing Information from the Environment for Growing Electronic Circuits Through Polymorphic Gates. Proc. of Genetic and Evolutionary Computation Conference - Workshops 2005. New York: Association for Computing Machinery, 2005. p. 242-248. ISBN: 1-59593-097-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KORENEK, J.; SEKANINA, L. Intrinsic Evolution of Sorting Networks: A Novel Complete Hardware Implementation for FPGAs. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2005. p. 46-55. ISBN: 978-3-540-28736-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MARTINEK, T.; SEKANINA, L. An Evolvable Image Filter: Experimental Evaluation of a Complete Hardware Implementation in FPGA. In Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2005. p. 76-85. ISBN: 978-3-540-28736-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "PECENKA, T.; KOTASEK, Z.; SEKANINA, L.; STRNADEL, J. Automatic Discovery of RTL Benchmark Circuits with Predefined Testability Properties. Proc. of the 2005 NASA/DoD Conference on Evolvable Hardware. Los Alamitos: IEEE Computer Society Press, 2005. p. 51-58. ISBN: 0-7695-2399-4. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SEKANINA, L. Design Methods for Polymorphic Digital Circuits. Proc. of 8th IEEE Design and Diagnostic of Electronic Circuits and Systems Workshop. Sopron: University of West Hungary, 2005. p. 145-150. ISBN: 9639364487. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SEKANINA, L. Evolutionary Design of Gate-Level Polymorphic Digital Circuits. Applications of Evolutionary Computation. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2005. p. 185-194. ISBN: 978-3-540-25396-9. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SEKANINA, L. Evolucni design porazi reseni vytvorena kreativnim navrharem. Vesmir, 2005, roc. 84, c. 1, s. 44-46. ISSN: 0042-4544. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SEKANINA, L.; BIDLO, M. Evolutionary Design of Arbitrarily Large Sorting Networks Using Development. Genetic Programming and Evolvable Machines, 2005, vol. 6, no. 3, p. 319-347. ISSN: 1389-2576. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SEKANINA, L.; ZEBULUM, R. Evolutionary discovering of the concept of the discrete state at the transistor level. Proc. of the 2005 NASA/DoD Conference on Evolvable Hardware. Los Alamitos: IEEE Computer Society Press, 2005. p. 73-78. ISBN: 0-7695-2399-4. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SEKANINA, L.; ZEBULUM, R. Intrinsic Evolution of Controllable Oscillators in FPTA-2. Evolvable Systems: From Biology to Hardware. Berlin: Springer Verlag, 2005. p. 98-107. ISBN: 978-3-540-28736-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ZEBULUM, R.; STOICA, A.; KEYMEULEN, D.; SEKANINA, L. Evolvable Hardware System at Extreme Low Temperatures. Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2005. p. 37-45. ISBN: 978-3-540-28736-0. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "FRIEDL, S.; SEKANINA, L. The First Circuits Evolved in a Physical Virtual Reconfigurable Device. Proc. of the 7th IEEE Workshop on Design and Diagnostics of Electronic Circuits and Systems. Bratislava: Slovak Academy of Science, 2004. p. 35-42. ISBN: 80-969117-9-1. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SEKANINA, L. Evolutionary Design Space Exploration for Median Circuits. Lecture Notes in Computer Science, 2004, vol. 2004, no. 3005, p. 240-249. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SEKANINA, L. Evolvable computing by means of evolvable components. Natural Computing, 2004, vol. 3, no. 3, p. 323-355. ISSN: 1567-7818. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SEKANINA, L. Evolving Constructors for Infinitely Growing Sorting Networks and Medians. Lecture Notes in Computer Science, 2004, vol. 2004, no. 2932, p. 314-323. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SEKANINA, L.; DRABEK, V. Theory and Applications of Evolvable Embedded Systems. Proc. of the 11th IEEE Int. Conference and Workshop on the Engineering of Computer-Based Systems. Los Alamitos, CA: IEEE Computer Society Press, 2004. p. 186-193. ISBN: 0-7695-2125-8. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SEKANINA, L.; FRIEDL, S. On Routine Implementation of Virtual Evolvable Devices Using COMBO6. Proc. of the 2004 NASA/DoD Conference on Evolvable Hardware. Los Alamitos: IEEE Computer Society Press, 2004. p. 63-70. ISBN: 0-7695-2145-2. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SEKANINA, L.; FRIEDL, S. An Evolvable Combinational Unit for FPGAs. COMPUTING AND INFORMATICS, 2004, vol. 23, no. 5, p. 461-486. ISSN: 1335-9150. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "TORRESEN, J.; BAKKE, J.; SEKANINA, L. Efficient Image Filtering and Information Reduction in Reconfigurable Logic. Proc. of 2004 Norchip conference. Oslo: IEEE Computer Society Press, 2004. p. 63-66. ISBN: 0-7803-8510-1. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "TORRESEN, J.; BAKKE, J.; SEKANINA, L. Efficient Recognition of Speed Limit Signs. Proc. of the 7th International IEEE Conference on Intelligent Transportation Systems. Los Alamos: IEEE Computer Society Press, 2004. p. 652-656. ISBN: 0-7803-8501-2. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "TORRESEN, J.; BAKKE, J.; SEKANINA, L. Recognizing Speed Limit Sign Numbers by Evolvable Hardware. Lecture Notes in Computer Science, 2004, vol. 2004, no. 3242, p. 682-691. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "VASICEK, Z.; SEKANINA, L. Evolucni navrh kombinacnich obvodu. Elektrorevue - Internetovy casopis (http://www.elektrorevue.cz), 2004, roc. 2004, c. 43, s. 1-6. ISSN: 1213-1539. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SEKANINA, L. Evolvable Components - From Theory to Hardware Implementations. Natural Computing Series. Natural Computing Series. Berlin: Springer Verlag, 2003. 194 p. ISBN: 3-540-40377-9. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SEKANINA, L. Towards Evolvable IP Cores for FPGAs. Proc. of The 2003 NASA/DoD Conference on Evolvable Hardware. Los Alamitos: IEEE Computer Society Press, 2003. p. 145-154. ISBN: 0-7695-1977-6. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SEKANINA, L. From Implementations to a General Concept of Evolvable Machines. Lecture Notes in Computer Science, 2003, vol. 2003, no. 2610, p. 424-433. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SEKANINA, L. Virtual Reconfigurable Circuits for Real-World Applications of Evolvable Hardware. Lecture Notes in Computer Science, 2003, vol. 2003, no. 2606, p. 186-197. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SEKANINA, L.; RUZICKA, R. Easily Testable Image Operators: The Class of Circuits Where Evolution Beats Engineers. The 2003 NASA/DoD Conference on Evolvable Hardware. Los Alamitos: IEEE Computer Society Press, 2003. p. 135-144. ISBN: 0-7695-1977-6. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L. Component Approach to Evolvable Systems. Brno: 2002. 132 p. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L. Evolvable Computational Machines: Formal Approach. Intelligent Technologies - Theory and Applications, E-ISCI 2002. Frontiers in Artificial Intelligence and Applications. Amsterdam: IOS Press, 2002. p. 166-172. ISBN: 1-58603-256-9. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L. Image Filter Design with Evolvable Hardware. Lecture Notes in Computer Science, 2002, vol. 2002, no. 2279, p. 255-266. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L.; DRABEK, V. A Survey of Bioinspired Methods for Design of Fault Tolerant Reconfigurable Architectures. Proc. of the 8th Biennial Baltic Electronics Conference. Tallinn: Tallinn University of Technology, 2002. p. 355-358. ISBN: 9985-59-292-1. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L.; DRABEK, V. Automatic Design of Image Operators Using Evolvable Hardware. Proc. of 5th IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Brno: Brno University of Technology, 2002. p. 132-139. ISBN: 80-214-2094-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SLLAME, A.; SEKANINA, L. An Evolutionary-Based Algorithm to the Module Selection Problem with Resource Sharing in High-Level Synthesis. Advances in Nature-Inspired Computation: The PPSN VII Workshops. Reading: PEDAL, Department of Computer Science, University of Reading, 2002. p. 45-46. ISBN: 0-9543481-0-9. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SEKANINA, L.; DRABEK, V. Relation Between Fault Tolerance and Reconfiguration in Cellular Systems. 6th IEEE Int. On-Line Testing Workshop. Palma de Mallorca, Spain: IEEE Computer Society Press, 2000. p. 25-30. ISBN: 0-7695-0646-1. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SEKANINA, L.; RUZICKA, R. Design of the Special Fast Reconfigurable Chip Using Common FPGA. Proc. of Design and Diagnostics of Electronic Circuits and Systems - IEEE DDECS'2000. Smolenice: unknown, 2000. p. 161-168. ISBN: 80-968320-3-4. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SEKANINA, L.; SLLAME, A. Toward Uniform Approach to Design of Evolvable Hardware Based Systems. Lecture Notes in Computer Science, 2000, vol. 2000, no. 1896, p. 814-817. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "SEKANINA, L. Evolvable Hardware as Non-Linear Predictor for Image Compression. Proc. of the 2nd Prediction Conference Nostradamus'99. Zlin: unknown, 1999. p. 87-92. ISBN: 80-214-1424-3. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "SEKANINA, L.; DRABEK, V. Evolvable hardware - evoluce na cipu. Elektrorevue - Internetovy casopis (http://www.elektrorevue.cz), 1999, roc. 1, c. 5, 5 s. ISSN: 1213-1539. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2023",
+            "title": "autoAx: An Open-Source Automated Design Space Exploration Framework for Approximate Accelerators in FPGAs and ASICs",
+            "authors": "autoAx: An Open-Source Automated Design Space Exploration Framework for Approximate Accelerators in FPGAs and ASICs , software, 2023 : MRAZEK, V."
+        },
+        {
+            "year": "2019",
+            "title": "EvoApproxLib - a comprehensive collection of low-level approximate implementations of arithmetic operations",
+            "authors": "EvoApproxLib - a comprehensive collection of low-level approximate implementations of arithmetic operations , software, 2019 : MRAZEK, V.; VASICEK, Z.; SEKANINA, L."
+        },
+        {
+            "year": "2014",
+            "title": "ZyEHW: Evolvable hardware in Xilinx Zynq-7000 field-programmable gate arrays",
+            "authors": "ZyEHW: Evolvable hardware in Xilinx Zynq-7000 field-programmable gate arrays , software, 2014 : DOBAI, R."
+        },
+        {
+            "year": "2013",
+            "title": "Microscopic CA-based traffic simulator",
+            "authors": "Microscopic CA-based traffic simulator , software, 2013 : KORCEK, P.; FULOP, T."
+        },
+        {
+            "year": "2013",
+            "title": "Nelinearni obrazovy filtr",
+            "authors": "Nelinearni obrazovy filtr , patent, 2013 : SEKANINA, L.; VASICEK, Z."
+        },
+        {
+            "year": "2010",
+            "title": "CASim - Cellular Automata Simulator",
+            "authors": "CASim - Cellular Automata Simulator , software, 2010 : BIDLO, M."
+        },
+        {
+            "year": "2010",
+            "title": "EvoMult - System for Evolutionary Development of Generic Combinational Multipliers",
+            "authors": "EvoMult - System for Evolutionary Development of Generic Combinational Multipliers , software, 2010 : BIDLO, M."
+        },
+        {
+            "year": "2010",
+            "title": "EvoSort - System for Evolutionary Development of Generic Sorting Networks",
+            "authors": "EvoSort - System for Evolutionary Development of Generic Sorting Networks , software, 2010 : BIDLO, M."
+        },
+        {
+            "year": "2009",
+            "title": "Hardware Accelerator for Evolutionary Image Filters Design",
+            "authors": "Hardware Accelerator for Evolutionary Image Filters Design , functioning sample, 2009 : VASICEK, Z.; SEKANINA, L."
+        },
+        {
+            "year": "2009",
+            "title": "Nelinearni obrazovy filtr",
+            "authors": "Nelinearni obrazovy filtr , utility model, 2009 : SEKANINA, L.; VASICEK, Z."
+        },
+        {
+            "year": "2008",
+            "title": "Nastroje pro kartezske geneticke programovani",
+            "authors": "Nastroje pro kartezske geneticke programovani , software, 2008 : VASICEK, Z.; SEKANINA, L."
+        },
+        {
+            "year": "2008",
+            "title": "REPOMO32 - Rekonfigurovatelny polymorfni integrovany obvod",
+            "authors": "REPOMO32 - Rekonfigurovatelny polymorfni integrovany obvod , functioning sample, 2008 : SEKANINA, L.; RUZICKA, R.; VASICEK, Z.; PROKOP, R.; FUJCIK, L."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2005",
+            "title": "Generovani grafu celularnimi automaty",
+            "authors": ", research report, 2005 : BIDLO, M."
+        },
+        {
+            "year": "2005",
+            "title": "Vyvojove modely pro evolucni navrh logickych obvodu",
+            "authors": ", research report, 2005 : BIDLO, M."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2021",
+            "title": "Editorial: Special issue on Advancing on Approximate Computing: Methodologies, Architectures and Algorithms",
+            "authors": "Editorial: Special issue on Advancing on Approximate Computing: Methodologies, Architectures and Algorithms , editorial, 2021 : BARBARESCHI, M.; BOSIO, A.; SEKANINA, L.; BRAUN, C."
+        },
+        {
+            "year": "2020",
+            "title": "Special issue on highlights of genetic programming 2019 events",
+            "authors": "Special issue on highlights of genetic programming 2019 events , editorial, 2020 : HU, T.; NICOLAU, M.; SEKANINA, L."
+        },
+        {
+            "year": "2018",
+            "title": "Guest Editorial: Bio-inspired Hardware and Evolvable Systems",
+            "authors": "Guest Editorial: Bio-inspired Hardware and Evolvable Systems , editorial, 2018 : TREFZER, M.; SEKANINA, L."
+        }
+    ]
+}

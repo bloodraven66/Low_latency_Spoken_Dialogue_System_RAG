@@ -1,0 +1,319 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "rohdin@fit.vut.cz",
+            "work_phone": "+420 54114 1311",
+            "room": "L233 Office",
+            "researcher_id": "AAF-7582-2022",
+            "orcid_id": "0000-0003-0978-2064",
+            "scopus_author_id": "56303983400"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Speech Data Mining Research Group BUT Speech@FIT",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Supervisors Specialists in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "Thursday, 13:00-15:00 , B/L233 (Bozetechova 1/2, Brno 61200) Please email in advance to confirm. Other times and days can also be arranged.",
+        "lectured_courses": [
+            {
+                "abbreviation": "CZSa",
+                "title": "Digital Signal Processing (in English)",
+                "details": "Lecture, Seminar,\nEnglish, winter",
+                "department": "DCSY"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Advancing Robust and Creative Human language technologies through CHallenge Events and Research",
+            "details": "EU, European Defence Fund, start: 2024-12-01, end: 2029-11-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "Multilingual and Cross-cultural interactions for context-aware, and bias-controlled dialogue systems for safety-critical applications",
+            "details": "EU, HORIZON EUROPE, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Tools To Combat Voice DeepFakes",
+            "details": "MV, Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - II. verejna soutez, VB02000060, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Practical verification of the possibility of integrating artificial intelligence for receiving emergency calls using a voice chatbot, developed within the research project BV No. VI20192022169, with technology for receiving emergency communications",
+            "details": "MV, 1 VS OPSEC, VK01020132, start: 2023-01-06, end: 2025-10-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Exchanges for SPEech ReseArch aNd TechnOlogies",
+            "details": "EU, Horizon 2020, start: 2021-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Neural Representations in multi-modal and multi-lingual modeling",
+            "details": "GACR, Grantove projekty exelence v zakladnim vyzkumu EXPRO - 2019, GX19-26934X, start: 2019-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "IARPA Machine Translation for English Retrieval of Information in Any Language (MATERIAL) - Foreign Language Automated Information Retrieval (FLAIR)",
+            "details": "IARPA, start: 2017-09-21, end: 2021-10-22, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Sequence summarizing neural networks for speaker recognition",
+            "details": "EU, Horizon 2020, 5SA15094, start: 2016-07-01, end: 2019-06-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "BARAHONA, S.; SILNOVA, A.; MOSNER, L.; PENG, J.; PLCHOT, O.; ROHDIN, J.; ZHANG, L.; HAN, J.; PALKA, P.; LANDINI, F.; BURGET, L.; STAFYLAKIS, T.; CUMANI, S.; BOBOS, D.; HLAVACEK, M.; KODOVSKY, M.; PAVLICEK, T. Analysis of ABC Frontend Audio Systems for the NIST-SRE24. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam: International Speech Communication Association, 2025. p. 5763-5767."
+        },
+        {
+            "year": "2025",
+            "citation": "Biswas, S; Khan, MAA; Ali, MH; Rohdin, J; Pramanik, S; Khan, MIA; Chakravarty, SK; Pramanik, BK. Interpreting Deep Neural Networks in Diabetic Retinopathy Grading: A Comparison with Human Decision Criteria. Life-Basel, 2025, vol. 15, no. 9, 25 p."
+        },
+        {
+            "year": "2025",
+            "citation": "CUMANI, S.; SILNOVA, A.; BARAHONA, S.; MOSNER, L.; PLCHOT, O.; ROHDIN, J. Analysis of the ABC classification backends for NIST SRE24. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam: International Speech Communication Association, 2025. p. 3978-3982."
+        },
+        {
+            "year": "2025",
+            "citation": "HAN, J.; LANDINI, F.; ROHDIN, J.; SILNOVA, A.; DIEZ SANCHEZ, M.; BURGET, L. Leveraging Self-Supervised Learning for Speaker Diarization. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1."
+        },
+        {
+            "year": "2025",
+            "citation": "HAN, J.; LANDINI, F.; ROHDIN, J.; SILNOVA, A.; DIEZ, M.; CERNOCKY, J.; BURGET, L. Fine-tune Before Structured Pruning: Towards Compact and Accurate Self-Supervised Models for Speaker Diarization. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1583-1587."
+        },
+        {
+            "year": "2025",
+            "citation": "LI, J.; MAK, M.; ROHDIN, J.; LEE, K.; HERMANSKY, H. Bayesian Learning for Domain-Invariant Speaker Verification and Anti-Spoofing. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam: International Speech Communication Association, 2025. p. 1123-1127."
+        },
+        {
+            "year": "2025",
+            "citation": "MADIKERI, S.; MOTLICEK, P.; SANCHEZ-CORTES, D.; RANGAPPA, P.; HUGHES, J.; TKACZUK, J.; LARA, A.; KHALIL, D.; ROHDIN, J.; ZHU, D.; KRISHNAN, A.; KLAKOW, D.; AHMADI, Z.; KOVAC, M.; BOBOS, D.; KALOGIROS, C.; ALEXOPOULOS, A.; MARRAUD, D. Autocrime-open multimodal platform for combating organized crime. Forensic Science International: Digital Investigation, 2025, vol. 54, no. 9, p. 1-14."
+        },
+        {
+            "year": "2024",
+            "citation": "ALAM, J.; BARAHONA QUIROS, S.; BOBOS, D.; BURGET, L.; CUMANI, S.; DAHMANE, M.; HAN, J.; HLAVACEK, M.; KODOVSKY, M.; LANDINI, F.; MOSNER, L.; PALKA, P.; PAVLICEK, T.; PENG, J.; PLCHOT, O.; RAJASEKHAR, P.; ROHDIN, J.; SILNOVA, A.; STAFYLAKIS, T.; ZHANG, L. ABC SYSTEM DESCRIPTION FOR NIST SRE 2024. Proceedings of NIST SRE 2024. San Juan: National Institute of Standards and Technology, 2024. p. 1-9."
+        },
+        {
+            "year": "2024",
+            "citation": "HAN, J.; LANDINI, F.; ROHDIN, J.; DIEZ SANCHEZ, M.; BURGET, L.; CAO, Y.; LU, H.; CERNOCKY, J. Diacorrect: Error Correction Back-End for Speaker Diarization. In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Seoul: IEEE Signal Processing Society, 2024. p. 11181-11185. ISBN: 979-8-3503-4485-1."
+        },
+        {
+            "year": "2024",
+            "citation": "MOTLICEK, P.; DIKICI, E.; MADIKERI, S.; RANGAPPA, P.; BACKFRIED, G.; ROHDIN, J.; SCHWARZ, P.; KOVAC, M.; MALY, K.; BOBOS, D.; KLAKOW, D.; SERGIDOU, E. ROXSD: The ROXANNE Multimodal and Simulated Dataset for Advancing Criminal Investigations. Proceedings of Odyssey 2024: The Speaker and Language Recognition Workshop. Quebec City: International Speech Communication Association, 2024. p. 17-24."
+        },
+        {
+            "year": "2024",
+            "citation": "ROHDIN, J.; ZHANG, L.; PLCHOT, O.; STANEK, V.; MIHOLA, D.; PENG, J.; STAFYLAKIS, T.; BEVERAKI, D.; SILNOVA, A.; BRUKNER, J.; BURGET, L. BUT systems and analyses for the ASVspoof 5 Challenge. Proceedings of ASV spoof 2024 Workshop. Kos Island: International Speech Communication Association, 2024. p. 24-31."
+        },
+        {
+            "year": "2024",
+            "citation": "SERGIDOU, E.; YPMA, R.; ROHDIN, J.; WORRING, M.; GERADTS, Z.; BOSMA, W. Fusing linguistic and acoustic information for automated forensic speaker comparison. SCIENCE & JUSTICE, 2024, vol. 64, no. 5, p. 485-497. ISSN: 1355-0306."
+        },
+        {
+            "year": "2024",
+            "citation": "STAFYLAKIS, T.; SILNOVA, A.; ROHDIN, J.; PLCHOT, O.; BURGET, L. Challenging margin-based speaker embedding extractors by using the variational information bottleneck. In Proceedings of Interspeech 2024. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 3220-3224. ISSN: 1990-9772."
+        },
+        {
+            "year": "2024",
+            "citation": "WANG, S.; CHEN, Z.; HAN, B.; WANG, H.; XIANG, X.; ROHDIN, J.; SILNOVA, A.; QIAN, Y.; LI, H. Advancing speaker embedding learning: Wespeaker toolkit for research and production. Speech communication, 2024, vol. 162, no. 103104, p. 1-12. ISSN: 0167-6393."
+        },
+        {
+            "year": "2023",
+            "citation": "SKOWRON, M.; BACKFRIED, G.; NAVAS, E.; BERZINS, A.; VAN, J.; DE, F.; DEMARCO, A.; POLAK, P.; KOVAC, M.; POLAK, P.; ROHDIN, J.; ROSNER, M.; SANCHEZ, J.; SARATXAGA, I.; SCHWARZ, P. Deep Dive Speech Technology. In European Language Equality. Cham: Springer Nature Switzerland AG, 2023. p. 289-312. ISBN: 978-3-031-28819-7."
+        },
+        {
+            "year": "2022",
+            "citation": "ALAM, J.; BURGET, L.; GLEMBEK, O.; MATEJKA, P.; MOSNER, L.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; STAFYLAKIS, T. Development of ABC systems for the 2021 edition of NIST Speaker Recognition evaluation. Proceedings of The Speaker and Language Recognition Workshop (Odyssey 2022). Beijing: International Speech Communication Association, 2022. p. 346-353."
+        },
+        {
+            "year": "2022",
+            "citation": "BISWAS, S.; ROHDIN, J.; KHAN, A.; BISWAS, A.; HOSSAIN, T.; NAKAI, T. Which Color Channel Is Better for Diagnosing Retinal Diseases Automatically in Color Fundus Photographs?. Life-Basel, 2022, vol. 12, no. 7, p. 1-38. ISSN: 2075-1729."
+        },
+        {
+            "year": "2022",
+            "citation": "SILNOVA, A.; STAFYLAKIS, T.; MOSNER, L.; PLCHOT, O.; ROHDIN, J.; MATEJKA, P.; BURGET, L.; GLEMBEK, O.; BRUMMER, J. Analyzing speaker verification embedding extractors and back-ends under language and channel mismatch. Proceedings of The Speaker and Language Recognition Workshop (Odyssey 2022). Beijing: International Speech Communication Association, 2022. p. 9-16."
+        },
+        {
+            "year": "2022",
+            "citation": "SOLEWICZ, Y.; COHEN, N.; ROHDIN, J.; MADIKERI, S.; CERNOCKY, J. Speaker recognition on mono-channel telephony recordings. Proceedings of Odyssey 2022. Beijing: International Speech Communication Association, 2022. p. 193-199."
+        },
+        {
+            "year": "2022",
+            "citation": "STAFYLAKIS, T.; MOSNER, L.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; BURGET, L.; CERNOCKY, J. Training Speaker Embedding Extractors Using Multi-Speaker Audio with Unknown Speaker Boundaries. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 605-609. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "BISWAS, S.; ROHDIN, J.; BISWAS, A.; DRAHANSKY, M. A Study of Bilateral Symmetry in Color Fundus Photographs. IEEE Access, 2021, vol. 2021, no. 9, p. 109624-109651. ISSN: 2169-3536."
+        },
+        {
+            "year": "2021",
+            "citation": "BISWAS, S.; ROHDIN, J.; KAVETSKYI, A.; ALVES SARAIVA, G.; BISWAS, A.; DRAHANSKY, M. Investigation of Bilateral Similarity in Central Retinal Blood Vessels. IEEE Access, 2021, vol. 2021, no. 9, p. 63012-63028. ISSN: 2169-3536."
+        },
+        {
+            "year": "2021",
+            "citation": "LANDINI, F.; GLEMBEK, O.; MATEJKA, P.; ROHDIN, J.; BURGET, L.; DIEZ SANCHEZ, M.; SILNOVA, A. Analysis of the BUT Diarization System for Voxconverse Challenge. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 5819-5823. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2021",
+            "citation": "STAFYLAKIS, T.; ROHDIN, J.; BURGET, L. Speaker embeddings by modeling channel-wise correlations. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 501-505. ISSN: 1990-9772."
+        },
+        {
+            "year": "2020",
+            "citation": "ALAM, J.; BOULIANNE, G.; BURGET, L.; DAHMANE, M.; DIEZ SANCHEZ, M.; GLEMBEK, O.; LALONDE, M.; LOZANO DIEZ, A.; MATEJKA, P.; MIZERA, P.; MOSNER, L.; NOISEUX, C.; MONTEIRO, J.; NOVOTNY, O.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; SLAVICEK, J.; STAFYLAKIS, T.; ST-CHARLES, P.; WANG, S.; ZEINALI, H. Analysis of ABC Submission to NIST SRE 2019 CMN and VAST Challenge. Proceedings of Odyssey 2020 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Tokyo: International Speech Communication Association, 2020. no. 11, p. 289-295. ISSN: 2312-2846."
+        },
+        {
+            "year": "2020",
+            "citation": "BISWAS, S.; ROHDIN, J.; DRAHANSKY, M. Bilateral Symmetry in Central Retinal Blood Vessels. In 8th International Workshop on Biometrics and Forensics, IWBF 2020. Porto: IEEE Computer Society, 2020. p. 1-6. ISBN: 978-1-7281-6232-4."
+        },
+        {
+            "year": "2020",
+            "citation": "BISWAS, S.; ROHDIN, J.; DRAHANSKY, M. Interretinal Symmetry in Color Fundus Photographs. In Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS. Montreal: IEEE Computer Society, 2020. p. 1980-1983. ISBN: 978-1-7281-1990-8."
+        },
+        {
+            "year": "2020",
+            "citation": "BISWAS, S.; ROHDIN, J.; KAVETSKYI, A.; DRAHANSKY, M. Grading Quality of Color Retinal Images to Assist Fundus Camera Operators. In Proceedings of the IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS). Rochester: IEEE Computer Society Press, 2020. p. 77-82. ISBN: 978-1-7281-9429-5."
+        },
+        {
+            "year": "2020",
+            "citation": "BURGET, L.; GLEMBEK, O.; LOZANO DIEZ, A.; MATEJKA, P.; NOVOTNY, O.; PLCHOT, O.; PULUGUNDLA, B.; ROHDIN, J.; SILNOVA, A.; VESELY, K. BUT System Description to SdSV Challenge 2020. Proceedings of Short-duration Speaker Verification Challenge 2020 Workshop. Shanghai, on-line event of Interspeech 2020 Conference: 2020. p. 1-5."
+        },
+        {
+            "year": "2020",
+            "citation": "LANDINI, F.; WANG, S.; DIEZ SANCHEZ, M.; BURGET, L.; MATEJKA, P.; ZMOLIKOVA, K.; MOSNER, L.; SILNOVA, A.; PLCHOT, O.; NOVOTNY, O.; ZEINALI, H.; ROHDIN, J. But System for the Second Dihard Speech Diarization Challenge. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Barcelona: IEEE Signal Processing Society, 2020. p. 6529-6533. ISBN: 978-1-5090-6631-5."
+        },
+        {
+            "year": "2020",
+            "citation": "LOZANO DIEZ, A.; SILNOVA, A.; PULUGUNDLA, B.; ROHDIN, J.; VESELY, K.; BURGET, L.; PLCHOT, O.; GLEMBEK, O.; NOVOTNY, O.; MATEJKA, P. BUT Text-Dependent Speaker Verification System for SdSV Challenge 2020. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Shanghai: International Speech Communication Association, 2020. no. 10, p. 761-765. ISSN: 1990-9772."
+        },
+        {
+            "year": "2020",
+            "citation": "MATEJKA, P.; PLCHOT, O.; GLEMBEK, O.; BURGET, L.; ROHDIN, J.; ZEINALI, H.; MOSNER, L.; SILNOVA, A.; NOVOTNY, O.; DIEZ SANCHEZ, M.; CERNOCKY, J. 13 years of speaker recognition research at BUT, with longitudinal analysis of NIST SRE. COMPUTER SPEECH AND LANGUAGE, 2020, vol. 2020, no. 63, p. 1-15. ISSN: 0885-2308."
+        },
+        {
+            "year": "2020",
+            "citation": "MOSNER, L.; PLCHOT, O.; ROHDIN, J.; CERNOCKY, J. Utilizing VOiCES dataset for multichannel speaker verification with beamforming. Proceedings of Odyssey 2020 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Tokyo: International Speech Communication Association, 2020. no. 11, p. 187-193. ISSN: 2312-2846."
+        },
+        {
+            "year": "2020",
+            "citation": "ROHDIN, J.; SILNOVA, A.; DIEZ SANCHEZ, M.; PLCHOT, O.; MATEJKA, P.; BURGET, L.; GLEMBEK, O. End-to-end DNN based text-independent speaker recognition for long and short utterances. COMPUTER SPEECH AND LANGUAGE, 2020, vol. 2020, no. 59, p. 22-35. ISSN: 0885-2308."
+        },
+        {
+            "year": "2020",
+            "citation": "SILNOVA, A.; BRUMMER, J.; ROHDIN, J.; STAFYLAKIS, T.; BURGET, L. Probabilistic embeddings for speaker diarization. Proceedings of Odyssey 2020 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Tokyo: International Speech Communication Association, 2020. no. 11, p. 24-31. ISSN: 2312-2846."
+        },
+        {
+            "year": "2020",
+            "citation": "WANG, S.; ROHDIN, J.; PLCHOT, O.; BURGET, L.; YU, K.; CERNOCKY, J. Investigation of Specaugment for Deep Speaker Embedding Learning. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Barcelona: IEEE Signal Processing Society, 2020. p. 7139-7143. ISBN: 978-1-5090-6631-5."
+        },
+        {
+            "year": "2019",
+            "citation": "ALAM, J.; BOULIANNE, G.; BURGET, L.; GLEMBEK, O.; LOZANO DIEZ, A.; MATEJKA, P.; MIZERA, P.; MOSNER, L.; NOVOTNY, O.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; SLAVICEK, J.; STAFYLAKIS, T.; WANG, S.; ZEINALI, H.; DAHMANE, M.; ST-CHARLES, P.; LALONDE, M.; NOISEUX, C.; MONTEIRO, J. ABC System Description for NIST Multimedia Speaker Recognition Evaluation 2019. Proceedings of NIST 2019 SRE Workshop. Sentosa, Singapore: National Institute of Standards and Technology, 2019. p. 1-7."
+        },
+        {
+            "year": "2019",
+            "citation": "ALAM, J.; BOULIANNE, G.; GLEMBEK, O.; LOZANO DIEZ, A.; MATEJKA, P.; MIZERA, P.; MONTEIRO, J.; MOSNER, L.; NOVOTNY, O.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; SLAVICEK, J.; STAFYLAKIS, T.; WANG, S.; ZEINALI, H. ABC NIST SRE 2019 CTS System Description. Proceedings of NIST. Sentosa, Singapore: National Institute of Standards and Technology, 2019. p. 1-6."
+        },
+        {
+            "year": "2019",
+            "citation": "BISWAS, S.; ROHDIN, J.; DRAHANSKY, M. Suitable Embedding to Find Similarity Between Left and Right Retinas of a Person. In Proceedings of the 12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics. Suzhou: IEEE Computer Society, 2019. p. 1-6. ISBN: 978-1-7281-4852-6."
+        },
+        {
+            "year": "2019",
+            "citation": "BISWAS, S.; ROHDIN, J.; DRAHANSKY, M. Synthetic Retinal Images from Unconditional GANs. In Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Berlin: IEEE Computer Society, 2019. p. 2736-2739. ISBN: 978-1-5386-1311-5."
+        },
+        {
+            "year": "2019",
+            "citation": "BISWAS, S.; ROHDIN, J.; MNUK, T.; DRAHANSKY, M. Is There Any Similarity Between a Person's Left and Right Retina?. In Proceedings of the 18th International Conference of the Biometrics Special Interest Group. Lecture Notes in Informatics. Darmstadt: GI - Group for computer science, 2019. p. 71-82. ISBN: 978-3-88579-690-9."
+        },
+        {
+            "year": "2019",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; WANG, S.; ROHDIN, J.; CERNOCKY, J. Bayesian HMM based x-vector clustering for Speaker Diarization. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 346-350. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "MOSNER, L.; PLCHOT, O.; ROHDIN, J.; BURGET, L.; CERNOCKY, J. Speaker Verification with Application-Aware Beamforming. In IEEE Automatic Speech Recognition and Understanding Workshop - Proceedings (ASRU). Sentosa, Singapore: IEEE Signal Processing Society, 2019. p. 411-418. ISBN: 978-1-7281-0306-8."
+        },
+        {
+            "year": "2019",
+            "citation": "ROHDIN, J.; STAFYLAKIS, T.; SILNOVA, A.; ZEINALI, H.; BURGET, L.; PLCHOT, O. Speaker Verification Using End-To-End Adversarial Language Adaptation. In Proceedings of ICASSP 2019. Brighton: IEEE Signal Processing Society, 2019. p. 6006-6010. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2019",
+            "citation": "STAFYLAKIS, T.; ROHDIN, J.; PLCHOT, O.; MIZERA, P.; BURGET, L. Self-supervised speaker embeddings. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 2863-2867. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "WANG, S.; ROHDIN, J.; BURGET, L.; PLCHOT, O.; QIAN, Y.; YU, K.; CERNOCKY, J. On the Usage of Phonetic Information for Text-independent Speaker Embedding Extraction. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 1148-1152. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "ZEINALI, H.; BURGET, L.; ROHDIN, J.; STAFYLAKIS, T.; CERNOCKY, J. How To Improve Your Speaker Embeddings Extractor in Generic Toolkits. In Proceedings of 2019 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Brighton: IEEE Signal Processing Society, 2019. p. 6141-6145. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2019",
+            "citation": "ZEINALI, H.; STAFYLAKIS, T.; ATHANASOPOULOU, G.; ROHDIN, J.; GKINIS, I.; BURGET, L.; CERNOCKY, J. Detecting Spoofing Attacks Using VGG and SincNet: BUT-Omilia Submission to ASVspoof 2019 Challenge. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 1073-1077. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "ALAM, J.; BHATTACHARYA, G.; BRUMMER, J.; BURGET, L.; DIEZ SANCHEZ, M.; GLEMBEK, O.; KENNY, P.; KLCO, M.; LANDINI, F.; LOZANO DIEZ, A.; MATEJKA, P.; MONTEIRO, J.; MOSNER, L.; NOVOTNY, O.; PLCHOT, O.; PROFANT, J.; ROHDIN, J.; SILNOVA, A.; SLAVICEK, J.; STAFYLAKIS, T.; ZEINALI, H. ABC NIST SRE 2018 SYSTEM DESCRIPTION. Proceedings of 2018 NIST SRE Workshop. Athens: National Institute of Standards and Technology, 2018. p. 1-10."
+        },
+        {
+            "year": "2018",
+            "citation": "DIEZ SANCHEZ, M.; LANDINI, F.; BURGET, L.; ROHDIN, J.; SILNOVA, A.; ZMOLIKOVA, K.; NOVOTNY, O.; VESELY, K.; GLEMBEK, O.; PLCHOT, O.; MOSNER, L.; MATEJKA, P. BUT system for DIHARD Speech Diarization Challenge 2018. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 2798-2802. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "PLCHOT, O.; MATEJKA, P.; NOVOTNY, O.; CUMANI, S.; LOZANO DIEZ, A.; SLAVICEK, J.; DIEZ SANCHEZ, M.; GREZL, F.; GLEMBEK, O.; KAMSALI VEERA, M.; SILNOVA, A.; BURGET, L.; ONDEL YANG, L.; KESIRAJU, S.; ROHDIN, J. Analysis of BUT-PT Submission for NIST LRE 2017. In Proceedings of Odyssey 2018 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Les Sables d'Olonne: International Speech Communication Association, 2018. no. 6, p. 47-53. ISSN: 2312-2846."
+        },
+        {
+            "year": "2018",
+            "citation": "ROHDIN, J.; SILNOVA, A.; DIEZ SANCHEZ, M.; PLCHOT, O.; MATEJKA, P.; BURGET, L. End-to-End DNN Based Speaker Recognition Inspired by i-Vector and PLDA. In Proceedings of ICASSP. Calgary: IEEE Signal Processing Society, 2018. p. 4874-4878. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2017",
+            "citation": "MATEJKA, P.; PLCHOT, O.; NOVOTNY, O.; CUMANI, S.; LOZANO DIEZ, A.; SLAVICEK, J.; DIEZ SANCHEZ, M.; GREZL, F.; GLEMBEK, O.; KAMSALI VEERA, M.; SILNOVA, A.; BURGET, L.; ONDEL YANG, L.; KESIRAJU, S.; ROHDIN, J. BUT- PT System Description for NIST LRE 2017. Proceedings of NIST Language Recognition Workshop 2017. Orlando, Florida: National Institute of Standards and Technology, 2017. p. 1-6."
+        },
+        {
+            "year": "2017",
+            "citation": "PLCHOT, O.; MATEJKA, P.; SILNOVA, A.; NOVOTNY, O.; DIEZ SANCHEZ, M.; ROHDIN, J.; GLEMBEK, O.; BRUMMER, N.; SWART, A.; PRIETO, J.; GARCIA PERERA, L.; BUERA, L.; KENNY, P.; ALAM, J.; BHATTACHARYA, G. Analysis and Description of ABC Submission to NIST SRE 2016. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 1348-1352. ISSN: 1990-9772."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2025",
+            "title": "Materialy a nastroje pro workshop #2 a vzdelavaci kampane",
+            "metadata": "other unclassified results, 2025"
+        },
+        {
+            "year": "2024",
+            "title": "Materialy a nastroje pro workshop #1 a vzdelavaci kampane",
+            "metadata": "other unclassified results, 2024"
+        },
+        {
+            "year": "2016",
+            "title": "ABC NIST SRE 2016 SYSTEM DESCRIPTION",
+            "metadata": "report, 2016",
+            "authors": "BRUMMER, J.; SWART, A.; PRIETO, J.; GARCIA PERERA, L.; MATEJKA, P.; PLCHOT, O.; DIEZ SANCHEZ, M.; SILNOVA, A.; JIANG, X.; NOVOTNY, O.; ROHDIN, J.; GLEMBEK, O.; GREZL, F.; BURGET, L.; ONDEL YANG, L.; PESAN, J.; CERNOCKY, J.; KENNY, P.; ALAM, J.; BHATTACHARYA, G.; ZEINALI, H."
+        }
+    ],
+    "name": "Rohdin Johan Andreas, M.Sc., Ph.D."
+}

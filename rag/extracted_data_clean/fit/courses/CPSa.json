@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "code": "CPSa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Cyber-Physical Systems Design (in English)"
+    },
+    "content": {
+        "guarantor": "Novak Jiri, Ing., Ph.D. | (DCGM)",
+        "course_coordinator": "Ruzicka Richard, doc. Ing., Ph.D., MBA | (DCSY)",
+        "language_of_instruction": "English",
+        "completion": "Credit+Examination (written)",
+        "time_span": "- 26 hrs lectures\n- 12 hrs laboratories\n- 14 hrs projects",
+        "assessment_points": "- 68 pts final exam (written part)\n- 12 pts seminars in computer labs\n- 20 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Novak Jiri, Ing., Ph.D. | (DCGM)",
+        "instructor": "Novak Jiri, Ing., Ph.D. | (DCGM)",
+        "learning_objectives": "The aim of the course is to stimulate an understanding of the design and analysis of Cyber-Physical Systems (CPS), which integrate computer systems into physical processes. Simultaneously, the course also addresses the synthesis of highly reliable real-time systems. The design and programming of control systems in laboratory conditions is an integral part of the course.A successful graduate will acquire the understanding of basic CPS principles and knowledge in the design and analysis of computer systems integrated into real physical processes. The acquired knowledge will allow for a qualified insight into the system abstraction and architecture, and will simultaneously support the mastering of model and control system designs while using adequate safety specifications to fulfill desired CPS performance targets. The acquired knowledge and skills will support verification of adequate CPS models while taking into account the expected effects of the environment on their function.",
+        "study_literature": "- Platzer A.: Logical Foundations of Cyber-Physical Systems, Springer, 2018, ISBN13 (EAN): 9783319635873.\n- Danda B. Rawat, Joel J.P.C. Rodrigues, Ivan Stojmenovic: Cyber-Physical Systems: From Theory to Practice, CRC Press, 2015, ISBN 9781482263329.",
+        "fundamental_literature": "- Rajeev Alur: Principles of Cyber-Physical Systems, The MIT Press, 2015, ISBN-10: 0262029111.\nRajeev Alur: Principles of Cyber-Physical Systems, The MIT Press, 2015, ISBN-10: 0262029111.",
+        "syllabus_of_lectures": "- Introduction to Cyber-physical systems.\n- System elements, architecture and process framework.\n- Physical system models and importance of linear models.\n- System identification and model parameter estimation.\n- State estimation algorithms.\n- Stability and control basics.\n- Control in discrete time.\n- Sensing, perception and actuation.\n- Computational platforms.\n- System integration.\n- System verification.\n- Cybersecurity aspects.\n- Safety assessment of Cyber-Physical Systems.",
+        "syllabus_of_laboratory_exercises": "- Introduction to Matlab/Simulink and simulation of dynamic systems.\n- System identification, model parameter estimation.\n- Simulation and stability analysis of physical models.\n- CPS control algorithms design.\n- Control algorithm implementation in simulation environment.\n- System testing and verification.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "- Student will individually design a CPS.\n- Student will perform an analysis of a specific CPS.\n- Student will design and implement a CPS control system.",
+        "progress_assessment": "- Mid-term exam - 20 points.\n- Completion of individually assigned project - 20 points.\n- Final exam - 60 points."
+    }
+}

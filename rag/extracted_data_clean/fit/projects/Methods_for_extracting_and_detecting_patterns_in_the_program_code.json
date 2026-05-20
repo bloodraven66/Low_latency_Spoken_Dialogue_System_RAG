@@ -1,0 +1,43 @@
+{
+    "project": "Methods for extracting and detecting patterns in the program code",
+    "title": "Avast - Metody pro extrakci a detekci vzoru v programovem kodu",
+    "metadata": {
+        "project_period": "1. 9. 2017 \u2013 31. 12. 2026",
+        "project_type": "contract",
+        "partner": "Avast Software s.r.o."
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Methods for extracting and detecting patterns in the program code"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "detecting patterns in the program code"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Methods for extracting and detecting patterns in the program code"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Kolar Dusan, doc. Dr. Ing. (DIFS) \u2013 research leader Milkovic Marek, Ing. Snasel Daniel, Ing. (DITS)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- ZOBAL, L.; KOLAR, D.; KROUSTEK, J. Exploring Current E-mail Cyber Threats Using Authenticated SMTP Honeypot. In Proceedings of the 17th International Conference on Security and Cryptography (SECRYPT 2020). Paris: SciTePress - Science and Technology Publications, 2020. p. 253-262. ISBN: 978-989-758-446-6. Detail\n- MILKOVIC, M. Extraction of Information from .NET Executable Files. Sbornik prispevku Mezinarodni Masarykovy konference pro doktorandy a mlade vedecke pracovniky 2017. Hradec Kralove: Akademicke sdruzeni MAGNANIMITAS Assn., 2017. p. 1-9. ISBN: 978-80-87952-22-1. Detail"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- GenRex: Generator of Regular Expressions , software, 2024 Authors : KOLAR, D.; MILKOVIC, M.; REGECIOVA, D."
+        },
+        "results_with_impact_on_practice": {
+            "label": "Results with Impact on Practice",
+            "text": "- Souhrnna vyzkumna zprava k projektu Metody pro extrakci a detekci vzoru v programovem kodu , summary research report, 2020 Authors : ZOBAL, L.\n- Souhrnna vyzkumna zprava k projektu Metody pro extrakci a detekci vzoru v programovem kodu , summary research report, 2019 Authors : ZOBAL, L.\n- Souhrnna vyzkumna zprava k projektu Metody pro extrakci a detekci vzoru v programovem kodu , summary research report, 2018 Authors : ZOBAL, L.\n- Summary report of Avast Scholar program , summary research report, 2017 Authors : MILKOVIC, M."
+        }
+    }
+}

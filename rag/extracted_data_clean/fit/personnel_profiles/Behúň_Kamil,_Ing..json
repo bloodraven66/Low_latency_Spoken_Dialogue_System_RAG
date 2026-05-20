@@ -1,0 +1,87 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "ibehun@fit.vut.cz",
+            "work_phone": "+420 54114 1052",
+            "room": "L210 Office"
+        }
+    },
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "POVa",
+                "title": "Computer Vision (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2021",
+            "title": "Research and development of algorithms for processing of videosequences",
+            "details": "VirtualTraining, start: 2021-02-01, end: 2022-11-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Research of computer vision algorithms, enhanced reality and related user interfaces",
+            "details": "ONEPROVE, start: 2018-01-01, end: 2020-09-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3984, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2506, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Applying Pilots Models for Safer Aircraft",
+            "details": "MSMT, Podpora projektu sedmeho ramcoveho programu Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace (2007 az 2013) podle zakona c. 171/2007 Sb., 7E13047, start: 2013-09-01, end: 2016-08-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "HoliDes - Holistic Human Factors and System Design of Adaptive Cooperative Human-Machine Systems",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H13004, start: 2013-10-01, end: 2016-09-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2015",
+            "citation": "BEHUN, K.; HEROUT, A.; PAVELKOVA, A. Implicit Hand Gestures in Aeronautics Cockpit as a Cue for Crew State and Workload Inference. In Proceedings of ITSC 2015. Las Palmas: The Universidad de Las Palmas de Gran Canaria, 2015. p. 632-637. ISBN: 978-1-4673-6596-3."
+        },
+        {
+            "year": "2015",
+            "citation": "PAVELKOVA, A.; HEROUT, A.; BEHUN, K. Usability of Pilot's Gaze in Aeronautic Cockpit for Safer Aircraft. In Proceedings of ITSC 2015. Las Palmas: The Universidad de Las Palmas de Gran Canaria, 2015. p. 1-6. ISBN: 978-1-4673-6595-6."
+        },
+        {
+            "year": "2014",
+            "citation": "BEHUN, K.; HEROUT, A.; PALDY, A. Kinect-Supported Dataset Creation for Human Pose Estimation. In Proceedings of Spring Conference on Computer Graphics. Smolenice: Comenius University in Bratislava, 2014. p. 88-95. ISBN: 978-80-223-3601-7."
+        },
+        {
+            "year": "2012",
+            "citation": "HRADIS, M.; REZNICEK, I.; BEHUN, K. Semantic Class Detectors in Video Genre Recognition. Proceedings of VISAPP 2012. Rome: SciTePress - Science and Technology Publications, 2012. p. 640-646. ISBN: 978-989-8565-03-7."
+        },
+        {
+            "year": "2011",
+            "citation": "HRADIS, M.; REZNICEK, I.; BEHUN, K. Brno University of Technology at MediaEval 2011 Genre Tagging Task. Working Notes Proceedings of the MediaEval 2011 Workshop. CEUR workshop proceedings. Pisa, Italy: CEUR-WS.org, 2011. no. 9, p. 1-2. ISSN: 1613-0073."
+        }
+    ],
+    "name": "Behun Kamil, Ing."
+}

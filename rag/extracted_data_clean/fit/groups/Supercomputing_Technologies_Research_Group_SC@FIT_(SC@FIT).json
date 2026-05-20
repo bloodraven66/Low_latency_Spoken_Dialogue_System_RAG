@@ -1,0 +1,2194 @@
+{
+    "group": "Supercomputing Technologies Research Group SC@FIT (SC@FIT)",
+    "about": {
+        "supercomputing_technologies_research_group_sc@fit": [
+            "The Supercomputing Technologies group focuses on the architecture and implementation of high performance computing systems, their operation and energy efficiency. The group specialises in the design and development of highly optimised algorithms, communication overhead reduction and scalability. The group's principal application is the k-Wave toolbox for tissue realistic simulation of ultrasound wave propagation."
+        ],
+        "research_interests": [
+            "Architecture of parallel systems",
+            "Performance and scaling models of parallel systems",
+            "HPC systems based on GPUs and other accelerators",
+            "Low power systems, power-performance optimization",
+            "Domain decomposition for spectral methods",
+            "Automatic load balancing on heterogeneous systems",
+            "Multi-scale and multi-physics model coupling",
+            "Asynchronous input/output in HPC applications",
+            "System for managing and monitoring supercomputers",
+            "Modern programming languages in HPC (Python, OpenACC, Thrust)",
+            "Simulation of ultrasound propagation in human body",
+            "Acceleration of photoacoustic imaging",
+            "Design of ultrasound sensors",
+            "High performance scientific applications"
+        ],
+        "current_research_topics": [
+            "Currently, the group is primarily focused on the CITRUS project, which aims at precise ultrasound neurostimulation. As part of this project, they are developing techniques to create accurate surgical plans based on the patient\u2019s physiological data, and they perform the necessary computations on IT4Innovations supercomputers. Additionally, the group is working on real-time control of the ultrasound beam with the capability to fine-tune its focus on specific targets.",
+            "The group has also contributed to and continues collaborating with the PAMMOTH consortium, which focuses on photoacoustic imaging of breast tissue. Within this project, we handle data collection, real-time quality assessment of captured data, and subsequent processing on a supercomputer. For these purposes, we utilize a massively parallel implementation of the k-Wave toolbox based on local decomposition of spectral methods, with our proprietary k-Dispatch system managing the automation and monitoring of the calculations.",
+            "The group is also engaged in accelerating the k-Wave toolbox through advanced numerical methods, including adaptive decomposition and reduced Fourier transform. In addition, it develops techniques for accelerating scientific algorithms on graphic workstations and explores possibilities for incorporating artificial intelligence to generate ultrasound planning previews, particularly for neurostimulation applications."
+        ],
+        "awards": [
+            "Prof Hlavicka Award for the best presentation at PhD conference PAD 2019 - Filip Vaverka",
+            "Excellent Poster Presentation Award - Signal Frequency Content and Appearance of Tumors in Photoacoustic Breast Tomography: A Simulation by Maura Dantuma, Felix Lucka, Bradley Treeby, Jiri Jaros, Ben Cox, and Srirang Manohar - Ultrasonics 2018, Caparica, Portugal.",
+            "Research Poster Award - GPU-accelerated Simulation of Elastic Wave Propagation by Kristian Kadlubiak, Jiri Jaros, and Bradley Treeby - HPC applications, ISC 2018, Frankfurt, Germany.",
+            "PRACE HPC Ambassador Award , Marta Cudova, Summer Of HPC, 2016.",
+            "Best paper award, BREITENBACHER Dominik, HOMOLIAK Ivan, JAROS Jiri and HANACEK Petr. Impact of Optimization and Parallelism on Factorization Speed of SIQS . In: Proceedings of The 20th World Multi-Conference on Systemics, Cybernetics and Informatics . Orlando: The International Institute of Informatics and Systemics, 2016, pp. 55-62. ISBN 978-1-941763-41-4."
+        ],
+        "significant_results": [
+            "k-Wave toolbox - 20,000+ registered users",
+            "Modeling nonlinear ultrasound propagation in heterogeneous media with power law absorption using a k-space pseudospectral method - Journal paper, JASA (110 citations)",
+            "Parallel Genetic Algorithm on the CUDA Architecture - Conference paper, EvoStar (50 citations)",
+            "Parallel Genetic Algorithm Solving 0/1 Knapsack Problem Running on the GPU - Conference paper, Mendel (15 citations)",
+            "Supercomputing - every year attendance at the best conference in the field, poster 2017 , poster 2018",
+            "ISC HPC - every year attendance at the best European conference in the field, poster 2018",
+            "Martin Stodulka , ULux-University of Luxembourg , Lux, 2021",
+            "Filip Kuklis , SURFsara , Amsterdam, NL, 2018",
+            "Petr Stehlik , CINECA , Bologna, It, 2017",
+            "Marta Cudova , EPCC , Edinburgh, UK, 2016",
+            "Ondrej Vysocky , EPCC , Edinburgh, UK, 2015",
+            "Vojtech Nikl , CINECA , Bologna, It, 2014",
+            "IT4Innovation, CZ , 17 milion core hours",
+            "National Computing Infrastructure, AU , 1 million core hours",
+            "PRACE, EU , 1 million core hours",
+            "Swiss National Supercomputing Centre, CH , 24 thousand core hours"
+        ],
+        "cooperation": [
+            "Biomedical Ultrasound Group , University College London, UK - development of the simulation toolbox k-Wave for modelling ultrasound propagation in human body",
+            "Institute of Biomedical Engineering , Ludwig Cancer Research, University of Oxford, UK - Kidney cancer treatment planning",
+            "Turku High-Intensity Focused Ultrasound (HIFU) Research Centre , Turku, Finland - Ultrasound Prostate cancer treatment",
+            "IT4Innovations narodni superpocitacove centrum , VSB - Technical University Ostrava, CZ - Research and development on the Anselm and Salomon supercomputer, collaboration in the READEX project",
+            "The University of Twente , Twente, NL - acceleration of the photoacoustic imaging of breast (PAMMTOH project)",
+            "University of Bern , Bern, CH - acceleration of the photoacoustic imaging of breast (PAMMTOH project)",
+            "Medisch Spectrum Twente , Twente, NL - acceleration of the photoacoustic imaging of breast (PAMMTOH project)",
+            "Imasonic SAS , Voray sur l'Ognon, FR -acceleration of the photoacoustic imaging of breast (PAMMTOH project)",
+            "EKSPLA , Vilnius, Lt - acceleration of the photoacoustic imaging of breast (PAMMTOH project)",
+            "Continental , Ostrava - Research and development of ultrasound sensors",
+            "Faculty of Civil Engineering , Brno University of Technology, CZ - Simulation of fraction tests in quasi-brittle materials"
+        ],
+        "diploma_and_bachelor's_theses": [
+            "Using the noarr library to implement efficient algorithms",
+            "Automatic tests for k-Dispatch system",
+            "Integration of Amazon Compute Cloud computing resources into the k-Dispatch system",
+            "Design and implementation of a new version of the k-Dispatch REST API",
+            "Development of a web interface for monitoring compute clusters using the Slurm REST API",
+            "Acceleration of acoustic propagator on GPU",
+            "Acceleration of a backprojection algorithm to simulate ultrasound propagation",
+            "Supercomputer dashboard with monitoring of current workload",
+            "Library for storing ultrasound simulation data"
+        ],
+        "contact": [
+            "Brno University of TechnologyFaculty of Information TechnologyDepartment of Computer SystemsBozetechova 2, Room L334612 00 Brno, Czech RepublicPhone: +420 54114-1207E-mail: jarosjir@fit.vutbr.cz"
+        ],
+        "information": [
+            "Brno University of TechnologyFaculty of Information TechnologyDepartment of Computer SystemsBozetechova 2612 00 Brno, Czech RepublicPhone: +420 54114-1207E-mail: jarosjir@fit.vutbr.cz"
+        ],
+        "overview": [
+            "The Supercomputing Technologies group focuses on the architecture and implementation of high performance computing systems, their operation and energy efficiency. The group specialises in the design and development of highly optimised algorithms, communication overhead reduction and scalability. The group's principal application is the k-Wave toolbox for tissue realistic simulation of ultrasound wave propagation."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Jaros Jiri, prof. Ing., Ph.D.",
+                "position": "Principal researcher",
+                "notes": [
+                    "For more than 15 years, I have been working in the area of high performance computing, scientific code development, parallel and distributed algorithms, and numerical simulations. I have worked with several outstanding research teams in Australia and the United Kingdom on the development of large scale simulation tools for personalized medicine. I am a co-founder of the k-Wave project (http://www.k-wave.org). Since the first beta release in 2009, k-Wave has rapidly become the de facto standard software in the field, with almost 25,000 registered users in 60 countries (from both academia and industry). The toolbox now underpins a wide range of international research in ultrasound and photoacoustics, ranging from the reconstruction of clinical photoacoustic images, model based treatment planning to fundamental studies into the design of ultrasound transducers.Since 2013, I have been the key person in supercomputing at the Brno University of Technology with resource allocations in tens of millions core hours in total. I act as a mediator between faculty students, academics and supercomputing centres such as IT4Innovations. My endeavour has led to over 1500 students doing their assignments on Czech supercomputers. Since 2016, I have been the leader of the Supercomputing Technologies research group. Since 2017, I have been a member of the Academic Senate of the Brno University of Technology, a member of Scientific Council of IT4Innovations Supercomputing Centre and User Advisory Board. In 2021, I became a member of iTRUSST, an International Transcranial Ultrasonic Stimulation Safety and Standards consortium (https://itrusst.com/)."
+                ]
+            }
+        ],
+        "researcher": [
+            {
+                "name": "Jaros Marta, Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Necasova Gabriela, Ing., Ph.D.",
+                "position": "Researcher"
+            }
+        ],
+        "phd_student": [
+            {
+                "name": "Duchon Radek, Ing.",
+                "position": "PhD student"
+            },
+            {
+                "name": "Chlebik Jakub, Ing.",
+                "position": "PhD student"
+            },
+            {
+                "name": "Kunik Oliver, Ing.",
+                "position": "PhD student"
+            },
+            {
+                "name": "Olsak Ondrej, Ing.",
+                "position": "PhD student"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2022",
+            "title": "Closed-loop Individualized image-guided Transcranial Ultrasonic Stimulation",
+            "details": "EU, HORIZON EUROPE, 101071008, start: 2022-08-01, end: 2026-07-31, running"
+        },
+        {
+            "year": "2017",
+            "title": "Photoacoustic/Ultrasound Mammoscopy for evaluating screening-detected lesions in the breast",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, PAMMOTH, start: 2017-01-01, end: 2021-06-30, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Large-Scale Ultrasound Propagation Simulations in the Human Brain",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, SoMoPro-II-2013-IG, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Hardware education support based on FITkit platform",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2826/2010/G1, start: 2010-01-12, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Laboratory for design and prototyping of an advanced electronic systems",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2789/2010/Aa, start: 2010-01-12, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "IBM Faculty Award 2009",
+            "details": "start: 2008-11-28, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Innovation of structured study subjects focused on technical equipment of personal computers",
+            "details": "FR1413/2008/F1, start: 2008-01-21, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "EDA evolutionary design of group communication schedules",
+            "details": "FR2983/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Architectures of Embedded Systems Networks",
+            "details": "GACR, Standardni projekty, GA102/05/0467, start: 2005-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Parallel system performance prediction and tuning",
+            "details": "GACR, Standardni projekty, GA102/02/0503, start: 2002-01-01, end: 2004-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Parallel Architectures and Programming for CBSE - course development",
+            "details": "IMG-97-CZ-2065, start: 1998-01-01, end: 1998-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Workshops on simulation of parallel computations at universities of New Zealand and Australia",
+            "details": "PG 98074, start: 1998-01-01, end: 1998-12-31, completed"
+        },
+        {
+            "year": "1997",
+            "title": "Engineering of Computer-Based Systems",
+            "details": "FR618/1997/F1, start: 1997-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1995",
+            "title": "Advanced Computer Architecture - course development",
+            "details": "IMG-95-CZ-1038, start: 1995-01-01, end: 1995-12-31, completed"
+        },
+        {
+            "year": "1995",
+            "title": "Developement of flexible digital architectures",
+            "details": "GACR, Standardni projekty, GA102/95/1334, start: 1995-01-01, end: 1997-12-31, completed"
+        },
+        {
+            "year": "1995",
+            "title": "Stimulating European Industry through High Performance Computing (SEIHPC)",
+            "details": "COP94-774 SEIHPC, start: 1995-01-01, end: 1998-12-31, completed"
+        },
+        {
+            "year": "1994",
+            "title": "Advanced Computer Education Network",
+            "details": "JEN 0449, start: 1994-01-01, end: 1995-12-31, completed"
+        },
+        {
+            "year": "1994",
+            "title": "Computational models and their parallel implementation",
+            "details": "GACR, Standardni projekty, GA102/94/1096, start: 1994-01-01, end: 1996-12-31, completed"
+        },
+        {
+            "year": "1994",
+            "title": "Microcomputer Schools - 3 workshops",
+            "details": "PECO CIPA 3510 CT 926330, start: 1994-01-01, end: 1995-12-31, completed"
+        },
+        {
+            "year": "1994",
+            "title": "Parallel computing and architectures",
+            "details": "C32/94-95, start: 1994-01-01, end: 1995-12-31, completed"
+        },
+        {
+            "year": "1992",
+            "title": "Advanced Computer Education Project - ACEP",
+            "details": "JEP 0449, start: 1992-01-01, end: 1993-12-31, completed"
+        },
+        {
+            "year": "1991",
+            "title": "CAD Methodology and Tools for VLSI",
+            "details": "FEI, start: 1991-01-01, end: 1993-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "details": "OLSAK, O.; BAYER, D.; JAROS, J. Accelerating Two-Dimensional k-Wave Ultrasound Simulations Through Pruned FFT: A Treatment Planning Optimisation. Computational Science - ICCS 2025 Workshops. Lecture Notes in Computer Science, vol 15908. Cham: Springer Nature Switzerland AG, 2025. p. 67-82. ISBN: 978-3-031-97557-8. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "OLSAK, O.; JAROS, J. Accelerating Ultrasound Wave Propagation Simulations using Pruned FFT. 2024 IEEE International Conference on High Performance Computing and Communications (HPCC). IEEE International Conference on High Performance Computing and Communications. Wuhan: IEEE Computer Society, 2025. p. 168-173. ISBN: 979-8-3315-4046-3. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HUYNH, N.; ZHANG, E.; FRANCIES, O.; KUKLIS, F.; ALLEN, T.; ZHU, J.; ABEYAKOON, O.; LUCKA, F.; BETCKE, M.; JAROS, J.; ARRIDGE, S.; COX, B.; PLUMB, A.; BEARD, P. A fast all-optical 3D photoacoustic scanner for clinical vascular imaging. Nature Biomedical Engineering, 2024, vol. 8, no. 10, p. 1-18. ISSN: 2157-846X. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "JAROS, J.; DUCHON, R. Acceleration of Ultrasound Neurostimulation Using Mixed-Precision Arithmetic. HPDC '24: Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. New York: Association for Computing Machinery, 2024. p. 370-372. ISBN: 979-8-4007-0413-0. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "JAROS, J.; JAROS, M.; BUCHTA, M. Estimation of Distributed Ultrasound Simulation Execution Time Using Machine Learning. In 2024 IEEE Congress on Evolutionary Computation (CEC). Yokohama: Institute of Electrical and Electronics Engineers, 2024. p. 1-8. ISBN: 979-8-3503-0836-5. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "JAROS, J.; MAJER, M.; HORKY, J.; VAVRA, J. Web-Based Simulator of Superscalar RISC-V Processors. In Proceedings of SC 2024-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis. Atlanta, GA: Institute of Electrical and Electronics Engineers, 2024. p. 1676-1684. ISBN: 979-8-3503-5554-3. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "JAROS, M.; JAROS, J. k-Dispatch: Enabling Cost-Optimized Biomedical Workflow Offloading. In HPDC '24: Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. New York: Association for Computing Machinery, 2024. p. 358-360. ISBN: 979-8-4007-0413-0. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "OLSAK, O.; JAROS, J. On the usage of the Sparse Fourier Transform in ultrasound propagation simulation. In ICBRA '23: Proceedings of the 10th International Conference on Bioinformatics Research and Applications. New York: Association for Computing Machinery, 2024. p. 107-113. ISBN: 979-8-4007-0815-2. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "OLSAK, O.; JAROS, J. Techniques for Efficient Fourier Transform Computation in Ultrasound Simulations. In HPDC '24: Proceedings of the 33nd International Symposium on High-Performance Parallel and Distributed Computing. New York: Association for Computing Machinery, 2024. p. 361-363. ISBN: 979-8-4007-0413-0. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "JAROS, M.; JAROS, J. Optimization of Execution Parameters of Moldable Ultrasound Workflows Under Incomplete Performance Data. In Job Scheduling Strategies for Parallel Processing. Lecture Notes in Computer Science, LNCS 13592. Virtual Event: Springer Nature Switzerland AG, 2023. p. 152-171. ISBN: 978-3-031-22697-7. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "AUBRY, J.; BATES, O.; BOEHM, C.; PAULY, K.; CHRISTENSEN, D.; CUETO, C.; GELAT, P.; GUASCH, L.; JAROS, J.; JING, Y.; JONES, R.; LI, N.; MARTY, P.; MONTANARO, H.; NEUFELD, E.; PICHARDO, S.; PINTON, G.; PULKKINEN, A.; STANZIOLA, A.; THIELSCHER, A.; TREEBY, B.; VAN 'T WOUT, E. Benchmark problems for transcranial ultrasound simulation: Intercomparison of compressional wave models. JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA, 2022, vol. 152, no. 2, p. 1003-1019. ISSN: 1520-8524. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "CHLEBIK, J.; JAROS, J. Distributed Evolutionary Design of High Intensity Focused Ultrasound Treatment Plans. In IEEE International Conference on Systems, Man and Cybernetics. Melbourne: IEEE Circuits and Systems Society, 2021. p. 2203-2208. ISBN: 978-1-6654-4207-7. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "JAROS, M.; JAROS, J. Performance-Cost Optimization of Moldable Scientific Workflows. In Job Scheduling Strategies for Parallel Processing. Lecture Notes in Computer Science. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Portland, Oregon USA: Springer International Publishing, 2021. no. 12985, p. 149-167. ISBN: 978-3-030-88223-5. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "JAROS, M.; SASAK, T.; TREEBY, B.; JAROS, J. Estimation of Execution Parameters for k-Wave Simulations. In High Performance Computing in Science and Engineering. HPCSE 2019. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Cham: Springer Nature Switzerland AG, 2021. p. 116-134. ISBN: 978-3-030-67076-4. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "PHAM, K.; NOIMARK, S.; HUYNH, N.; ZHANG, E.; KUKLIS, F.; JAROS, J.; DESJARDINS, A.; COX, B.; BEARD, P. Broadband all-optical plane-wave ultrasound imaging system based on a Fabry-Perot scanner. IEEE TRANSACTIONS ON ULTRASONICS FERROELECTRICS AND FREQUENCY CONTROL, 2021, vol. 68, no. 4, p. 1007-1016. ISSN: 1525-8955. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "VAVERKA, F.; TREEBY, B.; JAROS, J. Performance Evaluation of Pseudospectral Ultrasound Simulations on a Cluster of Xeon Phi Accelerators. In High Performance Computing in Science and Engineering. HPCSE 2019. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Cham: Springer Nature Switzerland AG, 2021. p. 99-115. ISBN: 978-3-030-67076-4. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "WISE, E.; JAROS, J.; COX, B.; TREEBY, B. Pseudospectral Time-Domain (PSTD) Methods for the Wave Equation: Realizing Boundary Conditions with Discrete Sine and Cosine Transforms. Journal of Theoretical and Computational Acoustics, 2021, vol. 29, no. 4, p. 2050021-2050021. ISSN: 2591-7285. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "JAROS, M.; KLUSACEK, D.; JAROS, J. Optimizing Biomedical Ultrasound Workflow Scheduling Using Cluster Simulations. In Job Scheduling Strategies for Parallel Processing. JSSPP 2020. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). New Orleans: Springer Nature Switzerland AG, 2020. p. 68-84. ISBN: 978-3-030-63170-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "JAROS, M.; TREEBY, B.; GEORGIOU, P.; JAROS, J. k-Dispatch: A Workflow Management System for the Automated Execution of Biomedical Ultrasound Simulations on Remote Computing Resources. In Proceedings of the Platform for Advanced Scientific Computing Conference, PASC 2020. New York: Association for Computing Machinery, 2020. p. 1-10. ISBN: 978-1-4503-7993-9. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KUKLIS, F.; JAROS, M.; JAROS, J. Accelerated Design of HIFU Treatment Plans Using Island-Based Evolutionary Strategy. In Applications of Evolutionary Computation. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Cham: Springer International Publishing, 2020. p. 463-478. ISBN: 978-3-030-43721-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "MARTIN, E.; JAROS, J.; TREEBY, B. Experimental Validation of k-Wave: Nonlinear Wave Propagation in Layered, Absorbing Fluid Media. IEEE TRANSACTIONS ON ULTRASONICS FERROELECTRICS AND FREQUENCY CONTROL, 2020, vol. 67, no. 1, p. 81-91. ISSN: 1525-8955. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "TREEBY, B.; WISE, E.; KUKLIS, F.; JAROS, J.; COX, B. Nonlinear ultrasound simulation in an axisymmetric coordinate system using a k-space pseudospectral method. JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA, 2020, vol. 148, no. 4, p. 2288-2300. ISSN: 1520-8524. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "VAVERKA, F.; MRAZEK, V.; VASICEK, Z.; SEKANINA, L. TFApprox: Towards a Fast Emulation of DNN Approximate Hardware Accelerators on GPU. In 2020 Design, Automation & Test in Europe Conference & Exhibition (DATE). Grenoble: Institute of Electrical and Electronics Engineers, 2020. p. 294-297. ISBN: 978-3-9819263-4-7. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "JAROS, M. Adaptive Execution Planning in Workflow Management Systems. Pocitacove architektury a diagnostika 2019. Doksy: Academic and Medical Conference Agency, 2019. p. 23-26. ISBN: 978-80-88214-20-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KUKLIS, F. Optimization of Evolutionary Strategy using Island Model to Design HIFU Treatment Plans. Sbornik seminare PAD 2019. Doksy: Academic and Medical Conference Agency, 2019. p. 5-8. ISBN: 978-80-88214-20-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "TREEBY, B.; JAROS, J.; MARTIN, E.; COX, B. From Biology to Bytes: Predicting the Path of Ultrasound Waves Through the Human Body. Acoustics Today, 2019, vol. 15, no. 2, p. 36-44. ISSN: 1557-0223. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "VAVERKA, F. Towards Large-scale Ultrasound Simulations in Soft Tissue for Medical Applications. PAD 2019. Doksy: Academic and Medical Conference Agency, 2019. p. 64-67. ISBN: 978-80-88214-20-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "VAVERKA, F.; TREEBY, B.; JAROS, J. Evaluation of the Suitability of Intel Xeon Phi Clusters for the Simulation of Ultrasound Wave Propagation using Pseudospectral Methods. In 19th International Conference on Computational Science 2019, Faro, Portugal, June 12-14, 2019. Lecture Notes in Computer Science. Faro: Springer International Publishing, 2019. p. 577-590. ISBN: 978-3-030-22743-2. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "WISE, E.; COX, B.; JAROS, J.; TREEBY, B. Representing arbitrary acoustic source and sensor distributions in Fourier collocation methods. JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA, 2019, vol. 146, no. 1, p. 278-288. ISSN: 1520-8524. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "BORDOVSKY, G. Challenges In the Computer Photoacoustic Tomograpy Using the k-Wave Toolbox. Pocitacove architektury & diagnostika PAD 2018. Plzen: University of West Bohemia in Pilsen, 2018. p. 49-52. ISBN: 978-80-261-0814-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "JAROS, M. Scientific Workflows Management. Pocitacove architektury & diagnostika PAD 2018. Plzen: University of West Bohemia in Pilsen, 2018. p. 25-28. ISBN: 978-80-261-0814-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "JAROS, M.; TREEBY, B.; JAROS, J. Design of HIFU treatment plans using an evolutionary strategy. In GECCO 2018 Companion - Proceedings of the 2018 Genetic and Evolutionary Computation Conference Companion. Kyoto: Association for Computing Machinery, 2018. p. 1568-1575. ISBN: 978-1-4503-5764-7. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KADLUBIAK, K.; JAROS, J.; TREEBY, B. GPU-Accelerated simulation of elastic wave propagation. In Proceedings - 2018 International Conference on High Performance Computing and Simulation, HPCS 2018. Orleans: IEEE Computer Society, 2018. p. 188-195. ISBN: 978-1-5386-7878-7. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KLEPARNIK, P.; BARINA, D.; ZEMCIK, P.; JAROS, J. Efficient Low-Resource Compression of HIFU Data. Information, 2018, vol. 9, no. 7, p. 1-14. ISSN: 2078-2489. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KLEPARNIK, P.; ZEMCIK, P.; JAROS, J. Efficient Lossy Compression of Ultrasound Data. In 2017 IEEE International Symposium on Signal Processing and Information Technology, ISSPIT 2017. Bilbao: Institute of Electrical and Electronics Engineers, 2018. p. 232-237. ISBN: 978-1-5386-4662-5. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KOZUBEK, T.; CERMAK, M.; TICHY, P.; BLAHETA, R.; SISTEK, J.; LUKAS, D.; JAROS, J. HPCSE: 3rd International Conference on High Performance Computing in Science and Engineering. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2018. 227 p. ISBN: 978-3-319-97135-3. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SUOMI, V.; JAROS, J.; TREEBY, B.; CLEVELAND, R. Full Modeling of High-Intensity Focused Ultrasound and Thermal Heating in the Kidney Using Realistic Patient Models. IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING, 2018, vol. 65, no. 11, p. 2660-2670. ISSN: 0018-9294. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SUOMI, V.; TREEBY, B.; JAROS, J.; MAKELA, P.; ANTTINEN, M.; SAUNAVAARA, J.; SAINIO, T.; KIVINIEMI, A.; BLANCO, R. Transurethral ultrasound therapy of the prostate in the presence of calcifications: A simulation study. MEDICAL PHYSICS, 2018, vol. 45, no. 11, p. 4793-4805. ISSN: 0094-2405. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SUOMI, V.; TREEBY, B.; JAROS, J.; SAUNAVAARA, J.; KIVINIEMI, A.; BLANCO, R. The Effect of Tissue Physiological Variability on Transurethral Ultrasound Therapy of the Prostate. In 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). Honolulu, HI: Institute of Electrical and Electronics Engineers, 2018. p. 5701-5704. ISBN: 978-1-5386-3646-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "TREEBY, B.; BUDISKY, J.; WISE, E.; JAROS, J.; COX, B. Rapid calculation of acoustic fields from arbitrary continuous-wave sources. JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA, 2018, vol. 143, no. 1, p. 529-537. ISSN: 1520-8524. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "TREEBY, B.; VAVERKA, F.; JAROS, J. Performance and Accuracy Analysis of Nonlinear k-Wave Simulations Using Local Domain Decomposition with an 8-GPU Server. Proceedings of Meetings on Acoustics, 2018, vol. 34, no. 1, p. 1-5. ISSN: 1939-800X. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "AHMED, H.; SHAH, T.; GEORGIOU, P.; JAROS, J.; PAYNE, H.; ALLEN, C.; GIBSON, E.; BARRATT, D.; TREEBY, B. Beam distortion due to gold fiducial markers during salvage high-intensity focused ultrasound in the prostate. MEDICAL PHYSICS, 2017, vol. 44, no. 2, p. 679-693. ISSN: 0094-2405. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "JAROS, J. High Performance Computing in Ultrasound Cancer Treatment. Brno: 2017. 240 p. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "JAROS, J.; TREEBY, B.; GEORGIOU, P. Modelling Beam Distortion during Focused Ultrasound Surgery in the Prostate using k-Wave. In Supercomputing in Science and Engineering. Ostrava: VSB-Technical University of Ostrava - IT4I, 2017. p. 205-207. ISBN: 978-80-248-4037-6. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "JAROS, J.; TREEBY, B.; ROBERTSON, J. Convergence Testing of a k-space Pseudospectral Scheme for Transcranial Time-reversal Focusing. In Supercomputing in Science and Engineering. Ostrava: VSB-Technical University of Ostrava - IT4I, 2017. p. 195-197. ISBN: 978-80-248-4037-6. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "JAROS, M. Framework for Planning, Running and Monitoring Cooperating Computations. Pocitacove architektury & diagnostika PAD 2017. Bratislava: Slovak University of Technology in Bratislava, 2017. p. 20-23. ISBN: 978-80-972784-0-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "NIKL, V.; HRADECKY, M.; JAROS, J.; KELECENI, J. The investigation of the ARMv7 and Intel Haswell architectures suitability for performance and energy-aware computing. In High Performance Computing. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2017. p. 377-393. ISBN: 978-3-319-58666-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "ROBERTSON, J.; COX, B.; JAROS, J.; TREEBY, B. Accurate simulation of transcranial ultrasound propagation for ultrasonic neuromodulation and stimulation. JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA, 2017, vol. 141, no. 3, p. 1726-1738. ISSN: 1520-8524. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "BROWN, M.; JAROS, J.; COX, B.; TREEBY, B. Control of Broadband Optically Generated Ultrasound Pulses Using Binary Amplitude Holograms. JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA, 2016, vol. 139, no. 4, p. 1637-1647. ISSN: 1520-8524. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "JAROS, J.; RENDELL, A.; TREEBY, B. Full-wave nonlinear ultrasound simulation on distributed clusters with applications in high-intensity focused ultrasound. INTERNATIONAL JOURNAL OF HIGH PERFORMANCE COMPUTING APPLICATIONS, 2016, vol. 30, no. 2, p. 137-155. ISSN: 1741-2846. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "JAROS, J.; VAVERKA, F.; TREEBY, B. Spectral Domain Decomposition Using Local Fourier Basis: Application to Ultrasound Simulation on a Cluster of GPUs. International Journal of Supercomputing Frontiers and Innovations, 2016, vol. 3, no. 3, p. 40-55. ISSN: 2313-8734. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "MERTA, M.; ZAPLETAL, J.; JAROS, J. Many Core Acceleration of the Boundary Element Method. In Proceedings of High Performance Computing in Science and Engineering. Lecture Notes in Computer Science. Basel: Springer International Publishing, 2016. p. 116-125. ISBN: 978-3-319-40360-1. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "NIKL, V. High Performance Computing on Low Power Devices. Computer achitectures and diagnostics 2016. Brno: Faculty of Information Technology BUT, 2016. p. 81-84. ISBN: 978-80-214-5376-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "SUOMI, V.; JAROS, J.; TREEBY, B.; CLEVELAND, R. Nonlinear 3-D simulation of high-intensity focused ultrasound therapy in the kidney. In 38th Annual International Conference of the IEEE-Engineering-in-Medicine-and-Biology-Society (EMBC). Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS. Orlando: Institute of Electrical and Electronics Engineers, 2016. p. 5648-5651. ISBN: 978-1-4577-0220-4. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "TREEBY, B.; JAROS, J.; COX, B. Advanced photoacoustic image reconstruction using the k-Wave toolbox. In Progress in Biomedical Optics and Imaging - Proceedings of SPIE. Progress in Biomedical Optics and Imaging - Proceedings of SPIE. San Francisco: SPIE - the international society for optics and photonics, 2016. p. 1-14. ISBN: 978-1-62841-942-9. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "VAVERKA, F. Case Study on Multi-domain Decomposition of k-Wave Simulation Framework. Computer achitectures and diagnostics 2016. Brno: Faculty of Information Technology BUT, 2016. p. 37-40. ISBN: 978-80-214-5376-0. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "DVORAK, V.; MIKUSEK, P. Memory-Based Logic Control for Embedded Systems. Lecture notes in Electrical Engineering, 2015, vol. 325, no. 1, p. 367-379. ISSN: 1876-1100. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "GROEN, D.; CHACRA, D.; NASH, R.; JAROS, J.; BERNABEU, M.; COVENEY, P. Weighted Decomposition in High-Performance Lattice-Boltzmann Simulations: Are Some Lattice Sites More Equal than Others?. In Solving Software Challengesfor Exascale. Lecture Notes in Computer Science. Stockholm: Springer Verlag, 2015. p. 28-38. ISBN: 978-3-319-15975-1. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "JAROS, J.; DOHNAL, M.; TREEBY, B. Large-scale Ultrasound Simulations with Local Fourier Basis Decomposition. The International Conference for High Performance Computing, Networking, Storage Analysis, SC15. Austin: 2015. 2 p. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "JAROS, J.; MAREK, J.; MENSIK, P. Optimisation of Water Management Systems Using a GPU-Accelerated Differential Evolution. In Proceedings - 2015 IEEE Symposium Series on Computational Intelligence, SSCI 2015. Cape Town: IEEE Computer Society, 2015. p. 1727-1734. ISBN: 978-1-4799-7560-0. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "JAROS, J.; NIKL, V.; TREEBY, B. Large-scale Ultrasound Simulations Using the Hybrid OpenMP/MPI Decomposition. Proceedings of the 3rd International Conference on Exascale Applications and Software. Edinburgh: Association for Computing Machinery, 2015. p. 115-119. ISBN: 978-0-9926615-1-9. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "NIKL, V. High Performance Computing on Low Power Devices. Pocitacove architektury a diagnostika 2015. Zlin: Faculty of Applied Informatics, Tomas Bata University in Zlin, 2015. p. 37-41. ISBN: 978-80-7454-522-1. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "JAROS, J.; TYRALA, R. GPU-accelerated Evolutionary Design of the Complete Exchange Communication on Wormhole Networks. In GECCO 2014 - Proceedings of the 2014 Genetic and Evolutionary Computation Conference. New York, NY: Association for Computing Machinery, 2014. p. 1023-1030. ISBN: 978-1-4503-2662-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "NIKL, V.; JAROS, J. Parallelisation of the 3D Fast Fourier Transform Using the Hybrid OpenMP/MPI Decomposition. In Mathematical and Engineering Methods in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer International Publishing, 2014. p. 100-112. ISBN: 978-3-319-14895-3. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "TREEBY, B.; JAROS, J.; ROHRBACH, D.; COX, B. Modelling elastic wave propagation using the k-Wave MATLAB toolbox. In IEEE International Ultrasonics Symposium, IUS. Chicago, IL: Institute of Electrical and Electronics Engineers, 2014. p. 146-149. ISBN: 978-1-4799-7049-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ZAN, D.; JAROS, J. Solving the Multidimensional Knapsack Problem using a CUDA Accelerated PSO. In Proceedings of the 2014 IEEE Congress on Evolutionary Computation, CEC 2014. Beijing: IEEE Computational Intelligence Society, 2014. p. 2933-2939. ISBN: 978-1-4799-1488-3. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DVORAK, V.; MIKUSEK, P. Easily Reprogrammable Embedded Logic Control. Proceedings of ICINCO 2013, Vol.1. Lisbon: SciTePress - Science and Technology Publications, 2013. p. 471-476. ISBN: 978-989-8565-70-9. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DVORAK, V. On the Complexity and Optimization of Branching Programs for Decision Diagram Machines. Programmable Devices and Embedded Systems PDeS 2012. Programmable devices and systems. Brno: Faculty of Electrical Engineering and Communication BUT, 2012. no. 11, p. 84-89. ISBN: 978-3-902823-21-2. ISSN: 1474-6670. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "JAROS, J. Multi-GPU Island-Based Genetic Algorithm Solving the Knapsack Problem. In 2012 IEEE Congress on Evolutionary Computation, CEC 2012. CA: Institute of Electrical and Electronics Engineers, 2012. p. 217-224. ISBN: 978-1-4673-1508-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "JAROS, J.; POSPICHAL, P. A Fair Comparison of Modern CPUs and GPUs Running the Genetic Algorithm under the Knapsack Benchmark. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7248, p. 426-435. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "RUZICKA, R.; SIMEK, V. Polymeric Polymorphic Electronics: Towards Multifunctional Logic Elements Based on Organic Semiconductor Materials. Proceedings of CSE 2012 International Scientific Conference on Computer Science and Engineerig. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2012. p. 154-161. ISBN: 978-80-8143-049-7. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DVORAK, V.; JAROS, J. A Programmable Interconnection Network for Multiple Communication Patterns. Proceedings of the Sixth International Conference on Systems, ICONS 2011. St. Maarten: International Academy, Research, and Industry Association, 2011. p. 6-11. ISBN: 978-1-61208-002-4. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DVORAK, V.; MIKUSEK, P. On the cascade realization of sparse logic functions. Euromicro Proceedings. Oulu: IEEE Computer Society, 2011. p. 21-28. ISBN: 978-0-7695-4494-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "JAROS, J.; DVORAK, V. Optimizing Collective Communications on the K-port Spidergon Network. Proceedings of the Sixth International Conference on Systems, ICONS 2011. St. Maarten: International Academy, Research, and Industry Association, 2011. p. 24-29. ISBN: 978-1-61208-002-4. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MIKUSEK, P.; TOMEC, M.; DVORAK, V. A Cascade Decomposition of Application-Specific Systems. MEMICS Proc. Brno: Brno University of Technology, 2011. p. 78-85. ISBN: 978-80-214-4305-1. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DVORAK, V. Multi-Terminal BDDs in Microprocessor-Based Control. Proceedings ICINCO 2010. Funchal, Madeira: Institute for Systems and Technologies of Information, Control and Communication, 2010. p. 140-145. ISBN: 978-989-8425-02-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DVORAK, V.; JAROS, J. Optimizing Collective Communications on 2D-Mesh and Fat Tree NoC. In 9th International Conference on Networks, ICN 2010. Piscataway, NJ: IEEE Computer Society, 2010. p. 22-27. ISBN: 978-0-7695-3979-9. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DVORAK, V.; MIKUSEK, P. Design of Arbiters and Allocators Based on Multi-Terminal BDDs. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2010, vol. 16, no. 14, p. 1826-1852. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "JAROS, J. Evolutionary Design of Collective Communications on Wormhole Networks. Brno: Department of Computer Systems FIT BUT, 2010. 149 p. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "JAROS, J. Evolutionary Design of Collective Communications on Wormhole Networks. Brno: Publishing house of Brno University of Technology VUTIUM, 2010. 183 p. ISBN: 978-80-214-4208-5. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "JAROS, J.; DVORAK, V. Evolutionary-Based Conflict-Free Scheduling of Collective Communications on Spidergon NoCs. In Proceedings of the 12th Annual Genetic and Evolutionary Computation Conference, GECCO '10. New York: Association for Computing Machinery, 2010. p. 1171-1178. ISBN: 978-1-4503-0072-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KORENEK, J.; PUS, V. Memory Optimization for Packet Classification Algorithms in FPGA. Proceedings of the 13th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Viden: IEEE Computer Society, 2010. p. 297-300. ISBN: 978-1-4244-6610-8. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DVORAK, V.; MIKUSEK, P. Firmware Optimization for Embedded Logic Control. Programmable devices and systems, 2009, roc. 2009, c. 1, s. 109-114. ISSN: 1474-6670. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "JAROS, J. Evolutionary Optimization of Multistage Interconnection Networks Performance. In Proceeding of Genetic and Evolutionary Computation Conference, GECCO 2009. New York: Association for Computing Machinery, 2009. p. 1537-1544. ISBN: 978-1-60558-325-9. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KORENEK, J.; PUS, V. Memory Optimization for Packet Classification Algorithms. Proceedings of the 5th ACM/IEEE Symposium on Architectures for Networking and Communications Systems. Association for Computing Machinery. New York: Association for Computing Machinery, 2009. p. 165-166. ISBN: 978-1-60558-630-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MIKUSEK, P. Dekompozicni techniky pro aplikacne specificke systemy. Pocitacove architektury a diagnostika 2009. Zlin: Univerzita Tomase Bati ve Zline, 2009. s. 118-123. ISBN: 978-80-7318-847-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MIKUSEK, P. Multi-Terminal BDD Synthesis and Applications. Proceedings 19th International Conference on Field Programmable Logic and Applications (FPL). Prague: IEEE Computer Society, 2009. p. 721-722. ISBN: 978-1-4244-3892-1. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MIKUSEK, P.; DVORAK, V. Heuristic Synthesis of MTBDDs Based On Local Width Minimization. 5th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Znojmo: Masaryk University, 2009. p. 235-235. ISBN: 978-80-87342-04-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MIKUSEK, P.; DVORAK, V. Heuristic Synthesis of Multi-Terminal BDDs Based on Local Width/Cost Minimization. 12th EUROMICRO Conference on Digital System Design DSD 2009. Patras: IEEE Computer Society, 2009. p. 605-608. ISBN: 978-0-7695-3782-5. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DVORAK, V. Communication Performance of Mesh- and Ring-Based NoCs. Proceedings of the 7th Int. Conference on Networking. New York: IEEE Computer Society, 2008. p. 156-161. ISBN: 978-0-7695-3106-9. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DVORAK, V. Embedded Firmware Development with Multi-Way Branching. Proc. of the 3rd Int. Coference on Systems. New York: IEEE Computer Society, 2008. p. 317-322. ISBN: 978-0-7695-3105-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DVORAK, V. Implementation of Combinational and Sequential Functions in Embedded Firmware. International Journal of Software Engineering and Its Applications, 2008, vol. 2, no. 1, p. 43-54. ISSN: 1738-9984. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DVORAK, V.; MIKUSEK, P. LUT Cascade-Based Implementation of Allocators. Proc. of the 25th Convention of EEE in Israel. New York: IEEE Computer Society, 2008. p. 85-89. ISBN: 978-1-4244-2482-5. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "JAROS, J. Evolutionary Design of Fault Tolerant Collective Communications. In Evolvable Systems: From Biology to Hardware. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 261-272. ISBN: 978-3-540-85856-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "JAROS, J.; DVORAK, V. An Evolutionary Design Technique for Collective Communications on Optimal Diameter-Degree Networks. In 2008 Genetic and Evolutionary Computational Conference GECCO. New York: Association for Computing Machinery, 2008. p. 1539-1546. ISBN: 978-1-60558-131-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "JAROS, J.; SCHWARZ, J. Evolutionary Design of Wormhole Switched Collective Communications. Proceedings of Junior Scientist Conference 2008. Vienna: Technische Universitat Wien, 2008. s. 111-112. ISBN: 978-3-200-01612-5. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MIKUSEK, P.; DVORAK, V. On Lookup Table Cascade-Based Realizations of Arbiters. 11th EUROMICRO Conference on Digital System Design DSD 2008. Parma: IEEE Computer Society, 2008. p. 795-802. ISBN: 978-0-7695-3277-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MIKUSEK, P.; DVORAK, V. On Lookup Table Cascade-Based Realizations of Arbiters. 4th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Znojmo: Masaryk University, 2008. p. 261-261. ISBN: 978-80-7355-082-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "OHLIDAL, M. Evolutionary design of collective communication based on prediction of conflicts in interconnection networks. Brno: Faculty of Information Technology BUT, 2008. 145 p. ISBN: 978-80-214-3597-1. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SIMEK, V. GPU Acceleration of 2D-DWT Image Compression in MATLAB with CUDA. Proceedings 2nd UKSim European Symposium on Computer Modelling and Simulation. Liverpool: IEEE Computer Society, 2008. p. 274-277. ISBN: 978-0-7695-3325-4. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SIMEK, V. Identifying the Interesting Points in Geometrical Figures of Certain Class. Proceedings 8th International Scientific Conference on Computers Science and Engineering. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2008. p. 373-382. ISBN: 978-80-8086-092-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "BRYAN, L. A Set of Definitions for Working with Spatial Filters. Proceedings of the 13th Conference STUDENT EEICT 2007 Volume 4. Brno: Brno University of Technology, 2007. p. 430-434. ISBN: 80-214-3410-4. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "BRYAN, L.; FUCIK, O. FPGA Implementation of a Reconfigurable License Plate Detection Method. Proceedings of the 2007 Engineering of Reconfigurable Systems and Algorithms. CSREA Press. Las Vegas, NV: Penn State Erie, The Behrend College, 2007. p. 1-4. ISBN: 1-60132-026-4. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DRABEK, V. Hardware Unit for Motion Estimation. Electronic Devices and Systems. Brno: Faculty of Electrical Engineering and Communication BUT, 2007. p. 17-21. ISBN: 978-80-214-3470-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DRABEK, V. The Evolution of Graphical Processors. 6th Electronic Circuits and Systems Conference (ECS 2007). Bratislava: Faculty of Informatics and Information Technology Slovak University of Technology in Bratislava, 2007. p. 97-102. ISBN: 978-80-227-2697-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DVORAK, V. Implementation of Combinational and Sequential Functions in Embedded Firmware. Proceedings of the 2007 International Conference on Intelligent Pervasive Computing (IPC-07). Los Alamitos, California: IEEE Computer Society, 2007. p. 80-85. ISBN: 978-0-7695-3006-2. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DVORAK, V. Space-Time Trade-offs in SW Evaluation of Boolean Functions. Proceedings of The Second International Conference on Systems. New York: IEEE Computer Society, 2007. p. 344-349. ISBN: 0-7695-2807-4. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DVORAK, V. Time- and Space-Efficient Evaluation of Sparse Boolean Functions in Embedded Software. Proceedings of 14th Annual IEEE International Conference and Workshops on the Engineering of Computer-Based Systems. Los Alamitos: IEEE Computer Society, 2007. p. 178-185. ISBN: 0-7695-2772-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DVORAK, V. Efficient Evaluation of Multiple-Output Boolean Functions in Embedded Software or Firmware. Journal of Software, 2007, vol. 2, no. 5, p. 52-63. ISSN: 1796-217X. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DVORAK, V. LUT Cascade-Based Architectures for High Productivity Embedded Systems. 2007, vol. 2, no. 4, p. 357-365. ISSN: 1828-600X. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DVORAK, V.; JAROS, J.; OHLIDAL, M. Optimum Topology-Aware Scheduling of Many-to-Many Collective Communications. In Proceedings of The Sixth International Conference on Networking. New York: IEEE Computer Society, 2007. p. 1-6. ISBN: 0-7695-2805-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "JAROS, J. Optimalizace kolektivnich komunikaci na wormhole propojovacich sitich. Sbornik prispevku seminare Pocitacove architektury a diagnostika pro studenty doktorskeho studia. Plzen: Zapadoceska univerzita v Plzni, 2007. s. 93-98. ISBN: 987-80-7043-605-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "JAROS, J.; OHLIDAL, M.; DVORAK, V. An Evolutionary Approach to Collective Communication Scheduling. In 2007 Genetic and Evolutionary Computation Conference. Volume II. New York: Association for Computing Machinery, 2007. p. 2037-2044. ISBN: 978-1-59593-697-4. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "OHLIDAL, M. Evolutionary Design of Collective Communication Based on Prediction of Conflicts in Interconnection Networks. Brno: 2007. p. 0-146. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SIMEK, V. Medical Data Compression. Pocitacove architektury a diagnostika. Plzen: University of West Bohemia in Pilsen, 2007. p. 143-148. ISBN: 978-80-7043-605-9. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SIMEK, V. On Selected Methods for Hyperspectral Data Compression. Proceedings of the 13th Conference STUDENT EEICT 2007 Volume 4. Brno: Brno University of Technology, 2007. p. 462-466. ISBN: 978-80-214-3410-3. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "JAROS, J. Evolucni optimalizace skupinovych komunikacnich vzoru. Zbornik prispevkouv pracovneho seminare Pocitacove architektury a diagnostika pre studenty doktorskeho studia. Bratislava: Ustav informatiky Slovenskej akademie vied, 2006. s. 31-36. ISBN: 80-969202-2-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "JAROS, J.; DVORAK, V. Evolutionary Design of OAB and AAB Communication Schedules for Networking Systems on Chips. In MEMICS 2006 Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Mikulov: Masaryk University, 2006. p. 63-68. ISBN: 80-214-3287-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "JAROS, J.; DVORAK, V. Evolutionary Design of OAB and AAB Communication Schedules for Networking Systems on Chips. In Proc. of 2006 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Praha: IEEE Computer Society, 2006. p. 222-223. ISBN: 1-4244-0184-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "JAROS, J.; OHLIDAL, M.; DVORAK, V. Complexity of Collective Communications on NoCs. In Proc. of 5th International Symposium on Parallel Computing in Electrical Engineering. Los Alamitos, CA 90720-1314: IEEE Computer Society, 2006. p. 127-132. ISBN: 0-7695-2554-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OHLIDAL, M. Planovani skupinove komunikace All-to-All Broadcast pomoci predikce konfliktu v propojovacich sitich. Zbornik prispevkouv pracovneho seminare Pocitacove architektury a diagnostika pre studenty doktorskeho studia. Bratislava: Ustav informatiky Slovenskej akademie vied, 2006. s. 25-30. ISBN: 80-969202-2-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OHLIDAL, M.; JAROS, J.; DVORAK, V. Performance of Collective Communications on Interconnection Networks with Fat Nodes and Edges. In Proceedings of the Fifth International Conference on Networking ICN 2006. Los Alamitos: IEEE Computer Society, 2006. p. 619-624. ISBN: 0-7695-2570-9. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OHLIDAL, M.; JAROS, J.; DVORAK, V.; SCHWARZ, J. Evolutionary Design of OAB and AAB Communication Schedules for Interconnection Networks. In EvoStar 2006. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2006. p. 267-278. ISBN: 978-3-540-33237-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OHLIDAL, M.; SCHWARZ, J. Collective Communication AAB for Regular and Irregular Topology Based on Prediction of Conflicts. Proc. of 2006 IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Praha: IEEE Computer Society, 2006. p. 224-225. ISBN: 1-4244-0184-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SIMEK, V.; POKORNY, P. Communication of sensor modules. Proceedings of the 12th konference Student EEICT 2006. Volume II. Brno: Faculty of Electrical Engineering and Communication BUT, 2006. p. 56-58. ISBN: 80-214-3161-X. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "DRABEK, V.; KOTASEK, Z. Handbook of Testing Electronic Systems. In Handbook of Testing Electronic Systems. Praha: Czech Technical University Publishing House, 2005. p. 235-243. ISBN: 80-01-03318-X. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "DVORAK, V. Reconfigurability of the Interconnect Architecture for Chip Multiprocessors. Proceedigns of the 4th International Symposium on Information and Communication Technologies. ACM International Conference Proceedings Series. Dublin: Computer Science Press, 2005. p. 136-141. ISBN: 0-9544145-6-X. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "DVORAK, V. Scheduling Collective Communications on Wormhole Fat Cubes. Proc. of the 17th International Symposium on Computer Architecture and High Performance Computing. Los Alamitos: IEEE Computer Society, 2005. p. 27-34. ISBN: 0-7695-2446-X. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KUTALEK, V.; DVORAK, V. On Complexity of Collective Communications on a Fat Cube Topology. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2005, vol. 11, no. 6, p. 944-961. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DVORAK, V. Optimizing Communication Architectures for Parallel Embedded Systems. In Design of Embedded Control Systems. Berlin: Springer Verlag, 2004. p. 225-234. ISBN: 0-387-23630-9. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DVORAK, V.; SVEDA, M. Proceedings of the International IEEE Conference and Workshop ECBS'2004. Los Alamitos, CA: IEEE Computer Society, 2004. 560 p. ISBN: 0-7695-2125-8. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "DVORAK, V.; SVEDA, M.; RATTRAY, C.; ROZENBLIT, J. Formal Specifications of Computer-Based Systems - J.UCS Special Issue. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2004, vol. 9, no. 11, p. 1258-1260. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "KUTALEK, V. Modelovani a predikce vykonnosti aplikacne-specifickych multiprocesorovych systemu. Pocitacove architektury & diagnostika PAD 2004. Bratislava: Slovenska akademie ved, 2004. s. 132-137. ISBN: 80-969202-0-0. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "STAROBA, J. Parallel Performance Modeling, Prediction and Tuning. Brno: 2004. 83 p. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "STAROBA, J.; DVORAK, V. Design of Low-Cost Communication Algorithms for Irregular Networks. Proceedings of the 3rd International Conference on Networking ICN '04. Colmar: University of Haute Alsace, 2004. p. 980-985. ISBN: 0-86341-325-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "BURES, F. Selected Methods of Specification and Verification of Industriall Application. Proceedings of the 9th Conference and Competition STUDENT EEICT 2003. Brno: Faculty of Electrical Engineering and Communication BUT, 2003. p. 614-618. ISBN: 80-214-2379-X. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "DRABEK, V. Montgomery Multiplication in GF(p) and GF(2^n). Brno: Brno University of Technology, 2003. p. 106-109. ISBN: 80-214-2452-4. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "DVORAK, V. Communication Architectures for Application-Specific Multiprocessor Systems (on a Chip). Proc. of the 11th International Conference on Software, Telecommunications and Computer Networks SoftCOM 2003. Split: Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture, 2003. p. 778-782. ISBN: 953-6114-64-X. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "DVORAK, V.; STAROBA, J. Genetic Search for the Shortest Group Communications on Irregular Topologies. Proceedings of XXVth International Autumn Colloquium ASIS 2003. Ostrava: Marq software s.r.o., 2003. p. 321-326. ISBN: 80-85988-88-7. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "KOTASEK, Z.; MIKA, D.; STRNADEL, J. Methodologies of RTL Partial Scan Analysis and Their Comparison. Proceeding of IEEE Workshop on Design and Diagnostic of Electronic Circuits and Systems. Poznan: Publishing House of Poznan University of Technology, 2003. p. 233-238. ISBN: 83-7143-557-6. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "KOTASEK, Z.; TUPEC, P.; URBIS, H. Testing PCBs Based on Boundary Scan. Proceedings of International Carpathian Control Conference. Kosice: The University of Technology Kosice, 2003. p. 119-122. ISBN: 80-7099-509-2. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "KOTASEK, Z.; URBIS, H. USB-to-IDE Adapter Design and Implementation. 6th International Workshopn on Electronics, Control, Measurment and Signals. Liberec: Liberec University of Technology, 2003. p. 315-319. ISBN: 80-7083-708-X. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "KUTALEK, V.; DVORAK, V. A Multi-protocol cache controller. IFAC Workshop on Programmable devices and systems - PDS 2003. Ostrava: VSB - Technical University of Ostrava, 2003. p. 220-225. ISBN: 0-08-044130-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "MIKA, D. The Test Controller Design Based on I-Path Concept. Proceedings of 9th Conference and Competition STUDENT EEICT 2003 Volume 3. Brno: Faculty of Electrical Engineering and Communication BUT, 2003. p. 624-628. ISBN: 80-214-2379-X. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "MIKA, D. UPLATNENI FORMALNICH POSTUPU PRI NAVRHU RADICE TESTU CISLICOVEHO OBVODU. Pocitacove Architektury & Diagnostika Pracovni seminar pro studenty doktorskeho studia Sbornik prispevku. Brno: Fakulta informacnich technologii VUT v Brne, 2003. s. 17-23. ISBN: 80-214-2471-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "MIKA, D.; KOTASEK, Z. The Test Controller Model Based on The Timed Automaton. Proceedings of 37th International Conference MOSIS 03 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2003. p. 107-114. ISBN: 80-85988-86-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "OCENASEK, J.; SCHWARZ, J.; PELIKAN, M. Design of Multithreaded Estimation of Distribution Algorithms. Genetic and Evolutionary Computation Conference GECCO-2003, Chicago, July 2003, accepted paper. Procceedings of GECCO 2003, USA. Chicago: Kluwer Verlag, 2003. p. 1247-1258. ISBN: 3-540-40-603-4. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "RATTRAY, C.; SVEDA, M.; ROZENBLIT, J. Proceedings IEEE TC-ECBS and IFIP WG10.1 Joint Workshop on Formal Specifications of Computer-Based Systems. Huntsville, AL: University of Stirling, 2003. 48 p. ISBN: 1-85769-189X. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "RUZICKA, R. Testable Design Verification Using Petri Nets. Proceedings of Euromicro Symposium on Digital System Design 2003. Los Alamitos, CA: IEEE Computer Society Press, 2003. p. 304-311. ISBN: 0-7695-2003-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "RUZICKA, R.; KOTASEK, Z.; SEKANINA, L. Sbornik pracovniho seminare \"Pocitacove architektury a diagnostika\" pro studenty doktorskeho studia. Brno: Ustav pocitacovych systemu FIT VUT v Brne, 2003. 84 s. ISBN: 80-214-2471-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "RUZICKA, R.; ZBORIL, F. Representation of Datapath Structure in Predicate Logic and its Implementation in Prolog. Proceedings of International Carpathian Control Conference. Kosice: The University of Technology Kosice, 2003. p. 727-730. ISBN: 80-7099-509-2. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SEKANINA, L. Evolvable Components - From Theory to Hardware Implementations. Natural Computing Series. Natural Computing Series. Berlin: Springer Verlag, 2003. 194 p. ISBN: 3-540-40377-9. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SEKANINA, L.; RUZICKA, R. On the Automatic Design of Testable Circuits. Proceedings of IEEE Workshop on Design nad Diagnostics of Electronic Circuits and Systems. Poznan: Publishing House of Poznan University of Technology, 2003. p. 299-300. ISBN: 83-7143-557-6. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SLLAME, A. A Pipeline Scheduling Algorithm for High-Level Synthesis. Proc. of IFAC Workshop on Programmable Devices and Systems Conference. Ostrava: Elsevier Science, 2003. p. 178-183. ISBN: 0-08-044130-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SLLAME, A. Design Space Exploration of High-Performance Digital Systems. Brno: 2003. p. 1-125. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "STAROBA, J. Collective Communication Scheduling for Parallel Computers. Proceedings of 37th International Conference MOSIS'03 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2003. p. 65-70. ISBN: 80-85988-86-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "STAROBA, J.; DVORAK, V. Genetic Algorithm Optimization of Group Communications. 9th International Conference on Soft Computing Mendel 2003. Brno: Faculty of Mechanical Engineering BUT, 2003. p. 47-52. ISBN: 80-214-2411-7. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "STRNADEL, J. Scan Layout Encoding by Means of a Binary String. Proceedings of 37th International Conference on Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2003. p. 115-122. ISBN: 80-85988-86-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SVEDA, M. Engineering of Computer-Based Systems: Brno in 2004. Proceedings EDS'03. Electronic Devides and Systems, 10th. Brno: Brno University of Technology, 2003. p. 85-88. ISBN: 80-214-2452-4. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SVEDA, M. Executable Specifications with Rapid Prototyping for Embedded Distributed Systems. Programmable Devices and Systems 2003. IFAC Proceedings, Pergamon. Kidlington, Oxford: Elsevier Science, 2003. p. 49-54. ISBN: 0-08-044130-0. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SVEDA, M. Rapid Prototyping of Networked Embedded Systems. Proceedings of the IEEE International Conference and Workshop on the Engineering of Computer-Based Systems 2003. Huntsville, AL: IEEE Computer Society, 2003. p. 125-132. ISBN: 0-7695-1917-2. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SVEDA, M. Local Time for Formal Specification of Networked Embedded System. WSEAS Transactions on Computers, 2003, vol. 2, no. 1, p. 4-9. ISSN: 1109-2750. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SVEDA, M.; KAPOUN, V. Internet-Based Smart Sensor Networking Architectures. ElectronicsLetters.com - http://www.electronicsletters.com, 2003, vol. 2003, no. 6, 5 p. ISSN: 1213-161X. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SVEDA, M.; RATTRAY, C.; ROZENBLIT, J. Formal Specifications of Computer-Based Systems. Proceedings of the IEEE International Conference and Workshop on the Engineering of Computer-Based Systems 2003. Huntsville, AL: IEEE Computer Society, 2003. p. 169-172. ISBN: 0-7695-1917-2. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SVEDA, M.; VRBA, R. Embedded System Specification Reuse by a Case Based Reasoning Approach. WSEAS Transactions on Computers, 2003, vol. 2, no. 1, p. 10-14. ISSN: 1109-2750. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "BURES, F. DocBook and Creation of Technical Documents. Proceedings of 8th Conference STUDENT EEICT 2002. Brno: Faculty of Electrical Engineering and Communication BUT, 2002. p. 421-425. ISBN: 80-214-2116-9. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "CEJKA, R.; DVORAK, V.; STAROBA, J. Predicting performance of SMP clusters. In Distributed and Parallel Systems - Cluster and Grid Computing. Boston/London: Kluwer Academic Publishers, 2002. p. 38-45. ISBN: 1-4020-7209-0. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "DRABEK, V.; SEKANINA, L. Basic Principles of Bio-Inspired Approaches to Fault Tolerance: Tutorial. Design for Test of Systems on Chip: Digital Test. Tallinn: Tallinn University of Technology, 2002. p. 1-48. ISBN: 0000-00-000-0. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "DVORAK, V. Architektura a programovani paralelnich systemu. Ucebni texty pro predmet APP, obor IT. Brno: 2002. 630 s. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "DVORAK, V. Executable System-Level Specifications of HW/SW Architecture for Embedded Multiprocessor Systems. Proceedings of the Joint Workshop on Formal Specifications of Computer-Based Systems, 2002. Stirling: University of Stirling, 2002. p. 65-70. ISBN: 1-85769-169-5. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "DVORAK, V. Simulation and Prototyping in Teaching Parallel Architectures, Algorithms, and Programming Models. Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications. Volume II. Las Vegas, Nevada: Computer Science Research, Education, and Applications Press, 2002. p. 934-940. ISBN: 1-892512-88-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "DVORAK, V.; STAROBA, J. Design Space Exploration of Parallel Embedded Applications Based on Performance-Oriented Specifications. Proceedings of the Joint Workshop on Formal Specifications of Computer-Based Systems. Stirling: University of Stirling, 2002. p. 71-75. ISBN: 1-85769-169-5. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "DVORAK, V.; STAROBA, J. Performance Prediction Model of Bus-Based Shared Memory Architectures. Proceedings of 36th International Conference MOSIS'02 Modelling and Simulation of Systems. Vol. I. Ostrava: Marq software s.r.o., 2002. p. 273-280. ISBN: 80-85988-71-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "KAPOUN, V.; SVEDA, M. Management systems and their organization. ElectronicsLetters.com - http://www.electronicsletters.com, 2002, vol. 2002, no. 12, 3 p. ISSN: 1213-161X. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "KOTASEK, Z.; RUZICKA, R.; HLAVICKA, J.; MARINISSEN, E.; NOVAK, O.; STRAUBE, B. Proceedings of 5th International Workshop IEEE Design and Diagnostics of Electronic Circuits and Systems. Brno: Faculty of Information Technology BUT, 2002. 427 p. ISBN: 80-214-2094-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "KUCERA, P.; ZEZULKA, F.; SVEDA, M.; VRBA, R. Executable specifications for Process Automation and Microelectronics. IEEE TC-ECBS and IFIP WG10.1 Joint Workshop on Formal Specifications of Computer-Based Systems. Lund: University of Stirling, 2002. p. 91-98. ISBN: 1-85769-169-5. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "KUTALEK, V.; DVORAK, V. Prototyping Parallel Applications Based on Divide and Conquer Strategy. Proceedings of 36th International Conference MOSIS '02 Modelling and Simulation of Systems. Vol. I. Ostrava: Marq software s.r.o., 2002. p. 313-320. ISBN: 80-85988-71-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "KUTALEK, V.; DVORAK, V. Simulation and Prototyping Multiprocessor SoC with Hybrid Pipeline/Farm Architecture. Proceedings of IEEE Design and Diagnostics of Electronic Circuits and System Workshop. Brno: Faculty of Information Technology BUT, 2002. p. 296-299. ISBN: 80-214-2094-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "LAUMANNS, M.; OCENASEK, J. Bayesian Optimization Algorithms for Multi-Objective Optimization. Lecture Notes in Computer Science, 2002, vol. 2002, no. 2439, p. 298-307. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "MIKA, D.; KOTASEK, Z.; STRNADEL, J. Test Controller Design Based on VHDL Source File Analysis. Proceedings of The Fifth International Scientific Conference Electronic Computers and Informatics 2002. VIENALA Press, Edition: 55. Letna 42, 040 01 TU Kosice: The University of Technology Kosice, 2002. p. 135-141. ISBN: 80-7099-879-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "OCENASEK, J.; SCHWARZ, J. Development system DEBOA for rapid prototyping of evolutionary applications. Proceedings of International Conference MOSIS '02. Ostrava: Marq software s.r.o., 2002. p. 169-176. ISBN: 80-85988-71-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "OCENASEK, J.; SCHWARZ, J. Estimation Distribution Algorithm for mixed continuous-discrete optimization problems. Proceedings of the 2nd Euro-International Symposium on Computational Intelligence. Kosice: IOS Press, 2002. p. 227-232. ISBN: 1-58603-256-9. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "RATTRAY, C.; SVEDA, M.; ROZENBLIT, J. IEEE TC-ECBS and IFIP WG10.1 Joint Workshop on Formal Specifications of Computer-Based Systems. Lund: University of Stirling, 2002. 102 p. ISBN: 1-85769-169-5. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "RUZICKA, R. Formalni pristup k analyze testovatelnosti cislicovych obvodu na urovni RT. Brno: 2002. 102 s. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "RUZICKA, R. The Formal Approach to the RTL Test Application Problem Using Petri Nets. Proceedings of IEEE Design and Diagnostics of Electronic Circuits and Systems 2002. Brno: Faculty of Information Technology BUT, 2002. p. 78-86. ISBN: 80-214-2094-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "RUZICKA, R. VHDL Circuit Description Transparency Analysis. Proceedings of the Fifth International Scientific Conference Electronic Computers and Informatics 2002. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2002. p. 194-199. ISBN: 80-7099-879-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SCHWARZ, J. Aplikovane evolucni algoritmy. Ucebni texty pro predmet EVA, obor IT. Brno: Fakulta informacnich technologii VUT v Brne, 2002. 135 s. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SCHWARZ, J.; OCENASEK, J. Bayes-Dirichlet BDD as a probabilistic model for logic functions and evolutionary circuit decomposer. Mendel 2002. Brno: Faculty of Mechanical Engineering BUT, 2002. p. 117-124. ISBN: 80-214-2135-5. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SCHWARZ, J.; OCENASEK, J. Ratio cut hypergraph partitioning using BDD based MBOA optimization algorithm. Proceedings of IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Brno: Faculty of Informatics and Information Technology Slovak University of Technology in Bratislava, 2002. p. 87-96. ISBN: 80-214-2094-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L. Automata of Evolvable Computational Machines. Proc. ot 8th conference Student EEICT. Brno: Brno University of Technology, 2002. p. 491-495. ISBN: 80-214-2116-9. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L. Component Approach to Evolvable Systems. Brno: 2002. 132 p. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L. Evolution of digital circuits operating as image filters in dynamically changing environment. Mendel 2002 - 8th International Conference on Soft Computing. Brno: Brno University of Technology, 2002. p. 33-38. ISBN: 80-214-2135-5. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L. Nanostructures and bio-inspired computer engineering (Abstract). Nano'02 (Abstracts). Brno: Akademicke nakladatelstvi CERM, 2002. p. 74-74. ISBN: 80-7204-258-0. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L. Nanostructures and bio-inspired computer engineering. Proceedings of Nano02. Ostrava: Repronis, 2002. p. 233-236. ISBN: 80-7329-027-8. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L.; DRABEK, V. A Survey of Bioinspired Methods for Design of Fault Tolerant Reconfigurable Architectures. Proc. of the 8th Biennial Baltic Electronics Conference. Tallinn: Tallinn University of Technology, 2002. p. 355-358. ISBN: 9985-59-292-1. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L.; DRABEK, V. Automatic Design of Image Operators Using Evolvable Hardware. Proc. of 5th IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop. Brno: Brno University of Technology, 2002. p. 132-139. ISBN: 80-214-2094-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L.; DRABEK, V. Soft-hardware. Vesmir, 2002, roc. 81, c. 7, s. 393-395. ISSN: 0042-4544. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SEKANINA, L.; TORRESEN, J. Detection of Norwegian Speed Limit Signs. Proc. of the 16th European Simulation Multiconference. Delft: SCS Publication House, 2002. p. 337-340. ISBN: 90-77039-07-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SLLAME, A. Efficient Design Space Characterization Toward Realizing High-Performance Digital systems. Proceedings of Electronic Devices and Systems EDS'02 Conference. Proceedings. Brno: Brno University of Technology, 2002. p. 144-149. ISBN: 80-214-2180-0. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SLLAME, A.; DRABEK, V. A Design Space Exploration Scheme for High-Level Synthesis Systems. Proceedings of 36th International Conference MOSIS '02 Modelling and Simulation of Systems. Vol. I. Ostrava: Marq software s.r.o., 2002. p. 305-312. ISBN: 80-85988-71-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SLLAME, A.; DRABEK, V. An Efficient List-Based Scheduling Algorithm for High-Level-Synthesis. EUROMICRO Symposium on Digital System Design (DSD2002): Architecture, Methods and Tools, IEEE Computer Society. IEEE Computer Society. Dortmund, Germany: IEEE Computer Society Press, 2002. p. 316-323. ISBN: 0-7695-1790-0. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SLLAME, A.; SEKANINA, L. An Evolutionary-Based Algorithm to the Module Selection Process in High-Level Synthesis. Mendel 2002 - 8th International Conference on Soft Computing. Brno: Brno University of Technology, 2002. p. 87-92. ISBN: 80-214-2135-5. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "STAROBA, J. Optimization of a Fully Distributed Stack Filter Using Genetic Algorithms. Proc. ot 8th conference Student EEICT. Brno: Faculty of Electrical Engineering and Communication BUT, 2002. p. 501-505. ISBN: 80-214-2116-9. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "STAROBA, J.; DVORAK, V. Parallel Linear Equations Solvers for Scientific Simulation: Cluster and SMP Experience. Proceedings of XXIVth International Autumn Colloquium ASIS'02 Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2002. p. 225-230. ISBN: 80-85988-77-1. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "STRNADEL, J. Evaluating Cost/Quality Trade-off Solutions Proposed During a DFT Process. Proceeding of 8th Conference Student EEICT 2002. Brno: Brno University of Technology, 2002. p. 506-510. ISBN: 80-214-2116-9. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "STRNADEL, J. Normalized Testability Measures Based on RTL Digital Circuit Graph Model Analysis. Proceedings of The fifth International Scientific Conference Electronic Computers and Informatics 2002. Edition 55. Kosice: The University of Technology Kosice, 2002. p. 200-205. ISBN: 80-7099-879-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "STRNADEL, J.; KOTASEK, Z. Normalized Testability Measures at RT Level: Utilization and Reasons for Creation. Proceedings of 36th International Conference MOSIS`02 Modeling and Simulation of Systems. Vol. I. Ostrava: Marq software s.r.o., 2002. p. 297-304. ISBN: 80-85988-71-2. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "STRNADEL, J.; KOTASEK, Z. Optimising Solution of the Scan Problem at RT Level Based on a Genetic Algorithm. Proceedings of 5th IEEE Design and Diagnostics of Electronics Circuits and Systems Workshop. Brno: Brno University of Technology, 2002. p. 44-51. ISBN: 80-214-2094-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "STRNADEL, J.; KOTASEK, Z. Testability Improvements Based on the Combination of Analytical and Evolutionary Approaches at RT Level. Proceedings of Euromicro Symposium on Digital System Design Architectures, Methods and Tools DSD'2002. Los Alamitos: IEEE Computer Society Press, 2002. p. 166-173. ISBN: 0-7695-1790-0. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SVEDA, M. A fail-stop model for design of embedded systems. Telecommunications and Signal Processing TSP-2002. Brno: Brno University of Technology, 2002. p. 152-155. ISBN: 80-214-2172-X. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SVEDA, M. Rapid Prototyping of Embedded Distributed Systems. IEEE Design and Diagnostics of Electronic Circuits and Systems. Brno: Faculty of Information Technology BUT, 2002. p. 320-323. ISBN: 80-214-2094-4. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SVEDA, M. Specifications of embedded systems. Ucebni texty pro predmet SVS, obor IT. Brno: 2002. 52 p. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SVEDA, M.; RAB, J. Designing dedicated distributed architectures for embedded systems. Proceedings of Electronic Devices and Systems, 2002. Brno: Brno University of Technology, 2002. p. 301-310. ISBN: 80-214-2180-0. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SVEDA, M.; RATTRAY, C.; ROZENBLIT, J. Formal Specifications of Computer-Based Systems. Proceedings of the Ninth IEEE International Conference and Workshop on the Engineering of Computer-Based Systems. Los Alamitos, CA: IEEE Computer Society, 2002. p. 224-225. ISBN: 0-7695-1549-5. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SVEDA, M.; VRBA, R. An Integrated Framework for Internet-Based Applications of Smart Sensors. Proceedings of IEEE Sensors 2002. Piscataway, New York: IEEE Computer Society, 2002. p. 1543-1548. ISBN: 0-7803-7454-1. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SVEDA, M.; VRBA, R. An Integrated Framework for Sensor-Based Embedded Systems. Proceedings of the Ninth IEEE International Conference and Workshop on the Engineering of Computer-Based Systems. Los Alamitos, CA: IEEE Computer Society, 2002. p. 195-202. ISBN: 0-7695-1549-5. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "ZBORIL, F., KOTASEK, Z., MIKA, D., STRNADEL, J. The Identification of Feedback Loops in RTL Structures. In Proceedings of The fifth International Scientific Conference Electronic Computers and Informatics 2002. Edition 55. Kosice: The University of Technology Kosice, 2002. p. 142-147. ISBN: 80-7099-879-2. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "BURES, F. DocBook - moderni prostredek pro tvorbu profesionalni technicke dokumentace. Proceedings of 7th Conference Student FEI 2001. Brno: Fakulta elektrotechniky a informatiky VUT, 2001. s. 250-252. ISBN: 80-214-1859-1. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "CEJKA, R.; DVORAK, V. Evaluating Performance of Message-Passing Programs on SMP Clusters. Proceedings of the 35th Spring International Conference Modelling and Simulation of Systems MOSIS 2001. Hradec nad Moravici: Marq software s.r.o., 2001. p. 115-120. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "DRABEK, V. Configurable Computing. Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2001. p. 59-63. ISBN: 80-85988-61-5. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "DVORAK, V. Optimizing SW/HW Architecture for Parallel Embedded Systems - A Case Study. Proceedings of the the International Workshop on Discrete-Event System Design, DESDes'01. Przytok near Zielona Gora, POLAND: Publishing House of Zielona Gora Technical University, 2001. p. 103-108. ISBN: 83-85911-62-6. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "DVORAK, V.; CABEL, M. Can Message Passing Architecture Outperform EREW PRAM?. In Proceedings of the 35th Spring International Conference Modelling and Simulation of Systems MOSIS 2001. Hradec nad Moravici: 2001. p. 109-114. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "DVORAK, V.; STAROBA, J. Numerical Performance Models of Synchronization Operations in Shared-Variable Programs. Proceedings of XXIII Int. Autumn Colloquium ASIS 2001. Ostrava: Marq software s.r.o., 2001. p. 65-70. ISBN: 80-85988-61-5. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "DVORAK, V.; STAROBA, J. Simulating PRAM algorithms with TRANSIM. Proceedings of the 35th Spring International Conference Modelling and Simulation of Systems MOSIS 2001. Hradec nad Moravici: Marq software s.r.o., 2001. p. 81-86. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "KOTASEK, Z., STRNADEL, J. Analytic Approach to RTL Testability Analysis. In Proceedings of 7th Conference Student FEI 2001. Brno: Brno University of Technology, 2001. 5 p. ISBN: 80-214-1860-5. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "KOTASEK, Z.; RUZICKA, R.; STRNADEL, J. Formal and Analytical Approaches to the Testability Analysis - the Comparison. Proceedings of IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop 2001. Gyor: SZIF-UNIVERSITAS Ltd., Hungary, 2001. p. 123-128. ISBN: 963-7175-16-4. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "KOTASEK, Z.; RUZICKA, R.; STRNADEL, J.; ZBORIL, F. Two Level Testability Analysis System. Proceedings of the 35th Spring International Conference MOSIS'01. Ostrava: Marq software s.r.o., 2001. p. 433-440. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "KOTASEK, Z.; STRNADEL, J. RTL Testability Analysis Based on Genetic Algorithm Implementation. Proceedings of the IWCIT'01. Ostrava: Faculty of Electrical Engineering and Computer Science, VSB-TU Ostrava, 2001. p. 83-88. ISBN: 80-7078-907-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "KOTASEK, Z.; STRNADEL, J. RTL Testability Analysis Based on Genetic Algorithm Implementation. Proceedings of the Tenth ICNACSA. Plovdiv: unspecified agency, 2001. p. 89-89. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "KOTASEK, Z.; STRNADEL, J.; RUZICKA, R.; HLAVICKA, J. Interactive Tool for Behavioral Level Testability Analysis. Proceedings of the IEEE ETW 2001. Stockholm: 2001. p. 117-119. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "MATOUSEK, P. Protocol Proving Using PVS: A Case Study. Proceedings of the 35th Spring Conference: Modelling and Simulation of Systems - MOSIS'01. Hradec n/M: Marq software s.r.o., 2001. p. 67-73. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "MATOUSEK, P. The Use of Conditional Grammars for Specifying and Verifying Communication Protocols. Modelling and Simulation 2001. Praha: Czech Technical University, 2001. p. 59-62. ISBN: 1-56555-225-3. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "OCENASEK, J.; SCHWARZ, J. The Distributed Bayesian Optimization Algorithm for Combinatorial Optimization. EUROGEN 2001 - Evolutionary Methods for Design, Optimisation and Control with Applications to Industrial Problems. Athens: 2001. p. 115-120. ISBN: 84-89925-97-6. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "RATTRAY, C.; SVEDA, M. Formal Specifications of Computer-Based Systems. Proceedings of the 8th IEEE International Conference and Workshop ECBS'2001. Washington D.C.: IEEE Computer Society, 2001. p. 357-358. ISBN: 0-7695-1086-8. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SCHWARZ, J.; OCENASEK, J. Evolutionary Multiobjective Bayesian Optimization Algorithm:Experimental Study. Proceedings of the 35th Spring International Conference MOSIS'01, Vol. 1. Hradec nad Moravici: Marq software s.r.o., 2001. p. 101-108. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SCHWARZ, J.; OCENASEK, J. Pareto Bayesian Optimization Algorithm for the Multiobjective 0/1 Knapsack Problem. Proceedings of the 7th International Mendel Conference on Soft Computing. Brno: Faculty of Mechanical Engineering BUT, 2001. p. 131-136. ISBN: 80-214-1894-X. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SCHWARZ, J.; OCENASEK, J. Multiobjective Bayesian Optimization Algorithm for Combinatorial Problems: Theory and Practice. Neural Network World, 2001, vol. 11, no. 5, p. 423-441. ISSN: 1210-0552. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SCUGLIK, F. Komunikacni system v ramci autonomnich LAN siti. Proceedings of 7th Conference STUDENT FEI 2001. Brno: Fakulta elektrotechniky a informatiky VUT, 2001. s. 316-318. ISBN: 80-214-1859-1. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SEKANINA, L.; DVORAK, V. A Totally Distributed Genetic Algorithm: From a Cellular System to the Mesh of Processors. Modelling and Simulation 2001. Prague: Faculty of Electrical Engineering, Czech Technical University, 2001. p. 539-543. ISBN: 1-56555-225-3. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SLLAME, A.; DRABEK, V. Specification and Synthesis of Reusable Modules in VHDL. Proceedings of fourth International Wokshop on IEEE Design and Diagnostics of Electronic Circuits and Systems IEEE DDCSE01. Gyor, Hungary: SZIF-UNIVERSITAS Ltd., Hungary, 2001. p. 137-140. ISBN: 963-7175-16-4. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "STAROBA, J.; DVORAK, V. Simulation-based performance tuning of a parallel bitonic sort algorithm. Proceedings of 7th Conference Student FEI 2001. Brno: Brno University of Technology, 2001. p. 358-362. ISBN: 80-214-1860-5. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SVEDA, M., ZEZULKA, F., VRBA, R. A Case-Based Reasoning Approach to Reuse of CBS Specifications. In Proceedings of the IEEE/IFIP Joint Workshop on Formal Specification of Computer-Based Systems, FSCBS'2001. Washington D.C.: University of Stirling, 2001. p. 139-144. ISBN: 1-85-769144-X. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SVEDA, M.; STRACH, M. A Sensor-to-Intranet Coupling Architecture. Proceedings of the 8th Electronic Devices and Systems Conference EDS'01. Brno: Faculty of Electrical Engineering and Computer Science BUT, 2001. p. 214-217. ISBN: 80-214-1960-1. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SVEDA, M.; VRBA, R. Sensor Networking. Proceedings of the 8th IEEE International Conference and Workshop ECBS'2001. Washington D.C.: IEEE Computer Society, 2001. p. 262-268. ISBN: 0-7695-1086-8. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SVEDA, M.; VRBA, R. Executable Specifications for Distributed Embedded Systems. COMPUTER, 2001, vol. 34, no. 1, p. 138-140. ISSN: 0018-9162. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SVEDA, M.; VRBA, R.; BENES, P. A System Architecture of Networked Pressure Sensors. Proceedings of the 5th WSES/IEEE World Conference on Systems (CSCC2001). Rethymno: IEEE Computer Society Press, 2001. p. 3541-3546. ISBN: 960-8052-33-5. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "SVEDA, M.; VRBA, R.; BENES, P. A System Architecture of Networked Pressure Sensors. In Advances in Systems Science: Measurement, Circuits and Control. Electrical and Computer Engineering Series -- A Series of Reference Books and Textbooks. Herakleion, Greece: IEEE Computer Society Press, 2001. p. 64-69. ISBN: 960-8052-39-4. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "TOMSU, M. Goldschmidt's division algorithm using the pipelining principle. Student FEI 2001. Brno: Faculty of Electrical Engineering and Computer Science BUT, 2001. p. 373-377. ISBN: 80-214-1859-1. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "TOMSU, M.; DRABEK, V. The Possibilities of Hardware Support for the Virtual Reality Systems Using the Internet Connections. Proceedings of the 35th Spring International Conference MOSIS'01. Ostrava: Marq software s.r.o., 2001. p. 121-126. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "VOJKUVKA, M.; DRABEK, V. Modelling of Montgomery Multiplication in GF(2^m). Proceedings of the 35th Spring International Conference MOSIS'01. Ostrava: Marq software s.r.o., 2001. p. 441-446. ISBN: 80-85988-57-7. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "CABEL, M.; DULIK, T. An Advanced Multichannel Diaphragm Controller. Artificial Intelligence in Control and Measurment. Brno: Faculty of Electrical Engineering and Computer Science BUT, 2000. p. 13-18. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "CEJKA, R.; DVORAK, V. CSP-based Modeling of Emerging Scalable Parallel Computers. Proceedings of the 34th Spring International Conference Modelling and Simulation of Systems MOSIS 2000, Vol. 1. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 135-142. ISBN: 80-85988-44-5. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "DRABEK, V. Applications of Daubechies Wavelets for Image Compression. 34th Spring. Int. Conf. MOSIS 2000. Roznov p. R.: Marq software s.r.o., 2000. p. 31-37. ISBN: 80-85988-44-5. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "DVORAK, V. Formal Specifications of Computer-Based Systems. 2000, vol. 6, no. 11, p. 1-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "DVORAK, V.; CEJKA, R. A Choice of SM/DM Parallel ANN Implementation for Embedded Applications. Proceedings of the 7th IEEE International Conference on ECBS. Edinburgh, Scotland: IEEE Computer Society Press, 2000. p. 18-23. ISBN: 0-7695-604-6. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "DVORAK, V.; CEJKA, R. Prototyping cluster-based distributed applications. In Distributed and Parallel Systems - From Instruction Parallelism to Cluster Computing. The Kluwer International Series in Engineering and Computer Science. Boston: Kluwer Academic Publishers, 2000. p. 229-232. ISBN: 0-7923-7892-X. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "GONZALES, R.; LAVI, J.; MANNION, M.; SVEDA, M. Engineering of Computer-Based Systems Enhancement Courses - Proposed Course Outlines. IEEE Computer Society TC-ECBS, Background Papers. Napier University, Edinburgh: unknown, 2000. p. 1-9. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "JANKOVSKY, M.; SVEDA, M. From TLA Specifications to Real-Time Unix Applications. Proceedings IEEE/IFIP Joint Workshop on Formal Specification of CBS. Napier University, Edinburgh: unknown, 2000. p. 77-79. ISBN: 1-85-769121-0. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOTASEK, Z. Uplatneni principu riditelnosti/pozorovatelnosti pri navrhu cislicovych obvodu. Brno: Vysoke uceni technicke v Brne, 2000. s. 1-80. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOTASEK, Z.; RUZICKA, R. Behavioral Analysis for Testability on VHDL Source File. Proceedings of Design and Diagnostics of Electronic Circuits and Systems Workshopsbornik konference IEEE DDECS. Bratislava: Slovak Academy of Science, 2000. p. 209-212. ISBN: 80-968320-3. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOTASEK, Z.; RUZICKA, R. Partial Scan Methodologies - a Survey. sbornik konference PDS2000. Ostrava: Elsevier Science, 2000. p. 133-137. ISBN: 0-08-043620-X. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "KOTASEK, Z.; RUZICKA, R.; HLAVICKA, J. Formal Approach to RTL Testability Analysis. sbornik konference IEEE LATW 2000. Rio de Janeiro: unknown, 2000. p. 98-103. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "LAVI, J.; MANNION, M.; MELHART, B.; PYLE, I.; SVEDA, M. Engineering of Computer-Based Systems - A Proposed Curriculum for a Degree Program at Bachelor Level. IEEE Computer Society TC-ECBS, Background Papers. Napier University, Edinburgh: unknown, 2000. p. 1-8. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "LAVI, J.; MELHART, B.; PYLE, I.; SVEDA, M. Engineering of Computer-Based Systems - A Proposed Curriculum for a Degree Program at Master Level. IEEE Computer Society TC-ECBS, Background Papers. Napier University, Edinburgh: unknown, 2000. p. 1-18. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "MATOUSEK, P.; RAB, J.; VYSEK, P. Protocol Proving and Model-Checking: A First-Look Experience. IEEE ECBS - Joint Workshop on Formal Specifications of Computer-Based Systems. Edinburgh: unknown, 2000. p. 71-75. ISBN: 1-85-769121-0. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "OCENASEK, J. The Acceleration of Estimation of Distribution Algorithms. Sbornik praci studentu a doktorandu VI. Brno: Akademicke nakladatelstvi CERM, 2000. p. 213-215. ISBN: 80-7204-155-X. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "OCENASEK, J.; SCHWARZ, J. The Parallel Bayesian Optimization Algorithm. Proceedings of the European Symposium on Computational Inteligence. Advances in Soft Computing. Kosice: Springer Verlag, 2000. p. 61-67. ISBN: 3-7908-1322-2. ISSN: 1615-3871. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "PICHLER, F.; RATTRAY, C.; SVEDA, M. IEEE/IFIP Joint Workshop on Formal Specifications of Computer-Based Systems. Proceedings of the 7th IEEE International Conference and Workshop ECBS'2000. Napier University, Edinburgh: IEEE Computer Society, 2000. p. 382-382. ISBN: 0-7695-0604-6. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "RATTRAY, C.; SVEDA, M. Proceedings of the IEEE TC-ECBS + TF RE and IFIP WG10.1 Joint Workshop on Formal Specifications of Computer-Based Systems. Procedings of University of Stirling. Procedings of University of Stirling. Napier University, Edinburgh: IEEE Computer Society, 2000. 85 p. ISBN: 1-85-769121-0. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SCHWARZ, J. Fuzzy genetic algorithm - a brief survey. Proceedings of the Colloquium Advanced Simulation of Systems. Bystrice pod Hostynem: Marq software s.r.o., 2000. p. 353-358. ISBN: 80-85988-51-8. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SCHWARZ, J. The probability models for combinatorial optimization problems. Proceedings of The 4th Japan-Central Europe Joint Workshop on Energy and Information in Non-Linear Systems. Brno, Czech Republic, November 10-12, 2000. Brno: unknown, 2000. p. 72-75. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SCHWARZ, J.; OCENASEK, J. A problem knowledge-based evolutionary algorithm KBOA for hypergraph bisectioning. Proceedings of the Fourth Joint Conference on Knowledge-Based Software Engineering Brno, Czech Republic, 2000. BRNO: IOS Press, 2000. p. 51-58. ISBN: 1-58603-060-4. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SCHWARZ, J.; OCENASEK, J. Partitioning-oriented placement using advanced genetic algorithm BOA. Procceedings of the Mendel '2000 Conference. BRNO: Faculty of Mechanical Engineering BUT, 2000. p. 88-91. ISBN: 80-214-1609-2. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SEKANINA, L. Components and Communications in Evolvable System. Sbornik praci studentu a doktorandu. Brno: Akademicke nakladatelstvi CERM, 2000. p. 231-233. ISBN: 80-7204-155-X. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SEKANINA, L.; DRABEK, V. Fault Tolerance and Reconfiguration in Cellular Systems. Proc. of Design and Diagnostics of Electronic Circuits and Systems - IEEE DDECS'2000. Smolenice: unknown, 2000. p. 134-137. ISBN: 80-968320-3-4. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SEKANINA, L.; DRABEK, V. Relation Between Fault Tolerance and Reconfiguration in Cellular Systems. 6th IEEE Int. On-Line Testing Workshop. Palma de Mallorca, Spain: IEEE Computer Society Press, 2000. p. 25-30. ISBN: 0-7695-0646-1. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SEKANINA, L.; DRABEK, V. The Concept of Pseudo Evolvable Hardware. IFAC Workshop on Programmable Devices and Systems 2000. Elsevier Science Ltd. Oxford: unknown, 2000. 6 p. ISBN: 0-08-043620-X. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SEKANINA, L.; RUZICKA, R. Design of the Special Fast Reconfigurable Chip Using Common FPGA. Proc. of Design and Diagnostics of Electronic Circuits and Systems - IEEE DDECS'2000. Smolenice: unknown, 2000. p. 161-168. ISBN: 80-968320-3-4. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SEKANINA, L.; SLLAME, A. Toward Uniform Approach to Design of Evolvable Hardware Based Systems. Lecture Notes in Computer Science, 2000, vol. 2000, no. 1896, p. 814-817. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SLLAME, A. Design Exploration Based Reusability Method. Student Conference STC2000 FEI VUT Brno. Brno: Akademicke nakladatelstvi CERM, 2000. p. 240-242. ISBN: 80-7204-155-X. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SLLAME, A.; DRABEK, V. Design of Graphical Hardware. MOSIS2000 34th Spring International Conference Modeling and Simulation of Systems. Roznov pod Radhostem: Marq software s.r.o., 2000. p. 51-55. ISBN: 80-85988-44-5. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SLLAME, A.; SEKANINA, L. Simulation and Modeling of Evolvable Hardware Based Systems. MS2000 International Conference on Modeling and Simulation. Las Palmas de Gran Canaria: unknown, 2000. p. 485-492. ISBN: 84-95286-59-9. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SVEDA, M. Patterns for Embedded Systems Design. Lecture Notes in Computer Science, 2000, vol. 2000, no. 1798, p. 80-89. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SVEDA, M.; VRBA, R. DCB Digital Communication On-board Bus. Proceedings ICT 2000. Acapulco: IEEE Computer Society, 2000. p. 1088-1092. ISBN: 968-36-7762-2. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SVEDA, M.; VRBA, R. Executable Specifications for Distributed Embedded Systems. Proceedings IEEE/IFIP Joint Workshop on Formal Specification of CBS. Napier University, Edinburgh: University of Stirling, 2000. p. 81-85. ISBN: 1-85-769121-0. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SVEDA, M.; VRBA, R. Rapid Prototyping of Embedded Communication Systems. Proceedings ICT 2000. Acapulco: unknown, 2000. p. 677-681. ISBN: 968-36-7762-2. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "SVEDA, M.; VRBA, R.; ZEZULKA, F. Coupling Architectures for Low-Level Fieldbusses. Proceedings of the 7th IEEE International Conference and Workshop ECBS'2000. Napier University, Edinburgh: IEEE Computer Society, 2000. p. 148-155. ISBN: 0-7695-0604-6. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "VECERA, I.; VRBA, R.; SVEDA, M. Senzory s vlastnim testovanim. Elektrorevue - Internetovy casopis (http://www.elektrorevue.cz), 2000, roc. 2000, c. 12, s. 1-7. ISSN: 1213-1539. Detail"
+        },
+        {
+            "year": "2000",
+            "details": "ZBORIL, F. VHDL RT Level Parser/Analyser of a Source Code. Proceedings of the fourth international scientific conference Electronic Computers & Informatics'2000. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2000. p. 150-155. ISBN: 80-88922-25-9. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "CEJKA, R. CSP-based Modeling of SM Architectures. Sbornik praci studentu a doktorandu FEI VUT. Brno: Akademicke nakladatelstvi CERM, 1999. p. 75-76. ISBN: 80-214-1155-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "CEJKA, R.; DVORAK, V. CSP-based Modeling of SM Architectures. Proceedings of conference Computer Engineering and Informatics CE&I'99. Kosice - Herlany: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 1999. p. 163-168. ISBN: 80-88922-05-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "DULIK, T. An FPGA implementation of Goertzel algorithm. MOSIS'99 Proceedings. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 35-42. ISBN: 80-85988-33-X. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "DVORAK, V.; CEJKA, R. The CSP-Based Simulation of Interconnection Networks and Routing Algorithms. Proceedings of the 33rd Spring International Conference Modelling and Simulation of Systems MOSIS'99, Vol. 2. Roznov pod Radhostem: Marq software s.r.o., 1999. p. 43-50. ISBN: 80-85988-33-X. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "DVORAK, V.; DRABEK, V. Architektura procesoru. Brno: 1999. 300 s. ISBN: 80-214-1458-8. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "DVORAK, V.; MATOUSEK, P. Highly Efficient Parallel ANN Implementation for Real-Time Processing. Proceedings of conference Computer Engineering and Informatics CE&I'99. Kosice - Herlany, Slovakia: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 1999. p. 186-191. ISBN: 80-88922-05-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "GONZALES, R.; LAVI, J.; MANNION, M.; SVEDA, M. Engineering of Computer-Based Systems Enhancement Courses--Proposed Course Outlines. Proceedings of the IEEE Conference and Workshop ECBS'99. Nashville, TN: unknown, 1999. p. 336-343. ISBN: 0-7695-0028-5. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "HRDLICKA, M.; SVEDA, M.; ZEZULKA, F. Fieldbus Interconnections Testbed. Proceedings of European Symposium INNOCAP'99: Sensor Networks and Communications. Grenoble: unknown, 1999. p. 123-128. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "JANKOVSKY, M. Navrh nekterych programovych systemu pracujicich v realnem case. Brno: Fakulta elektrotechniky a informatiky VUT, 1999. 136 s. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KOTASEK, Z.; RUZICKA, R.; ZBORIL, F. Partial Scan Methodology in VHDL Environment. CEI'99. Herlany: unknown, 1999. p. 146-151. ISBN: 80-88922-05-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "KOTASEK, Z.; ZBORIL, F.; HLAVICKA, J. Partial Scan Methodology for RTL Designs. Compendium of Papers ETW'99. Constance: unknown, 1999. 2 p. ISBN: 0-7695-0390-X. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "MATOUSEK, P. Global directory over LDAP with index servers. In Sbornik praci studentu a doktorandu FEI VUT. Brno: Akademicke nakladatelstvi CERM, 1999. p. 85-86. ISBN: 80-214-1155-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "OCENASEK, J. Pokrocile geneticke algoritmy pro cleneni hypergrafu. In Sbornik praci studentu a doktorandu. Brno: Akademicke nakladatelstvi CERM sro., 1999. s. 89-90. ISBN: 80-214-1155-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "RUZICKA, R. Vyuziti metod Castecny Scan v diagnostice cislicovych obvodu. Sbornik praci studentu a doktorandu. Brno: Akademicke nakladatelstvi CERM sro., 1999. s. 101-102. ISBN: 80-214-1155-4. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "RUZICKA, R. Vyuziti metod Partial scan v diagnostice cislicovych obvodu. Brno: Ustav informatiky a vypocetni techniky FEI VUT, 1999. 81 s. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "SCHWARZ, J. Utilizing Genetic Algorithms for VLSI Physical Design-a Brief Survey. Electronic Devices and Systems 1999-Proceedings. BRNO: unknown, 1999. p. 88-91. ISBN: 80-214-1466-9. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "SEKANINA, L. Evolvable Hardware as Non-Linear Predictor for Image Compression. Proc. of the 2nd Prediction Conference Nostradamus'99. Zlin: unknown, 1999. p. 87-92. ISBN: 80-214-1424-3. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "SLLAME, A. Designing on Algorithmic Level Using Behavioral Compiler, In:EDS'99, Brno. Electronic Devices and Systems 1999 - Proceedings. Ak. Brno: Akademicke nakladatelstvi CERM, 1999. p. 121-124. ISBN: 80-214-1466-9. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "SVEDA, M. An Asynchronous Specification Language for Computer-Based Systems Design. Electronic Devices and Systems 1999 - Proceedings. Brno: Faculty of Electrical Engineering and Computer Science BUT, 1999. p. 137-143. ISBN: 80-214-1466-9. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "SVEDA, M. Low-Level Fieldbus Coupler Prototyping. Electronic Devices and Systems 1999 - Proceedings. Brno: Faculty of Electrical Engineering and Computer Science BUT, 1999. p. 244-247. ISBN: 80-214-1466-9. Detail"
+        },
+        {
+            "year": "1999",
+            "details": "SVEDA, M. Patterns for Embedded Systems Design. Preprints EUROCAST 99. Vienna: unknown, 1999. p. 277-280. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "DRABEK, V. Vlastnosti a pouziti binarnich celularnich automatu. Brno: Vysoke uceni technicke v Brne, 1998. 80 s. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "DULIK, T. Acceleration of DSP algorithms using FPGAs. Sbornik praci studentu a doktorandu. Brno: Faculty of Electrical Engineering and Computer Science BUT, 1998. p. 39-40. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "DULIK, T. DSP and Programmable Gate Arrays. Brno: Faculty of Electrical Engineering and Computer Science BUT, 1998. 105 p. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KOTASEK, Z.; ZBORIL, F. Boundary Scan of PCBs with Xilinx FPGAs. Sbornik konference ECI98. Herlany: unknown, 1998. p. 70-74. ISBN: 80-88786-94-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "KOTASEK, Z.; ZBORIL, F. Nonstandard Automatic Test Pattern Generation Based on Neural Network Theory. Proceedings of the ECI'98. Herlany: Slovak Academy of Science, 1998. p. 75-80. ISBN: 80-88786-94-0. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "LAVI, J.; MANNION, M.; MELHART, B.; PYLE, I.; SVEDA, M. Engineering of Computer-Based Systems Enhancement Courses--Proposed Course Outlines. Proceedings of the IEEE Conference and Workshop ECBS'98. Maale Hachamisha: unknown, 1998. p. 377-384. ISBN: 0-8186-8463-1. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "LAVI, J.; MANNION, M.; MELHART, B.; PYLE, I.; SVEDA, M. Engineering of Computer-Based Systems--A Proposed Curriculum for a Degree Program at Bachelor Level. Proceedings of the IEEE Conference and Workshop ECBS'98. Maale Hachamisha: IEEE Computer Society, 1998. p. 369-376. ISBN: 0-8186-8463-1. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "RYSANEK, M. Congestion in High-Loaded Networks of Parallel Machines. SEIHPC Workshop 1998, Madrid, Spain. Madrid: unknown, 1998. p. 58-64. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "SCHWARZ, J. Case study: Genetic object designer. ASIS 1998. Krnov: Marq software s.r.o., 1998. p. 109-114. ISBN: 80-85988-26-7. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "SCHWARZ, J. Fuzzy trafic light controller. Proceedings of MOSIS'98. Bystrice pod Hostynem: Marq software s.r.o., 1998. p. 67-73. ISBN: 80-85988-25-9. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "SCHWARZ, J. Genetic algorithm for partitioning circuits. Mendel '98. Brno: unknown, 1998. p. 126-131. ISBN: 80-214-1199-6. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "SEKANINA, L. Model vyvijejicich se obvodu. In Sbornik praci studentu a doktorandu, roc. IV, FEI VUT Brno. Brno: Akademicke nakladatelstvi CERM sro., 1998. s. 61-62. ISBN: 80-214-1141-4. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "SVEDA, M. Asynchronous Specification Language and Design with Local Time. Proceedings of the IEEE Conference and Workshop ECBS'98. Maale Hachamisha: IEEE Computer Society, 1998. p. 256-263. ISBN: 0-8186-8463-1. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "SVEDA, M. Computer-Based Systems: An Emerging Discipline. EDS'98 Proceedings. Brno: unknown, 1998. p. 325-328. ISBN: 80-214-1198-8. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "SVEDA, M.; VECERA, I.; VRBA, R. Smart Sensors Based upon ASI Bus Interface with Built-in Self Test. Advances in Systems, Signals, Control and Computers. Durban: unknown, 1998. p. 419-424. ISBN: 0-620-23136-X. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "SVEDA, M.; VRBA, R. Interconnecting Architectures for Sensors and Actuators. Advances in Systems, Signals, Control and Computers. Durban: unknown, 1998. p. 414-418. ISBN: 0-620-23136-X. Detail"
+        },
+        {
+            "year": "1998",
+            "details": "SVEDA, M.; ZEZULKA, F. Communication on the Control Level--An Extension Phenomenon of Control. Proceedings of the 15th International Congress on Cybernetics. Namur: unknown, 1998. p. 312-317. ISBN: 2-87215-004-8. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "CIGANEK, P.; DRABEK, V. Applications of Binary Cellular Automata in BIST. Bratislava, Sept. 4-5: 1997. p. 189-192. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "DRABEK, V. Modelling of Evolvable Hardware. MOSIS 97. Hradec nad Moravici: Marq software s.r.o., 1997. p. 319-324. ISBN: 80-85988-18-6. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "DVORAK, V. Advanced Computer Architecture. CZ: neznama, 1997. 100 s. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "DVORAK, V. Bounds on the Sizes of Decision Diagrams. 1997, vol. 3, no. 1, p. 2-22. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "EYSSELT, M. The Design of the Factored TANT and TONT Networks. Proceedings of the 31st Spring International Conference MOSIS'97. April 28-30, Hradec nad Moravici: unknown, 1997. p. 177-182. ISBN: 80-85988-18-6. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "HLAVICKA, J.; KOTASEK, Z.; ZBORIL, F. Test Overhead Reduction through RT Level Testability Analysis. Proceedings of the IEEE ETW 1997. Cagliary: unknown, 1997. p. 43-47. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOTASEK, Z. RT Level Element Classification. Proceedings of the DDECS 97. Solan: unknown, 1997. p. 41-46. ISBN: 80-85988-19-4. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOTASEK, Z.; ZBORIL, F. RT Level Testability Analysis In PROLOG Enviroment. Proceedings of the DDECS'97. Ostrava: Marq software s.r.o., 1997. p. 47-52. ISBN: 80-85988-19-4. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "KOTASEK, Z.; ZBORIL, F. RT Level Testability Analysis to Reduce Test Application Time. Proceedings of the EUROMICRO 97. Budapest: unknown, 1997. p. 104-111. ISBN: 0-8186-8129-2. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "SCHWARZ, J. Educational fuzzy development system. Proceedings of Conference MOSIS '97. Hradec nad Moravici: Marq software s.r.o., 1997. p. 233-238. ISBN: 80-85988-16-X. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "SVEDA, M. An Approach to Safety Critical Systems Design. Lecture Notes in Computer Science, 1997, vol. 1998, no. 133, p. 34-49. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "SVEDA, M. Design Method, Fail-Stop Safety Model, and Embedded Application. JOURNAL OF SYSTEMS ARCHITECTURE, 1997, vol. 43, no. 1, p. 47-57. ISSN: 1383-7621. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "SVEDA, M.; BABKA, O.; FREEBURN, J. Knowledge Preserving Development: A Case Study. Proc. IEEE Conf. Engineering of Computer-Based Systems. Monterey, California: IEEE Computer Society, 1997. p. 347-352. ISBN: 0-8186-7889-5. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "SVEDA, M.; VRBA, R. ASI Interconnectivity. Preprints IFAC SICICA'97. Annecy: unknown, 1997. p. 621-626. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "SVEDA, M.; ZEZULKA, F. Interconnecting Low-Level Fieldbusses. Proc. Euromicro'97. Los Alamitos, California: IEEE Computer Society Press, 1997. p. 260-267. ISBN: 0-8186-8129-2. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "ZEZULKA, F., SVEDA, M. Specification of Anticipative Problems in Control Engineering. In Intersymp 96. Canada: George E. Lasker, 1997. 5 p. ISBN: 0-921836-4. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "DRABEK, V. Dependability Issues of Medical Electronics. Brno: 1996. p. 63-66. ISBN: 80-214-0767-8. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "DRABEK, V. High-Level Specification and Verification as a New Design Methodology. Brno: 1996. p. 197-200. ISBN: 80-214-0768-9. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "DRABEK, V. RAIDSIM - Model of a Disk Array. MOSIS '96. Modelling and System Simulation. Krnov: 1996. p. 136-141. ISBN: 80-85988-03-8. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "DRABEK, V. Simulation or Verification?. Zabreh na Morave: 1996. p. 13-18. ISBN: 80-85988-10-0. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "DVORAK, V. Parallel implementation of ANN for Embedded Applications. Proceedings WORKSHOP'96. Praha: Faculty of Electrical Engineering, Czech Technical University, 1996. p. 221-222. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "DVORAK, V. Performance analysis of parallel/distributed genetic algorithms. Proc. of the 1st Austrian-Hungarian Workshop on Distributed and Parallel Systems DAPSYS'96. Miskolc: 1996. p. 219-220. ISBN: ?. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "DVORAK, V. Prototyping parallel ANN implementations with TRANSIM. HPCS' 96 Conference Proceedings. Ottawa: unknown, 1996. p. 1-16. ISBN: 0-88629-301-4. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "EYSSELT, M. A Rounding Problem of the Integers. Proceedings of the AMSE Scientific Conference on Communications, Signals and Systems CSS'96. September 10-12, Brno: Faculty of Electrical Engineering and Computer Science BUT, 1996. p. 55-58. ISBN: 80-214-0768-9. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "EYSSELT, M. The Comparison of Three One-Bit-at-a-Time Two's Complement Multiplication Methods. Proceedings of the AMSE Scientific Conference on Communications, Signals and Systems CSS'96. September 10-12, Brno: Faculty of Electrical Engineering and Computer Science BUT, 1996. p. 41-44. ISBN: 80-214-0768-9. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "EYSSELT, M. THE CONTRIBUTION TO THE GENERALISED REED-MULLER EXPANSIONS GENERATED BY SOFTWARE. Proceedings of the Electronic Devices and Systems EDS'96 Conference. June 25, Brno: Faculty of Electrical Engineering and Computer Science BUT, 1996. p. 220-223. ISBN: 80-214-0767-8. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "EYSSELT, M. The Finite-State Machines Simplified Booth Recodings. Proceedings of the 30th Spring International Conference Modelling and Simulation MOSIS'96. April 23-25, Krnov: unknown, 1996. p. 130-135. ISBN: 80-85988-03-8. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "EYSSELT, M. The Perfect Microinstruction Pipeline with Microprogram Counters. Proceedings of the Scientific Conference with International Participation ELECTRONIC COMPUTERS & INFORMATICS. September 26-27, Kosice-Herlany: unknown, 1996. p. 176-181. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "EYSSELT, M. The Petri Net Machines for Signed Digit Recodings. Proceedings of the XVIIIth International Workshop Advanced Simulation of Systems ASS 1996. September 17-19, Zabreh na Morave: unknown, 1996. p. 136-141. ISBN: 80-85988-10-0. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "SCHWARZ, J. Motorola microcontroller as the platform for fuzzy application. Proceedings of CSS '96. Brno: unknown, 1996. p. 239-242. ISBN: 80-214-0768-9. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "SVEDA, M. A Prototyping Technique for Distributed Microcontrollers. CSS '96. Brno: unknown, 1996. p. 61-68. ISBN: 80-214-0768-9. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "SVEDA, M. Formal Specifications with Local Time Concept. Proc. IEE Conf. WODES'96. Edinburgh: unknown, 1996. p. 356-361. ISBN: 0-85296-664-4. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "ZENDULKA, J. Program for demonstration of scheduling and allocation in high-level synthesis. Proceedings of EDS'96. Brno: Brno University of Technology, 1996. p. 382-385. ISBN: 80-214-0767-8. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "ZENDULKA, J. The use of VHDL in designing with gate arrays. Proceedings of MOSIS'96, Volume 2. Krnov: Marq software s.r.o., 1996. p. 142-147. ISBN: 80-85988-03-8. Detail"
+        },
+        {
+            "year": "1996",
+            "details": "ZENDULKA, J. Tools for designing with Xilinx FPGAs. Proceedings of EDS'96. Brno: Brno University of Technology, 1996. p. 15-18. ISBN: 80-214-0767-8. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "DRABEK, V.; STACHNIK, M. A Fault-Tolerant ASIC Array. Baligrod-Bystre, 9-13 Oct., 1995: unknown, 1995. p. 193-200. ISBN: 83-900859-3-3. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "DVORAK, V. Logic decomposition into LUT/MUX-based logic blocks. Proceedings of the 7th School VLSI and ASIC Design. Baligrod-Bystre: unknown, 1995. p. 37-56. ISBN: 83-900859-3-3. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "DVORAK, V.; SLADECEK, L. Performance Evaluation of Transputer-Based Parallel Implementation of CNN. Proc. of 1995 AMSE Int. Symposium on Fuzzy systems, Neural Networks, and Artificial Intelligence. Brno: 1995. p. 11-18. ISBN: 80-214-0657-7. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "EYSSELT, M. A Method for Finding All Disjoint Covers of a Boolean Function. Proceedings of the Electronic Devices and Systems Conference. June 28, Brno: Faculty of Electrical Engineering and Computer Science BUT, 1995. p. 209-212. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "EYSSELT, M. The Contribution to the Modelling of Simple Two's Complement Multiplication Methods. Proceedings of the XVIIth International Czech-Poland-Slovak Colloquium-Workshop ADVANCED SIMULATION OF SYSTEMS. April 18-20, Zabreh na Morave: unknown, 1995. p. 36-41. ISBN: 80-901751-1-2. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "EYSSELT, M. The Contribution to the TANT and TONT Networks Design-Automatization. Proceedings of the Electronic Devices and Systems Conference. June 28, Brno: Faculty of Electrical Engineering and Computer Science BUT, 1995. p. 203-216. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "EYSSELT, M.; CUPAL, J. A Two's Complement Division Method with Automatic Quotient Rounding. Proceedings of the INTERNATIONAL AMSE CONFERENCE SYS'95. July 3-5, Brno: Faculty of Electrical Engineering and Computer Science BUT, 1995. p. 69-78. ISBN: 80-214-0657-7. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "HLAVICKA, J.; KOTASEK, P.; KOTASEK, Z. RT Level Test Scheduling Procedure. Proceedings on Design Metodologies for Microelectronics. Smolenice: Slovak Academy of Science, 1995. p. 264-271. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "SCHWARZ, J. PGPLACE: Genetic algorithm for placement optimization. Mendel '95. Brno: 1995. p. 139-144. ISBN: 80-214-0672-0. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "SCHWARZ, J. Programove prostredky pro fuzzy aplikace. Proceedings of Workshop of Advanced Simulation of Systems. Zabreh na Morave: 1995. s. 258-264. ISBN: 80-901751-7-1. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "SCHWARZ, J. Simulation based placement algorithm. Proceedings of EDS '95 conference. Brno: 1995. p. 217-228. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "SVEDA, M.; ZEZULKA, F. Local Time for Systems Theory and Control Engineering. Proceedings of the 14th International Congress on Cybernetics. Namur: unknown, 1995. p. 560-564. ISBN: 2-87215-003. Detail"
+        },
+        {
+            "year": "1995",
+            "details": "ZENDULKA, J. Program for demonstration of ROBDD's. Proceedings of EDS'95. Brno: Brno University of Technology, 1995. p. 201-202. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "EYSSELT, M. Booth Methods. Proceedings of the FEI'25 Conference on ELECTRONIC COMPUTERS and INFORMATICS. September 22-23, Kosice-Herlany: unknown, 1994. p. 51-56. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "LINHART, M.; SPRTA, J.; ZENDULKA, J. A Model of a Transputer-Based Simulation Accelerator. Proceedings of the 3rd IFIP WG-7.6 Working Conference on Optimization-Based Computer-Aided Modelling and Design. Prague: unknown, 1994. p. 261-268. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "SCHWARZ, J. Programove prostredky pro navrh fuzzy systemu. Sbornik kolokvia Vybrane problemy simulacnich modelu. Brno: Marq software s.r.o., 1994. s. 11-14. ISBN: 80-901229-9-X. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "SVEDA, M. Multiple Lift Control System. Proceedings 20th Euromicro 94 Conf. Liverpool: unknown, 1994. p. 581-587. ISBN: 0-8186-6430-4. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "SVEDA, M. An Implementation-Directed Design Method for Microcontroller Software. Microprocessing and Microprogramming (North-Holland), 1994, vol. 40, no. 4, p. 291-301. ISSN: 0165-6074. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "SVEDA, M. Design and Development of Industrial Measurement System--Architecture and Software. Microprocessing and Microprogramming (North-Holland), 1994, vol. 40, no. 10, p. 887-890. ISSN: 0165-6074. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "ZENDULKA, J. Koncepce kursu automatizace projektovani cislicovych systemu. Moderni smery vyuky elektrotechniky a lelektroniky STO-5. Brno: Vojenska akademie Brno, 1994. s. 84-87. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "ZENDULKA, J. Zkusenosti s pouzitim prostredku pro funkcni a logickou simulaci. Vybrane problemy simulacnich modelu. Brno: neznama, 1994. s. 103-108. ISBN: 80-901229-9-X. Detail"
+        },
+        {
+            "year": "1994",
+            "details": "ZEZULKA, F., LEGAT, P., SVEDA, M. ASI Instrumentation. Microprocessing and Microprogramming (North-Holland), 1994, vol. 40, no. 10-12, 1 p. ISSN: 0165-6074. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "LINHART, M.; SPRTA, J.; ZENDULKA, J. A Transputer-Based Digital Circuits Simulator. International conference CATE'93. Brno: unknown, 1993. p. 389-391. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "SCHWARZ, J. Algoritmy stochasticke a simulovane evoluce. Sbornik kolokvia Vybrane problemy simulacnich modelu. Ostrava: 1993. s. 89-91. ISBN: 80-901229-6-5. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "SCHWARZ, J. Simulation oriented placement methods for VLSI chips. Proceedings of the MOSIS'93 conference. Olomouc: Marq software s.r.o., 1993. p. 295-300. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "ZENDULKA, J. Levelized Compiled and Event-Driven Simulation - a Case Study. International conference CATE'93. Brno: unknown, 1993. p. 349-352. Detail"
+        },
+        {
+            "year": "1993",
+            "details": "ZENDULKA, J. Simulacni system VHDL-XL. Vybrane problemy simulacnich modelu. Ostrava: neznama, 1993. s. 69-72. ISBN: 80-901229-6-5. Detail"
+        },
+        {
+            "year": "1992",
+            "details": "DVORAK, V. An optimization technique for ordered (binary) decision diagrams. Proceedings of the 6th Annual European Computer Conference CompEuro' 92. Hague: unknown, 1992. p. 1-4. ISBN: 0-8186-2760. Detail"
+        },
+        {
+            "year": "1992",
+            "details": "DVORAK, V. Easily- and self-testable chip, board, and system architectures. EC Newsletter, 1992, vol. Vol. 4, no. No.1, p. 227-243. ISSN: 1120-7221. Detail"
+        },
+        {
+            "year": "1992",
+            "details": "DVORAK, V.; SUSTR, J. Digital system synthesis on FPGAs. Proceedings of Mikrosystem' 92. Bratislava: unknown, 1992. p. 100-103. ISBN: 80-233-0255-8. Detail"
+        },
+        {
+            "year": "1992",
+            "details": "STEFAN, J.; ZENDULKA, J. Model spojiteho systemu v C++. Sbornik MOSIS'92. Ostrava: neznama, 1992. s. 1-2. Detail"
+        },
+        {
+            "year": "1992",
+            "details": "SVEDA, M. A Design Method for Small Real-Time Distributed Systems. Cybernetics and Systems Research'92. Vienna: unknown, 1992. p. 1255-1261. ISBN: 981-02-1992-X. Detail"
+        },
+        {
+            "year": "1992",
+            "details": "ZENDULKA, J. Synchronni simulace na osobnim pocitaci. Konferencia MIKROSYSTEM'92. Bratislava: neznama, 1992. s. 159-162. ISBN: 80-233-0255-8. Detail"
+        },
+        {
+            "year": "1992",
+            "details": "ZENDULKA, J. VHDL-standard pro popis a simulaci elektronickych systemu. Vybrane problemy simulacnich modelu. Ostrava: neznama, 1992. s. 35-38. ISBN: 80-901229-2-2. Detail"
+        },
+        {
+            "year": "1991",
+            "details": "DVORAK, V. CAD tools for VLSI. Bari: 1991. Detail"
+        },
+        {
+            "year": "1991",
+            "details": "EYSSELT, M. The Mathematical Logic and Calculations of the Reliability. Sbornik Vysokeho uceni technickeho v Brne, 1991, vol. 1991, no. 1, p. 151-158. ISSN: 0524-7462. Detail"
+        },
+        {
+            "year": "1991",
+            "details": "HORVATH, P.; LINHART, M. Periferne zariadenia cislicovych pocitacov. neznama, 1991. 296 s. ISBN: 80-05-00813-9. Detail"
+        },
+        {
+            "year": "1990",
+            "details": "EYSSELT, M. Casove vyhodnoceni tri algoritmu nasobeni. Kniznice vedeckych praci VUT Brno, 1990, roc. 1990, c. 130, s. 225-237. ISSN: 0368-6582. Detail"
+        },
+        {
+            "year": "1990",
+            "details": "EYSSELT, M. Studie navrhu rezu aritmeticko logicke jednotky. Kniznice vedeckych praci VUT Brno, 1990, roc. 1990, c. 130, s. 213-223. ISSN: 0368-6582. Detail"
+        },
+        {
+            "year": "1990",
+            "details": "FABIAN, P.; LINHART, M.; ZELEM, J. Some results gained from the experients with the LOPOS simulation model. Systems Science, 1990, vol. 16, no. 2, p. 39-52. ISSN: 0137-1223. Detail"
+        },
+        {
+            "year": "1989",
+            "details": "EYSSELT, M. Vyuziti jednooperacnich souboru logickych clenu pro navrh optimalizovanych tristupnovych logickych siti. Kniznice odbornych a vedeckych spisu VUT Brno, svazek B-123. 30. srpna, Brno: Vysoke uceni technicke v Brne, 1989. s. 209-212. ISBN: 80-214-0009-4. Detail"
+        },
+        {
+            "year": "1989",
+            "details": "EYSSELT, M. Doplnek k navrhu optimalizovanych logickych siti z logickych clenu NAND nebo NOR. Kniznice vedeckych praci VUT Brno, 1989, roc. 1990, c. 129, s. 185-191. ISSN: 0368-6582. Detail"
+        },
+        {
+            "year": "1984",
+            "details": "BLATNY, J.; ZENDULKA, J.; HRUSKA, T.; EYSSELT, M. Simulacni system SFDL/SCL. In Kniznice odbornych a vedeckych spisu VUT Brno, svazek A-26. Brno: Vysoke uceni technicke v Brne, 1984. s. 81-98. Detail"
+        },
+        {
+            "year": "1984",
+            "details": "EYSSELT, M. Deleni technickymi prostredky. In Kniznice odbornych a vedeckych spisu VUT Brno, svazek A-26. Brno: Vysoke uceni technicke v Brne, 1984. s. 177-186. Detail"
+        },
+        {
+            "details": "BLATNY, J., KOTASEK, Z. RT Level Test Scheduling. Computer and Artificial Intelligence, vol. 14, no. 1, 1997, 1 p. ISSN: 0232-0274. Detail"
+        },
+        {
+            "details": "SVEDA, M. Development Environment for Local-Time Design Method. CYBERNETICS AND SYSTEMS, vol. 27, no. 2, 1 p. ISSN: 0196-9722. Detail"
+        },
+        {
+            "details": "SVEDA, M. Fuel Stand Control System Design. Elektrotechnik und Informationstechnik, vol. Vol.111, no. 4, 1 p. ISSN: 0932-383X. Detail"
+        },
+        {
+            "details": "SVEDA, M. Language Prototyping with Attribute Grammars and Macros. Microprocessing and Microprogramming (North-Holland), vol. Vol.39, no. 1, 1 p. ISSN: 0165-6074. Detail"
+        },
+        {
+            "details": "SVEDA, M. Local Time for Systems Analysis. In Advances in Intelligent Systems. Amsterdam, the Netherlands: IOS Press, 5 p. ISBN: 90-5199-35. Detail"
+        },
+        {
+            "details": "SVEDA, M. Microcontroller Software Engineering. Microprocessing and Microprogramming (North-Holland), vol. Vol.34, no. 1, 1 p. ISSN: 0165-6074. Detail"
+        },
+        {
+            "details": "SVEDA, M. Routers and Bridges for Small Area Network Interconnection. COMPUTERS IN INDUSTRY, vol. Vol.22, no. 1, 1 p. ISSN: 0166-3615. Detail"
+        },
+        {
+            "details": "SVEDA, M. Small Area Network Interconnection. Microprocessing and Microprogramming (North-Holland), vol. Vol.37, no. 1, 1 p. ISSN: 0165-6074. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2024",
+            "title": "Software Package for Reporting Errors in Distributed MPI Applications",
+            "authors": "Software Package for Reporting Errors in Distributed MPI Applications , software, 2024 : JAROS, J."
+        },
+        {
+            "year": "2024",
+            "title": "Web-Based Simulator of Superscalar RISC-V Processors",
+            "authors": "Web-Based Simulator of Superscalar RISC-V Processors , software, 2024 : MAJER, M.; HORKY, J.; VAVRA, J.; JAROS, J."
+        },
+        {
+            "year": "2020",
+            "title": "k-Wave 1.3 Acoustic Field Propagator (OMP)",
+            "authors": "k-Wave 1.3 Acoustic Field Propagator (OMP) , software, 2020 : BUDISKY, J.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2020",
+            "title": "k-Wave Toobox verze 1.3 (CUDA)",
+            "authors": "k-Wave Toobox verze 1.3 (CUDA) , software, 2020 : JAROS, J.; TREEBY, B."
+        },
+        {
+            "year": "2020",
+            "title": "k-Wave Toobox verze 1.3 (OMP)",
+            "authors": "k-Wave Toobox verze 1.3 (OMP) , software, 2020 : JAROS, J.; TREEBY, B.; KUKLIS, F.; COX, B."
+        },
+        {
+            "year": "2017",
+            "title": "k-Wave Toobox verze 1.2 (CUDA)",
+            "authors": "k-Wave Toobox verze 1.2 (CUDA) , software, 2017 : JAROS, J.; TREEBY, B."
+        },
+        {
+            "year": "2017",
+            "title": "k-Wave Toobox verze 1.2 (OMP)",
+            "authors": "k-Wave Toobox verze 1.2 (OMP) , software, 2017 : JAROS, J.; TREEBY, B.; COX, B."
+        },
+        {
+            "year": "2016",
+            "title": "k-Wave Toobox verze 1.1 (CUDA)",
+            "authors": "k-Wave Toobox verze 1.1 (CUDA) , software, 2016 : JAROS, J.; TREEBY, B."
+        },
+        {
+            "year": "2014",
+            "title": "k-Wave Toobox verze 1.1 (OMP)",
+            "authors": "k-Wave Toobox verze 1.1 (OMP) , software, 2014 : JAROS, J.; TREEBY, B.; COX, B."
+        },
+        {
+            "year": "2012",
+            "title": "GPGPU Implementation of the GA Running the Kanpsack Benchmark",
+            "authors": "GPGPU Implementation of the GA Running the Kanpsack Benchmark , software, 2012 : JAROS, J."
+        },
+        {
+            "year": "2012",
+            "title": "MPI Island-based CPU Implementation of GA Running the Knapsack Benchmark",
+            "authors": "MPI Island-based CPU Implementation of GA Running the Knapsack Benchmark , software, 2012 : JAROS, J."
+        },
+        {
+            "year": "2012",
+            "title": "MPI Island-based GPU Implementation of GA Running the Knapsack Benchmark",
+            "authors": "MPI Island-based GPU Implementation of GA Running the Knapsack Benchmark , software, 2012 : JAROS, J."
+        },
+        {
+            "year": "2010",
+            "title": "EvoCCs - Tool for evolutionary design of broadcast and scatter based collective communications on wormhole networks",
+            "authors": "EvoCCs - Tool for evolutionary design of broadcast and scatter based collective communications on wormhole networks , software, 2010 : JAROS, J."
+        },
+        {
+            "year": "1984",
+            "title": "Modulovy rez dvojkove delicky",
+            "authors": "Modulovy rez dvojkove delicky , patent, 1984 : EYSSELT, M."
+        },
+        {
+            "year": "1984",
+            "title": "Pametovy modul pro radice s prekryvanim vyberove a provadeci faze mikroinstrukci: AO 23671",
+            "authors": "Pametovy modul pro radice s prekryvanim vyberove a provadeci faze mikroinstrukci: AO 23671 , patent, 1984 : EYSSELT, M."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2000",
+            "title": "High Performance Computing in JAVA -- Fact or Fiction?",
+            "authors": ", research report, 2000 : DVORAK, V.; MARKOVIC, L."
+        },
+        {
+            "year": "1984",
+            "title": "Modulovy rez dvojkove delicky: AO 233922",
+            "authors": ", research report, 1984 : EYSSELT, M."
+        },
+        {
+            "year": "1984",
+            "title": "Pametovy modul pro radice s prekryvanim vyberove a provadeci faze mikroinstrukci: AO 236710",
+            "authors": ", research report, 1984 : EYSSELT, M."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2024",
+            "title": "Accelerating Hybrid Local Domain Decomposition for the k-Wave Toolbox on Multi-GPU Systems",
+            "authors": "Accelerating Hybrid Local Domain Decomposition for the k-Wave Toolbox on Multi-GPU Systems , presentation, poster, 2024 : KUNIK, O.; JAROS, J."
+        },
+        {
+            "year": "2024",
+            "title": "afft: a C++17 Wrapper Library for FFT-like Computations on Various Targets",
+            "authors": "afft: a C++17 Wrapper Library for FFT-like Computations on Various Targets , presentation, poster, 2024 : JAROS, J.; BAYER, D."
+        },
+        {
+            "year": "2024",
+            "title": "Enhancing Acoustic Neural Predictors with Heterogeneous Density",
+            "authors": "Enhancing Acoustic Neural Predictors with Heterogeneous Density , presentation, poster, 2024 : JAROS, J.; CHLEBIK, J."
+        },
+        {
+            "year": "2024",
+            "title": "Investigating the Possibility of Using Pruned FFT in Ultrasound Wave Propagation Simulations",
+            "authors": "Investigating the Possibility of Using Pruned FFT in Ultrasound Wave Propagation Simulations , presentation, poster, 2024 : OLSAK, O.; JAROS, J."
+        },
+        {
+            "year": "2024",
+            "title": "k-Dispatch: Enabling Cost-Optimized Biomedical Workflow Offloading",
+            "authors": "k-Dispatch: Enabling Cost-Optimized Biomedical Workflow Offloading , presentation, poster, 2024 : JAROS, M.; JAROS, J."
+        },
+        {
+            "year": "2024",
+            "title": "k-Plan: From the Hospital to the Cluster and Back",
+            "authors": "k-Plan: From the Hospital to the Cluster and Back , presentation, poster, 2024 : JAROS, J.; TREEBY, B.; JAROS, M."
+        },
+        {
+            "year": "2024",
+            "title": "MATLAB Interface To The afft Library",
+            "authors": "MATLAB Interface To The afft Library , presentation, poster, 2024 : BAYER, D.; JAROS, J."
+        },
+        {
+            "year": "2024",
+            "title": "Techniques for Efficient Fourier Transform Computation in Ultrasound Simulations",
+            "authors": "Techniques for Efficient Fourier Transform Computation in Ultrasound Simulations , presentation, poster, 2024 : OLSAK, O.; JAROS, J."
+        },
+        {
+            "year": "2023",
+            "title": "Evolutionary Exploration of a Neural Network for Predicting Ultrasound Propagation",
+            "authors": "Evolutionary Exploration of a Neural Network for Predicting Ultrasound Propagation , presentation, poster, 2023 : CHLEBIK, J.; JAROS, J."
+        },
+        {
+            "year": "2023",
+            "title": "Evolutionary Optimization of a Focused Ultrasound Propagation Predictor Neural Network",
+            "authors": "Evolutionary Optimization of a Focused Ultrasound Propagation Predictor Neural Network , presentation, poster, 2023 : CHLEBIK, J.; JAROS, J."
+        },
+        {
+            "year": "2022",
+            "title": "Comparison of SpFFT and FFTW3 library",
+            "authors": "Comparison of SpFFT and FFTW3 library , presentation, poster, 2022 : OLSAK, O.; JAROS, J."
+        },
+        {
+            "year": "2022",
+            "title": "Evaluation of libraries for the one-dimensional sparse Fourier transform",
+            "authors": "Evaluation of libraries for the one-dimensional sparse Fourier transform , presentation, poster, 2022 : OLSAK, O.; JAROS, J."
+        },
+        {
+            "year": "2022",
+            "title": "Evolutionary NAS for Topology of an Acoustic Propagation Predictor",
+            "authors": "Evolutionary NAS for Topology of an Acoustic Propagation Predictor , presentation, poster, 2022 : CHLEBIK, J.; JAROS, J."
+        },
+        {
+            "year": "2022",
+            "title": "k-Dispatch's Performance Modules for Advanced Workflow Submission",
+            "authors": "k-Dispatch's Performance Modules for Advanced Workflow Submission , presentation, poster, 2022 : JAROS, M.; JAROS, J."
+        },
+        {
+            "year": "2022",
+            "title": "k-Plan: From the Hospital to the Cluster and Back",
+            "authors": "k-Plan: From the Hospital to the Cluster and Back , presentation, poster, 2022 : JAROS, M.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2021",
+            "title": "Adaptive Execution Planning in Biomedical Workflow Management Systems",
+            "authors": "Adaptive Execution Planning in Biomedical Workflow Management Systems , presentation, poster, 2021 : JAROS, M.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2021",
+            "title": "Distributed Evolutionary Design of HIFU Treatment Plans",
+            "authors": "Distributed Evolutionary Design of HIFU Treatment Plans , presentation, poster, 2021 : CHLEBIK, J.; JAROS, J."
+        },
+        {
+            "year": "2021",
+            "title": "Handling C++ Exceptions in MPI Applications",
+            "authors": "Handling C++ Exceptions in MPI Applications , presentation, poster, 2021 : JAROS, J."
+        },
+        {
+            "year": "2021",
+            "title": "k-Dispatch's Performance Modules for Advanced Workflow Submission",
+            "authors": "k-Dispatch's Performance Modules for Advanced Workflow Submission , presentation, poster, 2021 : JAROS, M.; JAROS, J."
+        },
+        {
+            "year": "2019",
+            "title": "Adaptive Execution Planning in Biomedical Workflow Management Systems",
+            "authors": "Adaptive Execution Planning in Biomedical Workflow Management Systems , presentation, poster, 2019 : JAROS, M.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2019",
+            "title": "Adaptive Execution Planning in Workflow Management Systems",
+            "authors": "Adaptive Execution Planning in Workflow Management Systems , presentation, poster, 2019 : JAROS, M.; JAROS, J.; TREEBY, B."
+        },
+        {
+            "year": "2019",
+            "title": "Advancements in Ultrasound Simulations Enabled by High-bandwidth GPU Interconnects",
+            "authors": "Advancements in Ultrasound Simulations Enabled by High-bandwidth GPU Interconnects , presentation, poster, 2019 : VAVERKA, F.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2019",
+            "title": "On the Complexity of Photoacoustic Tomography: A Trade-off Between Image Quality and Computational Cost",
+            "authors": "On the Complexity of Photoacoustic Tomography: A Trade-off Between Image Quality and Computational Cost , presentation, poster, 2019 : BORDOVSKY, G.; JAROS, J."
+        },
+        {
+            "year": "2019",
+            "title": "Photoacoustic Reconstruction with Progressive Grid Refinement",
+            "authors": "Photoacoustic Reconstruction with Progressive Grid Refinement , presentation, poster, 2019 : BORDOVSKY, G."
+        },
+        {
+            "year": "2019",
+            "title": "Scientific workflow management framework",
+            "authors": "Scientific workflow management framework , presentation, poster, 2019 : JAROS, M.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2018",
+            "title": "Design of HIFU Treatment Plans using an Evolutionary Strategy",
+            "authors": "Design of HIFU Treatment Plans using an Evolutionary Strategy , presentation, poster, 2018 : JAROS, M.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2018",
+            "title": "Fourth-order Time-stepping Scheme in Simulation of Ultrasound Propagation",
+            "authors": "Fourth-order Time-stepping Scheme in Simulation of Ultrasound Propagation , presentation, poster, 2018 : KADLUBIAK, K.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2018",
+            "title": "GPU-accelerated Simulation of Elastic Wave Propagation",
+            "authors": "GPU-accelerated Simulation of Elastic Wave Propagation , presentation, poster, 2018 : KADLUBIAK, K.; JAROS, J.; TREEBY, B."
+        },
+        {
+            "year": "2018",
+            "title": "Optimization of Ultrasound Simulations on Multi-GPU Servers",
+            "authors": "Optimization of Ultrasound Simulations on Multi-GPU Servers , presentation, poster, 2018 : VAVERKA, F.; SPETKO, M.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2018",
+            "title": "Photoacoustic Tomography Using the k-Wave Toolbox",
+            "authors": "Photoacoustic Tomography Using the k-Wave Toolbox , presentation, poster, 2018 : BORDOVSKY, G.; COX, B.; JAROS, J."
+        },
+        {
+            "year": "2018",
+            "title": "Running Large-Scale Ultrasound Simulations on Intel Xeon Phi (KNC) accelerators",
+            "authors": "Running Large-Scale Ultrasound Simulations on Intel Xeon Phi (KNC) accelerators , presentation, poster, 2018 : VAVERKA, F.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2018",
+            "title": "Signal Frequency Content and Appearance of Tumors in Photoacoustic Breast Tomography: A Simulation",
+            "authors": "Signal Frequency Content and Appearance of Tumors in Photoacoustic Breast Tomography: A Simulation , presentation, poster, 2018 : DANTUMA, M.; LUCKA, F.; TREEBY, B.; JAROS, J.; COX, B.; MANOHAR, S."
+        },
+        {
+            "year": "2017",
+            "title": "Framework for Planning, Executing and Monitoring Cooperating Computations",
+            "authors": "Framework for Planning, Executing and Monitoring Cooperating Computations , presentation, poster, 2017 : JAROS, M.; JAROS, J."
+        },
+        {
+            "year": "2017",
+            "title": "Optimization of Fracture Tests Simulation in Civil Engineering",
+            "authors": "Optimization of Fracture Tests Simulation in Civil Engineering , presentation, poster, 2017 : BORDOVSKY, G.; JAROS, J."
+        },
+        {
+            "year": "2017",
+            "title": "Running Large-Scale Ultrasound Simulations on 256 Salomon Nodes",
+            "authors": "Running Large-Scale Ultrasound Simulations on 256 Salomon Nodes , presentation, poster, 2017 : VAVERKA, F.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2017",
+            "title": "Running Large-Scale Ultrasound Simulations on Piz Daint with 512 Pascal GPUs",
+            "authors": "Running Large-Scale Ultrasound Simulations on Piz Daint with 512 Pascal GPUs , presentation, poster, 2017 : VAVERKA, F.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2017",
+            "title": "Single-step Calculation of the Acoustic Field from Arbitrary Continuous-wave Sources",
+            "authors": "Single-step Calculation of the Acoustic Field from Arbitrary Continuous-wave Sources , presentation, poster, 2017 : TREEBY, B.; BUDISKY, J.; WISE, E.; JAROS, J.; COX, B."
+        },
+        {
+            "year": "2016",
+            "title": "Acceleration of Ultrasound Wave Propagation using a Cluster of GPUs",
+            "authors": "Acceleration of Ultrasound Wave Propagation using a Cluster of GPUs , presentation, poster, 2016 : VAVERKA, F.; TREEBY, B.; JAROS, J."
+        },
+        {
+            "year": "2016",
+            "title": "Spectral Domain Decomposition Using Local Fourier Basis: Application to Ultrasound Simulation on a Cluster of GPUs",
+            "authors": "Spectral Domain Decomposition Using Local Fourier Basis: Application to Ultrasound Simulation on a Cluster of GPUs , presentation, poster, 2016 : JAROS, J.; VAVERKA, F.; TREEBY, B."
+        },
+        {
+            "year": "2004",
+            "title": "Architektury a programovani paralelnich systemu",
+            "authors": "Architektury a programovani paralelnich systemu , course reader, 2004 : DVORAK, V."
+        },
+        {
+            "year": "2001",
+            "title": "Integrated Framework and Design Pattern for Coupling a Group of Sensors with Internet",
+            "authors": "Integrated Framework and Design Pattern for Coupling a Group of Sensors with Internet , report, 2001 : SVEDA, M.; VRBA, R.; STRACH, M."
+        },
+        {
+            "year": "1996",
+            "title": "Cislicove a impulsove obvody",
+            "authors": "Cislicove a impulsove obvody , course reader, 1996 : SCHWARZ, J.; DVORAK, V.; BURES, P."
+        }
+    ]
+}

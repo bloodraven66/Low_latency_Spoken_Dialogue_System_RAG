@@ -1,0 +1,19 @@
+{
+    "project": "SV Omilia - Customer-adapted speaker recognition system",
+    "title": "SV Omilia - Customer-adapted speaker recognition system",
+    "metadata": {
+        "project_period": "1. 2. 2025 \u2013 1. 2. 2026",
+        "project_type": "contract",
+        "partner": "Omilia"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Cernocky Jan, prof. Dr. Ing. (DCGM) Mosner Ladislav, Ing., Ph.D. (DCGM)"
+        }
+    }
+}

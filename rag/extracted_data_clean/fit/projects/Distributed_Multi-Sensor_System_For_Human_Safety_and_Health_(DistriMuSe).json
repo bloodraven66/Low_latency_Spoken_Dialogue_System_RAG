@@ -1,0 +1,33 @@
+{
+    "project": "Distributed Multi-Sensor System For Human Safety and Health (DistriMuSe)",
+    "title": "Distributed Multi-Sensor System For Human Safety and Health (DistriMuSe)",
+    "metadata": {
+        "project_period": "1. 5. 2024 \u2013 30. 4. 2027",
+        "project_type": "grant",
+        "code": "9A24005, 101139769/9A24005",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Health and wellbeing monitoring; multimodal sensors; Machine Learning; real-time traffic safety; cooperation of humans with robots"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "ACKNOWLEDGMENT: DistriMuSe is supported by the Chips Joint Undertaking and its members, including the top-up funding by National Authorities under Grant Agreement No 101139769. Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the granting authority. Neither the European Union nor the granting authority can be held responsible for them."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Arm Jakub, doc. Ing., Ph.D. (UAMT) Bastan Ondrej, Ing. (UAMT) Bobcik Petr, Ing. (RG GRAPH) Burget Radim, prof. Ing., Ph.D. (UTKO) Goldschmidt Tobias, Ing. (PVO) Chlibkova Daniela, Mgr., Ph.D. (PVO) Kralik Martin, Ing. (UBMI) Nemcova Andrea, Ing., Ph.D. (UBMI) Reich Borek, Ing. (DCGM) Rosa Martin, Ing. (UTKO) Smisitel Petr, Mgr. (RG-1-02) Smisek Radovan, Ing., Ph.D. (UBMI) Smital Lukas, Ing., Ph.D. (UBMI) Staron Patrik, Ing. (DCGM) Saclova Lucie, Ing., Ph.D. (UBMI) Simunkova Helena, Dr.techn. Ing. (UMEL) Solony Marek, Ing., Ph.D. (DCGM) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- VLNAS, M.; MILET, T.; ZEMCIK, P. Low-error Reconstruction of Directional Functions with Spherical Harmonics. IEEE transactions on visualization and computer graphics, 2025, vol. 31, no. 10, p. 8413-8424. ISSN: 1077-2626. Detail"
+        }
+    }
+}

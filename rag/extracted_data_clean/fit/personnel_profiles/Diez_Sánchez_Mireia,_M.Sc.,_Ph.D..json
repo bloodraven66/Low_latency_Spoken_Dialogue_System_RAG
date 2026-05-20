@@ -1,0 +1,224 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Employee Off-record",
+        "details": {
+            "e_mail": "mireia@fit.vut.cz",
+            "work_phone": "+420 54114 1289",
+            "room": "L226 Office",
+            "orcid_id": "0000-0001-7894-8377",
+            "scopus_author_id": "42261251900"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Speech Data Mining Research Group BUT Speech@FIT",
+            "role": "Researcher"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2019"
+        ]
+    },
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "BAYa",
+                "title": "Bayesian Models for Machine Learning (in English)",
+                "details": "Lecture, Project, Seminar,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "Linguistics, Artificial Intelligence and Language and Speech Technologies: from Research to Applications",
+            "details": "EU, MEZISEKTOROVA SPOLUPRACE, EH23_020/0008518, start: 2025-01-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Speech enhancement front-end for robust automatic speech recognition with large amount of training data",
+            "details": "NTT, start: 2023-01-02, end: 2024-01-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "HumanE AI Network",
+            "details": "EU, Horizon 2020, start: 2020-09-01, end: 2024-08-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Robust processing of recordings for operations and security",
+            "details": "MV, PROGRAM STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1)\nPODPROGRAMU 1\nSPOLECNE VYZKUMNE PROJEKTY (BV IMP1/1VS), VJ01010108, start: 2020-10-01, end: 2025-09-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Ericsson - Speaker Change Point Detection (SCPD) in media content",
+            "details": "Ericsson, start: 2018-04-02, end: 2019-09-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "IARPA Machine Translation for English Retrieval of Information in Any Language (MATERIAL) - Foreign Language Automated Information Retrieval (FLAIR)",
+            "details": "IARPA, start: 2017-09-21, end: 2021-10-22, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Robust SPEAKER DIariazation systems using Bayesian inferenCE and deep learning methods",
+            "details": "EU, Horizon 2020, start: 2017-03-01, end: 2019-02-28, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "HAN, J.; LANDINI, F.; ROHDIN, J.; SILNOVA, A.; DIEZ SANCHEZ, M.; BURGET, L. Leveraging Self-Supervised Learning for Speaker Diarization. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1."
+        },
+        {
+            "year": "2025",
+            "citation": "HAN, J.; LANDINI, F.; ROHDIN, J.; SILNOVA, A.; DIEZ, M.; CERNOCKY, J.; BURGET, L. Fine-tune Before Structured Pruning: Towards Compact and Accurate Self-Supervised Models for Speaker Diarization. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1583-1587."
+        },
+        {
+            "year": "2025",
+            "citation": "PALKA, P.; LANDINI, F.; KLEMENT, D.; DIEZ SANCHEZ, M.; SILNOVA, A.; BURGET, L.; DELCROIX, M. Joint Training of Speaker Embedding Extractor, Speech and Overlap Detection for Diarization. Proceedings of 33rd European Signal Processing Conference (EUSIPCO 2025). Palermo: IEEE Signal Processing Society, 2025. p. 31-35. ISBN: 978-9-46-459362-4."
+        },
+        {
+            "year": "2024",
+            "citation": "HAN, J.; LANDINI, F.; ROHDIN, J.; DIEZ SANCHEZ, M.; BURGET, L.; CAO, Y.; LU, H.; CERNOCKY, J. Diacorrect: Error Correction Back-End for Speaker Diarization. In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Seoul: IEEE Signal Processing Society, 2024. p. 11181-11185. ISBN: 979-8-3503-4485-1."
+        },
+        {
+            "year": "2024",
+            "citation": "KLEMENT, D.; DIEZ SANCHEZ, M.; LANDINI, F.; BURGET, L.; SILNOVA, A.; DELCROIX, M.; TAWARA, N. Discriminative Training of VBx Diarization. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Seoul: IEEE Signal Processing Society, 2024. p. 11871-11875. ISBN: 979-8-3503-4485-1."
+        },
+        {
+            "year": "2024",
+            "citation": "LANDINI, F.; DIEZ SANCHEZ, M.; STAFYLAKIS, T.; BURGET, L. DiaPer: End-to-End Neural Diarization With Perceiver-Based Attractors. IEEE Transactions on Audio, Speech, and Language Processing, 2024, vol. 32, no. 7, p. 3450-3465. ISSN: 1558-7916."
+        },
+        {
+            "year": "2024",
+            "citation": "ZHANG, L.; STAFYLAKIS, T.; LANDINI, F.; DIEZ SANCHEZ, M.; SILNOVA, A.; BURGET, L. Do End-to-End Neural Diarization Attractors Need to Encode Speaker Characteristic Information?. Proceedings of Odyssey 2024: The Speaker and Language Recognition Workshop. Quebec City: International Speech Communication Association, 2024. p. 123-130."
+        },
+        {
+            "year": "2024",
+            "citation": "ZHANG, L.; WANG, X.; COOPER, E.; DIEZ SANCHEZ, M.; LANDINI, F.; EVANS, N.; YAMAGISHI, J. Spoof Diarization: \"What Spoofed When\" in Partially Spoofed Audio. In Proceedings of Interspeech 2024. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 502-506. ISSN: 1990-9772."
+        },
+        {
+            "year": "2023",
+            "citation": "DELCROIX, M.; TAWARA, N.; DIEZ SANCHEZ, M.; LANDINI, F.; SILNOVA, A.; OGAWA, A.; NAKATANI, T.; BURGET, L.; ARAKI, S. Multi-Stream Extension of Variational Bayesian HMM Clustering (MS-VBx) for Combined End-to-End and Vector Clustering-based Diarization. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Dublin: International Speech Communication Association, 2023. no. 08, p. 3477-3481. ISSN: 1990-9772."
+        },
+        {
+            "year": "2023",
+            "citation": "LANDINI, F.; DIEZ SANCHEZ, M.; LOZANO DIEZ, A.; BURGET, L. Multi-Speaker and Wide-Band Simulated Conversations as Training Data for End-to-End Neural Diarization. In Proceedings of ICASSP 2023. Rhodes Island: IEEE Signal Processing Society, 2023. p. 1-5. ISBN: 978-1-7281-6327-7."
+        },
+        {
+            "year": "2022",
+            "citation": "BASKAR, M.; HERZIG, T.; NGUYEN, D.; DIEZ SANCHEZ, M.; POLZEHL, T.; BURGET, L.; CERNOCKY, J. Speaker adaptation for Wav2vec2 based dysarthric ASR. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 3403-3407. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "KOCOUR, M.; UMESH, J.; KARAFIAT, M.; SVEC, J.; LOPEZ, F.; BENES, K.; DIEZ SANCHEZ, M.; SZOKE, I.; LUQUE, J.; VESELY, K.; BURGET, L.; CERNOCKY, J. BCN2BRNO: ASR System Fusion for Albayzin 2022 Speech to Text Challenge. Proceedings of IberSpeech 2022. Granada: International Speech Communication Association, 2022. p. 276-280."
+        },
+        {
+            "year": "2022",
+            "citation": "LANDINI, F.; LOZANO DIEZ, A.; DIEZ SANCHEZ, M.; BURGET, L. From Simulated Mixtures to Simulated Conversations as Training Data for End-to-End Neural Diarization. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 5095-5099. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "LANDINI, F.; PROFANT, J.; DIEZ SANCHEZ, M.; BURGET, L. Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: Theory, implementation and analysis on standard tasks. COMPUTER SPEECH AND LANGUAGE, 2022, vol. 71, no. 101254, p. 1-16. ISSN: 0885-2308."
+        },
+        {
+            "year": "2021",
+            "citation": "LANDINI, F.; GLEMBEK, O.; MATEJKA, P.; ROHDIN, J.; BURGET, L.; DIEZ SANCHEZ, M.; SILNOVA, A. Analysis of the BUT Diarization System for Voxconverse Challenge. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 5819-5823. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2021",
+            "citation": "LANDINI, F.; LOZANO DIEZ, A.; BURGET, L.; DIEZ SANCHEZ, M.; SILNOVA, A.; ZMOLIKOVA, K.; GLEMBEK, O.; MATEJKA, P.; STAFYLAKIS, T.; BRUMMER, J. BUT System Description for The Third DIHARD Speech Diarization Challenge. Proceedings available at Dihard Challenge Github. on-line by LDC and University of Pennsylvania: 2021. p. 1-5."
+        },
+        {
+            "year": "2020",
+            "citation": "ALAM, J.; BOULIANNE, G.; BURGET, L.; DAHMANE, M.; DIEZ SANCHEZ, M.; GLEMBEK, O.; LALONDE, M.; LOZANO DIEZ, A.; MATEJKA, P.; MIZERA, P.; MOSNER, L.; NOISEUX, C.; MONTEIRO, J.; NOVOTNY, O.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; SLAVICEK, J.; STAFYLAKIS, T.; ST-CHARLES, P.; WANG, S.; ZEINALI, H. Analysis of ABC Submission to NIST SRE 2019 CMN and VAST Challenge. Proceedings of Odyssey 2020 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Tokyo: International Speech Communication Association, 2020. no. 11, p. 289-295. ISSN: 2312-2846."
+        },
+        {
+            "year": "2020",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; LANDINI, F.; CERNOCKY, J. Analysis of Speaker Diarization based on Bayesian HMM with Eigenvoice Priors. IEEE-ACM Transactions on Audio Speech and Language Processing, 2020, vol. 28, no. 1, p. 355-368. ISSN: 2329-9290."
+        },
+        {
+            "year": "2020",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; LANDINI, F.; WANG, S.; CERNOCKY, J. Optimizing Bayesian Hmm Based X-Vector Clustering for the Second Dihard Speech Diarization Challenge. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Barcelona: IEEE Signal Processing Society, 2020. p. 6519-6523. ISBN: 978-1-5090-6631-5."
+        },
+        {
+            "year": "2020",
+            "citation": "LANDINI, F.; WANG, S.; DIEZ SANCHEZ, M.; BURGET, L.; MATEJKA, P.; ZMOLIKOVA, K.; MOSNER, L.; SILNOVA, A.; PLCHOT, O.; NOVOTNY, O.; ZEINALI, H.; ROHDIN, J. But System for the Second Dihard Speech Diarization Challenge. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Barcelona: IEEE Signal Processing Society, 2020. p. 6529-6533. ISBN: 978-1-5090-6631-5."
+        },
+        {
+            "year": "2020",
+            "citation": "MATEJKA, P.; PLCHOT, O.; GLEMBEK, O.; BURGET, L.; ROHDIN, J.; ZEINALI, H.; MOSNER, L.; SILNOVA, A.; NOVOTNY, O.; DIEZ SANCHEZ, M.; CERNOCKY, J. 13 years of speaker recognition research at BUT, with longitudinal analysis of NIST SRE. COMPUTER SPEECH AND LANGUAGE, 2020, vol. 2020, no. 63, p. 1-15. ISSN: 0885-2308."
+        },
+        {
+            "year": "2020",
+            "citation": "ROHDIN, J.; SILNOVA, A.; DIEZ SANCHEZ, M.; PLCHOT, O.; MATEJKA, P.; BURGET, L.; GLEMBEK, O. End-to-end DNN based text-independent speaker recognition for long and short utterances. COMPUTER SPEECH AND LANGUAGE, 2020, vol. 2020, no. 59, p. 22-35. ISSN: 0885-2308."
+        },
+        {
+            "year": "2019",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; WANG, S.; ROHDIN, J.; CERNOCKY, J. Bayesian HMM based x-vector clustering for Speaker Diarization. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 346-350. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "ALAM, J.; BHATTACHARYA, G.; BRUMMER, J.; BURGET, L.; DIEZ SANCHEZ, M.; GLEMBEK, O.; KENNY, P.; KLCO, M.; LANDINI, F.; LOZANO DIEZ, A.; MATEJKA, P.; MONTEIRO, J.; MOSNER, L.; NOVOTNY, O.; PLCHOT, O.; PROFANT, J.; ROHDIN, J.; SILNOVA, A.; SLAVICEK, J.; STAFYLAKIS, T.; ZEINALI, H. ABC NIST SRE 2018 SYSTEM DESCRIPTION. Proceedings of 2018 NIST SRE Workshop. Athens: National Institute of Standards and Technology, 2018. p. 1-10."
+        },
+        {
+            "year": "2018",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; MATEJKA, P. Speaker Diarization based on Bayesian HMM with Eigenvoice Priors. In Proceedings of Odyssey 2018. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Les Sables d Olonne: International Speech Communication Association, 2018. no. 6, p. 147-154. ISSN: 2312-2846."
+        },
+        {
+            "year": "2018",
+            "citation": "DIEZ SANCHEZ, M.; LANDINI, F.; BURGET, L.; ROHDIN, J.; SILNOVA, A.; ZMOLIKOVA, K.; NOVOTNY, O.; VESELY, K.; GLEMBEK, O.; PLCHOT, O.; MOSNER, L.; MATEJKA, P. BUT system for DIHARD Speech Diarization Challenge 2018. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 2798-2802. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "PLCHOT, O.; MATEJKA, P.; NOVOTNY, O.; CUMANI, S.; LOZANO DIEZ, A.; SLAVICEK, J.; DIEZ SANCHEZ, M.; GREZL, F.; GLEMBEK, O.; KAMSALI VEERA, M.; SILNOVA, A.; BURGET, L.; ONDEL YANG, L.; KESIRAJU, S.; ROHDIN, J. Analysis of BUT-PT Submission for NIST LRE 2017. In Proceedings of Odyssey 2018 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Les Sables d'Olonne: International Speech Communication Association, 2018. no. 6, p. 47-53. ISSN: 2312-2846."
+        },
+        {
+            "year": "2018",
+            "citation": "ROHDIN, J.; SILNOVA, A.; DIEZ SANCHEZ, M.; PLCHOT, O.; MATEJKA, P.; BURGET, L. End-to-End DNN Based Speaker Recognition Inspired by i-Vector and PLDA. In Proceedings of ICASSP. Calgary: IEEE Signal Processing Society, 2018. p. 4874-4878. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2017",
+            "citation": "MATEJKA, P.; NOVOTNY, O.; PLCHOT, O.; BURGET, L.; DIEZ SANCHEZ, M.; CERNOCKY, J. Analysis of Score Normalization in Multilingual Speaker Recognition. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 1567-1571. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "MATEJKA, P.; PLCHOT, O.; NOVOTNY, O.; CUMANI, S.; LOZANO DIEZ, A.; SLAVICEK, J.; DIEZ SANCHEZ, M.; GREZL, F.; GLEMBEK, O.; KAMSALI VEERA, M.; SILNOVA, A.; BURGET, L.; ONDEL YANG, L.; KESIRAJU, S.; ROHDIN, J. BUT- PT System Description for NIST LRE 2017. Proceedings of NIST Language Recognition Workshop 2017. Orlando, Florida: National Institute of Standards and Technology, 2017. p. 1-6."
+        },
+        {
+            "year": "2017",
+            "citation": "PLCHOT, O.; MATEJKA, P.; SILNOVA, A.; NOVOTNY, O.; DIEZ SANCHEZ, M.; ROHDIN, J.; GLEMBEK, O.; BRUMMER, N.; SWART, A.; PRIETO, J.; GARCIA PERERA, L.; BUERA, L.; KENNY, P.; ALAM, J.; BHATTACHARYA, G. Analysis and Description of ABC Submission to NIST SRE 2016. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 1348-1352. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "VESELY, K.; BASKAR, M.; DIEZ SANCHEZ, M.; BENES, K. MGB-3 but system: Low-resource ASR on Egyptian YouTube data. In Proceedings of ASRU 2017. Okinawa: IEEE Signal Processing Society, 2017. p. 368-373. ISBN: 978-1-5090-4788-8."
+        },
+        {
+            "year": "2014",
+            "citation": "PLCHOT, O.; DIEZ SANCHEZ, M.; SOUFIFAR, M.; BURGET, L. PLLR Features in Language Recognition System for RATS. In Proceedings of Interspeech 2014. Singapore: International Speech Communication Association, 2014. p. 3048-3051. ISBN: 978-1-63439-435-2."
+        },
+        {
+            "year": "2013",
+            "citation": "KHOURY, E.; VESNICER, B.; FRANCO-PEDROSO, J.; DIEZ SANCHEZ, M.; CIPR, T.; SCHWARZ, P.; VAN LEEUWEN, D.; PETROVSKA-DELACRETAZ, D.; MATEJKA, P.; RODRIGUEZ-FUENTES, L.; CHOLLET, G.; MARCEL, S. The 2013 Speaker Recognition Evaluation in Mobile Environment. Proceedings of Biometrics (ICB), 2013 International Conference on. Madrid: IEEE Biometric Council, 2013. p. 1-8. ISBN: 978-1-4799-0310-8."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2016",
+            "title": "ABC NIST SRE 2016 SYSTEM DESCRIPTION",
+            "metadata": "report, 2016",
+            "authors": "BRUMMER, J.; SWART, A.; PRIETO, J.; GARCIA PERERA, L.; MATEJKA, P.; PLCHOT, O.; DIEZ SANCHEZ, M.; SILNOVA, A.; JIANG, X.; NOVOTNY, O.; ROHDIN, J.; GLEMBEK, O.; GREZL, F.; BURGET, L.; ONDEL YANG, L.; PESAN, J.; CERNOCKY, J.; KENNY, P.; ALAM, J.; BHATTACHARYA, G.; ZEINALI, H."
+        }
+    ],
+    "name": "Diez Sanchez Mireia, M.Sc., Ph.D."
+}

@@ -1,0 +1,37 @@
+{
+    "project": "SIMLIB - simulacni knihovna pro C++",
+    "title": "SIMLIB - simulacni knihovna pro C++",
+    "metadata": {
+        "project_period": "8. 11. 1991 \u2013 31. 12. 2029",
+        "project_type": "grant",
+        "code": "FIT-SIMLIB",
+        "agency": "Brno University of Technology",
+        "program": "Institucionalni podpora na rozvoj vyzkumne organizace"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "SIMLIB - simulacni knihovna pro C++"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "simulation tools, combined simulation, multimodels"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "SIMLIB/C++ is the SIMulation LIBrary for C++ programming language. You can create models directly in C++ language with the use of predefined simulation tools from the library. SIMLIB allows object-oriented description of models based on simulation abstractions. Current version allows a description of continuous, discrete, combined, 2D/3D vector, and fuzzy models. The library works with GNU C++ compiler under Linux (primary development platform), FreeBSD, and MS Windows (all platforms on i386+). The library is portable with one exception -- process switching code depends on setjmp/longjmp and some lines of assembly language. SIMLIB/C++ is developed at the Faculty of Information Technology, Brno University of Technology. The development started in 1991. License: LGPL."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Peringer Petr, Dr. Ing. (DITS) \u2013 research leader Martinek David, Ing. (UIFS)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- PERINGER, P. New Calendar Implementation for SIMLIB/C++. Proceedings of ASIS 2008. Ostrava: Marq software s.r.o., 2008. s. 166-169. ISBN: 978-80-86840-42-0. Detail\n- PERINGER, P. Porting SIMLIB/C++ to 64-bit Platform. Proceedings of XXIXth International Autumn Colloquium ASIS 2007. Ostrava: Marq software s.r.o., 2007. p. 155-160. ISBN: 978-80-86840-34-5. Detail\n- FLORIAN, V.; PERINGER, P. System pro 3D vizualizaci vysledku simulace. Proceedings of XXV-th International Autumn Colloquium ASIS 2003. Ostrava: Marq software s.r.o., 2003. s. 999-1002. ISBN: 80-85988-88-7. Detail MARTINEK, D.; PERINGER, P. Parallel modelling in FuzzySIMLIB/C++. Proceedings of 37th International Conference MOSIS 03 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2003. p. 157-164. ISBN: 80-85988-86-0. Detail\n- MARTINEK, D.; PERINGER, P. Parallel modelling in FuzzySIMLIB/C++. Proceedings of 37th International Conference MOSIS 03 Modelling and Simulation of Systems. Ostrava: Marq software s.r.o., 2003. p. 157-164. ISBN: 80-85988-86-0. Detail\n- PERINGER, P. New design and implementation concepts for SIMLIB/C++. Proceedings of XXIVth International Autumn Colloquium ASIS 2002. Ostrava: Marq software s.r.o., 2002. p. 201-204. ISBN: 80-85988-77-1. Detail\n- MARTINEK, D.; PERINGER, P. Graphical Fuzzy Sets Editor. Proceedings of 23rd International Autumn Colloquium ASIS 2001. Ostrava: Marq software s.r.o., 2001. p. 143-146. ISBN: 80-85988-61-5. Detail\n- PERINGER, P. Tools for Simulation Model Optimization. Proceedings of 22nd International Autumn Workshop ASIS 2000. Sv. Hostyn: Marq software s.r.o., 2000. p. 195-198. ISBN: 80-85988-51-8. Detail\n- PERINGER, P. Design and Implementation of Fuzzy Extension to SIMLIB/C++. Proceedings of ASIS'99. Krnov: Marq software s.r.o., 1999. p. 209-212. ISBN: 80-85988-41-0. Detail SCHWARZ, J.; PERINGER, P. Simulation Model of the Traffic Light Crossing with Fuzzy Control. Proceedings of MOSIS'99. Roznov: Marq software s.r.o., 1999. p. 99-106. ISBN: 80-85988-33-X. Detail\n- SCHWARZ, J.; PERINGER, P. Simulation Model of the Traffic Light Crossing with Fuzzy Control. Proceedings of MOSIS'99. Roznov: Marq software s.r.o., 1999. p. 99-106. ISBN: 80-85988-33-X. Detail\n- PERINGER, P. Models of Delay in SIMLIB/C++. Proceedings of ASIS'98. Krnov, Czech Republic: Marq software s.r.o., 1998. p. 51-54. ISBN: 80-85988-27-5. Detail\n- PERINGER, P. Tools for continuous Simulation in 3D space. Proceedings of ASIS'97. Krnov, Czech Republic: Marq software s.r.o., 1997. p. 327-330. ISBN: 80-85988-17-8. Detail\n- PERINGER, P. Basic Abstractions for Object-Oriented Model Description. Proceedings of MOSIS'94. Zabreh na Morave: Marq software s.r.o., 1994. p. 274-277. ISBN: 80-901229-8-1. Detail\n- PERINGER, P. Object-Oriented Description of Continuous Systems. Proceedings of 5th International Symposium MOSIS'93. Olomouc: Marq software s.r.o., 1993. p. 83-87. Detail\n- PERINGER, P. Object-Oriented Simulation Library in C++. Proceedings of System Science XI. Wroclaw (Poland): unknown, 1992. p. 121-121. ISBN: 83-7085-023-5. Detail"
+        }
+    }
+}

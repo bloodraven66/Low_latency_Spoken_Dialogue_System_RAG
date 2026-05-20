@@ -1,0 +1,510 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "spanel@fit.vut.cz",
+            "work_phone": "+420 54114 1294",
+            "room": "L225 Office",
+            "researcher_id": "G-9639-2016",
+            "orcid_id": "0000-0003-0193-684X",
+            "scopus_author_id": "22836945200"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Advanced instrumentation and methods for material characterization",
+            "role": "Technical administration officer"
+        },
+        {
+            "organization": "Computer Graphics Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Robotic research group Robo@FIT",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "doc., Computer Science and Engineering, FIT BUT, 2024",
+            "Ph.D., Information Technology, FIT BUT, 2011",
+            "Msc., Computer Science and Engineering, FIT BUT, 2003"
+        ],
+        "career_overview": [
+            "2024- Associate professor at DCGM FIT, Brno University of Technology",
+            "2020-2025 Head of R&D SW Development, TESCAN 3DIM, s.r.o.",
+            "2017-2020 General Manager, TESCAN 3DIM, s.r.o.",
+            "2011-2024 Assistant professor at DCGM FIT, Brno University of Technology",
+            "2008-2017 Co-founder & Head of Software Development, 3Dim Laboratory s.r.o.",
+            "2003-2011 Assistant lecturer at DCGM FIT, Brno University of Technology",
+            "2003-2005 HW Programmer, HEXAGON Systems, s.r.o. (Design and development of a control loading system for the L-139 aircraft simulator)",
+            "2001-2003 HW Programmer, Virtual Reality Media, s.r.o., later VR Simulators, s.r.o. (Design of a communication interface between HW and SW modules of the L-159 aircraft full mission flight simulator)"
+        ],
+        "scientific_activities": [
+            "Image processing and machine vision - 2D/3D image segmentation, deep learning and neural networks, object detection and recognition, 3D shape analysis and 3D reconstruction.",
+            "3D data visualization and processing - 3D images, point clouds, 3D meshes, etc.",
+            "3D geometry processing"
+        ],
+        "awards": [
+            "A good position in the 7th year of the AFCEA student s competition for the best work in the area of information and communication systems 2003"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Thursday, 15:00-17:00 , B/L225 (Bozetechova 1/2, Brno 61200) In person or online on MS Teams - write me a message for a link to the online reservation of consultation blocks! Appointments at another dates (and during the summer holidays) can be arranged by email.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "VGE",
+                "title": "Computational Geometry",
+                "details": "Czech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IZG",
+                "title": "Computer Graphics Principles",
+                "details": "Czech, English, summer",
+                "department": "DCGM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "IZG",
+                "title": "Computer Graphics Principles",
+                "details": "Exercise in computer lab, Lecture,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "POVa",
+                "title": "Computer Vision (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "VGE",
+                "title": "Computational Geometry",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ZPO",
+                "title": "Image Processing",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ZPOe",
+                "title": "Image Processing (in English)",
+                "details": "Lecture,\nEnglish, summer",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "Tescan Group - Vyzkum a vyvoj new techniques for representing and reconstructing 3D image data from 2D projections",
+            "details": "TESCAN GROUP, a.s., start: 2026-03-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "TESCAN 3DIM - Application of Novel Techniques for Representation and Reconstruction of Image Data",
+            "details": "TESCAN 3DIM, start: 2025-08-01, end: 2025-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "TESCAN 3DIM - New Trends in Image and 3D Data Analysis",
+            "details": "TESCAN 3DIM, start: 2025-02-01, end: 2025-08-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Optimalizace navrhu vykonovych transformatoru s vyuzitim algoritmu simulovaneho zihani",
+            "details": "BUT, Vnitrni projekty VUT, FEKT/FIT-J-24-8611, start: 2024-03-01, end: 2025-02-28, running"
+        },
+        {
+            "year": "2024",
+            "title": "TESCAN 3DIM - Automating image and 3D data processing using deep learning",
+            "details": "TESCAN 3DIM, start: 2024-01-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Long Life Power Platforms for Internet of Things",
+            "details": "MSMT, Chips Joint Undertaking, 9A23012, start: 2023-06-01, end: 2026-05-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2021",
+            "title": "AI-augmented automation for efficient DevOps, a model-based framework for continuous development At RunTime in cyber-physical systems",
+            "details": "EU, Horizon 2020, 8A21015, 101007350, start: 2021-04-01, end: 2024-03-31, running"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "TESCAN 3DIM - Deep learning methods for 3D data analysis",
+            "details": "TESCAN 3DIM, start: 2020-01-01, end: 2021-06-30, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Framework of key enabling technologies for safe and autonomous drones  applications",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A19003, start: 2019-10-01, end: 2023-01-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Improvements of the precision for mobile 3D mapping system",
+            "details": "GEODROM, start: 2019-06-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "TESCAN 3DIM - Deep learning methods for 3D image processing",
+            "details": "TESCAN 3DIM, start: 2019-01-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Computer-Aided Analysis and Prediction of the Child Growth and Development",
+            "details": "TACR, Program na podporu aplikovaneho spolecenskovedniho a humanitniho vyzkumu, experimentalniho vyvoje a inovaci ETA., TL01000394, start: 2018-05-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Experimental Verification of Portable 3D Mapping System Features",
+            "details": "GEODROM, start: 2018-10-01, end: 2019-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "TESCAN 3DIM - Analysis of Modern Trends and State of the Art Methods for 3D Data Processing",
+            "details": "TESCAN 3DIM, start: 2018-01-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Geodrom - Analysis of Software Tools for 3D Data Processing",
+            "details": "GEODROM, start: 2017-01-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Transfer of knowledge in the field of 3D reconstruction and 3D mapping",
+            "details": "EU, OP PIK - Partnerstvi znalostniho transferu, start: 2017-01-01, end: 2018-09-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3984, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Improvements of Change Detection in Point Cloud Data and Visualization of the Changes by Incorporating Semantic Information",
+            "details": "MSMT, AKTION Ceska republika - Rakousko, AKTION, start: 2015-08-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Reconfigurable ROS-based Resilient Reasoning Robotic Cooperating Systems",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H14003, start: 2014-02-01, end: 2017-01-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Support of Teaching of Stereometry in Image Processing",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR475/2012/G1, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "V3C - Visual Computing Competence Center",
+            "details": "TACR, Centra kompetence, TE01020415, start: 2012-05-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-2, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "SRS - Multi-Role Shadow Robotic System for Independent Living",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, 7E12056, start: 2011-09-01, end: 2013-04-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-2, 2010, start: 2010-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Network application server for medical image data",
+            "details": "200/2006, start: 2006-10-01, end: 2008-02-28, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Virtual technical/medical laboratory for 3D human tissues modeling",
+            "details": "161/2005, start: 2006-01-02, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Image segmentation techniques for reconstruction of 3D models of objects from image",
+            "details": "FR59/2005/G1, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Augmented Multi-party Interaction",
+            "details": "EU, Sixth Framework programme, 506811-AMI, start: 2004-01-01, end: 2006-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "KUBIK, T.; GUIBAULT, F.; SPANEL, M.; LOMBAERT, H. ToothForge: Automatic Dental Shape Generation using Synchronized Spectral Embeddings. In Proceedings of Information Processing in Medical Imaging 2025. Lecture Notes in Computer Science. Kos: Springer Science and Business Media Deutschland GmbH, 2025. p. 313-326. ISBN: 9783031966248."
+        },
+        {
+            "year": "2025",
+            "citation": "SILLING, P.; SPANEL, M. DEMIS: Electron Microscopy Image Stitching using Deep Learning Features and Global Optimisation. Proceedings of the 18th International Joint Conference on Biomedical Engineering Systems and Technologies - BIOIMAGING. Porto: Institute for Systems and Technologies of Information, Control and Communication, 2025. p. 255-256. ISBN: 978-989-758-731-3."
+        },
+        {
+            "year": "2024",
+            "citation": "KUBIK, T.; SPANEL, M. LMVSegRNN and Poseidon3D: Addressing Challenging Teeth Segmentation Cases in 3D Dental Surface Orthodontic Scans. Bioengineering-Basel, 2024, vol. 11, no. 10, p. 1-18. ISSN: 2306-5354."
+        },
+        {
+            "year": "2023",
+            "citation": "LI, J.; ELLIS, D.; KODYM, O.; HEROUT, A.; SPANEL, M.; EGGER, J. Towards clinical applicability and computational efficiency in automatic cranial implant design: An overview of the AutoImplant 2021 cranial implant design challenge. MEDICAL IMAGE ANALYSIS, 2023, vol. 88, no. 102865, p. 1-15. ISSN: 1361-8423."
+        },
+        {
+            "year": "2022",
+            "citation": "KUBIK, T.; SPANEL, M. Robust Teeth Detection in 3D Dental Scans by Automated Multi-View Landmarking. In 15th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2022). Vienna: Institute for Systems and Technologies of Information, Control and Communication, 2022. p. 24-34. ISBN: 978-989-758-552-4."
+        },
+        {
+            "year": "2021",
+            "citation": "HEROUT, A.; KODYM, O.; SPANEL, M. AutoImplant 2020-First MICCAI Challenge on Automatic Cranial Implant Design. IEEE TRANSACTIONS ON MEDICAL IMAGING, 2021, vol. 40, no. 9, p. 2329-2342. ISSN: 0278-0062."
+        },
+        {
+            "year": "2021",
+            "citation": "KODYM, O.; LI, J.; PEPE, A.; GSAXNER, C.; EGGER, J.; SPANEL, M. SkullBreak/SkullFix - Dataset for automatic cranial implant design and a benchmark for volumetric shape learning tasks. Data in Brief, 2021, vol. 35, no. 106902, p. 1-7. ISSN: 2352-3409."
+        },
+        {
+            "year": "2021",
+            "citation": "KODYM, O.; SPANEL, M.; HEROUT, A. Deep Learning for Cranioplasty in Clinical Practice: Going from Synthetic to Real Patient Data. Computers in Biology and Medicine, 2021, vol. 137, no. 104766, p. 1-10. ISSN: 0010-4825."
+        },
+        {
+            "year": "2021",
+            "citation": "KODYM, O.; SPANEL, M.; HEROUT, A. Segmentation of Defective Skulls from CT Data for Tissue Modelling. In Towards the Automatization of Cranial Implant Design in Cranioplasty II. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Strasbourg: Springer Nature Switzerland AG, 2021. no. 13123, p. 19-28. ISBN: 978-3-030-92652-6. ISSN: 0302-9743."
+        },
+        {
+            "year": "2021",
+            "citation": "KRALIK, M.; KLIMA, O.; CUTA, M.; MALINA, R.; KOZIEL, S.; POLCEROVA, L.; SKULTETYOVA, A.; SPANEL, M.; KUKLA, L.; ZEMCIK, P. Estimating Growth in Height from Limited Longitudinal Growth Data Using Full-Curves Training Dataset: A Comparison of Two Procedures of Curve Optimization-Functional Principal Component Analysis and SITAR. Children-Basel, 2021, vol. 8, no. 10, p. 934-955. ISSN: 2227-9067."
+        },
+        {
+            "year": "2020",
+            "citation": "KODYM, O.; SPANEL, M.; HEROUT, A. Cranial Defect Reconstruction Using Cascaded CNN with Alignment. In Towards the Automatization of Cranial Implant Design in Cranioplasty. Lecture Notes in Computer Science. Lima: Springer Nature Switzerland AG, 2020. p. 56-64. ISBN: 978-3-030-64326-3."
+        },
+        {
+            "year": "2020",
+            "citation": "KODYM, O.; SPANEL, M.; HEROUT, A. Skull Shape Reconstruction Using Cascaded Convolutional Networks. Computers in Biology and Medicine, 2020, vol. 123, no. 103886, p. 1-9. ISSN: 0010-4825."
+        },
+        {
+            "year": "2019",
+            "citation": "VELAS, M.; SPANEL, M.; HEROUT, A. Indoor and Outdoor Backpack Mapping with Calibrated Pair of Velodyne LiDARs. SENSORS, 2019, vol. 19, no. 18, p. 1-34. ISSN: 1424-8220."
+        },
+        {
+            "year": "2018",
+            "citation": "KLIMA, O.; MADEJA, R.; SPANEL, M.; CUTA, M.; ZEMCIK, P.; STOKLASEK, P.; MIZERA, A. Virtual 2D-3D Fracture Reduction with Bone Length Recovery Using Statistical Shape Models. In ShapeMI MICCAI 2018: Workshop on Shape in Medical Imaging Proceedings. Lecture Notes in Computer Science. LNCS. Granada: Springer International Publishing, 2018. no. 11167, p. 207-219. ISBN: 978-3-030-04746-7. ISSN: 0302-9743."
+        },
+        {
+            "year": "2018",
+            "citation": "KLIMA, O.; NOVOBILSKY, P.; MADEJA, R.; BARINA, D.; CHROMY, A.; SPANEL, M.; ZEMCIK, P. Intensity-Based Nonoverlapping Area Registration Supporting \"drop-Outs\" in Terms of Model-Based Radiostereometric Analysis. multi science- Journal of Healthcare Engineering, 2018, vol. 2018, no. 1, p. 1-10. ISSN: 2040-2295."
+        },
+        {
+            "year": "2018",
+            "citation": "KODYM, O.; SPANEL, M. Semi-automatic ct image segmentation using random forests learned from partial annotations. In Proceedings of the 11th International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 2: BIOIMAGING. Funchal: Institute for Systems and Technologies of Information, Control and Communication, 2018. p. 124-131. ISBN: 978-989-758-278-3."
+        },
+        {
+            "year": "2018",
+            "citation": "KODYM, O.; SPANEL, M.; HEROUT, A. Segmentation of Head and Neck Organs at Risk Using CNN with Batch Dice Loss. In Pattern Recognition, 40th German Conference, GCPR 2018 Proceedings. Lecture Notes in Computer Science. LNCS, volume 11269. Stuttgart: Springer International Publishing, 2018. no. 11269, p. 105-114. ISBN: 978-3-030-12938-5. ISSN: 0302-9743."
+        },
+        {
+            "year": "2018",
+            "citation": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A. CNN for IMU Assisted Odometry Estimation using Velodyne LiDAR. In IEEE International Conference on Autonomous Robot Systems and Competitions. IEEE International Conference on Autonomous Robot Systems and Competitions. Torres Vedras: Institute of Electrical and Electronics Engineers, 2018. no. 4, p. 71-77. ISBN: 978-1-5386-5221-3. ISSN: 2573-9387."
+        },
+        {
+            "year": "2018",
+            "citation": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A. CNN for Very Fast Ground Segmentation in Velodyne LiDAR Data. In IEEE International Conference on Autonomous Robot Systems and Competitions. Torres Vedras: Institute of Electrical and Electronics Engineers, 2018. p. 97-103. ISBN: 978-1-5386-5221-3."
+        },
+        {
+            "year": "2017",
+            "citation": "KLIMA, O.; CHROMY, A.; KLEPARNIK, P.; SPANEL, M.; ZEMCIK, P. Model-based Radiostereometric Analysis Using Intensity-based 2D/3D Registration Pipeline: Feasibility Study. Conference Materials and Posters of Spring Conference on Computer Graphics SCCG 2017. Proceeding of Spring Conference on Computer Graphics. Mikulov: Brno University of Technology, 2017. no. 5, p. 31-33. ISSN: 1335-5694."
+        },
+        {
+            "year": "2017",
+            "citation": "MATERNA, Z.; SPANEL, M.; MAST, M.; BERAN, V.; WEISSHARDT, F.; BURMESTER, M.; SMRZ, P. Teleoperating Assistive Robots: A Novel User Interface Relying on Semi-Autonomy and 3D Environment Mapping. Journal of Robotics and Mechatronics, 2017, vol. 29, no. 2, p. 381-394. ISSN: 0915-3942."
+        },
+        {
+            "year": "2016",
+            "citation": "KLIMA O, KLEPARNIK P, SPANEL M, ZEMCIK P. Towards an accurate 3D reconstruction of fractured long bones from plain 2D radiographs. International Journal of Computer Assisted Radiology and Surgery. Heidelberg: Springer Verlag, 2016. no. 11, p. S180 (S181 p.) ISSN: 1861-6410."
+        },
+        {
+            "year": "2016",
+            "citation": "KLIMA, O.; BARINA, D.; KLEPARNIK, P.; ZEMCIK, P.; CHROMY, A.; SPANEL, M. Lossy Compression of 3-D Statistical Shape and Intensity Models of Femoral Bones Using JPEG 2000. In 14th IFAC Conference on Programmable Devices and Embedded Systems PDES 2016 Brno, Czech Republic, 5-7 October 2016. IFAC-PapersOnLine. Brno / Lednice: Elsevier Science, 2016. no. 25, p. 115-120. ISSN: 2405-8963."
+        },
+        {
+            "year": "2016",
+            "citation": "KLIMA, O.; CHROMY, A.; ZEMCIK, P.; KLEPARNIK, P.; SPANEL, M. A Study on Performace of Levenberg-Marquardt and CMA-ES Optimization Methods for Atlas-based 2D/3D Reconstruction. In 14th IFAC Conference on Programmable Devices and Embedded Systems PDES 2016 Brno, Czech Republic, 5-7 October 2016. IFAC-PapersOnLine. Brno / Lednice: Elsevier Science, 2016. no. 25, p. 121-126. ISSN: 2405-8963."
+        },
+        {
+            "year": "2016",
+            "citation": "KLIMA, O.; KLEPARNIK, P.; SPANEL, M.; ZEMCIK, P. Intensity-based femoral atlas 2D/3D registration using Levenberg-Marquardt optimisation. In Biomedical Applications in Molecular, Structural, and Functional Imaging. San Diego: SPIE - the international society for optics and photonics, 2016. p. 1-6. ISBN: 978-1-5106-0023-2."
+        },
+        {
+            "year": "2016",
+            "citation": "MATERNA, Z.; KAPINUS, M.; SPANEL, M.; BERAN, V.; SMRZ, P. Simplified Industrial Robot Programming: Effects of Errors on Multimodal Interaction in WoZ experiment. In 25th IEEE International Symposium on Robot and Human Interactive Communication, RO-MAN 2016. New York City: Institute of Electrical and Electronics Engineers, 2016. p. 200-205. ISBN: 978-1-5090-3929-6."
+        },
+        {
+            "year": "2016",
+            "citation": "VELAS, M.; SPANEL, M. Improving Multi-view Object Recognition by Detecting Changes in Point Clouds. In IEEE Symposium on Computational Intelligence for Multimedia, Signal and Vision Processing. Ateny: IEEE Computer Society, 2016. p. 1-7. ISBN: 978-1-5090-4239-5."
+        },
+        {
+            "year": "2016",
+            "citation": "VELAS, M.; SPANEL, M.; HEROUT, A. Collar Line Segments for Fast Odometry Estimation from Velodyne Point Clouds. In Proceedings of IEEE International Conference on Robotics and Automation. Stockholm: IEEE Computer Society, 2016. p. 4486-4491. ISBN: 978-1-4673-8025-6."
+        },
+        {
+            "year": "2015",
+            "citation": "KLIMA O, KLEPARNIK P, SPANEL M, ZEMCIK P. GP-GPU Accelerated Intensity-based 2D/3D Registration Pipeline. Shape 2015 Symposium on Statistical Shape Models & Applications Proceedings. Delemont: Swiss Institute for Computer Aided Surgery, 2015. p. 19-19."
+        },
+        {
+            "year": "2015",
+            "citation": "MAST, M.; BURMESTER, M.; GRAF, B.; WEISSHARDT, F.; ARBEITER, G.; SPANEL, M.; MATERNA, Z.; SMRZ, P.; KRONREIF, G. Design of the human-robot interaction for a semi-autonomous service robot to assist elderly people. In Ambient Assisted Living. Advanced Technologies and Societal Change. Berlin: Springer International Publishing, 2015. p. 15-29. ISBN: 978-3-319-11865-9."
+        },
+        {
+            "year": "2015",
+            "citation": "MAST, M.; MATERNA, Z.; SPANEL, M.; WEISSHARDT, F.; ARBEITER, G.; BURMESTER, M.; SMRZ, P. Semi-Autonomous Domestic Service Robots: Evaluation of a User Interface for Remote Manipulation and Navigation With Focus on Effects of Stereoscopic Display. International Journal of Social Robotics, 2015, vol. 2015, no. 7, p. 183-202. ISSN: 1875-4791."
+        },
+        {
+            "year": "2014",
+            "citation": "VELAS, M.; SPANEL, M.; MATERNA, Z.; HEROUT, A. Calibration of RGB Camera With Velodyne LiDAR. In WSCG 2014 Communication Papers Proceedings. Journal of WSCG. Plzen: Union Agency, 2014. no. 22, p. 135-144. ISBN: 978-80-86943-71-8. ISSN: 1213-6972."
+        },
+        {
+            "year": "2013",
+            "citation": "HULIK, R.; SPANEL, M.; MATERNA, Z.; SMRZ, P. Continuous Plane Detection in Point-cloud Data Based on 3D Hough Transform. JOURNAL OF VISUAL COMMUNICATION AND IMAGE REPRESENTATION, 2013, vol. 25, no. 1, p. 86-97. ISSN: 1047-3203."
+        },
+        {
+            "year": "2013",
+            "citation": "MAST, M.; SPANEL, M.; ARBEITER, G.; STANCL, V.; MATERNA, Z.; WEISSHARDT, F.; BURMESTER, M.; SMRZ, P. Teleoperation of Domestic Service Robots: Effects of Global 3D Environment Maps in the User Interface on Operators' Cognitive and Performance Metrics. Proceedings of International Conference on Social Robotics. Lecture Notes in Computer Science. Lecture Notes in Artificial Intelligence (LNCS/LNAI). Bristol: Springer Verlag, 2013. no. 8239, p. 392-401. ISBN: 978-3-319-02674-9. ISSN: 0302-9743."
+        },
+        {
+            "year": "2012",
+            "citation": "HULIK, R.; BERAN, V.; SPANEL, M.; KRSEK, P.; SMRZ, P. Fast and Accurate Plane Segmentation in Depth Maps for Indoor Scenes. In IEEE International Conference on Intelligent Robots and Systems. Proceedings of the International Conference on Intelligent Robots and Systems. Vilamoura, Algarve: Department of Computer Graphics and Multimedia FIT BUT, 2012. no. 12, p. 1665-1670. ISBN: 978-1-4673-1737-5. ISSN: 2153-0858."
+        },
+        {
+            "year": "2012",
+            "citation": "ZEMCIK, P.; SPANEL, M.; KRSEK, P.; RICHTER, M. Methods of 3D Object Shape Acquisition. In 3-D Surface Geometry and Reconstruction. Rourkela: IGI Global, 2012. p. 1-27. ISBN: 978-1-4666-0113-0."
+        },
+        {
+            "year": "2011",
+            "citation": "BARTON, R.; KRSEK, P.; SPANEL, M.; SVUB, M.; STANCL, V.; VADURA, J. Virtual Collaborative Environment for Radiological 3D Consultations. 5th Cairo International Biomechanical Engineering Conference. Cairo: 2011. p. 50-54. ISBN: 978-1-4244-7169-0."
+        },
+        {
+            "year": "2011",
+            "citation": "SOLONY, M.; ZAK, P.; BERAN, V.; SPANEL, M. Camera Localization Using Incomplete Chessboard Pattern. In VISAPP 2011 - Proceedings of the International Conference on Computer Vision Theory and Application. Algarve: Institute for Systems and Technologies of Information, Control and Communication, 2011. p. 415-418. ISBN: 978-989-8425-47-8."
+        },
+        {
+            "year": "2011",
+            "citation": "SPANEL, M. Delaunay-based Vector Segmentation of Volumetric Medical Images. Brno: Faculty of Information Technology BUT, 2011. 138 p."
+        },
+        {
+            "year": "2011",
+            "citation": "SPANEL, M.; KRSEK, P.; SVUB, M.; STANCL, V. Tetrahedral Meshing of Volumetric Medical Images Respecting Image Edges. Proceedings of the 14th International Conference on Computer Analysis of Images and Patterns, CAIP 2011. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2011. p. 161-169. ISBN: 978-3-642-23671-6. ISSN: 0302-9743."
+        },
+        {
+            "year": "2010",
+            "citation": "SPANEL, M.; KRSEK, P.; SVUB, M.; STANCL, V. Vector Segmentation of Volumetric Image Data: Tetrahedral Meshing Constrained by Image Edges. Proceedings of the 3rd International Joint Conference on Computer Vision, Imaging and Computer Graphics Theaory and Applications. Setubal: Institute for Systems and Technologies of Information, Control and Communication, 2010. p. 134-138. ISBN: 978-989-674-026-9."
+        },
+        {
+            "year": "2010",
+            "citation": "SVUB, M.; KRSEK, P.; SPANEL, M.; STANCL, V.; BARTON, R.; VADURA, J. Feature preserving mesh smoothing algorithm based on local normal covariance. Proceedings of WSCG'10. 17-th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision. Plzen: University of West Bohemia in Pilsen, 2010. p. 1-6. ISBN: 978-80-86943-86-2."
+        },
+        {
+            "year": "2009",
+            "citation": "KRSEK, P.; SPANEL, M.; SVUB, M.; STANCL, V.; BARTON, R.; SILER, O. Network Collaborative Environment Supporting 3D Medicine. Proceedings of the 31st Annual International conference of the IEEE Engineering in Medicine and Biology. Minneapolis: Institute of Electrical and Electronics Engineers, 2009. p. 261-261. ISBN: 978-1-4244-3296-7."
+        },
+        {
+            "year": "2008",
+            "citation": "KRSEK, P.; SPANEL, M.; STANCL, V.; SVUB, M.; SILER, O. Virtual Collaborative Environment for 3D Planning and Modeling of Surgeries. TTeC 08 Tromso telemedicine and health conference. Programme and papers. Troms0: 2008. p. 170-171."
+        },
+        {
+            "year": "2007",
+            "citation": "KRSEK, P.; SPANEL, M.; SARA, V.; SILER, O.; STANCL, V.; SVUB, M. Sitove kolaborativni prostredi pro 3D modelovani v medicine. Sirokopasmove site a jejich aplikace. Olomouc: Univerzita Palackeho, 2007. s. 74-77. ISBN: 978-80-244-16878."
+        },
+        {
+            "year": "2007",
+            "citation": "KRSEK, P.; SPANEL, M.; SVUB, M.; STANCL, V.; SILER, O.; SARA, V. Network collaborative environment for human tissues 3D modeling. Engineering in Medicine and Biology Society Proceedings. Lyon: Technical University Wien, 2007. p. 4540-4543. ISBN: 1-4244-0788-5."
+        },
+        {
+            "year": "2007",
+            "citation": "SPANEL, M.; KRSEK, P.; SVUB, M.; STANCL, V.; SILER, O. Delaunay-Based Vector Segmentation of Volumetric Medical Images. Proceedings of the 12th International Conference on Computer Analysis of Images and Patterns, CAIP 2007. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2007. no. 08, p. 261-269. ISBN: 3-540-74271-9. ISSN: 0302-9743."
+        },
+        {
+            "year": "2006",
+            "citation": "KRSEK, P.; SPANEL, M.; CERNOCHOVA, P.; KANOVSKA, K.; KRUPA, P.; STOKLAS, J.; MOLITOR, M. 3D Human Tissues Modeling In Clinical Applications. Medical Information Visualisation. London: IEEE Computer Society, 2006. p. 15-15. ISBN: 0-7695-2603-9."
+        },
+        {
+            "year": "2006",
+            "citation": "SPANEL, M.; KRSEK, P. Vector-based Medical Image Segmentation using Adaptive Delaunay Triangulation. Proceedings of the Sixth IASTED International Conference on Visualization, Imaging, and Image Procesing. 541. Palma de Mallorca: ACTA Press, 2006. p. 1-6. ISBN: 0-88986-600-7."
+        },
+        {
+            "year": "2004",
+            "citation": "POTUCEK, I.; SPANEL, M. Face Detection in Meeting Room Using Omni-directional View. AMI/PASCAL/IM2/M4 workshop. Martigny: Institute for Perceptual Artificial Intelligence, 2004. p. 1 (1 s.)."
+        },
+        {
+            "year": "2004",
+            "citation": "POTUCEK, I.; SUMEC, S.; SPANEL, M. Participant activity detection by hands and face movement tracking in the meeting room. 2004 Computer Graphics International (CGI 2004). Los Alamitos: IEEE Computer Society, 2004. p. 632-635. ISBN: 0-7695-2717-1."
+        },
+        {
+            "year": "2004",
+            "citation": "ZEMCIK, P.; SUMEC, S.; POTUCEK, I.; SPANEL, M.; HEROUT, A.; PECIVA, J. Summary of Image/Video Processing for AMI Project in Brno. Poster at MLMI'04 workshop. Martigny: Institute for Perceptual Artificial Intelligence, 2004. p. 1 (1 s.)."
+        },
+        {
+            "year": "2003",
+            "citation": "SPANEL, M. Face Representation and Tracking Using Gabor Wavelet Networks. Proceedings of the International Conference and Competition STUDENT EEICT 2003. Brno: Faculty of Electrical Engineering and Communication BUT, 2003. p. 303-305. ISBN: 80-214-2401-X."
+        },
+        {
+            "year": "2003",
+            "citation": "SPANEL, M.; ZEMCIK, P. Face Representation and Tracking Using Gabor Wavelet Networks. Proceedings of the Central European Seminar on Computer Graphics. Budmerice: 2003. p. 163-169."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2019",
+            "title": "Segmentation of Defective Skulls from CT Data for Tissue Modelling",
+            "metadata": "presentation, poster, 2019",
+            "authors": "KODYM, O.; SPANEL, M.; HEROUT, A."
+        },
+        {
+            "year": "2017",
+            "title": "Ground Segmentation by CNNs in Velodyne Data",
+            "metadata": "testing, 2017",
+            "authors": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A."
+        }
+    ],
+    "name": "Spanel Michal, doc. Ing., Ph.D."
+}

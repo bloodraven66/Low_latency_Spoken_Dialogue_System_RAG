@@ -1,0 +1,37 @@
+{
+    "project": "TENACITy: Travelling intelligENce Against CrIme and Terrorism",
+    "title": "TENACITy: Travelling intelligENce Against CrIme and Terrorism",
+    "metadata": {
+        "project_period": "1. 9. 2022 \u2013 31. 8. 2025",
+        "project_type": "grant",
+        "code": "101074048",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "TENACITy: Cestujici inteligence proti kriminalite a terorismu"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "blockchain, PNR, API, Ethereum, IPFS"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "LEAs use the data in their information systems as their basis for making decisions that affect the safety of European citizens. According to a recent report of the European Court of Auditors on the EU Information Systems use, it has been found out that individual countries have different perception and methodologies on how data management should be addressed; officers from LEAs have stated that not all datasets are included in their systems, while other data is either not complete and accurate or not entered in a timely manner. The same report states that there are regulatory and cultural issues, according to which some countries do not make all the functions offered in the central EU systems available through their national systems. TENACITy envisions to address these challenges by proposing a 3-pillar approach: (a) Modern and effective tools for exploitation of travel intelligence data by security authorities: TENACITy proposes an interoperable open architecture for the integration and analysis of multiple transactional, historical and behavioural data from a variety of sources, by exploiting game changing digital technologies; (b) Training and sensitisation of LEAs personnel: TENACITy envisions the design of a living lab to be established to organise hackathons, workshops for all relevant stakeholders who would benefit from the use of passenger data and digital technologies proposed; (c) Holistic approach to crime prevention: TENACITy vision is to implement and demonstrate a Travel Intelligence Governance Framework that will incorporate a holistic approach to crime prevention, will ensure that the proposed digital technologies will support the identification of the modus operandi of criminal and terrorism organizations and will include policy makers in the governance process, examining how the new tools will provide new capabilities to shape the regulations."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Vesely Vladimir, Ing., Ph.D. (DIFS) \u2013 research leader Dolejska Daniel, Ing. (DIFS) Jerabek Vladimir, Ing. Koutensky Michal, Ing. (DIFS) Lichtner Ondrej, Ing. (DIFS) Oleksak Samuel, Ing. (DITS) Peresini Martin, Ing. (DITS) Pluskal Jan, Ing., Ph.D. (DIFS) Res Jakub, Ing. (DITS)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- KOUTENSKY, M.; VESELY, V.; PERESINI, M.; DOLEJSKA, D.; PLUSKAL, J. Using Blockchain to Secure Passenger Name Records and Effectively Protect Citizen Rights. In 2024 6th Conference on Blockchain Research and Applications for Innovative Networks and Services, BRAINS 2024. Berlin: Institute of Electrical and Electronics Engineers, 2024. p. 1-10. ISBN: 979-8-3503-6784-3. Detail"
+        }
+    }
+}

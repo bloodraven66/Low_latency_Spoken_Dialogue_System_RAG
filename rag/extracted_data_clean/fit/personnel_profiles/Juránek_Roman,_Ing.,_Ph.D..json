@@ -1,0 +1,345 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "address": "Bozetechova 1/2, Kralovo Pole, 61266 Brno - FIT",
+            "e_mail": "ijuranek@fit.vut.cz",
+            "work_phone": "+420 54114 1414",
+            "room": "L204 Office",
+            "orcid_id": "0000-0003-0589-0172",
+            "scopus_author_id": "25723365500"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Computer Graphics Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "Kdykoliv po domluve emailem.",
+        "lectured_courses": [
+            {
+                "abbreviation": "POVa",
+                "title": "Computer Vision (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence",
+            "details": "EU, HORIZON EUROPE, 101159156, start: 2024-05-01, end: 2026-09-30, running"
+        },
+        {
+            "year": "2022",
+            "title": "AISEE - Artificial Intelligence based Search Environment for photo/video",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010029, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Intelligent Sensors for Traffic Monitoring",
+            "details": "EU, OP PIK - Aplikace, EG21_374/0026902, start: 2022-03-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "SECUSEN II: SECure SENsors - Industrial Intelligence",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/14, start: 2021-06-01, end: 2022-09-30, running"
+        },
+        {
+            "year": "2020",
+            "title": "NextPerception",
+            "details": "EU, Horizon 2020, 8A20007, 876487/8A20007, start: 2020-05-01, end: 2023-07-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Advanced content extraction and recognition for printed and handwritten documents for better accessibility and usability",
+            "details": "MK, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje narodni a kulturni identity na leta 2016 az 2022 (NAKI II), DG18P02OVV055, start: 2018-03-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Consultancy and making algorithmes for Computer Vision",
+            "details": "NXP, start: 2018-06-05, end: 2018-06-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Progressive Image Processing Algorithms",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH04010394, start: 2018-10-01, end: 2021-08-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "SMARTCarPark - Surveillance Monitoring, Analysis and Re-identification of Traffic for Enhanced Car Parking",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH03010529, start: 2018-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Consultancy and making algorithmes for Computer Vision",
+            "details": "NXP, start: 2017-07-28, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Consultancy and making algorithmes for Computer Vision",
+            "details": "NXP, start: 2017-03-20, end: 2017-07-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Detection of reference marks in the FIB / SEM image",
+            "details": "TESCAN GROUP, a.s., start: 2017-12-01, end: 2018-05-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Feasibility study for traffic aggregation based on automatic algorithm with minimal operator inputs",
+            "details": "CDV, start: 2017-11-01, end: 2017-12-12, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Vehicle Trajectory and Movement Analysis",
+            "details": "CDV, start: 2017-09-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "ontractual research for NXP 2016",
+            "details": "NXP, start: 2016-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "ConstRaint and Application driven Framework for Tailoring Embedded Real-time Systems",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H12006, start: 2012-06-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2012",
+            "title": "V3C - Visual Computing Competence Center",
+            "details": "TACR, Centra kompetence, TE01020415, start: 2012-05-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Support of teaching detection classifiers",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2786/2010/G1, start: 2010-01-01, end: 2010-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2023",
+            "citation": "JURANEK, R.; MUSIL, P.; MUSIL, M.; NOSKO, S.; ZEMCIK, P. Smart camera for traffic applications. Journal of Signal Processing Systems for Signal Image and Video Technology, 2023, vol. 95, no. 9, p. 1067-1077. ISSN: 1939-8115."
+        },
+        {
+            "year": "2023",
+            "citation": "MATERNA, Z.; KAPINUS, M.; DOBES, P.; JURANEK, R.; SMRZ, P. Communication Framework for 5G-Enabled Network Applications. EuCNC & 6G Summit Proceedings. Gothenburg: 2023. p. 1-5."
+        },
+        {
+            "year": "2022",
+            "citation": "JURANEK, R.; VYRAVSKY, J.; KOLAR, M.; MOTL, D.; ZEMCIK, P. Graph-based deep learning segmentation of EDS spectral images for automated mineral phase analysis. COMPUTERS & GEOSCIENCES, 2022, vol. 165, no. 8, p. 1-2. ISSN: 0098-3004."
+        },
+        {
+            "year": "2021",
+            "citation": "JURANEK, R.; MUSIL, P.; ZEMCIK, P. Unconstrained License Plate Detection in Hardware. In Proceedings of the 7th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS. Praha: SciTePress - Science and Technology Publications, 2021. p. 13-21. ISBN: 978-989-758-513-5."
+        },
+        {
+            "year": "2020",
+            "citation": "BARTL, V.; JURANEK, R.; SPANHEL, J.; HEROUT, A. PlaneCalib: Automatic Camera Calibration by Multiple Observations of Rigid Objects on Plane. In 2020 International Conference on Digital Image Computing: Techniques and Applications (DICTA). Melbourne: Institute of Electrical and Electronics Engineers, 2020. p. 1-8. ISBN: 978-1-7281-9108-9."
+        },
+        {
+            "year": "2020",
+            "citation": "BARTL, V.; SPANHEL, J.; DOBES, P.; JURANEK, R.; HEROUT, A. Automatic Camera Calibration by Landmarks on Rigid Objects. Machine vision and applications, 2020, vol. 32, no. 1, p. 2-15. ISSN: 1432-1769."
+        },
+        {
+            "year": "2020",
+            "citation": "DOBES, P.; SPANHEL, J.; BARTL, V.; JURANEK, R.; HEROUT, A. Density-Based Vehicle Counting with Unsupervised Scale Selection. In Digital Image Computing: Techniques and Applications 2020. Melbourne: Institute of Electrical and Electronics Engineers, 2020. p. 1-8. ISBN: 978-1-7281-9108-9."
+        },
+        {
+            "year": "2020",
+            "citation": "MUSIL, P.; JURANEK, R.; MUSIL, M.; ZEMCIK, P. Cascaded Stripe Memory Engines for Multi-Scale Object Detection in FPGA. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, 2020, vol. 30, no. 1, p. 267-280. ISSN: 1051-8215."
+        },
+        {
+            "year": "2020",
+            "citation": "NOSKO, S.; MUSIL, M.; ZEMCIK, P.; JURANEK, R. Color HDR video processing architecture for smart camera: How to capture the HDR video in real-time. Journal of Real-Time Image Processing, 2020, vol. 17, no. 3, p. 555-566. ISSN: 1861-8200."
+        },
+        {
+            "year": "2020",
+            "citation": "SPANHEL, J.; SOCHOR, J.; JURANEK, R.; DOBES, P.; BARTL, V.; HEROUT, A. Learning Feature Aggregation in Temporal Domain for Re-Identification. COMPUTER VISION AND IMAGE UNDERSTANDING, 2020, vol. 192, no. 11, p. 1-12. ISSN: 1077-3142."
+        },
+        {
+            "year": "2019",
+            "citation": "JURANEK, R.; SPANHEL, J.; SOCHOR, J.; HEROUT, A.; NOVAK, J. Visual Analysis of Vehicle Trajectories for Determining Cross-Sectional Load Density. Transactions on Transport Sciences - online version, 2019, vol. 10, no. 1, p. 50-57. ISSN: 1802-9876."
+        },
+        {
+            "year": "2019",
+            "citation": "SPANHEL, J.; BARTL, V.; JURANEK, R.; HEROUT, A. Vehicle Re-Identification and Multi-Camera Tracking in Challenging City-Scale Environment. In 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. Long Beach: IEEE Computer Society, 2019. no. 1, p. 150-158. ISSN: 2160-7516."
+        },
+        {
+            "year": "2019",
+            "citation": "SPANHEL, J.; JURANEK, R.; HEROUT, A.; NOVAK, J.; HAVRANEK, P. Analysis of Vehicle Trajectories for Determining Cross-Sectional Load Density Based on Computer Vision. In 2019 22th International Conference on Intelligenet Transportation Systems (ITSC). Auckland: Institute of Electrical and Electronics Engineers, 2019. p. 1001-1006. ISBN: 978-1-5386-7024-8."
+        },
+        {
+            "year": "2018",
+            "citation": "KALVIAINEN, H.; EEROLA, T.; LENSU, L.; ILONEN, J.; ZEMCIK, P.; JURANKOVA, M.; JURANEK, R. Comparison of bubble detectors and size distribution estimators. Pattern Recognition Letters, 2018, vol. 101, no. 1, p. 60-66. ISSN: 0167-8655."
+        },
+        {
+            "year": "2018",
+            "citation": "SOCHOR, J.; JURANEK, R.; SPANHEL, J.; MARSIK, L.; SIROKY, A.; HEROUT, A.; ZEMCIK, P. Comprehensive Data Set for Automatic Single Camera Visual Speed Measurement. IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, 2018, vol. 2018, no. 99, p. 1633-1643. ISSN: 1524-9050."
+        },
+        {
+            "year": "2018",
+            "citation": "SOCHOR, J.; SPANHEL, J.; JURANEK, R.; DOBES, P.; HEROUT, A. Graph@FIT Submission to the NVIDIA AI City Challenge 2018. In NVIDIA AI City Challenge 2018 (CVPRW). Salt Lake City: IEEE Computer Society, 2018. p. 77-84. ISBN: 978-1-5386-6100-0."
+        },
+        {
+            "year": "2018",
+            "citation": "SPANHEL, J.; SOCHOR, J.; JURANEK, R.; HEROUT, A. Geometric Alignment by Deep Learning for Recognition of Challenging License Plates. In 2018 21st International Conference on Intelligent Transportation Systems (ITSC). Proceedings. Lahaina, Maui: IEEE Intelligent Transportation Systems Society, 2018. no. 21, p. 3524-3529. ISBN: 978-1-72810-321-1. ISSN: 2153-0017."
+        },
+        {
+            "year": "2017",
+            "citation": "SOCHOR, J.; JURANEK, R.; HEROUT, A. Traffic Surveillance Camera Calibration by 3D Model Bounding Box Alignment for Accurate Vehicle Speed Measurement. COMPUTER VISION AND IMAGE UNDERSTANDING, 2017, vol. 2017, no. 161, p. 87-98. ISSN: 1077-3142."
+        },
+        {
+            "year": "2017",
+            "citation": "SPANHEL, J.; SOCHOR, J.; JURANEK, R.; HEROUT, A.; MARSIK, L.; ZEMCIK, P. Holistic Recognition of Low Quality License Plates by CNN using Track Annotated Data. In International Workshop on Traffic and Street Surveillance for Safety and Security (AVSS 2017). Lecce: IEEE Computer Society, 2017. p. 1-6. ISBN: 978-1-5386-2939-0."
+        },
+        {
+            "year": "2015",
+            "citation": "JURANEK, R.; HEROUT, A.; JURANKOVA, M.; ZEMCIK, P. Real-Time Pose Estimation Piggybacked on Object Detection. In Proceedings of ICCV. Santiago: IEEE Computer Society, 2015. p. 1-9. ISBN: 978-1-4673-8391-2."
+        },
+        {
+            "year": "2014",
+            "citation": "JURANKOVA, M.; HEROUT, A.; JURANEK, R.; SOCHOR, J. Fully Automatic Roadside Camera Calibration for Traffic Surveillance. IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, 2014, vol. 2014, no. 1, p. 1-10. ISSN: 1524-9050."
+        },
+        {
+            "year": "2014",
+            "citation": "SLOSAR, P.; JURANEK, R.; HEROUT, A. Cheap Rendering vs. Costly Annotation: Rendered Omnidirectional Dataset of Vehicles. In Proceedings of Spring Conference on Computer Graphics. Smolenice: Comenius University in Bratislava, 2014. p. 105-112. ISBN: 978-80-223-3601-7."
+        },
+        {
+            "year": "2014",
+            "citation": "STROKINA, N.; JURANEK, R.; EEROLA, T.; ZEMCIK, P.; KALVIAINEN, H.; LENSU, L. Comparison of Appearance-Based and Geometry-Based Bubble Detectors. In Proccedings of Internation Conference on Computer Vision and Graphics. Lecture Notes in Computer Science. Warsaw: Springer Verlag, 2014. p. 610-617. ISBN: 978-3-319-11330-2."
+        },
+        {
+            "year": "2013",
+            "citation": "MACHALIK, S.; ZEMCIK, P.; JURANEK, R. Vyuziti obrazove analyzy v tribotechnicke diagnostice. Pardubice: Univerzita Pardubice, 2013. 112 s. ISBN: 978-80-7395-583-0."
+        },
+        {
+            "year": "2013",
+            "citation": "ZEMCIK, P.; JURANEK, R.; MUSIL, M.; MUSIL, P.; HRADIS, M. High Performance Architecture for Object Detection in Streamed Videos. Proceedings of FPL 2013. Porto: IEEE Circuits and Systems Society, 2013. p. 1-4. ISBN: 978-1-4799-0004-6."
+        },
+        {
+            "year": "2013",
+            "citation": "ZEMCIK, P.; JURANEK, R.; MUSIL, P.; MUSIL, M.; HRADIS, M. High performance architecture for object detection in streamed video. Poster. New York: 2013. 1 p."
+        },
+        {
+            "year": "2013",
+            "citation": "ZEMCIK, P.; JURANEK, R.; MUSIL, P.; MUSIL, M.; HRADIS, M. High performance FPGA object detector: Hardware prototype. Proceedings of FPL 2013. Porto: 2013. p. 1 (1 s.). ISBN: 978-1-4799-0004-6."
+        },
+        {
+            "year": "2012",
+            "citation": "JURANEK, R. Acceleration of Object Detection Using Classifiers. Brno: Faculty of Information Technology BUT, 2012. p. 1-77."
+        },
+        {
+            "year": "2012",
+            "citation": "JURANEK, R.; HRADIS, M.; ZEMCIK, P. Real-time Algorithms of Object Detection using Classifiers. In Real-Time System. Rijeka: InTech - Open Access Publisher, 2012. p. 1-22. ISBN: 9789535105107."
+        },
+        {
+            "year": "2012",
+            "citation": "MACHALIK, S.; JURANEK, R.; ZEMCIK, P. Research of Image Features for Classification of Wear Debris. Machine Graphics and Vision, 2012, vol. 20, no. 1, p. 479-493. ISSN: 1230-0535."
+        },
+        {
+            "year": "2012",
+            "citation": "NAVRATIL, J.; ZEMCIK, P.; JURANEK, R.; PECIVA, J. A Skewed Paraboloid Cut for Better Shadow Rendering. Proceedings of Computer Graphics International 2012. Berlin: Springer Verlag, 2012. p. 1-4. ISBN: 978-1-85899-283-9."
+        },
+        {
+            "year": "2011",
+            "citation": "HEROUT, A.; JOSTH, R.; JURANEK, R.; HAVEL, J.; HRADIS, M.; ZEMCIK, P. Real-time object detection on CUDA. Journal of Real-Time Image Processing, 2011, vol. 2011, no. 3, p. 159-170. ISSN: 1861-8200."
+        },
+        {
+            "year": "2011",
+            "citation": "JURANEK, R.; MACHALIK, S.; ZEMCIK, P. Analysis Wear Debris Through Classification. Proceedings of Advanced Concepts of Inteligent Vision Systems (ACIVS 2011). Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2011. p. 273-283. ISBN: 978-3-642-23686-0."
+        },
+        {
+            "year": "2011",
+            "citation": "KADLCEK, F.; JURANEK, R.; ZEMCIK, P. Automatic synthesis of classifiers in FGPA. International Bata Conference for Ph.D. Students and Young Researchers. Zlin: Tomas Bata University in Zlin, 2011. p. 1-12. ISBN: 978-80-7454-013-4."
+        },
+        {
+            "year": "2011",
+            "citation": "MACHALIK, S.; JURANEK, R.; ZEMCIK, P. Automaticka klasifikace castic opotrebeni. Tribilogicke informace, 2011, roc. 2011, c. 1, s. 14-15. ISSN: 1212-0081."
+        },
+        {
+            "year": "2011",
+            "citation": "SEEMAN, M.; ZEMCIK, P.; JURANEK, R.; HEROUT, A. Fast bilateral filter for HDR imaging. JOURNAL OF VISUAL COMMUNICATION AND IMAGE REPRESENTATION, 2011, roc. 2012, c. 1, 6 s. ISSN: 1047-3203."
+        },
+        {
+            "year": "2010",
+            "citation": "HEROUT, A.; JURANEK, R.; ZEMCIK, P. Implementing the Local Binary Patterns with SIMD Instructions of CPU. Proceedings of WSCG 2010. Plzen: University of West Bohemia in Pilsen, 2010. p. 39-42. ISBN: 978-80-86943-86-2."
+        },
+        {
+            "year": "2010",
+            "citation": "HEROUT, A.; ZEMCIK, P.; HRADIS, M.; JURANEK, R.; HAVEL, J.; JOSTH, R.; ZADNIK, M. Low-Level Image Features for Real-Time Object Detection. In Pattern Recognition, Recent Advances. Vienna: IN-TECH Education and Publishing, 2010. p. 111-136. ISBN: 978-953-7619-90-9."
+        },
+        {
+            "year": "2010",
+            "citation": "JURANEK, R.; HRADIS, M.; ZEMCIK, P. Platform for Teaching Detection Classifiers. Proceedings of Digital Technologies 2010. Zilina: Zilina University Publisher, 2010. p. 1-5. ISBN: 978-80-554-0304-5."
+        },
+        {
+            "year": "2010",
+            "citation": "LANIK, A.; MLICH, J.; ZEMCIK, P.; JURANEK, R.; CHMELAR, P. Multimodal data acquisition on mobile devices. Proceedings of 7th International Workshop Digital Technologies 2010. Zilina: Zilina University Publisher, 2010. p. 57-58. ISBN: 978-80-554-0304-5."
+        },
+        {
+            "year": "2010",
+            "citation": "MACHALIK, S.; JURANEK, R. Wear Debris Analysis in Transport. Fifth International Conference - Theoretical and Practical Issues in Transport. Pardubice: Univerzita Pardubice, 2010. s. 64-69. ISBN: 978-80-7395-245-7."
+        },
+        {
+            "year": "2009",
+            "citation": "BERAN, V.; JURANEK, R.; MLICH, J.; ZAK, P.; HEROUT, A.; ZEMCIK, P. On-Line Object Behaviour Analysis for Surveillance Systems. 10th Annual ICT Conference. Nairobi: 2009. p. 1-5."
+        },
+        {
+            "year": "2008",
+            "citation": "CHMELAR, P.; BERAN, V.; HEROUT, A.; HRADIS, M.; JURANEK, R.; LANIK, A.; MLICH, J.; NAVRATIL, J.; REZNICEK, I.; ZAK, P.; ZEMCIK, P. Brno University of Technology at TRECVid 2008. Proceedings of TRECVID 2008. Gaithersburg: National Institute of Standards and Technology, 2008. p. 1-16."
+        },
+        {
+            "year": "2008",
+            "citation": "HEROUT, A.; ZEMCIK, P.; JURANEK, R.; HRADIS, M. Implementation of the \"Local Rank Differences\" Image Feature Using SIMD Instructions of CPU. Proceedings of Sixth Indian Conference on Computer Vision, Graphics and Image Processing. Bhubaneswar: IEEE Computer Society, 2008. p. 1-9. ISBN: 978-0-7695-3476-3."
+        },
+        {
+            "year": "2008",
+            "citation": "JURANEK, R. Detection of Dogs in Video Using Statistical Classifiers. Proceedings of International Conference on Computer Vision and Graphics 2008. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2008. p. 1-11. ISSN: 0302-9743."
+        },
+        {
+            "year": "2008",
+            "citation": "JURANEK, R. Engine for Real-Time 2D Object Detection. Proceedings of the 14th Conference STUDENT EEICT 2008 Volume 4. Brno: Brno University of Technology, 2008. p. 1-5. ISBN: 80-214-3163-6."
+        },
+        {
+            "year": "2008",
+            "citation": "POLOK, L.; HEROUT, A.; ZEMCIK, P.; HRADIS, M.; JURANEK, R.; JOSTH, R. \"Local Rank Differences\" Image Feature Implemented on GPU. Proceedings of the 10th International Conference on Advanced Concepts for Intelligent Vision Systems. Lecture Notes In Computer Science; Vol. 5259. Berlin, Heidelberg: Springer Verlag, 2008. p. 170-181. ISBN: 978-3-540-88457-6."
+        },
+        {
+            "year": "2007",
+            "citation": "SILHAVA, J.; BERAN, V.; CHMELAR, P.; HEROUT, A.; HRADIS, M.; JURANEK, R.; ZEMCIK, P. Platform for Evaluation of Image Classifiers. Spring Conference on Computer Graphics. Budmerice: Comenius University in Bratislava, 2007. p. 103-109. ISBN: 978-80-223-2292-8."
+        },
+        {
+            "year": "2007",
+            "citation": "SILHAVA, J.; BERAN, V.; CHMELAR, P.; HEROUT, A.; HRADIS, M.; JURANEK, R.; ZEMCIK, P. Testbench for Evaluation of Image Classifiers. Computer Graphics & Geometry, 2007, vol. 2007, no. 9, p. 31-47. ISSN: 1811-8992."
+        },
+        {
+            "year": "2006",
+            "citation": "HRADIS, M.; JURANEK, R. Head Tracking in Meeting Video. Proceedings of the 12th Conference STUDENT EEICT 2006 Volume 2. Brno: Vysoke uceni technicke v Brne, 2006. s. 203-205. ISBN: 80-214-3161-X."
+        },
+        {
+            "year": "2006",
+            "citation": "HRADIS, M.; JURANEK, R. Real-time Tracking of Participants in Meeting Video. Proceedings of The 10th Central European Seminar on Computer Graphics. Budmerice: 2006. p. 89-93."
+        }
+    ],
+    "name": "Juranek Roman, Ing., Ph.D."
+}

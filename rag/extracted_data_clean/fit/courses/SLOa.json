@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "code": "SLOa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Complexity (in English)"
+    },
+    "content": {
+        "guarantor": "Rogalewicz Adam, doc. Mgr., Ph.D. | (DITS)",
+        "course_coordinator": "Lengal Ondrej, doc. Ing., Ph.D. | (DITS)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written+oral)",
+        "time_span": "- 26 hrs lectures\n- 26 hrs projects",
+        "assessment_points": "- 70 pts final exam (35 pts written part, 35 pts oral part)\n- 30 pts projects",
+        "department": "Department of Intelligent Systems | (UITS)",
+        "lecturer": "Lengal Ondrej, doc. Ing., Ph.D. | (DITS) | Rogalewicz Adam, doc. Mgr., Ph.D. | (DITS)",
+        "instructor": "Rogalewicz Adam, doc. Mgr., Ph.D. | (DITS)",
+        "learning_objectives": "Familiarize students with the complexity theory, which is necessary to understand practical limits of algorithmic problem solving on physical computational systems.Familiarize students with a selected methods for solving hard computational problems.Understanding theoretical and practical limits of arbitrary computational systems. Ability to use a selected methods for computationally hard problems.",
+        "recommended_prerequisites": "- Theoretical Computer Science(TIN)",
+        "prerequisite_knowledge_and_skills": "Formal language theory and theory of computability on master level.",
+        "study_literature": "- Kozen, D.C.: Theory of Computation, Springer, 2006, ISBN 1-846-28297-7\n- Bovet, D.P., Crescenzi, P.: Introduction to the Theory of Complexity, Prentice Hall International Series in Computer Science, 1994, ISBN 0-13915-380-2\n- Goldreich, O.: Computational Complexity: A Conceptual Perspective, Cambridge University Press, 2008, ISBN 0-521-88473-X",
+        "fundamental_literature": "- Papadimitriou, C. H.: Computational Complexity, Addison-Wesley, 1994, ISBN 0201530821\n- Arora, S., Barak, B.: Computational Complexity: A Modern Approach, Cambridge University Press, 2009, ISBN: 0521424267. Dostupneonline.\n- Hopcroft, J.E. et al: Introduction to Automata Theory, Languages, and Computation, Addison Wesley, 2001, ISBN 0-201-44124-1\n- Ding-Zhu Du, Ker-I Ko: Theory of Computational Complexity, 2nd Edition, Wiley 2014, ISBN: 978-1-118-30608-6\n- Gruska, J.: Foundations of Computing, International Thomson Computer Press, 1997, ISBN 1-85032-243-0",
+        "syllabus_of_lectures": "- Introduction. Complexity, time and space complexity.\n- Matematical models of computation, RAM, RASP machines and their relation with Turing machines.\n- Asymptotic estimations, complexity classes, determinism and non-determinism from the point of view of complexity.\n- Relation between time and space, closure of complexity classes w.r.t. complementation, proper inclusion of complexity classes.\n- Blum theorem. Gap theorem.\n- Reduction, notion of complete problems, well known examples of complete problems.\n- Classes P and NP. NP-complete problems. SAT problem.\n- Travelling salesman problem, Knapsack problem and other important NP-complete problems\n- NP optimization problems and their deterministic solution: pseudo-polynomial algorithms, parametric complexity\n- Approximation algorithms.\n- Probabilistic algorithms, probabilistic complexity classes.\n- Complexity and cryptography\n- PSPACE-complete problems. Complexity and formal verification.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "3 projects dedicated on different aspects of the complexity theory.",
+        "progress_assessment": "- 3 projects - 10 points each (recommended minimal gain is 15 points)\n- Written and oral final exam (both parts are compulsory). The maximal amount of points one can get is 70 points\nWritten and oral final exam (both parts are compulsory). The maximal amount of points one can get is 70 points"
+    }
+}

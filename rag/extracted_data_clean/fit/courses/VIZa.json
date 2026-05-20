@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "code": "VIZa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Visualization and CAD (in English)"
+    },
+    "content": {
+        "guarantor": "Milet Tomas, Ing., Ph.D. | (DCGM)",
+        "course_coordinator": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Classified Credit",
+        "time_span": "- 26 hrs lectures\n- 12 hrs pc labs\n- 14 hrs projects",
+        "assessment_points": "- 40 pts mid-term test (written part)\n- 60 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Chudy Peter, doc. Ing., Ph.D., MBA | Milet Tomas, Ing., Ph.D. | (DCGM)",
+        "instructor": "Chudy Peter, doc. Ing., Ph.D., MBA | Milet Tomas, Ing., Ph.D. | (DCGM)",
+        "learning_objectives": "Basic attribute of ECTS:To provide overview of visualization and CAD (Computer Aided Design) systems. To introduce basic principles and functions of these systems, namely: work in 2D; work in 3D; precision aspects; 3D scenes modeling; preparation of scenes for visualization; scenes visualization. To get familiar with the phenomena of the data exchange between CAD systems with a link to visualization. To learn the basic principles of programming in CAD systems.Subject specific knowledge and abilities:\n- Students will understand basic principles of visualization and CAD (Computer Aided Design) systems\n- He/she will get familiar with work in 2D CAD system\n- He/she will get familiar with work in 3D CAD system\n- He/she will learn modeling of 3D scenes\n- He/she will learn to prepare 3D scenes for visualization\n- He/she will get familiar with visualization methods for scenes\n- He/she will get familiar with the phenomena of data exchange between CAD systems with a link to visualization\n- He/she will learn basic principles of programming in CAD systems",
+        "study_literature": "- Farin, G.: Curves and Surfaces for CAGD, Academic Press, 2001, ISBN 978-1558607378\n- Ebert, D., S. et al.: Texturing and Modelling: A Procedural Approach, Morgan Kaufmann, 2002, 978-1558608481\n- Watt, A., Watt, M.: Advanced Animation and Rendering Techniques: Theory and Practice, Addison-Wesley, 1992, ISBN 0-201-54412-1\n- Moeller, T., Haines, E.: Real-time Rendering, AK Peters, 1999, ISBN 1-56881-101-2",
+        "fundamental_literature": "- Hughes, J.: Computer Graphics: Principles and Practice, Addison-Wesley Professional, 2013, 978-0321399526\n- Ware, C.: Visual Thinking: for Design, Morgan Kaufmann, 2010, ISBN 978-0123708960\nWare, C.: Visual Thinking: for Design, Morgan Kaufmann, 2010, ISBN 978-0123708960",
+        "syllabus_of_lectures": "- Introduction to visualization and CAD\n- Basic principles and functions of CAD systems\n- Data representation in CAD systems\n- Types and applications of CAD systems\n- Data sharing in CAD systems\n- User interfaces of CAD systems\n- Development in CAD systems\n- Relation between CAD and visualization\n- Specifics of scene visualization\n- Scene representation in visualization\n- Traditional visualization methods\n- Rendering methods for visualization\n- Future development of CAD and visualization systems",
+        "syllabus_of_computer_exercises": "- Introduction to laboratories and used CAD system\n- Basic 2D work\n- Basic 3D work\n- 3D scene modeling\n- Preparation of visualization scene\n- Scene visualization",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "Individually assigned projects linked to computer classes.",
+        "progress_assessment": "- A mid-term exam evaluation (max. 40 pts).\n- Evaluation of individual project (max. 60 pts)."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "project": "COW: Countering privacy-enhancing challenges of cryptocurrencies, OSINT and wireless",
+    "title": "COW: Countering privacy-enhancing challenges of cryptocurrencies, OSINT and wireless",
+    "metadata": {
+        "project_period": "1. 10. 2025 \u2013 30. 9. 2027",
+        "project_type": "grant",
+        "code": "101202767",
+        "agency": "European Union",
+        "program": "The Internal Security Fund \u2013 Police"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "COW: Countering privacy-enhancing challenges of cryptocurrencies, OSINT and wireless"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "cryptocurrencies, wireless, WiFi, Bluetooth, intrusion, OSINT, training, capacity building"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Criminal networks increasingly misuse privacy enhancing technologies to protect their illegal operations against law enforcement agencies and legal consequences - particularly in organised crime and related areas. These networks leverage illicit online marketplaces to coordinate activities such as drug production, trafficking, cybercrime, and crime-as-a-service. To evade prosecution, they use end-to-end encrypted communication using platforms / networks like Tor, Telegram, and Signal, while privacy-enhancing cryptocurrencies, i.e., Monero and Zcash, and advanced wallets, e.g., Trezor, Ledger, Samourai or Wasabi, facilitate the anonymous transfer of value. When it comes to physical security and smart technology, wireless and IoT devices are employed to support and secure their operations, e.g., to monitor drug production or deploying wireless surveillance systems at target sites. The project Countering Privacy-Enhancing Challenges of Cryptocurrencies, OSINT, and Wireless (COW) aims to develop mission-ready methods and tools to support law enforcement and digital forensic teams in investigating and countering the criminal use of secure communications, privacy-enhancing cryptocurrencies, and smart IoT/wireless devices. The project will also design and deliver specialized training and curricula for law enforcement agencies (LEAs) and judicial authorities, equipping them with the knowledge and skills needed to process and interpret evidence collected through these advanced tools. COW's methodology mirrors the different stages of investigations in cyber-enabled crime: combining physical and digital traces, adding valuable insights from network analysis and monitoring cryptocurrency flows, proceeding with OSINT investigations, and supporting a new methods for gathering digital evidence from covert, in-field operations."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Gregr Matej, Ing., Ph.D. (DIFS) \u2013 research leader Jirovec Martin, Ing. (DFIT-Dean) Letavay Viliam, Ing. (DIFS) Safar Miroslav, Ing. (DIFS) Simun Samuel, Bc. (DIFS) Zavrel Jan, Ing. (DIFS)"
+        }
+    }
+}

@@ -1,0 +1,711 @@
+{
+    "contact": {
+        "department": "Department of Computer Systems",
+        "department_abbr": "DCSY",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "ruzicka@fit.vut.cz",
+            "work_phone": "+420 54114 1208",
+            "room": "L333 Office",
+            "orcid_id": "0000-0003-2599-9183",
+            "scopus_author_id": "6602626369"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Dependable Digital Systems Research Group",
+            "role": "Principal researcher"
+        },
+        {
+            "organization": "Unconventional Digital Circuits Research Group",
+            "role": "Principal researcher"
+        },
+        {
+            "organization": "Bachelor Study Programme Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Council for the Use of Information Technologies and Equipment at FIT BUT",
+            "role": "Member"
+        },
+        {
+            "organization": "Dean's Collegium",
+            "role": "Vice-dean for Msc. Study"
+        },
+        {
+            "organization": "Editorial Board",
+            "role": "Member"
+        },
+        {
+            "organization": "EvoAI Hardware",
+            "role": "Former member"
+        },
+        {
+            "organization": "Integrated Risk Management Committee",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "chairman"
+        },
+        {
+            "organization": "Pracovni skupina k oblasti vzdelavaci cinnosti",
+            "role": "Member"
+        },
+        {
+            "organization": "Pracovni skupina pro dalsi vzdelavani",
+            "role": "Member"
+        },
+        {
+            "organization": "Pracovni skupina pro kvalitu vzdelavani",
+            "role": "Member"
+        },
+        {
+            "organization": "Scientific Board",
+            "role": "Member of Scientific Board"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "Prize of BUT Rector 2002",
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2002",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2012"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Po predchozi dohode e-mailem.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "HKO",
+                "title": "Communication and Presentation Skills",
+                "details": "Czech, English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "HKO",
+                "title": "Communication and Presentation Skills",
+                "details": "Czech, English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "NAV",
+                "title": "Design of Embedded Systems",
+                "details": "Czech, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "ZCH",
+                "title": "Digital chips design basics",
+                "details": "Czech, summer",
+                "department": "FIT"
+            },
+            {
+                "abbreviation": "IEL",
+                "title": "Electronics for Information Technology",
+                "details": "Czech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "HVR",
+                "title": "Leadership and Time Management",
+                "details": "Czech, English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "HVR",
+                "title": "Leadership and Time Management",
+                "details": "Czech, English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "DIPe",
+                "title": "Master's Thesis (in English)",
+                "details": "English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "IMP",
+                "title": "Microprocessors and Embedded Systems",
+                "details": "Czech, English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "PKA",
+                "title": "Practical conversation, presenting and business communication in English",
+                "details": "Czech, English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "PKA",
+                "title": "Practical conversation, presenting and business communication in English",
+                "details": "Czech, English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "ZPX",
+                "title": "Professional Practice, Abroad",
+                "details": "English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "ZPX",
+                "title": "Professional Practice, Abroad",
+                "details": "English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "SEPe",
+                "title": "Semester Project (in English)",
+                "details": "English, winter",
+                "department": "DCSY"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "IEL",
+                "title": "Electronics for Information Technology",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IMP",
+                "title": "Microprocessors and Embedded Systems",
+                "details": "Lecture, Project, Seminar,\nCzech, English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "NAV",
+                "title": "Design of Embedded Systems",
+                "details": "Lecture,\nCzech, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "ZCH",
+                "title": "Digital chips design basics",
+                "details": "Lecture,\nCzech, summer",
+                "department": "FIT"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Application-specific HW/SW architectures and their applications",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8141, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "High Performance, Safe, Secure, Open-Source Leveraged RISC-V Domain-Specific Ecosystems",
+            "details": "MSMT, Chips Joint Undertaking, 9A23003, start: 2023-05-01, end: 2026-04-30, running"
+        },
+        {
+            "year": "2022",
+            "title": "Transformace formy a obsahu vzdelavani na Vysokem uceni technickem v Brne",
+            "details": "MSMT, Vyzva pro VS v ramci NPO, NPO_VUT_MSMT\u201016609/2022, start: 2022-04-01, end: 2024-12-31, running"
+        },
+        {
+            "year": "2022",
+            "title": "Transformation of the education form and content at the Brno University of Technology",
+            "details": "MSMT, Vyzva pro VS v ramci NPO, start: 2022-07-01, end: 2024-06-30, completed"
+        },
+        {
+            "year": "2021",
+            "title": "FIT BUT - Preparation of own project for Horizon Europe program",
+            "details": "JMK, Smart akcelerator v Jihomoravskem kraji II, start: 2021-08-01, end: 2022-01-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Navrh, optimalizace a evaluace aplikacne specifickych pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6309, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Introduction of attractive and effective English language studies at FIT",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, start: 2018-02-01, end: 2019-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Infrastructure for modern studium of IT",
+            "details": "EU, OP VVV PO2 ERDF vyzva pro vysoke skoly, start: 2017-10-01, end: 2022-09-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Pokrocile paralelni a vestavene pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3994, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Innovation of the equipment for fabriacation of multilayer PCBs",
+            "details": "BUT, Vnitrni projekty VUT, FEKT/FIT-J-15-2832, start: 2015-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Architektury paralelnich a vestavenych pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2297, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Unconventional Design Techniques for Intrinsic Reconfiguration of Digital Circuits: From Materials to Implementation",
+            "details": "MSMT, COST CZ (2011-2017), LD14055, start: 2014-05-05, end: 2017-05-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Multimedia lab for design of advanced integrated systems",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR1558/2012/Aa, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Laboratory for design and prototyping of an advanced electronic systems",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2789/2010/Aa, start: 2010-01-12, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Natural Computing on Unconventional Platforms",
+            "details": "GACR, Standardni projekty, GAP103/10/1517, start: 2010-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2010",
+            "title": "Secured, reliable and adaptive computer systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-1, start: 2010-03-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2006",
+            "title": "IT Professionals - Graduates Competitiveness Increase for European Labour Market",
+            "details": "CZ.04.1.03/3.2.15.1/0003, start: 2006-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Methods of polymorphic digital circuit design",
+            "details": "GACR, Standardni projekty, GA102/06/0599, start: 2006-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Integrated approach to education of PhD students in the area of parallel and distributed systems",
+            "details": "GACR, Doktorske granty, GD102/05/H050, start: 2005-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Compound Laboratory for Computer Hardware Teaching",
+            "details": "FR1687/2004/A, start: 2004-01-01, end: 2004-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Modern Methods of Digital Systems Design",
+            "details": "GACR, Standardni projekty, GA102/04/0737, start: 2004-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2003",
+            "title": "Formal approach to digital circuits test scheduling",
+            "details": "GACR, Postdoktorandske granty, GP102/03/P176, start: 2003-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2001",
+            "title": "Formal Approaches in Digital Design Diagnostics - Testable Design Verification",
+            "details": "GACR, Standardni projekty, GA102/01/1531, start: 2001-01-01, end: 2003-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2023",
+            "citation": "RUZICKA, R.; SIMEK, V.; NEVORAL, J. Polymorphic RTL Computational Elements. In Proceedings of the DSD 2023. Durres: IEEE Computer Society, 2023. p. 523-530. ISBN: 979-8-3503-4419-6."
+        },
+        {
+            "year": "2022",
+            "citation": "RUZICKA, R.; SIMEK, V. Technology Mapping for PAIG Optimized Polymorphic Circuits. In Proceeding of 25th Euromicro Conference on Digital System Design 2022 (DSD'22). Gran Canaria: IEEE Computer Society, 2022. p. 801-808. ISBN: 978-1-6654-7404-7."
+        },
+        {
+            "year": "2020",
+            "citation": "CRHA, A.; SIMEK, V.; RUZICKA, R. KL-cuts influence on optimization of polymorphic circuits based on PAIG rewriting. In 2020 23rd International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS). Novi Sad: Institute of Electrical and Electronics Engineers, 2020. p. 1-6. ISBN: 978-1-7281-9938-2."
+        },
+        {
+            "year": "2020",
+            "citation": "NEVORAL, J.; SIMEK, V.; RUZICKA, R. Power Consumption Analysis of New Generation of Polymorphic Gates. In 23rd International Symposium on Design and Diagnostics of Electronic Circuits and Systems, DDECS 2020. Novi Sad: Institute of Electrical and Electronics Engineers, 2020. p. 1-6. ISBN: 978-1-7281-9938-2."
+        },
+        {
+            "year": "2019",
+            "citation": "CRHA, A.; SIMEK, V.; RUZICKA, R. PAIG Rewriting: The Way to Scalable Multifunctional Digital Circuits Synthesis. In 22nd Euromicro Conference on Digital System Design. Kallithea, Chalkidiki: Institute of Electrical and Electronics Engineers, 2019. p. 335-342. ISBN: 978-1-7281-2861-0."
+        },
+        {
+            "year": "2019",
+            "citation": "NEVORAL, J.; SIMEK, V.; RUZICKA, R. PoLibSi: Path Towards Intrinsically Reconfigurable Components. In 2019 22nd Euromicro Conference on Digital System Design (DSD). Kallithea, Chalkidiki: Institute of Electrical and Electronics Engineers, 2019. p. 328-334. ISBN: 978-1-7281-2861-0."
+        },
+        {
+            "year": "2018",
+            "citation": "CRHA, A.; SIMEK, V.; RUZICKA, R. Towards novel format for representation of polymorphic circuits. In 13th International Conference on Design & Technology of Integrated Systems in Nanoscale Era (DTIS). Taormina: IEEE Circuits and Systems Society, 2018. p. 1-2. ISBN: 978-1-5386-5290-9."
+        },
+        {
+            "year": "2018",
+            "citation": "NEVORAL, J.; RUZICKA, R. Efficient Implementation of Bi-functional Components - Case Study. In 2018 New Generation of CAS (NGCAS). Valletta: IEEE Circuits and Systems Society, 2018. p. 25-28. ISBN: 978-1-5386-7680-6."
+        },
+        {
+            "year": "2018",
+            "citation": "NEVORAL, J.; RUZICKA, R.; SIMEK, V. CMOS Gates with Second Function. In 2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). Hong Kong: IEEE Computer Society, 2018. p. 82-87. ISBN: 978-1-5386-7099-6."
+        },
+        {
+            "year": "2018",
+            "citation": "NEVORAL, J.; RUZICKA, R.; SIMEK, V. From Ambipolarity to Multifunctionality: Novel Library of Polymorphic Gates Using Double-Gate FETs. In 2018 21st Euromicro Conference on Digital System Design. Praha: Institute of Electrical and Electronics Engineers, 2018. p. 657-664. ISBN: 978-1-5386-7376-8."
+        },
+        {
+            "year": "2017",
+            "citation": "CRHA, A.; SIMEK, V.; RUZICKA, R. Synthesis tool for design of complex polymorphic circuits. In 2017 12th International Conference on Design & Technology of Integrated Systems in Nanoscale Era (DTIS). Palma de Mallorca: IEEE Circuits and Systems Society, 2017. p. 149-154. ISBN: 978-1-5090-6376-5."
+        },
+        {
+            "year": "2017",
+            "citation": "NEVORAL, J.; SIMEK, V.; RUZICKA, R. Compact Library of Efficient Polymorphic Gates based on Ambipolar Transistors. In 2017 12th International Conference on Design & Technology of Integrated Systems in Nanoscale Era (DTIS). Palma de Mallorca: IEEE Circuits and Systems Society, 2017. p. 155-160. ISBN: 978-1-5090-6376-5."
+        },
+        {
+            "year": "2017",
+            "citation": "SIMEK, V.; NEVORAL, J.; CRHA, A.; RUZICKA, R. Towards Design Flow for Space-Efficient Implementation of Polymorphic Circuits Based on Ambipolar Components. ElectroScope, 2017, vol. 11, no. 1, p. 1-10. ISSN: 1802-4564."
+        },
+        {
+            "year": "2016",
+            "citation": "CRHA, A.; RUZICKA, R.; SIMEK, V. Novel Approach to Synthesis of Logic Circuits Based on Multifunctional Components. Journal of Electrical Engineering-Elektrotechnicky Casopis, 2016, vol. 67, no. 1, p. 29-35. ISSN: 1339-309X."
+        },
+        {
+            "year": "2016",
+            "citation": "NEVORAL, J.; RUZICKA, R.; MRAZEK, V. Evolutionary Design of Polymorphic Gates Using Ambipolar Transistors. In 2016 IEEE Symposium Series on Computational Intelligence. Athens: Institute of Electrical and Electronics Engineers, 2016. p. 1-8. ISBN: 978-1-5090-4240-1."
+        },
+        {
+            "year": "2016",
+            "citation": "OTAHAL, A.; CRHA, A.; SIMEK, V.; RUZICKA, R.; SZENDIUCH, I. ENHANCED METHOD OF THROUGH-HOLE COPPER PLATING. Proceedings of the 22nd Conference STUDENT EEICT 2016. Brno: Vysoke uceni technicke v Brne, Fakulta elektrotechniky a komunikacnich technologii, 2016. p. 610-614. ISBN: 978-80-214-5350-0."
+        },
+        {
+            "year": "2016",
+            "citation": "OTAHAL, A.; SIMEK, V.; CRHA, A.; RUZICKA, R.; SZENDIUCH, I. Innovative Methods for Through Holes Plating. In 2016 39th International Spring Seminar on Electronics Technology (ISSE). Conference proceedings (International Spring Seminar on Electronics Technology). Pilsen, Czech Republic: University of West Bohemia, 2016. p. 48-52. ISBN: 978-1-5090-1389-0. ISSN: 2161-2536."
+        },
+        {
+            "year": "2016",
+            "citation": "OTAHAL, A.; SIMEK, V.; CRHA, A.; RUZICKA, R.; SZENDIUCH, I. Innovative Methods in Activation Process of Through-hole Plating. Periodica Polytechnica-Electrical Engineering, 2016, vol. 60, no. 4, p. 217-222. ISSN: 0324-6000."
+        },
+        {
+            "year": "2016",
+            "citation": "OTAHAL, A.; SZENDIUCH, I.; SIMEK, V.; CRHA, A.; RUZICKA, R. Inovace procesu pokoveni pruchozich otvoru v DPS. DPS Elektronika od A do Z, 2016, c. 1/2016, s. 2-3. ISSN: 1805-5044."
+        },
+        {
+            "year": "2016",
+            "citation": "RUZICKA, R.; TESAR, R. Lets Move Polymorphism Downwards: On the Multifunctional Logic Based on Ambipolar Behaviour of Semiconductor Devices. In Proceedings of the 11th International Conference on Design & Technology of Integrated Systems in Nanoscale Era. Istanbul: Istanbul Sehir University, 2016. p. 275-279. ISBN: 978-1-5090-0335-8."
+        },
+        {
+            "year": "2016",
+            "citation": "SIMEK, V.; STRITESKY, S.; REZNICEK, M.; CRHA, A.; RUZICKA, R. Towards Implementation of Logic Circuits Based on Intrinsically Reconfigurable Organic Transistors. In Proceedings of the 6th Electronics System-Integration Technology Conference. Grenoble, FR: Institute of Electrical and Electronics Engineers, 2016. p. 1-6. ISBN: 978-1-5090-1401-9."
+        },
+        {
+            "year": "2016",
+            "citation": "SIMEK, V.; STRITESKY, S.; REZNICEK, M.; CRHA, A.; RUZICKA, R. Towards Implementation of Logic Circuits Based on Intrinsically Reconfigurable Organic Transistors. In Proceedings of the 6th Electronics System-Integration Technology Conference. Grenoble: Institute of Electrical and Electronics Engineers, 2016. p. 1-6. ISBN: 978-1-5090-1401-9."
+        },
+        {
+            "year": "2016",
+            "citation": "SIMEK, V.; TESAR, R.; RUZICKA, R.; CRHA, A. Modelling and Physical Implementation of Ambipolar Components Based on Organic Materials. In Proceedings of the 28th International Conference on Microelectronics (ICM 2016). Cairo: IEEE Circuits and Systems Society, 2016. p. 341-344. ISBN: 978-1-5090-5721-4."
+        },
+        {
+            "year": "2016",
+            "citation": "TESAR, R.; SIMEK, V.; RUZICKA, R.; CRHA, A. Design of Polymorphic Operators for Efficient Synthesis of Multifunctional Circuits. Journal of Computer and Communications, 2016, vol. 4, no. 15, p. 151-159. ISSN: 2327-5227."
+        },
+        {
+            "year": "2015",
+            "citation": "CRHA, A.; RUZICKA, R.; SIMEK, V. On the Synthesis of Multifunctional Logic Circuits. Abstracts Proceedings of International FLASH Conference. Brno: Faculty of Electrical Engineering and Communication BUT, 2015. p. 52-53. ISBN: 978-80-214-5270-1."
+        },
+        {
+            "year": "2015",
+            "citation": "CRHA, A.; RUZICKA, R.; SIMEK, V. Synthesis Methodology of Polymorphic Circuits Using Polymorphic NAND/NOR Gates. In Proceedings on UKSim-AMSS 17th International Conference on Computer Modelling ans Simulation. Cambridge: IEEE Computer Society, 2015. p. 612-617. ISBN: 978-1-4799-8713-9."
+        },
+        {
+            "year": "2015",
+            "citation": "OTAHAL, A.; SZENDIUCH, I.; SIMEK, V.; CRHA, A.; RUZICKA, R. Optimization of Through-hole Plating Method for Prototyping. In Abstracts Proceedings, International flash conference IMAPS - Czech and Slovak chapter. ElectroScope. 2015. no. 1_2016, p. 54-56. ISBN: 978-80-214-5270-1. ISSN: 1802-4564."
+        },
+        {
+            "year": "2015",
+            "citation": "REZNICEK, M.; BURSIK, M.; JANKOVSKY, J.; SIMEK, V.; RUZICKA, R. Temperature Stabilized Chip Expander. In Proceedings on 20th European Microelectronics and Packaging Conference & Exhibition. Friedrichshafen: IMAPS-Deutschland e.V., 2015. p. 1-6. ISBN: 978-0-9568086-1-5."
+        },
+        {
+            "year": "2015",
+            "citation": "SIMEK, V.; RUZICKA, R.; CRHA, A. Toward Efficient Synthesis Method of Multifunctional Logic Circuits. In Proceedings of the 27th International Conference on Microelectronics (ICM 2015). Casablanca: IEEE Computer Society, 2015. p. 21-24. ISBN: 978-1-4673-8759-0."
+        },
+        {
+            "year": "2015",
+            "citation": "SIMEK, V.; RUZICKA, R.; CRHA, A.; REZNICEK, M.; BURSIK, M. Reconfigurable Digital Circuits Based on Chip Expander with Integrated Temperature Regulation. Journal of Computer and Communications, 2015, vol. 3, no. 11, p. 169-175. ISSN: 2327-5227."
+        },
+        {
+            "year": "2015",
+            "citation": "STRITESKY, S.; WEITER, M.; VALA, M.; SIMEK, V.; CRHA, A.; RUZICKA, R. OFET transistors for logical circuit. IFSOE 2015 Book of Abstracts. 2nd International Fall School. Moskva: 2015. p. 99-99."
+        },
+        {
+            "year": "2014",
+            "citation": "SIMEK, V.; RUZICKA, R. Reconfigurable Platform with Polymorphic Digital Gates and Partial Reconfiguration Feature. In Proceedings on UKSim-AMSS 8th European Modelling Symposium on Mathematical Modelling and Computer Simulation. Pisa: IEEE Computer Society, 2014. p. 501-506. ISBN: 978-1-4799-7411-5."
+        },
+        {
+            "year": "2014",
+            "citation": "SIMEK, V.; RUZICKA, R.; CRHA, A.; TESAR, R. Implementation of a Cellular Automaton with Globally Switchable Rules. In 11th International Conference on Cellular Automata for Research and Industry, ACRI 2014. Lecture Notes in Computer Science. Cham: Springer Science+Business Media B.V., 2014. p. 378-387. ISBN: 978-3-319-11519-1."
+        },
+        {
+            "year": "2014",
+            "citation": "TESAR, R.; RUZICKA, R.; SIMEK, V. Resistant Gates for Polymorphic Electronics. In Proceedings on UKSim-AMSS 8th European Modelling Symposium on Mathematical Modelling and Computer Simulation. Pisa: IEEE Computer Society, 2014. p. 513-518. ISBN: 978-1-4799-7412-2."
+        },
+        {
+            "year": "2014",
+            "citation": "TESAR, R.; SIMEK, V.; RUZICKA, R.; CRHA, A. Polymorphic Electronics Based on Ambipolar OFETs. EDS 2014 IMAPS CS International Conference Proceedings. Brno: Brno University of Technology, 2014. p. 106-111. ISBN: 978-80-214-4985-5."
+        },
+        {
+            "year": "2013",
+            "citation": "RUZICKA, R.; SIMEK, V. More Complex Polymorphic Circuits: A Way to Implementation of Smart Dependable Systems. ElectroScope, 2013, vol. 7, no. 5, p. 1-6. ISSN: 1802-4564."
+        },
+        {
+            "year": "2013",
+            "citation": "SEKANINA, L.; FEY, G.; RAIK, J.; AUNET, S.; RUZICKA, R. IEEE 16th International Symposium on Design and Diagnostics of Electronic Circuits & Systems. Brno: IEEE Computer Society, 2013. 300 p. ISBN: 978-1-4673-6133-0."
+        },
+        {
+            "year": "2013",
+            "citation": "SEKANINA, L.; RUZICKA, R.; VASICEK, Z.; SIMEK, V.; HANACEK, P. Implementing a Unique Chip ID on a Reconfigurable Polymorphic Circuit. Information Technology and Control, 2013, vol. 42, no. 1, p. 7-14. ISSN: 1392-124X."
+        },
+        {
+            "year": "2013",
+            "citation": "SIMEK, V.; RUZICKA, R. More Complex Polymorphic Circuits and Their Physical Implementation. Proceedings of the 20th Electronic Devices and Systems IMAPS CS International Conference. Brno: Brno University of Technology, 2013. p. 189-194. ISBN: 978-80-214-4754-7."
+        },
+        {
+            "year": "2012",
+            "citation": "RUZICKA, R. Polymorfni elektronika. Brno: 2012. 118 s."
+        },
+        {
+            "year": "2012",
+            "citation": "RUZICKA, R.; SIMEK, V. NAND/NOR Gate Polymorphism in Low Temperature Environment. Proceedings of the 2012 IEEE 15th International Symposium on Design and Diagnostics of Electronic Circuits & Systems. Tallinn: Institute of Electrical and Electronics Engineers, 2012. p. 34-37. ISBN: 978-1-4673-1185-4."
+        },
+        {
+            "year": "2012",
+            "citation": "RUZICKA, R.; SIMEK, V. Polymeric Polymorphic Electronics: Towards Multifunctional Logic Elements Based on Organic Semiconductor Materials. Proceedings of CSE 2012 International Scientific Conference on Computer Science and Engineerig. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2012. p. 154-161. ISBN: 978-80-8143-049-7."
+        },
+        {
+            "year": "2011",
+            "citation": "RUZICKA, R.; SIMEK, V. Chip Temperature Selfregulation for Digital Circuits Using Polymorphic Electronics Principles. Proceedings of 14th Euromicro Conference on Digital System Design. Los Alamitos: IEEE Computer Society Press, 2011. p. 205-212. ISBN: 978-0-7695-4494-6."
+        },
+        {
+            "year": "2011",
+            "citation": "RUZICKA, R.; SIMEK, V. On Properties of Basic Building Blocks for Printable Polymer and Nanometal Logic. Proc. of IMAPS CS International Conference on Electronic Devices and Systems. Brno: Brno University of Technology, 2011. p. 258-263. ISBN: 978-80-214-4303-7."
+        },
+        {
+            "year": "2011",
+            "citation": "RUZICKA, R.; SIMEK, V.; SEKANINA, L. Behavior of CMOS Polymorphic Circuits in High Temperature Environment. Proceedings of the 2011 IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Cottbus: IEEE Computer Society, 2011. p. 447-452. ISBN: 978-1-4244-9753-9."
+        },
+        {
+            "year": "2010",
+            "citation": "RUZICKA, R. Gracefully Degrading Circuit Controllers Based on Polytronics. Proc. of 13th Euromicro Conference on Digital System Design. Los Alamitos: IEEE Computer Society, 2010. p. 809-812. ISBN: 978-0-7695-4171-6."
+        },
+        {
+            "year": "2010",
+            "citation": "RUZICKA, R. On Practical Aspects of Printable Polymer and Nanometal Logic. Proceedings of CSE2010 - International Scientific Conference on Computer Science and Engineering. Kosice: The University of Technology Kosice, 2010. p. 202-207. ISBN: 978-80-8086-164-3."
+        },
+        {
+            "year": "2010",
+            "citation": "SIMEK, V.; RUZICKA, R.; SEKANINA, L. On Analysis of Fabricated Polymorphic Circuits. Proc. of the 13th Int. IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Vienna: IEEE Computer Society, 2010. p. 281-284. ISBN: 978-1-4244-6610-8."
+        },
+        {
+            "year": "2009",
+            "citation": "RUZICKA, R. Dependable Controller Design using Polymorphic Counters. Proc. of 12th Euromicro Conference on Digital System Design. Los Alamitos: IEEE Computer Society, 2009. p. 355-362. ISBN: 978-0-7695-3782-5."
+        },
+        {
+            "year": "2009",
+            "citation": "SEKANINA, L.; RUZICKA, R.; GAJDA, Z. Polymorphic FIR Filters with Backup Mode Enabling Power Savings. Proc. of the 2009 NASA/ESA Conference on Adaptive Hardware and Systems. Los Alamitos: IEEE Computer Society, 2009. p. 43-50. ISBN: 978-0-7695-3714-6."
+        },
+        {
+            "year": "2009",
+            "citation": "SEKANINA, L.; RUZICKA, R.; VASICEK, Z.; PROKOP, R.; FUJCIK, L. REPOMO32 - New Reconfigurable Polymorphic Integrated Circuit for Adaptive Hardware. Proc. of the 2009 IEEE Symposium Series on Computational Intelligence - Workshop on Evolvable and Adaptive Hardware. Nashville: IEEE Computational Intelligence Society, 2009. p. 39-46. ISBN: 978-1-4244-2755-0."
+        },
+        {
+            "year": "2009",
+            "citation": "SEKANINA, L.; VASICEK, Z.; RUZICKA, R.; BIDLO, M.; JAROS, J.; SVENDA, P. Evolucni hardware: Od automatickeho generovani patentovatelnych invenci k sebemodifikujicim se strojum. Edice Gerstner. Edice Gerstner. Praha: Nakladatelstvi Academia, 2009. 328 s. ISBN: 978-80-200-1729-1."
+        },
+        {
+            "year": "2009",
+            "citation": "STRNADEL, J.; RUZICKA, R. Testability Analysis Driven Data Path Modification And Controller Synthesis. Proceedings of 16th Electronic Devices and Systems IMAPS CS International Conference. Brno: Brno University of Technology, 2009. p. 363-368. ISBN: 978-80-214-3933-7."
+        },
+        {
+            "year": "2008",
+            "citation": "RUZICKA, R. On Bifunctional Polymorphic Gates Controlled by a Special Signal. WSEAS Transactions on Circuits, 2008, vol. 7, no. 3, p. 96-101. ISSN: 1109-2734."
+        },
+        {
+            "year": "2008",
+            "citation": "RUZICKA, R.; PROKOP, R. Bifunctional NAND/NOR Gates as Building Blocks for Polytronics. Proceedings of CSE 2008. Stara Lesna: The University of Technology Kosice, 2008. p. 200-207. ISBN: 978-80-8086-092-9."
+        },
+        {
+            "year": "2008",
+            "citation": "RUZICKA, R.; SEKANINA, L.; PROKOP, R. Physical Demonstration of Polymorphic Self-checking Circuits. Proc. of the 14th IEEE Int. On-Line Testing Symposium. Los Alamitos: IEEE Computer Society, 2008. p. 31-36. ISBN: 978-0-7695-3264-6."
+        },
+        {
+            "year": "2007",
+            "citation": "RUZICKA, R. New Polymorphic NAND/XOR Gate. Proceedings of 7th WSEAS International Conference on Applied Computer Science. WSEAS Applied Informatics & Communications. Computer Science Challenges. Venice: World Scientific and Engineering Academy, 2007. no. 11, p. 192-196. ISBN: 978-960-6766-15-2. ISSN: 1790-5117."
+        },
+        {
+            "year": "2007",
+            "citation": "RUZICKA, R. Podpora navrhu pro snadnou testovatelnost cislicovych obvodu popsanych na urovni meziregistrovych prenosu. Brno: Fakulta informacnich technologii VUT v Brne, 2007. 130 s. ISBN: 978-80-214-3551-3."
+        },
+        {
+            "year": "2007",
+            "citation": "RUZICKA, R.; STARECEK, L. Development of Building Blocks for Polymorphic Digital Circuits. Proceedings of the Work in Progress Session of 10th Euromicro DSD 2007. Linz: Johannes Kepler University Linz, 2007. p. 33-34. ISBN: 978-3-902457-16-5."
+        },
+        {
+            "year": "2007",
+            "citation": "RUZICKA, R.; STRNADEL, J. Test Controller Synthesis Constrained by Circuit Testability Analysis. Proceedings of 10th Euromicro Conference on Digital System Design, Architectures, Methods and Tools. Los Alamitos: IEEE Computer Society Press, 2007. p. 626-633. ISBN: 0-7695-2978-X."
+        },
+        {
+            "year": "2006",
+            "citation": "RUZICKA, R. DFT Flow for RT Level Digital Circuits Using iFCoRT System. Proceedings of the Seventh International Scientific Conference Electronic Computers and Informatics ECI 2006. Kosice: 2006. p. 292-297. ISBN: 80-8073-598-0."
+        },
+        {
+            "year": "2006",
+            "citation": "RUZICKA, R.; SEKANINA, L. Evolutionary Circuit Design in REPOMO - Reconfigurable Polymorphic Module. Proceedings of the Second IASTED International Conference on Computational Intelligence. Anaheim: ACTA Press, 2006. p. 237-241. ISBN: 0-88986-602-3."
+        },
+        {
+            "year": "2006",
+            "citation": "SKARVADA, J.; RUZICKA, R. Using Petri Nets for RT Level Digital Systems Test Scheduling. Proceedings of 1st International Workshop on Formal Models (WFM'06). Ostrava: Marq software s.r.o., 2006. p. 79-86. ISBN: 80-86840-20-4."
+        },
+        {
+            "year": "2005",
+            "citation": "RUZICKA, R. A Complex Approach to Digital RTL Circuit Testability - iFCoRT System. Informal Digest of Papers of the IEEE European Test Symposium 2005. Tallinn: Tallinn University of Technology, 2005. p. 156-157."
+        },
+        {
+            "year": "2005",
+            "citation": "RUZICKA, R. On the Petri Net Based Test Scheduling. Proceedings of the Work in Progress Session at Euromicro SEAA/DSD 2005. Linz: Johannes Kepler University Linz, 2005. p. 18-19. ISBN: 3-902457-09-0."
+        },
+        {
+            "year": "2004",
+            "citation": "RUZICKA, R.; SEKANINA, L. A Platform for Demonstration of Analogue and Digital Circuits Evolution. Proceedings of the Sixth Internation Scientific Conference Electronic Computers nad Informatics 2004. Kosice: The University of Technology Kosice, 2004. p. 158-163. ISBN: 80-8073-150-0."
+        },
+        {
+            "year": "2004",
+            "citation": "RUZICKA, R.; SKARVADA, J. RTL Testability Verification System. Proceedings of the Work In Progress Session of 30th Euromicro Conference. Linz: Johannes Kepler University Linz, 2004. p. 101-102. ISBN: 3-902457-05-8."
+        },
+        {
+            "year": "2004",
+            "citation": "RUZICKA, R.; TUPEC, P. Formal Approach to Synthesis of a Test Controller. Proceedings of Eleventh International Conference and Workshop on the Engineering of Computer-Based Systems. Los Alamitos, California: IEEE Computer Society, 2004. p. 348-355. ISBN: 0-7695-2125-8."
+        },
+        {
+            "year": "2003",
+            "citation": "RUZICKA, R. Testable Design Verification Using Petri Nets. Proceedings of Euromicro Symposium on Digital System Design 2003. Los Alamitos, CA: IEEE Computer Society Press, 2003. p. 304-311. ISBN: 0-7695-2003-0."
+        },
+        {
+            "year": "2003",
+            "citation": "RUZICKA, R.; KOTASEK, Z.; SEKANINA, L. Sbornik pracovniho seminare \"Pocitacove architektury a diagnostika\" pro studenty doktorskeho studia. Brno: Ustav pocitacovych systemu FIT VUT v Brne, 2003. 84 s. ISBN: 80-214-2471-0."
+        },
+        {
+            "year": "2003",
+            "citation": "RUZICKA, R.; ZBORIL, F. Representation of Datapath Structure in Predicate Logic and its Implementation in Prolog. Proceedings of International Carpathian Control Conference. Kosice: The University of Technology Kosice, 2003. p. 727-730. ISBN: 80-7099-509-2."
+        },
+        {
+            "year": "2003",
+            "citation": "SEKANINA, L.; RUZICKA, R. Easily Testable Image Operators: The Class of Circuits Where Evolution Beats Engineers. The 2003 NASA/DoD Conference on Evolvable Hardware. Los Alamitos: IEEE Computer Society Press, 2003. p. 135-144. ISBN: 0-7695-1977-6."
+        },
+        {
+            "year": "2003",
+            "citation": "SEKANINA, L.; RUZICKA, R. On the Automatic Design of Testable Circuits. Proceedings of IEEE Workshop on Design nad Diagnostics of Electronic Circuits and Systems. Poznan: Publishing House of Poznan University of Technology, 2003. p. 299-300. ISBN: 83-7143-557-6."
+        },
+        {
+            "year": "2002",
+            "citation": "KOTASEK, Z.; RUZICKA, R.; HLAVICKA, J.; MARINISSEN, E.; NOVAK, O.; STRAUBE, B. Proceedings of 5th International Workshop IEEE Design and Diagnostics of Electronic Circuits and Systems. Brno: Faculty of Information Technology BUT, 2002. 427 p. ISBN: 80-214-2094-4."
+        },
+        {
+            "year": "2002",
+            "citation": "RUZICKA, R. Formalni pristup k analyze testovatelnosti cislicovych obvodu na urovni RT. Brno: 2002. 102 s."
+        },
+        {
+            "year": "2002",
+            "citation": "RUZICKA, R. The Formal Approach to the RTL Test Application Problem Using Petri Nets. Proceedings of IEEE Design and Diagnostics of Electronic Circuits and Systems 2002. Brno: Faculty of Information Technology BUT, 2002. p. 78-86. ISBN: 80-214-2094-4."
+        },
+        {
+            "year": "2002",
+            "citation": "RUZICKA, R. VHDL Circuit Description Transparency Analysis. Proceedings of the Fifth International Scientific Conference Electronic Computers and Informatics 2002. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2002. p. 194-199. ISBN: 80-7099-879-2."
+        },
+        {
+            "year": "2001",
+            "citation": "KOTASEK, Z.; RUZICKA, R.; STRNADEL, J. Formal and Analytical Approaches to the Testability Analysis - the Comparison. Proceedings of IEEE Design and Diagnostics of Electronic Circuits and Systems Workshop 2001. Gyor: SZIF-UNIVERSITAS Ltd., Hungary, 2001. p. 123-128. ISBN: 963-7175-16-4."
+        },
+        {
+            "year": "2001",
+            "citation": "KOTASEK, Z.; RUZICKA, R.; STRNADEL, J.; ZBORIL, F. Two Level Testability Analysis System. Proceedings of the 35th Spring International Conference MOSIS'01. Ostrava: Marq software s.r.o., 2001. p. 433-440. ISBN: 80-85988-57-7."
+        },
+        {
+            "year": "2001",
+            "citation": "KOTASEK, Z.; STRNADEL, J.; RUZICKA, R.; HLAVICKA, J. Interactive Tool for Behavioral Level Testability Analysis. Proceedings of the IEEE ETW 2001. Stockholm: 2001. p. 117-119."
+        },
+        {
+            "year": "2000",
+            "citation": "KOTASEK, Z.; RUZICKA, R. Behavioral Analysis for Testability on VHDL Source File. Proceedings of Design and Diagnostics of Electronic Circuits and Systems Workshopsbornik konference IEEE DDECS. Bratislava: Slovak Academy of Science, 2000. p. 209-212. ISBN: 80-968320-3."
+        },
+        {
+            "year": "2000",
+            "citation": "KOTASEK, Z.; RUZICKA, R. Partial Scan Methodologies - a Survey. sbornik konference PDS2000. Ostrava: Elsevier Science, 2000. p. 133-137. ISBN: 0-08-043620-X."
+        },
+        {
+            "year": "2000",
+            "citation": "KOTASEK, Z.; RUZICKA, R. Testability Analysis Based on Discrete Mathematics Concepts. Proc. of the 9-th International Colloquium on Numerical Analysis and Computer Science with Applications. Plovdiv: unknown, 2000. 113 p."
+        },
+        {
+            "year": "2000",
+            "citation": "KOTASEK, Z.; RUZICKA, R. The Implementation of RTL Testability Analysis Algorithms trough the Discrete Mathematics Concepts. Proc. of the Fourth International Scientific Conference on Electronic Computers and Informatics. Kosice-Herlany: unknown, 2000. p. 177-182. ISBN: 80-88922-25-9."
+        },
+        {
+            "year": "2000",
+            "citation": "KOTASEK, Z.; RUZICKA, R.; HLAVICKA, J. Formal Approach to RTL Testability Analysis. sbornik konference IEEE LATW 2000. Rio de Janeiro: unknown, 2000. p. 98-103."
+        },
+        {
+            "year": "2000",
+            "citation": "RUZICKA, R. Data Dependent I Path and their Utilisation in DFT. Sbornik praci studentu a doktorandu FEI VUT. Brno: Akademicke nakladatelstvi CERM, 2000. p. 228-230. ISBN: 80-7204-155-X."
+        },
+        {
+            "year": "2000",
+            "citation": "RUZICKA, R. PCB for Teaching Purposes to Present the ISA Bus Adapter Design. Proc. of the Fourth International Scientific Conference on Electronic Computers and Informatics. Kosice-Herlany: unknown, 2000. p. 213-218. ISBN: 80-88922-25-9."
+        },
+        {
+            "year": "2000",
+            "citation": "RUZICKA, R.; SEKANINA, L. The Role of Simulation During Design of Evolvable Systems. Proc. of 22-nd International Colloquium Advanced Simulation of Systems 2000. Ostrava: Marq software s.r.o., 2000. p. 85-90. ISBN: 80-85988-51-8."
+        },
+        {
+            "year": "2000",
+            "citation": "SEKANINA, L.; RUZICKA, R. Design of the Special Fast Reconfigurable Chip Using Common FPGA. Proc. of Design and Diagnostics of Electronic Circuits and Systems - IEEE DDECS'2000. Smolenice: unknown, 2000. p. 161-168. ISBN: 80-968320-3-4."
+        },
+        {
+            "year": "1999",
+            "citation": "KOTASEK, Z.; RUZICKA, R.; ZBORIL, F. Partial Scan Methodology in VHDL Environment. CEI'99. Herlany: unknown, 1999. p. 146-151. ISBN: 80-88922-05-4."
+        },
+        {
+            "year": "1999",
+            "citation": "RUZICKA, R. Vyuziti metod Castecny Scan v diagnostice cislicovych obvodu. Sbornik praci studentu a doktorandu. Brno: Akademicke nakladatelstvi CERM sro., 1999. s. 101-102. ISBN: 80-214-1155-4."
+        },
+        {
+            "year": "1999",
+            "citation": "RUZICKA, R. Vyuziti metod Partial scan v diagnostice cislicovych obvodu. Brno: Ustav informatiky a vypocetni techniky FEI VUT, 1999. 81 s."
+        }
+    ],
+    "name": "Ruzicka Richard, doc. Ing., Ph.D., MBA"
+}

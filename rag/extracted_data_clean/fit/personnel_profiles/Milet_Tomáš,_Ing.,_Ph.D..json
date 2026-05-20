@@ -1,0 +1,242 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "imilet@fit.vut.cz",
+            "work_phone": "+420 54114 1477",
+            "phone": "+420 54114 1414",
+            "room": "Q202 DCGM Laboratory",
+            "orcid_id": "0000-0003-0841-4198",
+            "scopus_author_id": "56156667500"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Computer Graphics Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "Imagine Cup 2013"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Tuesday, 12:00-15:00 , More info here: https://merlin.fit.vutbr.cz/wiki/index.php/Konzultace-Milet",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "VIZa",
+                "title": "Visualization and CAD (in English)",
+                "details": "English, summer",
+                "department": "DCGM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "GZN",
+                "title": "Graphical and Sound Interfaces and Standards",
+                "details": "Exercise in computer lab, Lecture,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IZG",
+                "title": "Computer Graphics Principles",
+                "details": "Exercise in computer lab, Lecture, Project,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "MUL",
+                "title": "Multimedia",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "MULe",
+                "title": "Multimedia (in English)",
+                "details": "Lecture, Project,\nEnglish, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "PGPa",
+                "title": "Advanced Computer Graphics (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "PGR",
+                "title": "Computer Graphics",
+                "details": "Exercise in computer lab, Lecture,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "PGRe",
+                "title": "Computer Graphics (in English)",
+                "details": "Exercise in computer lab, Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "VIZa",
+                "title": "Visualization and CAD (in English)",
+                "details": "Exercise in computer lab, Lecture,\nEnglish, summer",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Qinfo - Acquisition and Statistical Processing of Subjective Attitudes in Time",
+            "details": "TACR, 1. verejna soutez programu SIGMA, TQ01000036, start: 2023-09-01, end: 2026-08-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "RoQuIEm - 5G-enable Road Quality Monitoring based on Embedded Intelligence",
+            "details": "TACR, 8. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW08010018, start: 2023-06-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "RoSuM - 5G-enabled Road Surface Marking and Traffic Sign Localization, Quality Inspection, and Regular Passportization",
+            "details": "TACR, 8. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW08010017, start: 2023-06-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Intelligent Sensors for Traffic Monitoring",
+            "details": "EU, OP PIK - Aplikace, EG21_374/0026902, start: 2022-03-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Distributed Artificial Intelligent Systems",
+            "details": "EU, Horizon 2020, 8A21012, 101007273, start: 2021-05-01, end: 2024-04-30, running"
+        },
+        {
+            "year": "2021",
+            "title": "SECUSEN II: SECure SENsors - Industrial Intelligence",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/14, start: 2021-06-01, end: 2022-09-30, running"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Auto-Navigation for Urban Air Mobility",
+            "details": "Honeywell, spol. s r.o., start: 2019-04-16, end: 2019-07-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Consultancy and making algorithmes for Computer Vision",
+            "details": "NXP, start: 2018-06-05, end: 2018-06-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Progressive Image Processing Algorithms",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH04010394, start: 2018-10-01, end: 2021-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3984, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2506, start: 2014-01-01, end: 2016-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "CHLUBNA, T.; MILET, T.; ZEMCIK, P. How Color Profile Affects the Visual Quality in Light Field Rendering and Novel View Synthesis. MULTIMEDIA TOOLS AND APPLICATIONS, 2025, vol. 84, no. 14, p. 11079-11095."
+        },
+        {
+            "year": "2025",
+            "citation": "CHLUBNA, T.; MILET, T.; ZEMCIK, P. Light Field Video Streaming on GPU. SIGNAL PROCESSING-IMAGE COMMUNICATION, 2025, vol. 2025, no. 138, 12 p."
+        },
+        {
+            "year": "2025",
+            "citation": "CHLUBNA, T.; VLNAS, M.; BARINA, D.; MILET, T.; ZEMCIK, P. Focus-aware compression and image quality metric for 3D displays. Signal processing, 2025, vol. 2026, no. 238, p. 1-14. ISSN: 0165-1684."
+        },
+        {
+            "year": "2025",
+            "citation": "CHLUBNA, T.; VLNAS, M.; MILET, T.; ZEMCIK, P. Survey of FOSS 3D/2D Graphics Software Blender Usage in Science, Academia, and Industry. The visual computer, 2025, vol. 42, no. 1, p. 1-32."
+        },
+        {
+            "year": "2025",
+            "citation": "VLNAS, M.; MILET, T.; ZEMCIK, P. Low-error Reconstruction of Directional Functions with Spherical Harmonics. IEEE transactions on visualization and computer graphics, 2025, vol. 31, no. 10, p. 8413-8424. ISSN: 1077-2626."
+        },
+        {
+            "year": "2024",
+            "citation": "CHLUBNA, T.; MILET, T.; ZEMCIK, P. Automatic 3D-Display-Friendly Scene Extraction from Video Sequences and Optimal Focusing Distance Identification. MULTIMEDIA TOOLS AND APPLICATIONS, 2024, vol. 83, no. 7, p. 74535-74562. ISSN: 1573-7721."
+        },
+        {
+            "year": "2024",
+            "citation": "CHLUBNA, T.; MILET, T.; ZEMCIK, P. How Capturing Camera Trajectory Distortion Affects User Experience on Looking Glass 3D Display. MULTIMEDIA TOOLS AND APPLICATIONS, 2024, vol. 2024, no. 83, p. 20265-20287. ISSN: 1573-7721."
+        },
+        {
+            "year": "2024",
+            "citation": "CHLUBNA, T.; MILET, T.; ZEMCIK, P. Lightweight All-Focused Light Field Rendering. COMPUTER VISION AND IMAGE UNDERSTANDING, 2024, vol. 244, no. 7, p. 7-8. ISSN: 1077-3142."
+        },
+        {
+            "year": "2024",
+            "citation": "CHLUBNA, T.; MILET, T.; ZEMCIK, P. Out-of-Focus Artifacts Mitigation and Autofocus Methods for 3D Displays. Visual Informatics, 2024, vol. 9, no. 1, p. 31-42. ISSN: 2468-502X."
+        },
+        {
+            "year": "2024",
+            "citation": "CHLUBNA, T.; ZEMCIK, P.; MILET, T. Efficient Random-Access GPU Video Decoding for Light-Field Rendering. JOURNAL OF VISUAL COMMUNICATION AND IMAGE REPRESENTATION, 2024, vol. 2024, no. 102, p. 1-14. ISSN: 1047-3203."
+        },
+        {
+            "year": "2023",
+            "citation": "CHLUBNA, T.; MILET, T.; ZEMCIK, P.; KULA, M. Real-Time Light Field Video Focusing and GPU Accelerated Streaming. Journal of Signal Processing Systems for Signal Image and Video Technology, 2023, vol. 95, no. 6, p. 703-719. ISSN: 1939-8115."
+        },
+        {
+            "year": "2022",
+            "citation": "KOBRTEK, J.; MILET, T.; TOTH, M.; HEROUT, A. Comparison of Modern Omnidirectional Precise Shadowing Techniques Versus Ray Tracing. Computer Graphics Forum, 2022, vol. 41, no. 1, p. 106-121. ISSN: 0167-7055."
+        },
+        {
+            "year": "2021",
+            "citation": "CHLUBNA, T.; MILET, T.; ZEMCIK, P. Real-time per-pixel focusing method for light field rendering. Computational Visual Media, 2021, vol. 2021, no. 7, p. 319-333. ISSN: 2096-0662."
+        },
+        {
+            "year": "2019",
+            "citation": "KOBRTEK, J.; MILET, T.; HEROUT, A. Silhouette Extraction for Shadow Volumes Using Potentially Visible Sets. In International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG). Plzen: Union Agency, 2019. p. 9-16. ISBN: 978-80-86943-37-4."
+        },
+        {
+            "year": "2015",
+            "citation": "MILET, T.; NAVRATIL, J.; ZEMCIK, P. An Improved Non-Orthogonal Texture Warping for Better Shadow Rendering. In WSCG 2015 - Full Papers Proceedings. Plzen: Union Agency, 2015. p. 99-107. ISBN: 978-80-86943-65-7."
+        },
+        {
+            "year": "2015",
+            "citation": "MILET, T.; TOTH, M.; PECIVA, J.; STARKA, T.; KOBRTEK, J.; ZEMCIK, P. Fast robust and precise shadow algorithm for WebGL 1.0 platform. In ICAT-EGVE 2015 - International Conference on Artificial Reality and Telexistence and Eurographics Symposium on Virtual Environments. Kyoto: Eurographics Association, 2015. p. 85-92. ISBN: 978-3-905674-84-2."
+        },
+        {
+            "year": "2014",
+            "citation": "MILET, T.; KOBRTEK, J.; ZEMCIK, P.; PECIVA, J. Fast and Robust Tessellation-Based Silhouette Shadows. 22nd International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision, WSCG 2014, Poster Papers Proceedings - in co-operation with EUROGRAPHICS Association. Plzen: University of West Bohemia in Pilsen, 2014. p. 33-38. ISBN: 978-80-86943-72-5."
+        },
+        {
+            "year": "2013",
+            "citation": "MILET, T.; NAVRATIL, J.; HEROUT, A.; ZEMCIK, P. Improved Computation of Attenuated Light with Application in Scenes with Multiple Light Sources. Proceedings of SCCG 2013. Bratislava: Comenius University in Bratislava, 2013. p. 155-160. ISBN: 978-80-223-3377-1."
+        },
+        {
+            "year": "2013",
+            "citation": "PECIVA, J.; STARKA, T.; MILET, T.; KOBRTEK, J.; ZEMCIK, P. Robust Silhouette Shadow Volumes on Contemporary Hardware. In 23rd International Conference on Computer Graphics and Vision, GraphiCon 2013 - Conference Proceedings. Vladivostok: GraphiCon Scientific Society, 2013. p. 56-59. ISBN: 978-5-8044-1402-4."
+        }
+    ],
+    "name": "Milet Tomas, Ing., Ph.D."
+}

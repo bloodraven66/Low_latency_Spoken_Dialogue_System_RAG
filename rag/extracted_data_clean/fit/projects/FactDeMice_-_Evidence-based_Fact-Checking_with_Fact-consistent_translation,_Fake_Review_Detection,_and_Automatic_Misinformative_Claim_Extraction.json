@@ -1,0 +1,37 @@
+{
+    "project": "FactDeMice - Evidence-based Fact-Checking with Fact-consistent translation, Fake Review Detection, and Automatic Misinformative Claim Extraction",
+    "title": "FactDeMice - Overovani faktu na zaklade textovych dokladu s vyuzitim prekladu konzistentniho s fakty, detekci falesnych recenzi a automaticke extrakce zavadejicich tvrzeni",
+    "metadata": {
+        "project_period": "1. 1. 2025 \u2013 31. 12. 2027",
+        "project_type": "grant",
+        "code": "TQ16000028",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "8. verejna soutez programu SIGMA Dilci cil 4: Bilateralni spoluprace"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "FactDeMice - Evidence-based Fact-Checking with Fact-consistent translation, Fake Review Detection, and Automatic Misinformative Claim Extraction"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "fake news detection; fact checking; contrastive evidence; disinformation; data augmentation; DNN; LLM; OSINT data; propagation behavior; social media; machine translation; information retrieval; multilingual; Czech; English; Chinese"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "(1) Fake Review Dataset Collection & Detection Tools M: Part of deliverable 3.1, performance on test set (from WP2.1). WP2.1: [M1~M12] WP3.1: [M7~M21] (2) Disinformation Campaign Detection Methods M: Part of deliverable 3.1, performance on test set (from WP2.2). WP2.2: [M13~M24] WP3.2: [M13~M30] (3) Automatic Claim Extraction from News Comments M: Part of deliverable 3.1, performance on test set (from WP2.3). WP2.3: [M7~M18] WP3.3: [M16~M33] (4) Evidence-Based Claim Analysis Tools M: Part of deliverable 3.1, performance on test set (from WP2.3). WP2.3: [M7~M18] WP3.3: [M16~M33] (5) Factually Consistent Language Translation M: Part of deliverable 3.2, performance on test set (from WP2.3). WP2.3: [M7~M18] WP3.4: [M25~M36]"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Fajcik Martin, Ing., Ph.D. (DCGM) \u2013 research leader Jarolim Antonin, Ing. (DCGM) Makaiova Lucia, Bc. (DCGM) Rysanek Jakub, Bc. (DCGM) Smrz Pavel, doc. RNDr., Ph.D. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- JAROLIM, A.; FAJCIK, M.; MAKAIOVA, L. Can LLMs Extract Human-like Fine-grained Evidence for Evidence-based Fact-checking?. In Proceedings of the Nineteenth Workshop on Recent Advances in Slavonic Natural Languages Processing, RASLAN 2025. Recent Advances in Slavonic Natural Language Processing. 2025. no. 2025, p. 25-36. ISBN: 978-80-263-1858-3. Detail MAKAIOVA, L.; FAJCIK, M.; JAROLIM, A. Examining the Metrics for Document-Level Claim Extraction in Czech and Slovak. In Proceedings of the Nineteenth Workshop on Recent Advances in Slavonic Natural Languages Processing. Recent Advances in Slavonic Natural Language Processing. 2025. no. 2025, p. 15-24. ISBN: 978-80-263-1858-3. Detail\n- MAKAIOVA, L.; FAJCIK, M.; JAROLIM, A. Examining the Metrics for Document-Level Claim Extraction in Czech and Slovak. In Proceedings of the Nineteenth Workshop on Recent Advances in Slavonic Natural Languages Processing. Recent Advances in Slavonic Natural Language Processing. 2025. no. 2025, p. 15-24. ISBN: 978-80-263-1858-3. Detail"
+        }
+    }
+}

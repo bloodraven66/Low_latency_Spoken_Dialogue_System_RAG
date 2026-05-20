@@ -1,0 +1,39 @@
+{
+    "project": "Software Quality Improvement",
+    "title": "Software Quality Improvement",
+    "metadata": {
+        "project_period": "26. 6. 2014 \u2013 31. 12. 2099",
+        "project_type": "contract",
+        "partner": "Red Hat Czech s.r.o."
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Software Quality Improvement"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "software quality, improvement"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The aim of the project is to improve the software quality"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Vojnar Tomas, prof. Ing., Ph.D. (DITS) \u2013 research leader"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- SILLING, P.; MALIK, V.; VOJNAR, T. Applying Custom Patterns in Semantic Equality Analysis. In Networked Systems. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2022. p. 265-282. ISBN: 978-3-031-17436-0. Detail\n- MALIK, V.; VOJNAR, T. Automatically Checking Semantic Equivalence between Versions of Large-Scale C Projects. In 2021 14th IEEE Conference on Software Testing, Verification and Validation (ICST). Porto de Galinhas: Institute of Electrical and Electronics Engineers, 2021. p. 329-339. ISBN: 978-1-7281-6837-1. Detail"
+        },
+        "results_with_impact_on_practice": {
+            "label": "Results with Impact on Practice",
+            "text": "- Souhrnna vyzkumna zprava k projektu Zlepsovani kvality software za rok 2018 , summary research report, 2018 Authors : VOJNAR, T.\n- Souhrnna vyzkumna zprava k projektu Zlepsovani kvality software za rok 2017 , summary research report, 2017 Authors : VOJNAR, T.\n- Souhrnna vyzkumna zprava k projektu Zlepsovani kvality software za rok 2016 , summary research report, 2016 Authors : VOJNAR, T.\n- Souhrnna vyzkumna zprava k projektu Zlepsovani kvality software za rok 2015 , summary research report, 2015 Authors : VOJNAR, T."
+        }
+    }
+}

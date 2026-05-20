@@ -1,0 +1,75 @@
+{
+    "publication": "ZBORIL, F.; VIDENSKY, F.; KOCI, R.; ZBORIL, F. Advanced Evaluation of Variable Binding Strategies in BDI Agents with Integrated Failure Handling. In Agents and Artificial Intelligence. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2025. p. 3-29. ISBN: 978-3-031-87326-3. Detail ZEINALI, H.; LEE, K.; ALAM, J.; BURGET, L. Text-dependent Speaker Verification Challenge 2024: Exploring Shared and User-defined Passphrases. In 2025 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Hyderabad, Indicka republika: Institute of Electrical and Electronics Engineers Inc., 2025. p. 1-5. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; LU, W.; XU, J. Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing. IEEE Transactions on Audio, Speech, and Language Processing, 2025, no. 33, p. 3850-3865. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; XU, J.; LU, W. SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing. IEEE Transactions on Information Forensics and Security, 2025, no. 20, p. 6474-6489. Detail ZHANG, Y.; TIAN, B.; ZHANG, L.; DUAN, Z. PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 5353-5357.",
+    "year": "2025",
+    "title": "Advanced Evaluation of Variable Binding Strategies in BDI Agents with Integrated Failure Handling",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "conference paper"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Zboril Frantisek, doc. Ing., Ph.D. , DITS (FIT) Vidensky Frantisek, Ing., Ph.D. , DITS (FIT) Koci Radek, Ing., Ph.D. , DITS (FIT) Zboril Frantisek, doc. Ing., CSc. , DITS (FIT)"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "This paper explores Belief-Desire-Intention (BDI) agents, focusing on integrating late and early variable binding strategies in the AgentSpeak(L) language. We comprehensively evaluate these strategies by introducing novel experimental environments simulating a virtual marketplace and a robotic logistics system. Additionally, we integrate a CAN-based failure handling mechanism to test its impact on both binding strategies. Our findings show that the late binding strategy significantly enhances agent performance in complex, dynamic scenarios, especially when combined with failure handling. We also acknowledge and discuss the computational overheads associated with late bindings. This research advances the robustness and adaptability of BDI agents, demonstrating their potential for real-world applications."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "BDI Agents, Agent Interpretation, AgentSpeak(L)"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2025"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "3\u201329"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "Lecture Notes in Computer Science, ISSN"
+        },
+        "proceedings": {
+            "label": "Proceedings",
+            "text": "Agents and Artificial Intelligence"
+        },
+        "conference": {
+            "label": "Conference",
+            "text": "16th International Conference on Agents and Artificial Intelligence"
+        },
+        "isbn": {
+            "label": "ISBN",
+            "text": "978-3-031-87326-3"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "Springer Nature Switzerland AG"
+        },
+        "place": {
+            "label": "Place",
+            "text": "Cham"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1007/978-3-031-87327-0_1"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@inproceedings{BUT189429, author=\"Frantisek {Zboril} and Frantisek {Vidensky} and Radek {Koci} and Frantisek {Zboril}\", title=\"Advanced Evaluation of Variable Binding Strategies in BDI Agents with Integrated Failure Handling\", booktitle=\"Agents and Artificial Intelligence\", year=\"2025\", journal=\"Lecture Notes in Computer Science\", pages=\"3--29\", publisher=\"Springer Nature Switzerland AG\", address=\"Cham\", doi=\"10.1007/978-3-031-87327-0\\{_}1\", isbn=\"978-3-031-87326-3\", issn=\"0302-9743\", url=\"https://link.springer.com/book/10.1007/978-3-031-87327-0\" }"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Reliable, Secure, and Intelligent Computer Systems , BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Intelligent Systems (DITS)"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "contact": {
+        "department": "Cognitive and Neural Engineering Research group",
+        "department_abbr": "VZ CANE",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "iblaskova@fit.vut.cz",
+            "room": "L305 PC Architecture Laboratory"
+        }
+    },
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "BRIa",
+                "title": "Brain Computer Interface",
+                "details": "Laboratory exercise,\nEnglish, winter",
+                "department": "DCSY"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Application-specific HW/SW architectures and their applications",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8141, start: 2023-03-01, end: 2026-02-28, completed"
+        }
+    ],
+    "name": "Blaskova Barbora, Ing."
+}

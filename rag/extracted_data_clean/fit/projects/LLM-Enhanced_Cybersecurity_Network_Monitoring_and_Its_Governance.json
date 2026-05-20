@@ -1,0 +1,33 @@
+{
+    "project": "LLM-Enhanced Cybersecurity Network Monitoring and Its Governance",
+    "title": "Monitorovani kyberneticke bezpecnosti site rozsirene o velke jazykove modely",
+    "metadata": {
+        "project_period": "1. 1. 2026 \u2013 31. 12. 2028",
+        "project_type": "grant",
+        "code": "TQ26000006",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "11. verejna soutez SIGMA, dilci cil 4: Bilateralni spoluprace"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "LLM-Enhanced Cybersecurity Network Monitoring and Its Governance"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "AI-powered network monitoring; human-centric insights; autonomous event triage; governance and security of LLM"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project aims to change the way network security is monitored by integrating Large Language Models (LLMs) into the Flowmon platform to enhance explainability, interactivity, and automation in processing and interpreting network data. In modern enterprise environments, traditional monitoring tools often generate complex data that is difficult to understand and respond to in real time, especially for non-expert users. This project addresses that challenge by developing an intelligent, natural language-based interface for users and automating the triage of security events through LLM technology."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Rysavy Ondrej, doc. Ing., Ph.D. (DIFS) \u2013 research leader Burgetova Ivana, Ing., Ph.D. (DIFS) Matousek Petr, doc. Ing., Ph.D., M.A. (DIFS) Rychly Marek, RNDr., Ph.D. (DIFS)"
+        }
+    }
+}

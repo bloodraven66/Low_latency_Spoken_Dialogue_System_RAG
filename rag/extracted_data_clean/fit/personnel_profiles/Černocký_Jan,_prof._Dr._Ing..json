@@ -1,0 +1,1824 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Head of Department",
+        "details": {
+            "e_mail": "cernocky@fit.vut.cz",
+            "work_phone": "+420 54114 1284",
+            "room": "L221.2 Office",
+            "researcher_id": "M-7494-2019",
+            "orcid_id": "0000-0002-8800-0210",
+            "scopus_author_id": "6604040821"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Speech Data Mining Research Group BUT Speech@FIT",
+            "role": "Principal researcher"
+        },
+        {
+            "organization": "Bachelor Study Programme Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Dean's Collegium",
+            "role": "Head of Department"
+        },
+        {
+            "organization": "Doctoral Study Programme Board of FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Economic Commission of AS FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "FIT Industrial Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Chamber of Academic Staff of AS FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Library Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "chairman"
+        },
+        {
+            "organization": "Scientific Board",
+            "role": "Member of Scientific Board"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2002",
+            "Prize of BUT Rector for outstanding pedagogical and research result 2003",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2012",
+            "Czech Technology Agency Price 2016",
+            "Prize of BUT Rector - Silver Medal BUT 2016",
+            "The Commemorative Medal of FIT BUT (The Gold Medal) 2023"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Friday, 9:00-11:00 , B/L221.1 (Bozetechova 1/2, Brno 61200) prior to a consultation, it is obligatory to make an appointment by phone or email.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "ISSk",
+                "title": "Signals and Systems",
+                "details": "Czech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ISS",
+                "title": "Signals and Systems",
+                "details": "Czech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ISSe",
+                "title": "Signals and Systems (in English)",
+                "details": "English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ZRE",
+                "title": "Speech Signal Processing",
+                "details": "Czech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ZREe",
+                "title": "Speech Signal Processing (in English)",
+                "details": "English, summer",
+                "department": "DCGM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "IP1",
+                "title": "Project Practice 1",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP2",
+                "title": "Project Practice 2",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP2e",
+                "title": "Project Practice 2 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IP3",
+                "title": "Project Practice 3",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ISS",
+                "title": "Signals and Systems",
+                "details": "Lecture,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "PP1",
+                "title": "Project Practice 1",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP1e",
+                "title": "Project Practice 1 (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP2",
+                "title": "Project Practice 2",
+                "details": "Project,\nCzech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PP2e",
+                "title": "Project Practice 2 (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ZRE",
+                "title": "Speech Signal Processing",
+                "details": "Exercise in computer lab, Fundamentals seminar, Lecture,\nCzech, English, summer",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "SV Omilia - Customer-adapted speaker recognition system 2026",
+            "details": "Omilia, start: 2026-02-17, end: 2027-02-16, running"
+        },
+        {
+            "year": "2025",
+            "title": "Enhanced Pilot Monitoring",
+            "details": "start: 2025-12-23, end: 2030-02-23, running"
+        },
+        {
+            "year": "2025",
+            "title": "Linguistics, Artificial Intelligence and Language and Speech Technologies: from Research to Applications",
+            "details": "EU, MEZISEKTOROVA SPOLUPRACE, EH23_020/0008518, start: 2025-01-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "SV Omilia - Customer-adapted speaker recognition system",
+            "details": "Omilia, start: 2025-02-01, end: 2026-02-01, running"
+        },
+        {
+            "year": "2024",
+            "title": "Advancing Robust and Creative Human language technologies through CHallenge Events and Research",
+            "details": "EU, European Defence Fund, start: 2024-12-01, end: 2029-11-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "Tools To Combat Voice DeepFakes",
+            "details": "MV, Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - II. verejna soutez, VB02000060, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Practical verification of the possibility of integrating artificial intelligence for receiving emergency calls using a voice chatbot, developed within the research project BV No. VI20192022169, with technology for receiving emergency communications",
+            "details": "MV, 1 VS OPSEC, VK01020132, start: 2023-01-06, end: 2025-10-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Speech enhancement front-end for robust automatic speech recognition with large amount of training data",
+            "details": "NTT, start: 2023-01-02, end: 2024-01-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Transformace formy a obsahu vzdelavani na Vysokem uceni technickem v Brne",
+            "details": "MSMT, Vyzva pro VS v ramci NPO, NPO_VUT_MSMT\u201016609/2022, start: 2022-04-01, end: 2024-12-31, running"
+        },
+        {
+            "year": "2021",
+            "title": "Speech enhancement front-end for robust automatic speech recognition with large amount of training data",
+            "details": "NTT, start: 2021-01-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "HumanE AI Network",
+            "details": "EU, Horizon 2020, start: 2020-09-01, end: 2024-08-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Multi-linguality in speech technologies",
+            "details": "MSMT, INTER-EXCELLENCE - Podprogram INTER-ACTION, LTAIN19087, start: 2020-01-01, end: 2023-08-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Multiple Intelligent Conversation Agent Sevices for Reception, Management and Integration of Third Country Nationals",
+            "details": "EU, Horizon 2020, start: 2020-02-01, end: 2023-04-30, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Artificial Intelligence Driven Autonomy",
+            "details": "TACR, Narodni centra kompetence 1, TN01000029, TN01000029/02, start: 2019-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Automatic collection and processing of voice data from air-traffic communications",
+            "details": "EU, Horizon 2020, start: 2019-11-01, end: 2022-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Employment of artificial intelligence into an emergency call reception",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022169, start: 2019-07-04, end: 2022-05-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Flight Training Evaluation Software",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH04010325, start: 2019-01-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "NTT - Speech enhancement front-end for robust automatic speech recognition with large amount of training data",
+            "details": "NTT, start: 2019-01-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Real time network, text, and speaker analytics for combating organized crime",
+            "details": "EU, Horizon 2020, start: 2019-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Ericsson - Speaker Change Point Detection (SCPD) in media content",
+            "details": "Ericsson, start: 2018-04-02, end: 2019-09-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Phonexia - Educational activity",
+            "details": "Phonexia, start: 2018-12-01, end: 2020-05-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "NTT - Speech enhancement front-end for robust automatic speech recognition with large amount of training data",
+            "details": "NTT, start: 2017-10-01, end: 2018-09-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3984, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Delivery of a re-trained acoustic model of automatic speech recognizer for Czech language",
+            "details": "Phonexia, start: 2016-10-10, end: 2016-11-30, completed"
+        },
+        {
+            "year": "2016",
+            "title": "HiVisComp 2016",
+            "details": "start: 2016-02-01, end: 2016-03-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Phonexia s.r.o. - BUT FIT Contract: Project SRE - Speaker REcognition",
+            "details": "Phonexia, start: 2016-10-16, end: 2019-09-30, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Big speech data analytics for contact centers",
+            "details": "EU, Horizon 2020, start: 2015-01-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "DARPA Low Resource Languages for Emergent Incidents (LORELEI) - Exploiting Language Information for Situational Awareness (ELISA)",
+            "details": "University of Southern California, start: 2015-09-01, end: 2020-03-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "DARPA Robust Automatic Transcription of Speech (RATS) - RATS Patrol II",
+            "details": "BBN, start: 2015-02-23, end: 2017-03-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Information mining in speech acquired by distant microphones",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20152020025, start: 2015-10-01, end: 2020-09-30, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets",
+            "details": "EU, Horizon 2020, start: 2015-04-01, end: 2017-03-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Meeting Assistant (MINT)",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA04011311, start: 2014-10-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2506, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Applying Pilots Models for Safer Aircraft",
+            "details": "MSMT, Podpora projektu sedmeho ramcoveho programu Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace (2007 az 2013) podle zakona c. 171/2007 Sb., 7E13047, start: 2013-09-01, end: 2016-08-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Audiovisual data processing for Superlectures.com",
+            "details": "ReplayWell, start: 2013-06-18, end: 2023-01-01, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Collaborative Science Program (CSP) Funding for ASRU 2013 Conference",
+            "details": "MSMT, Projekty v ramci VTS s USA, ONRG Grant, start: 2013-12-08, end: 2013-12-12, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Dodani anotaci akustickych dat, akustickeho modelu, jazykoveho modelu a vyslovnostniho slovniku pro arabsky jazyk",
+            "details": "Phonexia, 01092013, start: 2013-09-01, end: 2013-10-25, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Enabling automatic speaker verification to broad spectrum of users in the security domain",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20132015129, start: 2013-04-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2012",
+            "title": "IARPA Building Speech Recognition for Keyword Search in a New Language in a Week with Limited Training Data (BABEL) - Babelon",
+            "details": "BBN, start: 2012-03-05, end: 2016-11-04, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Sensors and computing infrastructure to support education in classification, recognition and evolutionary algorithms",
+            "details": "MSMT, Rozvojove programy MSMT, FR2306/2012/Ab, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Support of Interdisciplinary Excellence Research Teams Establishment at BUT",
+            "details": "EU, OP VK - Oblast podpory 2.3 - Lidske zdroje ve VaV, EE2.3.30.0005, start: 2012-07-01, end: 2015-06-30, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Event-based Retrieval of Networked Media",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, 7E12055, start: 2011-07-01, end: 2012-11-30, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Technologies of speech processing for efficient human-machine communication",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA01011328, start: 2011-01-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "DARPA Robust Automatic Transcription of Speech (RATS) - RATS Patrol I",
+            "details": "BBN, start: 2010-09-23, end: 2014-06-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Multilingual recognition and search in speech for electronic dictionaries",
+            "details": "MPO, TIP, FR-TI1/034, start: 2009-09-01, end: 2013-08-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "EOARD - Improving the capacity of language recognition systems to handle rare languages using radio broadcast data",
+            "details": "start: 2008-10-15, end: 2010-12-14, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Mobile Biometry",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, 7E08042, start: 2008-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Speech Recognition under Real-World Conditions",
+            "details": "GACR, Standardni projekty, GA102/08/0707, start: 2008-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Laboratory of applied very powerful computational systems (LAVPS)",
+            "details": "FR2360/2007/Ab, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Overcoming the language barrier complicating investigation into financing terrorism and serious financial crimes",
+            "details": "MV, Program bezpecnostniho vyzkumu, VD20072010B16, start: 2007-08-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2006",
+            "title": "Advancing the automatic language recognition using streamed audio media",
+            "details": "162/2005, start: 2006-01-19, end: 2007-07-19, completed"
+        },
+        {
+            "year": "2006",
+            "title": "AMIDA - Augmented Multi-party Interaction with Distance Access",
+            "details": "IST-033812-AMIDA, start: 2006-10-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "CARETAKER - Content Analysis and REtrieval Technologies to Apply Knowledge Extraction to massive Recording",
+            "details": "EU, Sixth Framework programme, 027231, start: 2006-03-01, end: 2008-09-30, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Research and development of corpus and speech technologies in new generation of electronic dictionaries",
+            "details": "MPO, TANDEM, FT-TA3/006, start: 2006-06-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Analysis and recognition of multi-modal meeting data",
+            "details": "FR3559/2005/G1, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Laborator pro obraz a zvuk",
+            "details": "FR3521/2005/A, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "LC-Star 2 - Lexica and Corpora for Speech-to-Speech Translation Components 2",
+            "details": "start: 2005-04-05, end: 2009-04-05, completed"
+        },
+        {
+            "year": "2005",
+            "title": "New trends in research and application of voice technology",
+            "details": "GACR, Standardni projekty, GA102/05/0278, start: 2005-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Augmented Multi-party Interaction",
+            "details": "EU, Sixth Framework programme, 506811-AMI, start: 2004-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2003",
+            "title": "Language independent speech coding on very low bit rates",
+            "details": "2003-041-1, start: 2003-01-01, end: 2003-12-31, completed"
+        },
+        {
+            "year": "2003",
+            "title": "SPEECON - Speech driven interfaces for consumer applications",
+            "details": "IST-1999-10003, start: 2003-01-01, end: 2003-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Advanced techniques for acoustic modeling in speech recognition",
+            "details": "MMI 20056, start: 2002-01-01, end: 2002-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Data driven and anthropic coding and recognition of speech",
+            "details": "GACR, Postdoktorandske granty, GP102/02/D108, start: 2002-09-01, end: 2005-08-30, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Multi Modal Meeting Manager",
+            "details": "IST-2001-34485, start: 2002-03-01, end: 2005-02-28, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Voice technologies for support of information society",
+            "details": "GACR, Standardni projekty, GA102/02/0124, start: 2002-01-01, end: 2004-12-31, completed"
+        },
+        {
+            "year": "1999",
+            "title": "Speech databaze jazyku stredni a vychodni Evropy",
+            "details": "MSMT, EUPRO, OK 410, start: 1999-01-01, end: 2000-12-31, completed"
+        },
+        {
+            "year": "1999",
+            "title": "Telephone speech data collection for Czech",
+            "details": "Cislovky, start: 1999-04-01, end: 2000-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Eastern European Speech Databases for Creation of Voice Driven Teleservices",
+            "details": "SpeechDat-E, 977017, start: 1998-12-01, end: 2000-11-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2026",
+            "citation": "POLOK, A.; KLEMENT, D.; KOCOUR, M.; HAN, J.; LANDINI, F.; YUSUF, B.; WIESNER, M.; KHUDANPUR, S.; CERNOCKY, J.; BURGET, L. DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition. COMPUTER SPEECH AND LANGUAGE, 2026, vol. 95, no. 1, p. 1-19."
+        },
+        {
+            "year": "2025",
+            "citation": "Alexander Polok, Jiangyu Han, Dominik Klement, Samuele Cornell, Jan Cernocky, Lukas Burget. BUT System for the MLC-SLM Challenge. ISCA: ISCA, 2025. p. 23-27."
+        },
+        {
+            "year": "2025",
+            "citation": "HAN, J.; LANDINI, F.; ROHDIN, J.; SILNOVA, A.; DIEZ, M.; CERNOCKY, J.; BURGET, L. Fine-tune Before Structured Pruning: Towards Compact and Accurate Self-Supervised Models for Speaker Diarization. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1583-1587."
+        },
+        {
+            "year": "2025",
+            "citation": "HEGDE, P.; KESIRAJU, S.; SVEC, J.; SEDLACEK, S.; YUSUF, B.; PLCHOT, O.; DEEPAK, K.; CERNOCKY, J. Factors affecting the in-context learning abilities of LLMs for dialogue state tracking. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 4818-4822."
+        },
+        {
+            "year": "2025",
+            "citation": "PENG, J.; ASHIHARA, T.; DELCROIX, M.; OCHIAI, T.; PLCHOT, O.; ARAKI, S.; CERNOCKY, J. TS-SUPERB: A Target Speech Processing Benchmark for Speech Self-Supervised Learning Models. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1."
+        },
+        {
+            "year": "2025",
+            "citation": "PENG, J.; MOSNER, L.; ZHANG, L.; PLCHOT, O.; STAFYLAKIS, T.; BURGET, L.; CERNOCKY, J. CA-MHFA: A Context-Aware Multi-Head Factorized Attentive Pooling for SSL-Based Speaker Verification. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1."
+        },
+        {
+            "year": "2025",
+            "citation": "POLOK, A.; KLEMENT, D.; WIESNER, M.; KHUDANPUR, S.; CERNOCKY, J.; BURGET, L. Target Speaker ASR with Whisper. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1."
+        },
+        {
+            "year": "2025",
+            "citation": "SEDLACEK, S.; YUSUF, B.; SVEC, J.; HEGDE, P.; KESIRAJU, S.; PLCHOT, O.; CERNOCKY, J. Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1748-1752."
+        },
+        {
+            "year": "2024",
+            "citation": "HAN, J.; LANDINI, F.; ROHDIN, J.; DIEZ SANCHEZ, M.; BURGET, L.; CAO, Y.; LU, H.; CERNOCKY, J. Diacorrect: Error Correction Back-End for Speaker Diarization. In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Seoul: IEEE Signal Processing Society, 2024. p. 11181-11185. ISBN: 979-8-3503-4485-1."
+        },
+        {
+            "year": "2024",
+            "citation": "MOSNER, L.; SERIZEL, R.; BURGET, L.; PLCHOT, O.; VINCENT, E.; PENG, J.; CERNOCKY, J. Multi-Channel Extension of Pre-trained Models for Speaker Verification. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 2135-2139. ISSN: 1990-9772."
+        },
+        {
+            "year": "2024",
+            "citation": "PENG, J.; DELCROIX, M.; OCHIAI, T.; ASHIHARA, T.; PLCHOT, O.; ARAKI, S.; CERNOCKY, J. Probing Self-Supervised Learning Models With Target Speech Extraction. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Seoul: IEEE Signal Processing Society, 2024. p. 535-539. ISBN: 979-8-3503-7451-3."
+        },
+        {
+            "year": "2024",
+            "citation": "PENG, J.; DELCROIX, M.; OCHIAI, T.; PLCHOT, O.; ARAKI, S.; CERNOCKY, J. Target Speech Extraction with Pre-Trained Self-Supervised Learning Models. ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Seoul: IEEE Signal Processing Society, 2024. p. 10421-10425. ISBN: 979-8-3503-4485-1."
+        },
+        {
+            "year": "2024",
+            "citation": "PESAN, J.; JURIK, V.; KARAFIAT, M.; CERNOCKY, J. BESST Dataset: A Multimodal Resource for Speech-based Stress Detection and Analysis. In Proceedings of Interspeech 2024. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 1355-1359. ISSN: 1990-9772."
+        },
+        {
+            "year": "2024",
+            "citation": "PESAN, J.; JURIK, V.; RUZICKOVA, A.; SVOBODA, V.; JANOUSEK, O.; NEMCOVA, A.; BOJANOVSKA, H.; ALDABAGHOVA, J.; KYSLIK, F.; VODICKOVA, K.; SODOMOVA, A.; BARTYS, P.; CHUDY, P.; CERNOCKY, J. Speech production under stress for machine learning: multimodal dataset of 79 cases and 8 signals. Scientific Data, 2024, vol. 11, no. 1, p. 1-9. ISSN: 2052-4463."
+        },
+        {
+            "year": "2024",
+            "citation": "WANNER, L.; CERNOCKY, J.; EGOROVA, E.; KLUSCH, M.; MAVROPOULOS, A. Support of Migrant Reception, Integration, and Social Inclusion by Intelligent Technologies. Information, 2024, vol. 15, no. 11, p. 1-33. ISSN: 2078-2489."
+        },
+        {
+            "year": "2024",
+            "citation": "YUSUF, B.; CERNOCKY, J.; SARACLAR, M. Pretraining End-to-End Keyword Search with Automatically Discovered Acoustic Units. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 5068-5072. ISSN: 1990-9772."
+        },
+        {
+            "year": "2023",
+            "citation": "KESIRAJU, S.; BENES, K.; TIKHONOV, M.; CERNOCKY, J. BUT Systems for IWSLT 2023 Marathi - Hindi Low Resource Speech Translation Task. In 20th International Conference on Spoken Language Translation, IWSLT 2023 - Proceedings of the Conference. Toronto (in-person and online): Association for Computational Linguistics, 2023. p. 227-234. ISBN: 978-1-959429-84-5."
+        },
+        {
+            "year": "2023",
+            "citation": "MOSNER, L.; PLCHOT, O.; PENG, J.; BURGET, L.; CERNOCKY, J. Multi-Channel Speech Separation with Cross-Attention and Beamforming. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Dublin: International Speech Communication Association, 2023. no. 08, p. 1693-1697. ISSN: 1990-9772."
+        },
+        {
+            "year": "2023",
+            "citation": "PENG, J.; PLCHOT, O.; STAFYLAKIS, T.; MOSNER, L.; BURGET, L.; CERNOCKY, J. An attention-based backend allowing efficient fine-tuning of transformer models for speaker verification. In 2022 IEEE Spoken Language Technology Workshop, SLT 2022 - Proceedings. Doha: IEEE Signal Processing Society, 2023. p. 555-562. ISBN: 978-1-6654-7189-3."
+        },
+        {
+            "year": "2023",
+            "citation": "PENG, J.; PLCHOT, O.; STAFYLAKIS, T.; MOSNER, L.; BURGET, L.; CERNOCKY, J. Improving Speaker Verification with Self-Pretrained Transformer Models. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Dublin: International Speech Communication Association, 2023. no. 08, p. 5361-5365. ISSN: 1990-9772."
+        },
+        {
+            "year": "2023",
+            "citation": "PENG, J.; STAFYLAKIS, T.; GU, R.; PLCHOT, O.; MOSNER, L.; BURGET, L.; CERNOCKY, J. Parameter-Efficient Transfer Learning of Pre-Trained Transformer Models for Speaker Verification Using Adapters. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Rhodes Island: IEEE Signal Processing Society, 2023. p. 1-5. ISBN: 978-1-7281-6327-7."
+        },
+        {
+            "year": "2023",
+            "citation": "STAFYLAKIS, T.; MOSNER, L.; KAKOUROS, S.; PLCHOT, O.; BURGET, L.; CERNOCKY, J. Extracting speaker and emotion information from self-supervised speech models via channel-wise correlations. In 2022 IEEE Spoken Language Technology Workshop, SLT 2022 - Proceedings. Doha: IEEE Signal Processing Society, 2023. p. 1136-1143. ISBN: 978-1-6654-7189-3."
+        },
+        {
+            "year": "2023",
+            "citation": "YU, D.; GONG, Y.; PICHENY, A.; RAMABHADRAN, B.; HAKKANI-TUR, D.; PRASAD, R.; ZEN, H.; SKOGLUND, J.; CERNOCKY, J.; BURGET, L.; MOHAMED, A. Twenty-Five Years of Evolution in Speech and Language Processing. IEEE SIGNAL PROCESSING MAGAZINE, 2023, vol. 40, no. 5, p. 27-39. ISSN: 1558-0792."
+        },
+        {
+            "year": "2023",
+            "citation": "YUSUF, B.; CERNOCKY, J.; SARACLAR, M. End-to-End Open Vocabulary Keyword Search With Multilingual Neural Representations. IEEE-ACM Transactions on Audio Speech and Language Processing, 2023, vol. 31, no. 08, p. 3070-3080. ISSN: 2329-9290."
+        },
+        {
+            "year": "2023",
+            "citation": "ZMOLIKOVA, K.; DELCROIX, M.; OCHIAI, T.; CERNOCKY, J.; KINOSHITA, K.; YU, D. Neural Target Speech Extraction: An overview. IEEE SIGNAL PROCESSING MAGAZINE, 2023, vol. 40, no. 3, p. 8-29. ISSN: 1558-0792."
+        },
+        {
+            "year": "2022",
+            "citation": "BASKAR, M.; HERZIG, T.; NGUYEN, D.; DIEZ SANCHEZ, M.; POLZEHL, T.; BURGET, L.; CERNOCKY, J. Speaker adaptation for Wav2vec2 based dysarthric ASR. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 3403-3407. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "EGOROVA, E.; VYDANA, H.; BURGET, L.; CERNOCKY, J. Spelling-Aware Word-Based End-to-End ASR. IEEE SIGNAL PROCESSING LETTERS, 2022, vol. 29, no. 29, p. 1729-1733. ISSN: 1558-2361."
+        },
+        {
+            "year": "2022",
+            "citation": "HAN, J.; LONG, Y.; BURGET, L.; CERNOCKY, J. DPCCN: Densely-Connected Pyramid Complex Convolutional Network for Robust Speech Separation and Extraction. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Singapore: IEEE Signal Processing Society, 2022. p. 7292-7296. ISBN: 978-1-6654-0540-9."
+        },
+        {
+            "year": "2022",
+            "citation": "KOCOUR, M.; UMESH, J.; KARAFIAT, M.; SVEC, J.; LOPEZ, F.; BENES, K.; DIEZ SANCHEZ, M.; SZOKE, I.; LUQUE, J.; VESELY, K.; BURGET, L.; CERNOCKY, J. BCN2BRNO: ASR System Fusion for Albayzin 2022 Speech to Text Challenge. Proceedings of IberSpeech 2022. Granada: International Speech Communication Association, 2022. p. 276-280."
+        },
+        {
+            "year": "2022",
+            "citation": "KOCOUR, M.; ZMOLIKOVA, K.; ONDEL YANG, L.; SVEC, J.; DELCROIX, M.; OCHIAI, T.; BURGET, L.; CERNOCKY, J. Revisiting joint decoding based multi-talker speech recognition with DNN acoustic model. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 4955-4959. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "MOSNER, L.; PLCHOT, O.; BURGET, L.; CERNOCKY, J. Multi-Channel Speaker Verification with Conv-Tasnet Based Beamformer. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Singapore: IEEE Signal Processing Society, 2022. p. 7982-7986. ISBN: 978-1-6654-0540-9."
+        },
+        {
+            "year": "2022",
+            "citation": "MOSNER, L.; PLCHOT, O.; BURGET, L.; CERNOCKY, J. Multisv: Dataset for Far-Field Multi-Channel Speaker Verification. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Singapore: IEEE Signal Processing Society, 2022. p. 7977-7981. ISBN: 978-1-6654-0540-9."
+        },
+        {
+            "year": "2022",
+            "citation": "PENG, J.; GU, R.; MOSNER, L.; PLCHOT, O.; BURGET, L.; CERNOCKY, J. Learnable Sparse Filterbank for Speaker Verification. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 5110-5114. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "PENG, J.; ZHANG, C.; CERNOCKY, J.; YU, D. Progressive contrastive learning for self-supervised text-independent speaker verification. Proceedings of The Speaker and Language Recognition Workshop (Odyssey 2022). Beijing: International Speech Communication Association, 2022. p. 17-24."
+        },
+        {
+            "year": "2022",
+            "citation": "SOLEWICZ, Y.; COHEN, N.; ROHDIN, J.; MADIKERI, S.; CERNOCKY, J. Speaker recognition on mono-channel telephony recordings. Proceedings of Odyssey 2022. Beijing: International Speech Communication Association, 2022. p. 193-199."
+        },
+        {
+            "year": "2022",
+            "citation": "STAFYLAKIS, T.; MOSNER, L.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; BURGET, L.; CERNOCKY, J. Training Speaker Embedding Extractors Using Multi-Speaker Audio with Unknown Speaker Boundaries. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 605-609. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "SVEC, J.; ZMOLIKOVA, K.; KOCOUR, M.; DELCROIX, M.; OCHIAI, T.; MOSNER, L.; CERNOCKY, J. Analysis of impact of emotions on target speech extraction and speech separation. In Proceedings of The 17th International Workshop on Acoustic Signal Enhancement (IWAENC 2022). Bamberg: IEEE Signal Processing Society, 2022. p. 1-5. ISBN: 978-1-6654-6867-1."
+        },
+        {
+            "year": "2021",
+            "citation": "BASKAR, M.; BURGET, L.; WATANABE, S.; ASTUDILLO, R.; CERNOCKY, J. Eat: Enhanced ASR-TTS for Self-Supervised Speech Recognition. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 6753-6757. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2021",
+            "citation": "EGOROVA, E.; VYDANA, H.; BURGET, L.; CERNOCKY, J. Out-of-Vocabulary Words Detection with Attention and CTC Alignments in an End-to-End ASR System. In Proceedings Interspeech 2021. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 2901-2905. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "KARAFIAT, M.; VESELY, K.; CERNOCKY, J.; PROFANT, J.; NYTRA, J.; HLAVACEK, M.; PAVLICEK, T. Analysis of X-Vectors for Low-Resource Speech Recognition. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 6998-7002. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2021",
+            "citation": "KOCOUR, M.; CAMBARA, G.; LUQUE, J.; BONET, D.; FARRUS, M.; KARAFIAT, M.; VESELY, K.; CERNOCKY, J. BCN2BRNO: ASR System Fusion for Albayzin 2020 Speech to Text Challenge. Proceedings of IberSPEECH 2021. Vallaloid: International Speech Communication Association, 2021. p. 113-117."
+        },
+        {
+            "year": "2021",
+            "citation": "KOCOUR, M.; VESELY, K.; BLATT, A.; ZULUAGA-GOMEZ, J.; SZOKE, I.; CERNOCKY, J.; KLAKOW, D.; MOTLICEK, P. Boosting of Contextual Information in ASR for Air-Traffic Call-Sign Recognition. In Proceedings Interspeech 2021. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 3301-3305. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "KOCOUR, M.; VESELY, K.; SZOKE, I.; KESIRAJU, S.; ZULUAGA-GOMEZ, J.; BLATT, A.; PRASAD, A.; NIGMATULINA, I.; MOTLICEK, P.; KLAKOW, D.; TART, A.; KOLCAREK, P.; CERNOCKY, J.; CEVENINI, C.; CHOUKRI, K.; RIGAULT, M.; LANDIS, F.; SARFJOO, S. Automatic Processing Pipeline for Collecting and Annotating Air-Traffic Voice Communication Data. In Proceedings of 9th OpenSky Symposium 2021, OpenSky Network, Brussels, Belgium. Proceedings. Brussels: MDPI, 2021. no. 12, p. 1-10. ISSN: 2504-3900."
+        },
+        {
+            "year": "2021",
+            "citation": "PENG, J.; QU, X.; GU, R.; WANG, J.; XIAO, J.; BURGET, L.; CERNOCKY, J. Effective Phase Encoding for End-To-End Speaker Verification. In Proceedings Interspeech 2021. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 2366-2370. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "PENG, J.; QU, X.; WANG, J.; GU, R.; XIAO, J.; BURGET, L.; CERNOCKY, J. ICSpk: Interpretable Complex Speaker Embedding Extractor from Raw Waveform. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 511-515. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "SZOKE, I.; KESIRAJU, S.; NOVOTNY, O.; KOCOUR, M.; VESELY, K.; CERNOCKY, J. Detecting English Speech in the Air Traffic Control Voice Communication. Proceedings of Interspeech 2021. Brno: 2021. p. 246-250."
+        },
+        {
+            "year": "2021",
+            "citation": "SZOKE, I.; KESIRAJU, S.; NOVOTNY, O.; KOCOUR, M.; VESELY, K.; CERNOCKY, J. Detecting English Speech in the Air Traffic Control Voice Communication. In Proceedings Interspeech 2021. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 3286-3290. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "VYDANA, H.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J. The IWSLT 2021 BUT Speech Translation Systems. In Proceedings of 18th International Conference on Spoken Language Translation (IWSLT). Bangkok, on-line: Association for Computational Linguistics, 2021. p. 75-83. ISBN: 978-1-7138-3378-9."
+        },
+        {
+            "year": "2021",
+            "citation": "VYDANA, H.; KARAFIAT, M.; ZMOLIKOVA, K.; BURGET, L.; CERNOCKY, J. Jointly Trained Transformers Models for Spoken Language Translation. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 7513-7517. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2021",
+            "citation": "WANNER, L.; KLUSCH, M.; MAVROPOULOS, A.; JAMIN, E.; MARIN PUCHADES, V.; CASAMAYOR, G.; CERNOCKY, J.; EGOROVA, E. Towards a Versatile Intelligent Conversational Agent as Personal Assistant for Migrants. In The PAAMS Collection. PAAMS 2021: Advances in Practical Applications of Agents, Multi-Agent Systems, and Social Good. Lecture Notes in Computer Science. Lecture Notes in Computer Science book series. Salamanca: Springer International Publishing, 2021. no. 10, p. 316-327. ISBN: 978-3-030-85739-4. ISSN: 0302-9743."
+        },
+        {
+            "year": "2021",
+            "citation": "YUSUF, B.; ONDEL YANG, L.; BURGET, L.; CERNOCKY, J.; SARACLAR, M. A Hierarchical Subspace Model for Language-Attuned Acoustic Unit Discovery. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 3710-3714. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2021",
+            "citation": "ZMOLIKOVA, K.; DELCROIX, M.; BURGET, L.; NAKATANI, T.; CERNOCKY, J. Integration of Variational Autoencoder and Spatial Clustering for Adaptive Multi-Channel Neural Speech Separation. In 2021 IEEE Spoken Language Technology Workshop, SLT 2021 - Proceedings. Shenzhen - virtual: IEEE Signal Processing Society, 2021. p. 889-896. ISBN: 978-1-7281-7066-4."
+        },
+        {
+            "year": "2021",
+            "citation": "ZMOLIKOVA, K.; DELCROIX, M.; RAJ, D.; WATANABE, S.; CERNOCKY, J. Auxiliary Loss Function for Target Speech Extraction and Recognition with Weak Supervision Based on Speaker Characteristics. In Proceedings of 2021 Interspeech. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 1464-1468. ISSN: 1990-9772."
+        },
+        {
+            "year": "2020",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; LANDINI, F.; CERNOCKY, J. Analysis of Speaker Diarization based on Bayesian HMM with Eigenvoice Priors. IEEE-ACM Transactions on Audio Speech and Language Processing, 2020, vol. 28, no. 1, p. 355-368. ISSN: 2329-9290."
+        },
+        {
+            "year": "2020",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; LANDINI, F.; WANG, S.; CERNOCKY, J. Optimizing Bayesian Hmm Based X-Vector Clustering for the Second Dihard Speech Diarization Challenge. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Barcelona: IEEE Signal Processing Society, 2020. p. 6519-6523. ISBN: 978-1-5090-6631-5."
+        },
+        {
+            "year": "2020",
+            "citation": "MATEJKA, P.; PLCHOT, O.; GLEMBEK, O.; BURGET, L.; ROHDIN, J.; ZEINALI, H.; MOSNER, L.; SILNOVA, A.; NOVOTNY, O.; DIEZ SANCHEZ, M.; CERNOCKY, J. 13 years of speaker recognition research at BUT, with longitudinal analysis of NIST SRE. COMPUTER SPEECH AND LANGUAGE, 2020, vol. 2020, no. 63, p. 1-15. ISSN: 0885-2308."
+        },
+        {
+            "year": "2020",
+            "citation": "MOSNER, L.; PLCHOT, O.; ROHDIN, J.; CERNOCKY, J. Utilizing VOiCES dataset for multichannel speaker verification with beamforming. Proceedings of Odyssey 2020 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Tokyo: International Speech Communication Association, 2020. no. 11, p. 187-193. ISSN: 2312-2846."
+        },
+        {
+            "year": "2020",
+            "citation": "WANG, S.; ROHDIN, J.; PLCHOT, O.; BURGET, L.; YU, K.; CERNOCKY, J. Investigation of Specaugment for Deep Speaker Embedding Learning. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Barcelona: IEEE Signal Processing Society, 2020. p. 7139-7143. ISBN: 978-1-5090-6631-5."
+        },
+        {
+            "year": "2020",
+            "citation": "ZMOLIKOVA, K.; KOCOUR, M.; LANDINI, F.; BENES, K.; KARAFIAT, M.; VYDANA, H.; LOZANO DIEZ, A.; PLCHOT, O.; BASKAR, M.; SVEC, J.; MOSNER, L.; MALENOVSKY, V.; BURGET, L.; YUSUF, B.; NOVOTNY, O.; GREZL, F.; SZOKE, I.; CERNOCKY, J. BUT System for CHiME-6 Challenge. Proceedings of CHiME 2020 Virtual Workshop. Barcelona: University of Sheffield, 2020. p. 1-3."
+        },
+        {
+            "year": "2020",
+            "citation": "ZULUAGA-GOMEZ, J.; VESELY, K.; BLATT, A.; MOTLICEK, P.; KLAKOW, D.; TART, A.; SZOKE, I.; PRASAD, A.; SARFJOO, S.; KOLCAREK, P.; KOCOUR, M.; CERNOCKY, J.; CEVENINI, C.; CHOUKRI, K.; RIGAULT, M.; LANDIS, F. Automatic Call Sign Detection: Matching Air Surveillance Data with Air Traffic Spoken Communications. Proceedings of the 8th OpenSky Symposium 2020. Proceedings. Brusel: MDPI, 2020. no. 59, p. 1-10. ISSN: 2504-3900."
+        },
+        {
+            "year": "2019",
+            "citation": "BASKAR, M.; BURGET, L.; WATANABE, S.; KARAFIAT, M.; HORI, T.; CERNOCKY, J. Promising Accurate Prefix Boosting For Sequence-to-sequence ASR. In Proceedings of ICASSP. Brighton: IEEE Signal Processing Society, 2019. p. 5646-5650. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2019",
+            "citation": "BASKAR, M.; WATANABE, S.; ASTUDILLO, R.; HORI, T.; BURGET, L.; CERNOCKY, J. Semi-supervised Sequence-to-sequence ASR using Unpaired Speech and Text. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 3790-3794. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; WANG, S.; ROHDIN, J.; CERNOCKY, J. Bayesian HMM based x-vector clustering for Speaker Diarization. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 346-350. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "KARAFIAT, M.; BASKAR, M.; WATANABE, S.; HORI, T.; WIESNER, M.; CERNOCKY, J. Analysis of Multilingual Sequence-to-Sequence Speech Recognition Systems. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 2220-2224. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "MOSNER, L.; PLCHOT, O.; ROHDIN, J.; BURGET, L.; CERNOCKY, J. Speaker Verification with Application-Aware Beamforming. In IEEE Automatic Speech Recognition and Understanding Workshop - Proceedings (ASRU). Sentosa, Singapore: IEEE Signal Processing Society, 2019. p. 411-418. ISBN: 978-1-7281-0306-8."
+        },
+        {
+            "year": "2019",
+            "citation": "NOVOTNY, O.; PLCHOT, O.; GLEMBEK, O.; CERNOCKY, J.; BURGET, L. Analysis of DNN Speech Signal Enhancement for Robust Speaker Recognition. COMPUTER SPEECH AND LANGUAGE, 2019, vol. 2019, no. 58, p. 403-421. ISSN: 0885-2308."
+        },
+        {
+            "year": "2019",
+            "citation": "ONDEL YANG, L.; VYDANA, H.; BURGET, L.; CERNOCKY, J. Bayesian Subspace Hidden Markov Model for Acoustic Unit Discovery. In Proceedings of Interspeech 2019. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 261-265. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "SZOKE, I.; SKACEL, M.; MOSNER, L.; PALIESEK, J.; CERNOCKY, J. Building and Evaluation of a Real Room Impulse Response Dataset. IEEE Journal of Selected Topics in Signal Processing, 2019, vol. 13, no. 4, p. 863-876. ISSN: 1932-4553."
+        },
+        {
+            "year": "2019",
+            "citation": "WANG, S.; ROHDIN, J.; BURGET, L.; PLCHOT, O.; QIAN, Y.; YU, K.; CERNOCKY, J. On the Usage of Phonetic Information for Text-independent Speaker Embedding Extraction. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 1148-1152. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "ZEINALI, H.; BURGET, L.; ROHDIN, J.; STAFYLAKIS, T.; CERNOCKY, J. How To Improve Your Speaker Embeddings Extractor in Generic Toolkits. In Proceedings of 2019 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Brighton: IEEE Signal Processing Society, 2019. p. 6141-6145. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2019",
+            "citation": "ZEINALI, H.; CERNOCKY, J.; BURGET, L. A multi purpose and large scale speech corpus in Persian and English for speaker and speech Recognition: the DeepMine database. In IEEE Automatic Speech Recognition and Understanding Workshop - Proceedings (ASRU). Sentosa, Singapore: IEEE Signal Processing Society, 2019. p. 397-402. ISBN: 978-1-7281-0306-8."
+        },
+        {
+            "year": "2019",
+            "citation": "ZEINALI, H.; STAFYLAKIS, T.; ATHANASOPOULOU, G.; ROHDIN, J.; GKINIS, I.; BURGET, L.; CERNOCKY, J. Detecting Spoofing Attacks Using VGG and SincNet: BUT-Omilia Submission to ASVspoof 2019 Challenge. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 1073-1077. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "ZMOLIKOVA, K.; DELCROIX, M.; KINOSHITA, K.; OCHIAI, T.; NAKATANI, T.; BURGET, L.; CERNOCKY, J. SpeakerBeam: Speaker Aware Neural Network for Target Speaker Extraction in Speech Mixtures. IEEE Journal of Selected Topics in Signal Processing, 2019, vol. 13, no. 4, p. 800-814. ISSN: 1932-4553."
+        },
+        {
+            "year": "2018",
+            "citation": "KARAFIAT, M.; BASKAR, M.; SZOKE, I.; MALENOVSKY, V.; VESELY, K.; GREZL, F.; BURGET, L.; CERNOCKY, J. BUT OpenSAT 2017 speech recognition system. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 2638-2642. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "KARAFIAT, M.; BASKAR, M.; VESELY, K.; GREZL, F.; BURGET, L.; CERNOCKY, J. Analysis of Multilingual BLSTM Acoustic Model on Low and High Resource Languages. In Proceedings of ICASSP 2018. Calgary: IEEE Signal Processing Society, 2018. p. 5789-5793. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2018",
+            "citation": "MOSNER, L.; MATEJKA, P.; NOVOTNY, O.; CERNOCKY, J. Dereverberation and Beamforming in Far-Field Speaker Recognition. In Proceedings of ICASSP 2018. Calgary: IEEE Signal Processing Society, 2018. p. 5254-5258. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2018",
+            "citation": "MOSNER, L.; PLCHOT, O.; MATEJKA, P.; NOVOTNY, O.; CERNOCKY, J. Dereverberation and Beamforming in Robust Far-Field Speaker Recognition. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 1334-1338. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "PULUGUNDLA, B.; BASKAR, M.; KESIRAJU, S.; EGOROVA, E.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J. BUT system for low resource Indian language ASR. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 3182-3186. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "SILNOVA, A.; MATEJKA, P.; GLEMBEK, O.; PLCHOT, O.; NOVOTNY, O.; GREZL, F.; SCHWARZ, P.; CERNOCKY, J. BUT/Phonexia Bottleneck Feature Extractor. In Proceedings of Odyssey 2018. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Les Sables d Olonne: International Speech Communication Association, 2018. no. 6, p. 283-287. ISSN: 2312-2846."
+        },
+        {
+            "year": "2018",
+            "citation": "VESELY, K.; PERALES, C.; SZOKE, I.; LUQUE, J.; CERNOCKY, J. Lightly supervised vs. semi-supervised training of acoustic model on Luxembourgish for low-resource automatic speech recognition. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 2883-2887. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "ZEINALI, H.; BURGET, L.; CERNOCKY, J. Convolutional Neural Networks and X-Vector Embedding for DCASE2018 Acoustic Scene Classification Challenge. Proceedings of DCASE 2018 Workshop. Surrey: Tampere University of Technology, 2018. p. 1-5. ISBN: 978-952-15-4262-6."
+        },
+        {
+            "year": "2018",
+            "citation": "ZEINALI, H.; BURGET, L.; SAMETI, H.; CERNOCKY, J. Spoken Pass-Phrase Verification in the i-vector Space. In Proceedings of Odyssey 2018. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Les Sables d Olonne: International Speech Communication Association, 2018. no. 6, p. 372-377. ISSN: 2312-2846."
+        },
+        {
+            "year": "2018",
+            "citation": "ZMOLIKOVA, K.; DELCROIX, M.; KINOSHITA, K.; HIGUCHI, T.; NAKATANI, T.; CERNOCKY, J. Optimization of Speaker-aware Multichannel Speech Extraction with ASR Criterion. In Proceedings of ICASSP 2018. Calgary: IEEE Signal Processing Society, 2018. p. 6702-6706. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2017",
+            "citation": "BASKAR, M.; KARAFIAT, M.; BURGET, L.; VESELY, K.; GREZL, F.; CERNOCKY, J. Residual Memory Networks: Feed-forward approach to learn long-term temporal dependencies. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 4810-4814. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "FER, R.; MATEJKA, P.; GREZL, F.; PLCHOT, O.; VESELY, K.; CERNOCKY, J. Multilingually Trained Bottleneck Features in Spoken Language Recognition. COMPUTER SPEECH AND LANGUAGE, 2017, vol. 2017, no. 46, p. 252-267. ISSN: 0885-2308."
+        },
+        {
+            "year": "2017",
+            "citation": "KARAFIAT, M.; BASKAR, M.; MATEJKA, P.; VESELY, K.; GREZL, F.; BURGET, L.; CERNOCKY, J. 2016 BUT Babel system: Multilingual BLSTM acoustic model with i-vector based adaptation. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 719-723. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "KARAFIAT, M.; VESELY, K.; ZMOLIKOVA, K.; DELCROIX, M.; WATANABE, S.; BURGET, L.; CERNOCKY, J.; SZOKE, I. Training Data Augmentation and Data Selection. In New Era for Robust Speech Recognition: Exploiting Deep Learning. Computer Science, Artificial Intelligence. Heidelberg: Springer International Publishing, 2017. p. 245-260. ISBN: 978-3-319-64679-4."
+        },
+        {
+            "year": "2017",
+            "citation": "KESIRAJU, S.; PAPPAGARI, R.; ONDEL YANG, L.; BURGET, L.; DEHAK, N.; KHUDANPUR, S.; CERNOCKY, J.; GANGASHETTY, S. Topic identification of spoken documents using unsupervised acoustic unit discovery. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 5745-5749. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "MATEJKA, P.; NOVOTNY, O.; PLCHOT, O.; BURGET, L.; DIEZ SANCHEZ, M.; CERNOCKY, J. Analysis of Score Normalization in Multilingual Speaker Recognition. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 1567-1571. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "ONDEL YANG, L.; BURGET, L.; CERNOCKY, J.; KESIRAJU, S. Bayesian phonotactic language model for Acoustic Unit Discovery. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 5750-5754. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "SILNOVA, A.; BURGET, L.; CERNOCKY, J. Alternative Approaches to Neural Network based Speaker Verification. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 1572-1575. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "VESELY, K.; BURGET, L.; CERNOCKY, J. Semi-supervised DNN training with word selection for ASR. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 3687-3691. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "ZEINALI, H.; SAMETI, H.; BURGET, L.; CERNOCKY, J. Text-dependent speaker verification based on i-vectors, Neural Networks and Hidden Markov Models. COMPUTER SPEECH AND LANGUAGE, 2017, vol. 2017, no. 46, p. 53-71. ISSN: 0885-2308."
+        },
+        {
+            "year": "2016",
+            "citation": "KARAFIAT, M.; BASKAR, M.; MATEJKA, P.; VESELY, K.; GREZL, F.; CERNOCKY, J. Multilingual BLSTM and Speaker-Specific Vector Adaptation in 2016 BUT BABEL SYSTEM. In Proceedings of SLT 2016. San Diego: IEEE Signal Processing Society, 2016. p. 637-643. ISBN: 978-1-5090-4903-5."
+        },
+        {
+            "year": "2016",
+            "citation": "KARAFIAT, M.; BURGET, L.; GREZL, F.; VESELY, K.; CERNOCKY, J. Multilingual Region-Dependent Transforms. In Proceedings of the 41th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016), 2016. Shanghai: IEEE Signal Processing Society, 2016. p. 5430-5434. ISBN: 978-1-4799-9988-0."
+        },
+        {
+            "year": "2016",
+            "citation": "KESIRAJU, S.; BURGET, L.; SZOKE, I.; CERNOCKY, J. Learning document representations using subspace multinomial model. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 700-704. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2016",
+            "citation": "MATEJKA, P.; GLEMBEK, O.; NOVOTNY, O.; PLCHOT, O.; GREZL, F.; BURGET, L.; CERNOCKY, J. Analysis Of DNN Approaches To Speaker Identification. In Proceedings of the 41th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016), 2016. Shanghai: IEEE Signal Processing Society, 2016. p. 5100-5104. ISBN: 978-1-4799-9988-0."
+        },
+        {
+            "year": "2016",
+            "citation": "NOVOTNY, O.; MATEJKA, P.; GLEMBEK, O.; PLCHOT, O.; GREZL, F.; BURGET, L.; CERNOCKY, J. Analysis of the DNN-Based SRE Systems in Multi-language Conditions. In Proceedings of SLT 2016. San Diego: IEEE Signal Processing Society, 2016. p. 199-204. ISBN: 978-1-5090-4903-5."
+        },
+        {
+            "year": "2016",
+            "citation": "NOVOTNY, O.; MATEJKA, P.; PLCHOT, O.; GLEMBEK, O.; BURGET, L.; CERNOCKY, J. Analysis of Speaker Recognition Systems in Realistic Scenarios of the SITW 2016 Challenge. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 828-832. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2016",
+            "citation": "ONDEL YANG, L.; BURGET, L.; CERNOCKY, J. Variational Inference for Acoustic Unit Discovery. In Procedia Computer Science. Procedia Computer Science. Yogyakarta: Elsevier Science, 2016. no. 81, p. 80-86. ISSN: 1877-0509."
+        },
+        {
+            "year": "2016",
+            "citation": "PESAN, J.; BURGET, L.; CERNOCKY, J. Sequence Summarizing Neural Networks for Spoken Language Recognition. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 3285-3289. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2016",
+            "citation": "POPKOVA, A.; POVOLNY, F.; MATEJKA, P.; GLEMBEK, O.; GREZL, F.; CERNOCKY, J. Investigation of Bottle-Neck Features for Emotion Recognition. In 19th International Conference, TSD 2016, Brno , Czech Republic, September 12-16, 2016, Proceedings. Lecture Notes in Computer Science. Lecture Notes in Computer Science, Lecture Notes in Artificial Intelligence. Brno: International Speech Communication Association, 2016. no. 9, p. 426-434. ISSN: 0302-9743."
+        },
+        {
+            "year": "2016",
+            "citation": "VESELY, K.; WATANABE, S.; ZMOLIKOVA, K.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J. Sequence Summarizing Neural Network for Speaker Adaptation. In Proceedings of the 41th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016), 2016. Shanghai: IEEE Signal Processing Society, 2016. p. 5315-5319. ISBN: 978-1-4799-9988-0."
+        },
+        {
+            "year": "2016",
+            "citation": "ZEINALI, H.; SAMETI, H.; BURGET, L.; CERNOCKY, J.; MAGHSOODI, N.; MATEJKA, P. i-vector/HMM Based Text-dependent Speaker Verification System for RedDots Challenge. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 440-444. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2016",
+            "citation": "ZMOLIKOVA, K.; KARAFIAT, M.; VESELY, K.; DELCROIX, M.; WATANABE, S.; BURGET, L.; CERNOCKY, J. Data selection by sequence summarizing neural network in mismatch condition training. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 2354-2358. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2015",
+            "citation": "FER, R.; MATEJKA, P.; GREZL, F.; PLCHOT, O.; CERNOCKY, J. Multilingual Bottleneck Features for Language Recognition. In Proceedings of Interspeech 2015. Proceedings of Interspeech. Dresden: International Speech Communication Association, 2015. no. 09, p. 389-393. ISBN: 978-1-5108-1790-6. ISSN: 1990-9772."
+        },
+        {
+            "year": "2015",
+            "citation": "HSIAO, R.; MA, J.; HARTMANN, W.; KARAFIAT, M.; GREZL, F.; BURGET, L.; SZOKE, I.; CERNOCKY, J.; WATANABE, S.; CHEN, Z.; MALLIDI, S.; HERMANSKY, H.; TSAKALIDIS, S.; SCHWARTZ, R. Robust Speech Recognition in Unknown Reverberant and Noisy Conditions. In Proceedings of 2015 IEEE Automatic Speech Recognition and Understanding Workshop. Scottsdale, Arizona: IEEE Signal Processing Society, 2015. p. 533-538. ISBN: 978-1-4799-7291-3."
+        },
+        {
+            "year": "2015",
+            "citation": "KARAFIAT, M.; GREZL, F.; BURGET, L.; SZOKE, I.; CERNOCKY, J. Three ways to adapt a CTS recognizer to unseen reverberated speech in BUT system for the ASpIRE challenge. In Proceedings of Interspeech 2015. Proceedings of Interspeech. Dresden: International Speech Communication Association, 2015. no. 09, p. 2454-2458. ISBN: 978-1-5108-1790-6. ISSN: 1990-9772."
+        },
+        {
+            "year": "2015",
+            "citation": "SZOKE, I.; SKACEL, M.; CERNOCKY, J.; BURGET, L. Coping with Channel Mismatch in Query-By-Example - BUT QUESST 2014. In Proceedings of 2015 IEEE International Conference on Acoustics, Speech and Signal Processing. South Brisbane, Queensland: IEEE Signal Processing Society, 2015. p. 5838-5842. ISBN: 978-1-4673-6997-8."
+        },
+        {
+            "year": "2014",
+            "citation": "KARAFIAT, M.; GREZL, F.; HANNEMANN, M.; CERNOCKY, J. BUT Neural Network Features for Spontaneous Vietnamese in BABEL. In Proceedings of ICASSP 2014. Florencie: IEEE Signal Processing Society, 2014. p. 5659-5663. ISBN: 978-1-4799-2892-7."
+        },
+        {
+            "year": "2014",
+            "citation": "KARAFIAT, M.; GREZL, F.; VESELY, K.; HANNEMANN, M.; SZOKE, I.; CERNOCKY, J. BUT 2014 Babel System: Analysis of adaptation in NN based systems. In Proceedings of Interspeech 2014. Singapore: International Speech Communication Association, 2014. p. 3002-3006. ISBN: 978-1-63439-435-2."
+        },
+        {
+            "year": "2014",
+            "citation": "KARAFIAT, M.; VESELY, K.; SZOKE, I.; BURGET, L.; GREZL, F.; HANNEMANN, M.; CERNOCKY, J. BUT ASR System for BABEL Surprise Evaluation 2014. In Proceedings of 2014 Spoken Language Technology Workshop. South Lake Tahoe, Nevada: IEEE Signal Processing Society, 2014. p. 501-506. ISBN: 978-1-4799-7129-9."
+        },
+        {
+            "year": "2014",
+            "citation": "SZOKE, I.; BURGET, L.; GREZL, F.; CERNOCKY, J.; ONDEL YANG, L. Calibration and Fusion of Query-by-example Systems - BUT SWS 2013. In Proceedings of ICASSP 2014. Florencie: IEEE Signal Processing Society, 2014. p. 7899-7903. ISBN: 978-1-4799-2892-7."
+        },
+        {
+            "year": "2013",
+            "citation": "EGOROVA, E.; VESELY, K.; KARAFIAT, M.; JANDA, M.; CERNOCKY, J. Manual and Semi-Automatic Approaches to Building a Multilingual Phoneme Set. In Proceedings of ICASSP 2013. Vancouver: IEEE Signal Processing Society, 2013. p. 7324-7328. ISBN: 978-1-4799-0355-9."
+        },
+        {
+            "year": "2013",
+            "citation": "KARAFIAT, M.; GREZL, F.; HANNEMANN, M.; VESELY, K.; CERNOCKY, J. BUT BABEL System for Spontaneous Cantonese. Proceedings of Interspeech 2013. Interspeech. Lyon: International Speech Communication Association, 2013. no. 8, p. 2589-2593. ISBN: 978-1-62993-443-3. ISSN: 2308-457X."
+        },
+        {
+            "year": "2013",
+            "citation": "RATH, S.; BURGET, L.; KARAFIAT, M.; GLEMBEK, O.; CERNOCKY, J. A Region-specific Feature-space Transformation for Speaker Adaptation and Singularity Analysis of Jacobian Matrix. Proceedings of Interspeeech 2013. Interspeech. Lyon: International Speech Communication Association, 2013. no. 8, p. 1228-1232. ISBN: 978-1-62993-443-3. ISSN: 2308-457X."
+        },
+        {
+            "year": "2013",
+            "citation": "RATH, S.; POVEY, D.; VESELY, K.; CERNOCKY, J. Improved Feature Processing for Deep Neural Networks. Proceedings of Interspeech 2013. Interspeech. Lyon: International Speech Communication Association, 2013. no. 8, p. 109-113. ISBN: 978-1-62993-443-3. ISSN: 2308-457X."
+        },
+        {
+            "year": "2013",
+            "citation": "SOUFIFAR, M.; BURGET, L.; PLCHOT, O.; CUMANI, S.; CERNOCKY, J. Regularized Subspace n-Gram Model for Phonotactic iVector Extraction. Proceedings of Interspeech 2013. Interspeech. Lyon: International Speech Communication Association, 2013. no. 8, p. 74-78. ISBN: 978-1-62993-443-3. ISSN: 2308-457X."
+        },
+        {
+            "year": "2012",
+            "citation": "BRUMMER, J.; CUMANI, S.; GLEMBEK, O.; KARAFIAT, M.; MATEJKA, P.; PESAN, J.; PLCHOT, O.; SOUFIFAR, M.; DE VILLIERS, E.; CERNOCKY, J. Description and analysis of the Brno276 system for LRE2011. In Proceedings of Odyssey 2012: The Speaker and Language Recognition Workshop. Singapur: International Speech Communication Association, 2012. p. 216-223. ISBN: 978-981-07-3093-2."
+        },
+        {
+            "year": "2012",
+            "citation": "CERNOCKY, J. Dolovani informaci z mluvene reci v BUT Speech@FIT. Hovory s informatiky 2012. Praha: Akademie ved CR, 2012. s. 113-114. ISBN: 978-80-87136-14-0."
+        },
+        {
+            "year": "2012",
+            "citation": "D'HARO, L.; GLEMBEK, O.; PLCHOT, O.; MATEJKA, P.; SOUFIFAR, M.; CORDOBA, R.; CERNOCKY, J. Phonotactic Language Recognition using i-vectors and Phoneme Posteriogram Counts. Proceedings of Interspeech 2012. Proceedings of Interspeech. Portland, Oregon: International Speech Communication Association, 2012. no. 9, p. 1-4. ISBN: 978-1-62276-759-5. ISSN: 1990-9772."
+        },
+        {
+            "year": "2012",
+            "citation": "JANDA, M.; KARAFIAT, M.; CERNOCKY, J. Dealing with Numbers in Grapheme-Based Speech Recognition. Proceedings of 15th International Conference on Text, Speech and Dialogue. Lecture Notes in Computer Science. Lecture Notes in Computer Science, 2012, Volume 7499. Springer-Verlag Berlin Heidelberg 2012: Springer Verlag, 2012. no. 9, p. 438-445. ISBN: 978-3-642-32789-6. ISSN: 0302-9743."
+        },
+        {
+            "year": "2012",
+            "citation": "KARAFIAT, M.; JANDA, M.; CERNOCKY, J.; BURGET, L. Region Dependent Linear Transforms in Multilingual Speech Recognition. In Proc. International Conference on Acoustics, Speech, and Signal Processing 2012. Kyoto: IEEE Signal Processing Society, 2012. p. 4885-4888. ISBN: 978-1-4673-0044-5."
+        },
+        {
+            "year": "2012",
+            "citation": "MCCOOL, C.; MARCEL, S.; MATEJKA, P.; CERNOCKY, J.; KITTLER, J.; LARCHER, A.; LEVY, C.; MATROUF, D.; BONASTRE, J. Bi-Modal Person Recognition on a Mobile Phone: using mobile phone data. 2012 IEEE International Conference on Multimedia and Expo Workshops. Melbourne, Victoria: IEEE Computer Society, 2012. p. 635-640. ISBN: 978-1-4673-2027-6."
+        },
+        {
+            "year": "2012",
+            "citation": "PLCHOT, O.; KARAFIAT, M.; BRUMMER, J.; GLEMBEK, O.; MATEJKA, P.; DE VILLIERS, E.; CERNOCKY, J. Speaker vectors from Subspace Gaussian Mixture Model as complementary features for Language Identification. In Proceedings of Odyssey 2012, The Speaker and Language Recognition Workshop. Singapur: International Speech Communication Association, 2012. p. 330-333. ISBN: 978-981-07-3093-2."
+        },
+        {
+            "year": "2012",
+            "citation": "RATH, S.; KARAFIAT, M.; GLEMBEK, O.; CERNOCKY, J. A factorized representation of FMLLR transform based on QR-decomposition. Proceedings of Interspeech 2012. Proceedings of Interspeech. Portland, Oregon: International Speech Communication Association, 2012. no. 9, p. 1-4. ISBN: 978-1-62276-759-5. ISSN: 1990-9772."
+        },
+        {
+            "year": "2012",
+            "citation": "SOUFIFAR, M.; CUMANI, S.; BURGET, L.; CERNOCKY, J. Discriminative Classifiers for Phonotactic Language Recognition with iVectors. Proc. International Conference on Acoustics, Speech, and Signal Processing 2012. Kyoto: IEEE Signal Processing Society, 2012. p. 4853-4856. ISBN: 978-1-4673-0044-5."
+        },
+        {
+            "year": "2012",
+            "citation": "SZOKE, I.; FAPSO, M.; ZIZKA, J.; BERAN, V.; CERNOCKY, J. Efektivni pristup ke znalostem v audio-vizualnich zaznamech. Proceedings of the Annual Database Conference. Praha: Technicka univerzita v Kosiciach, 2012. s. 57-74. ISBN: 978-80-553-1049-7."
+        },
+        {
+            "year": "2012",
+            "citation": "TEJEDOR, J.; FAPSO, M.; SZOKE, I.; CERNOCKY, J.; GREZL, F. Comparison of methods for language-dependent and language-independent query-by-example spoken term detection. ACM TRANSACTIONS ON INFORMATION SYSTEMS, 2012, vol. 2012, no. 30, p. 1-34. ISSN: 1046-8188."
+        },
+        {
+            "year": "2011",
+            "citation": "CERNOCKY, J.; SZOKE, I.; HANNEMANN, M.; KOMBRINK, S.; FAPSO, M. Hybrid Word-Subword Speech Recognition - a Powerful Tool to Search in Speech. Proceedings of 21st International Conference Radioelektronika 2011. Brno: Department of Radioelectronics FEEC BUT, 2011. p. 25-25. ISBN: 978-1-61284-322-3."
+        },
+        {
+            "year": "2011",
+            "citation": "FERRER, L.; BRATT, H.; BURGET, L.; CERNOCKY, J.; GLEMBEK, O.; GRACIARENA, M.; LAWSON, A.; LEI, Y.; MATEJKA, P.; PLCHOT, O.; SCHEFFER, N. Promoting robustness for speaker modeling in the community: the PRISM evaluation set. Proceedings of SRE11 Analysis Workshop in 2011. Atlanta, Georga: 2011. p. 1-7."
+        },
+        {
+            "year": "2011",
+            "citation": "KARAFIAT, M.; BURGET, L.; MATEJKA, P.; GLEMBEK, O.; CERNOCKY, J. iVector-Based Discriminative Adaptation for Automatic Speech Recognition. Proceedings of ASRU 2011. Hilton Waikoloa Village, Big Island, Hawaii: IEEE Signal Processing Society, 2011. p. 152-157. ISBN: 978-1-4673-0366-8."
+        },
+        {
+            "year": "2011",
+            "citation": "KOCKMANN, M.; BURGET, L.; CERNOCKY, J. Application of speaker- and language identification state-of-the-art techniques for emotion recognition. Speech communication, 2011, vol. 53, no. 9, p. 1172-1185. ISSN: 0167-6393."
+        },
+        {
+            "year": "2011",
+            "citation": "KOCKMANN, M.; FERRER, L.; BURGET, L.; CERNOCKY, J. iVector Fusion of Prosodic and Cepstral Features for Speaker Verification. Proceedings of Interspeech 2011. Proceedings of Interspeech. Florence: International Speech Communication Association, 2011. no. 8, p. 265-268. ISBN: 978-1-61839-270-1. ISSN: 1990-9772."
+        },
+        {
+            "year": "2011",
+            "citation": "KOCKMANN, M.; FERRER, L.; BURGET, L.; SHRIBERG, E.; CERNOCKY, J. Recent Progress in Prosodic Speaker Verification. Proceedings of the 2011 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011. Praha: IEEE Signal Processing Society, 2011. p. 4556-4559. ISBN: 978-1-4577-0537-3."
+        },
+        {
+            "year": "2011",
+            "citation": "MATEJKA, P.; GLEMBEK, O.; CASTALDO, F.; ALAM, J.; PLCHOT, O.; KENNY, P.; BURGET, L.; CERNOCKY, J. Full-covariance UBM and Heavy-tailed PLDA in I-Vector Speaker Verification. In Proceedings of the 2011 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011. Praha: IEEE Signal Processing Society, 2011. p. 4828-4831. ISBN: 978-1-4577-0537-3."
+        },
+        {
+            "year": "2011",
+            "citation": "MIKOLOV, T.; DEORAS, A.; KOMBRINK, S.; BURGET, L.; CERNOCKY, J. Empirical Evaluation and Combination of Advanced Language Modeling Techniques. Proceedings of Interspeech 2011. Proceedings of Interspeech. Florence: International Speech Communication Association, 2011. no. 8, p. 605-608. ISBN: 978-1-61839-270-1. ISSN: 1990-9772."
+        },
+        {
+            "year": "2011",
+            "citation": "MIKOLOV, T.; DEORAS, A.; POVEY, D.; BURGET, L.; CERNOCKY, J. Strategies for Training Large Scale Neural Network Language Models. Proceedings of ASRU 2011. Hilton Waikoloa Village, Big Island, Hawaii: IEEE Signal Processing Society, 2011. p. 196-201. ISBN: 978-1-4673-0366-8."
+        },
+        {
+            "year": "2011",
+            "citation": "MIKOLOV, T.; KOMBRINK, S.; BURGET, L.; CERNOCKY, J.; KHUDANPUR, S. Extensions of Recurrent Neural Network Language Model. Proceedings of the 2011 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011. Praha: IEEE Signal Processing Society, 2011. p. 5528-5531. ISBN: 978-1-4577-0537-3."
+        },
+        {
+            "year": "2011",
+            "citation": "MIKOLOV, T.; KOMBRINK, S.; DEORAS, A.; BURGET, L.; CERNOCKY, J. RNNLM - Recurrent Neural Network Language Modeling Toolkit. Proceedings of ASRU 2011. Hilton Waikoloa Village, Big Island, Hawaii: IEEE Signal Processing Society, 2011. p. 1-4. ISBN: 978-1-4673-0366-8."
+        },
+        {
+            "year": "2010",
+            "citation": "JANCIK, Z.; PLCHOT, O.; BRUMMER, J.; BURGET, L.; GLEMBEK, O.; HUBEIKA, V.; KARAFIAT, M.; MATEJKA, P.; MIKOLOV, T.; STRASHEIM, A.; CERNOCKY, J. Data selection and calibration issues in automatic language recognition - investigation with BUT-AGNITIO NIST LRE 2009 system. In Proc. Odyssey 2010 - The Speaker and Language Recognition Workshop. Brno: International Speech Communication Association, 2010. p. 215-221. ISBN: 978-80-214-4114-9."
+        },
+        {
+            "year": "2010",
+            "citation": "KARAFIAT, M.; SZOKE, I.; CERNOCKY, J. Using Gradient Descent Optimization for Acoustic Training from Heterogeneous Data. Proc. Text, Speech and Dialog 2010. Lecture Notes in Computer Science. LNAI 6231. Brno: Springer Verlag, 2010. no. 9, p. 322-329. ISBN: 978-3-642-15759-2. ISSN: 0302-9743."
+        },
+        {
+            "year": "2010",
+            "citation": "KOCKMANN, M.; BURGET, L.; CERNOCKY, J. Brno University of Technology System for Interspeech 2010 Paralinguistic Challenge. Proceedings of the 11th Annual Conference of the International Speech Communication Association (INTERSPEECH 2010). Proceedings of Interspeech. Makuhari, Chiba: International Speech Communication Association, 2010. no. 9, p. 2822-2825. ISBN: 978-1-61782-123-3. ISSN: 1990-9772."
+        },
+        {
+            "year": "2010",
+            "citation": "KOCKMANN, M.; BURGET, L.; CERNOCKY, J. Investigations into prosodic syllable contour features for speaker recognition. Proc. International Conference on Acoustics, Speech, and Signal Processing. Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Dallas: IEEE Signal Processing Society, 2010. no. 3, p. 4418-4421. ISBN: 978-1-4244-4296-6. ISSN: 1520-6149."
+        },
+        {
+            "year": "2010",
+            "citation": "KOCKMANN, M.; BURGET, L.; GLEMBEK, O.; FERRER, L.; CERNOCKY, J. Prosodic Speaker Verification using Subspace Multinomial Models with Intersession Compensation. Proceedings of the 11th Annual Conference of the International Speech Communication Association (INTERSPEECH 2010). Proceedings of Interspeech. Makuhari, Chiba, Japan: International Speech Communication Association, 2010. no. 9, p. 1061-1064. ISBN: 978-1-61782-123-3. ISSN: 1990-9772."
+        },
+        {
+            "year": "2010",
+            "citation": "MARCEL, S.; MCCOOL, C.; MATEJKA, P.; CERNOCKY, J.; KITTLER, J.; GLEMBEK, O.; PLCHOT, O.; JANCIK, Z.; LARCHER, A.; LEVY, C. On the Results of the First Mobile Biometry (MOBIO) Face and Speaker Verification Evaluation. In Recognizing Patterns in Signals, Speech, Images, and Videos. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Istanbul: Springer Verlag, 2010. no. 08, p. 210-225. ISBN: 978-3-642-17710-1. ISSN: 0302-9743."
+        },
+        {
+            "year": "2010",
+            "citation": "MIKOLOV, T.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J.; KHUDANPUR, S. Recurrent neural network based language model. Proceedings of the 11th Annual Conference of the International Speech Communication Association (INTERSPEECH 2010). Proceedings of Interspeech. Makuhari, Chiba: International Speech Communication Association, 2010. no. 9, p. 1045-1048. ISBN: 978-1-61782-123-3. ISSN: 1990-9772."
+        },
+        {
+            "year": "2010",
+            "citation": "MIKOLOV, T.; PLCHOT, O.; GLEMBEK, O.; MATEJKA, P.; BURGET, L.; CERNOCKY, J. PCA-based Feature Extraction for Phonotactic Language Recognition. In Proc. Odyssey 2010 - The Speaker and Language Recognition Workshop. Brno: International Speech Communication Association, 2010. p. 251-255. ISBN: 978-80-214-4114-9."
+        },
+        {
+            "year": "2010",
+            "citation": "SANTHOSH KUMAR, C.; LI, H.; TONG, R.; MATEJKA, P.; BURGET, L.; CERNOCKY, J. Tuning phone decoders for language identification. Proc. International Conference on Acoustics, Speech, and Signal Processing 2010. Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Dallas: IEEE Signal Processing Society, 2010. no. 3, p. 5010-5013. ISBN: 978-1-4244-4296-6. ISSN: 1520-6149."
+        },
+        {
+            "year": "2010",
+            "citation": "SZOKE, I.; CERNOCKY, J.; FAPSO, M.; ZIZKA, J. SPEECH@FIT LECTURE BROWSER. Proceedings of the 2010 IEEE Spoken Language Technology Workshop. IEEE Catalog Number: CFP 10SLT-USB. Berkeley, California: IEEE Signal Processing Society, 2010. p. 157-158. ISBN: 978-1-4244-7902-3."
+        },
+        {
+            "year": "2010",
+            "citation": "SZOKE, I.; GREZL, F.; CERNOCKY, J.; FAPSO, M. Acoustic keyword spotter - optimization from end-user perspective. Proceedings of the 2010 IEEE Spoken Language Technology Workshop. IEEE Catalog Number: CFP 10SLT-USB. Berkeley, California: IEEE Signal Processing Society, 2010. p. 177-181. ISBN: 978-1-4244-7902-3."
+        },
+        {
+            "year": "2010",
+            "citation": "ZIZKA, J.; CERNOCKY, J.; FAPSO, M.; SZOKE, I. Web-Based Lecture Browser with Speech Search. Znalosti 2010. Sbornik prispevku 9. rocniku konference. Jindrichuv Hradec: Fakulty of management and information, 2010. p. 287-290. ISBN: 978-80-245-1636-3."
+        },
+        {
+            "year": "2009",
+            "citation": "BURGET, L.; FAPSO, M.; HUBEIKA, V.; GLEMBEK, O.; KARAFIAT, M.; KOCKMANN, M.; MATEJKA, P.; SCHWARZ, P.; CERNOCKY, J. BUT system for NIST 2008 speaker recognition evaluation. Proc. Interspeech 2009. Proceedings of Interspeech. Brighton: International Speech Communication Association, 2009. no. 9, p. 2335-2338. ISBN: 978-1-61567-692-7. ISSN: 1990-9772."
+        },
+        {
+            "year": "2009",
+            "citation": "BURGET, L.; MATEJKA, P.; HUBEIKA, V.; CERNOCKY, J. Investigation into variants of Joint Factor Analysis for speaker recognition. Proc. Interspeech 2009. Proceedings of Interspeech. Brighton: International Speech Communication Association, 2009. no. 9, p. 1263-1266. ISBN: 978-1-61567-692-7. ISSN: 1990-9772."
+        },
+        {
+            "year": "2009",
+            "citation": "GREZL, F.; CERNOCKY, J. Audio Surveillance through Known Event Classification. Radioengineering, 2009, vol. 18, no. 4, p. 671-675. ISSN: 1210-2512."
+        },
+        {
+            "year": "2009",
+            "citation": "KOCKMANN, M.; BURGET, L.; CERNOCKY, J. Brno University of Technology System for Interspeech 2009 Emotion Challenge. Proc. Interspeech 2009. Proceedings of Interspeech. Brighton: International Speech Communication Association, 2009. no. 9, p. 348-351. ISSN: 1990-9772."
+        },
+        {
+            "year": "2009",
+            "citation": "MIKOLOV, T.; KOPECKY, J.; BURGET, L.; GLEMBEK, O.; CERNOCKY, J. Neural network based language models for highly inflective languages. Proc. ICASSP 2009. Taipei: IEEE Signal Processing Society, 2009. p. 1-4. ISBN: 978-1-4244-2354-5."
+        },
+        {
+            "year": "2008",
+            "citation": "BURGET, L.; FAPSO, M.; HUBEIKA, V.; GLEMBEK, O.; KARAFIAT, M.; KOCKMANN, M.; MATEJKA, P.; SCHWARZ, P.; CERNOCKY, J. BUT system description: NIST SRE 2008. Proc. 2008 NIST Speaker Recognition Evaluation Workshop. Montreal: National Institute of Standards and Technology, 2008. p. 1-4."
+        },
+        {
+            "year": "2008",
+            "citation": "BURGET, L.; SCHWARZ, P.; MATEJKA, P.; HANNEMANN, M.; RASTROW, A.; WHITE, C.; KHUDANPUR, S.; HERMANSKY, H.; CERNOCKY, J. Combination of strongly and weakly constrained recognizers for reliable detection of OOVs. Proc. International Conference on Acoustics, Speech, and Signal Processing (ICASSP). Las Vegas: IEEE Signal Processing Society, 2008. p. 1-4. ISBN: 1-4244-1484-9."
+        },
+        {
+            "year": "2008",
+            "citation": "KARAFIAT, M.; BURGET, L.; HAIN, T.; CERNOCKY, J. Discrimininative training of narrow band - wide band adaptated systems for meeting recognition. Proc. Interspeech 2008. Proceedings of Interspeech. Brisbane: International Speech Communication Association, 2008. no. 9, p. 1-4. ISSN: 1990-9772."
+        },
+        {
+            "year": "2008",
+            "citation": "MATEJKA, P.; BURGET, L.; GLEMBEK, O.; SCHWARZ, P.; HUBEIKA, V.; FAPSO, M.; MIKOLOV, T.; PLCHOT, O.; CERNOCKY, J. BUT language recognition system for NIST 2007 evaluations. Proc. Interspeech 2008. Proceedings of Interspeech. Brisbane, Australia: International Speech Communication Association, 2008. no. 9, p. 1-4. ISSN: 1990-9772."
+        },
+        {
+            "year": "2008",
+            "citation": "OPARIN, I.; GLEMBEK, O.; BURGET, L.; CERNOCKY, J. Morphological random forests for language modeling of inflectional languages. Proc. 2008 IEEE Workshop on Spoken Language Technology. Goa: IEEE Signal Processing Society, 2008. p. 1-4. ISBN: 978-1-4244-3472-5."
+        },
+        {
+            "year": "2008",
+            "citation": "SZOKE, I.; BURGET, L.; CERNOCKY, J.; FAPSO, M. Sub-word modeling of out of vocabulary words in spoken term detection. Proc. 2008 IEEE Workshop on Spoken Language Technology. Goa: IEEE Signal Processing Society, 2008. p. 1-4. ISBN: 978-1-4244-3472-5."
+        },
+        {
+            "year": "2008",
+            "citation": "SZOKE, I.; FAPSO, M.; BURGET, L.; CERNOCKY, J. Hybrid word-subword decoding for spoken term detection. Proc. SSCS 2008: Speech search workshop at SIGIR. Singapore: Association for Computing Machinery, 2008. p. 1-4. ISBN: 978-90-365-2697-5."
+        },
+        {
+            "year": "2007",
+            "citation": "BRUMMER, N.; BURGET, L.; CERNOCKY, J.; GLEMBEK, O.; GREZL, F.; KARAFIAT, M.; VAN LEEUWEN, D.; MATEJKA, P.; SCHWARZ, P.; STRASHEIM, A. Fusion of heterogeneous speaker recognition systems in the STBU submission for the NIST speaker recognition evaluation 2006. IEEE Transactions on Audio, Speech, and Language Processing, 2007, vol. 15, no. 7, p. 2072-2084. ISSN: 1558-7916."
+        },
+        {
+            "year": "2007",
+            "citation": "BURGET, L.; MATEJKA, P.; SCHWARZ, P.; GLEMBEK, O.; CERNOCKY, J. Analysis of feature extraction and channel compensation in GMM speaker recognition system. IEEE Transactions on Audio, Speech, and Language Processing, 2007, vol. 15, no. 7, p. 1979-1986. ISSN: 1558-7916."
+        },
+        {
+            "year": "2007",
+            "citation": "CERNOCKY, J.; BURGET, L.; SCHWARZ, P.; MATEJKA, P.; KARAFIAT, M.; GLEMBEK, O.; KOPECKY, J.; SZOKE, I.; FAPSO, M.; GREZL, F.; HUBEIKA, V.; OPARIN, I. Search in speech, language identification and speaker recognition in Speech@FIT. Proc. 17th International Conference Radioelektronika, 2007. Brno: Department of Radioelectronics FEEC BUT, 2007. p. 1-6. ISBN: 978-80-214-3390-8."
+        },
+        {
+            "year": "2007",
+            "citation": "CERNOCKY, J.; SZOKE, I.; FAPSO, M.; KARAFIAT, M.; BURGET, L.; KOPECKY, J.; GREZL, F.; SCHWARZ, P.; GLEMBEK, O.; OPARIN, I.; SMRZ, P.; MATEJKA, P. Search in speech for public security and defense. Proc. IEEE Workshop on Signal Processing Applications for Public Security and Forensics, 2007 (SAFE '07). Washington D.C.: IEEE Signal Processing Society, 2007. p. 1-7. ISBN: 1-4244-1226-9."
+        },
+        {
+            "year": "2007",
+            "citation": "GREZL, F.; CERNOCKY, J. TRAP-based Techniques for Recognition of Noisy Speech. Proc. 10th International Conference on Text Speech and Dialogue (TSD 2007). LNCS. Berlin: Springer Verlag, 2007. p. 270-277. ISBN: 978-3-540-74627-0."
+        },
+        {
+            "year": "2007",
+            "citation": "GREZL, F.; KARAFIAT, M.; KONTAR, S.; CERNOCKY, J. Probabilistic and bottle-neck features for LVCSR of meetings. Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2007). Hononulu: IEEE Signal Processing Society, 2007. p. 757-760. ISBN: 1-4244-0728-1."
+        },
+        {
+            "year": "2007",
+            "citation": "HUBEIKA, V.; SZOKE, I.; BURGET, L.; CERNOCKY, J. Maximum Likelihood and Maximum Mutual Information Training in Gender and Age Recognition System. Proc. 10th International Conference on Text Speech and Dialogue (TSD 2007). Pilsen: Springer Verlag, 2007. p. 1-6. ISBN: 978-3-540-74627-0."
+        },
+        {
+            "year": "2007",
+            "citation": "KARAFIAT, M.; BURGET, L.; CERNOCKY, J.; HAIN, T. Application of CMLLR in narrow band wide band adapted systems. Proc. INTERSPEECH 2007. Proceedings of Interspeech. Antwerpen: International Speech Communication Association, 2007. no. 9, p. 1260-1263. ISSN: 1990-9772."
+        },
+        {
+            "year": "2007",
+            "citation": "MATEJKA, P.; BURGET, L.; SCHWARZ, P.; GLEMBEK, O.; KARAFIAT, M.; GREZL, F.; CERNOCKY, J.; VAN LEEUWEN, D.; BRUMMER, N.; STRASHEIM, A. STBU system for the NIST 2006 speaker recognition evaluation. Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2007). Honolulu: IEEE Signal Processing Society, 2007. p. 221-224. ISBN: 1-4244-0728-1."
+        },
+        {
+            "year": "2006",
+            "citation": "AL-HAMES, M.; HAIN, T.; CERNOCKY, J.; SCHREIBER, S.; POEL, M.; MULLER, R.; MARCEL, S.; VAN LEEUWEN, D.; ODOBEZ, J.; BA, S.; BOURLARD, H.; CARDINAUX, F.; GATICA-PEREZ, D.; JANIN, A.; MOTLICEK, P.; REITER, S.; RENALS, S.; VAN REST, J.; RIENKS, R.; RIGOLL, G.; SMITH, K.; THEAN, A.; ZEMCIK, P. Audio-Visual Processing in Meetings: Seven Questions and Current AMI Answers. Proc. 3nd Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms (MLMI 2006). Washington D.C.: 2006. p. 1-12."
+        },
+        {
+            "year": "2006",
+            "citation": "BURGET, L.; FAPSO, M.; MATEJKA, P.; SMRZ, P.; CERNOCKY, J.; KARAFIAT, M.; SCHWARZ, P.; SZOKE, I. Indexing and search methods for spoken documents. Proceedings of the Ninth International Conference on Text, Speech and Dialogue, TSD 2006. Lecture Notes in Computer Science. LNCS. Berlin: Springer Verlag, 2006. no. 4188, p. 351-358. ISSN: 0302-9743."
+        },
+        {
+            "year": "2006",
+            "citation": "BURGET, L.; MATEJKA, P.; CERNOCKY, J. Discriminative Training Techniques for Acoustic Language Identification. Proceedings of ICASSP 2006. Toulouse: 2006. p. 209-212."
+        },
+        {
+            "year": "2006",
+            "citation": "CERNOCKY, J.; MATEJKA, P.; BURGET, L.; SCHWARZ, P. Automatic Language Identification System. Sbornik prispevku z odborneho seminare \"Nove technologie v radiokomunikacich\". Brno: University of Defence in Brno, 2006. p. 1-6."
+        },
+        {
+            "year": "2006",
+            "citation": "FAPSO, M.; SCHWARZ, P.; SZOKE, I.; SMRZ, P.; SCHWARZ, M.; CERNOCKY, J.; KARAFIAT, M.; BURGET, L. Search Engine for Information Retrieval from Speech Records. Proceedings of the Third International Seminar on Computer Treatment of Slavic and East European Languages. Bratislava: 2006. p. 100-101."
+        },
+        {
+            "year": "2006",
+            "citation": "FAPSO, M.; SMRZ, P.; SCHWARZ, P.; SZOKE, I.; SCHWARZ, M.; CERNOCKY, J.; KARAFIAT, M.; BURGET, L. Information Retrieval from Spoken Documents. Proceedings of the Seventh International Conference on Intelligent Text Processing and Computational Linguistics (CICLING 2006). Mexico City: Springer Verlag, 2006. p. 410-416. ISBN: 3-540-32205-1."
+        },
+        {
+            "year": "2006",
+            "citation": "GLEMBEK, O.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J. Czech Speech Recognizer for Multiple Environments. Radioeletronika 2006. Bratislava: 2006. p. 1-4."
+        },
+        {
+            "year": "2006",
+            "citation": "KARAFIAT, M.; GREZL, F.; SCHWARZ, P.; BURGET, L.; CERNOCKY, J. Robust heteroscedastic linear discriminant analysis and LCRC posterior features in large vocabulary continuous speech recognition. Proc. Fifth Slovenian and First International Language Technologies Conference. Ljubljana: 2006. p. 1-4."
+        },
+        {
+            "year": "2006",
+            "citation": "KARAFIAT, M.; GREZL, F.; SCHWARZ, P.; BURGET, L.; CERNOCKY, J. Robust heteroscedastic linear discriminant analysis and LCRC posterior features in meeting data recognition. Proc. 3nd Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms (MLMI 2006). Lecture Notes in Computer Science. Berlin: Springer Verlag, 2006. p. 275-284. ISBN: 3-540-69267-3."
+        },
+        {
+            "year": "2006",
+            "citation": "KOPECKY, J.; SZOKE, I.; FAPSO, M.; KARAFIAT, M.; BURGET, L.; OPARIN, I.; SCHWARZ, P.; MATEJKA, P.; CERNOCKY, J.; GLEMBEK, O. BUT System for NIST STD 2006 - Arabic. Proc. NIST SPoken Term Detection Evaluation workshop (STD 2006). Washington D.C.: National Institute of Standards and Technology, 2006. p. 1-15."
+        },
+        {
+            "year": "2006",
+            "citation": "MATEJKA, P.; BURGET, L.; SCHWARZ, P.; CERNOCKY, J. Brno University of Technology System for NIST 2005 Language Recognition Evaluation. Proceedings of Odyssey 2006: The Speaker and Language Recognition Workshop. San Juan: 2006. p. 57-64. ISBN: 1-4244-0472-X."
+        },
+        {
+            "year": "2006",
+            "citation": "MATEJKA, P.; BURGET, L.; SCHWARZ, P.; CERNOCKY, J. NIST Language Recognition Evaluation 2005. Proceedings of NIST LRE 2005. Washington DC: National Institute of Standards and Technology, 2006. p. 1-37."
+        },
+        {
+            "year": "2006",
+            "citation": "MATEJKA, P.; BURGET, L.; SCHWARZ, P.; CERNOCKY, J. NIST Speaker Recognition Evaluation 2006. Proceedings of NIST Speaker Recognition Evaluation 2006. San Juan: National Institute of Standards and Technology, 2006. p. 1-40."
+        },
+        {
+            "year": "2006",
+            "citation": "MATEJKA, P.; SCHWARZ, P.; BURGET, L.; CERNOCKY, J. Use of anti-models to furher improve state-of-the-art PRLM language recognition system. Proceedings of ICASSP 2006. Toulouse: 2006. p. 197-200."
+        },
+        {
+            "year": "2006",
+            "citation": "SCHWARZ, P.; MATEJKA, P.; CERNOCKY, J. Hierarchical structures of neural networks for phoneme recognition. Proceedings of ICASSP 2006. Toulouse: 2006. p. 325-328."
+        },
+        {
+            "year": "2006",
+            "citation": "SZOKE, I.; FAPSO, M.; KARAFIAT, M.; BURGET, L.; GREZL, F.; SCHWARZ, P.; GLEMBEK, O.; MATEJKA, P.; KONTAR, S.; CERNOCKY, J. BUT System for NIST STD 2006 - English. Proc. NIST SPoken Term Detection Evaluation workshop (STD 2006). Washington D.C.: National Institute of Standards and Technology, 2006. p. 1-26."
+        },
+        {
+            "year": "2005",
+            "citation": "CERNOCKY, J.; CHALUPNICEK, K. Checks of speech transcriptions for AMI meeting database. 10th International Conference SPEECH and COMPUTER. Moscow: 2005. p. 587-590. ISBN: 5-7452-0110-1."
+        },
+        {
+            "year": "2005",
+            "citation": "CERNOCKY, J.; LAMPA, P. Teaching signals - making it automatic, making it fun. Proc. Radioelektronika 2005. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 318-321. ISBN: 80-214-2904-6."
+        },
+        {
+            "year": "2005",
+            "citation": "FAPSO, M.; SMRZ, P.; SCHWARZ, P.; SZOKE, I.; BURGET, L.; KARAFIAT, M.; CERNOCKY, J. System pre efektivne vyhladavanie v recovych databazach. Sbornik databazove konference DATAKON 2005. Brno: Masaryk University, 2005. s. 323-333. ISBN: 80-210-3813-6."
+        },
+        {
+            "year": "2005",
+            "citation": "KARAFIAT, M.; BURGET, L.; CERNOCKY, J. Using Smoothed Heteroscedastic Linear Discriminant Analysis in Large Vocabulary Continuous Speech Recognition System. 2nd Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms. tento clanek nebyl zarazen mezi Revised Selected Papers, nevysel v LNCS 3869. Edinbourgh, Scotland: University of Edinburgh, 2005. p. 1-8."
+        },
+        {
+            "year": "2005",
+            "citation": "MATEJKA, P.; SCHWARZ, P.; CERNOCKY, J.; CHYTIL, P. Phonotactic Language Identification using High Quality Phoneme Recognition. Interspeech'2005 - Eurospeech - 9th European Conference on Speech Communication and Technology. European Conference EUROSPEECH. Lisbon: International Speech Communication Association, 2005. no. 9, p. 2237-2240. ISSN: 1018-4074."
+        },
+        {
+            "year": "2005",
+            "citation": "MATEJKA, P.; SCHWARZ, P.; CERNOCKY, J.; CHYTIL, P. Phonotactic Language Identification. Proceedings of Radioelektronika 2005. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 140-143. ISBN: 80-214-2904-6."
+        },
+        {
+            "year": "2005",
+            "citation": "MOTLICEK, P.; BURGET, L.; CERNOCKY, J. Non-parametric Speaker Turn Segmentation of Meeting Data. Interspeech'2005 - Eurospeech - 9th European Conference on Speech Communication and Technology. European Conference EUROSPEECH. Lisabon: International Speech Communication Association, 2005. no. 9, p. 657-660. ISSN: 1018-4074."
+        },
+        {
+            "year": "2005",
+            "citation": "MOTLICEK, P.; BURGET, L.; CERNOCKY, J. VISUAL FEATURES FOR MULTIMODAL SPEECH RECOGNITION. Radioelektronika 2005. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 187-190. ISBN: 80-214-2904-6."
+        },
+        {
+            "year": "2005",
+            "citation": "Pavel Matejka, Petr Schwarz, Jan Cernocky, Pavel Chytil. Phonotactic Language Identification using High Quality Phoneme Recognition. In submitted to Eurospeech 2005. Lisbon, Portugal: 2005. 4 p."
+        },
+        {
+            "year": "2005",
+            "citation": "Pavel Matejka, Petr Schwarz$, Jan Cernocky, Pavel Chytil. Phonotactic Language Identification. In accepted to Radioelektronika 2005. Brno, Czech Republic: FEEC VUTBR, 2005. 4 p."
+        },
+        {
+            "year": "2005",
+            "citation": "SZOKE, I.; SCHWARZ, P.; BURGET, L.; FAPSO, M.; KARAFIAT, M.; CERNOCKY, J.; MATEJKA, P. Comparison of Keyword Spotting Approaches for Informal Continuous Speech. Interspeech'2005 - Eurospeech - 9th European Conference on Speech Communication and Technology. European Conference EUROSPEECH. Lisabon: 2005. p. 633-636. ISSN: 1018-4074."
+        },
+        {
+            "year": "2005",
+            "citation": "SZOKE, I.; SCHWARZ, P.; BURGET, L.; KARAFIAT, M.; CERNOCKY, J. Phoneme based acoustics keyword spotting in informal continuous speech. Radioelektronika 2005. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 195-198. ISBN: 80-214-2904-6."
+        },
+        {
+            "year": "2005",
+            "citation": "SZOKE, I.; SCHWARZ, P.; BURGET, L.; KARAFIAT, M.; MATEJKA, P.; CERNOCKY, J. Phoneme Based Acoustics Keyword Spotting in Informal Continuous Speech. Lecture Notes in Computer Science, 2005, vol. 2005, no. 3658, p. 302-309. ISSN: 0302-9743."
+        },
+        {
+            "year": "2005",
+            "citation": "SZOKE, I.; SCHWARZ, P.; MATEJKA, P.; BURGET, L.; FAPSO, M.; KARAFIAT, M.; CERNOCKY, J. Comparison of Keyword Spotting Approaches for Informal Continuous Speech. 2nd Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms. Edinburgh: 2005. p. 1-12."
+        },
+        {
+            "year": "2004",
+            "citation": "KARAFIAT, M.; GREZL, F.; CERNOCKY, J. TRAP based features for LVCSR of meeting data. Proc. 8th International Conference on Spoken Language Processing. Jeju Island: Sunjin Printing Co, 2004. no. 10, p. 437-440. ISSN: 1225-4111."
+        },
+        {
+            "year": "2004",
+            "citation": "MATEJKA, P., CERNOCKY, J., SIGMUND, M. Introduction to Automatic Language Identification. Conference Proceedings of Radioelektronika 2004. Bratislava, Slovk Republic: Institute of Radio Electronics, Slovak Technical University in Bratislava, 2004. 4 p. ISBN: 80-227-2017-8."
+        },
+        {
+            "year": "2004",
+            "citation": "MATEJKA, P., SZOKE, I., SCHWARZ, P., CERNOCKY, J. Automatic Language Identification using Phoneme and Automatically Derived Unit Strings. Lecture Notes in Computer Science, 2004, vol. 2004, no. 3206, 8 p. ISSN: 0302-9743."
+        },
+        {
+            "year": "2004",
+            "citation": "MATEJKA, P., SZOKE, I., SCHWARZ, P., CERNOCKY, J. Automatic Language Identification using Phoneme and Automatically Derived Unit Strings. In Proceedings of 7th International Conference Text,Speech and Dialoque 2004. Brno: Springer, 2004. 8 p. ISBN: 3-540-23049-1."
+        },
+        {
+            "year": "2004",
+            "citation": "MATEJKA, P.; CERNOCKY, J.; SIGMUND, M. Introduction to Automatic Language Identification. Conference Proceedings of Radioelektronika 2004. Brno: Slovak University of Technology in Bratislava, 2004. p. 112-115. ISBN: 80-227-2017-8."
+        },
+        {
+            "year": "2004",
+            "citation": "MATEJKA, P.; CERNOCKY, J.; SIGMUND, M. Introduction to Automatic Languages Identification. In Proceedings of the 14th international Czech-Slovak scientific conference RADIOELEKTRONIKA 2004. Bratislava: 2004. 4 p. ISBN: 80-227-2017-8."
+        },
+        {
+            "year": "2004",
+            "citation": "MATEJKA, P.; SZOKE, I.; SCHWARZ, P.; CERNOCKY, J. Automatic Language Identification using Phoneme and Automatically Derived Unit Strings. Proceedings of 7th International Conference Text,Speech and Dialoque 2004. Brno: Springer Verlag, 2004. p. 147-154. ISBN: 3-540-23049-1."
+        },
+        {
+            "year": "2004",
+            "citation": "MATEJKA, P.; SZOKE, I.; SCHWARZ, P.; CERNOCKY, J. Automatic Language Identification using Phoneme and Automatically Derived Unit Strings. Lecture Notes in Computer Science, 2004, vol. 2004, no. 3206, p. 147-154. ISSN: 0302-9743."
+        },
+        {
+            "year": "2004",
+            "citation": "MOTLICEK, P.; BURGET, L.; CERNOCKY, J. Phoneme Recognition of Meetings using Audio-Visual Data. AMI Workshop. Martigny: 2004. 6 p."
+        },
+        {
+            "year": "2004",
+            "citation": "MOTLICEK, P.; CERNOCKY, J. Multimodal Phoneme Recognition of Meeting Data. 7th International Conference, TSD 2004 Brno, Czech Republic, September 2004 Proceedings. Lecture Notes in Computer Science. Brno: Springer Verlag, 2004. no. 09, p. 379-384. ISBN: 3-540-23049-1. ISSN: 0302-9743."
+        },
+        {
+            "year": "2004",
+            "citation": "MOTLICEK, P.; CERNOCKY, J. Multimodal Phoneme Recognition of Meeting Data. Lecture Notes in Computer Science, 2004, vol. 2004, no. 3206, p. 379-384. ISSN: 0302-9743."
+        },
+        {
+            "year": "2004",
+            "citation": "SCHWARZ, P., MATEJKA, P., CERNOCKY, J. Phoneme Recognition. AMI Workshop. 2004. 1 p."
+        },
+        {
+            "year": "2004",
+            "citation": "SCHWARZ, P., MATEJKA, P., CERNOCKY, J. Towards Lower Error Rates in Phoneme Recognition. Lecture Notes in Computer Science, 2004, vol. 2004, no. 3206, 8 p. ISSN: 0302-9743."
+        },
+        {
+            "year": "2004",
+            "citation": "SCHWARZ, P., MATEJKA, P., CERNOCKY, J. Towards Lower Error Rates in Phoneme Recognition. In Proceedings of 7th International Conference Text,Speech and Dialoque 2004. Brno: Springer, 2004. 8 p. ISBN: 3-540-23049-1."
+        },
+        {
+            "year": "2004",
+            "citation": "SCHWARZ, P.; MATEJKA, P.; CERNOCKY, J. Phoneme Recognition from a Long Temporal Context. poster at JOINT AMI/PASCAL/IM2/M4 Workshop on Multimodal Interaction and Related Machine Learning Algorithms. Martigny: Institute for Perceptual Artificial Intelligence, 2004. p. 1 (1 s.)."
+        },
+        {
+            "year": "2004",
+            "citation": "SCHWARZ, P.; MATEJKA, P.; CERNOCKY, J. Towards Lower Error Rates in Phoneme Recognition. Proceedings of 7th International Conference Text,Speech and Dialoque 2004. Brno: Springer Verlag, 2004. p. 465-472. ISBN: 3-540-23049-1."
+        },
+        {
+            "year": "2004",
+            "citation": "SCHWARZ, P.; MATEJKA, P.; CERNOCKY, J. Towards Lower Error Rates in Phoneme Recognition. Lecture Notes in Computer Science, 2004, vol. 2004, no. 3206, p. 465-472. ISSN: 0302-9743."
+        },
+        {
+            "year": "2004",
+            "citation": "SCHWARZ, P.; MATEJKA, P.; CERNOCKY, J. Towards Lower Error Rates In Phoneme Recognition. Lecture Notes in Computer Science, 2004, vol. 2004, no. 3206, p. 465-472. ISSN: 0302-9743."
+        },
+        {
+            "year": "2003",
+            "citation": "BURGET, L.; CERNOCKY, J. Recognition of Speech with Non-random Attributes. 6th International Conference, TSD 2003 Ceske Budejovice, Czech Republic, September 2003 Proceedings. Lecture Notes in Computer Science. Ceske Budejovice: Springer Verlag, 2003. no. 09, p. 1-6. ISBN: 3-540-20024-X. ISSN: 0302-9743."
+        },
+        {
+            "year": "2003",
+            "citation": "CERNOCKY, J. Temporal processing for feature extraction in speech recognition, shortened version of habilitation thesis. In Vedecke spisy VUT. Edice Habilitacni a inauguracni spisy, sv. 112. Brno: Publishing house of Brno University of Technology VUTIUM, 2003. p. 1-30. ISBN: 80-214-2395-1."
+        },
+        {
+            "year": "2003",
+            "citation": "MATEJKA, P., SCHWARZ, P., CERNOCKY, J., HERMANSKY, H. Phoneme Recognition using Temporal Patterns. In In Proceedings of the conference TSD'2003. International Conference on Text Speech and Dialogue, TSD 2003. 2003. 8 p. ISBN: 3-540-20024-X."
+        },
+        {
+            "year": "2003",
+            "citation": "MATEJKA, P., SCHWARZ, P., GREZL, F., CERNOCKY, J. Phoneme Classification using Temporal Patterns. In In Conference Proceedings RADIOELEKTRONIKA 2003 13th International Czech-Slovak Scientific Conference. 2003. 4 p. ISBN: 80-214-2383-8."
+        },
+        {
+            "year": "2003",
+            "citation": "MATEJKA, P.; SCHWARZ, P.; GREZL, F.; CERNOCKY, J. Phoneme Classification using Temporal Patterns. Proc. 13th International scientific conference Radioelektronika 2003. Brno: Faculty of Electrical Engineering and Communication BUT, 2003. p. 1-4. ISBN: 80-214-2383-8."
+        },
+        {
+            "year": "2003",
+            "citation": "MATEJKA, P.; SCHWARZ, P.; HERMANSKY, H.; CERNOCKY, J. Phoneme Recognition using Temporal Patterns. Proc. 6th International Conference Text, Speech and Dialogue, TSD2003. Ceske Budejovice: Springer Verlag, 2003. p. 465-472. ISBN: 3-540-20024-X."
+        },
+        {
+            "year": "2003",
+            "citation": "MOTLICEK, P.; CERNOCKY, J. All-Pole Modeling for Definition of Speech Features in Aurora3 DSR Task. 6th International Conference, TSD 2003 Ceske Budejovice, Czech Republic, September 2003 Proceedings. Lecture Notes in Computer Science. Ceske Budejovice: University of West Bohemia in Pilsen, 2003. no. 09, p. 295-300. ISBN: 3-540-20024-X. ISSN: 0302-9743."
+        },
+        {
+            "year": "2003",
+            "citation": "MOTLICEK, P.; CERNOCKY, J. Autoregressive Modeling based Feature Extraction for Aurora3 DSR Task. Proc. EUROSPEECH 2003. European Conference EUROSPEECH. Geneva: Institute for Perceptual Artificial Intelligence, 2003. no. 9, p. 1801-1804. ISSN: 1018-4074."
+        },
+        {
+            "year": "2003",
+            "citation": "MOTLICEK, P.; CERNOCKY, J. Time-domain based Temporal Processing with Application of. Proc. EUROSPEECH 2003. European Conference EUROSPEECH. Geneva: Institute for Perceptual Artificial Intelligence, 2003. no. 9, p. 821-824. ISSN: 1018-4074."
+        },
+        {
+            "year": "2003",
+            "citation": "SCHWARZ, P., MATEJKA, P., CERNOCKY, J. Recognition Of Phoneme Strings Using TRAP Technique. In 8th European conference on speech communication and technology EUROSPEECH'03. Geneva, Schwitzerland: ISCA, 2003. 4 p."
+        },
+        {
+            "year": "2003",
+            "citation": "SCHWARZ, P.; MATEJKA, P.; CERNOCKY, J. Recognition of Phoneme Strings using TRAP Technique. Proceedings of 8th International Conference Eurospeech. European Conference EUROSPEECH. Geneve: International Speech Communication Association, 2003. no. 9, p. 1-4. ISSN: 1018-4074."
+        },
+        {
+            "year": "2002",
+            "citation": "BAUDOIN, G.; CAPMAN, F.; CERNOCKY, J.; EL CHAMI, F.; CHARBIT, M.; CHOLLET, G.; PETROVSKA-DELACRETAZ, D. Advances in very low bit-rate speech coding using recognition and synthesis techniques. Lecture Notes in Computer Science, 2002, vol. 2002, no. 2448, p. 269-276. ISSN: 0302-9743."
+        },
+        {
+            "year": "2002",
+            "citation": "CERNOCKY, J. Temporal processing for feature extraction in speech recognition, habilitation thesis. Brno: 2002. 80 p."
+        },
+        {
+            "year": "2002",
+            "citation": "CERNOCKY, J. Units for automatic language independent speech processing. Proc. LREC 2002 - workshop on Portability issues in human language technologies. Las Palmas: European Language Resources Association, 2002. p. 7-13."
+        },
+        {
+            "year": "2002",
+            "citation": "GREZL, F.; BURGET, L.; JAIN, P.; CERNOCKY, J. Improving TRAPS features using LDA. Proc. 12th International scientific conference Radioelektronika 2002. Bratislava: Slovak University of Technology in Bratislava, 2002. 4 p. ISBN: 80-227-1700-2."
+        },
+        {
+            "year": "2002",
+            "citation": "KARAFIAT, M.; CERNOCKY, J. Context dependent Hidden Markov models in recognition of Czech. Proc. 12th International scientific conference Radioelektronika 2002. Bratislava: Slovak University of Technology in Bratislava, 2002. 4 p. ISBN: 80-227-1700-2."
+        },
+        {
+            "year": "2002",
+            "citation": "KARAFIAT, M.; CERNOCKY, J. Differences between context dependent and context independent Hidden Markov Models for recognition of Czech. Proc. of 8th student conference STUDENT EEICT 2002. Brno: Faculty of Electrical Engineering TUB, 2002. p. 328-332. ISBN: 80-214-2116-9."
+        },
+        {
+            "year": "2002",
+            "citation": "MATEJKA, P., CERNOCKY, J. Feature Gaussianization for Speech Recognition. In Conference Proceedings. Bratislava,Slovak Republic: Slovak University of Technology in Bratislava, 2002. 4 p. ISBN: 80-227-1700-2."
+        },
+        {
+            "year": "2002",
+            "citation": "MATEJKA, P., SCHWARZ, P., KARAFIAT, M., CERNOCKY, J. Some like it Gaussian ... In Proceedings of the conference TSD'2002. Brno 2002: 2002. 4 p. ISBN: 3-540-44129-8."
+        },
+        {
+            "year": "2002",
+            "citation": "MATEJKA, P., SIGMUND, M., CERNOCKY, J. Data adaptation for Hidden Markov Model in speech recognition. In Proceedings of 8th Conference STUDENT EEICT 2002. Brno: 2002. 4 p. ISBN: 80-214-2116-9."
+        },
+        {
+            "year": "2002",
+            "citation": "MATEJKA, P.; CERNOCKY, J. Feature gaussianization in speech recognition. Proc. 12th International scientific conference Radioelektronika 2002. Bratislava: Slovak University of Technology in Bratislava, 2002. 4 p. ISBN: 80-227-1700-2."
+        },
+        {
+            "year": "2002",
+            "citation": "MATEJKA, P.; SCHWARZ, P.; KARAFIAT, M.; CERNOCKY, J. Some like it Gaussian... Proc. 5th International Conference Text, Speech and Dialogue, TSD2002. Lecture notes in artificial intelligence 2448. Berlin: Springer Verlag, 2002. p. 321-324. ISBN: 3-540-44129-8."
+        },
+        {
+            "year": "2002",
+            "citation": "SCHWARZ, P.; CERNOCKY, J. Keyword detection in Czech fluent speech. Proc. 12th International scientific conference Radioelektronika 2002. Bratislava: Slovak University of Technology in Bratislava, 2002. p. 1-4. ISBN: 80-227-1700-2."
+        },
+        {
+            "year": "2001",
+            "citation": "CERNOCKY, J., BAUDOIN, G., PETROVSKA-DELACRETAZ, D., CHOLLET, G. Vers une analyse acoustico-phonetique de la parole independante de la langue, basee sur ALISP. Revue Parole, 2001, roc. 2001, c. 17-18-19, 36 s. ISSN: 1373-1955."
+        },
+        {
+            "year": "2001",
+            "citation": "CERNOCKY, J.; BAUDOIN, G.; PETROVSKA-DELACRETAZ, D.; CHOLLET, G. Vers une analyse acoustico-phonetique de la parole independante de la langue, basee sur ALISP. Revue Parole, 2001, roc. 2001, c. 17, s. 191-226. ISSN: 1373-1955."
+        },
+        {
+            "year": "2001",
+            "citation": "GREZL, F., CERNOCKY, J. Comparison of MFC and RASTA-PLP parameterizations in recognition of distorted Czech words. In Proc. 10th Aachen Symposium on signal theory algorithms and software for mobile communications. Aachen: 2001. 6 p. ISBN: 3-8007-2610-6."
+        },
+        {
+            "year": "2001",
+            "citation": "GREZL, F., CERNOCKY, J. Robustness of MFC and RASTA-PLP parameterizations in Recognition of Distorted Czech Words. In Proc. Radioelektronika 2001. Brno: 2001. 4 p. ISBN: 80-214-1861-3."
+        },
+        {
+            "year": "2001",
+            "citation": "GREZL, F.; CERNOCKY, J. Comparison of MFC and RASTA-PLP parameterizations in recognition of distorted Czech words. Proc. 10th Aachen Symposium on signal theory algorithms and software for mobile communications. Aachen: Aachen University of Technology, 2001. p. 429-434. ISBN: 3-8007-2610-6."
+        },
+        {
+            "year": "2001",
+            "citation": "GREZL, F.; CERNOCKY, J. Robustness of MFC and RASTA-PLP parameterizations in Recognition of Distorted Czech Words. Proc. Radioelektronika 2001. Brno: Faculty of Electrical Engineering and Computer Science BUT, 2001. p. 392-395. ISBN: 80-214-1861-3."
+        },
+        {
+            "year": "2001",
+            "citation": "HEUVEL, H., BOUDY, J., BAKCSI, Z., CERNOCKY, J., KOCHANINA, J., MAJEWSKI, W., POLLAK, P., RUSKO, M., GALUNOV, V., SADOWSKI, J., STARONIEWICZ, P., TROPF, H. SpeechDat-East: Five multilingual speech databases for voice-operated teleservices completed. In Proc. EUROSPEECH 2001. Aalborg: 2001. 4 p. ISBN: 87-90834-09-7."
+        },
+        {
+            "year": "2001",
+            "citation": "HEUVEL, H.; BOUDY, J.; BAKCSI, Z.; CERNOCKY, J.; GALUNOV, V.; KOCHANINA, J.; MAJEWSKI, W.; POLLAK, P.; RUSKO, M.; SADOWSKI, J.; STARONIEWICZ, P.; TROPF, H. SpeechDat-East: Five multilingual speech databases for voice-operated teleservices completed. Proc. EUROSPEECH 2001. Aalborg: International Speech Communication Association, 2001. p. 2059-2062. ISBN: 87-90834-09-7."
+        },
+        {
+            "year": "2001",
+            "citation": "MOTLICEK, P., CERNOCKY, J. Minimization of transition noise in very low bit rate speech coding. In Radioelektronika 2001. Brno: 2001."
+        },
+        {
+            "year": "2001",
+            "citation": "MOTLICEK, P., CERNOCKY, J., BAUDOIN, G. Diphone-like units for very low bit rate speech coder. In Proceeding of Internal Conference on Acoustics, Speech, and Signal Processing. Salt Lake City, USA: IEEE Signal Processing Society, 2001."
+        },
+        {
+            "year": "2001",
+            "citation": "MOTLICEK, P., CERNOCKY, J., BAUDOIN, G. Diphone-like units without phonemes-option for very low bit rate speech coding. In Eurocon2001. Bratislava: 2001. 5 p. ISBN: 0-7803-6490-2."
+        },
+        {
+            "year": "2001",
+            "citation": "MOTLICEK, P., CERNOCKY, J., BAUDOIN, G., CHOLLET, G. Minimization of transition noise and HNM synthesis in very low bit rate speech coding. In Proceeding of 4th International Conference Text, Speech,Dialogue - TSD 2001. No 2166. Zelezna Ruda: Springer Verlag, Series Elctures in Artifical Inteligence, 2001. 8 p. ISBN: 3-540-42557-8."
+        },
+        {
+            "year": "2001",
+            "citation": "MOTLICEK, P.; BAUDOIN, G.; CERNOCKY, J.; CHOLLET, G. Minimization of transition noise and HNM synthesis in very low bit rate speech coding. 4th International Conference, TSD 2001 Zelezna Ruda, Czech Republic, September 2001 Proceedings. Berlin: Springer Verlag, 2001. p. 305-312. ISBN: 3-540-42557-8."
+        },
+        {
+            "year": "2001",
+            "citation": "MOTLICEK, P.; CERNOCKY, J. Minimization of transition noise in very low bit rate speech coding. Proc. Radioelektronika 2001. Brno: Faculty of Electrical Engineering and Computer Science BUT, 2001. p. 396-399. ISBN: 80-214-1861-3."
+        },
+        {
+            "year": "2001",
+            "citation": "MOTLICEK, P.; CERNOCKY, J.; BAUDOIN, G. Diphone-like units for very low bit rate speech coder. Proceeding of Internal Conference on Acoustics, Speech, and Signal Processing. Student session. Salt Lake City: 2001. p. 48-48. ISBN: 0-7803-7041-4."
+        },
+        {
+            "year": "2001",
+            "citation": "MOTLICEK, P.; CERNOCKY, J.; BAUDOIN, G. Diphone-like units without phonemes-option for very low bit rate speech coding. Proc. Eurocon2001. Bratislava: Faculty of Electrical Engineering and Information Technology, Slovak University of Technology in Bratislava, 2001. p. 463-467. ISBN: 0-7803-6490-2."
+        },
+        {
+            "year": "2000",
+            "citation": "CERNOCKY, J.; BAUDOIN, G.; CHOLLET, G. Unsupervised Learning for Very Low Bit Rate Speech Coding. Proc. 4th World Multiconference on Systemics, Cybernetics and Informatics and 6th International Conference on Information Systems, Analysis and Synthesis. Orlando, FLA: The International Institute of Informatics and Systemics, 2000. p. 9-12. ISBN: 980-07-6687-1."
+        },
+        {
+            "year": "2000",
+            "citation": "MOTLICEK, P., CERNOCKY, J. Comparsion of Methods for Pitch Detection. In Proc. of 10-th International Cech-SovakScientific Conference Radioelektronika 2000. Bratislava: FEI STU Bratislava, 2000. 4 p. ISBN: 80-227-1389-9."
+        },
+        {
+            "year": "2000",
+            "citation": "MOTLICEK, P., CERNOCKY, J. Optimal Pitch Path Tracking for More Reliable Pitch Detection. In Proceedings of the 3-rd International Workshop, TSD 2000. Brno: Faculty of Informatics, Masaryk University, 2000. 6 p. ISBN: 3-540-41042-2."
+        },
+        {
+            "year": "2000",
+            "citation": "MOTLICEK, P.; CERNOCKY, J. Comparison of Methods for Pitch Detection. Proceedings of the 10th International Czech-Slovak Scientific Conference RADIOELEKTRONIKA 2000. III. Bratislava: Faculty of Electrical Engineering and Information Technology, Slovak University of Technology in Bratislava, 2000. p. 84-87. ISBN: 80-227-1389-9."
+        },
+        {
+            "year": "2000",
+            "citation": "MOTLICEK, P.; CERNOCKY, J. Optimal Pitch Path Tracking for more reliable Pitch Detection. 3th International Conference, TSD 2000 Brno, Czech Republic, September 2000 Proceedings. Berlin: Springer Verlag, 2000. p. 183-188. ISBN: 3-540-41042-2."
+        },
+        {
+            "year": "2000",
+            "citation": "PETROVSKA-DELACRETAZ, D.; CERNOCKY, J.; HENNEBERT, J.; CHOLLET, G. Segmental Approaches for Automatic Speaker Verification. 2000, vol. 2000, no. 1, p. 198-212. ISSN: 1052-2004."
+        },
+        {
+            "year": "2000",
+            "citation": "POLLAK, P.; CERNOCKY, J.; BOUDY, J.; CHOUKRI, K.; KOCHANINA, J.; MAJEWSKI, W.; OSTROUKHOV, V.; RUSKO, M.; SADOWSKI, J.; SIEMUND, R.; STARONIEWICZ, P.; TRNKA, M.; TROPF, H.; VICSI, K.; HEUVEL, H.; VIRAG, A. SpeechDat(E) - Eastern European Telephone Speech Databases. Proceedings LREC'2000 Satelite workshop XLDB - Very Large Telephone Speech Databases. Athens: European Language Resources Association, 2000. p. 20-25."
+        },
+        {
+            "year": "1999",
+            "citation": "CERNOCKY, J. Automatically derived units in the speech processing. Radioengineering, 1999, vol. 1999, no. 1, p. 28-30. ISSN: 1210-2512."
+        },
+        {
+            "year": "1999",
+            "citation": "CERNOCKY, J.; BAUDOIN, G.; CHOLLET, G. Speech processing using automatically derived segmental units: towards an ALISP based recognizer. Technical Annex COST 249 meeting. Praha: Faculty of Electrical Engineering, Czech Technical University, 1999. 4 p."
+        },
+        {
+            "year": "1999",
+            "citation": "CERNOCKY, J.; PETROVSKA-DELACRETAZ, D.; PIGEON, S.; VERLINDE, P.; CHOLLET, G. A Segmental approach to text-independent speaker verification. Proc. 6th European conference on speech communication and technology (EUROSPEECH'99). Budapest: International Speech Communication Association, 1999. p. 2207-2210. ISBN: 1018-4074."
+        },
+        {
+            "year": "1999",
+            "citation": "CERNOCKY, J.; POLLAK, P.; HANZL, V.; RUSKO, M.; TRNKA, M. Recording of Czech and Slovak telephone databases within SpeechDat-E. In Proc. Workshop on TEXT, SPEECH and DIALOG (TSD'99). Lecture Notes in Artificial Intelligence No. 1692. Berlin: Springer Verlag, 1999. p. 388-391. ISBN: 3-540-66494-7."
+        },
+        {
+            "year": "1999",
+            "citation": "CHOLLET, G.; CERNOCKY, J.; CONSTANTINESCU, A.; DELIGNE, S.; BIMBOT, F. Towards ALISP: a proposal for Automatic Language Independent Speech Processing. In Computational models of speech pattern processing. NATO ASI Series. Berlin: Springer Verlag, 1999. p. 375-387. ISBN: 3-540-65478-X."
+        },
+        {
+            "year": "1999",
+            "citation": "CHOLLET, G.; KOPECEK, I.; BAUDOIN, G.; CERNOCKY, J. Very low bit rate speech coding: comparison of data-driven units with syllable segments. In Proc. Workshop on TEXT, SPEECH and DIALOG (TSD'99). Lecture Notes in Artificial Intelligence No. 1692. Berlin: Springer Verlag, 1999. p. 262-267. ISBN: 3-540-66494-7."
+        },
+        {
+            "year": "1999",
+            "citation": "HANZL, V.; POLLAK, P.; CERNOCKY, J. Generating Phonetically Rich Sentences and Words for Czech SpeechDat. Proc. 9th Czech-German Workshop in Speech Processing. Praha: Institute of Radio Engineering and Electronics, 1999. p. 15-16."
+        },
+        {
+            "year": "1999",
+            "citation": "POLLAK, P.; CERNOCKY, J.; HANZL, V. Czech Telephony Speech Database of 1000 Speakers - SpeechDat(E). Proc. 1999 Polish-Hungarian-Czech Workshop on Circuit Theory, Signal Processing, and Applications. Praha: Czech Technical University Publishing House, 1999. p. 77-80. ISBN: 80-01-02047-9."
+        },
+        {
+            "year": "1998",
+            "citation": "CERNOCKY, J. Speech Processing Using Automatically Derived Segmental Units: Applications to Very Low Rate Coding and Speaker Verification, PhD. Thesis. Paris: Universite Paris-Sud, 1998. 100 p."
+        },
+        {
+            "year": "1998",
+            "citation": "CERNOCKY, J.; BAUDOIN, G.; CHOLLET, G. Segmental vocoder - going beyond the phonetic approach. Proc. International conference on acoustics, speech and signal processing (ICASSP). Seattle: IEEE Signal Processing Society, 1998. p. 605-608. ISBN: 0-7803-4428-6."
+        },
+        {
+            "year": "1998",
+            "citation": "CERNOCKY, J.; BAUDOIN, G.; CHOLLET, G. The use of ALISP for automatic acoustic-phonetic transcription. Proc. Sound Patterns of Spontaneous Speech (SPoSS) workshop. Aix-en-Provence: 1998. p. 149-152."
+        },
+        {
+            "year": "1998",
+            "citation": "CERNOCKY, J.; BAUDOIN, G.; CHOLLET, G. Very low bit rate segmental speech coding using automatically derived units. Proc. Radioelektronika 98. Brno: 1998. p. 224-227. ISBN: 80-214-0983-5."
+        },
+        {
+            "year": "1998",
+            "citation": "CERNOCKY, J.; BAUDOIN, G.; PETROVSKA-DELACRETAZ, D.; HENNEBERT, J.; CHOLLET, G. Automatically derived speech units: applications to very low rate coding and speaker verification. Proc. First Workshop on Text Speech and Dialog (TSD'98). Brno: Faculty of Informatics MU, 1998. p. 183-188. ISBN: 80-210-1900-X."
+        },
+        {
+            "year": "1998",
+            "citation": "PETROVSKA-DELACRETAZ, D.; CERNOCKY, J.; HENNEBERT, J.; CHOLLET, G. Text-independent speaker verification using automatically labelled acoustic segments. Proc. International Conference on Spoken Language Processing (ICSLP). Sydney: 1998. p. 536-539. ISBN: 1-876-346-175."
+        },
+        {
+            "year": "1997",
+            "citation": "BAUDOIN, G.; CERNOCKY, J.; CHOLLET, G. Quantification des sequences spectrales de longueur variable pour le codage de la parole a tres bas debit. Proc. 16e colloque GRETSI sur le traitement du signal et des images. Grenoble: 1997. s. 1093-1096."
+        },
+        {
+            "year": "1997",
+            "citation": "BAUDOIN, G.; CERNOCKY, J.; CHOLLET, G. Quantization of spectral sequences using variable length spectral segments for speech coding at very low bit rate. Proc. Eurospeech 97, 5th European conference on speech communication and technology. Rhodes: 1997. p. 1295-1298."
+        },
+        {
+            "year": "1997",
+            "citation": "CERNOCKY, J.; BAUDOIN, G.; CHOLLET, G. Speech spectrum representation and coding using multigrams with distance. Proc. of International conference on acoustics, speech and signal processing (ICASSP). Munich: 1997. p. 1343-1347."
+        },
+        {
+            "year": "1996",
+            "citation": "CERNOCKY, J.; BAUDOIN, G. Representation du spectre de parole par les multigrammes. Proc. of XXI-es Journees d'etude sur la parole (JEP). Avignon: 1996. s. 239-242."
+        },
+        {
+            "year": "1996",
+            "citation": "CERNOCKY, J.; BAUDOIN, G. Speech spectrum coding using multigram segmentation. Proc. of Radioelektronika 96. Brno: 1996. p. 140-143. ISBN: 80-214-0617-8."
+        },
+        {
+            "year": "1996",
+            "citation": "CERNOCKY, J.; BAUDOIN, G.; CHOLLET, G. Efficient method of speech spectrum description using multigrams. Proc. of International association of pattern recognition (IAPR) Workshop. Ljubljana: 1996. p. 139-148."
+        },
+        {
+            "year": "1995",
+            "citation": "CERNOCKY, J. Recherche des sequences caracteristiques de vecteurs spectraux, application au codage. Proc. 1-eres Rencontres jeunes chercheurs en parole. Paris: 1995. s. 40-42."
+        },
+        {
+            "year": "1993",
+            "citation": "CERNOCKY, J. Sub-band speech coder, Diploma Thesis. Noisy-le-Grand: Ecole Superieure d'Engenieurs en Electrotechnique et Electronique, 1993. 60 p."
+        },
+        {
+            "citation": "CERNOCKY, J., GOURNAY, P. Codage de la parole a bas et tres bas debits. Annals of Telecommunications, roc. 55, c. 9 -10, 19 s. ISSN: 0003-4347."
+        },
+        {
+            "citation": "ZULUAGA-GOMEZ, J.; VESELY, K.; SZOKE, I.; BLATT, A.; MOTLICEK, P.; KOCOUR, M.; RIGAULT, M.; CHOUKRI, K.; PRASAD, A.; SARFJOO, S.; NIGMATULINA, I.; CEVENINI, C.; KOLCAREK, P.; TART, A.; CERNOCKY, J.; KLAKOW, D. ATCO2 corpus: A Large-Scale Dataset for Research on Automatic Speech Recognition and Natural Language Understanding of Air Traffic Control Communications has been verified and confirmed by the Action Editor. Journal of Machine Learning Research, vol. 2, no. 1, p. 1-45. ISSN: 1533-7928."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2025",
+            "title": "Materialy a nastroje pro workshop #2 a vzdelavaci kampane",
+            "metadata": "other unclassified results, 2025"
+        },
+        {
+            "year": "2024",
+            "title": "BESST: Brno Extended Stress and Speech Database",
+            "metadata": "testing, 2024",
+            "authors": "PESAN, J.; JURIK, V.; RUZICKOVA, A.; SVOBODA, V.; JANOUSEK, O.; NEMCOVA, A.; BOJANOVSKA, H.; ALDABAGHOVA, J.; KYSLIK, F.; VODICKOVA, K.; SODOMOVA, A.; BARTYS, P.; CHUDY, P.; CERNOCKY, J."
+        },
+        {
+            "year": "2024",
+            "title": "Materialy a nastroje pro workshop #1 a vzdelavaci kampane",
+            "metadata": "other unclassified results, 2024"
+        },
+        {
+            "year": "2016",
+            "title": "ABC NIST SRE 2016 SYSTEM DESCRIPTION",
+            "metadata": "report, 2016",
+            "authors": "BRUMMER, J.; SWART, A.; PRIETO, J.; GARCIA PERERA, L.; MATEJKA, P.; PLCHOT, O.; DIEZ SANCHEZ, M.; SILNOVA, A.; JIANG, X.; NOVOTNY, O.; ROHDIN, J.; GLEMBEK, O.; GREZL, F.; BURGET, L.; ONDEL YANG, L.; PESAN, J.; CERNOCKY, J.; KENNY, P.; ALAM, J.; BHATTACHARYA, G.; ZEINALI, H."
+        },
+        {
+            "year": "2013",
+            "title": "BUT HASR'12 Experience: Are developers of SRE Systems naive listeners?",
+            "metadata": "report, 2013",
+            "authors": "MATEJKA, P.; GLEMBEK, O.; PLCHOT, O.; SCHWARZ, M.; CIPR, T.; CUMANI, S.; KUDLA, R.; SZOKE, I.; SVOBODOVA, M.; MALY, K.; CERNOCKY, J."
+        },
+        {
+            "year": "2010",
+            "title": "Word-subword based keyword spotting with implications in OOV detection",
+            "metadata": "presentation, poster, 2010",
+            "authors": "CERNOCKY, J.; SZOKE, I.; HANNEMANN, M.; KOMBRINK, S."
+        },
+        {
+            "year": "2008",
+            "title": "Brno University Of Technology - NIST 2008 SRE",
+            "metadata": "presentation, poster, 2008",
+            "authors": "BURGET, L.; FAPSO, M.; HUBEIKA, V.; GLEMBEK, O.; KARAFIAT, M.; KOCKMANN, M.; MATEJKA, P.; SCHWARZ, P.; CERNOCKY, J."
+        },
+        {
+            "year": "2007",
+            "title": "Channel Compensation for Speaker Recognition",
+            "metadata": "presentation, poster, 2007",
+            "authors": "HUBEIKA, V.; BURGET, L.; MATEJKA, P.; CERNOCKY, J."
+        },
+        {
+            "year": "2007",
+            "title": "Neural network topologies and bottle neck features in speech recognition",
+            "metadata": "presentation, poster, 2007",
+            "authors": "GREZL, F.; KARAFIAT, M.; CERNOCKY, J."
+        },
+        {
+            "year": "2007",
+            "title": "Pouziti mluvenych korpusu ve vyvoji systemu pro rozpoznavani ceskych prednasek",
+            "metadata": "presentation, poster, 2007",
+            "authors": "MIKOLOV, T.; OPARIN, I.; GLEMBEK, O.; BURGET, L.; KARAFIAT, M.; CERNOCKY, J."
+        },
+        {
+            "year": "2007",
+            "title": "Spoken Term Detection System Based on a Combination of LVCSR and Phonetic Search",
+            "metadata": "presentation, poster, 2007",
+            "authors": "SZOKE, I.; FAPSO, M.; KARAFIAT, M.; BURGET, L.; GREZL, F.; SCHWARZ, P.; GLEMBEK, O.; MATEJKA, P.; KOPECKY, J.; CERNOCKY, J."
+        },
+        {
+            "year": "2005",
+            "title": "Search Engine for Information Retrieval from Multi-modal Records",
+            "metadata": "presentation, poster, 2005",
+            "authors": "FAPSO, M.; SCHWARZ, P.; SZOKE, I.; CERNOCKY, J.; SMRZ, P.; BURGET, L.; KARAFIAT, M."
+        },
+        {
+            "year": "2005",
+            "title": "System for automatic language identification (LID)",
+            "metadata": "implementation of production, 2005",
+            "authors": "MATEJKA, P.; BURGET, L.; SCHWARZ, P.; CERNOCKY, J."
+        },
+        {
+            "year": "2005",
+            "title": "Tuning Phonotactic Language Identificaion System",
+            "metadata": "report, 2005",
+            "authors": "Pavel Matejka, Petr Schwarz, Jan Cernocky, Pavel Chytil"
+        },
+        {
+            "year": "2005",
+            "title": "Tuning Phonotactic Language Identificaion System",
+            "metadata": "report, 2005",
+            "authors": "MATEJKA, P.; SCHWARZ, P.; CERNOCKY, J.; CHYTIL, P."
+        },
+        {
+            "year": "2003",
+            "title": "Czech speech database for the SpeeCon project",
+            "metadata": "implementation of production, 2003",
+            "authors": "CERNOCKY, J.; POLLAK, P.; SCHWARZ, P."
+        },
+        {
+            "year": "2000",
+            "title": "Czech SpeechDat(E) Database",
+            "metadata": "implementation of production, 2000",
+            "authors": "CERNOCKY, J.; POLLAK, P.; SCHWARZ, P."
+        }
+    ],
+    "name": "Cernocky Jan, prof. Dr. Ing."
+}

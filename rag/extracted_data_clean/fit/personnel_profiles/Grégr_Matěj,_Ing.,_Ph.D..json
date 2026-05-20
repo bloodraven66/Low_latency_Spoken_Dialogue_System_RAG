@@ -1,0 +1,417 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "mgregr@fit.vut.cz",
+            "work_phone": "+420 54114 1321,+420 54114 5638",
+            "room": "C310 Office",
+            "researcher_id": "ABE-3914-2020",
+            "orcid_id": "0000-0003-1834-1842",
+            "scopus_author_id": "37101598300"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Network Department",
+            "role": "backbone administrator"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "NES@FIT - Networks and distributed systems research group",
+            "role": "Member"
+        },
+        {
+            "organization": "Supervisors Specialists in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "Instructor Curriculum Specialist Award - CCNP 2016",
+            "2021 Prize in Partnership by the Technology Agency of the Czech Republic"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "streda 9:00 - 12:00 kdykoliv, kdyz jsem v kancelari nebo se domluvite e-mailem",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "CZV-NSB",
+                "title": "Projecting, Administration and Security",
+                "details": "Czech, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "NSB",
+                "title": "Projecting, Administration and Security",
+                "details": "Czech, summer",
+                "department": "DIFS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "CCS",
+                "title": "Design and Security of Enterprise Networks",
+                "details": "Laboratory exercise,\nCzech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CE1",
+                "title": "CCNP Enterprise: Core Networking (ENCOR)",
+                "details": "Laboratory exercise,\nCzech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CE2",
+                "title": "CCNP Enterprise: Advanced Routing (ENARSI)",
+                "details": "Laboratory exercise,\nCzech, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CSOa",
+                "title": "CCNA Cybersecurity Operations (in English)",
+                "details": "Laboratory exercise, Lecture,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IBS",
+                "title": "Security and Computer Networks",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ISA",
+                "title": "Network Applications and Network Administration",
+                "details": "Laboratory exercise, Lecture, Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "NSB",
+                "title": "Projecting, Administration and Security",
+                "details": "Lecture,\nCzech, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDS",
+                "title": "Data Communications, Computer Networks and Protocols",
+                "details": "Laboratory exercise, Lecture, Project, Seminar,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDSe",
+                "title": "Data Communications, Computer Networks and Protocols (in English)",
+                "details": "Lecture, Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CZV-NSB",
+                "title": "Projecting, Administration and Security",
+                "details": "Exercise in computer lab, Lecture,\nCzech, summer",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "COW: Countering privacy-enhancing challenges of cryptocurrencies, OSINT and wireless",
+            "details": "EU, The Internal Security Fund \u2013 Police, 101202767, start: 2025-10-01, end: 2027-09-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "EUROPEAN BLOCKCHAIN SERVICES INFRASTRUCTURE, EBSI",
+            "details": "MPO, Projekt systemu financovani SME prostrednictvim EBSI, Z222901000001, start: 2024-03-01, end: 2026-08-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Cybersecurity Innovation Hub",
+            "details": "MPO, Narodni kofinancovani Evropskych center digitalnich inovaci (EDIH), 101083932, start: 2023-04-01, end: 2026-04-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "MIXER: Building community interested in cryptocurrency mixers",
+            "details": "MV, Vyhlaseni druhe verejne souteze podprogramu 3, PROGRAMU STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1), PODPROGRAMU 3 ROZVOJ INICIATIVY V BEZPECNOSTNIM VYZKUMU, VJ03030037, start: 2023-06-01, end: 2025-06-30, completed"
+        },
+        {
+            "year": "2021",
+            "title": "BAZAR: Building better and safer darknet without wallet-less marketplaces",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) podprogramu 3 Rozvoj iniciativy v bezpecnostnim vyzkumu, VJ01030004, start: 2021-01-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Metody AI pro zabezpeceni kybernetickeho prostoru a ridici systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6293, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Security monitoring of ICS communication in the smart grid",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022138, start: 2019-11-01, end: 2022-10-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "TSB: The feasibility study of a private ISP for the needs of organizations of the city of Brno",
+            "details": "Technicke site Brno, akciova spolecnost, start: 2019-04-01, end: 2019-05-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "DDoS protection in the CESNET network",
+            "details": "CESNET, start: 2017-08-29, end: 2018-08-28, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Integrated platform for analysis of digital data from security incidents",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020062, start: 2017-01-01, end: 2020-06-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Nastroje, metody a technologie ICT pro podporu konceptu smart cities",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3964, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IRONSTONE - IoT monitoring and forensics",
+            "details": "TACR, Program podpory spoluprace v aplikovanem vyzkumu a experimentalnim vyvoji prostrednictvim spolecnych projektu technologickych a inovacnich agentur DELTA, TF03000029, start: 2016-11-01, end: 2019-10-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Design of a system for testing security in IPv6 networks and processing incidents containing private addresses",
+            "details": "CESNET, start: 2015-06-01, end: 2016-06-30, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Vyzkum pokrocilych metod ICT a jejich aplikace",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2299, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Interactive computer networks lab",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR192/2013/G1, start: 2013-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Modern Tools for Detection and Mitigation of Cyber Criminality on the New Generation Internet",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015022, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Secured, reliable and adaptive computer systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-1, start: 2010-03-01, end: 2010-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2020",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; HAVLENA, V.; GREGR, M. Flow based monitoring of ICS communication in the smart grid. Journal of Information Security and Applications, 2020, vol. 2020, no. 54, p. 102535-102535. ISSN: 2214-2126."
+        },
+        {
+            "year": "2019",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; GREGR, M. Increasing Visibility of IEC 104 Communication in the Smart Grid. 6th International Symposium for ICS & SCADA Cyber Security Research 2019. Swindon: BCS Learning and Development Ltd., 2019. p. 21-30. ISBN: 978-1-78017-523-2."
+        },
+        {
+            "year": "2019",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; GREGR, M. Security Monitoring of IoT Communication Using Flows. In Proceedings of the 6th Conference on the Engineering of Computer Based Systems. ECBS '19. New York: Association for Computing Machinery, 2019. p. 1-9. ISBN: 978-1-4503-7636-5."
+        },
+        {
+            "year": "2015",
+            "citation": "GREGR, M.; PODERMANSKI, T. Bezpecne IPv6: prilis mnoho sousedu. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "GREGR, M.; PODERMANSKI, T. Bezpecne IPv6: trable s multicastem. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "GREGR, M.; PODERMANSKI, T. Bezpecne IPv6: vicehlavy utocnik. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "GREGR, M.; PODERMANSKI, T. Bezpecne IPv6: zkroceni zlych smerovacu. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "PODERMANSKI, T.; GREGR, M. Bezpecne IPv6 : smerovac se hlasi. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2014, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "PODERMANSKI, T.; GREGR, M. Bezpecne IPv6: kdyz dojde kes - obrana. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "PODERMANSKI, T.; GREGR, M. Bezpecne IPv6: kdyz dojde kes. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "PODERMANSKI, T.; GREGR, M. Bezpecne IPv6: trable s hlavickami. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "PODERMANSKI, T.; GREGR, M. Implementujeme Carrier Grade NAT: Necekane nastrahy. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "PODERMANSKI, T.; GREGR, M. Implementujeme Carrier Grade NAT: Zakon, alternativy a IPv6. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "PODERMANSKI, T.; GREGR, M. Implementujeme Carrier Grade NAT: Zalohovani. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309."
+        },
+        {
+            "year": "2015",
+            "citation": "SVEDA, M.; RYSAVY, O.; VESELY, V.; GREGR, M.; PODERMANSKI, T.; HALFAR, P.; MAREK, M. Design of Computer Networks Concerning Network Applications Support. Computer Aided Systems Theory. Las Palmas de Gran Canaria: University of Las Palmas, 2015. p. 23-24. ISBN: 978-84-606-5438-4."
+        },
+        {
+            "year": "2014",
+            "citation": "GREGR, M.; MATOUSEK, P.; PODERMANSKI, T.; SVEDA, M. Practical IPv6 Monitoring on Campus - Best Practice Document. Vedecky sbornik, 2014, vol. 2014, no. 1, p. 1-20. ISSN: 0572-3043."
+        },
+        {
+            "year": "2014",
+            "citation": "GREGR, M.; PODERMANSKI, T.; SVEDA, M. Measuring Quality and Penetration of IPv6 Services. The Tenth International Conference on Networking and Services. 74400 CHAMONIX MONT-BLANC: Institute for Systems and Technologies of Information, Control and Communication, 2014. p. 96-101. ISBN: 978-1-61208-330-8."
+        },
+        {
+            "year": "2014",
+            "citation": "GREGR, M.; SVEDA, M. Challenges with Transition and User Accounting in Next Generation Networks. In Proceedings 2014 IEEE 22nd International Conference on Network Protocols. Raleigh, NC, USA: Institute of Electrical and Electronics Engineers, 2014. p. 501-503. ISBN: 978-1-4799-6203-7."
+        },
+        {
+            "year": "2014",
+            "citation": "HOMOLIAK, I.; OVSONKA, D.; GREGR, M.; HANACEK, P. NBA of Obfuscated Network Vulnerabilities' Exploitation Hidden into HTTPS Traffic. In Proceedings of International Conference for Internet Technology and Secured Transactions (ICITST-2014). London: IEEE Computer Society, 2014. p. 310-317. ISBN: 978-1-908320-40-7."
+        },
+        {
+            "year": "2014",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; GREGR, M.; VYMLATIL, M. Towards Identification of Operating Systems from the Internet Traffic. IPFIX Monitoring with Fingerprinting and Clustering. In DCNET2014. Proceedings of the 5th International Conference on Data Communication Networking. Wien: SciTePress - Science and Technology Publications, 2014. p. 21-27. ISBN: 978-989-758-042-0."
+        },
+        {
+            "year": "2012",
+            "citation": "GREGR, M.; PODERMANSKI, T.; SVEDA, M. User identification in IPV6 network. In IP Networking 1 -- Theory and Practice. Zilina: Zilina University Publisher, 2012. p. 5-8. ISBN: 978-80-554-0494-3."
+        },
+        {
+            "year": "2011",
+            "citation": "DROZD, M.; BARABAS, M.; GREGR, M.; CHMELAR, P. Buffer Overflow Attacks Data Acquisition. Proceedings of the 6th IEEE International Conference on IDAACS 2011. Volume 2. Praha: Institute of Electrical and Electronics Engineers, 2011. p. 775-779. ISBN: 978-1-4577-1423-8."
+        },
+        {
+            "year": "2011",
+            "citation": "ELICH, M.; GREGR, M.; CELEDA, P. Monitoring of Tunneled IPv6 Traffic Using Packet Decapsulation and IPFIX. Traffic Monitoring and Analysis. Lecture Notes in Computer Science. Vienna: Springer Verlag, 2011. p. 64-71. ISBN: 978-3-642-20304-6."
+        },
+        {
+            "year": "2011",
+            "citation": "GREGR, M.; MATOUSEK, P.; PODERMANSKI, T.; SVEDA, M. Practical IPv6 Monitoring - Challenges and Techniques. Proceedings of the 12th IFIP/IEEE International Symposium on Integrated Network Management (IM 2011). Dublin: IEEE Computer Society, 2011. p. 660-663. ISBN: 978-1-4244-9220-6."
+        },
+        {
+            "year": "2011",
+            "citation": "PODERMANSKI, T.; GREGR, M. IPv6 Myty a skutecnost, dil IV. - Podpora autokonfigurace. Lupa, 2011, roc. 2011, c. 1, 9 s. ISSN: 1213-0702."
+        },
+        {
+            "year": "2011",
+            "citation": "PODERMANSKI, T.; GREGR, M. IPv6 Myty a skutecnost, dil V. - Zjednodusene hlavicky. Lupa, 2011, roc. 2011, c. 1, 6 s. ISSN: 1213-0702."
+        },
+        {
+            "year": "2011",
+            "citation": "PODERMANSKI, T.; GREGR, M. IPv6 Myty a skutecnost, dil VI. - Bezpecnostni mechanizmy. Lupa, 2011, roc. 2011, c. 1, 6 s. ISSN: 1213-0702."
+        },
+        {
+            "year": "2011",
+            "citation": "PODERMANSKI, T.; GREGR, M. IPv6 Myty a skutecnost, dil VIII. - Prechodove mechanizmy. Lupa, 2011, roc. 2011, c. 1, 7 s. ISSN: 1213-0702."
+        },
+        {
+            "year": "2011",
+            "citation": "POLCAK, L.; GREGR, M.; KAJAN, M.; MATOUSEK, P.; VESELY, V. Designing Lawful Interception in IPv6 Networks. Security and Protection of Information. Brno: University of Defence in Brno, 2011. p. 114-126. ISBN: 978-80-7231-777-6."
+        },
+        {
+            "year": "2010",
+            "citation": "GREGR, M. Portscan detection using NetFlow data. Proceedings of the 16th Conference Student EEICT 2010 Volume 5. Brno: Faculty of Information Technology BUT, 2010. p. 229-233. ISBN: 978-80-214-4080-7."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2019",
+            "title": "Study on visual representation of IoT diagnostic information",
+            "metadata": "report, 2019",
+            "authors": "GREGR, M."
+        },
+        {
+            "year": "2016",
+            "title": "TLS/SSL Decryption Workshop",
+            "metadata": "presentation, poster, 2016",
+            "authors": "PLUSKAL, J.; VESELY, V.; GREGR, M.; RYSAVY, O."
+        },
+        {
+            "year": "2015",
+            "title": "IPv6: Bezpecna sprava adresoveho prostoru",
+            "metadata": "directory, 2015",
+            "authors": "GREGR, M.; PODERMANSKI, T.; SOLTES, M.; ZADNIK, M."
+        },
+        {
+            "year": "2015",
+            "title": "IPv6: Doporuceni pro konfiguraci aktivnich prvku",
+            "metadata": "directory, 2015",
+            "authors": "GREGR, M.; PODERMANSKI, T."
+        },
+        {
+            "year": "2015",
+            "title": "Metodika testovani bezpecnostnich vlastnosti IPv6 u aktivnich prvku",
+            "metadata": "directory, 2015",
+            "authors": "GREGR, M.; PODERMANSKI, T."
+        },
+        {
+            "year": "2012",
+            "title": "Analysis of tunneled traffic",
+            "metadata": "presentation, poster, 2012",
+            "authors": "GREGR, M."
+        },
+        {
+            "year": "2012",
+            "title": "Deploying IPv6 - practical problems from the campus perspective",
+            "metadata": "presentation, poster, 2012",
+            "authors": "GREGR, M.; PODERMANSKI, T.; SVEDA, M."
+        },
+        {
+            "year": "2012",
+            "title": "Flow Based Monitoring of IPv6",
+            "metadata": "presentation, poster, 2012",
+            "authors": "GREGR, M.; PODERMANSKI, T.; SOLTES, M."
+        },
+        {
+            "year": "2012",
+            "title": "Testing implementations of NAT66",
+            "metadata": "presentation, poster, 2012",
+            "authors": "GREGR, M."
+        },
+        {
+            "year": "2011",
+            "title": "Deploying IPv6 in University Campus Network - Practical Problems",
+            "metadata": "presentation, poster, 2011",
+            "authors": "GREGR, M.; PODERMANSKI, T."
+        },
+        {
+            "year": "2011",
+            "title": "Design of Data Retention System in IPv6 network",
+            "metadata": "report, 2011",
+            "authors": "GREGR, M.; PODERMANSKI, T.; SOLTES, M.; ZADNIK, M."
+        },
+        {
+            "year": "2011",
+            "title": "Monitoring datovych toku IPv6",
+            "metadata": "presentation, poster, 2011",
+            "authors": "GREGR, M.; PODERMANSKI, T."
+        }
+    ],
+    "name": "Gregr Matej, Ing., Ph.D."
+}

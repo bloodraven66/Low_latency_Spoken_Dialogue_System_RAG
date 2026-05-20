@@ -1,0 +1,155 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "ibartl@fit.vut.cz",
+            "work_phone": "+420 54114 1285",
+            "room": "L205 Office",
+            "orcid_id": "0000-0003-1792-1028",
+            "scopus_author_id": "57202424835"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Computer Graphics Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "POVa",
+                "title": "Computer Vision (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Qinfo - Acquisition and Statistical Processing of Subjective Attitudes in Time",
+            "details": "TACR, 1. verejna soutez programu SIGMA, TQ01000036, start: 2023-09-01, end: 2026-08-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Non-Invasive and Secure IDentification",
+            "details": "TACR, 4. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW04020153, start: 2022-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Research and Development of a Solution for Measuring Speed of Trams in Video",
+            "details": "start: 2021-09-24, end: 2021-11-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Next Generation of Integrated Atomic Force and Scanning Electron Microscopy",
+            "details": "TACR, Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW01010183, start: 2020-04-01, end: 2023-03-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "SMARTCarPark - Surveillance Monitoring, Analysis and Re-identification of Traffic for Enhanced Car Parking",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH03010529, start: 2018-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Tools and methods for video and image processing to improve effectivity of rescue and security services operations",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020068, start: 2017-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2023",
+            "citation": "KIEFER, B.; BARTL, V.; SPANHEL, J.; HEROUT, A.; YANG, M., et al. 1st Workshop on Maritime Computer Vision (MaCVi) 2023: Challenge Results. In 2023 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW). Waikoloa, Hawaii: Institute of Electrical and Electronics Engineers, 2023. p. 265-302. ISBN: 979-8-3503-2056-5."
+        },
+        {
+            "year": "2022",
+            "citation": "BARTL, V.; SPANHEL, J.; HEROUT, A. PersonGONE: Image Inpainting for Automated Checkout Solution. In 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. New Orleans, LA: IEEE Computer Society, 2022. no. 7, p. 3114-3122. ISSN: 2160-7516."
+        },
+        {
+            "year": "2020",
+            "citation": "BARTL, V.; JURANEK, R.; SPANHEL, J.; HEROUT, A. PlaneCalib: Automatic Camera Calibration by Multiple Observations of Rigid Objects on Plane. In 2020 International Conference on Digital Image Computing: Techniques and Applications (DICTA). Melbourne: Institute of Electrical and Electronics Engineers, 2020. p. 1-8. ISBN: 978-1-7281-9108-9."
+        },
+        {
+            "year": "2020",
+            "citation": "BARTL, V.; SPANHEL, J.; DOBES, P.; JURANEK, R.; HEROUT, A. Automatic Camera Calibration by Landmarks on Rigid Objects. Machine vision and applications, 2020, vol. 32, no. 1, p. 2-15. ISSN: 1432-1769."
+        },
+        {
+            "year": "2020",
+            "citation": "DOBES, P.; SPANHEL, J.; BARTL, V.; JURANEK, R.; HEROUT, A. Density-Based Vehicle Counting with Unsupervised Scale Selection. In Digital Image Computing: Techniques and Applications 2020. Melbourne: Institute of Electrical and Electronics Engineers, 2020. p. 1-8. ISBN: 978-1-7281-9108-9."
+        },
+        {
+            "year": "2020",
+            "citation": "FOLENTA, J.; SPANHEL, J.; BARTL, V.; HEROUT, A. Determining Vehicle Turn Counts at Multiple Intersections by Separated Vehicle Classes Using CNNs. In 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. Seattle, WA: IEEE Computer Society, 2020. no. 07, p. 2544-2549. ISBN: 978-1-7281-9360-1. ISSN: 2160-7516."
+        },
+        {
+            "year": "2020",
+            "citation": "SPANHEL, J.; SOCHOR, J.; JURANEK, R.; DOBES, P.; BARTL, V.; HEROUT, A. Learning Feature Aggregation in Temporal Domain for Re-Identification. COMPUTER VISION AND IMAGE UNDERSTANDING, 2020, vol. 192, no. 11, p. 1-12. ISSN: 1077-3142."
+        },
+        {
+            "year": "2019",
+            "citation": "BARTL, V.; HEROUT, A. OptInOpt: Dual Optimization for Automatic Camera Calibration by Multi-Target Observations. In 16th IEEE International Conference on Advanced Video and Signal-based Surveillance. Taipei: Institute of Electrical and Electronics Engineers, 2019. p. 1-8. ISBN: 978-1-7281-0990-9."
+        },
+        {
+            "year": "2019",
+            "citation": "SPANHEL, J.; BARTL, V.; JURANEK, R.; HEROUT, A. Vehicle Re-Identification and Multi-Camera Tracking in Challenging City-Scale Environment. In 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. Long Beach: IEEE Computer Society, 2019. no. 1, p. 150-158. ISSN: 2160-7516."
+        },
+        {
+            "year": "2017",
+            "citation": "BARTL, V.; HEROUT, A. Fully Automatic Horizon Estimation for Surveillance Cameras. In 2017 International Conference on Digital Image Computing: Techniques and Applications (DICTA). Sydney: Institute of Electrical and Electronics Engineers, 2017. p. 23-30. ISBN: 978-1-5386-2839-3."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2020",
+            "title": "Algoritmy - Uprava, nastaveni, kalibrace",
+            "metadata": "report, 2020",
+            "authors": "HEROUT, A.; BARTL, V.; BERAN, V.; DRAHANSKY, M.; ZEMCIK, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2019",
+            "title": "Automaticka kalibrace kamery s vyuzitim automaticky detekovanych vyznacnych bodu na vozidlech",
+            "metadata": "report, 2019",
+            "authors": "BARTL, V.; HEROUT, A."
+        },
+        {
+            "year": "2018",
+            "title": "Automaticka kalibrace sledovanim dopravy",
+            "metadata": "report, 2018",
+            "authors": "BARTL, V.; HEROUT, A."
+        },
+        {
+            "year": "2017",
+            "title": "Selected Video-Processing Methods and System Architecture Design",
+            "metadata": "report, 2017",
+            "authors": "BERAN, V.; BARTIK, V.; BARTL, V.; FROML, V.; HEROUT, A.; NOSKO, S.; SOLONY, M.; ZEMCIK, P.; ZENDULKA, J."
+        }
+    ],
+    "name": "Bartl Vojtech, Ing., Ph.D."
+}

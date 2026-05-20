@@ -1,0 +1,37 @@
+{
+    "project": "Novel AI-Driven Process Automation for Simplifying and Enhancing Telecommunication Processes",
+    "title": "Nova automatizace procesu rizena umelou inteligenci pro zjednoduseni a zlepseni telekomunikacnich procesu",
+    "metadata": {
+        "project_period": "1. 1. 2024 \u2013 30. 6. 2026",
+        "project_type": "grant",
+        "code": "FW10010014",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "10. verejna soutez - Program na podporu aplikovaneho vyzkumu, experimentalniho vyvoje TREND, podprogram 1"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Novel AI-Driven Process Automation for Simplifying and Enhancing Telecommunication Processes"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Artificial Intelligence, Telecommunication processes, OSS, 5G, 6G, SDN"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The goal of the project is to develop an AI-driven process automation system that will greatly simplify processes in mobile networks, resulting in significant cost and time savings compared to current approaches. Using AI solutions such as genetic programming and reward infrastructure, the system will continuously optimise the use of available resources, reduce process complexity and increase efficiency, leading to cost savings and improved customer service. The project will build on existing AI and automation solutions while taking into account the specific needs and requirements of the telecommunications industry. In addition, the project will focus on finding new AI-based process automation methodologies that can contribute to the development of advanced automation solutions."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Hosek Jiri, doc. Ing., Ph.D. (UTKO) \u2013 research leader Burget Radim, prof. Ing., Ph.D. (UTKO) Matousek Petr, doc. Ing., Ph.D., M.A. (DIFS) Smrz Pavel, doc. RNDr., Ph.D. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- Michal Rozsival, Petr Matousek, Jaromir Kotala. Poster: Multi-Agent LLM System for Cisco Router Configuration. In 2025 23rd International Symposium on Network Computing and Applications (NCA). Lisbon, Portugal: IEEE, 2025. p. 306-307. ISBN: 979-8-3315-7842-8. Detail"
+        }
+    }
+}

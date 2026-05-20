@@ -1,0 +1,33 @@
+{
+    "project": "Multi-modal validation system simulator for autonomous driving",
+    "title": "Multimodalni validacni systemovy simulator pro autonomni rizeni",
+    "metadata": {
+        "project_period": "1. 4. 2025 \u2013 31. 12. 2027",
+        "project_type": "grant",
+        "code": "FW12010130",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "12. verejna soutez - Program na podporu prumysloveho vyzkumu a experimentalniho vyvoje TREND, PP1"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Multi-modal validation system simulator for autonomous driving"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Advanced Driver Assistance Sytems; Artificial Intelligence; Automotive; Operational Design Domain; Multimodal Simulations, Sensors, Virtual Reality"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The main goal of the project is the research and development of a computer simulator for the synthesis of photorealistic image data divided into multiple scanning modes and statistical methods for validating vehicle behavior in a complete range of driving scenarios. The aim is research and development test methods where sensor data from multiple sensors with different sensing modes can be fed into the ADAS hardware control unit (ECU), a core product of VALEO's portfolio. This would allow synthetically generated traffic scenes from a virtual reality simulator to be used to verify ADAS control unit responses to expected real-world events without the need to test the vehicle in real-world traffic."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Novak Jiri, Ing., Ph.D. (DCGM) \u2013 research leader Hanak Jiri, Ing., Ph.D. (DCGM) Kasparek Tomas, Ing., Ph.D. (CVT) Odehnal Ondrej, Ing. (DCGM) Vrska Ludek (DFIT-ISD)"
+        }
+    }
+}

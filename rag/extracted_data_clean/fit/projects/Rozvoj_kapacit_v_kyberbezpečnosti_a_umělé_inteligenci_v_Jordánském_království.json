@@ -1,0 +1,29 @@
+{
+    "project": "Rozvoj kapacit v kyberbezpecnosti a umele inteligenci v Jordanskem kralovstvi",
+    "title": "Rozvoj kapacit v kyberbezpecnosti a umele inteligenci v Jordanskem kralovstvi",
+    "metadata": {
+        "project_period": "1. 4. 2026 \u2013 31. 12. 2026",
+        "project_type": "grant",
+        "code": "26-PKVV-009",
+        "agency": "Ministry of Foreign Affairs of the Czech Republic",
+        "program": "Posilovani kapacit verejnych vysokych skol v rozvojovych zemich (+ Ukrajina) - vyhlaseni dotacniho programu pro rok 2026"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Cybersecurity, artificial intelligence, human resource development, modernization of teaching, building a research-oriented educational environment."
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project aims to strengthen the long-term educational and research capacities of the partner universities PSUT and GJU in the field of cybersecurity and artificial intelligence through targeted human resource development, modernization of teaching, and building research-oriented learning environments."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Jirovec Martin, Ing. (DFIT-Dean) \u2013 research leader Rysavy Ondrej, doc. Ing., Ph.D. (DIFS)"
+        }
+    }
+}

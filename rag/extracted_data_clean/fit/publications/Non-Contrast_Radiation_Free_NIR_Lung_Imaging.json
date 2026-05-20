@@ -1,0 +1,67 @@
+{
+    "publication": "VOTRUBA, J.; DRAHANSKY, M.; GOLDMANN, T.; BRUHA, T.; KOLAR, R. Non-Contrast Radiation Free NIR Lung Imaging. Biomedicines, 2025, vol. 13, no. 11, p. 1-16. Detail VYKOPAL, I.; OSTERMANN, S.; SIMKO, M. Soft Language Prompts for Language Transfer. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). Albuquerque: Association for Computational Linguistics, 2025. p. 10294-10313. ISBN: 979-8-8917-6189-6. Detail VYKOPAL, I.; PIKULIAK, M.; OSTERMANN, S.; ANIKINA, T.; GREGOR, M.; SIMKO, M. Large Language Models for Multilingual Previously Fact-Checked Claim Detection. Suzhou, China: Association for Computational Linguistics, 2025. p. 15741-15765. ISBN: 979-8-8917-6335-7. Detail XING, B.; YUAN, K.; YU, Z.; LIU, X.; KALVIAINEN, H. AU-TTT: Vision Test-Time Training model for Facial Action Unit Detection. In Proceedings IEEE International Conference on Multimedia and Expo. Proceedings (IEEE International Conference on Multimedia and Expo). IEEE Computer Society, 2025. 11 p. ISBN: 9798331594954. Detail YAN, B.; HAMED, I.; SHIMIZU, S.; LODAGALA, V.; CHEN, W.; IAKOVENKO, O.; TALAFHA, B.; HUSSEIN, A.; POLOK, A.; CHANG, K.; KLEMENT, D.; ALTHUBAITI, S.; PENG, P.; WIESNER, M.; SOLORIO, T.; ALI, A.; KHUDANPUR, S.; WATANABE, S. CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 743-747. Detail YU, Z.; LIU, X.; DAMER, N.; FAN, D.; SHI, J.; GUO, X.; LIN, X.; WEN, B.; KONG, A.; KALVIAINEN, H.; SCHULLER, B.; CAO, X. SVC 2025 Chairs\u2019 Welcome. Svc 2025 Proceedings of the 1st International Workshop and Challenge on Subtle Visual Computing Co Located with mm 2025. Association for Computing Machinery, Inc, 2025. ISBN: 9798400718373. Detail ZAKLOVA, K.; JOHN, P.; JANOSIK, A.; HYNEK, J.; HRUSKA, T. Transparency in Czech Regions: Evaluation of Open Data Availability for Public Awareness. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail ZAVREL, J.; KOUTENSKY, M.; DOLEJSKA, D.; VESELY, V. Tumbling Down the Stairs: Exploiting a Tumbler's Attempt to Hide with Ordinary-looking Transactions using Wallet Fingerprinting. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-9. ISSN: 2666-2817. Detail ZBORIL, F.; VIDENSKY, F.; KOCI, R.; ZBORIL, F. Advanced Evaluation of Variable Binding Strategies in BDI Agents with Integrated Failure Handling. In Agents and Artificial Intelligence. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2025. p. 3-29. ISBN: 978-3-031-87326-3. Detail ZEINALI, H.; LEE, K.; ALAM, J.; BURGET, L. Text-dependent Speaker Verification Challenge 2024: Exploring Shared and User-defined Passphrases. In 2025 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Hyderabad, Indicka republika: Institute of Electrical and Electronics Engineers Inc., 2025. p. 1-5. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; LU, W.; XU, J. Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing. IEEE Transactions on Audio, Speech, and Language Processing, 2025, no. 33, p. 3850-3865. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; XU, J.; LU, W. SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing. IEEE Transactions on Information Forensics and Security, 2025, no. 20, p. 6474-6489. Detail ZHANG, Y.; TIAN, B.; ZHANG, L.; DUAN, Z. PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 5353-5357.",
+    "year": "2025",
+    "title": "Non-Contrast Radiation Free NIR Lung Imaging",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "journal article"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Votruba Jiri, Doc. MUDr., Ph.D. Drahansky Martin, prof. Ing., Ph.D. Goldmann Tomas, Ing., Ph.D. , DITS (FIT) Bruha Tomas, Ing., FIT (FIT) Kolar Radim, doc. Ing., Ph.D., UBMI (FEEC)"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Background/Objectives: Early localization of solitary pulmonary nodules (SPNs) remains challenging despite technological advances in endoscopic navigation, as the procedure often necessitates multiple ionizing imaging examinations. This study aimed to develop and evaluate a radiation-free optical method for SPN localization based on near-infrared (NIR) translumination. Methods: A miniaturized NIR light source was introduced into the bronchial tree to illuminate the lung parenchyma. The transmitted and scattered NIR light was detected in real time from the pleural side using minipleuroscopy and a CMOS camera. The approach exploits intrinsic differences in optical absorption and scattering between normal and pathological lung tissue, allowing visualization of the parenchymal micro-architecture without exogenous contrast agents. Results: In ex vivo porcine lungs, tissue structures were clearly visualized through up to approximately 4 cm of parenchyma. In a ventilated pig (n = 1), bronchial NIR illumination was consistently detected from the pleural cavity and produced distinct images of lobular structures and the bronchial mucosa. Conclusions: These feasibility findings demonstrate that NIR translumination can provide radiation-free intra-thoracic visualization and may serve as a valuable adjunct for biopsy guidance. Further quantitative validation and clinical translation are warranted to establish its applicability in human pulmonary procedures."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "solitary pulmonary nodule, NIR, lung imaging, translumination"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2025"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "1\u201316"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "Biomedicines, vol. 13, no. 11, ISSN"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "MDPI"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.3390/biomedicines13112757"
+        },
+        "ut_wos": {
+            "label": "UT WoS",
+            "text": "001624058300001"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@article{BUT198488, author=\"Jiri {Votruba} and Martin {Drahansky} and Tomas {Goldmann} and Tomas {Bruha} and Radim {Kolar}\", title=\"Non-Contrast Radiation Free NIR Lung Imaging\", journal=\"Biomedicines\", year=\"2025\", volume=\"13\", number=\"11\", pages=\"1--16\", doi=\"10.3390/biomedicines13112757\", url=\"https://www.mdpi.com/2227-9059/13/11/2757\" }"
+        },
+        "files": {
+            "label": "Files",
+            "text": "- pdf biomedicines-13-02757-v2.pdf 5 MB"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Spolehlive, bezpecne a efektivni pocitacove systemy , BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Biomedical Engineering (UBMI) Department of Intelligent Systems (DITS)"
+        }
+    }
+}

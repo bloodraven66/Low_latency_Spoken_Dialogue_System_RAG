@@ -1,0 +1,182 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "kesiraju@fit.vut.cz",
+            "work_phone": "+420 54114 1425",
+            "room": "L230.3 Office",
+            "orcid_id": "0000-0002-3725-742X",
+            "scopus_author_id": "56411940500"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Knowledge Technology Research Group",
+            "role": "Member"
+        },
+        {
+            "organization": "Speech Data Mining Research Group BUT Speech@FIT",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Supervisors Specialists in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "Monday, 16:00-17:00 , B/L230.3 (Bozetechova 1/2, Brno 61200) Wednesday, 15:00-17:00 , B/L230.3 (Bozetechova 1/2, Brno 61200) Thursday, 16:00-17:00 , B/L230.3 (Bozetechova 1/2, Brno 61200)",
+        "lectured_courses": [
+            {
+                "abbreviation": "ZPJa",
+                "title": "Natural Language Processing (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "Linguistics, Artificial Intelligence and Language and Speech Technologies: from Research to Applications",
+            "details": "EU, MEZISEKTOROVA SPOLUPRACE, EH23_020/0008518, start: 2025-01-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Multilingual and Cross-cultural interactions for context-aware, and bias-controlled dialogue systems for safety-critical applications",
+            "details": "EU, HORIZON EUROPE, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Practical verification of the possibility of integrating artificial intelligence for receiving emergency calls using a voice chatbot, developed within the research project BV No. VI20192022169, with technology for receiving emergency communications",
+            "details": "MV, 1 VS OPSEC, VK01020132, start: 2023-01-06, end: 2025-10-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Deep learning in psychotherapy: Machine learning applied on therapeutic session recordings",
+            "details": "TACR, 3. verejna soutez Program na podporu aplikovaneho spolecenskovedniho a humanitniho vyzkumu, experimentalniho vyvoje a inovaci ETA, TL03000049, start: 2020-05-01, end: 2023-08-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Robust processing of recordings for operations and security",
+            "details": "MV, PROGRAM STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1)\nPODPROGRAMU 1\nSPOLECNE VYZKUMNE PROJEKTY (BV IMP1/1VS), VJ01010108, start: 2020-10-01, end: 2025-09-30, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Neural Representations in multi-modal and multi-lingual modeling",
+            "details": "GACR, Grantove projekty exelence v zakladnim vyzkumu EXPRO - 2019, GX19-26934X, start: 2019-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "IARPA Machine Translation for English Retrieval of Information in Any Language (MATERIAL) - Foreign Language Automated Information Retrieval (FLAIR)",
+            "details": "IARPA, start: 2017-09-21, end: 2021-10-22, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Information mining in speech acquired by distant microphones",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20152020025, start: 2015-10-01, end: 2020-09-30, completed"
+        },
+        {
+            "year": "2012",
+            "title": "IARPA Building Speech Recognition for Keyword Search in a New Language in a Week with Limited Training Data (BABEL) - Babelon",
+            "details": "BBN, start: 2012-03-05, end: 2016-11-04, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "AKKIRAJU, B.; POTHULA, A.; KESIRAJU, S.; VUPPALA, A. IIITH-BUT system for IWSLT 2025 low-resource Bhojpuri to Hindi speech translation. Proceedings of the 22nd International Conference on Spoken Language Translation (IWSLT 2025). Vienna, Austria: Association for Computational Linguistics, 2025. p. 333-339. ISBN: 979-8-89176-272-5."
+        },
+        {
+            "year": "2025",
+            "citation": "HEGDE, P.; KESIRAJU, S.; SVEC, J.; SEDLACEK, S.; YUSUF, B.; PLCHOT, O.; DEEPAK, K.; CERNOCKY, J. Factors affecting the in-context learning abilities of LLMs for dialogue state tracking. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 4818-4822."
+        },
+        {
+            "year": "2025",
+            "citation": "POTHULA, A.; AKKIRAJU, B.; BANDARUPALLI, S.; D, C.; KESIRAJU, S.; VUPPALA, A. End-to-End Speech Translation for Low-Resource Languages Using Weakly Labeled Data. In Interspeech 2025. Interspeech. Rotterdam: ISCA, 2025. p. 41-45."
+        },
+        {
+            "year": "2025",
+            "citation": "SEDLACEK, S.; YUSUF, B.; SVEC, J.; HEGDE, P.; KESIRAJU, S.; PLCHOT, O.; CERNOCKY, J. Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1748-1752."
+        },
+        {
+            "year": "2023",
+            "citation": "APAROVICH, M.; KESIRAJU, S.; DUFKOVA, A.; SMRZ, P. FIT BUT at SemEval-2023 Task 12: Sentiment Without Borders - Multilingual Domain Adaptation for Low-Resource Sentiment Classification. In Proceedings of the The 17th International Workshop on Semantic Evaluation (SemEval-2023). Toronto (online): Association for Computational Linguistics, 2023. p. 1518-1524. ISBN: 978-1-959429-99-9."
+        },
+        {
+            "year": "2023",
+            "citation": "KESIRAJU, S.; BENES, K.; TIKHONOV, M.; CERNOCKY, J. BUT Systems for IWSLT 2023 Marathi - Hindi Low Resource Speech Translation Task. In 20th International Conference on Spoken Language Translation, IWSLT 2023 - Proceedings of the Conference. Toronto (in-person and online): Association for Computational Linguistics, 2023. p. 227-234. ISBN: 978-1-959429-84-5."
+        },
+        {
+            "year": "2023",
+            "citation": "KESIRAJU, S.; SARVAS, M.; PAVLICEK, T.; MACAIRE, C.; CIUBA, A. Strategies for Improving Low Resource Speech to Text Translation Relying on Pre-trained ASR Models. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Dublin: International Speech Communication Association, 2023. no. 08, p. 2148-2152. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "NADIMPALLI, V.; KESIRAJU, S.; BANKA, R.; KETHIREDDY, R.; GANGASHETTY, S. Resources and Benchmarks for Keyword Search in Spoken Audio From Low-Resource Indian Languages. IEEE Access, 2022, vol. 10, no. 2022, p. 34789-34799. ISSN: 2169-3536."
+        },
+        {
+            "year": "2021",
+            "citation": "KOCOUR, M.; VESELY, K.; SZOKE, I.; KESIRAJU, S.; ZULUAGA-GOMEZ, J.; BLATT, A.; PRASAD, A.; NIGMATULINA, I.; MOTLICEK, P.; KLAKOW, D.; TART, A.; KOLCAREK, P.; CERNOCKY, J.; CEVENINI, C.; CHOUKRI, K.; RIGAULT, M.; LANDIS, F.; SARFJOO, S. Automatic Processing Pipeline for Collecting and Annotating Air-Traffic Voice Communication Data. In Proceedings of 9th OpenSky Symposium 2021, OpenSky Network, Brussels, Belgium. Proceedings. Brussels: MDPI, 2021. no. 12, p. 1-10. ISSN: 2504-3900."
+        },
+        {
+            "year": "2021",
+            "citation": "SZOKE, I.; KESIRAJU, S.; NOVOTNY, O.; KOCOUR, M.; VESELY, K.; CERNOCKY, J. Detecting English Speech in the Air Traffic Control Voice Communication. Proceedings of Interspeech 2021. Brno: 2021. p. 246-250."
+        },
+        {
+            "year": "2021",
+            "citation": "SZOKE, I.; KESIRAJU, S.; NOVOTNY, O.; KOCOUR, M.; VESELY, K.; CERNOCKY, J. Detecting English Speech in the Air Traffic Control Voice Communication. In Proceedings Interspeech 2021. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 3286-3290. ISSN: 1990-9772."
+        },
+        {
+            "year": "2020",
+            "citation": "KESIRAJU, S.; PLCHOT, O.; BURGET, L.; GANGASHETTY, S. Learning Document Embeddings Along With Their Uncertainties. IEEE-ACM Transactions on Audio Speech and Language Processing, 2020, vol. 2020, no. 28, p. 2319-2332. ISSN: 2329-9290."
+        },
+        {
+            "year": "2018",
+            "citation": "BENES, K.; KESIRAJU, S.; BURGET, L. i-vectors in language modeling: An efficient way of domain adaptation for feed-forward models. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 3383-3387. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "PLCHOT, O.; MATEJKA, P.; NOVOTNY, O.; CUMANI, S.; LOZANO DIEZ, A.; SLAVICEK, J.; DIEZ SANCHEZ, M.; GREZL, F.; GLEMBEK, O.; KAMSALI VEERA, M.; SILNOVA, A.; BURGET, L.; ONDEL YANG, L.; KESIRAJU, S.; ROHDIN, J. Analysis of BUT-PT Submission for NIST LRE 2017. In Proceedings of Odyssey 2018 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Les Sables d'Olonne: International Speech Communication Association, 2018. no. 6, p. 47-53. ISSN: 2312-2846."
+        },
+        {
+            "year": "2018",
+            "citation": "PULUGUNDLA, B.; BASKAR, M.; KESIRAJU, S.; EGOROVA, E.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J. BUT system for low resource Indian language ASR. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 3182-3186. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "HANNEMANN, M.; TRMAL, J.; ONDEL YANG, L.; KESIRAJU, S.; BURGET, L. Bayesian joint-sequence models for grapheme-to-phoneme conversion. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 2836-2840. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "KESIRAJU, S.; PAPPAGARI, R.; ONDEL YANG, L.; BURGET, L.; DEHAK, N.; KHUDANPUR, S.; CERNOCKY, J.; GANGASHETTY, S. Topic identification of spoken documents using unsupervised acoustic unit discovery. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 5745-5749. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "LIU, C.; YANG, J.; SUN, M.; KESIRAJU, S.; ROTT, A.; ONDEL YANG, L.; GHAHREMANI, P.; DEHAK, N.; BURGET, L.; KHUDANPUR, S. An Empirical evaluation of zero resource acoustic unit discovery. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 5305-5309. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "MATEJKA, P.; PLCHOT, O.; NOVOTNY, O.; CUMANI, S.; LOZANO DIEZ, A.; SLAVICEK, J.; DIEZ SANCHEZ, M.; GREZL, F.; GLEMBEK, O.; KAMSALI VEERA, M.; SILNOVA, A.; BURGET, L.; ONDEL YANG, L.; KESIRAJU, S.; ROHDIN, J. BUT- PT System Description for NIST LRE 2017. Proceedings of NIST Language Recognition Workshop 2017. Orlando, Florida: National Institute of Standards and Technology, 2017. p. 1-6."
+        },
+        {
+            "year": "2017",
+            "citation": "ONDEL YANG, L.; BURGET, L.; CERNOCKY, J.; KESIRAJU, S. Bayesian phonotactic language model for Acoustic Unit Discovery. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 5750-5754. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2016",
+            "citation": "KESIRAJU, S.; BURGET, L.; SZOKE, I.; CERNOCKY, J. Learning document representations using subspace multinomial model. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 700-704. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2016",
+            "citation": "PLCHOT, O.; MATEJKA, P.; FER, R.; GLEMBEK, O.; NOVOTNY, O.; PESAN, J.; VESELY, K.; ONDEL YANG, L.; KARAFIAT, M.; GREZL, F.; KESIRAJU, S.; BURGET, L.; BRUMMER, J.; SWART, A.; CUMANI, S.; MALLIDI, S.; LI, R. BAT System Description for NIST LRE 2015. In Proceedings of Odyssey 2016, The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Bilbao: International Speech Communication Association, 2016. no. 06, p. 166-173. ISSN: 2312-2846."
+        }
+    ],
+    "name": "Kesiraju Santosh, Ph.D."
+}

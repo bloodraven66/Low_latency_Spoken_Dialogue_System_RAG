@@ -1,0 +1,286 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "pluskal@fit.vut.cz",
+            "work_phone": "+420 54114 1100",
+            "room": "C306 Office",
+            "researcher_id": "U-5673-2018",
+            "orcid_id": "0000-0002-8304-3684",
+            "scopus_author_id": "56938734600"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "NES@FIT - Networks and distributed systems research group",
+            "role": "Member"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "2014 - 2022: doctoral studies at FIT BUT",
+            "2012 - 2014: master's degree at FIT BUT in Brno",
+            "2009 - 2012: bachelor's study at FIT BUT",
+            "2005 - 2009: studied at the Comenius Grammar School in Vyskov"
+        ],
+        "scientific_activities": [
+            "Programming on the .NET platform - C#",
+            "Network forensic analysis",
+            "Machine learning"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Ohlaseni emailem, predmet: [<predmet>] - tema konzultace) Pokud se jedna o konzultace k projektum, ocekavam, ze prijdete s konkretnim netrivialnim problemem k reseni. Ohlaseni predem na email doprovozene o reseny problem a shrnuti Vasi snahy jej samostatne vyresit je standardem. Email notification, subject: [<subject>] - <topic of consultation>) When it comes to project consultations, I expect you to come up with a specific non-trivial problem to solve. Pre-notification to the e-mail accompanied by the solved problem and a summary of your efforts to solve it independently is standard.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "IW1",
+                "title": "Microsoft Windows Desktop Systems",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IW2",
+                "title": "Microsoft Windows Server Systems",
+                "details": "Czech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IW5",
+                "title": "Programming .NET and C#",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ICS",
+                "title": "The C# Programming Language",
+                "details": "Czech, English, summer",
+                "department": "DIFS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "IBS",
+                "title": "Security and Computer Networks",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ICS",
+                "title": "The C# Programming Language",
+                "details": "Project, Seminar,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IPK",
+                "title": "Computer Communications and Networks",
+                "details": "Lecture, Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ISA",
+                "title": "Network Applications and Network Administration",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ITU",
+                "title": "User Interface Programming",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITUe",
+                "title": "User Interface Programming (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IW1",
+                "title": "Microsoft Windows Desktop Systems",
+                "details": "Exercise in computer lab, Lecture,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IW2",
+                "title": "Microsoft Windows Server Systems",
+                "details": "Exercise in computer lab, Lecture,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IW5",
+                "title": "Programming .NET and C#",
+                "details": "Lecture, Seminar,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDI",
+                "title": "Distributed Application Environment",
+                "details": "Exercise in computer lab, Lecture, Project,\nCzech, English, winter",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "EUROPEAN BLOCKCHAIN SERVICES INFRASTRUCTURE, EBSI",
+            "details": "MPO, Projekt systemu financovani SME prostrednictvim EBSI, Z222901000001, start: 2024-03-01, end: 2026-08-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Cybersecurity Innovation Hub",
+            "details": "MPO, Narodni kofinancovani Evropskych center digitalnich inovaci (EDIH), 101083932, start: 2023-04-01, end: 2026-04-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "MIXER: Building community interested in cryptocurrency mixers",
+            "details": "MV, Vyhlaseni druhe verejne souteze podprogramu 3, PROGRAMU STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1), PODPROGRAMU 3 ROZVOJ INICIATIVY V BEZPECNOSTNIM VYZKUMU, VJ03030037, start: 2023-06-01, end: 2025-06-30, completed"
+        },
+        {
+            "year": "2022",
+            "title": "A set of forensic analytic tools for image and video processing for the criminal police and investigation service",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010041, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "TENACITy: Travelling intelligENce Against CrIme and Terrorism",
+            "details": "EU, HORIZON EUROPE, 101074048, start: 2022-09-01, end: 2025-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Integrated platform for analysis of digital data from security incidents",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020062, start: 2017-01-01, end: 2020-06-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Nastroje, metody a technologie ICT pro podporu konceptu smart cities",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3964, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Using network analysis techniques to prevent data loss",
+            "details": "Safetica Service, start: 2017-05-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Vyzkum pokrocilych metod ICT a jejich aplikace",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2299, start: 2014-01-01, end: 2016-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2024",
+            "citation": "KOUTENSKY, M.; VESELY, V.; PERESINI, M.; DOLEJSKA, D.; PLUSKAL, J. Using Blockchain to Secure Passenger Name Records and Effectively Protect Citizen Rights. In 2024 6th Conference on Blockchain Research and Applications for Innovative Networks and Services, BRAINS 2024. Berlin: Institute of Electrical and Electronics Engineers, 2024. p. 1-10. ISBN: 979-8-3503-6784-3."
+        },
+        {
+            "year": "2023",
+            "citation": "DOLEJSKA, D.; KOUTENSKY, M.; VESELY, V.; PLUSKAL, J. Busting up Monopoly: Methods for Modern Darknet Marketplace Forensics. Forensic Science International: Digital Investigation, 2023, vol. 46, no. 1, p. 1-11. ISSN: 2666-2817."
+        },
+        {
+            "year": "2022",
+            "citation": "DOLEJSKA, D.; VESELY, V.; PLUSKAL, J.; KOUTENSKY, M. Shedding Light on Monopoly: Temporal Analysis of Drug Trades. 13th EAI International Conference, ICDF2C 2022, Boston, MA, November 16-18, 2022, Proceedings. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Boston, MA: Springer Nature Switzerland AG, 2022. no. 508, p. 151-168. ISBN: 978-3-031-36573-7. ISSN: 1867-8211."
+        },
+        {
+            "year": "2020",
+            "citation": "PLUSKAL, J.; BREITINGER, F.; RYSAVY, O. Netfox Detective: A novel open-source Network Forensics Analysis Tool. Forensic Science International: Digital Investigation, 2020, vol. 35, no. 301019, p. 1-13. ISSN: 2666-2825."
+        },
+        {
+            "year": "2019",
+            "citation": "LETAVAY, V.; PLUSKAL, J.; RYSAVY, O. A Scalable Architecture for Network Traffic Forensics. The Fifteenth International Conference on Networking and Services ICNS 2019. Athens: The International Academy, Research and Industry Association, 2019. p. 32-36. ISBN: 978-1-61208-711-5."
+        },
+        {
+            "year": "2019",
+            "citation": "LETAVAY, V.; PLUSKAL, J.; RYSAVY, O. Network Forensic Analysis for Lawful Enforcement Steroids, Distributed and Scalable. In Proceedings of the 6th Conference on the Engineering of Computer Based Systems (ECBS 2019), 2019. Bucharest: Association for Computing Machinery, 2019. p. 1-10. ISBN: 978-1-4503-7636-5."
+        },
+        {
+            "year": "2019",
+            "citation": "PLUSKAL, J.; KOUTENSKY, M.; VONDRACEK, M.; RYSAVY, O. Network Forensic Investigations of Tunneled Traffic: A Case Study. Revue Roumaine des Sciences Techniques-Serie Electrotechnique et Energetique, 2019, vol. 64, no. 4, p. 429-434. ISSN: 0035-4066."
+        },
+        {
+            "year": "2019",
+            "citation": "PLUSKAL, J.; VONDRACEK, M.; RYSAVY, O. Network Forensics in GSE Overlay Networks. In ECBS '19: Proceedings of the 6th Conference on the Engineering of Computer Based Systems. Bukurest: Association for Computing Machinery, 2019. p. 1-10. ISBN: 978-1-4503-7636-5."
+        },
+        {
+            "year": "2018",
+            "citation": "PLUSKAL, J.; LICHTNER, O.; RYSAVY, O. Traffic Classification and Application Identification in Network Forensics. In Fourteenth Annual IFIP WG 11.9 International Conference on Digital Forensics. IFIP Advances in Information and Communication Technology. New Delhi: Springer International Publishing, 2018. no. 1, p. 161-181. ISBN: 978-3-319-99277-8. ISSN: 1868-4238."
+        },
+        {
+            "year": "2018",
+            "citation": "VONDRACEK, M.; PLUSKAL, J.; RYSAVY, O. Automated Man-in-the-Middle Attack Against Wi-Fi Networks. Journal of Digital Forensics Security and Law, 2018, vol. 2018, no. 13, p. 59-80. ISSN: 1558-7215."
+        },
+        {
+            "year": "2017",
+            "citation": "VONDRACEK, M.; PLUSKAL, J.; RYSAVY, O. Automation of MitM Attack on Wi-Fi Networks. In 9th International Conference on Digital Forensics & Cyber Crime. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering book series (LNICST). Prague: Springer International Publishing, 2017. no. 216, p. 207-220. ISBN: 978-3-319-73696-9. ISSN: 1867-8211."
+        },
+        {
+            "year": "2015",
+            "citation": "MATOUSEK, P.; PLUSKAL, J.; RYSAVY, O.; VESELY, V.; KMET, M.; KARPISEK, F.; VYMLATIL, M. Advanced Techniques for Reconstruction of Incomplete Network Data. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, 2015, vol. 2015, no. 157, p. 69-84. ISSN: 1867-8211."
+        },
+        {
+            "year": "2015",
+            "citation": "PLUSKAL, J.; MATOUSEK, P.; RYSAVY, O.; KMET, M.; VESELY, V.; KARPISEK, F.; VYMLATIL, M. Netfox Detective: A tool for advanced network forensics analysis. Proceedings of Security and Protection of Information (SPI) 2015. Brno: University of Defence in Brno, 2015. p. 147-163. ISBN: 978-80-7231-997-8."
+        },
+        {
+            "year": "2014",
+            "citation": "PLUSKAL, J. NetFox.Framework - The network forensic extandable analysis tool. Proceedings of the 20th Conference STUDENT EEICT 2014 Volume 2. Brno: Brno University of Technology, 2014. p. 280-282. ISBN: 978-80-214-4923-7."
+        },
+        {
+            "year": "2014",
+            "citation": "PLUSKAL, J.; RYSAVY, O.; VESELY, V. NetFox - The network forensic extandable analysis tool. 6th AFCEA Student Conference Future of Information and Communication Technology. Bucharest: University Politehnica of Bucharest, 2014. p. 68-71. ISBN: 978-606-551-047-0."
+        },
+        {
+            "year": "2012",
+            "citation": "PLUSKAL, J. Analyza a rekonstrukce komunikace typu instant messaging (YMSG a ICQ). Proceedings of the 18th Conference Student EEICT 2012 Volume 1. Brno: Fakulta informacnich technologii VUT v Brne, 2012. s. 176-178. ISBN: 978-80-214-4460-7."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2017",
+            "title": "Netfox Detective - Identifikace aplikacnich protokolu pomoci algoritmu strojoveho uceni",
+            "metadata": "report, 2017",
+            "authors": "PLUSKAL, J.; LICHTNER, O.; RYSAVY, O."
+        },
+        {
+            "year": "2017",
+            "title": "Netfox Detective 2.0 - Nastroj pro sitovou forenzni analyzu",
+            "metadata": "report, 2017",
+            "authors": "PLUSKAL, J."
+        },
+        {
+            "year": "2016",
+            "title": "Network Forensic Tool Netfox Detective",
+            "metadata": "presentation, poster, 2016",
+            "authors": "PLUSKAL, J.; RYSAVY, O."
+        },
+        {
+            "year": "2016",
+            "title": "On the Identification of Applications from Captured Network Traffic",
+            "metadata": "presentation, poster, 2016",
+            "authors": "PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2016",
+            "title": "TLS/SSL Decryption Workshop",
+            "metadata": "presentation, poster, 2016",
+            "authors": "PLUSKAL, J.; VESELY, V.; GREGR, M.; RYSAVY, O."
+        },
+        {
+            "year": "2015",
+            "title": "Concepts of Intercepted Communication Processing with Netfox Detective",
+            "metadata": "presentation, poster, 2015",
+            "authors": "PLUSKAL, J.; RYSAVY, O."
+        }
+    ],
+    "name": "Pluskal Jan, Ing., Ph.D."
+}

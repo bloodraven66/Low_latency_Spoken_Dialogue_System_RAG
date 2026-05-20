@@ -1,0 +1,33 @@
+{
+    "project": "On our own: Opportunities and Risks in the Individualization of Society",
+    "title": "Na vsechno sami: prilezitosti a rizika individualizace spolecnosti",
+    "metadata": {
+        "project_period": "1. 5. 2025 \u2013 31. 12. 2028",
+        "project_type": "grant",
+        "code": "EH23_025/0008710",
+        "agency": "European Union",
+        "program": "SPOLECENSKE A HUMANITNI VEDY: CLOVEK A LIDSTVO V GLOBALNICH VYZVACH SOUCASNOSTI"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "On our own: Opportunities and Risks in the Individualization of Society"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Family, intergenerational relations, mental health, personalized care, trust, intergenerational conflict, data quality, questionnaire surveys"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The aim of the project is to conduct excellent research with an interdisciplinary approach to understand the opportunities and risks associated with individualisation that emphasises individual values, needs and preferences. The project aims not only to identify and analyse these risks, but also to propose strategies to minimise their impact and exploit opportunities to increase individual and societal resilience."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Szoke Igor, Ing., Ph.D. (DCGM) \u2013 research leader Burget Lukas, doc. Ing., Ph.D. (DCGM) Karafiat Martin, Ing., Ph.D. (DCGM) Omachtova Alena, Ing. (DCGM) Vendrame Katia, Ing. (DCGM) Vesely Karel, Ing., Ph.D. (DCGM) Zizka Josef, Ing. (DCGM)"
+        }
+    }
+}

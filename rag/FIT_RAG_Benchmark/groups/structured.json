@@ -1,0 +1,1387 @@
+{
+  "dataset": "FIT_groups_structured_v1",
+  "num_questions": 50,
+  "seed": 1337,
+  "source": "extracted_data_clean/fit/groups",
+  "output_file": "FIT_RAG_Benchmark/groups/structured.json",
+  "description": "Structured short-answer group benchmark with paraphrased question templates and procedural answers.",
+  "items": [
+    {
+      "id": "groups_struct_001",
+      "question": "Does Vojnar Tomas, prof. Ing., Ph.D. belong to Accelerated Network Technologies Research Group (ANT)?",
+      "expected_answer": "No",
+      "answer_field": "team.*.name",
+      "group": "Accelerated Network Technologies Research Group (ANT)",
+      "type": "member_of_group_no",
+      "actual_answer": [
+        "Korenek Jan, doc. Ing., Ph.D.",
+        "Kekely Lukas, Ing., Ph.D.",
+        "Korcek Pavol, Ing., Ph.D.",
+        "Kosar Vlastimil, Ing., Ph.D.",
+        "Martinek Tomas, doc. Ing., Ph.D.",
+        "Matousek Jiri, Ing., Ph.D.",
+        "Zadnik Martin, Ing., Ph.D.",
+        "Fukac Tomas, Ing., Ph.D.",
+        "Kucera Jan, Ing., Ph.D.",
+        "Orsak Michal, Ing.",
+        "Setinsky Jiri, Ing.",
+        "Sismis Lukas, Ing.",
+        "Gurka Oliver, Bc."
+      ]
+    },
+    {
+      "id": "groups_struct_002",
+      "question": "Is Monitoring the Internet of things wireless networks for security reseasons listed under projects of Accelerated Network Technologies Research Group (ANT)?",
+      "expected_answer": "Yes",
+      "answer_field": "projects[].title",
+      "group": "Accelerated Network Technologies Research Group (ANT)",
+      "type": "working_on_project_yes",
+      "actual_answer": [
+        "Research and development of hardware actions and computer networks security",
+        "CESNET - implementation, debugging and testing.",
+        "Flexible probe for lawful interceptions",
+        "Acceleration of the DNS collector",
+        "IotCloud - Intelligence for IoT systems",
+        "Cooperation in the development of the Turris Omina router",
+        "Monitoring the Internet of things wireless networks for security reseasons",
+        "Design of a system for testing security in IPv6 networks and processing incidents containing private addresses",
+        "Development of FreeRTOS driver for reconfigurable platform",
+        "Development of Turris router",
+        "New product development for Racom company",
+        "Nasazeni pokrocilych optimalizacnich technik pri navrhu modernich cislicovych obvodu zalozenych na rekonfigurovatelnych architekturach",
+        "NetCOPE for the NetFPGA-10G card",
+        "Vyuziti modernich pristupu k vytvareni cislicovych systemu zalozenych na rekonfigurovatelnych architekturach",
+        "TeamIT - Building Competitive Research Teams in IT",
+        "Opticka sit narodniho vyzkumu a jeji nove aplikace"
+      ]
+    },
+    {
+      "id": "groups_struct_003",
+      "question": "Who should I contact in AeroWorks (AeroWorks)?",
+      "expected_answer": "Kasparek Tomas, Ing., Ph.D.",
+      "answer_field": "team.principal_researcher[0].name",
+      "group": "AeroWorks (AeroWorks)",
+      "type": "contact_person",
+      "actual_answer": "Kasparek Tomas, Ing., Ph.D."
+    },
+    {
+      "id": "groups_struct_004",
+      "question": "Is Novak Jiri, Ing., Ph.D.'s role Member of Workgroup in AeroWorks (AeroWorks)?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.position",
+      "group": "AeroWorks (AeroWorks)",
+      "type": "member_role_yes",
+      "actual_answer": [
+        {
+          "name": "Kasparek Tomas, Ing., Ph.D.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Novak Jiri, Ing., Ph.D.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        }
+      ]
+    },
+    {
+      "id": "groups_struct_005",
+      "question": "Who should I contact in Automata@FIT (Automata@FIT)?",
+      "expected_answer": "Holik Lukas, doc. Mgr., Ph.D.",
+      "answer_field": "team.principal_researcher[0].name",
+      "group": "Automata@FIT (Automata@FIT)",
+      "type": "contact_person",
+      "actual_answer": "Holik Lukas, doc. Mgr., Ph.D."
+    },
+    {
+      "id": "groups_struct_006",
+      "question": "What is the primary focus of Automata@FIT (Automata@FIT)?",
+      "expected_answer": "Up-to-date and additional information on the group are available from agroup private website",
+      "answer_field": "about.overview/about.research_interests",
+      "group": "Automata@FIT (Automata@FIT)",
+      "type": "group_work_summary",
+      "actual_answer": {
+        "overview": [
+          "Up-to-date and additional information on the group are available from agroup private website.",
+          "Automata@FIT is a research group at FIT BUT, founded in 2023, focusing on research around finite automata and related formalisms, their theory, the fundamental principles needed to use them efficiently in applications, and the applications themselves: in formal automatic reasoning, system analysis and verification, deciding logics, SMT-solving, string constraint solving, analysis of quantum circuits, in regular pattern recognition, network monitoring and anomaly detection, formalisms and methods to deal with uncertainty and to support automated decision making."
+        ],
+        "research_interests": []
+      }
+    },
+    {
+      "id": "groups_struct_007",
+      "question": "Is Janku Petr, Ing., Ph.D. a Member of Workgroup in Automata@FIT (Automata@FIT)?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.position",
+      "group": "Automata@FIT (Automata@FIT)",
+      "type": "member_role_yes",
+      "actual_answer": [
+        {
+          "name": "Holik Lukas, doc. Mgr., Ph.D.",
+          "role_key": "principal_researcher",
+          "position": "Principal Researcher"
+        },
+        {
+          "name": "Andriushchenko Roman, Ing.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Ceska Milan, doc. RNDr., Ph.D.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Havlena Vojtech, Ing., Ph.D.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Hecko Michal, Ing.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Hruska Martin, Ing., Ph.D.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Chocholaty David, Ing.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Janku Petr, Ing., Ph.D.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Jawed Soyiba, Dr., MSc",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Lengal Ondrej, doc. Ing., Ph.D.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Macak Filip, Ing.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Rogalewicz Adam, doc. Mgr., Ph.D.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Sic Juraj, Mgr.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Smrcka Ales, Ing., Ph.D.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        },
+        {
+          "name": "Sedy Michal, Ing.",
+          "role_key": "member_of_workgroup",
+          "position": "Member of Workgroup"
+        }
+      ]
+    },
+    {
+      "id": "groups_struct_008",
+      "question": "Is Test scheduling for embedded systems under power constraints listed under projects of Automata@FIT (Automata@FIT)?",
+      "expected_answer": "No",
+      "answer_field": "projects[].title",
+      "group": "Automata@FIT (Automata@FIT)",
+      "type": "working_on_project_no",
+      "actual_answer": [
+        "Advancing Automated Verification of Low-Level Programs through Separation Logic and Bi-Abduction",
+        "Representing Boolean Functions by a Self-Adaptable Data Structure",
+        "VESCAA: Verifiable and Efficient Synthesis of Agent Controllers",
+        "Efficient Finite Automata for Automated Reasoning"
+      ]
+    },
+    {
+      "id": "groups_struct_009",
+      "question": "What is the primary focus of Automated Analysis and Verification Research Group - VeriFIT (VERIFIT)?",
+      "expected_answer": "Testing and dynamic analysis of (esp",
+      "answer_field": "about.overview/about.research_interests",
+      "group": "Automated Analysis and Verification Research Group - VeriFIT (VERIFIT)",
+      "type": "group_work_summary",
+      "actual_answer": {
+        "overview": [
+          "VeriFITis a group including researchers and students from FIT BUT interested in research on methods ofautomated analysis and verificationof systems. The interests of the group includeformal analysis and verification(static analysis, abstract interpretation, model checking),dynamic analysis(i.e., analysis at run-time), intelligent testing as well as methods ofself-healingof systems. The group is involved in basic research in the described areas as well as in development and evaluation of prototype verification tools.Older photos of the group:2012,2013,2015.Find the main web-page of the group (so far in Czech only) athttps://verifit.webnode.cz/."
+        ],
+        "research_interests": [
+          "Static analysis and verification with formal roots in the area of infinite-state systems (programs with pointers and dynamic linked data structures, concurrent programs with unbounded concurrency, programs with unbounded integer variables, arrays, parameters, recursion, unbounded communication channels, etc.), building on applications of theory of automata, logics, and graphs.",
+          "Testing and dynamic analysis of (esp. concurrent) software using a broad range of techniques (such as noise injection, extrapolation, data mining, machine learning), including possible self-healing or providing information for software quality assurance.",
+          "Formal verification in the area of hardware design based on high-level hardware description languages.",
+          "Research on efficient techniques of handling automata (e.g., simulation reduction of non-deterministic automata or efficient inclusion checking on non-deterministic automata), decision procedures for various logics, etc."
+        ]
+      }
+    },
+    {
+      "id": "groups_struct_010",
+      "question": "Does Fiedor Jan, Ing., Ph.D. have role Member in Automated Analysis and Verification Research Group - VeriFIT (VERIFIT)?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.position",
+      "group": "Automated Analysis and Verification Research Group - VeriFIT (VERIFIT)",
+      "type": "member_role_yes",
+      "actual_answer": [
+        {
+          "name": "Vojnar Tomas, prof. Ing., Ph.D.",
+          "role_key": "supervisor",
+          "position": "Supervisor"
+        },
+        {
+          "name": "Ceska Milan, doc. RNDr., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Fiedor Jan, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Fiedor Tomas, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Havlena Vojtech, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Holik Lukas, doc. Mgr., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Holikova Lenka, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Janku Petr, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Krena Bohuslav, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Lengal Ondrej, doc. Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Malik Viktor, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Matyas Jiri, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Peringer Petr, Dr. Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Rogalewicz Adam, doc. Mgr., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Smrcka Ales, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Sokova Veronika, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Vargovcik Pavol, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Andriushchenko Roman, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Dacik Tomas, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Hecko Michal, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Hudak David, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Chocholaty David, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Kocourek Tomas, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Kozak David, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Macak Filip, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Pavela Jiri, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Rozsival Michal, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Sic Juraj, Mgr.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Sedy Michal, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        },
+        {
+          "name": "Smahlikova Barbora, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. Student"
+        }
+      ]
+    },
+    {
+      "id": "groups_struct_011",
+      "question": "What does Blockchains & System Security @ FIT (BlockSec@FIT) work on?",
+      "expected_answer": "BlockSec@FIT has a mission to develop robust, scalable, and secure decentralized solutions",
+      "answer_field": "about.overview/about.research_interests",
+      "group": "Blockchains & System Security @ FIT (BlockSec@FIT)",
+      "type": "group_work_summary",
+      "actual_answer": {
+        "overview": [
+          "The Blockchain and System Security Research Group (BlockSec@FIT) is dedicated toadvancing the frontiers of blockchain technology and systemsecurity. The members of BlockSec@FIT focus on designing,analyzing, and optimizing secure decentralized systems to addresscritical challenges in scalability, privacy, and resilienceagainst adversarial threats. The group is led by Assoc. Prof. IvanHomoliak, while the team leverages FIT's strong academicfoundation to drive research with global impact.",
+          "BlockSec@FIT has a mission to develop robust, scalable, and secure decentralized solutions."
+        ],
+        "research_interests": []
+      }
+    },
+    {
+      "id": "groups_struct_012",
+      "question": "Is Peresini Martin, Ing. a Member in Blockchains & System Security @ FIT (BlockSec@FIT)?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.position",
+      "group": "Blockchains & System Security @ FIT (BlockSec@FIT)",
+      "type": "member_role_yes",
+      "actual_answer": [
+        {
+          "name": "Homoliak Ivan, doc. Ing., Ph.D.",
+          "role_key": "principal_researcher",
+          "position": "Principal researcher"
+        },
+        {
+          "name": "Gazdik Richard, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Lapes Zdenek, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Mariani Juraj, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Oleksak Samuel, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Peresini Martin, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Drga Jozef, Mgr.",
+          "role_key": "alumni",
+          "position": "Alumni"
+        },
+        {
+          "name": "Stancikova Ivana, Ing.",
+          "role_key": "alumni",
+          "position": "Alumni"
+        },
+        {
+          "name": "Tamaskovic Marek, Ing.",
+          "role_key": "alumni",
+          "position": "Alumni"
+        }
+      ]
+    },
+    {
+      "id": "groups_struct_013",
+      "question": "Does Cognitive and Neural Engineering Research group (CANE) cooperate with University Sains Malaysia (Faruque Reza)?",
+      "expected_answer": "Yes",
+      "answer_field": "about.cooperation",
+      "group": "Cognitive and Neural Engineering Research group (CANE)",
+      "type": "cooperate_with_yes",
+      "actual_answer": [
+        "Masaryk University, Czechia (Alena Domborska)",
+        "University of West Bohemia, Czechia (Roman Moucek)",
+        "PETRONAS University of Technology, Malaysia (Naufal Saad, Ibrahima Faye)",
+        "King Saud University, Saudi Arabia (Muhammad Hussain)",
+        "Qatar University (Uvais Qidwai)",
+        "TietoEVRY, Finland (Iftikhar Ahmed)",
+        "National University of Science & Technology, Pakistan (Wajid Mumtaz)",
+        "Brain Therapy Center, Australia (Timothy C. Hill)",
+        "Capital normal University, Beijing, China (Likun Xia)",
+        "University of Girona, Spain (Xavier Cufi)",
+        "Korea University of Technology & education, South Korea (Tariq Mahmood)",
+        "University of Jeddah, Saudi Arabia (Ishtiaq Rasool Khan, Seong O Shim)",
+        "University Sains Malaysia (Faruque Reza)",
+        "Lahore University of Management & Sciences, Pakistan (Safee Ullah Chaudhary)",
+        "University of Technology Belfort-Montbeliard, France (Yassine Ruichek)"
+      ]
+    },
+    {
+      "id": "groups_struct_014",
+      "question": "What does Cognitive and Neural Engineering Research group (CANE) work on?",
+      "expected_answer": "Targeting preventive mental health",
+      "answer_field": "about.overview/about.research_interests",
+      "group": "Cognitive and Neural Engineering Research group (CANE)",
+      "type": "group_work_summary",
+      "actual_answer": {
+        "overview": [
+          "The Cognitive and Neural Engineering (CANE) Research group is in the Faculty of Information Technology at Brno University of Technology with interests that span the discipline of preventive mental health, cognitive and neural engineering, and neurofeedback. The research group is affiliated with the Department of Computer Systems and the Information Technology graduate program. In CANE, we work with various brain modalities such as EEG, MEG, FNIR and fMRI. Our team members have strong expertise in techniques such as functional and effective connectivity measures, time-frequency analysis, source localization methods and microstate analysis. For classification and optimization, we exploit algorithms from traditional machine learning as well as deep learning and evolutionary computation. Our focus is on both the clinical as well as non-clinical applications. Our interest in clinical applications include preventive mental health assessment for stress, anxiety and depression. For non-clinical applications, we target cognitive skills assessment, brain computer interfaces and development of hardware for monitoring functional brain activity."
+        ],
+        "research_interests": [
+          "Targeting preventive mental health",
+          "Developing techniques and algorithms for understanding and analyzing dynamic neuronal mechanisms",
+          "Pre-screening and early diagnosis for mental stress, anxiety and depression",
+          "Simplifying Brain Computer Interfaces for real-time applications",
+          "Focusing on EEG, MEG, FNIR and fMRI modalities",
+          "Intervention using both active and passive neurofeedback"
+        ]
+      }
+    },
+    {
+      "id": "groups_struct_015",
+      "question": "Is Rapid prototyping tools for development of HW-accelerated embedded image- and video-processing applications listed under projects of Computational Photography Group - CPhoto@FIT (CPHOTO)?",
+      "expected_answer": "No",
+      "answer_field": "projects[].title",
+      "group": "Computational Photography Group - CPhoto@FIT (CPHOTO)",
+      "type": "working_on_project_no",
+      "actual_answer": [
+        "Moderni a otevrene studium techniky (MOST)",
+        "IT4Innovations excellence in science",
+        "Visual localization in natural environments (LOCATE)",
+        "Acquisition and processing of HDR images",
+        "V3C - Visual Computing Competence Center"
+      ]
+    },
+    {
+      "id": "groups_struct_016",
+      "question": "Does Computational Photography Group - CPhoto@FIT (CPHOTO) have a project titled V3C - Visual Computing Competence Center?",
+      "expected_answer": "Yes",
+      "answer_field": "projects[].title",
+      "group": "Computational Photography Group - CPhoto@FIT (CPHOTO)",
+      "type": "working_on_project_yes",
+      "actual_answer": [
+        "Moderni a otevrene studium techniky (MOST)",
+        "IT4Innovations excellence in science",
+        "Visual localization in natural environments (LOCATE)",
+        "Acquisition and processing of HDR images",
+        "V3C - Visual Computing Competence Center"
+      ]
+    },
+    {
+      "id": "groups_struct_017",
+      "question": "Does the Computational Photography Group - CPhoto@FIT (CPHOTO) group focus on visual geo-localization?",
+      "expected_answer": "Yes",
+      "answer_field": "about.research_interests",
+      "group": "Computational Photography Group - CPhoto@FIT (CPHOTO)",
+      "type": "works_on_topic_yes",
+      "actual_answer": [
+        "computational photography",
+        "visual geo-localization",
+        "HDR image and video processing",
+        "visual perception",
+        "image and video quality assessment",
+        "computational aesthetics"
+      ]
+    },
+    {
+      "id": "groups_struct_018",
+      "question": "Who is the contact person for Computer Graphics Research Group (GRAPH)?",
+      "expected_answer": "Herout Adam, prof. Ing., Ph.D.",
+      "answer_field": "team.principal_researcher[0].name",
+      "group": "Computer Graphics Research Group (GRAPH)",
+      "type": "contact_person",
+      "actual_answer": "Herout Adam, prof. Ing., Ph.D."
+    },
+    {
+      "id": "groups_struct_019",
+      "question": "Who is the main contact in Dependable Digital Systems Research Group (DEPSYS)?",
+      "expected_answer": "Ruzicka Richard, doc. Ing., Ph.D., MBA",
+      "answer_field": "team.principal_researcher[0].name",
+      "group": "Dependable Digital Systems Research Group (DEPSYS)",
+      "type": "contact_person",
+      "actual_answer": "Ruzicka Richard, doc. Ing., Ph.D., MBA"
+    },
+    {
+      "id": "groups_struct_020",
+      "question": "Is Ruzicka Richard, doc. Ing., Ph.D., MBA's role Principal researcher in Dependable Digital Systems Research Group (DEPSYS)?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.position",
+      "group": "Dependable Digital Systems Research Group (DEPSYS)",
+      "type": "member_role_yes",
+      "actual_answer": [
+        {
+          "name": "Ruzicka Richard, doc. Ing., Ph.D., MBA",
+          "role_key": "principal_researcher",
+          "position": "Principal researcher"
+        },
+        {
+          "name": "Lojda Jakub, Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Strnadel Josef, Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Simek Vaclav, Ing.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Zachariasova Marcela, Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Bardonek Petr, Ing.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. student"
+        },
+        {
+          "name": "Panek Richard, Ing., Ph.D.",
+          "role_key": "ph.d._student",
+          "position": "Ph.D. student"
+        }
+      ]
+    },
+    {
+      "id": "groups_struct_021",
+      "question": "Does EvoAI Hardware (EHW) cooperate with University of York (Prof. Steve S. Smith)?",
+      "expected_answer": "Yes",
+      "answer_field": "about.cooperation",
+      "group": "EvoAI Hardware (EHW)",
+      "type": "cooperate_with_yes",
+      "actual_answer": [
+        "NYU Abu Dhabi (Prof. Muhammad Shafique, dr. Alberto Marchisio)",
+        "University of Patras (Prof. Georgios Zervakis)",
+        "University of Alberta ( Prof. Jie Han )",
+        "University of York (Prof. Steve S. Smith)",
+        "Purdue University ( Prof. Kaushik Roy )",
+        "NASA JPL Advanced Robotic Controls Group (dr. Adrian Stoica)",
+        "University of Oslo ( Prof. Jim Torresen , Dr. Kyrre Glette)",
+        "Center of Industrial Electronics , Universidad Politecnica de Madrid (dr. Ruben Salvador, dr. Eduardo de la Torre)",
+        "Universidad Carlos III de Madrid (Antonio J. Sanchez-Clemente, dr. Luis Entrena)",
+        "Faculty of Informatics, Masaryk University (dr. Petr Svenda , prof. Vashek Matyas )",
+        "Faculty of Information Technology, Czech Technical University in Prague ( dr. Petr Fiser , dr. Jan Schmidt)"
+      ]
+    },
+    {
+      "id": "groups_struct_022",
+      "question": "What is EvoAI Hardware (EHW) mainly focused on?",
+      "expected_answer": "bio-inspired hardware and software",
+      "answer_field": "about.overview/about.research_interests",
+      "group": "EvoAI Hardware (EHW)",
+      "type": "group_work_summary",
+      "actual_answer": {
+        "overview": [
+          "The research is primarily focused on two areas: (1) The design, modeling, and implementation of hardware accelerators for AI methods (deep neural networks, genetic programming, etc.). (2) The use of AI, especially evolutionary algorithms, for the automated design of computer circuits such as arithmetic circuits. Inspired by nature and supported by AI, we develop highly optimized hardware and software. The members of the group are internationally recognized researchers in the fields of nature-inspired methods and models (genetic and evolutionary algorithms, neurocomputing and cellular computing), digital circuit design, FPGA technology, and approximate computing. Applications of these methods include automated logic synthesis and circuit optimization, adaptive hardware, automated neural network design, and optimization in the areas of image processing, security, transportation, and engineering."
+        ],
+        "research_interests": [
+          "bio-inspired hardware and software",
+          "modeling, design and implementation of neural network accelerators",
+          "approximate computing",
+          "neuroevolution",
+          "evolutionary logic synthesis and optimization",
+          "evolvable hardware in FPGAs",
+          "cellular automata and their applications",
+          "applications of evolutionary algorithms in computer engineering"
+        ]
+      }
+    },
+    {
+      "id": "groups_struct_023",
+      "question": "Who is the main contact in Formal Model Research Group (FM)?",
+      "expected_answer": "Meduna Alexandr, prof. RNDr., CSc.",
+      "answer_field": "team.principal_researcher[0].name",
+      "group": "Formal Model Research Group (FM)",
+      "type": "contact_person",
+      "actual_answer": "Meduna Alexandr, prof. RNDr., CSc."
+    },
+    {
+      "id": "groups_struct_024",
+      "question": "Does the Formal Model Research Group (FM) group collaborate with Avast (former AVG Technologies) in research of reverse engineering and decompilation?",
+      "expected_answer": "Yes",
+      "answer_field": "about.cooperation",
+      "group": "Formal Model Research Group (FM)",
+      "type": "cooperate_with_yes",
+      "actual_answer": [
+        "The subteam under the supervision of dr. Kolar cooperates with Avast (former AVG Technologies) in research of reverse engineering and decompilation."
+      ]
+    },
+    {
+      "id": "groups_struct_025",
+      "question": "Does Formal Model Research Group (FM) work on Reverse Engineering and Decompilation?",
+      "expected_answer": "Yes",
+      "answer_field": "about.research_interests",
+      "group": "Formal Model Research Group (FM)",
+      "type": "works_on_topic_yes",
+      "actual_answer": [
+        "Theoretical Basis of Information Systems",
+        "Formal Languages and Their Models",
+        "Specification and Translation of Languages",
+        "Applications of Formal Models",
+        "Reverse Engineering and Decompilation"
+      ]
+    },
+    {
+      "id": "groups_struct_026",
+      "question": "Does High Performance Computing Research Group (HPC) have a project titled Modern Taylor Series Method and Parallel Implementation of Numerical Methods for Large Systems?",
+      "expected_answer": "Yes",
+      "answer_field": "projects[].title",
+      "group": "High Performance Computing Research Group (HPC)",
+      "type": "working_on_project_yes",
+      "actual_answer": [
+        "Exploring new Applications for Modern Taylor Series Methods to Solve Stiff and High-Order Systems",
+        "Modern Taylor Series Method and Parallel Implementation of Numerical Methods for Large Systems",
+        "Efficient Application of Modern Taylor Series Methods to Stiff and High-Order Systems",
+        "Didactic Tool of Computer Hardware Course Innovation",
+        "Simulation language TKSL",
+        "Multibyte arithmetic and solution of differential equations",
+        "Parallel Simulation Methods and Fields Solving",
+        "Possibilities of partial differential equations parallel solving by modern methods of Taylor series using Message Passing Interface (MPI)"
+      ]
+    },
+    {
+      "id": "groups_struct_027",
+      "question": "Is Design of control systems a research interest of High Performance Computing Research Group (HPC)?",
+      "expected_answer": "Yes",
+      "answer_field": "about.research_interests",
+      "group": "High Performance Computing Research Group (HPC)",
+      "type": "works_on_topic_yes",
+      "actual_answer": [
+        "Development of dynamic math models from basic principles",
+        "Selection of numerical integration algorithms to secure accuracy and stability",
+        "Special hardware design",
+        "Special software design",
+        "Graphical interface",
+        "Stiff systems analyzes",
+        "Design of control systems",
+        "Simulation of electronic circuits",
+        "Simulation of mechanical systems",
+        "Partial differential equations solving",
+        "Modelling of hydrophobic materials, solution of large problems involving contact flow. Usage of domain decomposition (FETI methods) for parallelization of numerical calculations"
+      ]
+    },
+    {
+      "id": "groups_struct_028",
+      "question": "Is Network monitoring and security a research interest of IT Security Research Group (Security@FIT)?",
+      "expected_answer": "No",
+      "answer_field": "about.research_interests",
+      "group": "IT Security Research Group (Security@FIT)",
+      "type": "works_on_topic_no",
+      "actual_answer": [
+        "Deepfakes and their security issues : Deepfakes is a popular term nowadays, but few people know what deepfakes are and what threats they pose to us. That is why we are actively researching this relatively new technology. The goal of our research is to become familiar with the possibilities of using deepfakes (or other synthetic media) for malicious use and to design appropriate protection methods. In addition to using deepfakes to deceive computers (e.g., biometric systems), deepfakes can also be used to deceive people as fake messages or in identity theft phone calls. We want to focus on both areas and thus to understand what risks deepfakes pose to machines and us humans and to see what protection options are available to us. Our current research objective is the resilience of voice biometrics systems against deepfakes, deepfake speech detectors and human perception of deepfakes. We try to uncover all threats that deepfakes might pose to society, and how to mitigate these threats.",
+        "Blockchain technologies : Security analysis of blockchain consensus protocols in general. Designing improvements to blockchain protocols such as DoS-resilience, anonymity, uncensorability and throughput attributes. Identity management in blockchains. Simulation of blockchains in relistic scenarious analysis of data. DAG-based consensus specializations and their aspects and enhancements. Scalable electronic voting. Semi-centralized hybrid cryptocurrencies and interoperability protocols.",
+        "Wireless security (IoT) : We are working on security and monitoring of wireless networks for the Internet of Things (IoT). We operate a LoRaWAN gateway connected to The Things Network project, analyze Bluetooth communication for which we are developing a monitoring tool, and investigate differences in IoT gateways for home use (Amazon Alexa, Google Nest). In our research we have collaborated with CESNET, Microrisc (developing the IQRF wireless technology) or Espressif.",
+        "Threat intelligence and malware detection: The next area of our research is Threat Intelligence. The research includes an analysis of effective methods of malware campaign detection based on data from various sources, such as anti rootkits or antivirus detections. We also work on the study of detected campaigns and try to propose proactive campaign approaches and their prediction. Our research extends to other sub-fields of Threat Intelligence, such as malware taxonomy and threat classification using heuristic and machine learning methods.",
+        "Usable security",
+        "Secure hardware devices",
+        "Financial protocols",
+        "Anonymity systems",
+        "Applied cryptography"
+      ]
+    },
+    {
+      "id": "groups_struct_029",
+      "question": "Is Rychly Marek, RNDr., Ph.D. in the Information and Database Systems Research Group (IS) group?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.name",
+      "group": "Information and Database Systems Research Group (IS)",
+      "type": "member_of_group_yes",
+      "actual_answer": [
+        "Burget Radek, doc. Ing., Ph.D.",
+        "Burgetova Ivana, Ing., Ph.D.",
+        "Hruska Tomas, prof. Ing., CSc.",
+        "Hynek Jiri, Ing., Ph.D.",
+        "Lampa Petr, Ing.",
+        "Rychly Marek, RNDr., Ph.D.",
+        "Lazur Juraj, Ing.",
+        "Ondruskova Magdalena, Ing.",
+        "Bartik Vladimir, Ing., Ph.D."
+      ]
+    },
+    {
+      "id": "groups_struct_030",
+      "question": "Is Augmented reality, Virtual reality a research interest of Information and Database Systems Research Group (IS)?",
+      "expected_answer": "No",
+      "answer_field": "about.research_interests",
+      "group": "Information and Database Systems Research Group (IS)",
+      "type": "works_on_topic_no",
+      "actual_answer": [
+        "Research and application of modelling techniques in information systems development",
+        "Object oriented database systems",
+        "Knowledge discovery in databases",
+        "Systems for decision support, OLAP systems",
+        "Information extraction from documents",
+        "Web technologies",
+        "Interpreted languages and their usage",
+        "Process mining",
+        "Big Data"
+      ]
+    },
+    {
+      "id": "groups_struct_031",
+      "question": "Is Beran Jan, Ing. in the Intelligent Systems Research Group (INTSYS) group?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.name",
+      "group": "Intelligent Systems Research Group (INTSYS)",
+      "type": "member_of_group_yes",
+      "actual_answer": [
+        "Zboril Frantisek, doc. Ing., CSc.",
+        "Beran Jan, Ing.",
+        "Hruby Martin, Ing., Ph.D.",
+        "Janousek Vladimir, doc. Ing., Ph.D.",
+        "Koci Radek, Ing., Ph.D.",
+        "Necasova Gabriela, Ing., Ph.D.",
+        "Rozman Jaroslav, Ing., Ph.D.",
+        "Satek Vaclav, Ing., Ph.D.",
+        "Sustek Martin, Ing.",
+        "Veigend Petr, Ing., Ph.D.",
+        "Vidensky Frantisek, Ing., Ph.D.",
+        "Zboril Frantisek, doc. Ing., Ph.D."
+      ]
+    },
+    {
+      "id": "groups_struct_032",
+      "question": "Is Intelligent Systems Research Group (INTSYS) working on Didactic Demonstration of Formal Language Models?",
+      "expected_answer": "No",
+      "answer_field": "projects[].title",
+      "group": "Intelligent Systems Research Group (INTSYS)",
+      "type": "working_on_project_no",
+      "actual_answer": [
+        "Optimization of Trucks Loading",
+        "A tool for creating technological schemas of wastewater treatment plants",
+        "Possibilities for creation of communite genealogical database with semantic information and uncertainty",
+        "Support of education of Fundamentals of Artificial Intelligence and Soft-Computing courses",
+        "Use of authentication-security technologies for automation and enhancement of efectivity by selected processes in monitoring of object's state and movement",
+        "Adjustment of algorithms for 3D fingerprints",
+        "Education of liveness testing in subject Biometric systems",
+        "Laboratory of Wireless Sensor Networks",
+        "Testing of the sensor TST-Biometrics BiRD 3",
+        "Creation of a New Subject for Extension of Language Support at FEEC BUT",
+        "Expansion of the Laboratory of Biometric Systems",
+        "Idex project",
+        "Laboratory of human machine interaction",
+        "Sensor data acquisition for UAV [SEDAQ]",
+        "Software Stabilisation of Image Signal from Camera System II",
+        "Innovation of Intelligent systems laboratory",
+        "Intellligent Agent and Multi-agent Systems",
+        "Software Stabilisation of Image Signal from Camera System",
+        "Teaching support for course Intelligent systems",
+        "Technical Evaluation of Biometric Systems",
+        "Mobile Autonomous Robot",
+        "Teaching support for course Modelling and Simulation",
+        "Intelligent Systems Laboratory",
+        "BioFinger",
+        "Biometric Security Systems",
+        "BioFinger",
+        "Intelligent systems - preparation of course",
+        "Neural Heteroassociative Memories",
+        "Application of Neural Associative Memories",
+        "Neural Associative Memory Applications in Image Processing",
+        "Neural Net Applications in Image Processing",
+        "Associative neural memories",
+        "Statni ukol III-2-1/8"
+      ]
+    },
+    {
+      "id": "groups_struct_033",
+      "question": "Does Sokova Veronika, Ing., Ph.D. belong to Knowledge Technology Research Group (KNOT)?",
+      "expected_answer": "No",
+      "answer_field": "team.*.name",
+      "group": "Knowledge Technology Research Group (KNOT)",
+      "type": "member_of_group_no",
+      "actual_answer": [
+        "Smrz Pavel, doc. RNDr., Ph.D.",
+        "Aparovich Maksim",
+        "Docekal Martin, Ing.",
+        "Dolezal Jan, Ing.",
+        "Dytrych Jaroslav, Ing., Ph.D.",
+        "Fajcik Martin, Ing., Ph.D.",
+        "John Petr, Ing.",
+        "Kesiraju Santosh, Ph.D.",
+        "Kotala Jaromir, Ing.",
+        "Neprasova Katerina, Ing.",
+        "Otrusina Lubomir, Ing.",
+        "Svec Tomas, Ing.",
+        "Zaklova Kristyna, Ing.",
+        "Zemcik Pavel, prof. Dr. Ing., dr. h. c."
+      ]
+    },
+    {
+      "id": "groups_struct_034",
+      "question": "Is Advanced Computer Education Network listed under projects of Knowledge Technology Research Group (KNOT)?",
+      "expected_answer": "No",
+      "answer_field": "projects[].title",
+      "group": "Knowledge Technology Research Group (KNOT)",
+      "type": "working_on_project_no",
+      "actual_answer": [
+        "HAAWAII - Highly Automated Air Traffic Controller Workstations with Artificial Intelligence Integration",
+        "Advanced content extraction and recognition for printed and handwritten documents for better accessibility and usability",
+        "Assessing and Enhancing Emotional Competence for Well-Being (ECoWeB) in the Young: A principled, evidence-based, mobile-health approach to prevent mental disorders and promote mental well-being",
+        "SAUCE - Smart Asset re-Use in Creative Environments",
+        "Advanced Semantic Enrichment of Multi-Language Literary Text Collections",
+        "Cross-CPP - Ecosystem for Services based on integrated Cross-sectorial Data Streams from multiple Cyber Physical Products and Open Data Sources",
+        "enetCollect - Large-Scale Information Extraction and Gamification for Crowdsourced Language Learning",
+        "MegaModelling at Runtime - scalable model-based framework for continuous development and runtime validation of complex systems.",
+        "Research and development of diagnostic unit for forming machines",
+        "Tools and methods for video and image processing to improve effectivity of rescue and security services operations",
+        "User Activity Analysis and Emotional Competence Assessment for Investigation of Problematic Usage of the Internet",
+        "WearableRobots - Advanced Collaborative Aspects of Wearable Robotic Systems",
+        "Analysis and optimization of ads presentation in the Facebook network",
+        "CPK - Using Semantic Technologies to Access Cultural Heritage Through The Central Portal of Czech Libraries",
+        "Big Data Era in Sky and Earth Observation (BIG-SKY-EARTH)",
+        "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets",
+        "Algorithms, Design Methods, and Many-Core Execution Platform for Low-Power Massive Data-Rate Video and Image Processing",
+        "Modern Image Processing Techniques and Computer-based Planning in Trauma Treatment",
+        "Reconfigurable ROS-based Resilient Reasoning Robotic Cooperating Systems",
+        "Java platform for hIgh PErformance and Real-time large scale data management (JUNIPER)",
+        "SCAlable Preservation Environments",
+        "Portable and Predictable Performance on Heterogeneous Embedded Manycores",
+        "Event-based Retrieval of Networked Media",
+        "Open-Source API and Platform for Multiple Clouds",
+        "SRS - Multi-Role Shadow Robotic System for Independent Living",
+        "Emerging, Collective Intelligence for personal, organisational and social use",
+        "Knowledge in a Wiki",
+        "Biomarker - Determination of markers, screening and early diagnostics of cancer diseases using highly automated processing of multidimensional biomedical images",
+        "CARETAKER - Content Analysis and REtrieval Technologies to Apply Knowledge Extraction to massive Recording",
+        "LC-Star 2 - Lexica and Corpora for Speech-to-Speech Translation Components 2"
+      ]
+    },
+    {
+      "id": "groups_struct_035",
+      "question": "Does the Knowledge Technology Research Group (KNOT) group focus on Assessment of dependability attributes of systems?",
+      "expected_answer": "No",
+      "answer_field": "about.research_interests",
+      "group": "Knowledge Technology Research Group (KNOT)",
+      "type": "works_on_topic_no",
+      "actual_answer": [
+        "information extraction, knowledge representation, question answering, context-based processing, social media analysis, opinion mining, information retrieval from multimedia, emotion analysis, human-machine interaction, cognitive ergonomics",
+        "embedded intelligence, down-sizing deep learning models for low-power chips, mobile phone-adaptation of training procedures, big data processing and high-performance computing, dynamic distribution of machine learning-based data processing between edge devices and the cloud",
+        "security and trustworthiness in the context of AI, homomorphic encryption for privacy-preserving data processing and machine learning, robustness guarantees for deep learning in an adversarial setting",
+        "AI-based virtual assistants (chatbots), knowledge systems combining visual and semantic information (joint embeddings), Transformer networks and other advanced models for meaning representation, applications of reinforcement learning in agent systems",
+        "data analytics for extremely large streams of data resulting from cyber-physical products (esp. vehicles, smart buildings/homes, IoT sensors) and their production, predictive maintenance in smart factories, optimisation of production models, quality control, root cause analysis, supply chain optimisation, digital twins",
+        "collaborative robotics, augmented reality in robot programming, medical service robots, learning-based adaptation in wearable robots, autonomous vehicles and drones",
+        "information extraction and machine learning in bioinformatics and public health monitoring, digital humanities, know-how management, brand reputation technologies, mental well-being support, identification of problematic uses of internet, data annotation by means of crowdsourcing, gamification, and games with purpose"
+      ]
+    },
+    {
+      "id": "groups_struct_036",
+      "question": "What is Management of software engineering Research Group (MSWI) mainly focused on?",
+      "expected_answer": "Management of processes, projects, quality and risk in software management",
+      "answer_field": "about.overview/about.research_interests",
+      "group": "Management of software engineering Research Group (MSWI)",
+      "type": "group_work_summary",
+      "actual_answer": {
+        "overview": [
+          "Management research group at FIT focuses on the development of advanced methods of processes of software development management. Group is more dealing with development in area Big Data technology."
+        ],
+        "research_interests": [
+          "Management of processes, projects, quality and risk in software management.",
+          "Object oriented software metrics and standards",
+          "Specification methods of processes and IT projects",
+          "Formal models of processes",
+          "Methods and tools for analyzing and design of processes",
+          "Improving of software development process",
+          "Methods of formal analyzing, design and verification of business processes",
+          "Modelling and optimization of business processes",
+          "Business process reengineering",
+          "Development of technologies applied in Big Data area",
+          "Development of tools for support of e-learning",
+          "Management, improvement and ensurence of quality by ISO 9000"
+        ]
+      }
+    },
+    {
+      "id": "groups_struct_037",
+      "question": "Is Kocman Radim, Ing., Ph.D. part of Management of software engineering Research Group (MSWI)?",
+      "expected_answer": "No",
+      "answer_field": "team.*.name",
+      "group": "Management of software engineering Research Group (MSWI)",
+      "type": "member_of_group_no",
+      "actual_answer": [
+        "Kreslikova Jitka, doc. RNDr., CSc.",
+        "Honzik Jan M., prof. Ing., CSc.",
+        "Kvetonova Sarka, Ing., Ph.D."
+      ]
+    },
+    {
+      "id": "groups_struct_038",
+      "question": "Is Kvetonova Sarka, Ing., Ph.D. in the Management of software engineering Research Group (MSWI) group?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.name",
+      "group": "Management of software engineering Research Group (MSWI)",
+      "type": "member_of_group_yes",
+      "actual_answer": [
+        "Kreslikova Jitka, doc. RNDr., CSc.",
+        "Honzik Jan M., prof. Ing., CSc.",
+        "Kvetonova Sarka, Ing., Ph.D."
+      ]
+    },
+    {
+      "id": "groups_struct_039",
+      "question": "Is Kvetonova Sarka, Ing., Ph.D. a Researcher in Management of software engineering Research Group (MSWI)?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.position",
+      "group": "Management of software engineering Research Group (MSWI)",
+      "type": "member_role_yes",
+      "actual_answer": [
+        {
+          "name": "Kreslikova Jitka, doc. RNDr., CSc.",
+          "role_key": "principal_researcher",
+          "position": "Principal researcher"
+        },
+        {
+          "name": "Honzik Jan M., prof. Ing., CSc.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Kvetonova Sarka, Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        }
+      ]
+    },
+    {
+      "id": "groups_struct_040",
+      "question": "Is Management of software engineering Research Group (MSWI) working on Preparing study programme Service Science, Management and Engineering?",
+      "expected_answer": "Yes",
+      "answer_field": "projects[].title",
+      "group": "Management of software engineering Research Group (MSWI)",
+      "type": "working_on_project_yes",
+      "actual_answer": [
+        "Student Competition Conference STUDENT EEICT 2014",
+        "Preparing study programme Service Science, Management and Engineering",
+        "Network supporting university - enterprise collaboration in Southern Moravia",
+        "Security-Oriented Research in Information Technology",
+        "Identification and analysis of relations of proces and project management in SW product development and their influence on quality management",
+        "Application of Object Oriented Development in Project Management",
+        "Innovation of Introduction to Software Engineering Course",
+        "Research and implementation the knowledge management methods for development and maintenance of software",
+        "Enhancement and superior practice education Project Management course"
+      ]
+    },
+    {
+      "id": "groups_struct_041",
+      "question": "Does NES@FIT - Networks and distributed systems research group (NES@FIT) cooperate with Netsearch , Brno, Czech Republic?",
+      "expected_answer": "Yes",
+      "answer_field": "about.cooperation",
+      "group": "NES@FIT - Networks and distributed systems research group (NES@FIT)",
+      "type": "cooperate_with_yes",
+      "actual_answer": [
+        "Universite Grenoble Alpes , Grenoble, France",
+        "University of New Haven , New Haven, USA",
+        "Linkoping University , Linkoping, Sweden",
+        "University Strathmore , Nairobi, Kenya",
+        "Hallym University , Chuncheon, South Korea",
+        "Flowmon Networks , Brno, Czech Republic",
+        "Netsearch , Brno, Czech Republic",
+        "CESNET , Czech Republic",
+        "Free Software Foundation , Boston, USA"
+      ]
+    },
+    {
+      "id": "groups_struct_042",
+      "question": "Is Letavay Viliam, Ing. in the NES@FIT - Networks and distributed systems research group (NES@FIT) group?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.name",
+      "group": "NES@FIT - Networks and distributed systems research group (NES@FIT)",
+      "type": "member_of_group_yes",
+      "actual_answer": [
+        "Rysavy Ondrej, doc. Ing., Ph.D.",
+        "Burget Radek, doc. Ing., Ph.D.",
+        "Burgetova Ivana, Ing., Ph.D.",
+        "Cejka Rudolf, Ing.",
+        "Dolejska Daniel, Ing.",
+        "Gregr Matej, Ing., Ph.D.",
+        "Horak Adam, Ing.",
+        "Hranicky Radek, Ing., Ph.D.",
+        "Jerabek Kamil, Ing., Ph.D.",
+        "Koutensky Michal, Ing.",
+        "Letavay Viliam, Ing.",
+        "Lichtner Ondrej, Ing.",
+        "Marek Marcel, Ing.",
+        "Matousek Petr, doc. Ing., Ph.D., M.A.",
+        "Mutua Nelson Makau, M.Sc.",
+        "Pluskal Jan, Ing., Ph.D.",
+        "Podermanski Tomas, Ing.",
+        "Polcak Libor, Ing., Ph.D.",
+        "Rychly Marek, RNDr., Ph.D.",
+        "Skokanova Jana, Mgr.",
+        "Vesely Vladimir, Ing., Ph.D.",
+        "Zavrel Jan, Ing."
+      ]
+    },
+    {
+      "id": "groups_struct_043",
+      "question": "Is Horak Adam, Ing. a Member in NES@FIT - Networks and distributed systems research group (NES@FIT)?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.position",
+      "group": "NES@FIT - Networks and distributed systems research group (NES@FIT)",
+      "type": "member_role_yes",
+      "actual_answer": [
+        {
+          "name": "Rysavy Ondrej, doc. Ing., Ph.D.",
+          "role_key": "principal_researcher",
+          "position": "Principal researcher"
+        },
+        {
+          "name": "Burget Radek, doc. Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Burgetova Ivana, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Cejka Rudolf, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Dolejska Daniel, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Gregr Matej, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Horak Adam, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Hranicky Radek, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Jerabek Kamil, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Koutensky Michal, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Letavay Viliam, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Lichtner Ondrej, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Marek Marcel, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Matousek Petr, doc. Ing., Ph.D., M.A.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Mutua Nelson Makau, M.Sc.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Pluskal Jan, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Podermanski Tomas, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Polcak Libor, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Rychly Marek, RNDr., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Skokanova Jana, Mgr.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Vesely Vladimir, Ing., Ph.D.",
+          "role_key": "member",
+          "position": "Member"
+        },
+        {
+          "name": "Zavrel Jan, Ing.",
+          "role_key": "member",
+          "position": "Member"
+        }
+      ]
+    },
+    {
+      "id": "groups_struct_044",
+      "question": "Who is the contact person for Robotic research group Robo@FIT (ROBO)?",
+      "expected_answer": "Orsag Filip, Ing., Ph.D.",
+      "answer_field": "team.principal_researcher[0].name",
+      "group": "Robotic research group Robo@FIT (ROBO)",
+      "type": "contact_person",
+      "actual_answer": "Orsag Filip, Ing., Ph.D."
+    },
+    {
+      "id": "groups_struct_045",
+      "question": "Does Robotic research group Robo@FIT (ROBO) cooperate with use of mobile devices and augmented reality?",
+      "expected_answer": "Yes",
+      "answer_field": "about.cooperation",
+      "group": "Robotic research group Robo@FIT (ROBO)",
+      "type": "cooperate_with_yes",
+      "actual_answer": [
+        "In the area of safe human-robot interaction, we offer collaboration to solve the tasks of programming and inspection of collaborative robot procedures in Industry 4.0 with the use of mobile devices and augmented reality. An example is the recent collaboration with ABB (see avideo)."
+      ]
+    },
+    {
+      "id": "groups_struct_046",
+      "question": "Is Minarik Milos, Ing., Ph.D. in the Robotic research group Robo@FIT (ROBO) group?",
+      "expected_answer": "No",
+      "answer_field": "team.*.name",
+      "group": "Robotic research group Robo@FIT (ROBO)",
+      "type": "member_of_group_no",
+      "actual_answer": [
+        "Orsag Filip, Ing., Ph.D.",
+        "Bambusek Daniel, Ing.",
+        "Beran Vitezslav, doc. Ing., Ph.D.",
+        "Hanacek Petr, doc. Dr. Ing.",
+        "Janousek Vladimir, doc. Ing., Ph.D.",
+        "Kapinus Michal, Ing., Ph.D.",
+        "Materna Zdenek, Ing., Ph.D.",
+        "Rozman Jaroslav, Ing., Ph.D.",
+        "Smrz Pavel, doc. RNDr., Ph.D.",
+        "Solony Marek, Ing., Ph.D.",
+        "Spanel Michal, doc. Ing., Ph.D.",
+        "Zboril Frantisek, doc. Ing., CSc.",
+        "Zemcik Pavel, prof. Dr. Ing., dr. h. c."
+      ]
+    },
+    {
+      "id": "groups_struct_047",
+      "question": "Is Hanacek Petr, doc. Dr. Ing. part of Robotic research group Robo@FIT (ROBO)?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.name",
+      "group": "Robotic research group Robo@FIT (ROBO)",
+      "type": "member_of_group_yes",
+      "actual_answer": [
+        "Orsag Filip, Ing., Ph.D.",
+        "Bambusek Daniel, Ing.",
+        "Beran Vitezslav, doc. Ing., Ph.D.",
+        "Hanacek Petr, doc. Dr. Ing.",
+        "Janousek Vladimir, doc. Ing., Ph.D.",
+        "Kapinus Michal, Ing., Ph.D.",
+        "Materna Zdenek, Ing., Ph.D.",
+        "Rozman Jaroslav, Ing., Ph.D.",
+        "Smrz Pavel, doc. RNDr., Ph.D.",
+        "Solony Marek, Ing., Ph.D.",
+        "Spanel Michal, doc. Ing., Ph.D.",
+        "Zboril Frantisek, doc. Ing., CSc.",
+        "Zemcik Pavel, prof. Dr. Ing., dr. h. c."
+      ]
+    },
+    {
+      "id": "groups_struct_048",
+      "question": "Is Bambusek Daniel, Ing.'s role Researcher in Robotic research group Robo@FIT (ROBO)?",
+      "expected_answer": "Yes",
+      "answer_field": "team.*.position",
+      "group": "Robotic research group Robo@FIT (ROBO)",
+      "type": "member_role_yes",
+      "actual_answer": [
+        {
+          "name": "Orsag Filip, Ing., Ph.D.",
+          "role_key": "principal_researcher",
+          "position": "Principal researcher"
+        },
+        {
+          "name": "Bambusek Daniel, Ing.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Beran Vitezslav, doc. Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Hanacek Petr, doc. Dr. Ing.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Janousek Vladimir, doc. Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Kapinus Michal, Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Materna Zdenek, Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Rozman Jaroslav, Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Smrz Pavel, doc. RNDr., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Solony Marek, Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Spanel Michal, doc. Ing., Ph.D.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Zboril Frantisek, doc. Ing., CSc.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        },
+        {
+          "name": "Zemcik Pavel, prof. Dr. Ing., dr. h. c.",
+          "role_key": "researcher",
+          "position": "Researcher"
+        }
+      ]
+    },
+    {
+      "id": "groups_struct_049",
+      "question": "Is Silling Petr, Ing. in the Security Technology Research and Development (STRaDe) group?",
+      "expected_answer": "No",
+      "answer_field": "team.*.name",
+      "group": "Security Technology Research and Development (STRaDe)",
+      "type": "member_of_group_no",
+      "actual_answer": [
+        "Goldmann Tomas, Ing., Ph.D.",
+        "Orsag Filip, Ing., Ph.D.",
+        "Kavetskyi Andrii",
+        "Malinka Kamil, doc. Mgr., Ph.D.",
+        "Plesko Filip, Ing.",
+        "Rydlo Stepan, Ing.",
+        "Sakin Martin, Ing.",
+        "Semerad Lukas, Ing., Ph.D.",
+        "Simun Samuel, Bc.",
+        "Tinka Jan, Ing.",
+        "Viskupic Matej, Ing."
+      ]
+    },
+    {
+      "id": "groups_struct_050",
+      "question": "Does the Supercomputing Technologies Research Group SC@FIT (SC@FIT) group collaborate with IT4Innovations narodni superpocitacove centrum , VSB -?",
+      "expected_answer": "Yes",
+      "answer_field": "about.cooperation",
+      "group": "Supercomputing Technologies Research Group SC@FIT (SC@FIT)",
+      "type": "cooperate_with_yes",
+      "actual_answer": [
+        "Biomedical Ultrasound Group , University College London, UK - development of the simulation toolbox k-Wave for modelling ultrasound propagation in human body",
+        "Institute of Biomedical Engineering , Ludwig Cancer Research, University of Oxford, UK - Kidney cancer treatment planning",
+        "Turku High-Intensity Focused Ultrasound (HIFU) Research Centre , Turku, Finland - Ultrasound Prostate cancer treatment",
+        "IT4Innovations narodni superpocitacove centrum , VSB - Technical University Ostrava, CZ - Research and development on the Anselm and Salomon supercomputer, collaboration in the READEX project",
+        "The University of Twente , Twente, NL - acceleration of the photoacoustic imaging of breast (PAMMTOH project)",
+        "University of Bern , Bern, CH - acceleration of the photoacoustic imaging of breast (PAMMTOH project)",
+        "Medisch Spectrum Twente , Twente, NL - acceleration of the photoacoustic imaging of breast (PAMMTOH project)",
+        "Imasonic SAS , Voray sur l'Ognon, FR -acceleration of the photoacoustic imaging of breast (PAMMTOH project)",
+        "EKSPLA , Vilnius, Lt - acceleration of the photoacoustic imaging of breast (PAMMTOH project)",
+        "Continental , Ostrava - Research and development of ultrasound sensors",
+        "Faculty of Civil Engineering , Brno University of Technology, CZ - Simulation of fraction tests in quasi-brittle materials"
+      ]
+    }
+  ]
+}

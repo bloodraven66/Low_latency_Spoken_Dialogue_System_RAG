@@ -1,0 +1,37 @@
+{
+    "project": "Privacy-respecting Explainable Assessment and Collection of Threats",
+    "title": "Analyza bezpecnostnich hrozeb s ohledem na ochranu soukromi",
+    "metadata": {
+        "project_period": "1. 1. 2024 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "TM05000014",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "5. verejna soutez programu Delta 2"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Privacy-respecting Explainable Assessment and Collection of Threats"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Indicators of Compromise, Federated Learning, Privacy preserving, Anomaly detection, Cybersecurity"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "This project aims to research and develop a cybersecurity threat detection system that emphasizes the collection of Indicators of Compromise (IoCs) from anomaly detection systems placed in multiple customer networks, while ensuring the privacy of the individuals who are monitored by those systems. The primary goal is to increase the cybersecurity of end users through enhanced threat detection capabilities of anomaly detection systems based on the cooperation of those systems. The challenge, however, is to address the potential privacy concerns associated with collecting and analyzing sensitive data such as IP addresses, login credentials, and activity patterns. Such information can potentially be misused and lead to privacy violations. Therefore, the project aims to protect sensitive data and provide end users with a robust privacy guarantee to encourage them to share detected security events enabling to determine IoCs for external analysis and increasing threat detection."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Rysavy Ondrej, doc. Ing., Ph.D. (DIFS) \u2013 research leader Burgetova Ivana, Ing., Ph.D. (DIFS) Korvas Vaclav, Ing. (DIFS) Matousek Petr, doc. Ing., Ph.D., M.A. (DIFS) Mutua Nelson Makau, M.Sc. (DIFS) Ondryas Ondrej, Ing. (DIFS) Polcak Libor, Ing., Ph.D. (DIFS) Rychly Marek, RNDr., Ph.D. (DIFS) Vondracek Martin, Ing. (DIFS)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- BURGETOVA, I.; MATOUSEK, P.; RYSAVY, O. Towards identification of network applications in encrypted traffic. Annals of Telecommunications, 2025, vol. 2025, no. 9, p. 1015-1032. Detail"
+        }
+    }
+}

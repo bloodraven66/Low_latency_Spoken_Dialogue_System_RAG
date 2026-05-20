@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "code": "CZSa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Digital Signal Processing (in English)"
+    },
+    "content": {
+        "guarantor": "Fucik Otto, doc. Dr. Ing. | (DCSY)",
+        "course_coordinator": "Cernocky Jan, prof. Dr. Ing. | (DCGM) | Rohdin Johan Andreas, M.Sc., Ph.D. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written)",
+        "time_span": "- 26 hrs lectures\n- 13 hrs seminar\n- 13 hrs projects",
+        "assessment_points": "- 51 pts final exam (written part)\n- 15 pts mid-term test (written part)\n- 14 pts numeric exercises\n- 20 pts projects",
+        "department": "Department of Computer Systems | (UPSY)",
+        "lecturer": "Fucik Otto, doc. Dr. Ing. | (DCSY) | Hermansky Hynek, prof. Ing., Dr. Eng. | (DCGM) | Rohdin Johan Andreas, M.Sc., Ph.D. | (DCGM)",
+        "instructor": "Fucik Otto, doc. Dr. Ing. | (DCSY) | Rohdin Johan Andreas, M.Sc., Ph.D. | (DCGM)",
+        "learning_objectives": "To refresh basic knowledge of signals and systems and to make students familiar with more advanced topics linked to artificial intelligence, cyber-physical systems, speech and sound processing and other related domains. To provide students with sufficient mathematical background allowing to understand conference and journal papers dealing with signal processing topics, and allowing for own independent work in signal processing. To provide students with sufficient practical knowledge for implementing and integrating signal processing algorithms.",
+        "syllabus_of_lectures": "- Introduction to digital signal processing, sampling and quantization.\n- Frequency analysis of digital signals, DTFT, DFT and FFT.\n- Principles of digital filters.\n- Digital filter design.\n- Practical implementation of digital filters.\n- Processing in frequency domain\n- Sub-band signal processing, changing the sampling frequency.\n- Wavelet analysis and synthesis.\n- Random signals - correlation and power spectral density.\n- State space representation.\n- System identification.\n- Wiener and Kalman filtering.\n- Vector signal processing",
+        "syllabus_of_seminars": "Demonstration exercises (1h per week) immediately follow the lectures and demonstrate the taught techniques to the students based on real code, mostly in python and Matlab/Octave. All codes will be available to the students. Two homeworks (to be solved during the semester) are based on these exercises.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "The project is assigned in combination with another master course based on students specialization (for example in speech processing, or cyber-physical systems). It is solved in teams of up to 5 students, a report and short presentation are required. The data for projects will be provided, or acquired by the students. Examples of projects:\n- Simple signal processing for a microphone array\n- Estimation of transfer function of a mechanical system\n- Changing the properties of sound using time-frequency processing.\n- Sub-band audio coding.",
+        "progress_assessment": "- Solving and submitting solution of two home-works during the semester (7pts each, total 14pts)\n- Half-semestral exam (15pts)\n- Submission and presentation of project (20pts)\n- Semestral exam, 51pts, requirement of min. 17pts."
+    }
+}

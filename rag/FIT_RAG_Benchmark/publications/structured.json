@@ -1,0 +1,562 @@
+{
+  "dataset": "FIT_publications_structured_v1",
+  "num_questions": 50,
+  "seed": 1337,
+  "source": "extracted_data_clean/fit/publications",
+  "output_file": "FIT_RAG_Benchmark/publications/structured.json",
+  "description": "Structured short-answer publication benchmark with type, author, year, project, and publisher questions.",
+  "items": [
+    {
+      "id": "publications_struct_001",
+      "question": "Is 28th International Symposium on Design and Diagnostics of Electronic Circuits & Systems linked to project Application-specific HW/SW architectures and their applications?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.projects.text",
+      "publication_title": "28th International Symposium on Design and Diagnostics of Electronic Circuits & Systems",
+      "type": "published_part_of_project_yes",
+      "project": "Application-specific HW/SW architectures and their applications",
+      "actual_answer": [
+        "Application-specific HW/SW architectures and their applications"
+      ]
+    },
+    {
+      "id": "publications_struct_002",
+      "question": "Is Aamir Saeed Malik listed as an author of A Deep Learning Approach to EEG-Based Diagnosis of Cognitive Skills Impairment: Electrode-Level Analysis Insights?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "A Deep Learning Approach to EEG-Based Diagnosis of Cognitive Skills Impairment: Electrode-Level Analysis Insights",
+      "type": "is_author_yes",
+      "person": "Aamir Saeed Malik",
+      "actual_answer": [
+        "Yasir Hussain",
+        "Aamir Saeed Malik"
+      ]
+    },
+    {
+      "id": "publications_struct_003",
+      "question": "Was this paper A neurophysiological model based on resting state EEG functional connectivity features for assessing semantic long-term memory performance published as part of this project Application-specific HW/SW architectures and their applications?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.projects.text",
+      "publication_title": "A neurophysiological model based on resting state EEG functional connectivity features for assessing semantic long-term memory performance",
+      "type": "published_part_of_project_yes",
+      "project": "Application-specific HW/SW architectures and their applications",
+      "actual_answer": [
+        "Application-specific HW/SW architectures and their applications"
+      ]
+    },
+    {
+      "id": "publications_struct_004",
+      "question": "Was this paper Accelerating Ultrasound Wave Propagation Simulations using Pruned FFT published in 2025?",
+      "expected_answer": "Yes",
+      "answer_field": "year / sections.published.text",
+      "publication_title": "Accelerating Ultrasound Wave Propagation Simulations using Pruned FFT",
+      "type": "published_in_2025",
+      "actual_answer": "2025"
+    },
+    {
+      "id": "publications_struct_005",
+      "question": "Did M. ANASTACIO co-author the paper Action-based Representation for Stochastic Optimization of Complex Real-World RVRP?",
+      "expected_answer": "No",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Action-based Representation for Stochastic Optimization of Complex Real-World RVRP",
+      "type": "is_author_no",
+      "person": "M. ANASTACIO",
+      "actual_answer": [
+        "D. SEDLAK",
+        "M. BIDLO",
+        "M. CERVENKA"
+      ]
+    },
+    {
+      "id": "publications_struct_006",
+      "question": "Is publication An Empirical Study of a PCA-Based Multivariate Framework for Interpretable Log Anomaly Detection of type conference paper?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.type.text",
+      "publication_title": "An Empirical Study of a PCA-Based Multivariate Framework for Interpretable Log Anomaly Detection",
+      "type": "is_conference_paper",
+      "actual_answer": "conference paper"
+    },
+    {
+      "id": "publications_struct_007",
+      "question": "Was AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization published in the year 2025?",
+      "expected_answer": "No",
+      "answer_field": "year / sections.published.text",
+      "publication_title": "AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization",
+      "type": "published_in_2025",
+      "actual_answer": "2026"
+    },
+    {
+      "id": "publications_struct_008",
+      "question": "Did J. NOVAK co-author the paper Anticipating protein evolution with successor sequence predictor?",
+      "expected_answer": "No",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Anticipating protein evolution with successor sequence predictor",
+      "type": "is_author_no",
+      "person": "J. NOVAK",
+      "actual_answer": [
+        "Rayyan Khan",
+        "Pavel Kohout",
+        "Milos Musil",
+        "Monika Rosinska",
+        "Jiri Damborsky",
+        "Stanislav Mazurenko",
+        "David Bednar"
+      ]
+    },
+    {
+      "id": "publications_struct_009",
+      "question": "Did Ivan Vykopal co-author the paper Automatic Fact-checking in English and Telugu?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Automatic Fact-checking in English and Telugu",
+      "type": "is_author_yes",
+      "person": "Ivan Vykopal",
+      "actual_answer": [
+        "Ivan Vykopal"
+      ]
+    },
+    {
+      "id": "publications_struct_010",
+      "question": "Is this paper Automatic Fact-checking in English and Telugu a conference paper?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.type.text",
+      "publication_title": "Automatic Fact-checking in English and Telugu",
+      "type": "is_conference_paper",
+      "actual_answer": "conference paper"
+    },
+    {
+      "id": "publications_struct_011",
+      "question": "Is this paper Bayesian Learning for Domain-Invariant Speaker Verification and Anti-Spoofing a conference paper?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.type.text",
+      "publication_title": "Bayesian Learning for Domain-Invariant Speaker Verification and Anti-Spoofing",
+      "type": "is_conference_paper",
+      "actual_answer": "conference paper"
+    },
+    {
+      "id": "publications_struct_012",
+      "question": "Was CV-Probes: Studying the interplay of lexical and world knowledge in visually grounded verb understanding published in the year 2025?",
+      "expected_answer": "Yes",
+      "answer_field": "year / sections.published.text",
+      "publication_title": "CV-Probes: Studying the interplay of lexical and world knowledge in visually grounded verb understanding",
+      "type": "published_in_2025",
+      "actual_answer": "2025"
+    },
+    {
+      "id": "publications_struct_013",
+      "question": "Was this paper Centralized Versions of Jumping Finite Automata published as part of this project Chytre informacni technologie pro odolnou spolecnost?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.projects.text",
+      "publication_title": "Centralized Versions of Jumping Finite Automata",
+      "type": "published_part_of_project_yes",
+      "project": "Chytre informacni technologie pro odolnou spolecnost",
+      "actual_answer": [
+        "Chytre informacni technologie pro odolnou spolecnost"
+      ]
+    },
+    {
+      "id": "publications_struct_014",
+      "question": "Did Peter Chudy co-author the paper Cognitive Agent Evaluation for Synthetic Pilot Training?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Cognitive Agent Evaluation for Synthetic Pilot Training",
+      "type": "is_author_yes",
+      "person": "Peter Chudy",
+      "actual_answer": [
+        "Jiri Hanak",
+        "Jiri Novak",
+        "Peter Chudy"
+      ]
+    },
+    {
+      "id": "publications_struct_015",
+      "question": "Which publisher released Complementation of Emerson-Lei Automata?",
+      "expected_answer": "Springer Verlag",
+      "answer_field": "sections.publisher.text",
+      "publication_title": "Complementation of Emerson-Lei Automata",
+      "type": "publisher",
+      "actual_answer": "Springer Verlag"
+    },
+    {
+      "id": "publications_struct_016",
+      "question": "Is publication Compositional Shape Analysis with Shared Abduction and Biabductive Loop Acceleration of type conference paper?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.type.text",
+      "publication_title": "Compositional Shape Analysis with Shared Abduction and Biabductive Loop Acceleration",
+      "type": "is_conference_paper",
+      "actual_answer": "conference paper"
+    },
+    {
+      "id": "publications_struct_017",
+      "question": "Is Cross-Entropy Method for Laser Defense Applications a 2025 publication?",
+      "expected_answer": "Yes",
+      "answer_field": "year / sections.published.text",
+      "publication_title": "Cross-Entropy Method for Laser Defense Applications",
+      "type": "published_in_2025",
+      "actual_answer": "2025"
+    },
+    {
+      "id": "publications_struct_018",
+      "question": "Is Matej Cief an author in this work Cross-Validated Off-Policy Evaluation?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Cross-Validated Off-Policy Evaluation",
+      "type": "is_author_yes",
+      "person": "Matej Cief",
+      "actual_answer": [
+        "Matej Cief",
+        "Michal Kompan"
+      ]
+    },
+    {
+      "id": "publications_struct_019",
+      "question": "Was this paper ESPnet-SpeechLM: An Open Speech Language Model Toolkit published as part of this project Language memory of the regions of the Czech Republic. Machine learning methods for preservation?",
+      "expected_answer": "No",
+      "answer_field": "sections.projects.text",
+      "publication_title": "ESPnet-SpeechLM: An Open Speech Language Model Toolkit",
+      "type": "published_part_of_project_no",
+      "project": "Language memory of the regions of the Czech Republic. Machine learning methods for preservation",
+      "actual_answer": [
+        "Soudobe metody zpracovani"
+      ]
+    },
+    {
+      "id": "publications_struct_020",
+      "question": "Did Federico Nicolas Landini co-author the paper Ego4D: Around the World in 3,600 Hours of Egocentric Video?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Ego4D: Around the World in 3,600 Hours of Egocentric Video",
+      "type": "is_author_yes",
+      "person": "Federico Nicolas Landini",
+      "actual_answer": [
+        "Federico Nicolas Landini"
+      ]
+    },
+    {
+      "id": "publications_struct_021",
+      "question": "Is publication End-to-End Speech Translation for Low-Resource Languages Using Weakly Labeled Data of type conference paper?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.type.text",
+      "publication_title": "End-to-End Speech Translation for Low-Resource Languages Using Weakly Labeled Data",
+      "type": "is_conference_paper",
+      "actual_answer": "conference paper"
+    },
+    {
+      "id": "publications_struct_022",
+      "question": "Is Pavel Zemcik listed as an author of How Color Profile Affects the Visual Quality in Light Field Rendering and Novel View Synthesis?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "How Color Profile Affects the Visual Quality in Light Field Rendering and Novel View Synthesis",
+      "type": "is_author_yes",
+      "person": "Pavel Zemcik",
+      "actual_answer": [
+        "Tomas Chlubna",
+        "Tomas Milet",
+        "Pavel Zemcik"
+      ]
+    },
+    {
+      "id": "publications_struct_023",
+      "question": "Is Impulsivity and aggression in suicide across age and sex: case–control study a conference paper?",
+      "expected_answer": "No",
+      "answer_field": "sections.type.text",
+      "publication_title": "Impulsivity and aggression in suicide across age and sex: case–control study",
+      "type": "is_conference_paper",
+      "actual_answer": "journal article"
+    },
+    {
+      "id": "publications_struct_024",
+      "question": "Was this paper Leveraging Self-Supervised Learning for Speaker Diarization published in 2025?",
+      "expected_answer": "Yes",
+      "answer_field": "year / sections.published.text",
+      "publication_title": "Leveraging Self-Supervised Learning for Speaker Diarization",
+      "type": "published_in_2025",
+      "actual_answer": "2025"
+    },
+    {
+      "id": "publications_struct_025",
+      "question": "Is Martin Kiss listed as an author of Masked Self-Supervised Pre-Training for Text Recognition Transformers on Large-Scale Datasets?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Masked Self-Supervised Pre-Training for Text Recognition Transformers on Large-Scale Datasets",
+      "type": "is_author_yes",
+      "person": "Martin Kiss",
+      "actual_answer": [
+        "Martin Kiss",
+        "Michal Hradis"
+      ]
+    },
+    {
+      "id": "publications_struct_026",
+      "question": "Was this paper Multi-Partner Project: LoLiPoP-IoT - Design and Simulation of Energy-Efficient Devices for the Internet of Things published in 2025?",
+      "expected_answer": "Yes",
+      "answer_field": "year / sections.published.text",
+      "publication_title": "Multi-Partner Project: LoLiPoP-IoT - Design and Simulation of Energy-Efficient Devices for the Internet of Things",
+      "type": "published_in_2025",
+      "actual_answer": "2025"
+    },
+    {
+      "id": "publications_struct_027",
+      "question": "Who is the publisher for this paper Multichannel Histograms for Flow Classification?",
+      "expected_answer": "IEEE Communications Society",
+      "answer_field": "sections.publisher.text",
+      "publication_title": "Multichannel Histograms for Flow Classification",
+      "type": "publisher",
+      "actual_answer": "IEEE Communications Society"
+    },
+    {
+      "id": "publications_struct_028",
+      "question": "Is publication Multilingual Political Views of Large Language Models: Identification and Steering of type conference paper?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.type.text",
+      "publication_title": "Multilingual Political Views of Large Language Models: Identification and Steering",
+      "type": "is_conference_paper",
+      "actual_answer": "conference paper"
+    },
+    {
+      "id": "publications_struct_029",
+      "question": "Is this paper Network Intrusion Datasets: A Survey, Limitations, and Recommendations a conference paper?",
+      "expected_answer": "No",
+      "answer_field": "sections.type.text",
+      "publication_title": "Network Intrusion Datasets: A Survey, Limitations, and Recommendations",
+      "type": "is_conference_paper",
+      "actual_answer": "journal article"
+    },
+    {
+      "id": "publications_struct_030",
+      "question": "Is Network Intrusion Datasets: A Survey, Limitations, and Recommendations a 2025 publication?",
+      "expected_answer": "Yes",
+      "answer_field": "year / sections.published.text",
+      "publication_title": "Network Intrusion Datasets: A Survey, Limitations, and Recommendations",
+      "type": "published_in_2025",
+      "actual_answer": "2025"
+    },
+    {
+      "id": "publications_struct_031",
+      "question": "Is this paper PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing a conference paper?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.type.text",
+      "publication_title": "PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing",
+      "type": "is_conference_paper",
+      "actual_answer": "conference paper"
+    },
+    {
+      "id": "publications_struct_032",
+      "question": "Was PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing published in the year 2025?",
+      "expected_answer": "Yes",
+      "answer_field": "year / sections.published.text",
+      "publication_title": "PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing",
+      "type": "published_in_2025",
+      "actual_answer": "2025"
+    },
+    {
+      "id": "publications_struct_033",
+      "question": "What is the publisher of Performance Evaluation of SLAM-ASR: The Good, the Bad, the Ugly, and the Way Forward?",
+      "expected_answer": "IEEE",
+      "answer_field": "sections.publisher.text",
+      "publication_title": "Performance Evaluation of SLAM-ASR: The Good, the Bad, the Ugly, and the Way Forward",
+      "type": "publisher",
+      "actual_answer": "IEEE"
+    },
+    {
+      "id": "publications_struct_034",
+      "question": "Is Michal Bidlo listed as an author of Poster: Multi-Agent LLM System for Cisco Router Configuration?",
+      "expected_answer": "No",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Poster: Multi-Agent LLM System for Cisco Router Configuration",
+      "type": "is_author_no",
+      "person": "Michal Bidlo",
+      "actual_answer": [
+        "Michal Rozsival",
+        "Petr Matousek",
+        "Jaromir Kotala"
+      ]
+    },
+    {
+      "id": "publications_struct_035",
+      "question": "Is this paper Practical Fine-Tuning of Autoregressive Models on Limited Handwritten Texts a conference paper?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.type.text",
+      "publication_title": "Practical Fine-Tuning of Autoregressive Models on Limited Handwritten Texts",
+      "type": "is_conference_paper",
+      "actual_answer": "conference paper"
+    },
+    {
+      "id": "publications_struct_036",
+      "question": "Did I. SRBA co-author the paper RecGaze: The First Eye Tracking and User Interaction Dataset for Carousel Interfaces?",
+      "expected_answer": "No",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "RecGaze: The First Eye Tracking and User Interaction Dataset for Carousel Interfaces",
+      "type": "is_author_no",
+      "person": "I. SRBA",
+      "actual_answer": [
+        "Santiago Jose de Leon Martinez",
+        "Maria Bielikova"
+      ]
+    },
+    {
+      "id": "publications_struct_037",
+      "question": "Is Petr Hanacek listed as an author of Reconstruction and enhancement techniques for overcoming occlusion in facial recognition?",
+      "expected_answer": "No",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Reconstruction and enhancement techniques for overcoming occlusion in facial recognition",
+      "type": "is_author_no",
+      "person": "Petr Hanacek",
+      "actual_answer": [
+        "Filip Plesko",
+        "Tomas Goldmann",
+        "Kamil Malinka"
+      ]
+    },
+    {
+      "id": "publications_struct_038",
+      "question": "Is Relationships between Sociosexuality and Dermatoglyphic Traits a 2025 publication?",
+      "expected_answer": "Yes",
+      "answer_field": "year / sections.published.text",
+      "publication_title": "Relationships between Sociosexuality and Dermatoglyphic Traits",
+      "type": "published_in_2025",
+      "actual_answer": "2025"
+    },
+    {
+      "id": "publications_struct_039",
+      "question": "Is publication SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing of type conference paper?",
+      "expected_answer": "No",
+      "answer_field": "sections.type.text",
+      "publication_title": "SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing",
+      "type": "is_conference_paper",
+      "actual_answer": "journal article"
+    },
+    {
+      "id": "publications_struct_040",
+      "question": "Is Scattered Context Grammars with One Non-Context-Free Production and Six Nonterminals Are Computationally Complete a 2025 publication?",
+      "expected_answer": "Yes",
+      "answer_field": "year / sections.published.text",
+      "publication_title": "Scattered Context Grammars with One Non-Context-Free Production and Six Nonterminals Are Computationally Complete",
+      "type": "published_in_2025",
+      "actual_answer": "2025"
+    },
+    {
+      "id": "publications_struct_041",
+      "question": "Is Filip Macak an author in this work Self-distillation-based domain exploration for source speaker verification under spoofed speech from unknown voice conversion?",
+      "expected_answer": "No",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Self-distillation-based domain exploration for source speaker verification under spoofed speech from unknown voice conversion",
+      "type": "is_author_no",
+      "person": "Filip Macak",
+      "actual_answer": [
+        "Lin Zhang"
+      ]
+    },
+    {
+      "id": "publications_struct_042",
+      "question": "Is Filip Macak listed as an author of Small Decision Trees for MDPs with Deductive Synthesis?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Small Decision Trees for MDPs with Deductive Synthesis",
+      "type": "is_author_yes",
+      "person": "Filip Macak",
+      "actual_answer": [
+        "Roman Andriushchenko",
+        "Milan Ceska",
+        "Filip Macak"
+      ]
+    },
+    {
+      "id": "publications_struct_043",
+      "question": "Is TS-SUPERB: A Target Speech Processing Benchmark for Speech Self-Supervised Learning Models a conference paper?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.type.text",
+      "publication_title": "TS-SUPERB: A Target Speech Processing Benchmark for Speech Self-Supervised Learning Models",
+      "type": "is_conference_paper",
+      "actual_answer": "conference paper"
+    },
+    {
+      "id": "publications_struct_044",
+      "question": "Is Lin Zhang listed as an author of Target Speaker ASR with Whisper?",
+      "expected_answer": "No",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Target Speaker ASR with Whisper",
+      "type": "is_author_no",
+      "person": "Lin Zhang",
+      "actual_answer": [
+        "Alexander Polok",
+        "Dominik Klement",
+        "Matthew Wiesner",
+        "Sanjeev Khudanpur",
+        "Jan Cernocky",
+        "Lukas Burget"
+      ]
+    },
+    {
+      "id": "publications_struct_045",
+      "question": "Did M. CESKA co-author the paper The Asteroid Spectral Imager (ASPECT) on the Milani CubeSat?",
+      "expected_answer": "No",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "The Asteroid Spectral Imager (ASPECT) on the Milani CubeSat",
+      "type": "is_author_no",
+      "person": "M. CESKA",
+      "actual_answer": [
+        "N. ANTTI",
+        "T. KOHOUT",
+        "T. KASPAREK"
+      ]
+    },
+    {
+      "id": "publications_struct_046",
+      "question": "Was The Asteroid Spectral Imager (ASPECT) on the Milani CubeSat produced within project Planning and records of improvised shelters?",
+      "expected_answer": "No",
+      "answer_field": "sections.projects.text",
+      "publication_title": "The Asteroid Spectral Imager (ASPECT) on the Milani CubeSat",
+      "type": "published_part_of_project_no",
+      "project": "Planning and records of improvised shelters",
+      "actual_answer": [
+        "HERA Cubesat Implementation Phase"
+      ]
+    },
+    {
+      "id": "publications_struct_047",
+      "question": "Did Tomas Cejka co-author the paper Towards Building Network Outlier Detection System for Network Traffic Monitoring?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Towards Building Network Outlier Detection System for Network Traffic Monitoring",
+      "type": "is_author_yes",
+      "person": "Tomas Cejka",
+      "actual_answer": [
+        "Josef Koumar",
+        "Kamil Jerabek",
+        "Tomas Cejka"
+      ]
+    },
+    {
+      "id": "publications_struct_048",
+      "question": "Is this paper Towards Building Network Outlier Detection System for Network Traffic Monitoring a conference paper?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.type.text",
+      "publication_title": "Towards Building Network Outlier Detection System for Network Traffic Monitoring",
+      "type": "is_conference_paper",
+      "actual_answer": "conference paper"
+    },
+    {
+      "id": "publications_struct_049",
+      "question": "Is this paper Ukryti obyvatelstva pred nebezpecim a conference paper?",
+      "expected_answer": "No",
+      "answer_field": "sections.type.text",
+      "publication_title": "Ukryti obyvatelstva pred nebezpecim",
+      "type": "is_conference_paper",
+      "actual_answer": "book"
+    },
+    {
+      "id": "publications_struct_050",
+      "question": "Is Aamir Saeed Malik an author in this work Unraveling Cognitive Impairments in Mental and Neurological Disorders: A Biomarker-Based Mapping Framework?",
+      "expected_answer": "Yes",
+      "answer_field": "sections.authors.text / sections.bibtex.text",
+      "publication_title": "Unraveling Cognitive Impairments in Mental and Neurological Disorders: A Biomarker-Based Mapping Framework",
+      "type": "is_author_yes",
+      "person": "Aamir Saeed Malik",
+      "actual_answer": [
+        "Yasir Hussain",
+        "B. G. Samantha Suraweera",
+        "Aamir Saeed Malik"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+    "contact": {
+        "department_abbr": "External Pedagogue"
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Reliable, Secure, and Intelligent Computer Systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Spolehlive, bezpecne a efektivni pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "TEchnology TRAnsfer via Multinational Application eXperiments",
+            "details": "EU, Horizon 2020, 761349, start: 2018-04-01, end: 2021-12-31, running"
+        },
+        {
+            "year": "2017",
+            "title": "Bezpecne a spolehlive pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-4014, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2018",
+            "citation": "HEIDARI, M.; DRAHANSKY, M. Detection of Ridge Discontinuities in Fingerprint Recognition Influenced by Skin Diseases. International Journal of Advanced Science and Technology, 2018, vol. 116, no. 116, p. 13-22. ISSN: 2005-4238."
+        },
+        {
+            "year": "2018",
+            "citation": "HEIDARI, M.; GOLDMANN, T.; DVORAK, M.; DRAHANSKY, M. Antispoofing and multispectral (optical) methods in hand-based biometrics. In Hand-Based Biometrics: Methods and Technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 337-365. ISBN: 978-1-78561-224-4."
+        },
+        {
+            "year": "2018",
+            "citation": "HEIDARI, M.; KANICH, O.; DRAHANSKY, M. Processing of fingerprints influenced by skin diseases. In Hand-Based Biometrics: Methods and Technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 135-168. ISBN: 978-1-78561-224-4."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2020",
+            "title": "Practical Considerations in the Use of Biometric Systems",
+            "metadata": "presentation, poster, 2020",
+            "authors": "DRAHANSKY, M.; KANICH, O.; HEIDARI, M."
+        },
+        {
+            "year": "2018",
+            "title": "Overview of biometric technologies",
+            "metadata": "presentation, poster, 2018",
+            "authors": "DRAHANSKY, M.; DVORAK, M.; HEIDARI, M.; SPURNY, M."
+        }
+    ],
+    "name": "Heidari Mona, Ph.D."
+}

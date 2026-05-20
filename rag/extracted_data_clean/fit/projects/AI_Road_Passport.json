@@ -1,0 +1,33 @@
+{
+    "project": "AI Road Passport",
+    "title": "System pro automatizaci tvorby a kontroly evidence silnicniho majetku na zaklade metod umele inteligence",
+    "metadata": {
+        "project_period": "1. 7. 2024 \u2013 31. 12. 2026",
+        "project_type": "grant",
+        "code": "FW11020147",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "11. verejna soutez Programu prumysloveho vyzkumu a experimentalniho vyvoje TREND, podprogram 2 \u201cNovacci\u201d"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "AI Road Passport"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "computer vision; terrain digital twin; segmentation"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The aim of the project is to create a system for automated visual control of signage, transport equipment and other assets of the traffic manager. The system will use continuous data collection using mobile devices, will transfer the data to a cloud system for defect detection, and will clearly report them to the communication manager. It will use modern machine learning methods that make it possible to create a device that is cheaper and at the same time more usable than what is currently on the market. The overall system will consist of mobile devices for recording image data, software using artificial intelligence and existing map data for data selection directly in the mobile device, and a cloud system for final evaluation and reporting of faults and changes in communication."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Kula Michal, Ing., Ph.D. (DCGM) \u2013 research leader Gadorek Petr, Ing. (DFIT-ISD) Kuchynka Marek, Ing. (DFIT-ISD) Musil Petr, Ing., Ph.D. (CM-SFE)"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "project": "Rozvoj kapacit v kyberbezpecnosti v Kenske republice",
+    "title": "Rozvoj kapacit v kyberbezpecnosti v Kenske republice",
+    "metadata": {
+        "project_period": "1. 1. 2025 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "25-PKVV-020",
+        "agency": "Ministry of Foreign Affairs of the Czech Republic",
+        "program": "Posilovani kapacit verejnych vysokych skol v rozvojovych zemich - vyhlaseni dotacniho programu pro rok 2025"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "cyberseburity, knowledge transfer"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project aims to develop capacity in cybersecurity in the Republic of Kenya through: i) creating/updating a cybersecurity curriculum, ii) technical assistance, and iii) knowledge transfer and skills enhancement through mobility."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Rysavy Ondrej, doc. Ing., Ph.D. (DIFS) \u2013 research leader Kreslik Frantisek, Ing. (CVT) Matousek Petr, doc. Ing., Ph.D., M.A. (DIFS) Mutua Nelson Makau, M.Sc. (DIFS) Studena Michaela, Ing. (External relations) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        }
+    }
+}

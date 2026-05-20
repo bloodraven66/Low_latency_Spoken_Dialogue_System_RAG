@@ -1,0 +1,21 @@
+{
+    "project": "Multimodalni validacni systemovy simulator pro autonomni rizeni",
+    "title": "Multimodalni validacni systemovy simulator pro autonomni rizeni",
+    "metadata": {
+        "project_period": "1. 1. 2025 \u2013 31. 12. 2027",
+        "project_type": "grant",
+        "code": "FW12010130",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "12. verejna soutez - Program na podporu prumysloveho vyzkumu a experimentalniho vyvoje TREND, PP1"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Portes Petr, doc. Ing., Ph.D. (UADI OMV) \u2013 research leader"
+        }
+    }
+}

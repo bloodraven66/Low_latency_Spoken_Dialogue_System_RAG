@@ -1,0 +1,41 @@
+{
+    "project": "Tools To Combat Voice DeepFakes",
+    "title": "Nastroje boje proti hlasovym DeepFakes",
+    "metadata": {
+        "project_period": "1. 1. 2024 \u2013 31. 12. 2026",
+        "project_type": "grant",
+        "code": "VB02000060",
+        "agency": "Ministry of the Interior of the Czech Republic",
+        "program": "Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - II. verejna soutez"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Tools To Combat Voice DeepFakes"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Deepfakes; artificial intelligence; computer security"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Deepfakes are a new application of artificial intelligence with a significant impact on computer security. They are becoming easier than ever to create, and these tools can be used to deceive individuals and organizations, especially when combined with social engineering tactics such as phishing. This project therefore focuses on understanding the possible uses and associated threats in the malicious use of voice deepfakes, with the intention of finding reliable strategies to mitigate these threats. By doing so, we can ensure that these innovations are used ethically and responsibly, creating a more sustainable and fairer future for all. Its activities are focused on three main areas: enhancing the robustness of voice biometric systems against voice deepfake spoofing attacks, creating tools to counter the malicious use of voice deepfakes, and evaluating people's ability to recognize voice deepfakes, while also finding ways to increase users' security awareness."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Kudla Radim, Ing. (DCGM) \u2013 research leader Brukner Jan, Ing. (DCGM) Burget Lukas, doc. Ing., Ph.D. (DCGM) Cernocky Jan, prof. Dr. Ing. (DCGM) Firc Anton, Ing., Ph.D. (DITS) Foltyn Lukas, Bc. (FIT) Halas Jaromir (CVT) Hanacek Petr, doc. Dr. Ing. (DITS) Knapovsky Jan, Bc. (FIT) Kotolan Martin (DFIT-ISD) Malinka Kamil, doc. Mgr., Ph.D. (DITS) Matejka Pavel, Ing., Ph.D. Mihola David, Ing. (DCSY) Plchot Oldrich, Ing., Ph.D. (DCGM) Polok Alexander, Ing. (DCGM) Res Jakub, Ing. (DITS) Rohdin Johan Andreas, M.Sc., Ph.D. (DCGM) Schwarz Petr, Ing., Ph.D. (DCGM) Silnova Anna, M.Sc., Ph.D. (DCGM) Stanek Vojtech, Ing. (DITS) Salko Milan, Ing. (DITS) Sustek Martin, Ing. (DCGM) Svec Jan, Ing. (DCGM) Vrska Ludek (DFIT-ISD) Yusuf Bolaji (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- ALAM, J.; BARAHONA QUIROS, S.; BOBOS, D.; BURGET, L.; CUMANI, S.; DAHMANE, M.; HAN, J.; HLAVACEK, M.; KODOVSKY, M.; LANDINI, F.; MOSNER, L.; PALKA, P.; PAVLICEK, T.; PENG, J.; PLCHOT, O.; RAJASEKHAR, P.; ROHDIN, J.; SILNOVA, A.; STAFYLAKIS, T.; ZHANG, L. ABC SYSTEM DESCRIPTION FOR NIST SRE 2024. Proceedings of NIST SRE 2024. San Juan: National Institute of Standards and Technology, 2024. p. 1-9. Detail POLOK, A.; KLEMENT, D.; HAN, J.; SEDLACEK, S.; YUSUF, B.; MACIEJEWSKI, M.; WIESNER, M.; BURGET, L. BUT/JHU System Description for CHiME-8 NOTSOFAR-1 Challenge. Proceedings of CHiME 2024 Workshop. Kos Island: International Speech Communication Association, 2024. p. 18-22. Detail ROHDIN, J.; ZHANG, L.; PLCHOT, O.; STANEK, V.; MIHOLA, D.; PENG, J.; STAFYLAKIS, T.; BEVERAKI, D.; SILNOVA, A.; BRUKNER, J.; BURGET, L. BUT systems and analyses for the ASVspoof 5 Challenge. Proceedings of ASV spoof 2024 Workshop. Kos Island: International Speech Communication Association, 2024. p. 24-31. Detail STAFYLAKIS, T.; SILNOVA, A.; ROHDIN, J.; PLCHOT, O.; BURGET, L. Challenging margin-based speaker embedding extractors by using the variational information bottleneck. In Proceedings of Interspeech 2024. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 3220-3224. ISSN: 1990-9772. Detail WANG, S.; CHEN, Z.; HAN, B.; WANG, H.; XIANG, X.; ROHDIN, J.; SILNOVA, A.; QIAN, Y.; LI, H. Advancing speaker embedding learning: Wespeaker toolkit for research and production. Speech communication, 2024, vol. 162, no. 103104, p. 1-12. ISSN: 0167-6393. Detail\n- POLOK, A.; KLEMENT, D.; HAN, J.; SEDLACEK, S.; YUSUF, B.; MACIEJEWSKI, M.; WIESNER, M.; BURGET, L. BUT/JHU System Description for CHiME-8 NOTSOFAR-1 Challenge. Proceedings of CHiME 2024 Workshop. Kos Island: International Speech Communication Association, 2024. p. 18-22. Detail ROHDIN, J.; ZHANG, L.; PLCHOT, O.; STANEK, V.; MIHOLA, D.; PENG, J.; STAFYLAKIS, T.; BEVERAKI, D.; SILNOVA, A.; BRUKNER, J.; BURGET, L. BUT systems and analyses for the ASVspoof 5 Challenge. Proceedings of ASV spoof 2024 Workshop. Kos Island: International Speech Communication Association, 2024. p. 24-31. Detail STAFYLAKIS, T.; SILNOVA, A.; ROHDIN, J.; PLCHOT, O.; BURGET, L. Challenging margin-based speaker embedding extractors by using the variational information bottleneck. In Proceedings of Interspeech 2024. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 3220-3224. ISSN: 1990-9772. Detail WANG, S.; CHEN, Z.; HAN, B.; WANG, H.; XIANG, X.; ROHDIN, J.; SILNOVA, A.; QIAN, Y.; LI, H. Advancing speaker embedding learning: Wespeaker toolkit for research and production. Speech communication, 2024, vol. 162, no. 103104, p. 1-12. ISSN: 0167-6393. Detail\n- ROHDIN, J.; ZHANG, L.; PLCHOT, O.; STANEK, V.; MIHOLA, D.; PENG, J.; STAFYLAKIS, T.; BEVERAKI, D.; SILNOVA, A.; BRUKNER, J.; BURGET, L. BUT systems and analyses for the ASVspoof 5 Challenge. Proceedings of ASV spoof 2024 Workshop. Kos Island: International Speech Communication Association, 2024. p. 24-31. Detail STAFYLAKIS, T.; SILNOVA, A.; ROHDIN, J.; PLCHOT, O.; BURGET, L. Challenging margin-based speaker embedding extractors by using the variational information bottleneck. In Proceedings of Interspeech 2024. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 3220-3224. ISSN: 1990-9772. Detail WANG, S.; CHEN, Z.; HAN, B.; WANG, H.; XIANG, X.; ROHDIN, J.; SILNOVA, A.; QIAN, Y.; LI, H. Advancing speaker embedding learning: Wespeaker toolkit for research and production. Speech communication, 2024, vol. 162, no. 103104, p. 1-12. ISSN: 0167-6393. Detail\n- STAFYLAKIS, T.; SILNOVA, A.; ROHDIN, J.; PLCHOT, O.; BURGET, L. Challenging margin-based speaker embedding extractors by using the variational information bottleneck. In Proceedings of Interspeech 2024. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 3220-3224. ISSN: 1990-9772. Detail WANG, S.; CHEN, Z.; HAN, B.; WANG, H.; XIANG, X.; ROHDIN, J.; SILNOVA, A.; QIAN, Y.; LI, H. Advancing speaker embedding learning: Wespeaker toolkit for research and production. Speech communication, 2024, vol. 162, no. 103104, p. 1-12. ISSN: 0167-6393. Detail\n- WANG, S.; CHEN, Z.; HAN, B.; WANG, H.; XIANG, X.; ROHDIN, J.; SILNOVA, A.; QIAN, Y.; LI, H. Advancing speaker embedding learning: Wespeaker toolkit for research and production. Speech communication, 2024, vol. 162, no. 103104, p. 1-12. ISSN: 0167-6393. Detail"
+        },
+        "other_results": {
+            "label": "Other Results",
+            "text": "- Materialy a nastroje pro workshop #2 a vzdelavaci kampane , other unclassified results, 2025 Authors :\n- Materialy a nastroje pro workshop #1 a vzdelavaci kampane , other unclassified results, 2024 Authors :"
+        }
+    }
+}

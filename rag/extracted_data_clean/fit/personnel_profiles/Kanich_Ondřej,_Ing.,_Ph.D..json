@@ -1,0 +1,280 @@
+{
+    "contact": {
+        "department_abbr": "CM-SFE",
+        "role": "Member of Workgroup",
+        "details": {
+            "e_mail": "kanich@fit.vut.cz",
+            "researcher_id": "K-5875-2019",
+            "orcid_id": "0000-0003-0093-8536",
+            "scopus_author_id": "57160298200"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "Please contact me via email for any meeting necessary."
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Reliable, Secure, and Intelligent Computer Systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "A set of forensic analytic tools for image and video processing for the criminal police and investigation service",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010041, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Aviation protection against low-energy lasers",
+            "details": "TACR, 3. verejna soutez programu Doprava 2020+, CK03000036, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Development of the autonomous monitoring center",
+            "details": "EU, OP PIK - Aplikace, start: 2022-04-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Spolehlive, bezpecne a efektivni pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Survey and education of citizens of the Czech Republic in the field of biometrics",
+            "details": "TACR, Program na podporu aplikovaneho spolecenskovedniho a humanitniho vyzkumu, experimentalniho vyvoje a inovaci ETA., TL02000134, start: 2019-01-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Introduction of attractive and effective English language studies at FIT",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, start: 2018-02-01, end: 2019-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Bezpecne a spolehlive pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-4014, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Tools and methods for video and image processing to improve effectivity of rescue and security services operations",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020068, start: 2017-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "New solutions for multimodal biometrics - enhancement of security and reliability of biometric technologies",
+            "details": "MSMT, COST CZ (2011-2017), LD14013, start: 2014-04-01, end: 2016-02-29, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2023",
+            "citation": "SCHWARZ, M.; KANICH, O.; BERKA, M.; HAVLOVICOVA, M.; DRAHANSKY, M. Dermatoglyphic Patterns in Monozygotic Twins with Zimmermann-Laband Syndrome. Journal of Forensic Identification, 2023, vol. 73, no. 1, p. 3-13. ISSN: 0895-173X."
+        },
+        {
+            "year": "2022",
+            "citation": "KANICH, O.; MATEJKA, J.; FIALOVA, E.; PETROVA KAFKOVA, M.; DOSEDEL, T.; DRAHANSKY, M. Technological, legal and sociological summary of biometric technology usage. ScienceOpen Research, 2022, vol. 2022, no. 12, p. 1-7. ISSN: 2199-1006."
+        },
+        {
+            "year": "2021",
+            "citation": "DVORAK, M.; KANICH, O.; DRAHANSKY, M. Scalable Imaging Device Using Line Scan Camera for use in Biometric Recognition and Medical Imaging. In Proceedings of the 14th International Joint Conference on Biomedical Engineering Systems and Technologies. Lisboa: Institute for Systems and Technologies of Information, Control and Communication, 2021. p. 160-168. ISBN: 978-989-758-490-9."
+        },
+        {
+            "year": "2021",
+            "citation": "KANICH, O. Synthetic fingerprint generation with specific damages/noises. Abstract book of 6th International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering. Rajshahi: 2021. p. 34-34."
+        },
+        {
+            "year": "2020",
+            "citation": "PERNICKY, R.; DRAHANSKY, M.; KANICH, O. Vyzkum falzifikatu otisku prstu na ruznych nosicich. Kriminalisticky sbornik, 2020, roc. 2020, c. 5, s. 54-58. ISSN: 1453-259X."
+        },
+        {
+            "year": "2019",
+            "citation": "DRAHANSKY, M.; KANICH, O. Influence of Skin Diseases on Fingerprints. In Biometrics under Biomedical Considerations. Singapore: Springer Nature Singapore, 2019. p. 1-39. ISBN: 978-981-1311-44-4."
+        },
+        {
+            "year": "2019",
+            "citation": "KANICH, O.; KOSTAK, D.; DRAHANSKY, M. Psoriasis Damage Simulation into Synthetic Fingerprint. In Proceedings 18th International Conference of the Biometrics Special Interest Group. Lecture Notes in Informatics. Darmstadt: GI - Group for computer science, 2019. p. 205-212. ISBN: 978-3-88579-690-9."
+        },
+        {
+            "year": "2018",
+            "citation": "DRAHANSKY, M.; KANICH, O.; DVORAK, M. Spoofing methods in hand-based biometrics. In Hand-Based Biometrics: Methods and Technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 367-398. ISBN: 978-1-78561-224-4."
+        },
+        {
+            "year": "2018",
+            "citation": "HEIDARI, M.; KANICH, O.; DRAHANSKY, M. Processing of fingerprints influenced by skin diseases. In Hand-Based Biometrics: Methods and Technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 135-168. ISBN: 978-1-78561-224-4."
+        },
+        {
+            "year": "2018",
+            "citation": "KANICH, O. Research in Fingerprint Damage Simulations. Brno: Brno University of Technology, 2018. p. 1-148."
+        },
+        {
+            "year": "2018",
+            "citation": "KANICH, O.; DRAHANSKY, M. State of the art in fingerprint recognition. In Hand-Based Biometrics: Methods and Technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 83-110. ISBN: 978-1-78561-224-4."
+        },
+        {
+            "year": "2018",
+            "citation": "KANICH, O.; MEZL, M.; DRAHANSKY, M. Use of Creative Materials for Fingerprint Spoofs. In 2018 International Workshop on Biometrics and Forensics (IWBF). Sassari: Institute of Electrical and Electronics Engineers, 2018. p. 1-8. ISBN: 978-1-5386-1366-5."
+        },
+        {
+            "year": "2018",
+            "citation": "LAI, K.; KANICH, O.; DVORAK, M.; DRAHANSKY, M.; YANUSHKEVICH, S.; SHMERKO, V. Biometric-Enabled Watchlists Technology. IET Biometrics, 2018, vol. 7, no. 2, p. 163-172. ISSN: 2047-4938."
+        },
+        {
+            "year": "2017",
+            "citation": "DRAHANSKY, M.; KANICH, O.; BREZINOVA, E. Challenges for fingerprint recognition - spoofing, skin diseases and environmental effects. In Handbook of Biometrics for Forensic Science. Advances in Computer Vision and Pattern Recognition. Cham: Springer Verlag, 2017. p. 63-83. ISBN: 978-3-319-50671-5."
+        },
+        {
+            "year": "2017",
+            "citation": "DRAHANSKY, M.; PERNICKY, R.; KANICH, O.; BAROTOVA, S. Verarbeitung von beschadigten Fingerabdrucken in der polizeilichen Praxis. DuD - Datenschutz und Datensicherheit, 2017, roc. 41, c. 7, s. 407-414. ISSN: 1614-0702."
+        },
+        {
+            "year": "2017",
+            "citation": "KANICH, O.; DRAHANSKY, M. Simulation of Synthetic Fingerprint Generation Using Petri Nets. IET Biometrics, 2017, vol. 6, no. 6, p. 402-408. ISSN: 2047-4938."
+        },
+        {
+            "year": "2016",
+            "citation": "DRAHANSKY, M.; KANICH, O.; BREZINOVA, E.; SHINODA, K. Experiments with optical properties of skin on fingers. Journal on Systemics, Cybernetics and Informatics, 2016, vol. 2016, no. 2, p. 37-46. ISSN: 2168-5053."
+        },
+        {
+            "year": "2016",
+            "citation": "KANICH, O.; DRAHANSKY, M. Currently Used Swipe Fingerprint Sensors. International Journal of Bio-Science and Bio-Technology, 2016, vol. 8, no. 1, p. 381-386. ISSN: 2233-7849."
+        },
+        {
+            "year": "2015",
+            "citation": "DRAHANSKY, M.; KANICH, O. Vulnerabilities of Biometric Systems. Security and Protection of Information 2015. Brno: University of Defence in Brno, 2015. p. 53-60. ISBN: 978-80-7231-997-8."
+        },
+        {
+            "year": "2015",
+            "citation": "SPURNY, J.; KANICH, O.; DRAHANSKY, M.; DOLEZEL, M.; SHINODA, K. New materials for spoofing touch-based fingerprint scanners. In Proceedings of International Conference on Computer Application Technologies 2015. Matsue: IEEE Computer Society, 2015. p. 207-211. ISBN: 978-1-4673-8211-3."
+        },
+        {
+            "year": "2014",
+            "citation": "KANICH, O. Fingerprint Damage Simulation. Saarbrucken: Lambert Academic Publishing, 2014. 68 p. ISBN: 978-3-659-63942-5."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2022",
+            "title": "Metodika bezpecnosti biometrickych systemu pro statni spravu",
+            "metadata": "directory, 2022",
+            "authors": "KANICH, O.; KRAUSOVA, A.; PETROVA KAFKOVA, M.; DRAHANSKY, M.; DOSEDEL, T.; MATEJKA, J."
+        },
+        {
+            "year": "2021",
+            "title": "Analyza kvality retinalnich snimku",
+            "metadata": "report, 2021",
+            "authors": "DRAHANSKY, M.; RYDLO, S.; KAVETSKYI, A.; KANICH, O.; BISWAS, S.; MNUK, T."
+        },
+        {
+            "year": "2021",
+            "title": "Brozura pro obyvatele - biometricke systemy",
+            "metadata": "directory, 2021",
+            "authors": "KANICH, O.; PETROVA KAFKOVA, M.; KRAUSOVA, A.; DOSEDEL, T.; DRAHANSKY, M.; MATEJKA, J."
+        },
+        {
+            "year": "2020",
+            "title": "Fingerprints in forensic applications - processing and generation of diseased, damaged and spoofed fingerprints",
+            "metadata": "lecture, 2020",
+            "authors": "KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2020",
+            "title": "Practical Considerations in the Use of Biometric Systems",
+            "metadata": "presentation, poster, 2020",
+            "authors": "DRAHANSKY, M.; KANICH, O.; HEIDARI, M."
+        },
+        {
+            "year": "2019",
+            "title": "Biometricke systemy - aktualni stav a bezpecnost",
+            "metadata": "presentation, poster, 2019",
+            "authors": "DRAHANSKY, M.; KANICH, O.; GOLDMANN, T.; DVORAK, M."
+        },
+        {
+            "year": "2019",
+            "title": "Detection of facial key points",
+            "metadata": "report, 2019",
+            "authors": "KANICH, O.; GOLDMANN, T.; DRAHANSKY, M."
+        },
+        {
+            "year": "2019",
+            "title": "Detekce chodcu z vysky pomoci neuronovych siti",
+            "metadata": "report, 2019",
+            "authors": "KANICH, O.; DRAHANSKY, M.; GOLDMANN, T."
+        },
+        {
+            "year": "2019",
+            "title": "Fingerprints in forensic applications - processing and generation of diseased, damaged and spoofed fingerprints",
+            "metadata": "lecture, 2019",
+            "authors": "DRAHANSKY, M.; KANICH, O."
+        },
+        {
+            "year": "2019",
+            "title": "Generation and analysis of face data",
+            "metadata": "report, 2019",
+            "authors": "GOLDMANN, T.; KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2019",
+            "title": "Generator a detektor modelu zbrani",
+            "metadata": "report, 2019",
+            "authors": "KANICH, O.; DVORAK, M.; DRAHANSKY, M."
+        },
+        {
+            "year": "2019",
+            "title": "Multisensoric board usable on drone 2",
+            "metadata": "report, 2019",
+            "authors": "MALANIK, P.; KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2018",
+            "title": "Fingerprint spoofing",
+            "metadata": "presentation, poster, 2018",
+            "authors": "DRAHANSKY, M.; PERNICKY, R.; KANICH, O."
+        },
+        {
+            "year": "2018",
+            "title": "Multisensoric board usable on drone",
+            "metadata": "report, 2018",
+            "authors": "GOLDMANN, T.; KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2017",
+            "title": "Skin Diseases in Fingerprints",
+            "metadata": "presentation, poster, 2017",
+            "authors": "DRAHANSKY, M.; KANICH, O."
+        },
+        {
+            "year": "2017",
+            "title": "Weapon Detection",
+            "metadata": "report, 2017",
+            "authors": "KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2016",
+            "title": "Vliv onemocneni kuze",
+            "metadata": "report, 2016",
+            "authors": "KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "Fingerprint Damage Simulation",
+            "metadata": "presentation, poster, 2015",
+            "authors": "KANICH, O."
+        }
+    ],
+    "name": "Kanich Ondrej, Ing., Ph.D."
+}

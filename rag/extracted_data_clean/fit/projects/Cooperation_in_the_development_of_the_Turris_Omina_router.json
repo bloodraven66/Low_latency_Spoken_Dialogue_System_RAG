@@ -1,0 +1,35 @@
+{
+    "project": "Cooperation in the development of the Turris Omina router",
+    "title": "CZ.NIC: Spoluprace pri vyvoji routeru Turris Omnia",
+    "metadata": {
+        "project_period": "1. 1. 2016 \u2013 31. 12. 2025",
+        "project_type": "contract",
+        "partner": "CZ.NIC, z.s.p.o."
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Cooperation in the development of the Turris Omina router"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Router, Turris, Omnia, Security, Drivers, Testing, Development"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The aim of the project is to provide services, based on the CZ.NIC requirements, that will consist mainly of cooperation in hardware design, hardware testing, design and development of drivers, operating system and software equipment for the Turris, router preparation of hardware and software support for use as a gateway for IoT, etc."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Korcek Pavol, Ing., Ph.D. (RG EHW) \u2013 research leader Kosar Vlastimil, Ing., Ph.D. (DCSY) Musil Petr, Ing., Ph.D. (CM-SFE) Smrz Pavel, doc. RNDr., Ph.D. (DCGM) Viktorin Jan, Ing."
+        },
+        "results_with_impact_on_practice": {
+            "label": "Results with Impact on Practice",
+            "text": "- Souhrnna vyzkumna zprava k projektu Spoluprace pri vyvoji routeru Turris Omnia , summary research report, 2016 Authors : KORCEK, P."
+        }
+    }
+}

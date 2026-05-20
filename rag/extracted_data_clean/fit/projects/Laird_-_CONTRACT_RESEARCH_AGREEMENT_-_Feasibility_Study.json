@@ -1,0 +1,22 @@
+{
+    "project": "Laird - CONTRACT RESEARCH AGREEMENT - Feasibility Study",
+    "title": "Laird - CONTRACT RESEARCH AGREEMENT - Feasibility Study",
+    "metadata": {
+        "project_period": "1. 12. 2025 \u2013 30. 4. 2026",
+        "project_type": "contract"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Laird - SMLOUVA O SMLUVNIM VYZKUMU - Studie proveditelnosti"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Hruby Martin, Ing., Ph.D. (DITS) \u2013 research leader Koci Radek, Ing., Ph.D. (DITS)"
+        }
+    }
+}

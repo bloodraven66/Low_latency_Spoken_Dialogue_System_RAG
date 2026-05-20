@@ -1,0 +1,25 @@
+{
+    "project": "NEXT GENERATION VUT: Zvysovani kvality a relevance vzdelavani na VUT",
+    "title": "NEXT GENERATION VUT: Zvysovani kvality a relevance vzdelavani na VUT",
+    "metadata": {
+        "project_period": "1. 1. 2025 \u2013 31. 12. 2028",
+        "project_type": "grant",
+        "code": "CZ.02.02.XX/00/23_022/0009052",
+        "agency": "European Union",
+        "program": "ESF+ vyzva pro VS"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Projekt NEXT GENERATION VUT \u2013 Zvysovani kvality a relevance vzdelavani na VUT je zameren v souladu se strategiemi VUT na zvyseni kvality, inkluzivity a relevance vzdelavani Vysokeho uceni technickeho v Brne ve vazbe na realne potreby studentu, absolventu, zamestnavatelu a spolecnosti. Zahrnuje intervence ve vsech oblastech vzdelavani na VUT \u2013 v bakalarskem, magisterskem i doktorskem studiu."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Weiter Martin, prof. Ing., Ph.D. (VUT) \u2013 research leader"
+        }
+    }
+}

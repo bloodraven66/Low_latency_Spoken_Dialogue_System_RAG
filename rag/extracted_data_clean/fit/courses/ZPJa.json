@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "code": "ZPJa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Natural Language Processing (in English)"
+    },
+    "content": {
+        "guarantor": "Smrz Pavel, doc. RNDr., Ph.D. | (DCGM)",
+        "course_coordinator": "Docekal Martin, Ing. | (DCGM) | Fajcik Martin, Ing., Ph.D. | (DCGM) | Kesiraju Santosh, Ph.D. | (DCGM) | Sedlacek Simon, Ing. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written)",
+        "time_span": "- 26 hrs lectures\n- 26 hrs projects",
+        "assessment_points": "- 51 pts final exam (written part)\n- 9 pts mid-term test (written part)\n- 40 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Docekal Martin, Ing. | (DCGM) | Fajcik Martin, Ing., Ph.D. | (DCGM) | Kesiraju Santosh, Ph.D. | (DCGM)",
+        "learning_objectives": "To understand natural language processing and to learn how to apply modern machine learning methods in this field. To get acquainted with advanced deep learning architectures that proved to be successful in various NLP tasks. To\nThe students will get acquainted with natural language processing and will understand a range of neural network models that are commonly applied in the field. They will also grasp basics of neural implementations of attention mechanisms and sequence embedding models and how these modular components can be combined to build state of the art NLP systems. They will be able to implement and to evaluate common neural network models for various NLP applications.Students will improve their programming skills and their knowledge and practical experience with tools for deep learning as well as with general processing of textual data.",
+        "prerequisite_knowledge_and_skills": "- Programming in Python.\n- Calculus (derivatives),\n- Probability theory and statistics,\n- Basics of machine learning.",
+        "study_literature": "- Geron, Aurelien.Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems. \" O'Reilly Media, Inc.\", 2017.",
+        "syllabus_of_lectures": "- Motivation and Challenges of Natural Language Processing, Active Topics (in Business or Research), Linguistic Laws, and Project Introduction.\n- Probabilities, Calculus of Neural Networks, Language Representation, deriving gradients for Word2Vec\n- RNNs, Exploding/Vanishing gradients, Truncated BPTT, bi-RNNs\n- Attention, Transformers, architectures such as BERT, LLAMA3, Linear Attention.\n- Unsupervised Topic Discovery, Document Representation, Multimodal Representation.\n- Large Language Models, In-context learning, Chain-of-thought reasoning.\n- Natural Language Generation, Greedy Search, Beam Search, Ancestral Sampling, Top-k Sampling, Nucleus Sampling.\n- Instruction Tuning, Policy Optimization.\n- Speech-aware Language Models.\n- Long-context processing & Applications in Scientific Literature Processing.\n- Information Retrieval and Question Answering, BM25, Query Expansion, Relevance Model, DPR, ColBERT, Cross-Encoder.\n- Reserved Invited Lecture.\n- Poster Session.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "- Individually assigned project",
+        "progress_assessment": "- Mid-term test - up to 9 points\n- Individual project - up to 40 points\n- Written final exam - up to 51 points\nThe evaluation includes mid-term test, individual project, and the final exam. The mid-term test does not have a correction option, the final exam has two possible correction runs."
+    }
+}

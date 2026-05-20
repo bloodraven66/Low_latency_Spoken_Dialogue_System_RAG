@@ -1,0 +1,466 @@
+{
+    "contact": {
+        "department": "Department of Intelligent Systems",
+        "department_abbr": "DITS",
+        "role": "Deputy Head of\nDepartment",
+        "details": {
+            "e_mail": "rogalew@fit.vut.cz",
+            "work_phone": "+420 54114 1188",
+            "room": "A307 Office",
+            "researcher_id": "FSO-2614-2022",
+            "orcid_id": "0000-0002-7911-0549",
+            "scopus_author_id": "11838850600"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Automata@FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Automated Analysis and Verification Research Group - VeriFIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "chairman"
+        },
+        {
+            "organization": "Scientific Board",
+            "role": "Member of Scientific Board"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Supervisors Specialists in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "2016 - Habilitation: Faculty of Information Technology, Brno University of Technology. Habilitation thesis:Symbolic Representations of Dynamic Data Structures in Program Analysis",
+            "2007 - Ph.D: Faculty of Information Technology, Brno University of Technology. Ph.D. thesis:Verification of Programs with Complex Data Structures",
+            "2003 - Mgr. (M.Sc.): Faculty of Informatics, Masaryk University Brno"
+        ],
+        "academic_internships_abroad": [
+            {
+                "date": "01.10.2004\n-\n31.05.2005",
+                "details": "Universite Paris DiderotLaboratoire d'Informatique Algorithmique: Fondements et Applications, Universite Paris Diderot, Francie"
+            },
+            {
+                "date": "01.01.2007\n-\n30.09.2008",
+                "details": "CNRS: Le Centre national de la recherche scientifiqueVerimag, Grenoble, France"
+            }
+        ],
+        "awards": [
+            "CADE-24: Best Paper Award 2013",
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2015",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2019"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Thursday, 13:00-13:50 , B/A307 (Bozetechova 1/2, Brno 61200) Pro IOS vyuzijte prednostne tohoto casu. Pro diplomky a ostatni predmety jsou konzultace po dohode emailem.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "SLOa",
+                "title": "Complexity (in English)",
+                "details": "English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "MBA",
+                "title": "Model-Based Analysis",
+                "details": "Czech, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IOS",
+                "title": "Operating Systems",
+                "details": "Czech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "TAD",
+                "title": "Theory and Applications of Petri Nets",
+                "details": "Czech, English, summer",
+                "department": "DITS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "ATA",
+                "title": "Automated Testing and Dynamic Analysis",
+                "details": "Lecture,\nCzech, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IAN",
+                "title": "Binary Code Analysis",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IOS",
+                "title": "Operating Systems",
+                "details": "Lecture, Project,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IUS",
+                "title": "Introduction to Software Engineering",
+                "details": "Fundamentals seminar, Lecture, Project,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "MAD",
+                "title": "Selected Chapters on Mathematics",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "MBA",
+                "title": "Model-Based Analysis",
+                "details": "Exercise in computer lab, Lecture, Project,\nCzech, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "SLOa",
+                "title": "Complexity (in English)",
+                "details": "Lecture, Project,\nEnglish, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "TIN",
+                "title": "Theoretical Computer Science",
+                "details": "Fundamentals seminar, Project, Seminar,\nCzech, winter",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "Advancing Automated Verification of Low-Level Programs through Separation Logic and Bi-Abduction",
+            "details": "MSMT, AKTION Ceska republika - Rakousko, start: 2026-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "NexTArc - Next Generation Open Innovations in Trustworthy Embedded AI Architectures for Smart Cities, Mobility and Logistics",
+            "details": "EU, HORIZON EUROPE, start: 2025-09-01, end: 2028-05-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "QUAK: Quantum Program Analysis using Automata Toolkit",
+            "details": "GACR, Standardni projekty, 25-18318S, start: 2025-01-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "String Constraints for Security Analysis",
+            "details": "GACR, Standardni projekty, 25-17934S, start: 2025-08-01, end: 2028-07-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Reliable, Secure, and Intelligent Computer Systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Representing Boolean Functions by a Self-Adaptable Data Structure",
+            "details": "GACR, Standardni projekty, GA23-07565S, start: 2023-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Efficient Finite Automata for Automated Reasoning",
+            "details": "MSMT, ERC CZ, LL1908, start: 2020-01-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Scalable Techniques for Analysis of Complex Properties of Computer Systems",
+            "details": "GACR, Standardni projekty, GA20-07487S, start: 2020-01-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Spolehlive, bezpecne a efektivni pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Verification and Validation of Automated Systems' Safety and Security",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A20009, start: 2020-05-01, end: 2023-07-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Arrowhead Tools for Engineering of Digitalisation Solutions",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A19010, start: 2019-05-01, end: 2022-07-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Automata for Decision Procedures and Verification",
+            "details": "GACR, Standardni projekty, GA19-24397S, GA19-24397S, start: 2019-01-01, end: 2021-12-31, running"
+        },
+        {
+            "year": "2017",
+            "title": "Bezpecne a spolehlive pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-4014, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "ROBUST - veRificatiOn and Bug hUnting for advanced SofTware",
+            "details": "GACR, Standardni projekty, GA17-12465S, start: 2017-01-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Relaxed equivalence checking for approximate computing",
+            "details": "GACR, Standardni projekty, GA16-17538S, start: 2016-01-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Automatic Formal Analysis and Verification of Programs with Complex Unbounded Data and Control Structures",
+            "details": "GACR, Standardni projekty, GA14-11384S, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Spolehlivost a bezpecnost v IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2486, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Innovation of the Complexity Theory class",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR166/2013/G1, start: 2013-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Verifikace a optimalizace pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-12-1, start: 2012-01-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Automata and Logic for Symbolic Verification of Software",
+            "details": "MSMT, KONTAKT, MEB021023, start: 2010-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Static and Dynamic Verification of Programs with Advanced Features of Concurrency and Unboundedness",
+            "details": "GACR, Standardni projekty, GAP103/10/0306, start: 2010-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2009",
+            "title": "Developement of techniques for automatic verification of programs with dynamic data structures",
+            "details": "GACR, Postdoktorandske granty, GP201/09/P531, start: 2009-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Advanced Methods for Automatic Verification of Infinite-state Systems",
+            "details": "MEB 020840, start: 2008-02-20, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Advanced Formal Approaches in the Design and Verification of Computer-Based Systems",
+            "details": "GACR, Standardni projekty, GA102/07/0322, start: 2007-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Automatic Verification of Programs with Dynanic Data Structures with Pointers",
+            "details": "2-06-27, start: 2006-01-01, end: 2007-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "FIEDOR, T.; PAVELA, J.; ROGALEWICZ, A.; VOJNAR, T. Efficient Manipulation of Control Flow Models in Evolving Software. In Eurocast 2024 -- Computer Aided Systems Theory: Extended Abstracts. Lecture Notes in Computer Science. Las Palmas de Gran Canaria: Springer International Publishing, 2025. p. 412-427. ISBN: 978-3-031-82949-9."
+        },
+        {
+            "year": "2025",
+            "citation": "FLORIAN, S.; ROGALEWICZ, A.; VOJNAR, T.; ZULEGER, F. Compositional Shape Analysis with Shared Abduction and Biabductive Loop Acceleration. In Programming Languages and Systems - 34th European Symposium on Programming, ESOP 2025. Lecture Notes in Computer Science. Springer, 2025. p. 230-257. ISBN: 978-3-031-91121-7."
+        },
+        {
+            "year": "2024",
+            "citation": "DACIK, T.; ROGALEWICZ, A.; VOJNAR, T.; ZULEGER, F. Deciding Boolean Separation Logic via Small Models. In Tools and Algorithms for the Construction and Analysis of Systems (TACAS). Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2024. p. 188-206. ISBN: 978-3-031-57245-6."
+        },
+        {
+            "year": "2023",
+            "citation": "HOLIK, L.; HRUSKA, M.; SIC, J.; VARGOVCIK, P.; FIEDOR, T.; ROGALEWICZ, A. Reasoning about Regular Properties: A Comparative Study. In Automated Deduction - CADE 29. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2023. no. 14132, p. 286-306. ISSN: 0302-9743."
+        },
+        {
+            "year": "2022",
+            "citation": "FIEDOR, T.; PAVELA, J.; ROGALEWICZ, A.; VOJNAR, T. Perun: Performance Version System. In Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022). Limassol: Institute of Electrical and Electronics Engineers, 2022. p. 499-503. ISBN: 978-1-6654-7956-1."
+        },
+        {
+            "year": "2022",
+            "citation": "HOLIK, L.; PERINGER, P.; ROGALEWICZ, A.; SOKOVA, V.; VOJNAR, T.; ZULEGER, F. Low-Level Bi-Abduction. In 36th European Conference on Object-Oriented Programming (ECOOP 2022). Leibniz International Proceedings in Informatics. Leibniz International Proceedings in Informatics. Wadern: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2022. no. 222, p. 1-30. ISBN: 978-3-95977-225-9. ISSN: 1868-8969."
+        },
+        {
+            "year": "2020",
+            "citation": "HOLIK, L.; ROGALEWICZ, A.; VOJNAR, T.; IOSIF, R. Abstraction Refinement and Antichains for Trace Inclusion of Infinite State Systems. FORMAL METHODS IN SYSTEM DESIGN, 2020, vol. 55, no. 3, p. 137-170. ISSN: 0925-9856."
+        },
+        {
+            "year": "2018",
+            "citation": "FIEDOR, T.; HOLIK, L.; ROGALEWICZ, A.; VOJNAR, T.; SINN, M.; ZULEGER, F. From Shapes to Amortized Complexity. In Proceedings of VMCAI'18. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2018. no. 10747, p. 205-225. ISBN: 978-3-319-73720-1. ISSN: 0302-9743."
+        },
+        {
+            "year": "2017",
+            "citation": "HOLIK, L.; HRUSKA, M.; LENGAL, O.; ROGALEWICZ, A.; VOJNAR, T. Counterexample Validation and Interpolation-Based Refinement for Forest Automata. In Proceedings of VMCAI'17. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Cham: Springer Verlag, 2017. p. 288-309. ISBN: 978-3-319-52234-0. ISSN: 0302-9743."
+        },
+        {
+            "year": "2017",
+            "citation": "HRUSKA, M.; HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T. Forester: From Heap Shapes to Automata Predicates. In Proceedings of TACAS'17. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2017. p. 365-369. ISBN: 978-3-662-54580-5."
+        },
+        {
+            "year": "2016",
+            "citation": "HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; SEKANINA, L.; VASICEK, Z.; VOJNAR, T. Towards Formal Relaxed Equivalence Checking in Approximate Computing Methodology. 2nd Workshop on Approximate Computing (WAPCO 2016). Prague: 2016. p. 1-6."
+        },
+        {
+            "year": "2016",
+            "citation": "HRUSKA, M.; LENGAL, O.; SIMACEK, J.; VOJNAR, T.; HOLIK, L.; ROGALEWICZ, A. Run Forester, Run Backwards! (Competition Contribution). In Proceedings of TACAS'16. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2016. p. 923-926. ISBN: 978-3-662-49673-2."
+        },
+        {
+            "year": "2016",
+            "citation": "ROGALEWICZ, A. Symbolic Representations of Dynamic Data Structures in Program Analysis. Brno: 2016. 191 p."
+        },
+        {
+            "year": "2016",
+            "citation": "ROGALEWICZ, A.; VOJNAR, T.; IOSIF, R. Abstraction Refinement and Antichains for Trace Inclusion of Infinite State Systems. In Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2016. p. 71-89. ISBN: 978-3-662-49673-2."
+        },
+        {
+            "year": "2015",
+            "citation": "HRUSKA, M.; LENGAL, O.; SIMACEK, J.; VOJNAR, T.; HOLIK, L.; ROGALEWICZ, A. Forester: Shape Analysis Using Tree Automata (Competition Contribution). In Proceedings of TACAS'15. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2015. p. 432-435. ISBN: 978-3-662-46680-3."
+        },
+        {
+            "year": "2014",
+            "citation": "ROGALEWICZ, A.; VOJNAR, T.; IOSIF, R. Deciding Entailments in Inductive Separation Logic with Tree Automata. In Proceedings of ATVA'14. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2014. p. 201-218. ISBN: 978-3-319-11935-9."
+        },
+        {
+            "year": "2013",
+            "citation": "HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T. Fully Automated Shape Analysis Based on Forest Automata. Proceedings of CAV'13. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2013. no. 8044, p. 740-755. ISBN: 978-3-642-39798-1. ISSN: 0302-9743."
+        },
+        {
+            "year": "2013",
+            "citation": "ROGALEWICZ, A.; IOSIF, R. Automata-Based Termination Proofs. COMPUTING AND INFORMATICS, 2013, vol. 2013, no. 4, p. 739-775. ISSN: 1335-9150."
+        },
+        {
+            "year": "2013",
+            "citation": "ROGALEWICZ, A.; SIMACEK, J.; IOSIF, R. The Tree Width of Separation Logic with Recursive Definitions. Automated Deduction - CADE-24. Lecture Notes in Computer Science. Lecture Notes in Artificial Intelligence. Berlin: Springer Verlag, 2013. no. 7898, p. 21-38. ISBN: 978-3-642-38573-5. ISSN: 0302-9743."
+        },
+        {
+            "year": "2012",
+            "citation": "HOLIK, L.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T.; HABERMEHL, P. Forest Automata for Verification of Heap Manipulation. FORMAL METHODS IN SYSTEM DESIGN, 2012, vol. 2012, no. 41, p. 83-106. ISSN: 0925-9856."
+        },
+        {
+            "year": "2012",
+            "citation": "ROGALEWICZ, A.; VOJNAR, T.; HABERMEHL, P.; BOUAJJANI, A. Abstract Regular (Tree) Model Checking. International Journal on Software Tools for Technology Transfer, 2012, vol. 14, no. 2, p. 167-191. ISSN: 1433-2779."
+        },
+        {
+            "year": "2011",
+            "citation": "HOLIK, L.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T.; HABERMEHL, P. Forest Automata for Verification of Heap Manipulation. Lecture Notes in Computer Science, 2011, vol. 2011, no. 6806, p. 424-440. ISSN: 0302-9743."
+        },
+        {
+            "year": "2009",
+            "citation": "IOSIF, R.; ROGALEWICZ, A. Automata-Based Termination Proofs. Implementation and Application of Automata. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2009. p. 165-177. ISBN: 978-3-642-02978-3."
+        },
+        {
+            "year": "2008",
+            "citation": "VOJNAR, T.; CESKA, M.; ROGALEWICZ, A.; ERLEBACH, P.; HOLIK, L.; BOUAJJANI, A.; HABERMEHL, P.; TOUILI, T.; MORO, P. Automaticka verifikace programu s dynamickymi datovymi strukturami. Inovacni podnikani & transfer technologii, 2008, roc. 2008, c. 1, s. 21-22. ISSN: 1210-4612."
+        },
+        {
+            "year": "2007",
+            "citation": "HABERMEHL, P.; IOSIF, R.; ROGALEWICZ, A.; VOJNAR, T. Proving Termination of Tree Manipulating Programs. Automated Technology for Verification and Analysis. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2007. p. 145-161. ISBN: 978-3-540-75595-1."
+        },
+        {
+            "year": "2007",
+            "citation": "HOLIK, L.; ROGALEWICZ, A. Counterexample Analysis in Abstract Regular Tree Model Checking of Complex Dynamic Data Structures. Third Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2007). Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 59-66. ISBN: 978-80-7355-077-6."
+        },
+        {
+            "year": "2007",
+            "citation": "ROGALEWICZ, A. Verification of Programs with Complex Data Structures. Brno: 2007. 122 p. ISBN: 978-80-214-3548-3."
+        },
+        {
+            "year": "2006",
+            "citation": "BOUAJJANI, A.; HABERMEHL, P.; ROGALEWICZ, A.; VOJNAR, T. Abstract Regular Tree Model Checking of Complex Dynamic Data Structures. Static Analysis. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2006. p. 52-70. ISBN: 978-3-540-37756-6."
+        },
+        {
+            "year": "2006",
+            "citation": "BOUAJJANI, A.; HABERMEHL, P.; ROGALEWICZ, A.; VOJNAR, T. Abstract Regular Tree Model Checking. ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE, 2006, vol. 149, no. 1, p. 37-48. ISSN: 1571-0661."
+        },
+        {
+            "year": "2006",
+            "citation": "ROGALEWICZ, A. Abstract Regular Model Checking of Complex Dynamic Data Structures - Implementation Details. Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Faculty of Information Technology BUT, 2006. p. 198-205. ISBN: 80-214-3287-X."
+        },
+        {
+            "year": "2005",
+            "citation": "BOUAJJANI, A.; HABERMEHL, P.; ROGALEWICZ, A.; VOJNAR, T. Abstract Regular Tree Model Checking. Proceedings of 7th International Workshop on Verification of Infinite-State Systems -- INFINITY 2005. BRICS Notes Series. Aarhus: Basic Research in Computer Science, Computer Science Departments of the Aarlborg and Aarhus Universities, 2005. no. 4, p. 15-24. ISSN: 0909-3206."
+        },
+        {
+            "year": "2005",
+            "citation": "ROGALEWICZ, A. Towards Applying Mona in Abstract Regular Tree Model Checking. Proceedings of the 11th Conference Student EEICT 2005. Volume 3. Brno: Faculty of Information Technology BUT, 2005. p. 663-667. ISBN: 80-214-2890-2."
+        },
+        {
+            "year": "2004",
+            "citation": "ROGALEWICZ, A.; VOJNAR, T. Tree Automata In Modelling And Verification Of Concurrent Programs. Proceedings of ASIS 2004. Ostrava: Marq software s.r.o., 2004. p. 197-202. ISBN: 80-86840-03-4."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2022",
+            "title": "Low-Level Bi-Abduction (Artifact)",
+            "metadata": "other unclassified results, 2022",
+            "authors": "ROGALEWICZ, A.; SOKOVA, V.; VOJNAR, T.; HOLIK, L.; PERINGER, P.; ZULEGER, F."
+        },
+        {
+            "year": "2022",
+            "title": "Low-Level Bi-Abduction (technical report)",
+            "metadata": "report, 2022",
+            "authors": "HOLIK, L.; PERINGER, P.; ROGALEWICZ, A.; SOKOVA, V.; VOJNAR, T.; ZULEGER, F."
+        },
+        {
+            "year": "2017",
+            "title": "Counterexample Validation and Interpolation-Based Refinement for Forest Automata",
+            "metadata": "report, 2017",
+            "authors": "HRUSKA, M.; HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; VOJNAR, T."
+        },
+        {
+            "year": "2013",
+            "title": "Fully Automated Shape Analysis Based on Forest Automata",
+            "metadata": "report, 2013",
+            "authors": "HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T."
+        },
+        {
+            "year": "2013",
+            "title": "The Tree Width of Separation Logic with Recursive Definitions",
+            "metadata": "report, 2013",
+            "authors": "ROGALEWICZ, A.; SIMACEK, J.; IOSIF, R."
+        },
+        {
+            "year": "2011",
+            "title": "Forest Automata for Verification of Heap Manipulation",
+            "metadata": "report, 2011",
+            "authors": "HOLIK, L.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T.; HABERMEHL, P."
+        }
+    ],
+    "name": "Rogalewicz Adam, doc. Mgr., Ph.D."
+}

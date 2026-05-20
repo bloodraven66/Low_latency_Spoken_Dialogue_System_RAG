@@ -1,0 +1,71 @@
+{
+    "publication": "HRANICKY, R.; ONDRYAS, O.; HORAK, A.; POUC, P.; JERABEK, K.; EBERT, T.; POLISENSKY, J. A Multi-Dimensional DNS Domain Intelligence Dataset for Cybersecurity Research. Data in Brief, 2026, vol. 62, no. October, p. 1-13. Detail KISS, M.; HRADIS, M.; DVORAKOVA, M.; JIROUSEK, V.; KERSCH, F. AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2026. p. 50-66. ISBN: 978-3-032-09370-7. Detail KRAVIC, N.; PAJEVIC, I.; HASANOVIC, M.; DE LEON MARTINEZ, S.; NIEDERKROTENTHALER, T.; VORACEK, M.; DERVIC, K. War orphan age at father loss and resilience in late adolescence. Wiener klinische Wochenschrift, 2026, no. January 2026, 8 p. Detail POLOK, A.; KLEMENT, D.; KOCOUR, M.; HAN, J.; LANDINI, F.; YUSUF, B.; WIESNER, M.; KHUDANPUR, S.; CERNOCKY, J.; BURGET, L. DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition. COMPUTER SPEECH AND LANGUAGE, 2026, vol. 95, no. 1, p. 1-19. Detail RYDLO, S.; ORSAG, F.; GOLDMANN, T.; KOLAR, D. Finger Vein Identification Using Pretrained Feature Matching Networks. IEEE Access, 2026, no. VOLUME 14, 2026, p. 23814-23823. Detail THORBECKE, I.; VILLATORO-TELLO, E.; ZULUAGA, J.; KUMAR, S.; BURDISSO, S.; RANGAPPA, P.; CAROFILIS, A.; MADIKERI, S.; MOTLICEK, P.; PANDIA, K.; HACIOGLU, K.; STOLCKE, A. Unifying Global and Near-Context Biasing in a Single Trie Pass. In Lecture Notes in Artificial Intelligence. Lecture Notes in Computer Science. CHAM: Springer Nature, 2026. p. 170-181. ISBN: 978-3-032-02547-0. Detail VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7. Detail VOJNAR, T.; ZHANG, L. Tools and algorithms for the construction and analysis of systems: a special issue for TACAS 2019. International Journal on Software Tools for Technology Transfer, 2026, vol. 24, no. 1, p. 29-31.",
+    "year": "2026",
+    "title": "A Multi-Dimensional DNS Domain Intelligence Dataset for Cybersecurity Research",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "journal article"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Hranicky Radek, Ing., Ph.D. , DIFS (FIT) Ondryas Ondrej, Ing. , DIFS (FIT) Horak Adam, Ing. Pouc Petr, Ing. Jerabek Kamil, Ing., Ph.D. , DIFS (FIT) Ebert Tomas, Bc. Polisensky Jan, Ing. , DIFS (FIT)"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The escalating sophistication and frequency of cyber threats require advanced solutions in cybersecurity research. Particularly, phishing and malware detection have become increasingly reliant on data-driven approaches. This paper presents a unique dataset precisely curated to bolster research in network security, focusing on the classification and analysis of internet domains. This dataset contains information for over a million internet domains with detailed labels distinguishing between phishing, malware, and benign traffic. Our dataset is distinctive due to its comprehensive compilation of metainformation derived from multiple sources, including DNS records, TLS handshakes and certificates, WHOIS and RDAP services, IP-related data, and geolocation details. Such rich, multi-dimensional data allows for a deeper analysis and understanding of domain characteristics that are critical in identifying and categorizing cyber threats. The integration of information from diverse sources enhances the dataset's utility, providing a holistic view of each domain's footprint and its potential security implications. The data is formatted in JSON, ensuring versatility, accessibility for researchers, and easy integration into various analytical tools and platforms, facilitating ease of use in statistical analysis, machine learning, and other computational analyses. Our dataset's extensive volume and variety surpass any known publicly available resources in this field, making it an invaluable asset for both academic and practical development and testing of cybersecurity solutions. This paper thoroughly describes the value of the data, details the comprehensive methodology employed in the collection process, and provides a clear description of the data structure. Such documentation is crucial for ensuring that the dataset can be effectively utilized and reapplied in a variety of research contexts. Its structured format and the broad range of included features are critical for developing robust cybersecurity solutions and can be adapted for emerging threats."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Domain; DNS; TLS; WHOIS; RDAP; IP; Geolocation; Malware; Phishing"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2026"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "13"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "Data in Brief, vol. 62, no. October, ISSN"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1016/j.dib.2025.112062"
+        },
+        "ut_wos": {
+            "label": "UT WoS",
+            "text": "001580758100003"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-105016781854"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@article{BUT194220, author=\"Radek {Hranicky} and Ondrej {Ondryas} and Adam {Horak} and Petr {Pouc} and Kamil {Jerabek} and Tomas {Ebert} and Jan {Polisensky}\", title=\"A Multi-Dimensional DNS Domain Intelligence Dataset for Cybersecurity Research\", journal=\"Data in Brief\", year=\"2026\", volume=\"62\", number=\"October\", pages=\"13\", doi=\"10.1016/j.dib.2025.112062\", issn=\"2352-3409\", url=\"https://www.sciencedirect.com/science/article/pii/S235234092500784X\" }"
+        },
+        "files": {
+            "label": "Files",
+            "text": "- pdf 1-s2.0-S235234092500784X-main.pdf 2 MB"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Chytre informacni technologie pro odolnou spolecnost , BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed Flow-based Encrypted Traffic Analysis , MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010024, start: 2022-01-01, end: 2025-06-30, completed"
+        },
+        "research_groups": {
+            "label": "Research groups",
+            "text": "NES@FIT - Networks and distributed systems research group (RG NES@FIT)"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Information Systems (DIFS)"
+        }
+    }
+}

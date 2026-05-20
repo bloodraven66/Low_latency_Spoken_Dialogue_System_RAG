@@ -1,0 +1,37 @@
+{
+    "project": "QUAK: Quantum Program Analysis using Automata Toolkit",
+    "title": "QUAK: Quantum Program Analysis using Automata Toolkit",
+    "metadata": {
+        "project_period": "1. 1. 2025 \u2013 31. 12. 2027",
+        "project_type": "grant",
+        "code": "25-18318S",
+        "agency": "Czech Science Foundation",
+        "program": "Standardni projekty"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "QUAK: Analyza kvantovych programu pomoci automatu"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "quantum algorithms;specification languages;formal models;decision diagrams;tree automata;verification;simulation;analysis;logic"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Quantum computing promises solving problems deemed infeasible for classical computers. While certain problems (e.g. factoring) are known to have fast quantum algorithms, development of quantum algorithms for other problems is extremely challenging due to the complexity of understanding quantum programs and reasoning over them. Existing approaches for their verification, analysis, and simulation are limited in their expressivity, precision, scalability, or require significant manual effort. In the project, we will address these limitations by a) developing new formal models capable of compactly encoding structured (sets of) quantum states that occur in quantum programs, building on ideas from automata theory; b) designing languages for describing pre-/post-conditions in quantum programs that will be easy to use and algorithms for their translation into the formal models; and c) proposing new efficient algorithms for automated reasoning over quantum programs that will, together with the two previous goals, push the capabilities of reasoning over quantum programs to a new level."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Lengal Ondrej, doc. Ing., Ph.D. (DITS) \u2013 research leader Ceska Milan, doc. RNDr., Ph.D. (DITS) Havlena Vojtech, Ing., Ph.D. (DITS) Havlik Jakub (DITS) Hecko Michal, Ing. (DITS) Hudak David, Ing. (DITS) Macak Filip, Ing. (DITS) Rogalewicz Adam, doc. Mgr., Ph.D. (DITS) Sic Juraj, Mgr. (DITS) Vasicek Ondrej, Ing. (DITS)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- CHEN, Y.; HAVLENA, V.; HECKO, M.; HOLIK, L.; LENGAL, O. A Uniform Framework for Handling Position Constraints in String Solving. Proceedings of the ACM on Programming Languages-PACMPL, 2025, vol. 9, no. PLDI, p. 550-575. ISSN: 2475-1421. Detail HAVLENA, V.; HECKO, M.; HOLIK, L.; LENGAL, O. Negated String Containment is Decidable. Leibniz International Proceedings in Informatics. Dagstuhl: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2025. p. 1-20. Detail HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B. Complementation of Emerson-Lei Automata. Proceedings of FoSSaCS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 1, p. 88-110. ISSN: 0302-9743. Detail LENGAL, O.; CHEN, Y.; LIN, J.; TSAI, W.; HSIEH, M.; HUANG, W.; CHUNG, K. AutoQ 2.0: From Verification of Quantum Circuits to Verification of Quantum Programs. In Proceedings of TACAS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 15698, p. 87-108. ISSN: 0302-9743. Detail\n- HAVLENA, V.; HECKO, M.; HOLIK, L.; LENGAL, O. Negated String Containment is Decidable. Leibniz International Proceedings in Informatics. Dagstuhl: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2025. p. 1-20. Detail HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B. Complementation of Emerson-Lei Automata. Proceedings of FoSSaCS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 1, p. 88-110. ISSN: 0302-9743. Detail LENGAL, O.; CHEN, Y.; LIN, J.; TSAI, W.; HSIEH, M.; HUANG, W.; CHUNG, K. AutoQ 2.0: From Verification of Quantum Circuits to Verification of Quantum Programs. In Proceedings of TACAS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 15698, p. 87-108. ISSN: 0302-9743. Detail\n- HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B. Complementation of Emerson-Lei Automata. Proceedings of FoSSaCS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 1, p. 88-110. ISSN: 0302-9743. Detail LENGAL, O.; CHEN, Y.; LIN, J.; TSAI, W.; HSIEH, M.; HUANG, W.; CHUNG, K. AutoQ 2.0: From Verification of Quantum Circuits to Verification of Quantum Programs. In Proceedings of TACAS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 15698, p. 87-108. ISSN: 0302-9743. Detail\n- LENGAL, O.; CHEN, Y.; LIN, J.; TSAI, W.; HSIEH, M.; HUANG, W.; CHUNG, K. AutoQ 2.0: From Verification of Quantum Circuits to Verification of Quantum Programs. In Proceedings of TACAS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 15698, p. 87-108. ISSN: 0302-9743. Detail"
+        }
+    }
+}

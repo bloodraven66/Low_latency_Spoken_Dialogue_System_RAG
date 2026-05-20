@@ -1,0 +1,176 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "ikula@fit.vut.cz",
+            "work_phone": "+420 54114 1337",
+            "room": "Q201 DCGM Office",
+            "researcher_id": "ABE-6199-2020",
+            "orcid_id": "0000-0002-5795-5938",
+            "scopus_author_id": "57188749044"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "Best Presentation Award (ICSIP 2016)"
+        ]
+    },
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "PGPa",
+                "title": "Advanced Computer Graphics (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "AI Road Passport",
+            "details": "TACR, 11. verejna soutez Programu prumysloveho vyzkumu a experimentalniho vyvoje TREND, podprogram 2 \u201cNovacci\u201d, FW11020147, start: 2024-07-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "CR - MAIA LABS 2024",
+            "details": "MAIA LABS, start: 2024-06-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Long Life Power Platforms for Internet of Things",
+            "details": "MSMT, Chips Joint Undertaking, 9A23012, start: 2023-06-01, end: 2026-05-31, running"
+        },
+        {
+            "year": "2022",
+            "title": "Dodani navrhu a vyvoj systemu pro rozdelovani vykonu GPU serveru, umistenych v datovych centrech",
+            "details": "start: 2022-04-01, end: 2022-09-30, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Intelligent Sensors for Traffic Monitoring",
+            "details": "EU, OP PIK - Aplikace, EG21_374/0026902, start: 2022-03-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Intelligent Sensors for Traffic Monitoring - Camea SV",
+            "details": "CAMEA, start: 2022-07-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "AI-augmented automation for efficient DevOps, a model-based framework for continuous development At RunTime in cyber-physical systems",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A21015, 101007350, start: 2021-04-01, end: 2024-03-31, running"
+        },
+        {
+            "year": "2021",
+            "title": "SECUSEN II: SECure SENsors - Industrial Intelligence",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/14, start: 2021-06-01, end: 2022-09-30, running"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "SECUre SENsors and data",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/07, start: 2019-09-01, end: 2021-03-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Acceleration of algorithms for software solution of \"Picture in Picture (PinP) - 2\"",
+            "details": "Twistorm, start: 2017-06-01, end: 2017-07-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Acceleration of algorithms for software solution of \"Picture in Picture (PinP)\"",
+            "details": "Twistorm, start: 2017-03-01, end: 2017-05-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "CEPTIS - Computing Embedded Platforms for Traffic, Industry, and Surveillance",
+            "details": "MSMT, EUREKA CZ (2011-2017), LF15012, start: 2015-10-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2506, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Intelligent Management Platform for Advanced Real-Time media processes",
+            "details": "MSMT, Podpora projektu sedmeho ramcoveho programu Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace (2007 az 2013) podle zakona c. 171/2007 Sb., 7E13044, start: 2012-11-01, end: 2015-10-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "V3C - Visual Computing Competence Center",
+            "details": "TACR, Centra kompetence, TE01020415, start: 2012-05-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2023",
+            "citation": "CHLUBNA, T.; MILET, T.; ZEMCIK, P.; KULA, M. Real-Time Light Field Video Focusing and GPU Accelerated Streaming. Journal of Signal Processing Systems for Signal Image and Video Technology, 2023, vol. 95, no. 6, p. 703-719. ISSN: 1939-8115."
+        },
+        {
+            "year": "2023",
+            "citation": "KISS, M.; HRADIS, M.; BENES, K.; BUCHAL, P.; KULA, M. SoftCTC-semi-supervised learning for text recognition using soft pseudo-labels. International Journal on Document Analysis and Recognition, 2023, vol. 2024, no. 27, p. 177-193. ISSN: 1433-2825."
+        },
+        {
+            "year": "2019",
+            "citation": "BARINA, D.; KULA, M.; ZEMCIK, P. Parallel wavelet schemes for images: How to make the wavelet transform friendly to parallel architectures. Journal of Real-Time Image Processing, 2019, vol. 16, no. 5, p. 1365-1381. ISSN: 1861-8200."
+        },
+        {
+            "year": "2017",
+            "citation": "BARINA, D.; KULA, M.; MATYSEK, M.; ZEMCIK, P. Accelerating Discrete Wavelet Transforms on GPUs. In International Conference on Image Processing (ICIP). Beijing: IEEE Signal Processing Society, 2017. p. 2707-2710. ISBN: 978-1-5090-2175-8."
+        },
+        {
+            "year": "2017",
+            "citation": "BARINA, D.; KULA, M.; MATYSEK, M.; ZEMCIK, P. Accelerating Discrete Wavelet Transforms on Parallel Architectures. Journal of WSCG, 2017, vol. 25, no. 2, p. 77-85. ISSN: 1213-6972."
+        },
+        {
+            "year": "2017",
+            "citation": "BARINA, D.; NAJMAN, P.; KLEPARNIK, P.; KULA, M.; ZEMCIK, P. The Parallel Algorithm for the 2D Discrete Wavelet Transform. In Ninth International Conference on Graphic and Image Processing (ICGIP 2017). Proceedings of SPIE. Qingdao: SPIE - the international society for optics and photonics, 2017. no. 4, p. 1-6. ISBN: 978-1-5106-1741-4. ISSN: 0277-786X."
+        },
+        {
+            "year": "2016",
+            "citation": "BARINA, D.; KULA, M.; ZEMCIK, P. Simple Signal Extension Method for Discrete Wavelet Transform. In Proceedings of 2016 IEEE International Conference on Signal and Image Processing. Beijing: Institute of Electrical and Electronics Engineers, 2016. p. 534-538. ISBN: 978-1-5090-2375-2."
+        },
+        {
+            "year": "2016",
+            "citation": "KULA, M.; BARINA, D.; ZEMCIK, P. Block-based Approach to 2-D Wavelet Transform on GPUs. In Information Technology: New Generations. Advances in Intelligent Systems and Computing. Las Vegas, Nevada: Springer International Publishing, 2016. p. 643-653. ISBN: 978-3-319-32467-8."
+        },
+        {
+            "year": "2016",
+            "citation": "KULA, M.; BARINA, D.; ZEMCIK, P. New Non-Separable Lifting Scheme for Images. In Proceedings of 2016 IEEE International Conference on Signal and Image Processing. Beijing: Institute of Electrical and Electronics Engineers, 2016. p. 292-295. ISBN: 978-1-5090-2375-2."
+        },
+        {
+            "year": "2014",
+            "citation": "KUCIS, M.; BARINA, D.; KULA, M.; ZEMCIK, P. 2-D Discrete Wavelet Transform Using GPU. In 5th Workshop on Application for Multi-Core Architectures. Paris: IEEE Computer Society, 2014. p. 1-6. ISBN: 978-1-4799-7014-8."
+        }
+    ],
+    "name": "Kula Michal, Ing., Ph.D."
+}

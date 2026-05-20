@@ -1,0 +1,87 @@
+{
+    "publication": "VISHWANATH, U.; BHATTACHARJEE, T.; DEEKSHITHA, G.; UDUPA, S.; THIRUMALA, K.; KEERTHIPRIYA, M.; CHIKKTIMMEGOWDA, D.; BASKAR, D.; BELUR, Y.; VENGALIL, S.; NALINI, A.; GHOSH, P. Comparison of Acoustic and Textual Features for Dysarthria Severity Classification in Amyotrophic Lateral Sclerosis. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, The Netherlands: Isca-Int Speech Communication Assoc, 2025. p. 803-807. Detail VLCEK, O.; MRAZEK, V. ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing. In 2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD). Munich, Germany: IEEE, 2025. p. 1-8. ISBN: 979-8-3315-1560-7. Detail VLNAS, M.; MILET, T.; ZEMCIK, P. Low-error Reconstruction of Directional Functions with Spherical Harmonics. IEEE transactions on visualization and computer graphics, 2025, vol. 31, no. 10, p. 8413-8424. ISSN: 1077-2626. Detail VOTRUBA, J.; DRAHANSKY, M.; GOLDMANN, T.; BRUHA, T.; KOLAR, R. Non-Contrast Radiation Free NIR Lung Imaging. Biomedicines, 2025, vol. 13, no. 11, p. 1-16. Detail VYKOPAL, I.; OSTERMANN, S.; SIMKO, M. Soft Language Prompts for Language Transfer. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). Albuquerque: Association for Computational Linguistics, 2025. p. 10294-10313. ISBN: 979-8-8917-6189-6. Detail VYKOPAL, I.; PIKULIAK, M.; OSTERMANN, S.; ANIKINA, T.; GREGOR, M.; SIMKO, M. Large Language Models for Multilingual Previously Fact-Checked Claim Detection. Suzhou, China: Association for Computational Linguistics, 2025. p. 15741-15765. ISBN: 979-8-8917-6335-7. Detail XING, B.; YUAN, K.; YU, Z.; LIU, X.; KALVIAINEN, H. AU-TTT: Vision Test-Time Training model for Facial Action Unit Detection. In Proceedings IEEE International Conference on Multimedia and Expo. Proceedings (IEEE International Conference on Multimedia and Expo). IEEE Computer Society, 2025. 11 p. ISBN: 9798331594954. Detail YAN, B.; HAMED, I.; SHIMIZU, S.; LODAGALA, V.; CHEN, W.; IAKOVENKO, O.; TALAFHA, B.; HUSSEIN, A.; POLOK, A.; CHANG, K.; KLEMENT, D.; ALTHUBAITI, S.; PENG, P.; WIESNER, M.; SOLORIO, T.; ALI, A.; KHUDANPUR, S.; WATANABE, S. CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 743-747. Detail YU, Z.; LIU, X.; DAMER, N.; FAN, D.; SHI, J.; GUO, X.; LIN, X.; WEN, B.; KONG, A.; KALVIAINEN, H.; SCHULLER, B.; CAO, X. SVC 2025 Chairs\u2019 Welcome. Svc 2025 Proceedings of the 1st International Workshop and Challenge on Subtle Visual Computing Co Located with mm 2025. Association for Computing Machinery, Inc, 2025. ISBN: 9798400718373. Detail ZAKLOVA, K.; JOHN, P.; JANOSIK, A.; HYNEK, J.; HRUSKA, T. Transparency in Czech Regions: Evaluation of Open Data Availability for Public Awareness. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail ZAVREL, J.; KOUTENSKY, M.; DOLEJSKA, D.; VESELY, V. Tumbling Down the Stairs: Exploiting a Tumbler's Attempt to Hide with Ordinary-looking Transactions using Wallet Fingerprinting. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-9. ISSN: 2666-2817. Detail ZBORIL, F.; VIDENSKY, F.; KOCI, R.; ZBORIL, F. Advanced Evaluation of Variable Binding Strategies in BDI Agents with Integrated Failure Handling. In Agents and Artificial Intelligence. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2025. p. 3-29. ISBN: 978-3-031-87326-3. Detail ZEINALI, H.; LEE, K.; ALAM, J.; BURGET, L. Text-dependent Speaker Verification Challenge 2024: Exploring Shared and User-defined Passphrases. In 2025 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Hyderabad, Indicka republika: Institute of Electrical and Electronics Engineers Inc., 2025. p. 1-5. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; LU, W.; XU, J. Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing. IEEE Transactions on Audio, Speech, and Language Processing, 2025, no. 33, p. 3850-3865. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; XU, J.; LU, W. SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing. IEEE Transactions on Information Forensics and Security, 2025, no. 20, p. 6474-6489. Detail ZHANG, Y.; TIAN, B.; ZHANG, L.; DUAN, Z. PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 5353-5357.",
+    "year": "2025",
+    "title": "Comparison of Acoustic and Textual Features for Dysarthria Severity Classification in Amyotrophic Lateral Sclerosis",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "conference paper"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Vishwanath Upendra Y. S. Bhattacharjee Tanuka Deekshitha G. Udupa Sathvik , FIT (FIT), DCGM (FIT) Thirumala Kumar Chowdam Venkata Keerthipriya Madassu Chikktimmegowda Darshan Baskar Dipti Belur Yamini Vengalil Seena Nalini Atchayaram Ghosh Prasanta Kumar"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "We explore language-agnostic deep text embeddings for severity classification of dysarthria in Amyotrophic Lateral Sclerosis (ALS). Speech recordings are transcribed by human and ASR and embeddings of the transcripts are considered. Though speech recognition accuracy has been studied for grading dysarthria severity, no effort has yet been made to utilize text embeddings of the transcripts. We perform severity classification at different granularity (2, 3, and 5-class) using data obtained from 47 ALS subjects. Experiments with dense neural network based classifiers suggest that, though text features achieve nearly equal performances as baseline speech features, like statistics of mel frequency cepstral coefficients (MFCC), for 2-class classification, speech features outperform for higher number of classes. Concatenation of text embeddings and MFCC statistics attains the best performances with mean F1 scores of 88%, 68%, and 53%, respectively, in 2, 3, and 5-class classification."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Amyotrophic Lateral Sclerosis, dysarthria, severity prediction, acoustic features, textual features"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2025"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "803\u2013807"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "Interspeech, ISSN"
+        },
+        "proceedings": {
+            "label": "Proceedings",
+            "text": "Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH"
+        },
+        "conference": {
+            "label": "Conference",
+            "text": "Interspeech Conference"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "Isca-Int Speech Communication Assoc"
+        },
+        "place": {
+            "label": "Place",
+            "text": "Rotterdam, The Netherlands"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.21437/Interspeech.2025-2767"
+        },
+        "ut_wos": {
+            "label": "UT WoS",
+            "text": "001585350500166"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-105020068990"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@inproceedings{BUT201584, author=\"{} and {} and {} and Sathvik {Udupa} and {} and {} and {} and {} and {} and {} and {} and {}\", title=\"Comparison of Acoustic and Textual Features for Dysarthria Severity Classification in Amyotrophic Lateral Sclerosis\", booktitle=\"Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH\", year=\"2025\", journal=\"Interspeech\", pages=\"803--807\", publisher=\"Isca-Int Speech Communication Assoc\", address=\"Rotterdam, The Netherlands\", doi=\"10.21437/Interspeech.2025-2767\", url=\"https://www.isca-archive.org/interspeech_2025/ys25_interspeech.pdf\" }"
+        },
+        "files": {
+            "label": "Files",
+            "text": "- pdf ys25_interspeech_co-author_sathvik udupa.pdf 281 kB"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat , BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        "research_groups": {
+            "label": "Research groups",
+            "text": "Speech Data Mining Research Group BUT Speech@FIT (RG SPEECH)"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Computer Graphics and Multimedia (DCGM)"
+        }
+    }
+}

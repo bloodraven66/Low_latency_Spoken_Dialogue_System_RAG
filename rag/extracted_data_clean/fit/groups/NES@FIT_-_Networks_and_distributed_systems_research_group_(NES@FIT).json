@@ -1,0 +1,2884 @@
+{
+    "group": "NES@FIT - Networks and distributed systems research group (NES@FIT)",
+    "about": {
+        "nes@fit_-_networks_and_distributed_systems_research_group": [
+            "The focus of the research group is on communication, architecture, and monitoring of computer networks, the design of simulation and verification tools, network security and digital forensics."
+        ],
+        "research_interests": [
+            "Design, specification and analysis of computer communication",
+            "Communication of embedded systems, mobile networking, Internet of Things ( project IGA ).",
+            "Detection and analysis of encrypted traffic ( project ETA , project FETA ).",
+            "Network forensic tools ( project Netfox , project Tarzan )",
+            "IoT monitoring and security ( project Ironstone , project IGA )",
+            "Security of industrial communication ( project Bonnet , project Tractor )",
+            "Design of new network architecture ( project PRISTINE )",
+            "Network modeling and simulation ( project ANSAINET )",
+            "Recursive internetwork architecture (RINA) simulator ( projekt RINASIM )",
+            "Monitoring, security and quality measurement of network communication with focus on voice and video transmissions"
+        ],
+        "cooperation": [
+            "Universite Grenoble Alpes , Grenoble, France",
+            "University of New Haven , New Haven, USA",
+            "Linkoping University , Linkoping, Sweden",
+            "University Strathmore , Nairobi, Kenya",
+            "Hallym University , Chuncheon, South Korea",
+            "Flowmon Networks , Brno, Czech Republic",
+            "Netsearch , Brno, Czech Republic",
+            "CESNET , Czech Republic",
+            "Free Software Foundation , Boston, USA"
+        ],
+        "student_projects": [
+            "Using node reputation to detect cyber threats in the network (MT, Petr Matousek )",
+            "Signature-based detection of application protocols (BT, Jan Pluskal )",
+            "Application protocol recognition using machine learning on the Azure platform (BT/MT, Jan Pluskal )",
+            "Application protocol recognition using machine learning on Google Cloud Platform (BT/MT, Jan Pluskal )",
+            "Automatic extraction of application protocol signatures (MT, Jan Pluskal )",
+            "Advanced visualization of network forensic data (BT/MT, Jan Pluskal )",
+            "Porting Plaso extractors to the Apache Spark platform (MT, Marek Rychly )",
+            "Analysis of encrypted communication using machine learning (BT/MT, Ondrej Rysavy )",
+            "Detection of malware communication from network flows (BT/MT, Ondrej Rysavy )",
+            "Identification of network applications from encrypted communication (BT/MT, Ondrej Rysavy )",
+            "Creating and analyzing context for network flows (BT/MT, Ondrej Rysavy )",
+            "Security analysis of SIEM data (BT/MT, Ondrej Rysavy )",
+            "Detection of phishing sites using machine learning methods (BT/MT, Radek Hranicky )",
+            "Detection of malware domains using machine learning methods (BT/MT, Radek Hranicky )",
+            "Internet censorship (BT/MT, Pavel Ocenasek )",
+            "Anomaly detection in network traffic (BT/MT, Pavel Ocenasek )",
+            "Detection of APT from indicators of compromise (BT/MT, Ondrej Rysavy )",
+            "Cracking passwords with Rainbow Tables on GPUs (BT/MT, Radek Hranicky )",
+            "Automated planning of password attacks (BT, Radek Hranicky )",
+            "Automated generation of password modification rules using machine learning methods (BT/MT, Radek Hranicky )",
+            "Optimization of highly demanding tasks in the Fitcrack system (MT, Radek Hranicky )"
+        ],
+        "": [
+            "Analysis of methods for outlier detection (BT/MT, Ivana Burgetova )",
+            "Dynamic networks with mixed topology using WireGuard protocol (MT, Marek Rychly )",
+            "Mobile application for exporting Android device metrics to Prometheus database (BT, Marek Rychly )",
+            "Prometheus exporter for network devices (BT, Matej Gregr )",
+            "API for processing NetFlow data in Go language (MT, Matej Gregr )",
+            "Port block allocation for address translation in iptables (MT, Matej Gregr )",
+            "Finding the pattern of DDoS attacks from Netflow data (BT/MT, Matej Gregr )",
+            "Stateless NAT for Linux kernel (MT, Matej Gregr )",
+            "Atomic operating system update (BT, Matej Gregr )",
+            "Adaptation of binary distributed software in NixOS (BT, Marek Rychly )",
+            "Idempotent OpenWrt build using Nix (MT, Marek Rychly )",
+            "Integration of different software repositories in Nix (MT, Marek Rychly )",
+            "Raspberry Pi 4 cluster management using Nix with Nix Flakes (MT, Marek Rychly )",
+            "Neural network transformer for natural language processing, AT&T (BT, Petr Matousek )",
+            "Using machine learning for time series prediction in computer communication, AT&T (MT, Petr Matousek )",
+            "Improving Machine Learning Models with Genetic Programming, AT&T (MT, Petr Matousek )"
+        ],
+        "contact": [
+            "Doc. Ing. Ondrej Rysavy, PhD., phone. +420-54114 1108, e-mail:rysavy@fit.vutbr.cz"
+        ],
+        "overview": [
+            "The focus of the research group is on communication, architecture, and monitoring of computer networks, the design of simulation and verification tools, network security and digital forensics."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Rysavy Ondrej, doc. Ing., Ph.D.",
+                "position": "Principal researcher",
+                "notes": [
+                    "security monitoring of computer communication",
+                    "data processing from communication systems",
+                    "design and analysis of distributed applications",
+                    "design of computer protocols",
+                    "digital forensic analysis"
+                ]
+            }
+        ],
+        "member": [
+            {
+                "name": "Burget Radek, doc. Ing., Ph.D.",
+                "position": "Member",
+                "notes": [
+                    "Information Extraction from the Web",
+                    "Semantic web and ontologies",
+                    "Document content segmentation and modelling",
+                    "Information systems technology",
+                    "CSSBox project- an experimental HTML/CSS rendering engine",
+                    "FitLayout- a framework for web document annotation and analysis."
+                ]
+            },
+            {
+                "name": "Burgetova Ivana, Ing., Ph.D.",
+                "position": "Member",
+                "notes": [
+                    "Data mining",
+                    "Data processing",
+                    "Bioinformatics"
+                ]
+            },
+            {
+                "name": "Cejka Rudolf, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Dolejska Daniel, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Gregr Matej, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Horak Adam, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Hranicky Radek, Ing., Ph.D.",
+                "position": "Member",
+                "notes": [
+                    "Cyber Security",
+                    "Machine Learaning",
+                    "Computer Networks",
+                    "Digital Forensics",
+                    "Password Cracking"
+                ]
+            },
+            {
+                "name": "Jerabek Kamil, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Koutensky Michal, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Letavay Viliam, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Lichtner Ondrej, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Marek Marcel, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Matousek Petr, doc. Ing., Ph.D., M.A.",
+                "position": "Member",
+                "notes": [
+                    "Computer networks - management, services, transmission technologies",
+                    "Voice over IP",
+                    "Network Security, modelling and analyzing network security",
+                    "Formal Specification and Verification of RT systems",
+                    "IoT communication and security",
+                    "Security monitoring and traffic analysis of ICS and SCADA systems"
+                ]
+            },
+            {
+                "name": "Mutua Nelson Makau, M.Sc.",
+                "position": "Member",
+                "notes": [
+                    "Anomaly detection of Cyber-Physical Systems.Security monitoring of ICS and SCADA networks.Security monitoring of computer networks.Digital forensic analysis."
+                ]
+            },
+            {
+                "name": "Pluskal Jan, Ing., Ph.D.",
+                "position": "Member",
+                "notes": [
+                    "Programming on the .NET platform - C#",
+                    "Network forensic analysis",
+                    "Machine learning"
+                ]
+            },
+            {
+                "name": "Podermanski Tomas, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Polcak Libor, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Rychly Marek, RNDr., Ph.D.",
+                "position": "Member",
+                "notes": [
+                    "Component-Based Development (CBD) of software systems",
+                    "formal models of information systems' architectures",
+                    "Service-Oriented Architecures (SOA)"
+                ]
+            },
+            {
+                "name": "Skokanova Jana, Mgr.",
+                "position": "Member"
+            },
+            {
+                "name": "Vesely Vladimir, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Zavrel Jan, Ing.",
+                "position": "Member"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "SMLOUVA O SMLUVNIM VYZKUMU - o priprave, validaci a verifikaci dat souvisejicich s provozem kryptomenovych sitich podle parametru",
+            "details": "netsearch s.r.o., start: 2026-01-12, end: 2026-12-31, running"
+        },
+        {
+            "year": "2026",
+            "title": "SMLOUVA O SMLUVNIM VYZKUMU - priprave, validaci a verifikaci dat peeru kryptomenovych siti a moznostech zachytu jejich bezdratoveho provozu",
+            "details": "netsearch s.r.o., start: 2026-01-05, end: 2026-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "COW: Countering privacy-enhancing challenges of cryptocurrencies, OSINT and wireless",
+            "details": "EU, The Internal Security Fund \u2013 Police, 101202767, start: 2025-10-01, end: 2027-09-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "MIXER: Building community interested in cryptocurrency mixers",
+            "details": "MV, Vyhlaseni druhe verejne souteze podprogramu 3, PROGRAMU STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1), PODPROGRAMU 3 ROZVOJ INICIATIVY V BEZPECNOSTNIM VYZKUMU, VJ03030037, start: 2023-06-01, end: 2025-06-30, completed"
+        },
+        {
+            "year": "2022",
+            "title": "TENACITy: Travelling intelligENce Against CrIme and Terrorism",
+            "details": "EU, HORIZON EUROPE, 101074048, start: 2022-09-01, end: 2025-08-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Context-based Encrypted Traffic Analysis Using Flow Data",
+            "details": "TACR, 3. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, PODPROGRAM 1 \u2013 TECHNOLOGICTI LIDRI, FW03010099, start: 2021-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "BLockchain Enabled Deep learning Data analysis",
+            "details": "NS, Prime kontrakty - smluvni vyzkum, neverejne zdroje, start: 2020-01-01, end: 2021-06-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Conformity Assessment Body",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/09, start: 2020-07-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Flexible probe for lawful interceptions",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022143, start: 2019-07-01, end: 2022-09-30, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Security monitoring of ICS communication in the smart grid",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022138, start: 2019-11-01, end: 2022-10-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "TRACTOR: TRaffic Analysis and seCuriTy OpeRations for ICS/SCADA",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/02, start: 2019-05-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "DDoS protection in the CESNET network",
+            "details": "CESNET, start: 2017-08-29, end: 2018-08-28, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Integrated platform for analysis of digital data from security incidents",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020062, start: 2017-01-01, end: 2020-06-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Using network analysis techniques to prevent data loss",
+            "details": "Safetica Service, start: 2017-05-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IRONSTONE - IoT monitoring and forensics",
+            "details": "TACR, Program podpory spoluprace v aplikovanem vyzkumu a experimentalnim vyvoji prostrednictvim spolecnych projektu technologickych a inovacnich agentur DELTA, TF03000029, start: 2016-11-01, end: 2019-10-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Design of a system for testing security in IPv6 networks and processing incidents containing private addresses",
+            "details": "CESNET, start: 2015-06-01, end: 2016-06-30, completed"
+        },
+        {
+            "year": "2014",
+            "title": "PRISTINE: Programmability in RIna for european Supremacy of virTualIzed NEtworks",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, PRISTINE, start: 2014-01-01, end: 2016-10-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Modernization of faculty backbone switch",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR1411/2011/Ac, start: 2011-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "SCADA system for control and monitoring RT processes",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA01010632, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Lab innovation for IP telephony, video conferences, streaming and data analysis using Netflow",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR145/2010/A, start: 2010-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Modern Tools for Detection and Mitigation of Cyber Criminality on the New Generation Internet",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015022, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Automated attack processing",
+            "details": "MPO, TIP, FR-TI1/037, start: 2009-10-01, end: 2013-09-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "TeamIT - Building Competitive Research Teams in IT",
+            "details": "MSMT, Operacni program Vzdelavani pro konkurenceschopnost, EE2.3.09.0067, start: 2009-09-01, end: 2012-08-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "ATLANTIS-DeSIRE^2: Dependable Systems International Research and Educational Experience",
+            "details": "MZ, Ostatni programy MZ, ATLANTIS-DESIRE, start: 2008-10-01, end: 2013-09-30, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Safety and security of networked embedded system applications",
+            "details": "GACR, Standardni projekty, GA102/08/1429, start: 2008-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Training laboratory for network specialists",
+            "details": "FR533/2008/A, start: 2008-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Framework for the deductive analysis of embedded software",
+            "details": "GACR, Postdoktorandske granty, GP201/07/P544, start: 2007-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Increasing of qualification in the area of network security and IP telephony",
+            "details": "215/2007, start: 2007-05-21, end: 2009-09-25, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Industrial Wireless ZigBee Network",
+            "details": "FR2307/2007/G1, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Increasing of qualification in the area of network security and wireless technologies",
+            "details": "CESNET 2006, start: 2006-05-04, end: 2008-05-30, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Ontologies and Semantic Web",
+            "details": "FR2877/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Toward International Learning Environment for Real-Time Safety-Critical Control Systems",
+            "details": "ATLANTIS-ILERT, start: 2006-11-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "A Framework for Formal Specifications and Prototyping of Information System's Network Applications",
+            "details": "GACR, Standardni projekty, GA102/05/0723, start: 2005-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Architectures of Embedded Systems Networks",
+            "details": "GACR, Standardni projekty, GA102/05/0467, start: 2005-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Specialized laboratory of computer networks and distributed systems",
+            "details": "FR1567/2005/A, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Opticka sit narodniho vyzkumu a jeji nove aplikace",
+            "details": "MSMT, Vyzkumna centra (2000-2004), MSM6383917201, start: 2004-01-01, end: 2010-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2026",
+            "details": "HRANICKY, R.; ONDRYAS, O.; HORAK, A.; POUC, P.; JERABEK, K.; EBERT, T.; POLISENSKY, J. A Multi-Dimensional DNS Domain Intelligence Dataset for Cybersecurity Research. Data in Brief, 2026, vol. 62, no. October, p. 1-13. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "BURGETOVA, I.; MATOUSEK, P.; RYSAVY, O. Towards identification of network applications in encrypted traffic. Annals of Telecommunications, 2025, vol. 2025, no. 9, p. 1015-1032. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "HRANICKY, R.; SIROVA, L.; RUCKY, V. Beyond the Dictionary Attack: Enhancing Password Cracking Efficiency through Machine Learning-Induced Mangling Rules. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-10. ISSN: 2666-2817. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "KOUMAR, J.; PESEK, J.; JERABEK, K.; CEJKA, T. Towards Building Network Outlier Detection System for Network Traffic Monitoring. In 38th IEEE/IFIP Network Operations and Management Symposium (NOMS 2025). Honolulu: IEEE Communications Society, 2025. 6 p. ISBN: 979-8-3315-3164-5. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "KOUTENSKY, M.; VESELY, V. Oracleboros: Reusing Hyperledger Fabric Mechanisms to Provide Oracle Functionality. In 2025 7th International Conference on Blockchain Computing and Applications, BCCA 2025. Dubrovnik: Institute of Electrical and Electronics Engineers Inc., 2025. p. 139-144. ISBN: 9798331502966. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "MUTUA, N.; NADJM-TEHRANI, S.; MATOUSEK, P. Penetrating the Power Grid: Realistic Adversarial Attacks on Smart Grid Intrusion Detection Systrems. Critical Information Infrastructures Security. Lecture Notes in Computer Science. Springer Cham: Springer Nature Switzerland AG, 2025. p. 249-268. ISBN: 978-3-031-84259-7. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "POLCAK, L.; MAONE, G.; MCMAHON, M.; BEDNAR, M. Developers\u2019 Insight on Manifest v3 Privacy and Security Webextensions. In International Conference on Web Information Systems and Technologies, WEBIST - Proceedings. Marbella - Spain: SCITEPRESS \u2013 Science and Technology Publications, Lda., 2025. p. 15-26. ISBN: 978-989-758-772-6. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "ZAVREL, J.; KOUTENSKY, M.; DOLEJSKA, D.; VESELY, V. Tumbling Down the Stairs: Exploiting a Tumbler's Attempt to Hide with Ordinary-looking Transactions using Wallet Fingerprinting. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-9. ISSN: 2666-2817. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "BURGETOVA, I.; RYSAVY, O.; MATOUSEK, P. Towards Identification of Network Applications in Encrypted Traffic. In The Proceedings of the 8th Cyber Security in Networking Conference (CSNet 2024). Paris: IEEE Communications Society, 2024. p. 213-221. ISBN: 979-8-3315-3411-0. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HRANICKY, R.; HORAK, A.; POLISENSKY, J.; JERABEK, K.; RYSAVY, O. Unmasking the Phishermen: Phishing Domain Detection with Machine Learning and Multi-Source Intelligence. In Proceedings of IEEE/IFIP Network Operations and Management Symposium 2024. Soul: Institute of Electrical and Electronics Engineers, 2024. p. 1-5. ISBN: 979-8-3503-2794-6. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HRANICKY, R.; HORAK, A.; POLISENSKY, J.; ONDRYAS, O.; JERABEK, K.; RYSAVY, O. Spotting the Hook: Leveraging Domain Data for Advanced Phishing Detection. In 2024 10th International Conference on Network and Service Management (CNSM). Praha: Institute of Electrical and Electronics Engineers, 2024. p. 1-7. ISBN: 978-3-903176-66-9. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "JERABEK, K.; HYNEK, K.; RYSAVY, O. Comparative Analysis of DNS over HTTPS Detectors. Computer Networks, 2024, vol. 247, no. June, p. 1-13. ISSN: 1872-7069. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "KOUTENSKY, M.; VESELY, V.; PERESINI, M.; DOLEJSKA, D.; PLUSKAL, J. Using Blockchain to Secure Passenger Name Records and Effectively Protect Citizen Rights. In 2024 6th Conference on Blockchain Research and Applications for Innovative Networks and Services, BRAINS 2024. Berlin: Institute of Electrical and Electronics Engineers, 2024. p. 1-10. ISBN: 979-8-3503-6784-3. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "MATOUSEK, P.; RYSAVY, O.; BURGETOVA, I. Experience Report: Using JA4+ Fingerprints for Malware Detection in Encrypted Traffic. In Proceedings of 20th International Conference on Network and Service Management. Prague: Institute of Electrical and Electronics Engineers, 2024. p. 1-5. ISBN: 979-8-3315-0515-8. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "BURGET, R. Scraping Data from Web Pages using SPARQL Queries. Web Engineering - 23rd International Conference, ICWE 2023. Lecture Notes in Computer Science. Alicante: Springer Nature Switzerland AG, 2023. p. 293-300. ISBN: 978-3-031-34443-5. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "BURGET, R.; SALEM, H. Creating Searchable Web Page Snapshots using Semantic Technologies. Web Engineering - 23rd International Conference, ICWE 2023. Lecture Notes in Computer Science. Alicante: Springer Nature Switzerland AG, 2023. p. 355-358. ISBN: 978-3-031-34443-5. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "DOLEJSKA, D.; KOUTENSKY, M.; VESELY, V.; PLUSKAL, J. Busting up Monopoly: Methods for Modern Darknet Marketplace Forensics. Forensic Science International: Digital Investigation, 2023, vol. 46, no. 1, p. 1-11. ISSN: 2666-2817. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HAVLENA, V.; MATOUSEK, P.; RYSAVY, O.; HOLIK, L. Accurate Automata-Based Detection of Cyber Threats in Smart Grid Communication. IEEE Transactions on Smart Grid, 2023, vol. 2023, no. 14, p. 2352-2366. ISSN: 1949-3053. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "IMERI, A.; RYSAVY, O. Deep learning for predictive alerting and cyber-attack mitigation. In IEEE 13th Annual Computing and Communication Workshop and Conference, CCWC 2023. Las Vegas: IEEE Computer Society, 2023. p. 476-481. ISBN: 978-3-319-93490-7. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "JERABEK, K.; HYNEK, K.; RYSAVY, O.; BURGETOVA, I. DNS over HTTPS Detection Using Standard Flow Telemetry. IEEE Access, 2023, vol. 2023, no. 11, p. 50000-50012. ISSN: 2169-3536. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "PESEK, J.; PLNY, R.; KOUMAR, J.; JERABEK, K.; CEJKA, T. Augmenting Monitoring Infrastructure For Dynamic Software-Defined Networks. 8th International Conference on Smart and Sustainable Technologies (SpliTech). Split: 2023. p. 1-4. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "POLCAK, L.; JERABEK, K. Data Protection and Security Issues with Network Error Logging. In Proceedings of the 20th International Conference on Security and Cryptography. Rim: SciTePress - Science and Technology Publications, 2023. p. 683-690. ISBN: 978-989-758-666-8. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "POLCAK, L.; SALON, M.; MAONE, G.; HRANICKY, R.; MCMAHON, M. JShelter: Give Me My Browser Back. In Proceedings of the 20th International Conference on Security and Cryptography. Rim: SciTePress - Science and Technology Publications, 2023. p. 287-294. ISBN: 978-989-758-666-8. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "POLCAK, L.; SLEZAKOVA, A. Data Exfiltration by Hotjar Revisited. In Proceedings of the 19th International Conference on Web Information Systems and Technologies. Rim: SciTePress - Science and Technology Publications, 2023. p. 347-354. ISBN: 978-989-758-672-9. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "RADER, R.; JERABEK, K.; RYSAVY, O. Detecting DoH-Based Data Exfiltration: FluBot Malware Case Study. IEEE 48th Conference on Local Computer Networks (LCN). Daytona Beach: IEEE Computer Society, 2023. p. 50-54. ISBN: 979-8-3503-0074-1. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "VONDRACEK, M.; BAGGILI, I.; CASEY, P.; MEKNI, M. Rise of the Metaverse's Immersive Virtual Reality Malware and the Man-in-the-Room Attack & Defenses. COMPUTERS & SECURITY, 2023, vol. 127, no. 1, p. 1-13. ISSN: 0167-4048. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "DOLEJSKA, D.; VESELY, V.; PLUSKAL, J.; KOUTENSKY, M. Shedding Light on Monopoly: Temporal Analysis of Drug Trades. 13th EAI International Conference, ICDF2C 2022, Boston, MA, November 16-18, 2022, Proceedings. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Boston, MA: Springer Nature Switzerland AG, 2022. no. 508, p. 151-168. ISBN: 978-3-031-36573-7. ISSN: 1867-8211. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "JERABEK, K.; HYNEK, K.; CEJKA, T.; RYSAVY, O. Collection of Datasets with DNS over HTTPS Traffic. Data in Brief, 2022, vol. 2022, no. 42, p. 1-13. ISSN: 2352-3409. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "JERABEK, K.; RYSAVY, O.; BURGETOVA, I. Measurement and characterization of DNS over HTTPS traffic. ArXiv.org, 2022, vol. 2022, no. 2204, p. 1-27. ISSN: 2331-8422. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "POLCAK, L.; MATOUSEK, P. Metering Homes: Do Energy Efficiency and Privacy Need to be in Conflict?. In Proceedings of the 19th International Conference on Security and Cryptography. Lisabon: SciTePress - Science and Technology Publications, 2022. p. 47-58. ISBN: 978-989-758-590-6. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "BURGETOVA, I.; MATOUSEK, P.; RYSAVY, O. Anomaly Detection of ICS Communication Using Statistical Models. In Proceedings of the 17th International Conference on Network Service Management (CNSM 2021). Izmir: Institute of Electrical and Electronics Engineers, 2021. p. 166-172. ISBN: 978-3-903176-36-2. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "HOLKOVIC, M.; BOHUS, M.; RYSAVY, O. Network Problem Diagnostics using Typographic Error Correction. In Proceedings of the 17th International Conference on Network Service Management (CNSM 2021). Izmir: Institute of Electrical and Electronics Engineers, 2021. p. 482-490. ISBN: 978-3-903176-36-2. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MATOUSEK, P. Security of Smart Grid Communication. Brno: Faculty of Information Technology BUT, 2021. 150 p. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MATOUSEK, P.; BURGETOVA, I.; RYSAVY, O.; VICTOR, M. On Reliability of JA3 Hashes for Fingerprinting Mobile Applications. In Digital Forensics and Cyber Crime. ICDF2C 2020. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Boston: Springer International Publishing, 2021. p. 1-22. ISBN: 978-3-030-68733-5. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MATOUSEK, P.; HAVLENA, V.; HOLIK, L. Efficient Modelling of ICS Communication For Anomaly Detection Using Probabilistic Automata. In Proceedings of IFIP/IEEE International Symposium on Integrated Network Management. Bordeaux: International Federation for Information Processing, 2021. p. 81-89. ISBN: 978-3-903176-32-4. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MATOUSEK, P.; RYSAVY, O. Teaching ICS Security in Blended Classroom Environment. In Proceedings of the 2021 30th Annual Conference of the European Association for Education in Electrical and Information Engineering (EAEEIE). Prague: Czech Technical University, 2021. p. 148-153. ISBN: 978-1-7281-9324-3. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MATOUSEK, P.; RYSAVY, O.; POLCAK, L. Unified SNMP Interface for IoT Monitoring. In Proceedings of the IM 2021 - 2021 IFIP/IEEE International Symposium on Integrated Network Management. Bordeaux: International Federation for Information Processing, 2021. p. 938-943. ISBN: 978-3-903176-32-4. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MUTUA, N.; MATOUSEK, P. Outlier Detection in Smart Grid Communication. Fast Abstracts and Student Forum Proceedings, 17th European Dependable Computing Conference. Munich: 2021. p. 1-4. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "RYSAVY, O.; MATOUSEK, P. A Network Traffic Processing Library for ICS Anomaly Detection. In ECBS '21: Proceedings of the 7th Conference on the Engineering of Computer Based Systems. Novi Sad: Association for Computing Machinery, 2021. p. 144-151. ISBN: 978-1-4503-9057-6. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "UHLAR, J.; HOLKOVIC, M.; RUSNAK, V. PCAPFunnel: A Tool for Rapid Exploration of Packet Capture Files. In 2021 25TH INTERNATIONAL CONFERENCE INFORMATION VISUALISATION (IV): AI & VISUAL ANALYTICS & DATA SCIENCE. Proceedings. Sydney: IEEE Biometric Council, 2021. no. 10, p. 69-76. ISBN: 978-1-6654-3827-8. ISSN: 2375-0138. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "VESELY, V.; ZAVREL, J. Quality Control Methodology for Simulation Models of Computer Network Protocols. Proceedings of 8th Virutal OMNeT++ Community Summit. ArXiv.org. Ithaca, NY: Cornell University Library, 2021. no. 9, p. 1-19. ISSN: 2331-8422. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HOLKOVIC, M.; BOHUS, M.; RYSAVY, O. Pattern Detection Based Network Diagnostics. In Proceedings of the 17th International Joint Conference on e-Business and Telecommunications. Setubal: SciTePress - Science and Technology Publications, 2020. p. 35-42. ISBN: 978-989-758-445-9. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HOLKOVIC, M.; POLCAK, L.; RYSAVY, O. Application Error Detection in Networks by Protocol Behavior Model. In Communications in Computer and Information Science. Communications in Computer and Information Science. Praha: Springer Verlag, 2020. no. 1, p. 3-28. ISBN: 978-3-030-52685-6. ISSN: 1865-0929. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HOLKOVIC, M.; RYSAVY, O. Using Rule-Based Decision Trees for Automatic Passive Diagnostics of the Network Problems. International Journal on Advances in Networks and Services, 2020, vol. 2020, no. 1, p. 1-10. ISSN: 1942-2644. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HRANICKY, R. Forenzni analyza sifrovanych dat. Data Security Management, 2020, roc. 2020, c. 4, s. 14-18. ISSN: 1211-8737. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KOUTENSKY, M.; VESELY, V.; MAFFIONE, V. Addressing Bandwidth-driven Flow Allocation in RINA. Computers, 2020, vol. 9, no. 3, p. 1-23. ISSN: 2073-431X. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KOUTENSKY, M.; VESELY, V.; MAFFIONE, V. Bandwidth-driven Flow Allocation Policy for RINA. In Proceedings of the 23rd Conference on Innovation in Clouds, Internet and Networks (ICIN 2020). Paris: IEEE Communications Society, 2020. p. 51-56. ISBN: 978-1-7281-5127-4. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "MATOUSEK, P.; RYSAVY, O.; HAVLENA, V.; GREGR, M. Flow based monitoring of ICS communication in the smart grid. Journal of Information Security and Applications, 2020, vol. 2020, no. 54, p. 102535-102535. ISSN: 2214-2126. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "POLCAK, L. Soukromi uzivatelu v prostredi internetove reklamy na ceskem webu. Data Security Management, 2020, roc. 2020, c. 1, s. 11-16. ISSN: 1211-8737. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "POLCAK, L.; RYSAVY, O.; MATOUSEK, P. Identity Linking in Computer Networks. In Proceedings of the 17th International Joint Conference on e-Business and Telecommunications, DCNET, OPTICS, SIGMAP and WINSYS. Setubal: SciTePress - Science and Technology Publications, 2020. p. 45-52. ISBN: 978-989-758-445-9. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "YOUSSEF, S.; RYSAVY, O. Proposed Method for Partial Node Replacement by Software Defined Network. Position Papers of the 2020 Federated Conference on Computer Science and Information Systems. Annals of Computer Science and Information Systems. Annals of Computer Science and Information Systems. Warsaw: Polish Information Processing Society, 2020. no. 9, p. 11-14. ISBN: 978-83-959183-0-8. ISSN: 2300-5963. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HOLKOVIC, M.; RYSAVY, O. Network Diagnostics Using Passive Network Monitoring and Packet Analysis. ICNS 2019. The Fifteenth International Conference on Networking and Services. Athens: The International Academy, Research and Industry Association, 2019. p. 47-51. ISBN: 978-1-61208-711-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HOLKOVIC, M.; RYSAVY, O.; DUDEK, J. Automating Network Security Analysis at Packet-level by using Rule-based Engine. In Proceedings of the Sixth European Conference on the Engineering of Computer-Based Systems. Bucharest: Association for Computing Machinery, 2019. p. 1-8. ISBN: 978-1-4503-7636-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HOLKOVIC, M.; RYSAVY, O.; POLCAK, L. Using Network Traces to Generate Models for Automatic Network Application Protocols Diagnostics. In Proceedings of the 16th International Joint Conference on e-Business and Telecommunications Volume 1: DCNET, ICE-B, OPTICS, SIGMAP and WINSYS. Praha: SciTePress - Science and Technology Publications, 2019. p. 37-47. ISBN: 978-989-758-378-0. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HRANICKY, R.; LISTIAK, F.; MIKUS, D.; RYSAVY, O. On Practical Aspects of PCFG Password Cracking. In Data and Applications Security and Privacy. Lecture Notes in Computer Science. Charleston: Springer Nature Switzerland AG, 2019. no. 11559, p. 43-60. ISBN: 978-3-030-22478-3. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HRANICKY, R.; ZOBAL, L.; RYSAVY, O.; KOLAR, D. Distributed password cracking with BOINC and hashcat. Digital Investigation, 2019, vol. 30, no. 1, p. 161-172. ISSN: 1742-2876. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "JERABEK, K.; RYSAVY, O. Big Data Network Flow Processing Using Apache Spark. In Proceedings of the 6th Conference on the Engineering of Computer Based Systems (ECBS 2019), 2019. Bukurest: Association for Computing Machinery, 2019. p. 1-9. ISBN: 978-1-4503-7636-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "JERABEK, K.; VESELY, V. One of the Ways How to Make RIB Distributed. In Proceedings of the 22nd Conference on Innovation in Clouds, Internet and Networks (ICIN 2019). Pariz: IEEE Communications Society, 2019. p. 49-53. ISBN: 978-1-5386-3458-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "LETAVAY, V.; PLUSKAL, J.; RYSAVY, O. A Scalable Architecture for Network Traffic Forensics. The Fifteenth International Conference on Networking and Services ICNS 2019. Athens: The International Academy, Research and Industry Association, 2019. p. 32-36. ISBN: 978-1-61208-711-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "LETAVAY, V.; PLUSKAL, J.; RYSAVY, O. Network Forensic Analysis for Lawful Enforcement Steroids, Distributed and Scalable. In Proceedings of the 6th Conference on the Engineering of Computer Based Systems (ECBS 2019), 2019. Bucharest: Association for Computing Machinery, 2019. p. 1-10. ISBN: 978-1-4503-7636-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MATOUSEK, P.; RYSAVY, O.; BURGETOVA, I. Extending Networking Curriculum with Applied Artificial Intelligence. In Proceedings of EAEEIE 2019. Ruse: Institute of Electrical and Electronics Engineers, 2019. p. 11-16. ISBN: 978-1-7281-3222-8. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MATOUSEK, P.; RYSAVY, O.; GREGR, M. Increasing Visibility of IEC 104 Communication in the Smart Grid. 6th International Symposium for ICS & SCADA Cyber Security Research 2019. Swindon: BCS Learning and Development Ltd., 2019. p. 21-30. ISBN: 978-1-78017-523-2. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MATOUSEK, P.; RYSAVY, O.; GREGR, M. Security Monitoring of IoT Communication Using Flows. In Proceedings of the 6th Conference on the Engineering of Computer Based Systems. ECBS '19. New York: Association for Computing Machinery, 2019. p. 1-9. ISBN: 978-1-4503-7636-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "PLUSKAL, J.; KOUTENSKY, M.; VONDRACEK, M.; RYSAVY, O. Network Forensic Investigations of Tunneled Traffic: A Case Study. Revue Roumaine des Sciences Techniques-Serie Electrotechnique et Energetique, 2019, vol. 64, no. 4, p. 429-434. ISSN: 0035-4066. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "PLUSKAL, J.; VONDRACEK, M.; RYSAVY, O. Network Forensics in GSE Overlay Networks. In ECBS '19: Proceedings of the 6th Conference on the Engineering of Computer Based Systems. Bukurest: Association for Computing Machinery, 2019. p. 1-10. ISBN: 978-1-4503-7636-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "POLCAK, L. Wireless M-Bus: Kdo vi, ze perete?. Data Security Management, 2019, roc. 2019, c. 4, s. 13-17. ISSN: 1211-8737. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "VESELY, V.; MAREK, M.; JERABEK, K. RINASim. EAI/Springer Innovations in Communication and Computing, 2019, vol. 2019, no. 1, p. 139-181. ISSN: 2522-8595. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "VESELY, V.; MAREK, M.; JERABEK, K.; NOVAK, A. Everything You Always Wanted to Know About BGPv4 in OMNeT++ But Were Afraid to Ask. In Proceedings of 6th OMNeT++ Community Summit. EPiC series in computing. Manchester: EasyChair, 2019. no. 1, p. 1-8. ISSN: 2398-7340. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "VESELY, V.; ZADNIK, M. How to detect cryptocurrency miners? By traffic forensics!. Digital Investigation, 2019, vol. 31, no. 31, p. 1-14. ISSN: 1742-2876. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MATOUSEK, P.; RYSAVY, O.; JAMES, J.; JANG, Y. Interconnecting Education and Research Through International Partnership: IoT Case Study. In 2018 28th EAEEIE Annual Conference, EAEEIE 2018. Hafnarfjordur: Institute of Electrical and Electronics Engineers, 2018. p. 1-6. ISBN: 978-1-5386-7711-7. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MATOUSEK, P.; SCHMIEDECKER, M. Digital Forensics and Cyber Crime. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Cham: Springer International Publishing, 2018. 235 p. ISBN: 978-3-319-73697-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "PLUSKAL, J.; LICHTNER, O.; RYSAVY, O. Traffic Classification and Application Identification in Network Forensics. In Fourteenth Annual IFIP WG 11.9 International Conference on Digital Forensics. IFIP Advances in Information and Communication Technology. New Delhi: Springer International Publishing, 2018. no. 1, p. 161-181. ISBN: 978-3-319-99277-8. ISSN: 1868-4238. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "RYCHLY, M.; RYSAVY, O. Big Data Security Analysis with TARZAN Platform. Journal of Cyber Security and Mobility, 2018, vol. 8, no. 2, p. 165-188. ISSN: 2245-1439. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "VONDRACEK, M.; PLUSKAL, J.; RYSAVY, O. Automated Man-in-the-Middle Attack Against Wi-Fi Networks. Journal of Digital Forensics Security and Law, 2018, vol. 2018, no. 13, p. 59-80. ISSN: 1558-7215. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "HRANICKY, R.; ZOBAL, L.; VECERA, V.; MATOUSEK, P. Distributed Password Cracking in a Hybrid Environment. Proceedings of SPI 2017. Brno: University of Defence in Brno, 2017. p. 75-90. ISBN: 978-80-7231-414-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KARPISEK, F.; BAGGILI, I.; BREITINGER, F. Leveraging the SRTP protocol for over-the-network memory acquisition of a GE Fanuc Series 90-30. Digital Investigation, 2017, vol. 2017, no. 22, p. 26-38. ISSN: 1742-2876. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MAREK, M.; RYSAVY, O.; VESELY, V. Towards analysis of IP communication in a constrained environment of tactical radio networks. In Proceedings of European Conference on the Engineering of Computer Based Systems. Larnaca: Association for Computing Machinery, 2017. p. 50-57. ISBN: 978-1-4503-4843-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MATOUSEK, P.; RYSAVY, O.; ONYANGO, C.; SEVILLA, J. Delivering ICT Security Courses over 5.944 km Experience of Czech-Kenyan Co-operation. In Proceedings of the 27th EAEEIE Annual Conference. Grenoble: Grenoble Institute of Technology, 2017. p. 1-7. ISBN: 978-1-7281-0907-7. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "RYCHLY, M.; RYSAVY, O. TARZAN: An Integrated Platform for Security Analysis. In Proceedings of the 2017 Federated Conference on Computer Science and Information Systems. Annals of Computer Science and Information Systems, Volume 11. Praha: IEEE Computer Society, 2017. p. 561-567. ISBN: 978-83-946253-7-5. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "VESELY, V.; HOLUSA, J.; RYSAVY, O. First-hop Redundancy Protocols in OMNeT++. In Proceedings of the 7th International Conference on Simulation and Modeling Methodologies, Technologies and Applications - Volume 1: SIMULTECH. Madrid: SciTePress - Science and Technology Publications, 2017. p. 331-339. ISBN: 978-989-758-265-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "VESELY, V.; RAJCA, T. Discovering Neighbor Devices in Computer Network - Development of CDP and LLDP Simulation Modules for OMNeT++. Proceedings of 4th OMNeT++ Community Summit. ArXiv.org. Ithaca, NY: Cornell University Library, 2017. no. 10, p. 1-4. ISSN: 2331-8422. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "VONDRACEK, M.; PLUSKAL, J.; RYSAVY, O. Automation of MitM Attack on Wi-Fi Networks. In 9th International Conference on Digital Forensics & Cyber Crime. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering book series (LNICST). Prague: Springer International Publishing, 2017. no. 216, p. 207-220. ISBN: 978-3-319-73696-9. ISSN: 1867-8211. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "GRASA, E.; RYSAVY, O.; LICHTNER, O.; ASGARI, H.; DAY, J.; CHITKUSHEV, L. From protecting protocols to layers: designing, implementing and experimenting with security policies in RINA. In 2016 IEEE International Conference on Communications (ICC). Kuala-Lumpur: Institute of Electrical and Electronics Engineers, 2016. p. 736-742. ISBN: 978-1-4799-6665-3. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "HRANICKY, R.; HOLKOVIC, M.; MATOUSEK, P.; RYSAVY, O. On Efficiency of Distributed Password Recovery. Journal of Digital Forensics Security and Law, 2016, vol. 11, no. 2, p. 79-95. ISSN: 1558-7215. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KARMAZIN, J.; OCENASEK, P. The state of Near-Field Communication (NFC) on the Android platform. In Human Aspects of Information Security, Privacy, and Trust. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Toronto: Springer Verlag, 2016. p. 247-254. ISBN: 978-3-319-39380-3. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "POLCAK, L.; CALDAROLA, L.; CUDA, D.; DONDERO, M.; FICARA, D.; FRANKOVA, B.; HOLKOVIC, M.; CHOUKIR, A.; MUCCIFORA, R.; TRIFILO, A. High Level Policies in SDN. In Communications in Computer and Information Science. Communications in Computer and Information Science. Berlin: Springer International Publishing, 2016. no. 1, p. 39-57. ISBN: 978-3-319-30221-8. ISSN: 1865-0929. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "VESELY, V.; REK, V.; RYSAVY, O. Babel Routing Protocol for OMNeT++ - More than just a new simulation module for INET framework. Proceedings of 3rd OMNeT++ Community Summit. ArXiv.org. Ithaca, NY: Cornell University Library, 2016. no. 9, p. 1-5. ISSN: 2331-8422. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "CALDAROLA, L.; CHOUKIR, A.; CUDA, D.; DONDERO, M.; FICARA, D.; MUCCIFORA, R.; POLCAK, L.; TRIFILO, A. Towards a real application-aware network. In Proceedings of the 6th International Conference on Data Communication Networking (DCNET-2015). Colmar: SciTePress - Science and Technology Publications, 2015. p. 5-12. ISBN: 978-989-758-112-0. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "GREGR, M.; PODERMANSKI, T. Bezpecne IPv6: prilis mnoho sousedu. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "GREGR, M.; PODERMANSKI, T. Bezpecne IPv6: trable s multicastem. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "GREGR, M.; PODERMANSKI, T. Bezpecne IPv6: vicehlavy utocnik. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "GREGR, M.; PODERMANSKI, T. Bezpecne IPv6: zkroceni zlych smerovacu. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "KARPISEK, F.; BAGGILI, I.; BREITINGER, F. WhatsApp network forensics: Decrypting and understanding the WhatsApp call signaling messages. Digital Investigation, 2015, vol. 2015, no. 15, p. 110-118. ISSN: 1742-2876. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MATOUSEK, P.; PLUSKAL, J.; RYSAVY, O.; VESELY, V.; KMET, M.; KARPISEK, F.; VYMLATIL, M. Advanced Techniques for Reconstruction of Incomplete Network Data. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, 2015, vol. 2015, no. 157, p. 69-84. ISSN: 1867-8211. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "OCENASEK, P. Effective Synchronization of Data in Distributed Systems. In Information, Computer and Application Engineering - Proceedings of the International Conference on Information Technology and Computer Application Engineering, ITCAE 2014. Leiden: CRC Press LLC, 2015. p. 177-180. ISBN: 978-1-138-02717-6. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "OCENASEK, P. Information and Communication Management in Business Information Systems. In 2015 International Conference on Simulation, Modelling and Mathematical Statistics (SMMS 2015). Lancaster: DEStech Publications, Inc., 2015. p. 384-388. ISBN: 978-1-60595-112-6. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "OCENASEK, P.; TRCHALIK, R. System for Remote Monitoring of Engineering Services. International Conference on Advances in Manufacturing and Materials Engineering (ICAMME 2014). Chennai: Elsevier Science, 2015. p. 1-3. ISBN: 978-1-63439-365-2. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PLUSKAL, J.; MATOUSEK, P.; RYSAVY, O.; KMET, M.; VESELY, V.; KARPISEK, F.; VYMLATIL, M. Netfox Detective: A tool for advanced network forensics analysis. Proceedings of Security and Protection of Information (SPI) 2015. Brno: University of Defence in Brno, 2015. p. 147-163. ISBN: 978-80-7231-997-8. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODERMANSKI, T.; GREGR, M. Bezpecne IPv6 : smerovac se hlasi. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2014, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODERMANSKI, T.; GREGR, M. Bezpecne IPv6: kdyz dojde kes - obrana. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODERMANSKI, T.; GREGR, M. Bezpecne IPv6: kdyz dojde kes. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODERMANSKI, T.; GREGR, M. Bezpecne IPv6: trable s hlavickami. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODERMANSKI, T.; GREGR, M. Implementujeme Carrier Grade NAT: Necekane nastrahy. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODERMANSKI, T.; GREGR, M. Implementujeme Carrier Grade NAT: Zakon, alternativy a IPv6. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PODERMANSKI, T.; GREGR, M. Implementujeme Carrier Grade NAT: Zalohovani. ROOT, informace nejen ze sveta Linuxu, 2015, roc. 2015, c. 1, s. 1-10. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "POLCAK, L.; FRANKOVA, B. Clock-Skew-Based Computer Identification: Traps and Pitfalls. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2015, vol. 21, no. 9, p. 1210-1233. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "VESELY, V.; MAREK, M.; HYKEL, T.; RYSAVY, O. Skip This Paper - RINASim: Your Recursive InterNetwork Architecture Simulator. Proceedings of 2nd OMNeT++ Community Summit. ArXiv.org. Ithaca, NY: Cornell University Library, 2015. no. 9, p. 1-4. ISSN: 2331-8422. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "VESELY, V.; REK, V.; RYSAVY, O. Enhanced Interior Gateway Routing Protocol with IPv4 and IPv6 Support for OMNeT plus. Advances in Intelligent Systems and Computing, 2015, vol. 402, no. 1, p. 65-82. ISSN: 2194-5357. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "VESELY, V.; RYSAVY, O. Locator/Id Split Protocol Improvement for High-Availability Environment. Proceedings of The Eleventh International Conference on Networking and Services ICNS 2015. Roma: The International Academy, Research and Industry Association, 2015. p. 61-67. ISBN: 978-1-61208-404-6. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "VESELY, V.; RYSAVY, O. Map-Cache Synchronization and Merged RLOC Probing Study for LISP. The International Journal on Advances in Intelligent Systems, 2015, vol. 2015, no. 34, p. 494-506. ISSN: 1942-2679. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "GREGA, W.; HILBURN, T.; KORNECKI, A.; MAYR, R.; PYLE, I.; ROZENBLIT, J.; RYSAVY, O.; SVEDA, M.; ZHANG, L.; ZHANG, L. 2013 Federated Conference on Computer Science and Information Systems - International workshop on Cyber-Physical Systems. In 2013 Federated Conference on Computer Science and Information Systems. Krakow: Elsevier Science, 2014. p. 1-200. ISBN: 978-1-4673-4471-5. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "GREGR, M.; MATOUSEK, P.; PODERMANSKI, T.; SVEDA, M. Practical IPv6 Monitoring on Campus - Best Practice Document. Vedecky sbornik, 2014, vol. 2014, no. 1, p. 1-20. ISSN: 0572-3043. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "GREGR, M.; PODERMANSKI, T.; SVEDA, M. Measuring Quality and Penetration of IPv6 Services. The Tenth International Conference on Networking and Services. 74400 CHAMONIX MONT-BLANC: Institute for Systems and Technologies of Information, Control and Communication, 2014. p. 96-101. ISBN: 978-1-61208-330-8. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "GREGR, M.; SVEDA, M. Challenges with Transition and User Accounting in Next Generation Networks. In Proceedings 2014 IEEE 22nd International Conference on Network Protocols. Raleigh, NC, USA: Institute of Electrical and Electronics Engineers, 2014. p. 501-503. ISBN: 978-1-4799-6203-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HALFAR, P.; SVEDA, M. Cyber-Physical Information Systems for Enterprise Engineering -- Cyber-Physical Applications Timing. In ICEIS Proceedings 2014. Lisabon: Institute for Systems and Technologies of Information, Control and Communication, 2014. p. 1-7. ISBN: 978-989-758-029-1. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HRANICKY, R. Rozsireni systemu pro zakonne odposlechy. Proceedings of the 20th Conference STUDENT EEICT 2014. Volume 2. Brno: Vysoke uceni technicke v Brne, 2014. s. 271-273. ISBN: 978-80-214-4923-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KMET, M. Analyza a detekce typu multimedialnich dat v provozu RTP. Proceedings of the 20th Conference STUDENT EEICT 2014 Volume 2. Brno: Vysoke uceni technicke v Brne, 2014. s. 274-276. ISBN: 978-80-214-4923-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MATOUSEK, P. Sitove sluzby a jejich architektura. Brno: Nakladatelstvi Vysokeho uceni technickeho v Brne VUTIUM, 2014. 396 s. ISBN: 978-80-214-3766-1. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MATOUSEK, P.; KMET, M.; BASEL, M. On-line Monitoring of VoIP Quality Using IPFIX. Advances in Electrical and Electronic Engineering, 2014, vol. 2014, no. 4, p. 325-333. ISSN: 1804-3119. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MATOUSEK, P.; RYSAVY, O.; GREGR, M.; VYMLATIL, M. Towards Identification of Operating Systems from the Internet Traffic. IPFIX Monitoring with Fingerprinting and Clustering. In DCNET2014. Proceedings of the 5th International Conference on Data Communication Networking. Wien: SciTePress - Science and Technology Publications, 2014. p. 21-27. ISBN: 978-989-758-042-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MATOUSEK, P.; RYSAVY, O.; KMET, M. Fast RTP Detection and Codecs Classification in Internet Traffic. Journal of Digital Forensics Security and Law, 2014, vol. 2014, no. 2, p. 99-110. ISSN: 1558-7215. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "PLUSKAL, J. NetFox.Framework - The network forensic extandable analysis tool. Proceedings of the 20th Conference STUDENT EEICT 2014 Volume 2. Brno: Brno University of Technology, 2014. p. 280-282. ISBN: 978-80-214-4923-7. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "PLUSKAL, J.; RYSAVY, O.; VESELY, V. NetFox - The network forensic extandable analysis tool. 6th AFCEA Student Conference Future of Information and Communication Technology. Bucharest: University Politehnica of Bucharest, 2014. p. 68-71. ISBN: 978-606-551-047-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "PODERMANSKI, T.; SVEDA, M. IP45: Architecture, Design and Implementation. In The 22nd IEEE International Conference on Network Protocols (ICNP 2014). The Research Triangle, North Carolina, USA: IEEE Computer Society, 2014. p. 492-494. ISBN: 978-1-4799-6204-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "POLCAK, L. Challenges in Identification in Future Computer Networks. ICETE 2014 Doctoral Consortium. Wien: SciTePress - Science and Technology Publications, 2014. p. 15-24. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "POLCAK, L.; FRANKOVA, B. On Reliability of Clock-Skew-Based Remote Computer Identification. In Proceedings of the 11th International Conference on Security and Cryptography. Wien: SciTePress - Science and Technology Publications, 2014. p. 291-298. ISBN: 978-989-758-045-1. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "POLCAK, L.; HOLKOVIC, M.; MATOUSEK, P. Host Identity Detection in IPv6 Networks. In E-Business and Telecommunications. Communications in Computer and Information Science. Berlin: Springer Verlag, 2014. no. 456, p. 74-89. ISBN: 978-3-662-44787-1. ISSN: 1865-0929. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "POLCAK, L.; HRANICKY, R.; MARTINEK, T. On Identities in Modern Networks. Journal of Digital Forensics Security and Law, 2014, vol. 2014, no. 2, p. 9-22. ISSN: 1558-7215. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "POLCAK, L.; JIRASEK, J.; MATOUSEK, P. Comment on \"Remote Physical Device Fingerprinting\". IEEE Transactions on Dependable and Secure Computing, 2014, vol. 11, no. 5, p. 494-496. ISSN: 1545-5971. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "SVEDA, M. Dependability in Cyber-Physical Systems Network Applications. Proceedings of the 5th International Conference on Circuits, Systems, Control, Signals 2014. Invited Talk. Salerno: North Atlantic University Union, 2014. p. 1-6. ISBN: 978-1-61804-204-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "VESELY, V.; BLOUDICEK, J.; RYSAVY, O. Enhanced Interior Gateway Routing Protocol for OMNeT++. Proceedings of the 4th International Conference on Simulation and Modeling Methodologies, Technologies and Applications (SIMULTECH 2014). Wien: SciTePress - Science and Technology Publications, 2014. p. 50-58. ISBN: 978-989-758-045-1. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "VESELY, V.; MAREK, M.; RYSAVY, O.; SVEDA, M. Multicast, TRILL and LISP Extensions for INET. International Journal on Advances in Networks and Services, 2014, vol. 2014, no. 4, p. 240-251. ISSN: 1942-2644. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "VESELY, V.; RYSAVY, O.; SVEDA, M. Protocol Independent Multicast in OMNeT++. The Tenth International Conference on Networking and Services. 74400 CHAMONIX MONT-BLANC: The International Academy, Research and Industry Association, 2014. p. 132-137. ISBN: 978-1-61208-330-8. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DE SILVA, G.; RYSAVY, O.; MATOUSEK, P.; SVEDA, M. On Formal Reachability Analysis in Networks with Dynamic Behavior. TELECOMMUNICATION SYSTEMS, 2013, vol. 52, no. 2, p. 919-929. ISSN: 1018-4864. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "OCENASEK, P. Effective Design and Implementation of Distributed Business Information Systems. Applied Mechanics and Materials, 2013, vol. 2013, no. 307, p. 451-454. ISSN: 1660-9336. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "OCENASEK, P. Effective Design and Implementation of Distributed Business Information Systems. In Proceedings of 2012 International Conference on Mechatronics and Applied Mechanics. Applied Mechanics and Materials. Hong Kong: National Taiwan University, 2013. no. 12, p. 451-454. ISBN: 978-3-03785-659-8. ISSN: 1660-9336. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "OCENASEK, P. The Practice of Global Internet Filtering. In Human Aspects of Information Security, Privacy, and Trust. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2013. p. 332-337. ISBN: 978-3-642-39344-0. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "OCENASEK, P.; KARMAZIN, J. On the Secure and Safe Data Synchronization. In Human Aspects of Information Security, Privacy, and Trust. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2013. no. 08, p. 326-331. ISBN: 978-3-642-39344-0. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "OCENASEK, P.; SVEDA, M. Communication in Business Information Systems - New Perspectives. International Academic Research Journal of Business and Management, 2013, vol. 1, no. 7, p. 87-92. ISSN: 2227-1287. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "OCENASEK, P.; SVEDA, M. On the Effective Internet Communication Filtering. Applied Mechanics and Materials, 2013, vol. 2013, no. 307, p. 478-481. ISSN: 1660-9336. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "OCENASEK, P.; SVEDA, M. On the Effective Internet Communication Filtering. In Proceedings of the 2012 ICMCM Conference. Applied Mechanics and Materials. Dubaj: Trans Tech Publications Inc., 2013. no. 03, p. 478-481. ISBN: 978-3-03785-659-8. ISSN: 1660-9336. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "RYSAVY, O.; RAB, J.; SVEDA, M. Improving security in SCADA systems through firewall policy analysis. Proceedings of the Federated Conference on Computer Science and Information Systems. Krakow: IEEE Computer Society, 2013. p. 1435-1440. ISBN: 978-1-4673-4471-5. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SVEDA, M. Time in Cyber-Physical Systems: Specifications, Modeling and Measurements. Proceedings of the SCSI 2013. Recent Advances in Electrical Engineering Series, 16. Rhodes Island: European Society for Environmental Research and Sustainable Development, 2013. p. 413-419. ISBN: 978-1-61804-204-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SVEDA, M. Time Specification, Modeling and Measurement in frame of Cyber-Physical System Applications Design. International Journal of Systems Applications, Engineering & Development, 2013, vol. 7, no. 5, p. 263-270. ISSN: 2074-1308. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SVEDA, M.; RYSAVY, O. Dependable Cyber-Physical Systems Networking: An Approach for Real-Time, Software Intensive Systems. Programmable Devices and Embedded Systems. Programmable devices and systems. Volume #12. Laxenburg: IFAC, 2013. no. 11, p. 1-4. ISBN: 978-3-902823-21-2. ISSN: 1474-6670. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SVEDA, M.; VRBA, R. Cyber-Physical Systems Networking with TCP/IP -- A Security Application Approach. IEEE Proceedings AFRICON 2013. New York: Institute of Electrical and Electronics Engineers, 2013. p. 101-106. ISBN: 978-1-4673-5943-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VESELY, V. Map-cache Synchronization for Locator/ID Split Protocol. Proceedings of the 19th Conference Student EEICT 2013 Volume 3. Brno: Fakulta informacnich technologii VUT v Brne, 2013. s. 234-239. ISBN: 978-80-214-4695-3. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VESELY, V. LISP: nove paradigma ve smerovani (1.). ROOT, informace nejen ze sveta Linuxu, 2013, roc. 2013, c. 9, s. 1-6. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VESELY, V. LISP: nove paradigma ve smerovani (2.). ROOT, informace nejen ze sveta Linuxu, 2013, roc. 2013, c. 9, s. 1-6. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VESELY, V. LISP: nove paradigma ve smerovani (3.). ROOT, informace nejen ze sveta Linuxu, 2013, roc. 2013, c. 10, s. 1-6. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VESELY, V. LISP: nove paradigma ve smerovani (4.). ROOT, informace nejen ze sveta Linuxu, 2013, roc. 2013, c. 10, s. 1-6. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VESELY, V. LISP: nove paradigma ve smerovani (5.). ROOT, informace nejen ze sveta Linuxu, 2013, roc. 2013, c. 10, s. 1-6. ISSN: 1212-8309. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VESELY, V.; MATOUSEK, P.; SVEDA, M. Multicast simulation and modeling in OMNeT++. SimuTools '13 Proceedings of the 6th International ICST Conference on Simulation Tools and Techniques. Brussels: International Communication Sciences and Technology Association, 2013. p. 142-145. ISBN: 978-1-4503-2464-9. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VESELY, V.; RYSAVY, O.; SVEDA, M. IPv6 Unicast and IPv4 Multicast Routing in OMNeT++. Proceedings of the IEEE 6th International ICST Conference on Simulation Tools and Techniques. Cannes: International Communication Sciences and Technology Association, 2013. p. 1-4. ISBN: 978-1-936968-47-3. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VESELY, V.; SVEDA, M. Comparison of Proposals Suggesting Internet Architecture Change. Sbornik prispevku Mezinarodni Masarykovy konference pro doktorandy a mlade vedecke pracovniky 2013. Hradec Kralove: Akademicke sdruzeni MAGNANIMITAS Assn., 2013. p. 1-11. ISBN: 978-80-87952-00-9. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "GREGR, M.; PODERMANSKI, T.; SVEDA, M. User identification in IPV6 network. In IP Networking 1 -- Theory and Practice. Zilina: Zilina University Publisher, 2012. p. 5-8. ISBN: 978-80-554-0494-3. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "HALFAR, P.; RAB, J.; RYSAVY, O.; SVEDA, M. A Formal Authorization Framework for Networked SCADA Systems. Proceedings IEEE ECBS 2012. Novy Sad: IEEE Computer Society, 2012. p. 298-302. ISBN: 978-0-7695-4664-3. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "HALFAR, P.; SVEDA, M. Networking in Cyber Physical Systems - A Concept Study. Proceedings of the International Workshop of Cyber Physical Systems. Bucharest: Romanian Academy, Publishing House of the Romanian Academy, 2012. p. 50-53. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "HRANICKY, R. Podvrzena data v pocitacovych sitich. Proceedings of the 18th Conference Student EEICT 2012. Volume 1. Brno: Vysoke uceni technicke v Brne, 2012. s. 164-166. ISBN: 978-80-214-4460-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "OCENASEK, P.; HRANAC, J. Design of Authentication and Key Distribution Protocols with Routing Functionality. Journal of Information & Communication Technology, 2012, vol. 5, no. 1, p. 1-11. ISSN: 1816-613X. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "OCENASEK, P.; MICHAL, L. Automation of Authentication and Key Distribution Schemes Design based on Trace Formulae. Applied Mechanics and Materials, 2012, vol. 2012, no. 157, p. 870-873. ISSN: 1660-9336. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "OCENASEK, P.; MICHAL, L. Automation of Authentication and Key Distribution Schemes Design based on Trace Formulae. In Proceedings of 2011 International Conference on Mechatronics and Applied Mechanics (ICMAM 2011). Applied Mechanics and Materials. Hongkong: Trans Tech Publications Inc., 2012. no. 03, p. 870-873. ISBN: 978-3-03785-380-1. ISSN: 1660-9336. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "OCENASEK, P.; SVEDA, M. Analysis and Filtering of Network Communication in ISP Firewalls. Proceedings of the Third International Conference on Theoretical and Mathematical Foundations of Computer Science. Denpasar: Information Engineering Research Institute, 2012. p. 1-4. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "OCENASEK, P.; SVEDA, M. Communication in Business Information Systems - New Perspectives. Proceedings of ARC 2012 International Conference on Business and Management. Bangalore: Siemens, Corporate Research and Development, 2012. p. 257-262. ISBN: 978-0-615-73960-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "OCENASEK, P.; SVEDA, M. Analysis and Filtering of Network Communication in ISP Firewalls. Lecture Notes in Information Technology, 2012, vol. 2012, no. 38, p. 491-494. ISSN: 2070-1918. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "PLUSKAL, J. Analyza a rekonstrukce komunikace typu instant messaging (YMSG a ICQ). Proceedings of the 18th Conference Student EEICT 2012 Volume 1. Brno: Fakulta informacnich technologii VUT v Brne, 2012. s. 176-178. ISBN: 978-80-214-4460-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "RYSAVY, O.; SVEDA, M.; VRBA, R. A Framework for Cyber-Physical Systems Design - A Concept Study. Proceedings ICONS 2012. Saint Gilles, Reunion Island: International Academy, Research, and Industry Association, 2012. p. 79-82. ISBN: 978-1-61208-184-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SVEDA, M.; RYSAVY, O.; DE SILVA, G.; MATOUSEK, P.; RAB, J. Static Analysis of Routing and Firewall Policy Configurations. In e-Business and Telecommunications. Communications in Computer and Information Science. LNCS CCIS, Vol.222. Heidelberg: Springer Science+Business Media B.V., 2012. no. 222, p. 39-53. ISBN: 978-3-642-25205-1. ISSN: 1865-0929. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SVEDA, M.; SEKLETAR, M.; FIDLER, T.; RYSAVY, O. A High-level Network-wide Router Configuration Language. Proceedings ICN 2012. Saint Gilles, Reunion Island: International Academy, Research, and Industry Association, 2012. p. 18-21. ISBN: 978-1-61208-183-0. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "TRCHALIK, R.; SVEDA, M. Unified Sensor Gateway Interconnection of Sensor Networks. Proceedings 11th IFAC/IEEE International Conference on Programmable Devices and Embedded Sy. Programmable devices and systems. Programmable Devices and Embedded Systems, Volume # 11 | Part# 1. Brno: Faculty of Electrical Engineering and Communication BUT, 2012. no. 11, p. 372-377. ISBN: 978-3-902823-21-2. ISSN: 1474-6670. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VESELY, V. Comparison Study on Merging PCAP Files. Proceedings of the 18th Conference Student EEICT 2012 Volume 3. Brno: Fakulta informacnich technologii VUT v Brne, 2012. s. 457-461. ISBN: 978-80-214-4462-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VESELY, V. Extended Comparison Study on Merging PCAP Files. ElectroScope, 2012, roc. 2012, c. 5, s. 1-6. ISSN: 1802-4564. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VESELY, V.; MATOUSEK, P.; SVEDA, M. Multicast Simulation and Modeling in OMNeT++. Proceedings of the IEEE 5th International ICST Conference on Simulation Tools and Techniques. Desenzano del Garda: International Communication Sciences and Technology Association, 2012. p. 298-301. ISBN: 978-1-936968-47-3. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VESELY, V.; SVEDA, M. L2 protocols in OMNeT++. In IP Networking 1 -- Theory and Practice. Zilina: Zilina University Publisher, 2012. p. 37-40. ISBN: 978-80-554-0494-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ELICH, M.; GREGR, M.; CELEDA, P. Monitoring of Tunneled IPv6 Traffic Using Packet Decapsulation and IPFIX. Traffic Monitoring and Analysis. Lecture Notes in Computer Science. Vienna: Springer Verlag, 2011. p. 64-71. ISBN: 978-3-642-20304-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "GREGR, M.; MATOUSEK, P.; PODERMANSKI, T.; SVEDA, M. Practical IPv6 Monitoring - Challenges and Techniques. Proceedings of the 12th IFIP/IEEE International Symposium on Integrated Network Management (IM 2011). Dublin: IEEE Computer Society, 2011. p. 660-663. ISBN: 978-1-4244-9220-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "OCENASEK, P. An Approach for Security Protocol Design Based on Zero-knowledge Primitives Composition. Human Interface and the Management of Information. Interacting with Information. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2011. p. 374-378. ISBN: 978-3-642-21792-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "OCENASEK, P. Analysis of Authentication Protocols with Scyter: Case Study. Human Interface and the Management of Information. Interacting with Information. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2011. p. 359-365. ISBN: 978-3-642-21792-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "OCENASEK, P. Specification of Traces in the Security Protocols Analysis. Proceedings of 33rd International Conference on INFORMATION TECHNOLOGY INTERFACES. Dubrovnik: Institute of Electrical and Electronics Engineers, 2011. p. 115-118. ISBN: 978-953-7138-20-2. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "OCENASEK, P.; HRANAC, J. Routing Functionality in the Logic Approach for Authentication Protocol Design. Human Interface and the Management of Information. Interacting with Information. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2011. p. 366-373. ISBN: 978-3-642-21792-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "OCENASEK, P.; TRCHALIK, R. Approaches to the Security and Payment Protocols Design: State of the Art. International Conference on INFORMATION TECHNOLOGY INTERFACES. Dubrovnik: Institute of Electrical and Electronics Engineers, 2011. p. 1-4. ISBN: 978-953-7138-21-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PODERMANSKI, T. IPv6 - bezpecnostni hrozby (aneb IPSec to srovna). Sbornik prispevku z 38. konference EurOpen.CZ, 8.-11. kvetna 2011. Plzen: Ceska spolecnost uzivatelu otevrenych systemu EurOpen.CZ, 2011. s. 37-50. ISBN: 978-80-86583-21-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PODERMANSKI, T. IPv6 Myty a skutecnost, dil I. - Jak jsme na tom. Lupa, 2011, roc. 2011, c. 1, 9 s. ISSN: 1213-0702. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PODERMANSKI, T. IPv6 Myty a skutecnost, dil II. - Adresovy prostor. Lupa, 2011, roc. 2011, c. 1, 9 s. ISSN: 1213-0702. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PODERMANSKI, T. IPv6 Myty a skutecnost, dil IX. - Quo Vadis, IPv6?. Lupa, 2011, roc. 2011, c. 1, 9 s. ISSN: 1213-0702. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PODERMANSKI, T. IPv6 Myty a skutecnost: dil III. - podpora end-to-end sluzeb. Lupa, 2011, roc. 2011, c. 1, 9 s. ISSN: 1213-0702. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PODERMANSKI, T.; GREGR, M. IPv6 Myty a skutecnost, dil IV. - Podpora autokonfigurace. Lupa, 2011, roc. 2011, c. 1, 9 s. ISSN: 1213-0702. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PODERMANSKI, T.; GREGR, M. IPv6 Myty a skutecnost, dil V. - Zjednodusene hlavicky. Lupa, 2011, roc. 2011, c. 1, 6 s. ISSN: 1213-0702. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PODERMANSKI, T.; GREGR, M. IPv6 Myty a skutecnost, dil VI. - Bezpecnostni mechanizmy. Lupa, 2011, roc. 2011, c. 1, 6 s. ISSN: 1213-0702. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PODERMANSKI, T.; GREGR, M. IPv6 Myty a skutecnost, dil VIII. - Prechodove mechanizmy. Lupa, 2011, roc. 2011, c. 1, 7 s. ISSN: 1213-0702. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PODERMANSKI, T.; VESELY, V. IPv6 Myty a skutecnost, dil VII. - Podpora Multicast a anycast provozu. Lupa, 2011, roc. 2011, c. 1, 10 s. ISSN: 1213-0702. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "POLCAK, L. Designing Lawful Interception System. Proceedings of the 17th Conference STUDENT EEICT 2011 Volume 3. Brno: Faculty of Information Technology BUT, 2011. p. 569-573. ISBN: 978-80-214-4273-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "POLCAK, L.; GREGR, M.; KAJAN, M.; MATOUSEK, P.; VESELY, V. Designing Lawful Interception in IPv6 Networks. Security and Protection of Information. Brno: University of Defence in Brno, 2011. p. 114-126. ISBN: 978-80-7231-777-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SVEDA, M. Design Experience with Routing SW and Related Applications. Proceedings of The Tenth International Conference on Networks - ICN 2011. St. Maarten: International Academy, Research, and Industry Association, 2011. p. 133-138. ISBN: 978-1-61208-002-4. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SVEDA, M.; RYSAVY, O.; DE SILVA, G.; MATOUSEK, P.; RAB, J. Reachability Analysis in Dynamically Routed Networks. Proceedings of the IEEE ECBS 2011. Piscataway, NJ: IEEE Computer Society, 2011. p. 197-205. ISBN: 978-0-7695-4379-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SVEDA, M.; RYSAVY, O.; MATOUSEK, P. Supporting Safe and Secure Networked System Design. Computer Aided Systems Theory (EUROCAST 11), Extended Abstracts. Las Palmas de Gran Canaria: The Universidad de Las Palmas de Gran Canaria, 2011. p. 22-23. ISBN: 978-84-693-9560-8. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SVEDA, M.; VRBA, R. A Cyber-Physical System Design Approach. Proceedings of The Sixth International Conference on Systems - ICONS 2011. St. Maarten: International Academy, Research, and Industry Association, 2011. p. 12-18. ISBN: 978-1-61208-002-4. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VOGEL, I.; OCENASEK, P.; ZEDEK, F. Computational molecular evolution - from mathematical models to novel distance metric based on intra-group analysis. EDS '11 IMAPS CS International Conference Proceedings. Brno: Brno University of Technology, 2011. p. 264-269. ISBN: 978-80-214-4303-7. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VOGEL, I.; ZEDEK, F.; OCENASEK, P. Constructing Phylogenetic Trees Based on Intra-Group Analysis of Human Mitochondrial DNA. In Human Interface and the Management of Information. Interacting with Information. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2011. no. 1, p. 165-169. ISBN: 978-3-642-21792-0. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "GREGR, M. Portscan detection using NetFlow data. Proceedings of the 16th Conference Student EEICT 2010 Volume 5. Brno: Faculty of Information Technology BUT, 2010. p. 229-233. ISBN: 978-80-214-4080-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KORNECKI, A.; GREGA, W.; HILBURN, T.; THIRIET, J.; SVEDA, M.; RYSAVY, O.; PILAT, A. Transatlantic Engineering Programs: An Experience in International Cooperation. In Safeeullah Soomro (Editor): Engineering the Computer Science and IT. 2010. Vienna: IN-TECH Education and Publishing, 2010. p. 65-84. ISBN: 978-953-307-012-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "MATOUSEK, P.; RYSAVY, O.; DE SILVA, G.; DANKO, M. Combination of Simulation and Formal Methods to Analyse Network Survivability. Proceedings of the IEEE 3rd International ICST Conference on Simulation Tools and Techniques. Malaga: International Communication Sciences and Technology Association, 2010. p. 150-155. ISBN: 978-963-9799-87-5. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "OCENASEK, P. Automated Design of Authentication and Key Distribution Protocols. Brno: Department of Information Systems FIT BUT, 2010. 113 p. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "OCENASEK, P. On the Design of Communication in Business Information Systems. Proceedings of 2010 International Conference on Economics, Business and Management. Chengdu: Institute of Electrical and Electronics Engineers, 2010. p. 98-101. ISBN: 978-1-4244-9202-2. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "OCENASEK, P.; FELIX, M. Camera and Sensor Monitoring System. EDS '10 IMAPS CS International Conference Proceedings. Brno: Brno University of Technology, 2010. p. 241-245. ISBN: 978-80-214-4138-5. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "OCENASEK, P.; HRANAC, J. Regression Based Logic for Authentication Protocol Design. 2010 International Conference on Communication and Vehicular Technology. Chengdu: Institute of Electrical and Electronics Engineers, 2010. p. 89-92. ISBN: 978-1-4244-9674-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "OCENASEK, P.; KUCEROVA, P. Analysis of Selected Payment Protocols. EDS '10 IMAPS CS International Conference Proceedings. Brno: Brno University of Technology, 2010. p. 235-240. ISBN: 978-80-214-4138-5. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "OCENASEK, P.; PAPEZ, Z. A Knowledge-Belief Approach to the Security Protocol Analysis. 2010 International Conference on Communication and Vehicular Technology. Chengdu: Institute of Electrical and Electronics Engineers, 2010. p. 85-88. ISBN: 978-1-4244-9674-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "PODERMANSKI, T. Je libo IPv6 na prepinacich HP ProCurve ?. Lupa, 2010, roc. 2010, c. 1, 5 s. ISSN: 1213-0702. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "PODERMANSKI, T. Redundance od sitove vrstvy az po zarizeni (Maximum pro sitovou jistotu). Journal CONNECT!, 2010, roc. 10, c. 4, s. 18-20. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SVEDA, M. Fault Management Driven Design with Safety and Security Requirements. Proceedings 17th IEEE International Conference and Workshops on Engineering of Computer-Based Systems ECBS 2010. Oxford: IEEE Computer Society, 2010. p. 113-120. ISBN: 978-0-7695-4005-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SVEDA, M. NETWORK CONVERGENCY AND MODELING -- Design Experience with Routing SW for Intranets and Fieldbusses. Proceedings of the Fifth International Conference on Software and Data Technologies, ICSOFT 2010. Athens: Institute for Systems and Technologies of Information, Control and Communication, 2010. p. 173-178. ISBN: 978-989-8425-22-5. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SVEDA, M.; RYSAVY, O.; MATOUSEK, P.; RAB, J. An Approach for Automated Network-Wide Security Analysis. Proceedings of the Ninth International Conference on Networks ICN 2010. Les Menuires: IEEE Computer Society, 2010. p. 294-299. ISBN: 978-0-7695-3979-9. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SVEDA, M.; RYSAVY, O.; MATOUSEK, P.; RAB, J.; CEJKA, R. SECURITY ANALYSIS OF TCP/IP NETWORKS -- An Approach to Automatic Analysis of Network Security Properties. Proceedings of the International Conference on Data Communication Networking ICETE-DCNET 2010. Athens: Institute for Systems and Technologies of Information, Control and Communication, 2010. p. 5-11. ISBN: 978-989-8425-25-6. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SVEDA, M.; TRCHALIK, R. Development of Interconnecting SW for Intranets and Fieldbuses. Programmable devices and systems, 2010, vol. 2010, no. 10, p. 119-124. ISSN: 1474-6670. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SVEDA, M.; VRBA, R. An Embedded Application Regarded as a Cyber-Physical System. Proceedings of the Fifth International Conference on Systems ICONS 2010. Les Menuires: IEEE Computer Society, 2010. p. 170-174. ISBN: 978-0-7695-3980-5. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "VESELY, V. Security Issues of Bootstrap Router Mechanism in Protocol Independent Multicast. Proceedings of the 16th Conference Student EEICT 2010 Volume 5. Brno: Faculty of Information Technology BUT, 2010. p. 239-243. ISBN: 978-80-214-4080-7. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "GREGA, W.; HILBURN, T.; KORNECKI, A.; RYSAVY, O.; SVEDA, M.; THIRIET, J. Methodology for Creation of Multidisciplinary, Transatlantic Engineering Program in Information Technology. Proceedings of the European Association for Education in Electrical and Information Engineering Council's Annual Conference 2009. Valencia: Politechnical University of Valencia, 2009. p. 1-5. ISBN: 978-84-8363-428-8. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KORNECKI, A.; HILBURN, T.; GREGA, W.; SVEDA, M.; THIRIET, J. ILERT - International Learning Environment for Real-Time Software-Intensive Control Systems. Journal of Automation, Mobile Robotics and Intelligent Systems, 2009, vol. 3, no. 1, p. 66-71. ISSN: 1897-8649. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "OCENASEK, P. An Approach for the Design of Secure Communication in Embedded Systems. Human Interface and the Management of Information. Designing Information Environments. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2009. p. 579-586. ISBN: 978-3-642-02555-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "OCENASEK, P. Towards Security Issues in ZigBee Architecture. Human Interface and the Management of Information. Designing Information Environments. Berlin: Springer Verlag, 2009. p. 587-593. ISBN: 978-3-642-02555-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "OCENASEK, P. Universal Access to the Internet Web Pages for Users with Special Needs. Universal Access in Human-Computer Interaction. Applications and Services. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2009. p. 764-767. ISBN: 978-3-642-02712-3. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "OCENASEK, P.; KUCEROVA, P. Payment Protocols Verification: A Case Study. EDS '09 IMAPS CS International Conference Proceedings. Brno: Brno University of Technology, 2009. p. 38-43. ISBN: 978-80-214-3933-7. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "OCENASEK, P.; SVEDA, M. A Model for Measurement and Analysis of the Workflow Processes. Human Interface and the Management of Information. Designing Information Environments. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2009. p. 149-153. ISBN: 978-3-642-02555-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "OCENASEK, P.; SVEDA, M. AVISPA: Towards Practical Verification of Communication Properties. Proceedings 9th IFAC International Conference on Programmable Devices and Embedded Systems. Programmable devices and systems. Programmable Devices and Embedded Systems, Volume # 9 | Part# 1. Ostrava: IFAC, 2009. no. 2, p. 153-156. ISBN: 978-3-902661-41-8. ISSN: 1474-6670. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "OCENASEK, P.; TRCHALIK, R.; SVEDA, M. On the Implementation of Metrics in Industrial Embedded Systems. Proceedings 9th IFAC International Conference on Programmable Devices and Embedded Systems. Programmable devices and systems. Programmable Devices and Embedded Systems, Volume # 9 | Part# 1. Ostrava: IFAC, 2009. no. 2, p. 157-160. ISBN: 978-3-902661-41-8. ISSN: 1474-6670. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "RYSAVY, O.; RAB, J. A Formal Model of Composing Components: The TLA+ Approach. Innovations in Systems and Software Engineering, 2009, vol. 5, no. 2, p. 139-149. ISSN: 1614-5046. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVEDA, M. Fault Management for Secure Embedded Systems. International Conference on Systems Proceedings, ICONS 2009. New York, NY: IEEE Computer Society, 2009. p. 23-28. ISBN: 978-0-7695-3551-7. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVEDA, M. Safe and Secure Networked Embedded Applications. Proceedings of the 4th International Conference on Broadband Communication. Wroclaw: Institute of Electrical and Electronics Engineers, 2009. p. 137-142. ISBN: 978-83-7493-405-3. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVEDA, M.; KORNECKI, A.; HILBURN, T.; GREGA, W.; THIRIET, J.; RYSAVY, O. Real-Time Software-Intensive Systems Engineering: An International Perspective. European Association for Education in Electrical and Information Engineering Council's Annual Conference 2009. Valencia: Politechnical University of Valencia, 2009. p. 1-6. ISBN: 978-84-8363-428-8. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVEDA, M.; TRCHALIK, R.; OCENASEK, P. Design of Networked Embedded Systems: An Approach for Safety and Security. Preprints of IFAC Workshop on PROGRAMMABLE DEVICES and EMBEDDED SYSTEMS PDeS 2009. Programmable devices and systems. Ostrava: IFAC, 2009. no. 2, p. 131-136. ISSN: 1474-6670. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVEDA, M.; VRBA, R. Specifications of Secure and Safe Embedded System Networks. 8th International Conference on Networks Proceedings ICN 2009. New York, NY: IEEE Computer Society, 2009. p. 220-225. ISBN: 978-0-7695-3552-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SVEDA, M.; VRBA, R. Meta-Design with Safe and Secure Embedded System Networking. International Journal On Advances in Security., 2009, vol. 2, no. 1, p. 8-15. ISSN: 1942-2636. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "THIRIET, J.; HILBURN, T.; KORNECKI, A.; GREGA, W.; SVEDA, M. Organization of a US-European Trans-national Degree in Engineering. J3eA - Journal sur l'enseignement des sciences et technologies de l'information et des systemes, 2009, vol. 2009, no. 1, p. 1-7. ISSN: 1638-1963. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "TRCHALIK, R. A Component-Based model for Embedded Software. EDS '09 IMAPS CS International Conference Proceedings. Brno, CZ: Brno University of Technology, 2009. p. 1-5. ISBN: 978-80-214-3933-7. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "CEJKA, R. Nekempujte v serverovne (recenze vzdalenych konzol Raritan). Journal CONNECT!, 2008, roc. 2008, c. 5, s. 44-45. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "CEJKA, R. Zalohovanim ke klidnejsimu spanku (recenze CA ARCserve Backup r12). Journal CONNECT!, 2008, roc. 2008, c. 7, s. 57-59. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HILBURN, T.; KORNECKI, A.; THIRIET, J.; GREGA, W.; SVEDA, M. An RSIC-SE2004 Curriculum Framework. IEEE Proceedings of International Multiconference on Computer Science and Information Technology - Real-Time Software. Computer Science and Information Technology. Wisla: IEEE Computer Society, 2008. no. 3, p. 633-638. ISBN: 978-83-60810-14-9. ISSN: 1896-7094. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HILBURN, T.; THIRIET, J.; KORNECKI, A.; GREGA, W.; SVEDA, M. Credits and Accreditation in the U.S.A. and Europe: Towards a Framework for Trans-national Engineering Degrees. Inovations, 2008, vol. 2008, no. 1, p. 29-42. ISSN: 1553-9911. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KORNECKI, A.; HILBURN, T.; GREGA, W.; THIRIET, J.; SVEDA, M. A COMMON US-EUROPE CURRICULUM: An Approach for Real-Time Software Intensive Systems. Proceedings of the 2008 ASEE Anual Conference & Exposition. Pittsburgh, PA: American Society for Engineering Education, 2008. p. 1359-1371. ISBN: 0-87823-196-X. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "MATOUSEK, P.; RYSAVY, O.; RAB, J.; SVEDA, M. A Formal Model for Network-wide Security Analysis. Proceeding of the 15 IEEE International Symposium and Workshop on the Engineering of Computer-based Systems. Belfast: University of Ulster, 2008. p. 171-181. ISBN: 0-7695-3141-5. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "OCENASEK, P. A Proxy-Based System for Translation of Internet Content into Specific Form. Computer-Human Interaction. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 413-419. ISBN: 978-3-540-70584-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "OCENASEK, P. Modification of Web Content According to the User Requirements. Technologies for E-Learning and Digital Entertainment. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 324-327. ISBN: 978-3-540-69734-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "OCENASEK, P.; BRENER, R. Financial Portal: system pro sledovani a analyzu financniho trhu. Management, Economics and Business Development in the New European Conditions. Brno: Akademicke nakladatelstvi CERM sro., 2008. s. 1-9. ISBN: 978-80-7204-582-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "OCENASEK, P.; KUCEROVA, P. Srovnani platebnich systemu v CR a zahranici. Management, Economics and Business Development in the New European Conditions. Brno: Akademicke nakladatelstvi CERM sro., 2008. s. 1-10. ISBN: 978-80-7204-582-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "OCENASEK, P.; TRCHALIK, R. Using AVISPA in the Education of Network Security. EDS '08 IMAPS CS International Conference Proceedings. Brno: Brno University of Technology, 2008. p. 1-8. ISBN: 978-80-214-3717-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "PILAT, A.; KORNECKI, A.; THIRIET, J.; GREGA, W.; SVEDA, M. Industry Feedback on Skills and Knowledge in Real-Time Software Engineering. Proceedings of the 19th EAEEIE Annual Conference. Tallin: IEEE Computer Society, 2008. p. 129-133. ISBN: 978-1-4244-2009-4. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "RYSAVY, O.; RAB, J. A Component-based Approach to Verification of Embedded Control Systems using TLA. IEEE Proceedings of International Multiconference on Computer Science and Information Technology. Wisla: IEEE Computer Society Press, 2008. p. 719-725. ISBN: 978-83-60810-14-9. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SVEDA, M.; RYSAVY, O.; VRBA, R. Pattern-driven Reuse of Behavioral Specifications in Embedded Control System Design. In Frontiers in Robotics, Automation and Control. Vienna: IN-TECH Education and Publishing, 2008. p. 151-164. ISBN: 978-953-7619-17-6. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SVEDA, M.; VRBA, R. Meta-Design Support for Safe and Secure Networked Embedded Systems. IEEE Proceedings of the Third International Conference on Systems, ICONS 2008. New York: IEEE Computer Society, 2008. p. 69-74. ISBN: 978-0-7695-3105-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "THIRIET, J.; HILBURN, T.; KORNECKI, A.; GREGA, W.; SVEDA, M. Implementation for a US-European Trans-national Degree in Real-Time Software Engineering. Proceedings of the 19th EAEEIE Annual Conference. Tallin: IEEE Computer Society, 2008. p. 134-137. ISBN: 978-1-4244-2009-4. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "TRCHALIK, R.; OCENASEK, P.; SVEDA, M. Using MSC and SDL Languages for Description of Network Communication. EDS '08 IMAPS CS International Conference Proceedings. Brno: Brno University of Technology, 2008. p. 1-5. ISBN: 978-80-214-3717-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "ZADNIK, M. Monitorovani siti na zaklade IP toku. Journal CONNECT!, 2008, roc. 2008, c. 2, s. 14-15. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "GREGA, W.; KORNECKI, A.; SVEDA, M.; THIRIET, J. Developing an Interdisciplinary and Multinational Software Engineering Curriculum. Proceedings of the International Conference on Engineering Education. Coimbra: European Comission - Education and Training, 2007. p. 150-153. ISBN: 978-972-8055-14-1. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "KORNECKI, A.; HILBURN, T.; GREGA, W.; THIRIET, J.; SVEDA, M. ILERT - International Learning Environment for Real-Time Software Intensive Control Systems. Computer Science and Information Technology, 2007, vol. 2007, no. 2, p. 943-948. ISSN: 1896-7094. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MATOUSEK, P. Bezpecne pripojeni jednim zarizenim. Journal CONNECT!, 2007, roc. 2007, c. 1, s. 62-63. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MATOUSEK, P. Kombinovane reseni switch/router. Journal CONNECT!, 2007, roc. 2007, c. 4, s. 40-41. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "OCENASEK, P. Analysis of the Network Communication With OPNET. Proceedings of the 16th International Conference on Systems Science: Volume II. Wroclaw: 2007. p. 312-317. ISBN: 978-83-7493-340-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "OCENASEK, P. On the Design of Protocols in Electronic Commerce. MIC 2007 Conference Proceedings. Portoroz: 2007. p. 1-6. ISBN: 978-961-6573-88-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "OCENASEK, P. Platebni protokoly pouzivane v elektronicke komerci. Management, Economics and Business Development in the New European Conditions. Brno: Akademicke nakladatelstvi CERM sro., 2007. s. 67-76. ISBN: 80-7204-532-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "OCENASEK, P. Tools for Analysis and Simulation of Protocol Communication. EDS '07 IMAPS CS International Conference Proceedings. Brno: Brno University of Technology, 2007. p. 87-91. ISBN: 978-80-214-3470-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "OCENASEK, P. Wardriving: Detecting, Attacking, Securing. Proceedings of the 8th International Carpathian Control Conference. Kosice: The University of Technology Kosice, 2007. p. 1-4. ISBN: 978-80-8073-805-1. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "OCENASEK, P.; SIMEK, V. Determining Location of Target Within the Indoor Location System. Proceedings of the 16th International Conference on Systems Science: Volume III. Wroclaw: 2007. p. 168-176. ISBN: 978-83-7493-341-4. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "OCENASEK, P.; TRCHALIK, R. Reasoning About Security Protocols in the ZigBee Standard. Proceedings of the 8th International Carpathian Control Conference. Kosice: The University of Technology Kosice, 2007. p. 1-4. ISBN: 978-80-8073-805-1. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "PETERKA, O.; RYSAVY, O.; LORENC, V.; OSOVSKY, M.; SKARVADA, L. Can Objects Have Dependent Types?. Proceedings of 3rd Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2007). Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 173-180. ISBN: 978-80-7355-077-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SVEDA, M. End-User Development Framework for Embedded System Applications. Engineering of Computer-Based Systems, 2007. Tucson, Arizona: IEEE Computer Society, 2007. p. 186-192. ISBN: 0-7695-2772-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SVEDA, M. Formal Specs Reuse with Embedded Systems Design -- Behavioral and Architectural Specifications in Real-Time Application Domains. IEEE Proceedings of the Second International Conference on Systems, ICONS 2007. New York: IEEE Computer Society, 2007. p. 11-16. ISBN: 0-7695-2807-4. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SVEDA, M. Industrial Measurement Application Development. Proceedings of the First International Workshop on Application-oriented Systems. Saint Luce, Martinique: IEEE Computer Society, 2007. p. 523-529. ISBN: 0-7695-2807-4. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SVEDA, M.; TRCHALIK, R. Safety and Security-driven Design of Networked Embedded Systems. Proceedings 10th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools. Lubeck: IEEE Computer Society, 2007. p. 420-423. ISBN: 0-7695-2978-X. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SVEDA, M.; TRCHALIK, R. ZigBee-to-Internet Interconnection Architectures. Proceedings of the Second International Workshop on Mobile Communications and Learning MCL 2007. Saint Luce, Martinique: IEEE Computer Society, 2007. p. 355-360. ISBN: 0-7695-2807-4. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SVEDA, M.; VRBA, R. Dependability-driven Embedded Systems Networking. Proceedings of The Sixth International Conference on Networking. New York: IEEE Computer Society, 2007. p. 483-488. ISBN: 0-7695-2805-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SVEDA, M.; VRBA, R. SPECIFICATION-DRIVEN DESIGN OF EMBEDDED SYSTEMS - Design Support for Networked Embedded Software Applications. Proceedings of the International Joint Conference on e-Business and Telecommunications (ICETE 2007, ICE-B). Barcelona: IEEE Computer Society, 2007. p. 23-30. ISBN: 978-989-8111-11-1. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SVEDA, M.; VRBA, R. Towards a Unified Security/Safety Framework - A Design Approach to Embedded System Applications. Proceedings of the International Conference on Software and Data Technologies (ICSOFT 2007). Barcelona: Institute for Systems and Technologies of Information, Control and Communication, 2007. p. 345-350. ISBN: 978-989-8111-06-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SVEDA, M.; VRBA, R.; RYSAVY, O. Pattern-Driven Reuse of Embedded Control Design. Proceedings of Fourth International Conference on Informatics in Control, Automation and Robotics. Angers: Institute for Systems and Technologies of Information, Control and Communication, 2007. p. 152-159. ISBN: 972-8865-84-8. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "TRCHALIK, R.; OCENASEK, P. Addressing and Routing in Sensor Networks. Proceedings of the 8th International Carpathian Control Conference. Kosice: The University of Technology Kosice, 2007. p. 1-4. ISBN: 978-80-8073-805-1. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "MATOUSEK, P. Dobreho nespali - test firewallu pro site do 150 uzivatelu. Journal CONNECT!, 2006, roc. 2006, c. 6, s. 26-29. ISSN: 1211-3085. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P. Automatic Design of Security Protocols. Pocitacove architektury & diagnostika 2006. Bratislava: Slovak Academy of Science, 2006. p. 49-54. ISBN: 80-969202-2-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P. Automatic System for Making Web Content Accessible for Visually Impaired Users. Proceedings of the 6th International Conference on Applied Computer Science. Puerto De La Cruz: 2006. p. 430-433. ISBN: 960-8457-57-2. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P. Security Protocols: Analysis and Design. Proceedings of the Junior Scientist Conference 2006. Vienna: Technical University Wien, 2006. p. 51-52. ISBN: 3-902463-05-8. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P. Automatic System for Making Web Content Accessible for Visually Impaired Users. WSEAS Transactions on Computers Research, 2006, vol. 1, no. 2, p. 325-328. ISSN: 1991-8755. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P.; KUBAT, L. Establishing Certified Quality System in Technology Companies. EDS '06 IMAPS CS International Conference Proceedings. Brno: Brno University of Technology, 2006. p. 290-295. ISBN: 80-214-3246-2. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P.; OCENASEK, J. Designing Secure Communications Using Evolutionary Approach. Genetic and Evolutionary Computation Conference GECCO 2006. Seattle, WA: Association for Computing Machinery, 2006. p. 1-3. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P.; SVEDA, M. An Approach to Automated Design of Security Protocols. Proceedings of the International Conference on Networking (ICN 2006). Los Alamitos: IEEE Computer Society, 2006. p. 192-195. ISBN: 0-7695-2552-0. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P.; TRCHALIK, R. Modal Logics Used for Authentication Protocols Analysis: Survey and Comparison. Proceedings of the 7th International Carpathian Control Conference. Ostrava: VSB-Technical University of Ostrava, 2006. p. 401-404. ISBN: 80-248-1066-2. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P.; TRCHALIK, R. On the Implementation of Metrics in the Workflow System. Proceedings of the 6th International Conference on Applied Computer Science. Puerto De La Cruz: World Scientific and Engineering Academy, 2006. p. 329-331. ISBN: 960-8457-57-2. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P.; TRCHALIK, R. The Use of Modal Logics in the Security Protocols Analysis. Proceedings of the 12th Conference STUDENT EEICT 2006. Brno: Faculty of Electrical Engineering and Communication BUT, 2006. p. 395-399. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P.; TRCHALIK, R. Tracing Authentication Protocols Behavior: A Case Study. MEMICS 2006 Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Mikulov: Faculty of Information Technology BUT, 2006. p. 166-173. ISBN: 80-214-3287-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "OCENASEK, P.; TRCHALIK, R. On the Implementation of Metrics in the Workflow System. WSEAS Transactions on Computers Research, 2006, vol. 1, no. 2, p. 360-362. ISSN: 1991-8755. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "RYSAVY, O.; SCUGLIK, F.; SVEDA, M. Designing Algorithm-oriented Generic Library on .NET Framework. Proceedings of the 13th IEEE International Symposium and Workshop on the Engineering of Computer-Based Systems ECBS 2006. Los Alamitos, CA: IEEE Computer Society, 2006. p. 159-163. ISBN: 0-7695-2546-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRCKA, A.; REHAK, V.; VOJNAR, T.; SAFRANEK, D.; MATOUSEK, P.; REHAK, Z. Verifying VHDL Design with Multiple Clocks in SMV. Proceedings of FMICS 2006. Bonn: 2006. p. 140-155. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SVEDA, M. Reuse of Formal Specifications in Embedded Systems Design. Proceedings of IFAC Workshop on PROGRAMMABLE DEVICES and EMBEDDED SYSTEMS PDeS 2006. Brno: Faculty of Electrical Engineering and Communication BUT, 2006. p. 78-83. ISBN: 80-214-3130-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SVEDA, M.; TRCHALIK, R. Smart Sensor Networking with ZigBee and Internet. Proceedings of the 2nd International Workshop on Artificial Neural Networks and Intelligent Information Processing (ANNIIP 2006). Setubal: University of Pierre and Marie Curie, 2006. p. 64-71. ISBN: 972-8865-68-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SVEDA, M.; VRBA, R. Fault Maintenance in Embedded Systems Applications. Proceedings of the Third International Conference on Informatics in Control, Automation and Robotics (ICINCO 2006). Setubal: IEEE Computer Society, 2006. p. 183-186. ISBN: 972-8865-59-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SVEDA, M.; VRBA, R. INTERNET-BASED EMBEDDED SYSTEM ARCHITECTURES -- End-User Development Support for Embedded System Applications. Proceedings of the IEEE International Joint Conference on e-Business and Telecommunications (ICETE 2006), 2006. Setubal: IEEE Computer Society, 2006. p. 63-68. ISBN: 972-8865-62-7. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SVEDA, M.; VRBA, R.; OCENASEK, P. Local Time Specifications of Networked Embedded Systems. Proceedings of the International Conference on Systems (ICONS 2006). Los Alamitos: IEEE Computer Society, 2006. p. 120-125. ISBN: 0-7695-2552-0. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "TRCHALIK, R.; OCENASEK, P. Metrics in Workflow Systems. Proceedings of the 7th International Carpathian Control Conference. Ostrava: VSB-Technical University of Ostrava, 2006. p. 569-572. ISBN: 80-248-1066-2. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "TRCHALIK, R.; OCENASEK, P. Zigbee Gateways. Proceedings of the 12th Conference STUDENT EEICT 2006. Brno: Faculty of Electrical Engineering and Communication BUT, 2006. p. 410-414. ISBN: 80-214-3163-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "TRCHALIK, R.; SVEDA, M. Sensor Networking through Intranet and ZigBee. Proceedings IMAPS CS International Conference EDS'06. Brno: Brno University of Technology, 2006. p. 217-221. ISBN: 80-214-3246-2. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BURES, F.; RYSAVY, O.; SCUGLIK, F.; SVEDA, M. A Framework for Formal Specification of Embedded Systems. Proceedings of the 12th IEEE International Conference and Workshop on the Engineering of Computer-Based Systems. Los Alamitos, California: IEEE Computer Society, 2005. p. 323-330. ISBN: 0-7695-2308-0. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MATOUSEK, P. Symbolic Data Structures for Parametric Verification. Brno: Faculty of Information Technology BUT, 2005. 106 p. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MATOUSEK, P.; SMRCKA, A.; VOJNAR, T. High-Level Modelling, Analysis, and Verification on FPGA-Based Hardware Design. Correct Hardware Design and Verification Methods. Lecture Notes in Computer Science. Lecture Notes in Computer Science 3725/2005. Berlin: Springer Verlag, 2005. no. 3725, p. 371-375. ISBN: 978-3-540-29105-3. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "OCENASEK, P. Evolutionary Approach in the Security Protocols Design. Proceedings of the First European Conference on Computer Network Defence. University of Glamorgan: Springer Verlag, 2005. p. 147-156. ISBN: 1-84628-311-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "OCENASEK, P. The Security Protocol Design Using Genetic Algorithms Paradigms. Proceedings of the 11th Conference and Competition STUDENT EEICT 2005. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 576-580. ISBN: 80-214-2890-2. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "OCENASEK, P. Towards Selected Problems in the Security Protocol Design and Verification. Pre-Proceedings of the 1st Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2005). Brno: Faculty of Informatics MU, 2005. p. 1-9. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "OCENASEK, P.; TOUFAROVA, J. Zpristupneni obsahu Internetu zrakove handicapovanym uzivatelum. INFORUM 2005: 11. rocnik konference o profesionalnich informacnich zdrojich, 2005, roc. 2005, c. 1, s. 1-8. ISSN: 1801-2213. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SCUGLIK, F. Relation Between UML2 Activity Diagrams and CSP algebra. Proceedings of the 5th Int. Conf. on Simulation, Modeling and Optimization. Kerkyra: World Scientific and Engineering Academy, 2005. p. 1234-1239. ISBN: 960-8457-32-7. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SCUGLIK, F. Time Synchronization Possibilities in Wireless networks for Embedded Systems. Proceedings of the 5th Int. Conf. on Applied Electromagnetics, Wireless and Optical Communications. Kerkyra: World Scientific and Engineering Academy, 2005. p. 1215-1219. ISBN: 960-8457-34-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SCUGLIK, F. Relation between UML2 Activity Diagrams and CSP algebra. WSEAS Transactions on Computers, 2005, vol. 4, no. 10, p. 1234-1240. ISSN: 1109-2750. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SCUGLIK, F. Time Synchronization Possibilities in Wireless networks for Embedded Systems. WSEAS TRANSACTIONS on COMMUNICATIONS, 2005, vol. 4, no. 11, p. 1215-1219. ISSN: 1109-2742. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SVEDA, M. Computer Networks with Smart Sensors: the IEEE 1451 Approach. Proceedings IMAPS CS International Conference EDS'05. Brno: Brno University of Technology, 2005. p. 107-110. ISBN: 80-214-2990-9. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SVEDA, M.; BENES, P.; VRBA, R.; ZEZULKA, F. Introduction to Industrial Sensor Networking. In Handbook of Sensor Networks: Compact Wireless and Wired Sensing Systems. Boca Raton, Florida: CRC Press LLC, 2005. p. 10-24. ISBN: 0-8493-1968-4. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SVEDA, M.; VRBA, R. An Approach to the Design of Networked Embedded Systems. Proceedings of the 16th IFAC WORLD CONGRESS, 2005. Programmable devices and systems. Kidlington, Oxford: Elsevier Science, 2005. no. 1, p. 2223-2228. ISBN: 0-08-045108-X. ISSN: 1474-6670. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SVEDA, M.; VRBA, R. Sensor Networks with IEEE 1451.1 Embedded Systems on Internet. IEEE Proceedings AsiaSens 2005. Kuala Lumpur: IEEE Computer Society, 2005. p. 251-255. ISBN: 0-7803-9371-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SVEDA, M.; VRBA, R. Embedded Systems with IEEE 1451.1 on Internet. In Enabling Technologies for the New Knowledge Society. Cairo: IEEE Computer Society, 2005. p. 539-550. ISBN: 0-7803-9270-1. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "OCENASEK, P. On Inductive Approach in Security Protocol Verification. Proceedings of the 10th Conference and Competition STUDENT EEICT 2004. Brno: Faculty of Electrical Engineering and Communication BUT, 2004. p. 272-276. ISBN: 80-214-2635-7. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "OCENASEK, P. Reasoning about Security Issues in Wireless Devices based on the IEEE 802.11. 11th Electronic Devices and Systems Conference 2004 Proceedings. Brno: Faculty of Electrical Engineering and Communication BUT, 2004. p. 228-231. ISBN: 80-214-2701-9. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SCUGLIK, F. Formal Specification of Shared Variables Using CSP. Engineering of Computer-Based Systems. Los Alamitos: IEEE Computer Society, 2004. p. 211-216. ISBN: 0-7695-2125-8. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SVEDA, M. A Design Framework for Internet-Based Embedded Distributed Systems. Proceedings of the International IEEE Conference and Workshop ECBS'2004. Los Alamitos, California: IEEE Computer Society, 2004. p. 113-120. ISBN: 0-7695-2125-8. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SVEDA, M. IP Multicast with Publish/Subscribe for Sensors on Internet. 11th Electronic Devices and Systems Conference 2004 Proceedings. Brno: Brno University of Technology, 2004. p. 350-353. ISBN: 80-214-2701-9. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SVEDA, M.; RATTRAY, C.; ROZENBLIT, J. Formal Specifications of Computer-Based Systems - J.UCS Special Issue. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2004, vol. 10, no. 10, p. 1354-1356. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "SVEDA, M.; VRBA, R. An Approach to Computer-Based System Synthesis. Proceedings of the ICSE & INCOSE 2004 Conference. Las Vegas, NV: CRC Press LLC, 2004. p. 414-421. ISBN: 0-8576-9197-0. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "VRBA, R.; SAJDL, O.; KUCHTA, R.; SVEDA, M. Wireless Smart Sensor Network System. Proceedings of the ICSE & INCOSE 2004 Conference. Las Vegas, NV: CRC Press LLC, 2004. p. 466-471. ISBN: 0-8576-9197-0. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "VRBA, R.; SVEDA, M.; MARECEK, K. Pressure Transducer with Multiplexed Frequency Transmitter. Proceedings of the 2004 ISA/IEEE Sensors for Industry Conference. New Orleans, LA: IEEE Computer Society, 2004. p. 7-10. ISBN: 0-7803-8143-2. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "OCENASEK, P. Verifikace bezpecnostnich protokolu. Proceedings of the 9th Conference and Competition STUDENT EEICT 2003. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2003. s. 211-213. ISBN: 80-214-2377-3. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "SCUGLIK, F. Visualizing formal specifications using diagrams. 11. International Conference on Software, Telecommunications & Computer Networks. Split: Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture , University of Split, 2003. p. 165-169. ISBN: 953-6114-64-X. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SCUGLIK, F. Comparing CSP representation and First order logic. Proceedings of the 9th Electronic Devices and Systems Conference EDS'02. Brno: Brno University of Technology, 2002. p. 341-344. ISBN: 80-214-2180-0. Detail"
+        },
+        {
+            "year": "2002",
+            "details": "SCUGLIK, F. Formal specification and verification of already composed systems. Proceedings of 8th Conference STUDENT EEICT 2002. Brno: Faculty of Electrical Engineering and Communication BUT, 2002. p. 511-515. ISBN: 80-214-2116-9. Detail"
+        },
+        {
+            "year": "1997",
+            "details": "ZEZULKA, F., SVEDA, M. Specification of Anticipative Problems in Control Engineering. In Intersymp 96. Canada: George E. Lasker, 1997. 5 p. ISBN: 0-921836-4. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2024",
+            "title": "FitLayout Web Browser Extension",
+            "authors": "FitLayout Web Browser Extension , software, 2024 : NOVOTNY, J.; BURGET, R."
+        },
+        {
+            "year": "2024",
+            "title": "INVENTOR FW10010040-V1: Monitorovaci agent",
+            "authors": "INVENTOR FW10010040-V1: Monitorovaci agent , software, 2024 : RYSAVY, O.; MATOUSEK, P.; HOLKOVIC, M.; KORVAS, V.; ASSATULLA, D.; ELICH, M.; FRIEDL, R.; HORACEK, P.; KICINKA, K.; MUTUA, N.; PANEK, M.; PIKL, J.; PODLUZANSKY, P.; POLANSKY, M.; POLCAK, L."
+        },
+        {
+            "year": "2024",
+            "title": "Sada zasuvnych modulu pro system QRadar",
+            "authors": "Sada zasuvnych modulu pro system QRadar , software, 2024 : HRANICKY, R.; RYSAVY, O.; ONDRYAS, O.; LICHTNER, O.; HORAK, A.; POLISENSKY, J.; POUC, P.; POLONI, P.; BUCKO, F.; SOUKUP, D.; MATOUSEK, P."
+        },
+        {
+            "year": "2023",
+            "title": "DGA Hunter",
+            "authors": "DGA Hunter , software, 2023 : BUCKO, F.; HRANICKY, R."
+        },
+        {
+            "year": "2023",
+            "title": "Domain Collector",
+            "authors": "Domain Collector , software, 2023 : HORAK, A.; POLISENSKY, J.; HRANICKY, R."
+        },
+        {
+            "year": "2023",
+            "title": "Extractor",
+            "authors": "Extractor , software, 2023 : REGECIOVA, D.; KOLAR, D.; PLUSKAL, J."
+        },
+        {
+            "year": "2023",
+            "title": "Improved Vision-Based Web Page Segmentation Algorithm Implementation for FitLayout",
+            "authors": "Improved Vision-Based Web Page Segmentation Algorithm Implementation for FitLayout , software, 2023 : MASTERA, F.; BURGET, R."
+        },
+        {
+            "year": "2023",
+            "title": "Phishing and Benign Domain Dataset (DNS, IP, WHOIS/RDAP, TLS, GeoIP)",
+            "authors": "Phishing and Benign Domain Dataset (DNS, IP, WHOIS/RDAP, TLS, GeoIP) , software, 2023 : HRANICKY, R.; HORAK, A.; POLISENSKY, J.; POUC, P.; ONDRYAS, O."
+        },
+        {
+            "year": "2023",
+            "title": "Sada klasifikacnich modulu pro detekci bezpecnostnich hrozeb",
+            "authors": "Sada klasifikacnich modulu pro detekci bezpecnostnich hrozeb , software, 2023 : PLNY, R.; LUXEMBURK, J.; HYNEK, K.; CEJKA, T.; SISKA, P.; KOUMAR, J.; JERABEK, K."
+        },
+        {
+            "year": "2023",
+            "title": "System pro detekci malware zalozeny na kontextove analyze",
+            "authors": "System pro detekci malware zalozeny na kontextove analyze , software, 2023 : RYSAVY, O.; HOLKOVIC, M.; MATOUSEK, P.; MINARIK, P.; ALES, S.; HOJDAR, S.; JAN, S.; UNZEITIG, M."
+        },
+        {
+            "year": "2022",
+            "title": "DomainRadar - Detector of Malicious Domains (prototype)",
+            "authors": "DomainRadar - Detector of Malicious Domains (prototype) , software, 2022 : HRANICKY, R.; POLISENSKY, J.; HORAK, A."
+        },
+        {
+            "year": "2022",
+            "title": "ICS Dataset for Smart Grid Anomaly Detection",
+            "authors": "ICS Dataset for Smart Grid Anomaly Detection , software, 2022 : MATOUSEK, P.; RYSAVY, O.; GROFCIK, P."
+        },
+        {
+            "year": "2022",
+            "title": "INET 4: BGP",
+            "authors": "INET 4: BGP , software, 2022 : VESELY, V.; ZAVREL, J."
+        },
+        {
+            "year": "2022",
+            "title": "MAXTOR - Multimedia Artifact eXTractOR",
+            "authors": "MAXTOR - Multimedia Artifact eXTractOR , software, 2022 : RYSAVY, O.; PLUSKAL, J.; KOLAR, D.; REGECIOVA, D."
+        },
+        {
+            "year": "2022",
+            "title": "MODBUS Dataset for ICS Anomaly Detection",
+            "authors": "MODBUS Dataset for ICS Anomaly Detection , software, 2022 : MATOUSEK, P.; RYSAVY, O."
+        },
+        {
+            "year": "2022",
+            "title": "System pro odhalovani vztahu mezi datovymi toky (NetFlow/IPFIX)",
+            "authors": "System pro odhalovani vztahu mezi datovymi toky (NetFlow/IPFIX) , software, 2022 : RYSAVY, O.; HOLKOVIC, M.; MATOUSEK, P.; MINARIK, P.; ALES, S.; JAN, S."
+        },
+        {
+            "year": "2021",
+            "title": "Analyzer of JavaScript calls on web pages",
+            "authors": "Analyzer of JavaScript calls on web pages , software, 2021 : BEDNAR, M.; SCHAUER, M."
+        },
+        {
+            "year": "2021",
+            "title": "Anti-fingerprinting Generic Sensor API Wrappers for JSRestrictor",
+            "authors": "Anti-fingerprinting Generic Sensor API Wrappers for JSRestrictor , software, 2021 : HRANICKY, R.; POLCAK, L."
+        },
+        {
+            "year": "2021",
+            "title": "Dataset of smart devices communication",
+            "authors": "Dataset of smart devices communication , software, 2021 : SLAMOVA, H."
+        },
+        {
+            "year": "2021",
+            "title": "DNS over HTTPS network traffic dataset",
+            "authors": "DNS over HTTPS network traffic dataset , software, 2021 : JERABEK, K.; STUCHLY, S."
+        },
+        {
+            "year": "2021",
+            "title": "Software for correlating trades in marketplaces with transactions in blockchain databases",
+            "authors": "Software for correlating trades in marketplaces with transactions in blockchain databases , software, 2021 : DOLEJSKA, D.; VESELY, V.; GREGR, M."
+        },
+        {
+            "year": "2021",
+            "title": "Software for data and metadata collection from darknet marketplaces",
+            "authors": "Software for data and metadata collection from darknet marketplaces , software, 2021 : DOLEJSKA, D.; VESELY, V.; GREGR, M."
+        },
+        {
+            "year": "2021",
+            "title": "Softwarova knihovna detekcnich algoritmu ICS",
+            "authors": "Softwarova knihovna detekcnich algoritmu ICS , software, 2021 : BURGETOVA, I.; HAVLENA, V.; KOLAR, D.; MATOUSEK, P.; RYSAVY, O."
+        },
+        {
+            "year": "2021",
+            "title": "System pro detekci sifrovane DNS komunikace",
+            "authors": "System pro detekci sifrovane DNS komunikace , software, 2021 : JERABEK, K.; MINARIK, P.; HOLKOVIC, M."
+        },
+        {
+            "year": "2020",
+            "title": "Balik analyzatoru ICS protokolu",
+            "authors": "Balik analyzatoru ICS protokolu , software, 2020 : RYSAVY, O.; LICHTNER, O.; KOLAR, D.; MATOUSEK, P."
+        },
+        {
+            "year": "2020",
+            "title": "INET 4: EIGRP",
+            "authors": "INET 4: EIGRP , software, 2020 : VESELY, V.; ZAVREL, J."
+        },
+        {
+            "year": "2020",
+            "title": "JavaScript Restrictor",
+            "authors": "JavaScript Restrictor , software, 2020 : POLCAK, L.; TIMKO, M.; POHNER, P.; HORNAK, P.; CERVINKA, Z.; BEDNAR, M."
+        },
+        {
+            "year": "2020",
+            "title": "Platforma pro digitalni forenzni analyzu",
+            "authors": "Platforma pro digitalni forenzni analyzu , functioning sample, 2020 : RYSAVY, O.; BURGET, R.; JERABEK, K.; MATOUSEK, P.; POLCAK, L.; RYCHLY, M.; VESELY, V.; HYNEK, J."
+        },
+        {
+            "year": "2020",
+            "title": "Toreator",
+            "authors": "Toreator , software, 2020 : POLCAK, L."
+        },
+        {
+            "year": "2019",
+            "title": "Big Data Containerized Cluster",
+            "authors": "Big Data Containerized Cluster , software, 2019 : JERABEK, K."
+        },
+        {
+            "year": "2019",
+            "title": "DeMixer",
+            "authors": "DeMixer , software, 2019 : VESELY, V.; ANTON, M."
+        },
+        {
+            "year": "2019",
+            "title": "HTTP keylogger",
+            "authors": "HTTP keylogger , software, 2019 : LETAVAY, V.; PLUSKAL, J.; VESELY, V.; GREGR, M."
+        },
+        {
+            "year": "2019",
+            "title": "INET 4: OSPFv3",
+            "authors": "INET 4: OSPFv3 , software, 2019 : VESELY, V.; MAREK, M.; GALBICKA, L."
+        },
+        {
+            "year": "2019",
+            "title": "Poloautomaticka diagnostika aplikacnich protokolu",
+            "authors": "Poloautomaticka diagnostika aplikacnich protokolu , software, 2019 : HOLKOVIC, M."
+        },
+        {
+            "year": "2019",
+            "title": "proof_platform: Platform for automated analysis and archiving of data from the web",
+            "authors": "proof_platform: Platform for automated analysis and archiving of data from the web , software, 2019 : KOCMAN, T.; POLCAK, L."
+        },
+        {
+            "year": "2019",
+            "title": "Tool for Distributed Extraction of Timestamped Events from Files",
+            "authors": "Tool for Distributed Extraction of Timestamped Events from Files , software, 2019 : RYCHLY, M.; BURGET, R."
+        },
+        {
+            "year": "2019",
+            "title": "Tool for mobile device profiling",
+            "authors": "Tool for mobile device profiling , software, 2019 : MATOUSEK, P."
+        },
+        {
+            "year": "2019",
+            "title": "Winit",
+            "authors": "Winit , software, 2019 : KOCMAN, T.; POLCAK, L."
+        },
+        {
+            "year": "2018",
+            "title": "Banana Pi BPI-R2 Cluster Prototype",
+            "authors": "Banana Pi BPI-R2 Cluster Prototype , functioning sample, 2018 : LETAVAY, V.; PLUSKAL, J.; JERABEK, K."
+        },
+        {
+            "year": "2018",
+            "title": "Cryptoalarm",
+            "authors": "Cryptoalarm , software, 2018 : VESELY, V.; VOKRACKO, L."
+        },
+        {
+            "year": "2018",
+            "title": "Detektor sitovych utoku",
+            "authors": "Detektor sitovych utoku , software, 2018 : DUDEK, J.; HOLKOVIC, M."
+        },
+        {
+            "year": "2018",
+            "title": "Detektor slabin v pocitacovych sitich",
+            "authors": "Detektor slabin v pocitacovych sitich , software, 2018 : SUHAJ, P.; HOLKOVIC, M."
+        },
+        {
+            "year": "2018",
+            "title": "DHT-crawler",
+            "authors": "DHT-crawler , software, 2018 : VASKO, M.; POLCAK, L."
+        },
+        {
+            "year": "2018",
+            "title": "Distributed Forensic Digital Data Repository",
+            "authors": "Distributed Forensic Digital Data Repository , software, 2018 : JOSEFIK, M.; RYCHLY, M."
+        },
+        {
+            "year": "2018",
+            "title": "Docker Infrastructure for TARZAN Platform",
+            "authors": "Docker Infrastructure for TARZAN Platform , software, 2018 : RYCHLY, M."
+        },
+        {
+            "year": "2018",
+            "title": "Extraktor aplikacnich dat ze sitovych protokolu",
+            "authors": "Extraktor aplikacnich dat ze sitovych protokolu , software, 2018 : JANUS, F.; HOLKOVIC, M."
+        },
+        {
+            "year": "2018",
+            "title": "Extraktor tunelovanych dat do samostatnych toku",
+            "authors": "Extraktor tunelovanych dat do samostatnych toku , software, 2018 : NAHALKA, R.; HOLKOVIC, M."
+        },
+        {
+            "year": "2018",
+            "title": "Filtracni jednotka pro eliminaci DDoS utoku s vyuzitim komoditniho hardware",
+            "authors": "Filtracni jednotka pro eliminaci DDoS utoku s vyuzitim komoditniho hardware , functioning sample, 2018 : NAGY, P.; GREGR, M.; PODERMANSKI, T."
+        },
+        {
+            "year": "2018",
+            "title": "Fitcrack 2.0",
+            "authors": "Fitcrack 2.0 , functioning sample, 2018 : HRANICKY, R.; ZOBAL, L.; VECERA, V.; MUCKA, M."
+        },
+        {
+            "year": "2018",
+            "title": "Java library for PCAP files processing in Apache SPARK",
+            "authors": "Java library for PCAP files processing in Apache SPARK , software, 2018 : BEDER, M.; RYSAVY, O."
+        },
+        {
+            "year": "2018",
+            "title": "Lemmiwinks framework, MozArch aplikace",
+            "authors": "Lemmiwinks framework, MozArch aplikace , software, 2018 : SERECUN, V.; VESELY, V."
+        },
+        {
+            "year": "2018",
+            "title": "Nastroj pro distribuovane ziskavani dat ze socialnich siti",
+            "authors": "Nastroj pro distribuovane ziskavani dat ze socialnich siti , software, 2018 : TUTKO, J.; BURGET, R."
+        },
+        {
+            "year": "2018",
+            "title": "Nastroj pro poloautomatickou diagnostiku sitovych protokolu",
+            "authors": "Nastroj pro poloautomatickou diagnostiku sitovych protokolu , software, 2018 : SVOBODA, O.; HOLKOVIC, M."
+        },
+        {
+            "year": "2018",
+            "title": "NTPAC - Network Traffic Packet Analysing Cluster",
+            "authors": "NTPAC - Network Traffic Packet Analysing Cluster , software, 2018 : LETAVAY, V.; PLUSKAL, J."
+        },
+        {
+            "year": "2018",
+            "title": "Parser protokolu CoAP",
+            "authors": "Parser protokolu CoAP , software, 2018 : KOLAR, D."
+        },
+        {
+            "year": "2018",
+            "title": "Parser protokolu DLMS",
+            "authors": "Parser protokolu DLMS , software, 2018 : KOLAR, D."
+        },
+        {
+            "year": "2018",
+            "title": "Parser protokolu GOOSE (IEC 61850)",
+            "authors": "Parser protokolu GOOSE (IEC 61850) , software, 2018 : KOLAR, D."
+        },
+        {
+            "year": "2018",
+            "title": "Parser protokolu IEC-104",
+            "authors": "Parser protokolu IEC-104 , software, 2018 : KOLAR, D."
+        },
+        {
+            "year": "2018",
+            "title": "Parser protokolu MMS (IEC 61850)",
+            "authors": "Parser protokolu MMS (IEC 61850) , software, 2018 : KOLAR, D."
+        },
+        {
+            "year": "2018",
+            "title": "sMaSheD - Mining Server Detector",
+            "authors": "sMaSheD - Mining Server Detector , software, 2018 : VESELY, V.; KELECENI, J.; CAGAS, M."
+        },
+        {
+            "year": "2018",
+            "title": "Wireshark dissector for DLMS protocol",
+            "authors": "Wireshark dissector for DLMS protocol , software, 2018 : MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "AppIdent - Nastroj pro identifikaci aplikacnich protokolu",
+            "authors": "AppIdent - Nastroj pro identifikaci aplikacnich protokolu , software, 2017 : PLUSKAL, J."
+        },
+        {
+            "year": "2017",
+            "title": "Cryptocurrency Analyzer",
+            "authors": "Cryptocurrency Analyzer , software, 2017 : OCENAS, M.; DROZDA, T.; VESELY, V."
+        },
+        {
+            "year": "2017",
+            "title": "DDoSGen",
+            "authors": "DDoSGen , software, 2017 : PODERMANSKI, T."
+        },
+        {
+            "year": "2017",
+            "title": "Knihovna softwarovych modulu a firmware SDM pro filtraci sitoveho provozu na urovni aplikacnich protokolu pomoci FPGA SoC",
+            "authors": "Knihovna softwarovych modulu a firmware SDM pro filtraci sitoveho provozu na urovni aplikacnich protokolu pomoci FPGA SoC , software, 2017 : POLCAK, L.; FRANKOVA, B.; KEKELY, L.; VRANA, R.; DRAZIL, J."
+        },
+        {
+            "year": "2017",
+            "title": "LwM2M Demonstration (Smart Metering)",
+            "authors": "LwM2M Demonstration (Smart Metering) , software, 2017 : RYSAVY, O."
+        },
+        {
+            "year": "2017",
+            "title": "Modul pro zpracovani zapouzdreneho sitoveho provozu",
+            "authors": "Modul pro zpracovani zapouzdreneho sitoveho provozu , software, 2017 : VONDRACEK, M.; PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Nastroj pro extrakci dat ze zarizeni Android",
+            "authors": "Nastroj pro extrakci dat ze zarizeni Android , software, 2017 : BAZIK, M.; MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Nastroj pro zachyceni sitove komunikace spolu s identifikaci aplikaci na platformach Windows, Linux, (BSD)",
+            "authors": "Nastroj pro zachyceni sitove komunikace spolu s identifikaci aplikaci na platformach Windows, Linux, (BSD) , software, 2017 : ZUZELKA, J.; PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Netfox Detective 2.0 - Nastroj pro sitovou forenzni analyzu",
+            "authors": "Netfox Detective 2.0 - Nastroj pro sitovou forenzni analyzu , software, 2017 : PLUSKAL, J."
+        },
+        {
+            "year": "2017",
+            "title": "RDF4J Class Builder",
+            "authors": "RDF4J Class Builder , software, 2017 : BURGET, R."
+        },
+        {
+            "year": "2017",
+            "title": "RINASim - DAF, RIBd Extension",
+            "authors": "RINASim - DAF, RIBd Extension , software, 2017 : JERABEK, K.; VESELY, V."
+        },
+        {
+            "year": "2017",
+            "title": "Softwarovy nastroj pro detekci mobilni komunikace v sitovem provozu",
+            "authors": "Softwarovy nastroj pro detekci mobilni komunikace v sitovem provozu , software, 2017 : HAVLIK, J.; MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Timeline Analyzer",
+            "authors": "Timeline Analyzer , software, 2017 : BURGET, R."
+        },
+        {
+            "year": "2016",
+            "title": "ANSAINET - Babel Extension",
+            "authors": "ANSAINET - Babel Extension , software, 2016 : REK, V.; VESELY, V."
+        },
+        {
+            "year": "2016",
+            "title": "ANSAINET - CDP/LLDP Extension",
+            "authors": "ANSAINET - CDP/LLDP Extension , software, 2016 : RAJCA, T.; VESELY, V."
+        },
+        {
+            "year": "2016",
+            "title": "ANSAINET - EIGRP Extension",
+            "authors": "ANSAINET - EIGRP Extension , software, 2016 : BLOUDICEK, J.; REK, V.; VESELY, V."
+        },
+        {
+            "year": "2016",
+            "title": "ANSAINET - HSRP/GLBP Extension",
+            "authors": "ANSAINET - HSRP/GLBP Extension , software, 2016 : HOLUSA, J.; VESELY, V."
+        },
+        {
+            "year": "2016",
+            "title": "Automatizace MitM utoku pro desifrovani SSL/TLS",
+            "authors": "Automatizace MitM utoku pro desifrovani SSL/TLS , software, 2016 : MARUSIC, M.; PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2016",
+            "title": "Automatizace utoku MitM na WiFi sitich",
+            "authors": "Automatizace utoku MitM na WiFi sitich , software, 2016 : VONDRACEK, M.; PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2016",
+            "title": "Distribuovane zpracovani sitoveho provozu pro forenzni analyzu",
+            "authors": "Distribuovane zpracovani sitoveho provozu pro forenzni analyzu , software, 2016 : HVEZDA, M.; PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2016",
+            "title": "Exportovani obsahu weboveho provozu do MAFF",
+            "authors": "Exportovani obsahu weboveho provozu do MAFF , software, 2016 : JANECEK, V.; PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2016",
+            "title": "Fitcrack - a distributed password recovery tool",
+            "authors": "Fitcrack - a distributed password recovery tool , software, 2016 : HRANICKY, R.; HOLKOVIC, M.; ZOBAL, L.; VECERA, V.; MIKUS, D."
+        },
+        {
+            "year": "2016",
+            "title": "FitXtractor - a metedata extraction tool for Fitcrack",
+            "authors": "FitXtractor - a metedata extraction tool for Fitcrack , software, 2016 : HRANICKY, R.; ZOBAL, L.; VECERA, V.; MIKUS, D."
+        },
+        {
+            "year": "2016",
+            "title": "Nastroj pro zpracovani bezpecnostnich incidentu v prostoru privatnich adres",
+            "authors": "Nastroj pro zpracovani bezpecnostnich incidentu v prostoru privatnich adres , software, 2016 : GREGR, M."
+        },
+        {
+            "year": "2016",
+            "title": "Rekonstrukce zachycene komunikace na platforme iOS",
+            "authors": "Rekonstrukce zachycene komunikace na platforme iOS , software, 2016 : LETAVAY, V.; PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2016",
+            "title": "RINASim",
+            "authors": "RINASim , software, 2016 : VESELY, V.; MAREK, M.; RYSAVY, O.; HYKEL, T.; JERABEK, K."
+        },
+        {
+            "year": "2016",
+            "title": "System pro testovani zabezpeceni site IPv6",
+            "authors": "System pro testovani zabezpeceni site IPv6 , software, 2016 : GREGR, M.; DRAZIL, J.; KORCEK, P.; KOSAR, V.; PIVARNIK, J.; FUKAC, T.; POLCAK, L."
+        },
+        {
+            "year": "2015",
+            "title": "Netfox Detective - Nastroj pro forenzni analyzu sitove komunikace",
+            "authors": "Netfox Detective - Nastroj pro forenzni analyzu sitove komunikace , software, 2015 : PLUSKAL, J.; KMET, M.; KARPISEK, F.; RYSAVY, O.; VESELY, V.; MATOUSEK, P."
+        },
+        {
+            "year": "2015",
+            "title": "OneMS - system pro monitorovani sitoveho provozu na bazi OnePK",
+            "authors": "OneMS - system pro monitorovani sitoveho provozu na bazi OnePK , functioning sample, 2015 : ANTOLIK, D.; KOLLAT, S.; RYSAVY, O."
+        },
+        {
+            "year": "2015",
+            "title": "Rizeni SDN podle identit",
+            "authors": "Rizeni SDN podle identit , software, 2015 : HOLKOVIC, M."
+        },
+        {
+            "year": "2015",
+            "title": "SDN-tap",
+            "authors": "SDN-tap , software, 2015 : FRANKOVA, B."
+        },
+        {
+            "year": "2014",
+            "title": "Databaze vzorku VoIP komunikace s ruznymi kodeky",
+            "authors": "Databaze vzorku VoIP komunikace s ruznymi kodeky , software, 2014 : KMET, M.; MATOUSEK, P."
+        },
+        {
+            "year": "2014",
+            "title": "GPU accelerated document passwords recovery tool",
+            "authors": "GPU accelerated document passwords recovery tool , software, 2014 : SCHMIED, J.; VESELY, V."
+        },
+        {
+            "year": "2014",
+            "title": "IP45 Border Gateway Implementation for Linux",
+            "authors": "IP45 Border Gateway Implementation for Linux , software, 2014 : PODERMANSKI, T."
+        },
+        {
+            "year": "2014",
+            "title": "IP45 Host Implementation for Linux, OSX, Windows",
+            "authors": "IP45 Host Implementation for Linux, OSX, Windows , software, 2014 : PODERMANSKI, T."
+        },
+        {
+            "year": "2014",
+            "title": "Sec6Net Identity Management System",
+            "authors": "Sec6Net Identity Management System , software, 2014 : POLCAK, L.; MARTINEK, T.; HRANICKY, R.; BARTA, S.; HOLKOVIC, M.; FRANKOVA, B.; KRAMOLIS, P."
+        },
+        {
+            "year": "2014",
+            "title": "Softwarovy nastroj pro dohledani pachatele pocitacove kriminality - Sec6Net Lawful Interception System",
+            "authors": "Softwarovy nastroj pro dohledani pachatele pocitacove kriminality - Sec6Net Lawful Interception System , software, 2014 : POLCAK, L.; MARTINEK, T.; HRANICKY, R.; BARTA, S.; HOLKOVIC, M.; FRANKOVA, B.; KRAMOLIS, P."
+        },
+        {
+            "year": "2013",
+            "title": "H.323 Visualizer",
+            "authors": "H.323 Visualizer , software, 2013 : KARPISEK, F.; MATOUSEK, P."
+        },
+        {
+            "year": "2013",
+            "title": "LDP - LIS Deception Proxy 2013",
+            "authors": "LDP - LIS Deception Proxy 2013 , software, 2013 : HRANICKY, R.; POLCAK, L."
+        },
+        {
+            "year": "2013",
+            "title": "LNC - LIS Noise Cleaner 2013",
+            "authors": "LNC - LIS Noise Cleaner 2013 , software, 2013 : HRANICKY, R.; POLCAK, L."
+        },
+        {
+            "year": "2013",
+            "title": "Nastroj pro monitorovani a kontrolu komunikace ridicich a pomocnych protokolu IPv6",
+            "authors": "Nastroj pro monitorovani a kontrolu komunikace ridicich a pomocnych protokolu IPv6 , software, 2013 : LAMPA, P."
+        },
+        {
+            "year": "2013",
+            "title": "ndtrack",
+            "authors": "ndtrack , software, 2013 : HOLKOVIC, M.; POLCAK, L."
+        },
+        {
+            "year": "2013",
+            "title": "Netfox.Framework - Nastroj pro zpracovani obsahu zachyceneho provozu",
+            "authors": "Netfox.Framework - Nastroj pro zpracovani obsahu zachyceneho provozu , software, 2013 : PLUSKAL, J.; VESELY, V.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2013",
+            "title": "PER Decoder",
+            "authors": "PER Decoder , software, 2013 : KARPISEK, F.; MATOUSEK, P."
+        },
+        {
+            "year": "2013",
+            "title": "Perl API for manipulating with nfdump files",
+            "authors": "Perl API for manipulating with nfdump files , software, 2013 : PODERMANSKI, T.; GREGR, M."
+        },
+        {
+            "year": "2013",
+            "title": "Perl implementation of Longest Prefix Match algorithm",
+            "authors": "Perl implementation of Longest Prefix Match algorithm , software, 2013 : PODERMANSKI, T.; MINISTR, M."
+        },
+        {
+            "year": "2013",
+            "title": "Prototyp systemu pro sber a uchovavani dat na lokalni siti pro komunikaci protokolem IPv6",
+            "authors": "Prototyp systemu pro sber a uchovavani dat na lokalni siti pro komunikaci protokolem IPv6 , prototype, 2013 : GREGR, M.; PODERMANSKI, T.; SOLTES, M."
+        },
+        {
+            "year": "2013",
+            "title": "QnxTimeSync - Prostredi pro mereni presnosti sitovych synchronizacnich protokolu",
+            "authors": "QnxTimeSync - Prostredi pro mereni presnosti sitovych synchronizacnich protokolu , software, 2013 : PACNER, J.; RYSAVY, O.; SVEDA, M."
+        },
+        {
+            "year": "2013",
+            "title": "RTP detektor",
+            "authors": "RTP detektor , software, 2013 : KMET, M.; MATOUSEK, P."
+        },
+        {
+            "year": "2012",
+            "title": "AclCheck",
+            "authors": "AclCheck , software, 2012 : HOZZA, T.; RYSAVY, O."
+        },
+        {
+            "year": "2012",
+            "title": "ANSAINET - IS-IS Extension",
+            "authors": "ANSAINET - IS-IS Extension , software, 2012 : HRNCIRIK, M.; VESELY, V."
+        },
+        {
+            "year": "2012",
+            "title": "ANSAINET - PIM-DM Extension",
+            "authors": "ANSAINET - PIM-DM Extension , software, 2012 : RYBOVA, V.; VESELY, V."
+        },
+        {
+            "year": "2012",
+            "title": "ANSAINET - RIPng Extension",
+            "authors": "ANSAINET - RIPng Extension , software, 2012 : TRHLIK, J.; VESELY, V."
+        },
+        {
+            "year": "2012",
+            "title": "ANSAINET - TRILL Extension",
+            "authors": "ANSAINET - TRILL Extension , software, 2012 : MAREK, M.; VESELY, V."
+        },
+        {
+            "year": "2012",
+            "title": "HTTP ReconProxy",
+            "authors": "HTTP ReconProxy , software, 2012 : OLBERT, J.; VESELY, V.; RYSAVY, O."
+        },
+        {
+            "year": "2012",
+            "title": "IMMC - Instant Messaging Metadata Creator",
+            "authors": "IMMC - Instant Messaging Metadata Creator , software, 2012 : BARTA, S.; POLCAK, L."
+        },
+        {
+            "year": "2012",
+            "title": "IPv6 transition techniques monitoring tool",
+            "authors": "IPv6 transition techniques monitoring tool , software, 2012 : GREGR, M.; PODERMANSKI, T."
+        },
+        {
+            "year": "2012",
+            "title": "LDP - LIS Deception Proxy",
+            "authors": "LDP - LIS Deception Proxy , software, 2012 : HRANICKY, R.; POLCAK, L."
+        },
+        {
+            "year": "2012",
+            "title": "LNC - LIS Noise Cleaner",
+            "authors": "LNC - LIS Noise Cleaner , software, 2012 : HRANICKY, R.; POLCAK, L."
+        },
+        {
+            "year": "2012",
+            "title": "PCAPMerger - Tool for chronological merging of multiple PCAP files",
+            "authors": "PCAPMerger - Tool for chronological merging of multiple PCAP files , software, 2012 : VESELY, V."
+        },
+        {
+            "year": "2012",
+            "title": "pcf - PC fingerprinter",
+            "authors": "pcf - PC fingerprinter , software, 2012 : JIRASEK, J.; POLCAK, L."
+        },
+        {
+            "year": "2012",
+            "title": "Realiable and secure NetFlow transport",
+            "authors": "Realiable and secure NetFlow transport , software, 2012 : PODERMANSKI, T.; STEPANEK, A.; GREGR, M."
+        },
+        {
+            "year": "2005",
+            "title": "Vutbrmsr .NET class library",
+            "authors": "Vutbrmsr .NET class library , software, 2005 : RYSAVY, O."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2022",
+            "title": "Intercepting and Collecting Web Evidence in the Times of TLS1.3 and HTTP3.0",
+            "authors": ", audiovisual work, 2022 : PLUSKAL, J.; VESELY, V."
+        },
+        {
+            "year": "2022",
+            "title": "Moznosti monitorovani a korelovani aktivit na temnych trzist pri ztotoznovani uzivatelu",
+            "authors": ", research report, 2022 : DOLEJSKA, D.; VESELY, V.; GREGR, M.; JERABEK, V."
+        },
+        {
+            "year": "2020",
+            "title": "Enhanced Interior Gateway Routing Protocol",
+            "authors": ", audiovisual work, 2020 : VESELY, V.; ZAVREL, J."
+        },
+        {
+            "year": "2020",
+            "title": "SSL/TLS Interception Workshop (TLS1.3 edition)",
+            "authors": ", audiovisual work, 2020 : PLUSKAL, J."
+        },
+        {
+            "year": "2020",
+            "title": "Towards Fully Automated Infinitely Scalable and Maximally Effective Password Cracking of Encrypted Documents",
+            "authors": ", audiovisual work, 2020 : PLUSKAL, J."
+        },
+        {
+            "year": "2019",
+            "title": "Cryptocurrency Investigation Workshop",
+            "authors": ", audiovisual work, 2019 : VESELY, V."
+        },
+        {
+            "year": "2019",
+            "title": "Hunting Down Cryptocurrency Users",
+            "authors": ", audiovisual work, 2019 : VESELY, V."
+        },
+        {
+            "year": "2019",
+            "title": "Hunting Down Cryptocurrency Users",
+            "authors": ", audiovisual work, 2019 : VESELY, V."
+        },
+        {
+            "year": "2019",
+            "title": "SSL/TLS Interception Workshop",
+            "authors": ", audiovisual work, 2019 : PLUSKAL, J.; VESELY, V."
+        },
+        {
+            "year": "2019",
+            "title": "SSL/TLS Interception Workshop (TLS1.3 edition)",
+            "authors": ", audiovisual work, 2019 : PLUSKAL, J.; VESELY, V."
+        },
+        {
+            "year": "2019",
+            "title": "Towards Fully Automated Infinitely Scalable and Maximally Effective Password Cracking of Encrypted Documents",
+            "authors": ", audiovisual work, 2019 : VESELY, V."
+        },
+        {
+            "year": "2019",
+            "title": "Towards Fully Automated Infinitely Scalable and Maximally Effective Password Cracking of Encrypted Documents",
+            "authors": ", audiovisual work, 2019 : VESELY, V."
+        },
+        {
+            "year": "2019",
+            "title": "Workshop on Evidence Collection and Analysis of Webpages",
+            "authors": ", audiovisual work, 2019 : VESELY, V."
+        },
+        {
+            "year": "2018",
+            "title": "Cryptocurrency Forensics Utilizing a Multi-currency Blockchain Explorer",
+            "authors": ", audiovisual work, 2018 : VESELY, V."
+        },
+        {
+            "year": "2018",
+            "title": "Hunting Down Cryptocurrency Users",
+            "authors": ", audiovisual work, 2018 : VESELY, V."
+        },
+        {
+            "year": "2018",
+            "title": "Souhrnna zprava k projektu DDoS ochrana clena sdruzeni CESNET",
+            "authors": ", summary research report, 2018 : GREGR, M."
+        },
+        {
+            "year": "2018",
+            "title": "SSL/TLS Interception Workshop",
+            "authors": ", audiovisual work, 2018 : VESELY, V.; PLUSKAL, J."
+        },
+        {
+            "year": "2018",
+            "title": "TLS/SSL Decryption Workshop",
+            "authors": ", audiovisual work, 2018 : PLUSKAL, J.; VESELY, V."
+        },
+        {
+            "year": "2018",
+            "title": "Towards Fully Automated Infinitely Scalable and Maximally Effective Password Cracking of Encrypted Documents",
+            "authors": ", audiovisual work, 2018 : VESELY, V."
+        },
+        {
+            "year": "2017",
+            "title": "Detection, and Analysis of SIP Fraud Attack on 100Gb Ethernet with NEMEA System",
+            "authors": ", audiovisual work, 2017 : PLUSKAL, J.; RYSAVY, O."
+        },
+        {
+            "year": "2017",
+            "title": "Souhrnna zprava k projektu DDoS ochrana clena sdruzeni CESNET",
+            "authors": ", summary research report, 2017 : GREGR, M."
+        },
+        {
+            "year": "2015",
+            "title": "Souhrnna zprava k projektu Navrh systemu pro testovani zabezpeceni site IPv6 a zpracovani incidentu v prostoru privatnich adres za rok 2015",
+            "authors": ", summary research report, 2015 : GREGR, M."
+        },
+        {
+            "year": "2006",
+            "title": "Bezpecne site mikroelektronickych systemu",
+            "authors": ", research report, 2006 : SVEDA, M., VRBA, R."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2021",
+            "title": "Bezpecnostni rizika IoT",
+            "authors": "Bezpecnostni rizika IoT , presentation, poster, 2021 : MATOUSEK, P."
+        },
+        {
+            "year": "2021",
+            "title": "CVE-2021-34571, CVE-2021-34572, CVE-2021-34573, CVE-2021-34576",
+            "authors": "CVE-2021-34571, CVE-2021-34572, CVE-2021-34573, CVE-2021-34576 , report, 2021 : POLCAK, L."
+        },
+        {
+            "year": "2021",
+            "title": "ICS Virtual Testbed",
+            "authors": "ICS Virtual Testbed , report, 2021 : MATOUSEK, P.; GROFCIK, P."
+        },
+        {
+            "year": "2021",
+            "title": "Monitoring of IoT Devices Using SNMP",
+            "authors": "Monitoring of IoT Devices Using SNMP , report, 2021 : MATOUSEK, P.; KRAJC, P."
+        },
+        {
+            "year": "2021",
+            "title": "Simulation of Industrial Processes using I/O Factory and UniPi",
+            "authors": "Simulation of Industrial Processes using I/O Factory and UniPi , report, 2021 : MATOUSEK, P.; PRISTAS, J.; MASAROVA, M."
+        },
+        {
+            "year": "2021",
+            "title": "Statistical Methods for Anomaly Detection in Industrial Communication",
+            "authors": "Statistical Methods for Anomaly Detection in Industrial Communication , report, 2021 : BURGETOVA, I.; MATOUSEK, P.; MUTUA, N."
+        },
+        {
+            "year": "2020",
+            "title": "Application of Approximate Matching on Industrial Control System (ICS) Network Communication Using Ssdeep Algorithm",
+            "authors": "Application of Approximate Matching on Industrial Control System (ICS) Network Communication Using Ssdeep Algorithm , report, 2020 : MUTUA, N."
+        },
+        {
+            "year": "2020",
+            "title": "Behavioral Anomaly Detection in Industrial Control Systems: An Evaluation of Flowmon ADS",
+            "authors": "Behavioral Anomaly Detection in Industrial Control Systems: An Evaluation of Flowmon ADS , report, 2020 : YOUSSEF, S.; RYSAVY, O."
+        },
+        {
+            "year": "2020",
+            "title": "Extrakce udalosti ze souborovych systemu - Navrh a implementace distribuovane architektury",
+            "authors": "Extrakce udalosti ze souborovych systemu - Navrh a implementace distribuovane architektury , report, 2020 : BURGET, R.; RYCHLY, M."
+        },
+        {
+            "year": "2020",
+            "title": "Learning Probabilistic Automata in the Context of IEC 104",
+            "authors": "Learning Probabilistic Automata in the Context of IEC 104 , report, 2020 : HAVLENA, V.; HOLIK, L.; MATOUSEK, P."
+        },
+        {
+            "year": "2020",
+            "title": "Mobile Device Fingerprinting",
+            "authors": "Mobile Device Fingerprinting , report, 2020 : MATOUSEK, P.; BURGETOVA, I.; VICTOR, M."
+        },
+        {
+            "year": "2020",
+            "title": "PC Browser and Android Applications Fingerprinting",
+            "authors": "PC Browser and Android Applications Fingerprinting , report, 2020 : VICTOR, M."
+        },
+        {
+            "year": "2020",
+            "title": "Security Analysis of the GOOSE Communication Protocol Using Statistical Profiling",
+            "authors": "Security Analysis of the GOOSE Communication Protocol Using Statistical Profiling , report, 2020 : WACHIURI, S."
+        },
+        {
+            "year": "2020",
+            "title": "The architecture of Fitcrack distributed password cracking system, version 2",
+            "authors": "The architecture of Fitcrack distributed password cracking system, version 2 , report, 2020 : HRANICKY, R.; ZOBAL, L.; VECERA, V.; MUCKA, M.; HORAK, A.; BOLVANSKY, D.; ZENCAK, T."
+        },
+        {
+            "year": "2019",
+            "title": "An IPFIX Extension for MQTT Protocol Monitoring",
+            "authors": "An IPFIX Extension for MQTT Protocol Monitoring , report, 2019 : RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2019",
+            "title": "Big Data cluster zalozeny na kontejnerech",
+            "authors": "Big Data cluster zalozeny na kontejnerech , report, 2019 : JERABEK, K."
+        },
+        {
+            "year": "2019",
+            "title": "DNS Over HTTPS Analysis and Detection in Regular HTTPS",
+            "authors": "DNS Over HTTPS Analysis and Detection in Regular HTTPS , report, 2019 : JERABEK, K."
+        },
+        {
+            "year": "2019",
+            "title": "Lamani hesel pomoci pravdepodobnostnich gramatik",
+            "authors": "Lamani hesel pomoci pravdepodobnostnich gramatik , report, 2019 : HRANICKY, R.; MIKUS, D.; ZOBAL, L."
+        },
+        {
+            "year": "2019",
+            "title": "Predstaveni knihovny Scrapy pro tvorbu web crawleru",
+            "authors": "Predstaveni knihovny Scrapy pro tvorbu web crawleru , report, 2019 : KOCMAN, T."
+        },
+        {
+            "year": "2019",
+            "title": "Study on visual representation of IoT diagnostic information",
+            "authors": "Study on visual representation of IoT diagnostic information , report, 2019 : GREGR, M."
+        },
+        {
+            "year": "2018",
+            "title": "Co skryva sit BitTorrent?",
+            "authors": "Co skryva sit BitTorrent? , report, 2018 : POLCAK, L."
+        },
+        {
+            "year": "2018",
+            "title": "Description of IEC 61850 Communication",
+            "authors": "Description of IEC 61850 Communication , report, 2018 : MATOUSEK, P."
+        },
+        {
+            "year": "2018",
+            "title": "Distribuce vypoctu pro nastroj hashcat",
+            "authors": "Distribuce vypoctu pro nastroj hashcat , report, 2018 : HRANICKY, R.; ZOBAL, L.; VECERA, V.; MUCKA, M."
+        },
+        {
+            "year": "2018",
+            "title": "The architecture of Fitcrack distributed password cracking system",
+            "authors": "The architecture of Fitcrack distributed password cracking system , report, 2018 : HRANICKY, R.; ZOBAL, L.; VECERA, V.; MUCKA, M."
+        },
+        {
+            "year": "2017",
+            "title": "Analysis of Constrained Application Protocol",
+            "authors": "Analysis of Constrained Application Protocol , report, 2017 : RYSAVY, O."
+        },
+        {
+            "year": "2017",
+            "title": "Analysis of DLMS Protocol",
+            "authors": "Analysis of DLMS Protocol , report, 2017 : MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Description and analysis of IEC 104 Protocol",
+            "authors": "Description and analysis of IEC 104 Protocol , report, 2017 : MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Detekce kryptomenovych tezaru",
+            "authors": "Detekce kryptomenovych tezaru , report, 2017 : VESELY, V."
+        },
+        {
+            "year": "2017",
+            "title": "Detekce mobilnich zarizeni v sitove komunikaci",
+            "authors": "Detekce mobilnich zarizeni v sitove komunikaci , report, 2017 : MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Netfox Detective - Identifikace aplikacnich protokolu pomoci algoritmu strojoveho uceni",
+            "authors": "Netfox Detective - Identifikace aplikacnich protokolu pomoci algoritmu strojoveho uceni , report, 2017 : PLUSKAL, J.; LICHTNER, O.; RYSAVY, O."
+        },
+        {
+            "year": "2017",
+            "title": "Netfox Detective 2.0 - Nastroj pro sitovou forenzni analyzu",
+            "authors": "Netfox Detective 2.0 - Nastroj pro sitovou forenzni analyzu , report, 2017 : PLUSKAL, J."
+        },
+        {
+            "year": "2017",
+            "title": "Platforma pro zpracovani dat sitove forenzni analyzy",
+            "authors": "Platforma pro zpracovani dat sitove forenzni analyzy , report, 2017 : RYCHLY, M.; RYSAVY, O."
+        },
+        {
+            "year": "2017",
+            "title": "Security Monitoring of LwM2M communication",
+            "authors": "Security Monitoring of LwM2M communication , report, 2017 : RYSAVY, O."
+        },
+        {
+            "year": "2017",
+            "title": "Zakladni informace o siti Tor",
+            "authors": "Zakladni informace o siti Tor , report, 2017 : POLCAK, L."
+        },
+        {
+            "year": "2016",
+            "title": "Network Forensic Tool Netfox Detective",
+            "authors": "Network Forensic Tool Netfox Detective , presentation, poster, 2016 : PLUSKAL, J.; RYSAVY, O."
+        },
+        {
+            "year": "2016",
+            "title": "On the Identification of Applications from Captured Network Traffic",
+            "authors": "On the Identification of Applications from Captured Network Traffic , presentation, poster, 2016 : PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2016",
+            "title": "TLS/SSL Decryption Workshop",
+            "authors": "TLS/SSL Decryption Workshop , presentation, poster, 2016 : PLUSKAL, J.; VESELY, V.; GREGR, M.; RYSAVY, O."
+        },
+        {
+            "year": "2015",
+            "title": "Concepts of Intercepted Communication Processing with Netfox Detective",
+            "authors": "Concepts of Intercepted Communication Processing with Netfox Detective , presentation, poster, 2015 : PLUSKAL, J.; RYSAVY, O."
+        },
+        {
+            "year": "2015",
+            "title": "Deliverable 2.4: RINASim - basic functionality",
+            "authors": "Deliverable 2.4: RINASim - basic functionality , report, 2015 : VESELY, V.; MAREK, M.; HYKEL, T.; RYSAVY, O.; LICHTNER, O."
+        },
+        {
+            "year": "2015",
+            "title": "Deliverable 2.6: RINASim - advanced functionality",
+            "authors": "Deliverable 2.6: RINASim - advanced functionality , report, 2015 : VESELY, V.; MAREK, M.; HYKEL, T.; RYSAVY, O.; LICHTNER, O.; JERABEK, K."
+        },
+        {
+            "year": "2015",
+            "title": "IPv6: Bezpecna sprava adresoveho prostoru",
+            "authors": "IPv6: Bezpecna sprava adresoveho prostoru , directory, 2015 : GREGR, M.; PODERMANSKI, T.; SOLTES, M.; ZADNIK, M."
+        },
+        {
+            "year": "2015",
+            "title": "IPv6: Doporuceni pro konfiguraci aktivnich prvku",
+            "authors": "IPv6: Doporuceni pro konfiguraci aktivnich prvku , directory, 2015 : GREGR, M.; PODERMANSKI, T."
+        },
+        {
+            "year": "2015",
+            "title": "Metodika testovani bezpecnostnich vlastnosti IPv6 u aktivnich prvku",
+            "authors": "Metodika testovani bezpecnostnich vlastnosti IPv6 u aktivnich prvku , directory, 2015 : GREGR, M.; PODERMANSKI, T."
+        },
+        {
+            "year": "2015",
+            "title": "Optimalizace rizeni a bezpecnosti sitovych toku pomoci softwarove definovanych siti",
+            "authors": "Optimalizace rizeni a bezpecnosti sitovych toku pomoci softwarove definovanych siti , report, 2015 : FRANKOVA, B.; HOLKOVIC, M.; POLCAK, L."
+        },
+        {
+            "year": "2014",
+            "title": "Anonymizacni sit Tor",
+            "authors": "Anonymizacni sit Tor , report, 2014 : COUFAL, Z.; POLCAK, L."
+        },
+        {
+            "year": "2014",
+            "title": "Virtualizace pocitacovych siti",
+            "authors": "Virtualizace pocitacovych siti , course reader, 2014 : VESELY, V."
+        },
+        {
+            "year": "2014",
+            "title": "Zakonne odposlechy v modernich sitich - Shrnuti vysledku skupiny pro zakonne odposlechy projektu Moderni prostredky pro boj s kybernetickou kriminalitou na Internetu nove generace",
+            "authors": "Zakonne odposlechy v modernich sitich - Shrnuti vysledku skupiny pro zakonne odposlechy projektu Moderni prostredky pro boj s kybernetickou kriminalitou na Internetu nove generace , report, 2014 : POLCAK, L.; MARTINEK, T.; HRANICKY, R.; BARTA, S.; HOLKOVIC, M.; FRANKOVA, B.; KRAMOLIS, P."
+        },
+        {
+            "year": "2013",
+            "title": "S IPv6 na vecne casy a nikdy jinak",
+            "authors": "S IPv6 na vecne casy a nikdy jinak , presentation, poster, 2013 : PODERMANSKI, T."
+        },
+        {
+            "year": "2012",
+            "title": "Analysis of tunneled traffic",
+            "authors": "Analysis of tunneled traffic , presentation, poster, 2012 : GREGR, M."
+        },
+        {
+            "year": "2012",
+            "title": "Deploying IPv6 - practical problems from the campus perspective",
+            "authors": "Deploying IPv6 - practical problems from the campus perspective , presentation, poster, 2012 : GREGR, M.; PODERMANSKI, T.; SVEDA, M."
+        },
+        {
+            "year": "2012",
+            "title": "Flow Based Monitoring of IPv6",
+            "authors": "Flow Based Monitoring of IPv6 , presentation, poster, 2012 : GREGR, M.; PODERMANSKI, T.; SOLTES, M."
+        },
+        {
+            "year": "2012",
+            "title": "IPv6 v praxi",
+            "authors": "IPv6 v praxi , lecture, 2012 : PODERMANSKI, T."
+        },
+        {
+            "year": "2012",
+            "title": "Security challenges in IPv6 from the campus perspective",
+            "authors": "Security challenges in IPv6 from the campus perspective , presentation, poster, 2012 : PODERMANSKI, T."
+        },
+        {
+            "year": "2012",
+            "title": "Testing implementations of NAT66",
+            "authors": "Testing implementations of NAT66 , presentation, poster, 2012 : GREGR, M."
+        },
+        {
+            "year": "2011",
+            "title": "Deploying IPv6 in University Campus Network - Practical Problems",
+            "authors": "Deploying IPv6 in University Campus Network - Practical Problems , presentation, poster, 2011 : GREGR, M.; PODERMANSKI, T."
+        },
+        {
+            "year": "2011",
+            "title": "Design of Data Retention System in IPv6 network",
+            "authors": "Design of Data Retention System in IPv6 network , report, 2011 : GREGR, M.; PODERMANSKI, T.; SOLTES, M.; ZADNIK, M."
+        },
+        {
+            "year": "2011",
+            "title": "IPv6 - bezpecnostni hrozby",
+            "authors": "IPv6 - bezpecnostni hrozby , lecture, 2011 : PODERMANSKI, T."
+        },
+        {
+            "year": "2011",
+            "title": "IPv6 - myty a skutecnost",
+            "authors": "IPv6 - myty a skutecnost , lecture, 2011 : PODERMANSKI, T."
+        },
+        {
+            "year": "2011",
+            "title": "Monitoring datovych toku IPv6",
+            "authors": "Monitoring datovych toku IPv6 , presentation, poster, 2011 : GREGR, M.; PODERMANSKI, T."
+        },
+        {
+            "year": "2011",
+            "title": "Security concerns and solutions with IPv6",
+            "authors": "Security concerns and solutions with IPv6 , presentation, poster, 2011 : PODERMANSKI, T."
+        },
+        {
+            "year": "2009",
+            "title": "8. konference Cisco Networking Academy 2009 na FIT",
+            "authors": "8. konference Cisco Networking Academy 2009 na FIT , editorial, 2009 : MATOUSEK, P."
+        },
+        {
+            "year": "2009",
+            "title": "A Calculus of Coercive Subtyping",
+            "authors": "A Calculus of Coercive Subtyping , report, 2009 : KOLLAR, M.; PETERKA, O.; RYSAVY, O.; SKARVADA, L."
+        },
+        {
+            "year": "2009",
+            "title": "Novy univerzitni kurz \"Multimedia v pocitacovych sitich\"",
+            "authors": "Novy univerzitni kurz \"Multimedia v pocitacovych sitich\" , presentation, poster, 2009 : MATOUSEK, P.; SKOKANOVA, J."
+        },
+        {
+            "year": "2009",
+            "title": "Review and Application of a Tool for Protocol Verification",
+            "authors": "Review and Application of a Tool for Protocol Verification , other unclassified results, 2009 : OCENASEK, P.; RIHA, T."
+        },
+        {
+            "year": "2008",
+            "title": "A Formal Approach to Network Security Analysis",
+            "authors": "A Formal Approach to Network Security Analysis , report, 2008 : MATOUSEK, P.; RYSAVY, O.; SVEDA, M.; RAB, J.; CEJKA, R."
+        },
+        {
+            "year": "2008",
+            "title": "Dependable Systems International Research and Educational Experience",
+            "authors": "Dependable Systems International Research and Educational Experience , report, 2008 : KORNECKI, A.; GREGA, W.; THIRIET, J.; SVEDA, M.; GONZALES, A.; THARP, H."
+        },
+        {
+            "year": "2008",
+            "title": "Projekt CCIE inkubator",
+            "authors": "Projekt CCIE inkubator , presentation, poster, 2008 : MATOUSEK, P."
+        },
+        {
+            "year": "2008",
+            "title": "Prumyslova bezdratova sit ZigBee",
+            "authors": "Prumyslova bezdratova sit ZigBee , report, 2008 : OCENASEK, P.; TRCHALIK, R."
+        },
+        {
+            "year": "2008",
+            "title": "Uspech studentu FIT v soutezi Networking Academy Games",
+            "authors": "Uspech studentu FIT v soutezi Networking Academy Games , editorial, 2008 : MATOUSEK, P."
+        },
+        {
+            "year": "2007",
+            "title": "A Path to Become a Skillful CCNP Expert During your University Studies",
+            "authors": "A Path to Become a Skillful CCNP Expert During your University Studies , presentation, poster, 2007 : MATOUSEK, P.; RYSAVY, O."
+        },
+        {
+            "year": "2007",
+            "title": "Automaticka analyza sitove bezpecnosti",
+            "authors": "Automaticka analyza sitove bezpecnosti , presentation, poster, 2007 : MATOUSEK, P."
+        },
+        {
+            "year": "2007",
+            "title": "Network Security by Cisco",
+            "authors": "Network Security by Cisco , lecture, 2007 : MATOUSEK, P."
+        },
+        {
+            "year": "2007",
+            "title": "Ontologie a semanticky web",
+            "authors": "Ontologie a semanticky web , report, 2007 : OCENASEK, P."
+        },
+        {
+            "year": "2006",
+            "title": "Implementace kurzu NetAcad na FIT VUT v Brne",
+            "authors": "Implementace kurzu NetAcad na FIT VUT v Brne , lecture, 2006 : MATOUSEK, P."
+        },
+        {
+            "year": "2006",
+            "title": "Nastroje pro analyzu bezpecnostnich protokolu",
+            "authors": "Nastroje pro analyzu bezpecnostnich protokolu , lecture, 2006 : MATOUSEK, P."
+        },
+        {
+            "year": "2006",
+            "title": "Prakticke ulohy z pocitacovych siti",
+            "authors": "Prakticke ulohy z pocitacovych siti , presentation, poster, 2006 : MATOUSEK, P."
+        },
+        {
+            "year": "2006",
+            "title": "Semanticky web tutorial",
+            "authors": "Semanticky web tutorial , presentation, poster, 2006 : OCENASEK, P.; STUCHLIK, R."
+        }
+    ],
+    "equipment": {
+        "equipment_and_devices": {
+            "Network analyzers and testers": [
+                {
+                    "name": "Spirent Test Center",
+                    "description": "equipment for testing network devices and services. Suitable for both traditional performance testing and more detailed analysis of network devices and services."
+                },
+                {
+                    "name": "OptiView DSVS Gig/WGA",
+                    "description": "device for computer network monitoring and diagnostics."
+                },
+                {
+                    "name": "FlowMon Collector R5-1000 Pro",
+                    "description": "collector for Netflow monitoring of computer network traffic."
+                },
+                {
+                    "name": "Base T/Portable-Desktop Tap and servers with SSD storage",
+                    "description": "equipment designed to monitor data on metallic networks."
+                }
+            ],
+            "Virtual and test environment": [
+                {
+                    "name": "CiscoLab",
+                    "description": "a virtualization environment for emulating active network elements, see laboratory C304 ."
+                },
+                {
+                    "name": "IP DSLAM and a set of ADSL/VDSL modems.",
+                    "description": "Simulation of household connections using xDSL technologies with IPv6 support, see laboratory O203 ."
+                }
+            ],
+            "Special computing resources": [
+                {
+                    "name": "Lamac1",
+                    "description": "prototype capable of hosting up to 8 graphics cards with standard cooling designed for distributed computing over GPU"
+                },
+                {
+                    "name": "Lamac2",
+                    "description": "a prototype capable of hosting up to 2 water-cooled graphics cards designed for distributed computing on top of the GPU"
+                }
+            ]
+        }
+    }
+}

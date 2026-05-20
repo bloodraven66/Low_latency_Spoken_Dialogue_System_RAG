@@ -1,0 +1,37 @@
+{
+    "project": "Combined passive and active network monitoring",
+    "title": "Kombinovane pasivni a aktivni sitove monitorovani",
+    "metadata": {
+        "project_period": "1. 1. 2024 \u2013 30. 6. 2026",
+        "project_type": "grant",
+        "code": "FW10010040",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "10. verejna soutez - Program na podporu aplikovaneho vyzkumu, experimentalniho vyvoje TREND, podprogram 1"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Combined passive and active network monitoring"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "active monitoring; synthetic monitoring; hybrid monitoring; SaaS monitoring; cloud applications monitoring"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project aims to allow network administrators to monitor cloud applications in a way that will enable them to detect potential problems in time and respond adequately to them. The user obtains information about the availability and performance of individual cloud applications. When a problem appears, it will also be possible to identify whether it is caused by an error in the local network, an error on the side of the application, or an error in the network on the side of the service provider. This will be achieved using active network monitoring techniques, through which it will be possible to send artificially created requests to cloud applications and analyze their responses to determine the health of the applications. The resulting solution will integrate active and passive techniqu"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Rysavy Ondrej, doc. Ing., Ph.D. (DIFS) \u2013 research leader Kuchynka Marek, Ing. (DFIT-ISD) Matousek Petr, doc. Ing., Ph.D., M.A. (DIFS) Musil Ondrej (DFIT-ISD) Mutua Nelson Makau, M.Sc. (DIFS) Polcak Libor, Ing., Ph.D. (DIFS) Polisensky Jan, Ing. (DIFS) Vondracek Martin, Ing. (DIFS)"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- INVENTOR FW10010040-V1: Monitorovaci agent , software, 2024 Authors : RYSAVY, O.; MATOUSEK, P.; HOLKOVIC, M.; KORVAS, V.; ASSATULLA, D.; ELICH, M.; FRIEDL, R.; HORACEK, P.; KICINKA, K.; MUTUA, N.; PANEK, M.; PIKL, J.; PODLUZANSKY, P.; POLANSKY, M.; POLCAK, L."
+        }
+    }
+}

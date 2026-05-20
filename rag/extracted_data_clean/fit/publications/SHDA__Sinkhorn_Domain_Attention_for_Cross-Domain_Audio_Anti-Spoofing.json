@@ -1,0 +1,67 @@
+{
+    "publication": "ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; XU, J.; LU, W. SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing. IEEE Transactions on Information Forensics and Security, 2025, no. 20, p. 6474-6489. Detail ZHANG, Y.; TIAN, B.; ZHANG, L.; DUAN, Z. PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 5353-5357.",
+    "year": "2025",
+    "title": "SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "journal article"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Zhang Ruiteng Wei Jianguo Lu Xugang Zhang Lin, Ph.D. Jin Di Xu Junhai Lu Wenhuan"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Audio anti-spoofing algorithms struggle with fake samples from unseen spoofing techniques, even when trained with diverse data sets or data augmentation strategies. Unsupervised domain adaptation (UDA) algorithms have the potential to mitigate this challenge. Typically, UDA assumes that the source and target domains are distinct distributions with clear boundaries and seeks to align model representations between them. However, in anti-spoofing, various spoofing algorithms could cause the distributions of the generated samples to overlap, resulting in unclear domain boundaries. This hinders UDA algorithms from effectively measuring and aligning domain discrepancies. Moreover, forcibly aligning samples with significant discrepancies could diminish the model's discriminative capability. To solve this problem, we propose a domain attention algorithm with optimal transport (OT), termed Sinkhorn Domain Attention (SHDA). Unlike traditional attention mechanisms, SHDA identifies the optimal transfer plan by analyzing the global probability differences among cross-domain samples. Specifically, we first extract audio representations from various domains to compute the overall cost matrix between the source and target domains. Next, we employ Sinkhorn's iteration to calculate the OT coupling matrix, where cross-domain samples with minor differences receive higher transfer weights, while those with substantial differences receive lower weights. Finally, we use the coupling and cost matrices to compute the adaptation loss, effectively transferring the anti-spoofing model from multiple sources to the target domain. We conducted eight cross-domain experiments using eleven well-known anti-spoofing corpora. The results indicate that our label-free SHDA surpassed the state-of-the-art model by 40%."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Feature extraction, Adaptation models, Training, Couplings, Data models, Costs, Performance evaluation, Data mining, Data augmentation, Computational modeling, Audio anti-spoofing, cross-domain, unsupervised domain adaptation, optimal transport, domain attention"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2025"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "6474\u20136489"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "IEEE Transactions on Information Forensics and Security, no. 20, ISSN"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1109/TIFS.2025.3576576"
+        },
+        "ut_wos": {
+            "label": "UT WoS",
+            "text": "001521429100006"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@article{BUT199982, author=\"{} and {} and {} and Lin {Zhang} and {} and {} and {}\", title=\"SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing\", journal=\"IEEE Transactions on Information Forensics and Security\", year=\"2025\", number=\"20\", pages=\"6474--6489\", doi=\"10.1109/TIFS.2025.3576576\", issn=\"1556-6013\", url=\"https://ieeexplore.ieee.org/abstract/document/11024052\" }"
+        },
+        "files": {
+            "label": "Files",
+            "text": "- pdf zhang_icassp2025_SHDA_Sinkhorn_Domain_Attention_for_Cross-Domain_Audio_Anti-Spoofing.pdf 4 MB"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat , BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        "research_groups": {
+            "label": "Research groups",
+            "text": "Speech Data Mining Research Group BUT Speech@FIT (RG SPEECH)"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Computer Graphics and Multimedia (DCGM) Speech Data Mining Research Group BUT Speech@FIT (RG SPEECH)"
+        }
+    }
+}

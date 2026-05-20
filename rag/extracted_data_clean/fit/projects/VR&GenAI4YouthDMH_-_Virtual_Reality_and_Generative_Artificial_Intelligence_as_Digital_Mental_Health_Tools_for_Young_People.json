@@ -1,0 +1,28 @@
+{
+    "project": "VR&GenAI4YouthDMH - Virtual Reality and Generative Artificial Intelligence as Digital Mental Health Tools for Young People",
+    "title": "VR&GenAI4YouthDMH - Virtual Reality and Generative Artificial Intelligence as Digital Mental Health Tools for Young People",
+    "metadata": {
+        "project_period": "30. 9. 2024 \u2013 29. 9. 2028",
+        "project_type": "grant",
+        "agency": "European Union",
+        "program": "European Cooperation in Science and Technology (COST)"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Virtualni realita a generativni umela inteligence jako nastroje digitalniho mentalniho zdravi mladych lidi"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project will contribute to the activities of COST Action CA23153 - YouthDMH - in the areas related to using virtual reality, enhanced by wearable technologies, for cognitive behavioural therapy of anxiety disorders among young people, and generative artificial intelligence-based conversational agents for contextual and early assessment of their mental health and wellbeing."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader"
+        }
+    }
+}

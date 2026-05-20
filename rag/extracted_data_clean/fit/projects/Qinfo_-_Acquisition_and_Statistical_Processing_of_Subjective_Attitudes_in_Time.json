@@ -1,0 +1,33 @@
+{
+    "project": "Qinfo - Acquisition and Statistical Processing of Subjective Attitudes in Time",
+    "title": "Qinfo - Zjistovani a statisticke vyhodnocovani subjektivnich postoju v case",
+    "metadata": {
+        "project_period": "1. 9. 2023 \u2013 31. 8. 2026",
+        "project_type": "grant",
+        "code": "TQ01000036",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "1. verejna soutez programu SIGMA"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Qinfo - Acquisition and Statistical Processing of Subjective Attitudes in Time"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Subjective attitude; disinformation; perception; software"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The goal of the project is to create a complex tool for research of subjective attitudes and preferences in time, targeted on questions of resilience to disinformation, perception of media and other sources of information and perception of democracy and social mechanism. The first component of the developed tool will be a general software tool for research of subjective attitudes based on the Q methodology. The second component will be a set of set of tools for immediate evaluation and visualisation of the research data. The third component will be research sets targeted on the dominant themes of the project: resiliency against disinformation, perception of information sources, perception of social threats, perception of democracy and democratic mechanisms."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Herout Adam, prof. Ing., Ph.D. (DCGM) \u2013 research leader Bartl Vojtech, Ing., Ph.D. (DCGM) Beran Vitezslav, doc. Ing., Ph.D. (DCGM) Hynek Jiri, Ing., Ph.D. (DIFS) Milet Tomas, Ing., Ph.D. (DCGM) Omachtova Alena, Ing. (DCGM) Strycek Simon, Ing. (DCGM) Vasko Marek, Ing. (DCGM)"
+        }
+    }
+}

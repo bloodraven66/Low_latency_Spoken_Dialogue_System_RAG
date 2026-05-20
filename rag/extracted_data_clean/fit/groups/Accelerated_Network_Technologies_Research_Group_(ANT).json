@@ -1,0 +1,868 @@
+{
+    "group": "Accelerated Network Technologies Research Group (ANT)",
+    "about": {
+        "accelerated_network_technologies_research_group": [
+            "2014: RSoC framework for rapid development of network applications using FPGA SoC Zynq (awarded in the Best cooperation of the year competition, Technology Agency of Czech Republic prize )",
+            "2016: COMBO-CG - one of the first 100Gb FPGA acceleration cards worldwide ( Industrie Prize in the Czech Head competition )",
+            "2018: Lawful Interception L7 Probe ( Award of the Minister of the Interior for extraordinary results in the field of security research)",
+            "2020: P4 compiler (successfully commercialized by Netcope Technologies)"
+        ],
+        "research_interests": [
+            "Hardware acceleration of time-critical operations in computer networks",
+            "Design and optimization of hardware architectures",
+            "Design of new devices and systems for network infrastructure",
+            "Network monitoring and security",
+            "Utilization of machine learning techniques for network traffic analysis and network security"
+        ],
+        "significant_results": [
+            "2016: COMBO-CG card - was one of the first 100Gb FPGA acceleration cards, which was designed and produced with a great response in the research community and industry as well. The card was used in network monitoring and security products, for example, by one of the leading network test equipment manufacturers. It has been awarded by Czech Head price in the Industrie category for its unique features and successful application on the market.",
+            "2018: Probe with L7 analysis - we designed and developed a unique probe for high-speed analysis of application protocols and lawful interception of network traffic. The probe has been designed based on the long-term cooperation with security agencies in the area of cybersecurity. Despite the probe being a small embedded device, it has unique features and high throughput. Therefore the authors have been awarded the Minister of the Interior Prize for outstanding results in the area of security research.",
+            "2020: P4 compiler for FPGA technology - the application of hardware acceleration is usually limited by low flexibility and long development cycle. Network engineers are not able to program new hardware functions. New functions have to be implemented by experienced hardware designers, which takes time and money. To provide more flexibility for hardware acceleration, we participated in the research and development of a unique P4 language compiler, which was successfully commercialized by Netcope Technologies."
+        ],
+        "cooperation": [
+            "Strong cooperation with the CESNET association within the scope of the Liberouter project.",
+            "The companies Flowmon Networks and Netcope Technologies were founded on the basis of research results developed within the Liberouter project.",
+            "Regular PhD students internships at the University of Cambridge and the Queen Mary University of London .",
+            "In cooperation with the CZ.NIC association, we work on hardware acceleration of DNS traffic monitoring and high-speed processing of DNS queries."
+        ],
+        "information": [
+            "korenek@fit.vutbr.cz"
+        ],
+        "overview": [
+            "The Accelerated Network Technologies (ANT) research group is focused on hardware acceleration of network devices and systems, which can be used for network monitoring and security. During more than fifteen years of existence, the ANT research team gained substantial expertise in the field of digital design and verification of hardware architectures, network performance monitoring and network security.The primary research goal is to design new algorithms and architectures for cheaper and faster network devices and systems. The group deals with the design and optimization of architectures, primarily for FPGA technology. Network traffic analysis and detection of network threats use machine learning techniques and artificial intelligence.Team members participated in the design and development of many unique devices and systems, which were successfully commercialized or used by security agencies to fight against cybercrime. For example, we contributed to the following research results:",
+            "Most of the research results were created in cooperation with theCESNETassociation within theLiberouterproject. Two successful spin-off companiesFlowmon NetworksandNetcope Technologieswere created based on the excellent research results and in cooperation with CESNET. Both companies are growing rapidly and have a global presence. The ANT research group has also research contracts with a number of companies, as well as with non-profit organizations."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Korenek Jan, doc. Ing., Ph.D.",
+                "position": "Principal researcher"
+            }
+        ],
+        "researcher": [
+            {
+                "name": "Kekely Lukas, Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Korcek Pavol, Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Kosar Vlastimil, Ing., Ph.D.",
+                "position": "Researcher"
+            },
+            {
+                "name": "Martinek Tomas, doc. Ing., Ph.D.",
+                "position": "Researcher",
+                "notes": [
+                    "Bioinformatics",
+                    "Hardware acceleration of algorithms in bioinformatics",
+                    "FPGA Technology",
+                    "High Level Synthesis"
+                ]
+            },
+            {
+                "name": "Matousek Jiri, Ing., Ph.D.",
+                "position": "Researcher",
+                "notes": [
+                    "hardware acceleration of network algorithms using FPGA",
+                    "generation of synthetic data sets for network algorithms benchmarking"
+                ]
+            },
+            {
+                "name": "Zadnik Martin, Ing., Ph.D.",
+                "position": "Researcher"
+            }
+        ],
+        "phd_student": [
+            {
+                "name": "Fukac Tomas, Ing., Ph.D.",
+                "position": "PhD student"
+            },
+            {
+                "name": "Kucera Jan, Ing., Ph.D.",
+                "position": "PhD student",
+                "notes": [
+                    "Hardware acceleration of algorithms using FPGA.",
+                    "High-speed network security and monitoring.",
+                    "Packet classification in high-speed networks."
+                ]
+            },
+            {
+                "name": "Orsak Michal, Ing.",
+                "position": "PhD student"
+            },
+            {
+                "name": "Setinsky Jiri, Ing.",
+                "position": "PhD student"
+            },
+            {
+                "name": "Sismis Lukas, Ing.",
+                "position": "PhD student"
+            }
+        ],
+        "student": [
+            {
+                "name": "Gurka Oliver, Bc.",
+                "position": "Student"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2021",
+            "title": "Research and development of hardware actions and computer networks security",
+            "details": "CESNET, start: 2021-04-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "CESNET - implementation, debugging and testing.",
+            "details": "CESNET, start: 2020-05-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Flexible probe for lawful interceptions",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022143, start: 2019-07-01, end: 2022-09-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Acceleration of the DNS collector",
+            "details": "CZ.NIC, z.s.p.o., start: 2018-02-01, end: 2099-12-31, running"
+        },
+        {
+            "year": "2017",
+            "title": "IotCloud - Intelligence for IoT systems",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH02010845, start: 2017-01-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Cooperation in the development of the Turris Omina router",
+            "details": "CZ.NIC, z.s.p.o., start: 2016-01-01, end: 2025-12-31, running"
+        },
+        {
+            "year": "2016",
+            "title": "Monitoring the Internet of things wireless networks for security reseasons",
+            "details": "CESNET, start: 2016-07-01, end: 2017-06-30, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Design of a system for testing security in IPv6 networks and processing incidents containing private addresses",
+            "details": "CESNET, start: 2015-06-01, end: 2016-06-30, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Development of FreeRTOS driver for reconfigurable platform",
+            "details": "RehiveTech, start: 2014-06-02, end: 2015-03-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Development of Turris router",
+            "details": "CZ.NIC, z.s.p.o., 01032014, start: 2014-03-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "New product development for Racom company",
+            "details": "RACOM s.r.o., start: 2014-02-14, end: 2015-02-14, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Nasazeni pokrocilych optimalizacnich technik pri navrhu modernich cislicovych obvodu zalozenych na rekonfigurovatelnych architekturach",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR298/2011/G1, start: 2011-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "NetCOPE for the NetFPGA-10G card",
+            "details": "Inkubator VUT, JIC-InVo-INVEA-2010, start: 2010-09-29, end: 2011-06-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Vyuziti modernich pristupu k vytvareni cislicovych systemu zalozenych na rekonfigurovatelnych architekturach",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2348/2010/G1, start: 2010-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "TeamIT - Building Competitive Research Teams in IT",
+            "details": "MSMT, Operacni program Vzdelavani pro konkurenceschopnost, EE2.3.09.0067, start: 2009-09-01, end: 2012-08-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Opticka sit narodniho vyzkumu a jeji nove aplikace",
+            "details": "MSMT, Vyzkumna centra (2000-2004), MSM6383917201, start: 2004-01-01, end: 2010-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2024",
+            "details": "GOLDSCHMIDT, P.; KUCERA, J. Windower: Feature Extraction for Real-Time DDoS Detection Using Machine Learning. NOMS 2024-2024 IEEE Network Operations and Management Symposium. Seoul: Institute of Electrical and Electronics Engineers, 2024. p. 1-10. ISBN: 979-8-3503-2793-9. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "MARTINEK, T.; KORENEK, J.; CEJKA, T. LGBM2VHDL: Mapping of LightGBM Models to FPGA. In 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). Orlando, FL: IEEE Computer Society, 2024. p. 97-103. ISBN: 979-8-3503-7243-4. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "KOSAR, V.; SISMIS, L.; MATOUSEK, J.; KORENEK, J. Accelerating IDS Using TLS Pre-Filter in FPGA. In Proceedings - IEEE Symposium on Computers and Communications. Tunis: IEEE Computer Society, 2023. p. 436-442. ISBN: 979-8-3503-0048-2. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "SISMIS, L.; KORENEK, J. Analysis of TLS Prefiltering for IDS Acceleration. In Passive and Active Measurement 2023. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Madrid: Springer Nature Switzerland AG, 2023. no. 13882, p. 85-109. ISBN: 978-3-031-28485-4. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "MATOUSEK, J.; LUCANSKY, A.; JANECEK, D.; SABO, J.; KORENEK, J.; ANTICHI, G. ClassBench-ng: Benchmarking Packet Classification Algorithms in the OpenFlow Era. IEEE-ACM Transactions on Networking, 2022, vol. 30, no. 5, p. 1912-1925. ISSN: 1558-2566. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "FUKAC, T.; KORENEK, J.; MATOUSEK, J. Scalability of Hash-based Pattern Matching for High-speed Network Security and Monitoring. In Proceedings - IEEE Symposium on Computers and Communications. Athens: Institute of Electrical and Electronics Engineers, 2021. p. 1-6. ISBN: 978-1-6654-2744-9. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "FUKAC, T.; MATOUSEK, J.; KORENEK, J.; KEKELY, L. Increasing Memory Efficiency of Hash-Based Pattern Matching for High-Speed Networks. In 2021 International Conference on Field-Programmable Technology, ICFPT 2021. Auckland: Institute of Electrical and Electronics Engineers, 2021. p. 185-193. ISBN: 978-1-6654-2010-5. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "GOLDSCHMIDT, P.; KUCERA, J. Defense Against SYN Flood DoS Attacks Using Network-based Mitigation Techniques. In Proceedings of the IM 2021 - 2021 IFIP/IEEE International Symposium on Integrated Network Management. Bordeaux: International Federation for Information Processing, 2021. p. 772-777. ISBN: 978-3-903176-32-4. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "ORSAK, M.; BENES, T. High-speed stateful packet classifier based on TSS algorithm optimized for off-chip memories. In Proceedings - 2021 24th International Symposium on Design and Diagnostics of Electronic Circuits and Systems, DDECS 2021. Viden: CESNET National Research and Education Network, 2021. p. 151-156. ISBN: 978-1-6654-3595-6. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "FUKAC, T.; KOSAR, V.; KORENEK, J.; MATOUSEK, J. Increasing Throughput of Intrusion Detection Systems by Hash-Based Short String Pre-Filter. In Proceedings - Conference on Local Computer Networks, LCN. Sydney (virtual): Institute of Electrical and Electronics Engineers, 2020. p. 509-514. ISBN: 978-1-7281-7158-6. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KEKELY, L.; CABAL, J.; PUS, V.; KORENEK, J. Multi Buses: Theory and Practical Considerations of Data Bus Width Scaling in FPGAs. In Proceedings - Euromicro Conference on Digital System Design, DSD 2020. Kranj: IEEE Computer Society, 2020. p. 49-56. ISBN: 978-1-7281-9535-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KEKELY, M.; KEKELY, L.; KORENEK, J. General memory efficient packet matching FPGA architecture for future high-speed networks. Microprocessors and Microsystems, 2020, vol. 73, no. 3, p. 1-12. ISSN: 0141-9331. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KORENEK, J.; KORCEK, P.; KEKELY, L. Akcelerace analyzy sitoveho provozu. Data Security Management, 2020, roc. 24, c. 4, s. 30-34. ISSN: 1211-8737. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KUCERA, J.; BEN BASAT, R.; KUKA, M.; ANTICHI, G.; YU, M.; MITZENMACHER, M. Detecting Routing Loops in the Data Plane. In CoNEXT 2020 - Proceedings of the 16th International Conference on Emerging Networking EXperiments and Technologies. New York, NY: Association for Computing Machinery, 2020. p. 466-473. ISBN: 978-1-4503-7948-9. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "KUCERA, J.; POPESCU, D.; WANG, H.; MOORE, A.; KORENEK, J.; ANTICHI, G. Enabling Event-Triggered Data Plane Monitoring. In SOSR 2020 - Proceedings of the 2020 Symposium on SDN Research. New York, NY: Association for Computing Machinery, 2020. p. 14-26. ISBN: 978-1-4503-7101-8. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HAVLENA, V.; CESKA, M.; HOLIK, L.; KORENEK, J.; LENGAL, O.; MATOUSEK, D.; MATOUSEK, J.; SEMRIC, J.; VOJNAR, T. Deep Packet Inspection in FPGAs via Approximate Nondeterministic Automata. In Proceedings - 27th IEEE International Symposium on Field-Programmable Custom Computing Machines, FCCM 2019. San Diego, CA: Institute of Electrical and Electronics Engineers, 2019. p. 109-117. ISBN: 978-1-7281-1131-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KEKELY, L.; CABAL, J.; KORENEK, J. Effective FPGA Architecture for General CRC. In Architecture of Computing Systems - ARCS 2019. Neuvedeno: Springer International Publishing, 2019. p. 211-223. ISBN: 978-3-030-18655-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KUCERA, J.; KEKELY, L.; PIECEK, A.; KORENEK, J. General IDS Acceleration for High-Speed Networks. In Proceedings - 2018 IEEE 36th International Conference on Computer Design, ICCD 2018. Orlando: Institute of Electrical and Electronics Engineers, 2019. p. 366-373. ISBN: 978-1-5386-8477-1. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KUKA, M.; VOJANEC, K.; KUCERA, J.; BENACEK, P. Accelerated DDoS Attacks Mitigation using Programmable Data Plane. In 2019 ACM/IEEE Symposium on Architectures for Networking and Communications Systems, ANCS 2019. Cambridge: Institute of Electrical and Electronics Engineers, 2019. p. 1-3. ISBN: 978-1-7281-4387-3. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MATOUSEK, J. Addressing Issues in Research on Packet Classification in Core Networks. Brno: Faculty of Information Technology BUT, 2019. 101 p. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "VESELY, V.; ZADNIK, M. How to detect cryptocurrency miners? By traffic forensics!. Digital Investigation, 2019, vol. 31, no. 31, p. 1-14. ISSN: 1742-2876. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CABAL, J.; BENACEK, P.; KEKELY, L.; KEKELY, M.; PUS, V.; KORENEK, J. Configurable FPGA Packet Parser for Terabit Networks with Guaranteed Wire-Speed Throughput. In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. New York: Association for Computing Machinery, 2018. p. 249-258. ISBN: 978-1-4503-5614-5. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KEKELY, L.; CABAL, J.; KORENEK, J. High-Speed Computation of CRC Codes for FPGAs. In Proceedings of the 2018 International Conference on Field-Programmable Technology (FPT 2018). Naha: IEEE Computer Society, 2018. p. 237-240. ISBN: 978-1-7281-0214-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KEKELY, M.; KEKELY, L.; KORENEK, J. Memory Aware Packet Matching Architecture for High-Speed Networks. In Proceedings of the 21st Euromicro Conference on Digital Systems Design. Praha: IEEE Computer Society, 2018. p. 1-8. ISBN: 978-1-5386-7376-8. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KORENEK, J. Hardware Acceleration in Computer Networks. Brno: 2018. 87 p. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KUCERA, J.; KEKELY, L.; PUS, V.; PIECEK, A.; KORENEK, J. Hardware Acceleration of Intrusion Detection Systems for High-Speed Networks. In Proceedings of the 2018 Symposium on Architectures for Networking and Communications Systems. Ithaca, NY: Association for Computing Machinery, 2018. p. 177-178. ISBN: 978-1-4503-5902-3. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MATOUSEK, D.; KUBIS, J.; MATOUSEK, J.; KORENEK, J. Regular Expression Matching with Pipelined Delayed Input DFAs for High-speed Networks. In ANCS 2018 - Proceedings of the 2018 Symposium on Architectures for Networking and Communications Systems. Ithaca, NY: Association for Computing Machinery, 2018. p. 104-110. ISBN: 978-1-4503-5902-3. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MATOUSEK, D.; MATOUSEK, J.; KORENEK, J. High-speed Regular Expression Matching with Pipelined Memory-based Automata. Proceedings - 26th IEEE International Symposium on Field-Programmable Custom Computing Machines, FCCM 2018. Boulder, CO: IEEE Computer Society, 2018. p. 214-214. ISBN: 978-1-5386-5522-1. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "MATOUSEK, J.; ANTICHI, G.; LUCANSKY, A.; MOORE, A.; KORENEK, J. ClassBench-ng: Recasting ClassBench After a Decade of Network Evolution. In Proceedings - 2017 ACM/IEEE Symposium on Architectures for Networking and Communications Systems, ANCS 2017. Beijing: IEEE Computer Society, 2017. p. 204-216. ISBN: 978-1-5090-6386-4. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "BARTOS, V.; KORENEK, J. Evaluating Reputation of Internet Entities. In Management and Security in the Age of Hyperconnectivity. Lecture Notes in Computer Science. Munich: Springer International Publishing, 2016. p. 132-136. ISBN: 978-3-319-39813-6. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "GROCHOL, D.; SEKANINA, L.; KORENEK, J.; ZADNIK, M.; KOSAR, V. Evolutionary Circuit Design for Fast FPGA-Based Classification of Network Application Protocols. APPLIED SOFT COMPUTING, 2016, vol. 38, no. 1, p. 933-941. ISSN: 1568-4946. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KORENEK, J.; VIKTORIN, J. Packet Processing on FPGA SoC with DPDK. In 26th International Conference on Field-Programmable Logic and Applications. Lausanne: Ecole Polytechnique Federale de Lausanne, 2016. p. 578-579. ISBN: 978-2-8399-1844-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KOSAR, V.; KORENEK, J. Dynamically Reconfigurable Architecture with Atomic Configuration Updates for Flexible Regular Expressions Matching in FPGA. In Proceedings of The 19th Euromicro Conference on Digital Systems Design. Limassol: IEEE Computer Society, 2016. p. 591-598. ISBN: 978-1-5090-2816-0. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "MATOUSEK, D.; KORENEK, J.; PUS, V. High-speed Regular Expression Matching with Pipelined Automata. In Proceedings of the 2016 International Conference on Field Programmable Technology. Xi'an: IEEE Computer Society, 2016. p. 93-100. ISBN: 978-1-5090-5602-6. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "BARTOS, V. Using Application-Aware Flow Monitoring for SIP Fraud Detection. In Intelligent Mechanisms for Network Configuration and Security. Lecture Notes in Computer Science. Ghent: Springer International Publishing, 2015. p. 87-99. ISBN: 978-3-319-20033-0. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "KEKELY, L.; KUCERA, J.; PUS, V.; KORENEK, J.; VASILAKOS, A. Software Defined Monitoring of Application Protocols. IEEE TRANSACTIONS ON COMPUTERS, 2015, vol. 65, no. 2, p. 615-626. ISSN: 0018-9340. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "KOSAR, V.; KORENEK, J. Towards Efficient Field Programmable Pattern Matching Array. In Proceedings of the 18th Euromicro Conference on Digital Systems Design. Funchal: IEEE Computer Society, 2015. p. 1-8. ISBN: 978-1-4673-8035-5. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "BARTOS, V.; ZADNIK, M. An Analysis of Correlations of Intrusion Alerts in an NREN. In 2014 IEEE 19th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD). Atheny: IEEE Communications Society, 2014. p. 305-309. ISBN: 978-1-4799-5725-5. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "DVORAK, M.; KORENEK, J. Low Latency Book Handling in FPGA for High Frequency Trading. In 17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Warszawa: IEEE Computer Society, 2014. p. 175-178. ISBN: 978-1-4799-4558-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KEKELY, L. Software Defined Monitoring: Novy pristup k monitorovaniu vysokorychlostnych pocitacovych sieti. Pocitacove architektury a diagnostika 2014. Liberec: Liberec University of Technology, 2014. s. 74-79. ISBN: 978-80-7494-027-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KEKELY, L.; PUS, V.; BENACEK, P.; KORENEK, J. Trade-offs and Progressive Adoption of FPGA Acceleration in Network Traffic Monitoring. In 2014 24th International Conference on Field Programmable Logic and Applications (FPL 2014). Munich: IEEE Circuits and Systems Society, 2014. p. 264-267. ISBN: 978-3-00-044645-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KEKELY, L.; PUS, V.; KORENEK, J. Software Defined Monitoring of Application Protocols. In Proceedings of IEEE INFOCOM 2014 - IEEE Conference on Computer Communications. Toronto: IEEE Computer Society, 2014. p. 1725-1733. ISBN: 978-1-4799-3360-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KEKELY, L.; ZADNIK, M.; MATOUSEK, J.; KORENEK, J. Fast Lookup for Dynamic Packet Filtering in FPGA. In Proceedings of the 2014 IEEE 17th International Symposium on Design and Diagnostics of Electronic Circuits and Systems, DDECS 2014. Warszawa: IEEE Computer Society, 2014. p. 219-222. ISBN: 978-1-4799-4558-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KOSAR, V.; KORENEK, J. Multi-Stride NFA-Split Architecture for Regular Expression Matching Using FPGA. Proceedings of the 9th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: NOVPRESS s.r.o., 2014. p. 77-88. ISBN: 978-80-214-5022-6. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KOSAR, V.; KORENEK, J. On NFA-Split Architecture Optimizations. In 2014 IEEE 17th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS). Warsaw: IEEE Computer Society, 2014. p. 274-277. ISBN: 978-1-4799-4558-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MATOUSEK, J. Analyza dynamickych vlastnosti smerovacich tabulek pro efektivnejsi implementaci smerovani v paternich sitich. Sbornik prispevku PAD-2014 - elektronicka verze. Liberec: Technicka univerzita v Liberci, 2014. s. 129-134. ISBN: 978-80-7494-027-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "PUS, V.; KEKELY, L.; KORENEK, J. Design Methodology of Configurable High Performance Packet Parser for FPGA. In 17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Warszawa: IEEE Computer Society, 2014. p. 189-194. ISBN: 978-1-4799-4558-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "VIKTORIN, J. Vyuziti dynamicke rekonfigurace vestavenych systemu pro monitorovani pocitacovych siti. Pocitacove architektury a diagnostika 2014. Liberec: Technicka univerzita v Liberci, 2014. s. 50-55. ISBN: 978-80-7494-027-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "VIKTORIN, J.; KORCEK, P.; KORENEK, J.; FUKAC, T. Network monitoring probe based on Xilinx Zynq. In Proceedings of the 2012 Tenth ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS 2014). Marina del Rey, CA, USA: Association for Computing Machinery, 2014. p. 237-238. ISBN: 978-1-4503-2839-5. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ZAVODNIK, T.; KEKELY, L.; PUS, V. CRC based hashing in FPGA using DSP blocks. In 17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Warszawa: IEEE Computer Society, 2014. p. 179-182. ISBN: 978-1-4799-4558-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "BARTOS, V. Analyza sitoveho provozu pomoci statistik o provozu jednotlivych stanic. Pocitacove architektury a diagnostika 2013. Tepla: 2013. s. 1-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HOFSTEDE, R.; BARTOS, V.; SPEROTTO, A.; PRAS, A. Towards Real-Time Intrusion Detection for NetFlow and IPFIX. In Proceedings of the 9th International Conference on Network and Service Management. Zurich: International Federation for Information Processing, 2013. p. 1-6. ISBN: 978-3-901882-53-1. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KOSAR, V. Optimalizace architektury NFA-Split. Pocitacove architektury a diagnostika PAD 2013. Plzen: Zapadoceska univerzita v Plzni, 2013. s. 81-86. ISBN: 978-80-261-0270-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KOSAR, V.; ZADNIK, M.; KORENEK, J. NFA Reduction for Regular Expressions Matching Using FPGA. Proceedings of the 2013 International Conference on Field Programmable Technology. Kyoto: IEEE Computer Society, 2013. p. 338-341. ISBN: 978-1-4799-2199-7. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "KOVACIK, M.; KAJAN, M.; ZADNIK, M. Detecting IP-spoofing by modelling history of IP address entry points. Emerging Management Mechanisms for the Future Internet. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Barcelona: Springer Verlag, 2013. no. 06, p. 73-83. ISBN: 978-3-642-38997-9. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MATOUSEK, J. Pametove efektivni vyhledani nejdelsiho shodneho prefixu pro smerovani ve 100 Gb/s sitich. Pocitacove architektury a diagnostika PAD 2013. Plzen: Zapadoceska univerzita v Plzni, 2013. s. 105-110. ISBN: 978-80-261-0270-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MATOUSEK, J.; SKACAN, M.; KORENEK, J. Memory Efficient IP Lookup in 100 Gbps Networks. In 2013 23rd International Conference on Field Programmable Logic and Applications, FPL 2013 - Proceedings. Porto: IEEE Circuits and Systems Society, 2013. p. 1-8. ISBN: 978-1-4799-0004-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "MATOUSEK, J.; SKACAN, M.; KORENEK, J. Towards Hardware Architecture for Memory Efficient IPv4/IPv6 Lookup in 100 Gbps Networks. In Proceedings of the 2013 IEEE 16th International Symposium on Design and Diagnostics of Electronic Circuits and Systems, DDECS 2013. Brno: IEEE Computer Society, 2013. p. 108-111. ISBN: 978-1-4673-6136-1. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VIKTORIN, J.; KORCEK, P.; KOSAR, V.; KORENEK, J. Framework for Fast Prototyping of Applications running on Reconfigurable Systems on Chip. Proceedings of the 2013 Conference on Design & Architectures for Signal & Image Processing. Cagliari: European Electronic Chips & Systems design Initiative, 2013. p. 355-356. ISBN: 979-10-92279-01-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ZADNIK, M. Optimization of network flow monitoring. Information Sciences and Technologies Bulletin of the ACM Slovakia, 2013, vol. 5, no. 1, 6 p. ISSN: 1338-1237. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "BARTOS, V. Detekce anomalii v sitovem provozu. Pocitacove architektury a diagnostika 2012. Milovy: Fakulta informacnich technologii CVUT, 2012. s. 29-34. ISBN: 978-80-01-05106-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "BARTOS, V. Detekce anomalii v datech o sitovem provozu. Trilobit, 2012, roc. 2012, c. 2, s. 1-6. ISSN: 1804-1795. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "BARTOS, V.; ZADNIK, M. Network Anomaly Detection: Comparison and Real-time Issues. Dependable Networks and Services. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2012. p. 118-121. ISBN: 978-3-642-30632-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KEKELY, L.; PUS, V.; KORENEK, J. Low-Latency Modular Packet Header Parser for FPGA. ACM/IEEE Symposium on Architectures for Networking and Communications Systems. Austin: Association for Computing Machinery, 2012. p. 77-78. ISBN: 978-1-4503-1685-9. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KORCEK, P.; ZADNIK, M. Lightweight benchmarking of platforms for network traffic processing. Proceedings of the 2012 IEEE 15th International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS). Tallin: IEEE Computer Society, 2012. p. 278-283. ISBN: 978-1-4673-1185-4. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KORENEK, J.; KORCEK, P.; KOSAR, V.; ZADNIK, M.; VIKTORIN, J. A New Embedded Platform for Rapid Development of Networking Applications. Proceedings of the 2012 Seventh ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS 2012). Austin: IEEE Computer Society, 2012. p. 81-82. ISBN: 978-1-4503-1684-2. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KOSAR, V. VYUZITI REDUKCE NKA PRO VYHLEDAVANI VZORU V FPGA. Pocitacove architektury a diagnostika 2012. Milovy: Fakulta informacnich technologii CVUT, 2012. s. 97-102. ISBN: 978-80-01-05106-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MATOUSEK, J. Optimalizace vyhledani nejdelsiho prefixu sitove adresy s vyuzitim castecne dynamicke rekonfigurace FPGA. Pocitacove architektury a diagnostika. Milovy: Fakulta informacnich technologii CVUT, 2012. s. 67-72. ISBN: 978-80-01-05106-1. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "PUS, V.; KORENEK, J. Reducing memory in high-speed packet classification. Proceedings of the 8th International Wireless Communications and Mobile Computing Conference. Limassol: Frederick University, 2012. p. 437-442. ISBN: 978-1-4577-1377-4. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "BARTOS, V.; ZADNIK, M. Hardware precomputation of entropy for anomaly detection. Proceedings of the 7th ACM/IEEE Symposium on Architectures for Networking and Communications Systems. New York: IEEE Computer Society, 2011. p. 219-220. ISBN: 978-0-7695-4521-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KASTIL, J. Vysokorychlostni vyhledavani regularnich vyrazu. Pocitacove architektury a diagnostika. Bratislava: Vydavatelstvo STU, 2011. s. 163-168. ISBN: 978-80-227-3552-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KORCEK, P.; KOSAR, V.; ZADNIK, M.; KORANDA, K.; KASTOVSKY, P. Hacking NetCOPE to run on NetFPGA-10G. Proceedings of the 2011 Seventh ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS 2011). Brooklyn, New York: IEEE Computer Society, 2011. p. 1-2. ISBN: 978-0-7695-4521-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KOSAR, V. Redukce Zabranych Zdroju FPGA pro Vyhledavani Vzoru Popsanych Regularnimi Vyrazy. Pocitacove architektury a diagnostika 2011. Stara Lesna: Fakulta informatiky a informacnich technologii Slovenska technicka univerzita v Bratislave, 2011. s. 1-6. ISBN: 978-80-227-3552-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KOSAR, V.; KORENEK, J. Reduction of FPGA Resources for Regular Expression Matching by Relation Similarity. IEEE Design and Diagnostics of Electronic Circuits and Systems DDECS'2011. Cottbus: IEEE Computer Society, 2011. p. 401-402. ISBN: 978-1-4244-9753-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MATOUSEK, J.; KORCEK, P. Precise IPv4/IPv6 Packet Generator Based on NetCOPE Platform. In Proceedings of the 2011 IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems, DDECS 2011. Cottbus: IEEE Computer Society, 2011. p. 319-324. ISBN: 978-1-4244-9756-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PUS, V. Packet Classification Algorithms. Pocitacove architektury a diagnostika. Stara Lesna: Faculty of Electrical Engineering and Information Technology, Slovak University of Technology in Bratislava, 2011. p. 157-162. ISBN: 978-80-227-3552-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PUS, V.; KAJAN, M.; KORENEK, J. Hardware Architecture for Packet Classification with Prefix Coloring. IEEE Design and Diagnostics of Electronic Circuits and Systems DDECS'2011. Cottbus: IEEE Computer Society, 2011. p. 231-236. ISBN: 978-1-4244-9753-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PUS, V.; TOBOLA, J.; KASTIL, J.; KOSAR, V.; KORENEK, J. Netbench - the Framework for Evaluation of Packet Processing Algorithms. Proceedings of the 7th ACM/IEEE Symposium on Architectures for Networking and Communications Systems. New York: IEEE Computer Society, 2011. p. 95-96. ISBN: 978-0-7695-4521-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "TOBOLA, J.; KORENEK, J. Effective Hash-based IPv6 Longest Prefix Match. IEEE Design and Diagnostics of Electronic Circuits and Systems DDECS'2011. Cottbus: IEEE Computer Society, 2011. p. 325-328. ISBN: 978-1-4244-9753-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ZADNIK, M.; CANINI, M. Evaluation and Design of Cache Replacement Policies under Flooding Attacks. Proceedings of the 7th International Wireless Communications and Mobile Computing Conference. Istanbul: IEEE Computer Society, 2011. p. 1292-1297. ISBN: 978-1-4244-9539-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ZADNIK, M.; CANINI, M. Evolution of Cache Replacement Policies to Track Heavy-hitter Flows. Passive and Active Measurement. Lecture Notes in Computer Science. Lecture Note in Computer Science 6579. Atlanta: Springer Verlag, 2011. no. 3, p. 21-31. ISBN: 978-3-642-19259-3. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KAJAN, M.; KORENEK, J. Efficient Packet Classification Algorithm Based on Entropy. Proceedings of the 6th ACM/IEEE Symposium on Architectures for Networking and Communications Systems. La Jolla: Association for Computing Machinery, 2010. p. 11-12. ISBN: 978-1-4503-0379-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KASTIL, J. Vysokorychlostni vyhledavani regularnich vyrazu v sitovych tocich. Pocitacove architektury a diagnostika 2010. Brno: Fakulta informacnich technologii VUT v Brne, 2010. s. 109-114. ISBN: 978-80-214-4140-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KASTIL, J.; KORENEK, J. Hardware Accelerated Pattern Matching Based on Deterministic Finite Automata with Perfect Hashing. Proceedings of the 13th IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems DDECS 2010. Vienna: IEEE Computer Society, 2010. p. 149-152. ISBN: 978-1-4244-6610-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KASTIL, J.; KORENEK, J. High Speed Pattern Matching Algorithm Based on Deterministic Finite Automata with Faulty Transition Table. Proceedings of the 6th ACM/IEEE Symposium on Architectures for Networking and Communications Systems. La Jolla: Association for Computing Machinery, 2010. p. 1-2. ISBN: 978-1-4503-0379-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KORENEK, J. Rychle vyhledavani regularnich vyrazu s vyuzitim technologie FPGA. Brno: Ustav pocitacovych systemu FIT VUT v Brne, 2010. 105 s. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KORENEK, J. Fast Regular Expression Matching Using FPGA. Information Sciences and Technologies Bulletin of the ACM Slovakia, 2010, vol. 2, no. 2, p. 103-111. ISSN: 1338-1237. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KORENEK, J.; KOSAR, V. Efficient Mapping of Nondeterministic Automata to FPGA for Fast Regular Expression Matching. Proceedings of the 13th IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems DDECS 2010. Vienna: IEEE Computer Society, 2010. p. 54-59. ISBN: 978-1-4244-6610-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KORENEK, J.; KOSAR, V. NFA Split Architecture for Fast Regular Expression Matching. Proceedings of the 6th ACM/IEEE Symposium on Architectures for Networking and Communications Systems. La Jolla: Association for Computing Machinery, 2010. s. 1-2. ISBN: 978-1-4503-0379-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KORENEK, J.; PUS, V. Memory Optimization for Packet Classification Algorithms in FPGA. Proceedings of the 13th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Viden: IEEE Computer Society, 2010. p. 297-300. ISBN: 978-1-4244-6610-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "PUS, V. Optimizations of packet classification algorithms. Pocitacove architektury & diagnostika 2010. Ceskovice: Faculty of Information Technology BUT, 2010. p. 153-158. ISBN: 978-80-214-4140-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ZADNIK, M. Optimalizace sledovani sitovych toku. Pocitacove architektury & diagnostika 2010. Brno: Fakulta informacnich technologii VUT v Brne, 2010. s. 171-176. ISBN: 978-80-214-4140-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ZADNIK, M.; CANINI, M. Evolution of Cache Replacement Policies to Track Heavy-hitter Flows. Proceedings of the 6th ACM/IEEE Symposium on Architectures for Networking and Communications Systems. La Jolla: Association for Computing Machinery, 2010. p. 1-2. ISBN: 978-1-4503-0379-8. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "CANINI, M.; LI, W.; ZADNIK, M.; MOORE, A. Experience with High-Speed Automated Application-Identification for Network-Management. Proceedings of the 5th ACM/IEEE Symposium on Architectures for Networking and Communications Systems. Princeton: Association for Computing Machinery, 2009. p. 209-218. ISBN: 978-1-60558-630-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KOBIERSKY, P.; KORENEK, J.; POLCAK, L. Packet Header Analysis and Field Extraction for Multigigabit Networks. Proceedings of the 2009 IEEE Symphosium on Design and Diagnostics of Electronic Circuits and Systems. Liberec: IEEE Computer Society, 2009. p. 96-101. ISBN: 978-1-4244-3339-1. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "PUS, V. Algoritmy pro klasifikaci paketu. Pocitacove architektury a diagnostika 2009. Zlin: Univerzita Tomase Bati ve Zline, 2009. s. 130-135. ISBN: 978-80-7318-847-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "TOBOLA, J. FlowMon - inovativni pristup v oblasti monitorovani a bezpecnosti pocitacovych siti. Sbornik prispevku z 35. konference EurOpen.CZ. Plzen: Ceska spolecnost uzivatelu otevrenych systemu EurOpen.CZ, 2009. s. 71-74. ISBN: 978-80-86583-17-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "TOBOLA, J. Monitorovani datovych toku v siti. Sbornik konference. Karvina: Slezska univerzita v Opave, 2009. s. 3-4. ISBN: 978-80-7248-542-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "TOBOLA, J. Vyhledani nejdesiho shodneho prefixu v FPGA. Pocitacove architektury a diagnostika 2009. Zlin: Univerzita Tomase Bati ve Zline, 2009. s. 147-152. ISBN: 978-80-7318-847-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "ZADNIK, M. Tracking Elephant Flows in Internet Backbone Traffic with an FPGA-based Cache. 19th International Conference on Field Programmable Logic and Applications. Prague: Institute of Electrical and Electronics Engineers, 2009. p. 640-644. ISBN: 978-1-4244-3892-1. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2023",
+            "title": "Architektury a softwarove vybaveni pro vysokorychlostni zpracovani sitoveho provozu",
+            "authors": "Architektury a softwarove vybaveni pro vysokorychlostni zpracovani sitoveho provozu , software, 2023 : CABAL, J.; MATOUSEK, J.; SPINLER, M.; KOSAR, V.; FUKAC, T.; GURKA, O.; SISMIS, L.; MARTINEK, T.; KORENEK, J."
+        },
+        {
+            "year": "2022",
+            "title": "Flexibilni sonda pro realizaci zakonnych odposlechu",
+            "authors": "Flexibilni sonda pro realizaci zakonnych odposlechu , functioning sample, 2022 : FUKAC, T.; KOSAR, V.; DRAZIL, J.; KORCEK, P.; KORENEK, J.; DACER, O.; SOBOL, J.; VRANA, R.; HUTAK, L.; KEKELY, L.; POLCAK, L.; FRIEDL, S.; ORSAK, M.; SIKORA, J."
+        },
+        {
+            "year": "2021",
+            "title": "Module for hash-based pattern matching using approximate computing techniques",
+            "authors": "Module for hash-based pattern matching using approximate computing techniques , software, 2021 : FUKAC, T.; KORENEK, J.; KOSAR, V.; MATOUSEK, J.; KEKELY, L.; ISA, R."
+        },
+        {
+            "year": "2019",
+            "title": "A set of modules for smart services and features",
+            "authors": "A set of modules for smart services and features , software, 2019 : TISOVCIK, P.; NECASOVA, K.; KORENEK, J."
+        },
+        {
+            "year": "2018",
+            "title": "Hardwarova platforma pro vestavena sitova zarizeni s rychlosti linek 10 Gb/s",
+            "authors": "Hardwarova platforma pro vestavena sitova zarizeni s rychlosti linek 10 Gb/s , functioning sample, 2018 : SIKORA, J.; KOSAR, V.; FUKAC, T.; ORSAK, M.; DRAZIL, J.; KORENEK, J."
+        },
+        {
+            "year": "2018",
+            "title": "Knihovna akceleracnich modulu pro analyzu aplikacnich protokolu v FPGA",
+            "authors": "Knihovna akceleracnich modulu pro analyzu aplikacnich protokolu v FPGA , software, 2018 : KOSAR, V.; SELECKY, R.; KORENEK, J.; FUKAC, T."
+        },
+        {
+            "year": "2018",
+            "title": "Platforma pro prijem, uchovani dat a ovladani pripojenych systemu",
+            "authors": "Platforma pro prijem, uchovani dat a ovladani pripojenych systemu , software, 2018 : HAJEK, J.; VIKTORIN, J.; KOHOUT, P.; BEDNARIK, D.; TISOVCIK, P.; KORENEK, J."
+        },
+        {
+            "year": "2017",
+            "title": "ClassBench-ng",
+            "authors": "ClassBench-ng , software, 2017 : MATOUSEK, J.; ANTICHI, G.; LUCANSKY, A.; MOORE, A.; KORENEK, J."
+        },
+        {
+            "year": "2017",
+            "title": "Knihovna softwarovych modulu a firmware SDM pro filtraci sitoveho provozu na urovni aplikacnich protokolu pomoci FPGA SoC",
+            "authors": "Knihovna softwarovych modulu a firmware SDM pro filtraci sitoveho provozu na urovni aplikacnich protokolu pomoci FPGA SoC , software, 2017 : POLCAK, L.; FRANKOVA, B.; KEKELY, L.; VRANA, R.; DRAZIL, J."
+        },
+        {
+            "year": "2017",
+            "title": "Sonda pro zakonne odposlechy na urovni aplikacnich protokolu",
+            "authors": "Sonda pro zakonne odposlechy na urovni aplikacnich protokolu , functioning sample, 2017 : DRAZIL, J.; FUKAC, T.; KEKELY, L.; KOSAR, V.; POLCAK, L.; KORCEK, P.; KORENEK, J."
+        },
+        {
+            "year": "2016",
+            "title": "System pro testovani zabezpeceni site IPv6",
+            "authors": "System pro testovani zabezpeceni site IPv6 , software, 2016 : GREGR, M.; DRAZIL, J.; KORCEK, P.; KOSAR, V.; PIVARNIK, J.; FUKAC, T.; POLCAK, L."
+        },
+        {
+            "year": "2016",
+            "title": "The radio communication module for sensors",
+            "authors": "The radio communication module for sensors , prototype, 2016 : KORCEK, P.; HAJEK, J."
+        },
+        {
+            "year": "2015",
+            "title": "Prototyp mikrosondy pro monitorovani IPv6 provozu",
+            "authors": "Prototyp mikrosondy pro monitorovani IPv6 provozu , prototype, 2015 : KORCEK, P.; FUKAC, T.; VIKTORIN, J.; DRAZIL, J.; KOSAR, V.; KORENEK, J."
+        },
+        {
+            "year": "2015",
+            "title": "Prototyp vysokorychlostni sondy pro monitorovani IPv6 provozu",
+            "authors": "Prototyp vysokorychlostni sondy pro monitorovani IPv6 provozu , prototype, 2015 : VRANA, R.; KEKELY, L.; ZADNIK, M.; KORENEK, J.; MATOUSEK, J."
+        },
+        {
+            "year": "2015",
+            "title": "Tool for packet capturing in the INI3 format",
+            "authors": "Tool for packet capturing in the INI3 format , software, 2015 : DRAZIL, J.; KORCEK, P."
+        },
+        {
+            "year": "2014",
+            "title": "INI3 Dissector",
+            "authors": "INI3 Dissector , software, 2014 : DRAZIL, J."
+        },
+        {
+            "year": "2014",
+            "title": "IP core pro vyvoj aplikaci na heterogennich platformach",
+            "authors": "IP core pro vyvoj aplikaci na heterogennich platformach , software, 2014 : VIKTORIN, J.; KORCEK, P."
+        },
+        {
+            "year": "2014",
+            "title": "Komunikacni protokol pro bezdratove site v inteligentni domacnosti",
+            "authors": "Komunikacni protokol pro bezdratove site v inteligentni domacnosti , software, 2014 : HAJEK, J.; DANAJ, D.; BRYCHTA, T.; KORCEK, P."
+        },
+        {
+            "year": "2014",
+            "title": "Paketovy filtr pro sitovy provoz s rychlosti 100 Gb/s",
+            "authors": "Paketovy filtr pro sitovy provoz s rychlosti 100 Gb/s , software, 2014 : KEKELY, L.; KORENEK, J.; ZADNIK, M."
+        },
+        {
+            "year": "2014",
+            "title": "Platforma na bazi FPGA pro filtraci provozu v sitich do rychlosti 100 Gb/s",
+            "authors": "Platforma na bazi FPGA pro filtraci provozu v sitich do rychlosti 100 Gb/s , functioning sample, 2014 : MATOUSEK, J.; KEKELY, L.; KORENEK, J."
+        },
+        {
+            "year": "2013",
+            "title": "Content of Communication Control Interface Daemon",
+            "authors": "Content of Communication Control Interface Daemon , software, 2013 : VIKTORIN, J."
+        },
+        {
+            "year": "2013",
+            "title": "Funkcni vzorek vysokorychlostni sondy pro monitorovani IPv6 provozu",
+            "authors": "Funkcni vzorek vysokorychlostni sondy pro monitorovani IPv6 provozu , functioning sample, 2013 : KEKELY, L.; ZADNIK, M.; KORENEK, J."
+        },
+        {
+            "year": "2013",
+            "title": "Mikrosonda pro monitorovani gigabitovych siti",
+            "authors": "Mikrosonda pro monitorovani gigabitovych siti , functioning sample, 2013 : KORCEK, P.; KOSAR, V.; VIKTORIN, J.; FUKAC, T.; KEKELY, M.; KORENEK, J."
+        },
+        {
+            "year": "2013",
+            "title": "Set of scriping languagues and web sersers tests for embeeded devices",
+            "authors": "Set of scriping languagues and web sersers tests for embeeded devices , software, 2013 : KORCEK, P.; DRAZIL, J."
+        },
+        {
+            "year": "2012",
+            "title": "Device Tree Library",
+            "authors": "Device Tree Library , software, 2012 : VIKTORIN, J.; KORCEK, P."
+        },
+        {
+            "year": "2012",
+            "title": "Embedded development platform for gigabit network applications based on FPGA",
+            "authors": "Embedded development platform for gigabit network applications based on FPGA , functioning sample, 2012 : KORCEK, P.; KORENEK, J.; SIMEK, V."
+        },
+        {
+            "year": "2012",
+            "title": "HWIO Library",
+            "authors": "HWIO Library , software, 2012 : KORCEK, P.; VIKTORIN, J.; MATOUSEK, D."
+        },
+        {
+            "year": "2011",
+            "title": "First-stage SD card bootloader for FPGA-based processors",
+            "authors": "First-stage SD card bootloader for FPGA-based processors , software, 2011 : KOSAR, V.; KORCEK, P."
+        },
+        {
+            "year": "2011",
+            "title": "NetCOPE pro kartu NetFPGA-10G",
+            "authors": "NetCOPE pro kartu NetFPGA-10G , software, 2011 : KORCEK, P.; KOSAR, V.; KORANDA, K."
+        },
+        {
+            "year": "2010",
+            "title": "Netbench",
+            "authors": "Netbench , software, 2010 : PUS, V.; KAJAN, M.; KASTIL, J.; KORENEK, J.; KOSAR, V.; TOBOLA, J.; ZADNIK, M."
+        },
+        {
+            "year": "2010",
+            "title": "Network benchmarks for embedded processors",
+            "authors": "Network benchmarks for embedded processors , software, 2010 : KORCEK, P.; KORENEK, J.; SPINLER, M.; KEKELY, L.; MATOUSEK, D.; VIKTORIN, J."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2018",
+            "title": "Souhrnna vyzkumna zprava k projektu Urychleni DNS kolektoru za rok 2018",
+            "authors": ", summary research report, 2018 : DRAZIL, J.; KORENEK, J."
+        },
+        {
+            "year": "2018",
+            "title": "Souhrnna vyzkumna zprava o vyvoji elektronickych zarizeni pro spolecnost Honeywell za rok 2018",
+            "authors": ", summary research report, 2018 : KORENEK, J."
+        },
+        {
+            "year": "2017",
+            "title": "Souhrnna vyzkumna zprava o vyvoji elektronickych zarizeni pro spolecnost Honeywell za rok 2017",
+            "authors": ", summary research report, 2017 : KORENEK, J."
+        },
+        {
+            "year": "2017",
+            "title": "Zaverecna zprava",
+            "authors": ", summary research report, 2017 : KORCEK, P.; NOVOTNY, T.; WOLFERT, R.; VIKTORIN, J.; SAKIN, M."
+        },
+        {
+            "year": "2016",
+            "title": "Prubezna zprava za rok 2016",
+            "authors": ", summary research report, 2016 : KORCEK, P."
+        },
+        {
+            "year": "2016",
+            "title": "Souhrnna zprava o smluvnim vyzkumu se spolecnosti Racom",
+            "authors": ", summary research report, 2016 : KORCEK, P."
+        },
+        {
+            "year": "2015",
+            "title": "Souhrnna vyzkumna zprava o vyvoji elektronickych zarizeni pro spolecnost Honeywell za rok 2015",
+            "authors": ", summary research report, 2015 : KORENEK, J."
+        },
+        {
+            "year": "2014",
+            "title": "Souhrnna vyzkumna zprava o vyvoji elektronickych zarizeni pro spolecnost Honeywell za rok 2014",
+            "authors": ", summary research report, 2014 : KORENEK, J."
+        },
+        {
+            "year": "2014",
+            "title": "Souhrnna zprava o smluvnim vyzkumu se sdruzenim CZ.NIC",
+            "authors": ", summary research report, 2014 : KORCEK, P."
+        },
+        {
+            "year": "2013",
+            "title": "Souhrnna vyzkumna zprava o vyvoji elektronickych zarizeni pro spolecnost Honeywell za rok 2013",
+            "authors": ", summary research report, 2013 : KORENEK, J."
+        },
+        {
+            "year": "2013",
+            "title": "Souhrnna zprava k implementacni a ladici praci pro sdruzeni CESNET v roce 2013",
+            "authors": ", summary research report, 2013 : KORENEK, J.; ZADNIK, M."
+        },
+        {
+            "year": "2012",
+            "title": "Souhrnna zprava k implementacni a ladici praci pro sdruzeni CESNET v roce 2012",
+            "authors": ", summary research report, 2012 : ZADNIK, M.; KORENEK, J."
+        },
+        {
+            "year": "2012",
+            "title": "Souhrnna zprava k vyzkumne a vyvojove praci pro spolecnost Honeywell v roce 2012",
+            "authors": ", summary research report, 2012 : VOZENILEK, J.; KORCEK, P.; KORENEK, J."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2022",
+            "title": "Accelerating Suricata with DPDK",
+            "authors": "Accelerating Suricata with DPDK , presentation, poster, 2022 : SISMIS, L.; KORENEK, J."
+        },
+        {
+            "year": "2022",
+            "title": "Accelerating Suricata with DPDK Prefilters: 386 Days Later",
+            "authors": "Accelerating Suricata with DPDK Prefilters: 386 Days Later , presentation, poster, 2022 : SISMIS, L.; KORENEK, J."
+        },
+        {
+            "year": "2014",
+            "title": "Jak propojit Linux s FPGA?",
+            "authors": "Jak propojit Linux s FPGA? , editorial, 2014 : KORENEK, J.; KORCEK, P.; VIKTORIN, J."
+        },
+        {
+            "year": "2013",
+            "title": "Testovani skriptovacich jazyku a webovych serveru na procesoru Xilinx MicroBlaze a ARM Cortex-A9",
+            "authors": "Testovani skriptovacich jazyku a webovych serveru na procesoru Xilinx MicroBlaze a ARM Cortex-A9 , report, 2013 : DRAZIL, J.; KORCEK, P.; VIKTORIN, J.; KOSAR, V."
+        },
+        {
+            "year": "2013",
+            "title": "uG4-150 embedded platform for wire-speed network packet processing",
+            "authors": "uG4-150 embedded platform for wire-speed network packet processing , report, 2013 : KORCEK, P."
+        },
+        {
+            "year": "2012",
+            "title": "Framework for comparison of network anomaly detection algorithms",
+            "authors": "Framework for comparison of network anomaly detection algorithms , report, 2012 : BARTOS, V.; ZADNIK, M."
+        },
+        {
+            "year": "2012",
+            "title": "Hardwarove akcelerovana sonda pro legalni odposlechy",
+            "authors": "Hardwarove akcelerovana sonda pro legalni odposlechy , report, 2012 : ZADNIK, M.; KEKELY, L."
+        },
+        {
+            "year": "2012",
+            "title": "Netbench: Framework for Evaluation of Packet Processing Algorithms",
+            "authors": "Netbench: Framework for Evaluation of Packet Processing Algorithms , report, 2012 : KASTIL, J.; KORENEK, J.; KOSAR, V.; PUS, V.; TOBOLA, J."
+        },
+        {
+            "year": "2011",
+            "title": "Sondy pro monitorovani provozu",
+            "authors": "Sondy pro monitorovani provozu , report, 2011 : KORENEK, J.; KORCEK, P.; KASTIL, J."
+        }
+    ]
+}

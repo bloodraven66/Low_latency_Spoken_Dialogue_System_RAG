@@ -1,0 +1,133 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "iyusuf@fit.vut.cz",
+            "work_phone": "+420 54114 1297",
+            "room": "L230.1 Office",
+            "orcid_id": "0000-0001-9852-3456"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Speech Data Mining Research Group BUT Speech@FIT",
+            "role": "Researcher"
+        }
+    ],
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "BAYa",
+                "title": "Bayesian Models for Machine Learning (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Multilingual and Cross-cultural interactions for context-aware, and bias-controlled dialogue systems for safety-critical applications",
+            "details": "EU, HORIZON EUROPE, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Tools To Combat Voice DeepFakes",
+            "details": "MV, Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - II. verejna soutez, VB02000060, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Language memory of the regions of the Czech Republic. Machine learning methods for preservation, documentation and presentation of the dialects of the Czech language",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV010, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Practical verification of the possibility of integrating artificial intelligence for receiving emergency calls using a voice chatbot, developed within the research project BV No. VI20192022169, with technology for receiving emergency communications",
+            "details": "MV, 1 VS OPSEC, VK01020132, start: 2023-01-06, end: 2025-10-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Multi-linguality in speech technologies",
+            "details": "MSMT, INTER-EXCELLENCE - Podprogram INTER-ACTION 19LTAIN, LTAIN19087, start: 2020-01-01, end: 2023-08-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Robust processing of recordings for operations and security",
+            "details": "MV, PROGRAM STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1)\nPODPROGRAMU 1\nSPOLECNE VYZKUMNE PROJEKTY (BV IMP1/1VS), VJ01010108, start: 2020-10-01, end: 2025-09-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2026",
+            "citation": "POLOK, A.; KLEMENT, D.; KOCOUR, M.; HAN, J.; LANDINI, F.; YUSUF, B.; WIESNER, M.; KHUDANPUR, S.; CERNOCKY, J.; BURGET, L. DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition. COMPUTER SPEECH AND LANGUAGE, 2026, vol. 95, no. 1, p. 1-19."
+        },
+        {
+            "year": "2025",
+            "citation": "HEGDE, P.; KESIRAJU, S.; SVEC, J.; SEDLACEK, S.; YUSUF, B.; PLCHOT, O.; DEEPAK, K.; CERNOCKY, J. Factors affecting the in-context learning abilities of LLMs for dialogue state tracking. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 4818-4822."
+        },
+        {
+            "year": "2025",
+            "citation": "SEBUYOYA, R.; SEVCIKOVA, S.; YUSUF, B.; BARTOSIK, M. Integrating isothermal amplification techniques and LNA-based AI-assisted electrochemical bioassay for analysis of KRAS G12V point mutation. TALANTA, 2025, vol. 127709, no. 288, p. 1-10."
+        },
+        {
+            "year": "2025",
+            "citation": "SEDLACEK, S.; YUSUF, B.; SVEC, J.; HEGDE, P.; KESIRAJU, S.; PLCHOT, O.; CERNOCKY, J. Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1748-1752."
+        },
+        {
+            "year": "2024",
+            "citation": "POLOK, A.; KLEMENT, D.; HAN, J.; SEDLACEK, S.; YUSUF, B.; MACIEJEWSKI, M.; WIESNER, M.; BURGET, L. BUT/JHU System Description for CHiME-8 NOTSOFAR-1 Challenge. Proceedings of CHiME 2024 Workshop. Kos Island: International Speech Communication Association, 2024. p. 18-22."
+        },
+        {
+            "year": "2024",
+            "citation": "YUSUF, B.; BASKAR, M.; ROSENBERG, A.; RAMABHADRAN, B. Speculative Speech Recognition by Audio-Prefixed Low-Rank Adaptation of Language Models. In Proceedings of Interspeech 2024. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 792-796. ISSN: 1990-9772."
+        },
+        {
+            "year": "2024",
+            "citation": "YUSUF, B.; CERNOCKY, J.; SARACLAR, M. Pretraining End-to-End Keyword Search with Automatically Discovered Acoustic Units. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 5068-5072. ISSN: 1990-9772."
+        },
+        {
+            "year": "2024",
+            "citation": "YUSUF, B.; SARACLAR, M. Written Term Detection Improves Spoken Term Detection. IEEE-ACM Transactions on Audio Speech and Language Processing, 2024, vol. 32, no. 06, p. 3213-3223. ISSN: 2329-9290."
+        },
+        {
+            "year": "2023",
+            "citation": "YUSUF, B.; CERNOCKY, J.; SARACLAR, M. End-to-End Open Vocabulary Keyword Search With Multilingual Neural Representations. IEEE-ACM Transactions on Audio Speech and Language Processing, 2023, vol. 31, no. 08, p. 3070-3080. ISSN: 2329-9290."
+        },
+        {
+            "year": "2023",
+            "citation": "YUSUF, B.; GOURAV, A.; GANDHE, A.; BULYKO, I. On-the-Fly Text Retrieval for end-to-end ASR Adaptation. In Proceedings of ICASSP 2023. Rhodes Island: IEEE Signal Processing Society, 2023. p. 1-5. ISBN: 978-1-7281-6327-7."
+        },
+        {
+            "year": "2022",
+            "citation": "BOITO, M.; YUSUF, B.; ONDEL YANG, L.; VILLAVICENCIO, A.; BESACIER, L. Unsupervised Word Segmentation from Discrete Speech Units in Low-Resource Settings. In Proceedings of the the 1st Annual Meeting of the ELRA/ISCA Special Interest Group on Under-Resourced Languages. Marseile: European Language Resources Association, 2022. p. 1-9. ISBN: 979-10-95546-91-7."
+        },
+        {
+            "year": "2022",
+            "citation": "ONDEL YANG, L.; YUSUF, B.; BURGET, L.; SARACLAR, M. Non-Parametric Bayesian Subspace Models for Acoustic Unit Discovery. IEEE-ACM Transactions on Audio Speech and Language Processing, 2022, vol. 30, no. 5, p. 1902-1917. ISSN: 2329-9290."
+        },
+        {
+            "year": "2022",
+            "citation": "YUSUF, B.; GANDHE, A.; SOKOLOV, A. Usted: Improving ASR with a Unified Speech and Text Encoder-Decoder. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Singapore: IEEE Signal Processing Society, 2022. p. 8297-8301. ISBN: 978-1-6654-0540-9."
+        },
+        {
+            "year": "2021",
+            "citation": "YUSUF, B.; GOK, A.; GUNDOGDU, B.; SARACLAR, M. End-to-End Open Vocabulary Keyword Search. In Proceedings Interspeech 2021. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 4388-4392. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "YUSUF, B.; ONDEL YANG, L.; BURGET, L.; CERNOCKY, J.; SARACLAR, M. A Hierarchical Subspace Model for Language-Attuned Acoustic Unit Discovery. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 3710-3714. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2020",
+            "citation": "ZMOLIKOVA, K.; KOCOUR, M.; LANDINI, F.; BENES, K.; KARAFIAT, M.; VYDANA, H.; LOZANO DIEZ, A.; PLCHOT, O.; BASKAR, M.; SVEC, J.; MOSNER, L.; MALENOVSKY, V.; BURGET, L.; YUSUF, B.; NOVOTNY, O.; GREZL, F.; SZOKE, I.; CERNOCKY, J. BUT System for CHiME-6 Challenge. Proceedings of CHiME 2020 Virtual Workshop. Barcelona: University of Sheffield, 2020. p. 1-3."
+        }
+    ],
+    "name": "Yusuf Bolaji"
+}

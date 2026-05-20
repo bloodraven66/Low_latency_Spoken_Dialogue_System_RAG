@@ -1,0 +1,1484 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "burget@fit.vut.cz",
+            "work_phone": "+420 54114 1269",
+            "room": "L229 Office",
+            "orcid_id": "0000-0002-4951-5908",
+            "scopus_author_id": "8653241100"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Speech Data Mining Research Group BUT Speech@FIT",
+            "role": "Principal researcher"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "Prize of BUT Rector - Silver Medal BUT 2006",
+            "The 14th CLSP Summer Workshop on Human Language Technology begins on July 7, 2008",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2019"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "To arrange a consultation, please contact me by e-mail.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "SUI",
+                "title": "Artificial Intelligence and Machine Learning",
+                "details": "Czech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "BAYa",
+                "title": "Bayesian Models for Machine Learning (in English)",
+                "details": "English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "KRD",
+                "title": "Classification and recognition",
+                "details": "Czech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "SUR",
+                "title": "Machine Learning and Recognition",
+                "details": "Czech, summer",
+                "department": "DCGM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "BAYa",
+                "title": "Bayesian Models for Machine Learning (in English)",
+                "details": "Lecture, Seminar,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "SUI",
+                "title": "Artificial Intelligence and Machine Learning",
+                "details": "Lecture, Seminar,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "SUR",
+                "title": "Machine Learning and Recognition",
+                "details": "Lecture, Project, Seminar,\nCzech, summer",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "Linguistics, Artificial Intelligence and Language and Speech Technologies: from Research to Applications",
+            "details": "EU, MEZISEKTOROVA SPOLUPRACE, EH23_020/0008518, start: 2025-01-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "NTTC-Speech enhancement front-end for robust automatic speech recognition with large amount of training data",
+            "details": "NTT, start: 2025-02-01, end: 2026-01-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "On our own: Opportunities and Risks in the Individualization of Society",
+            "details": "EU, SPOLECENSKE A HUMANITNI VEDY: CLOVEK A LIDSTVO V GLOBALNICH VYZVACH SOUCASNOSTI, EH23_025/0008710, start: 2025-05-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Multilingual and Cross-cultural interactions for context-aware, and bias-controlled dialogue systems for safety-critical applications",
+            "details": "EU, HORIZON EUROPE, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Tools To Combat Voice DeepFakes",
+            "details": "MV, Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - II. verejna soutez, VB02000060, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Exchanges for SPEech ReseArch aNd TechnOlogies",
+            "details": "EU, Horizon 2020, start: 2021-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Deep learning in psychotherapy: Machine learning applied on therapeutic session recordings",
+            "details": "TACR, 3. verejna soutez Program na podporu aplikovaneho spolecenskovedniho a humanitniho vyzkumu, experimentalniho vyvoje a inovaci ETA, TL03000049, start: 2020-05-01, end: 2023-08-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "HumanE AI Network",
+            "details": "EU, Horizon 2020, start: 2020-09-01, end: 2024-08-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Multiple Intelligent Conversation Agent Sevices for Reception, Management and Integration of Third Country Nationals",
+            "details": "EU, Horizon 2020, start: 2020-02-01, end: 2023-04-30, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Neural Representations in multi-modal and multi-lingual modeling",
+            "details": "GACR, Grantove projekty exelence v zakladnim vyzkumu EXPRO - 2019, GX19-26934X, start: 2019-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Robust End-To-End SPEAKER recognition based on deep learning and attention models",
+            "details": "EU, Horizon 2020, start: 2019-06-01, end: 2021-01-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Ericsson - Speaker Change Point Detection (SCPD) in media content",
+            "details": "Ericsson, start: 2018-04-02, end: 2019-09-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Phonexia - Educational activity",
+            "details": "Phonexia, start: 2018-12-01, end: 2020-05-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "IARPA Machine Translation for English Retrieval of Information in Any Language (MATERIAL) - Foreign Language Automated Information Retrieval (FLAIR)",
+            "details": "IARPA, start: 2017-09-21, end: 2021-10-22, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3984, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Sequence summarizing neural networks for speaker recognition",
+            "details": "EU, Horizon 2020, 5SA15094, start: 2016-07-01, end: 2019-06-30, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Big speech data analytics for contact centers",
+            "details": "EU, Horizon 2020, start: 2015-01-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "DARPA Low Resource Languages for Emergent Incidents (LORELEI) - Exploiting Language Information for Situational Awareness (ELISA)",
+            "details": "University of Southern California, start: 2015-09-01, end: 2020-03-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "DARPA Robust Automatic Transcription of Speech (RATS) - RATS Patrol II",
+            "details": "BBN, start: 2015-02-23, end: 2017-03-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Meeting Assistant (MINT)",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA04011311, start: 2014-10-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2506, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Collaborative Science Program (CSP) Funding for ASRU 2013 Conference",
+            "details": "MSMT, Projekty v ramci VTS s USA, ONRG Grant, start: 2013-12-08, end: 2013-12-12, completed"
+        },
+        {
+            "year": "2012",
+            "title": "IARPA Building Speech Recognition for Keyword Search in a New Language in a Week with Limited Training Data (BABEL) - Babelon",
+            "details": "BBN, start: 2012-03-05, end: 2016-11-04, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-2, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-2, 2010, start: 2010-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "IARPA Biometrics Exploitation Science and Technology (BEST) - Promoting Robustness in Speaker Modeling (PRISM)",
+            "details": "IARPA, start: 2009-12-07, end: 2011-12-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Multilingual recognition and search in speech for electronic dictionaries",
+            "details": "MPO, TIP, FR-TI1/034, start: 2009-09-01, end: 2013-08-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "EOARD - Improving the capacity of language recognition systems to handle rare languages using radio broadcast data",
+            "details": "start: 2008-10-15, end: 2010-12-14, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Mobile Biometry",
+            "details": "MSMT, Podpora projektu sedmeho ramcoveho programu Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace (2007 az 2013) podle zakona c. 171/2007 Sb., 7E08042, start: 2008-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Speech Recognition under Real-World Conditions",
+            "details": "GACR, Standardni projekty, GA102/08/0707, start: 2008-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Search and network access to large archives of audiovisual data",
+            "details": "201/2006, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2006",
+            "title": "AMIDA - Augmented Multi-party Interaction with Distance Access",
+            "details": "IST-033812-AMIDA, start: 2006-10-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "DIRAC - Detection and Identification of Rare Audio-visual Cues",
+            "details": "MSMT, Sesty ramcovy program Evropskeho spolecenstvi pro vyzkum, technicky rozvoj a demonstracni cinnosti, 027787, start: 2006-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Interactive Keyword Detector",
+            "details": "GACR, Postdoktorandske granty, GP102/06/P383, start: 2006-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "New trends in research and application of voice technology",
+            "details": "GACR, Standardni projekty, GA102/05/0278, start: 2005-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Augmented Multi-party Interaction",
+            "details": "EU, Sixth Framework programme, 506811-AMI, start: 2004-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Voice technologies for support of information society",
+            "details": "GACR, Standardni projekty, GA102/02/0124, start: 2002-01-01, end: 2004-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2026",
+            "citation": "POLOK, A.; KLEMENT, D.; KOCOUR, M.; HAN, J.; LANDINI, F.; YUSUF, B.; WIESNER, M.; KHUDANPUR, S.; CERNOCKY, J.; BURGET, L. DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition. COMPUTER SPEECH AND LANGUAGE, 2026, vol. 95, no. 1, p. 1-19."
+        },
+        {
+            "year": "2025",
+            "citation": "Alexander Polok, Jiangyu Han, Dominik Klement, Samuele Cornell, Jan Cernocky, Lukas Burget. BUT System for the MLC-SLM Challenge. ISCA: ISCA, 2025. p. 23-27."
+        },
+        {
+            "year": "2025",
+            "citation": "BARAHONA, S.; SILNOVA, A.; MOSNER, L.; PENG, J.; PLCHOT, O.; ROHDIN, J.; ZHANG, L.; HAN, J.; PALKA, P.; LANDINI, F.; BURGET, L.; STAFYLAKIS, T.; CUMANI, S.; BOBOS, D.; HLAVACEK, M.; KODOVSKY, M.; PAVLICEK, T. Analysis of ABC Frontend Audio Systems for the NIST-SRE24. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam: International Speech Communication Association, 2025. p. 5763-5767."
+        },
+        {
+            "year": "2025",
+            "citation": "HAN, J.; LANDINI, F.; ROHDIN, J.; SILNOVA, A.; DIEZ SANCHEZ, M.; BURGET, L. Leveraging Self-Supervised Learning for Speaker Diarization. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1."
+        },
+        {
+            "year": "2025",
+            "citation": "PALKA, P.; LANDINI, F.; KLEMENT, D.; DIEZ SANCHEZ, M.; SILNOVA, A.; BURGET, L.; DELCROIX, M. Joint Training of Speaker Embedding Extractor, Speech and Overlap Detection for Diarization. Proceedings of 33rd European Signal Processing Conference (EUSIPCO 2025). Palermo: IEEE Signal Processing Society, 2025. p. 31-35. ISBN: 978-9-46-459362-4."
+        },
+        {
+            "year": "2025",
+            "citation": "PENG, J.; MOSNER, L.; ZHANG, L.; PLCHOT, O.; STAFYLAKIS, T.; BURGET, L.; CERNOCKY, J. CA-MHFA: A Context-Aware Multi-Head Factorized Attentive Pooling for SSL-Based Speaker Verification. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1."
+        },
+        {
+            "year": "2025",
+            "citation": "POLOK, A.; KLEMENT, D.; WIESNER, M.; KHUDANPUR, S.; CERNOCKY, J.; BURGET, L. Target Speaker ASR with Whisper. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Hyderabad: IEEE Signal Processing Society, 2025. p. 1-5. ISBN: 979-8-3503-6874-1."
+        },
+        {
+            "year": "2025",
+            "citation": "ZEINALI, H.; LEE, K.; ALAM, J.; BURGET, L. Text-dependent Speaker Verification Challenge 2024: Exploring Shared and User-defined Passphrases. In 2025 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Hyderabad, Indicka republika: Institute of Electrical and Electronics Engineers Inc., 2025. p. 1-5."
+        },
+        {
+            "year": "2024",
+            "citation": "ALAM, J.; BARAHONA QUIROS, S.; BOBOS, D.; BURGET, L.; CUMANI, S.; DAHMANE, M.; HAN, J.; HLAVACEK, M.; KODOVSKY, M.; LANDINI, F.; MOSNER, L.; PALKA, P.; PAVLICEK, T.; PENG, J.; PLCHOT, O.; RAJASEKHAR, P.; ROHDIN, J.; SILNOVA, A.; STAFYLAKIS, T.; ZHANG, L. ABC SYSTEM DESCRIPTION FOR NIST SRE 2024. Proceedings of NIST SRE 2024. San Juan: National Institute of Standards and Technology, 2024. p. 1-9."
+        },
+        {
+            "year": "2024",
+            "citation": "BENES, K.; KOCOUR, M.; BURGET, L. Hystoc: Obtaining Word Confidences for Fusion of End-To-End ASR Systems. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Seoul: IEEE Signal Processing Society, 2024. p. 11276-11280. ISBN: 979-8-3503-4485-1."
+        },
+        {
+            "year": "2024",
+            "citation": "HAN, J.; LANDINI, F.; ROHDIN, J.; DIEZ SANCHEZ, M.; BURGET, L.; CAO, Y.; LU, H.; CERNOCKY, J. Diacorrect: Error Correction Back-End for Speaker Diarization. In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Seoul: IEEE Signal Processing Society, 2024. p. 11181-11185. ISBN: 979-8-3503-4485-1."
+        },
+        {
+            "year": "2024",
+            "citation": "KLEMENT, D.; DIEZ SANCHEZ, M.; LANDINI, F.; BURGET, L.; SILNOVA, A.; DELCROIX, M.; TAWARA, N. Discriminative Training of VBx Diarization. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Seoul: IEEE Signal Processing Society, 2024. p. 11871-11875. ISBN: 979-8-3503-4485-1."
+        },
+        {
+            "year": "2024",
+            "citation": "LANDINI, F.; DIEZ SANCHEZ, M.; STAFYLAKIS, T.; BURGET, L. DiaPer: End-to-End Neural Diarization With Perceiver-Based Attractors. IEEE Transactions on Audio, Speech, and Language Processing, 2024, vol. 32, no. 7, p. 3450-3465. ISSN: 1558-7916."
+        },
+        {
+            "year": "2024",
+            "citation": "MOSNER, L.; SERIZEL, R.; BURGET, L.; PLCHOT, O.; VINCENT, E.; PENG, J.; CERNOCKY, J. Multi-Channel Extension of Pre-trained Models for Speaker Verification. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 2135-2139. ISSN: 1990-9772."
+        },
+        {
+            "year": "2024",
+            "citation": "POLOK, A.; KLEMENT, D.; HAN, J.; SEDLACEK, S.; YUSUF, B.; MACIEJEWSKI, M.; WIESNER, M.; BURGET, L. BUT/JHU System Description for CHiME-8 NOTSOFAR-1 Challenge. Proceedings of CHiME 2024 Workshop. Kos Island: International Speech Communication Association, 2024. p. 18-22."
+        },
+        {
+            "year": "2024",
+            "citation": "ROHDIN, J.; ZHANG, L.; PLCHOT, O.; STANEK, V.; MIHOLA, D.; PENG, J.; STAFYLAKIS, T.; BEVERAKI, D.; SILNOVA, A.; BRUKNER, J.; BURGET, L. BUT systems and analyses for the ASVspoof 5 Challenge. Proceedings of ASV spoof 2024 Workshop. Kos Island: International Speech Communication Association, 2024. p. 24-31."
+        },
+        {
+            "year": "2024",
+            "citation": "STAFYLAKIS, T.; SILNOVA, A.; ROHDIN, J.; PLCHOT, O.; BURGET, L. Challenging margin-based speaker embedding extractors by using the variational information bottleneck. In Proceedings of Interspeech 2024. Proceedings of Interspeech. Kos: International Speech Communication Association, 2024. no. 9, p. 3220-3224. ISSN: 1990-9772."
+        },
+        {
+            "year": "2024",
+            "citation": "ZHANG, L.; STAFYLAKIS, T.; LANDINI, F.; DIEZ SANCHEZ, M.; SILNOVA, A.; BURGET, L. Do End-to-End Neural Diarization Attractors Need to Encode Speaker Characteristic Information?. Proceedings of Odyssey 2024: The Speaker and Language Recognition Workshop. Quebec City: International Speech Communication Association, 2024. p. 123-130."
+        },
+        {
+            "year": "2023",
+            "citation": "DELCROIX, M.; TAWARA, N.; DIEZ SANCHEZ, M.; LANDINI, F.; SILNOVA, A.; OGAWA, A.; NAKATANI, T.; BURGET, L.; ARAKI, S. Multi-Stream Extension of Variational Bayesian HMM Clustering (MS-VBx) for Combined End-to-End and Vector Clustering-based Diarization. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Dublin: International Speech Communication Association, 2023. no. 08, p. 3477-3481. ISSN: 1990-9772."
+        },
+        {
+            "year": "2023",
+            "citation": "KAKOUROS, S.; STAFYLAKIS, T.; MOSNER, L.; BURGET, L. Speech-Based Emotion Recognition with Self-Supervised Models Using Attentive Channel-Wise Correlations and Label Smoothing. In Proceedings of ICASSP 2023. Rhodes Island: IEEE Signal Processing Society, 2023. p. 1-5. ISBN: 978-1-7281-6327-7."
+        },
+        {
+            "year": "2023",
+            "citation": "LANDINI, F.; DIEZ SANCHEZ, M.; LOZANO DIEZ, A.; BURGET, L. Multi-Speaker and Wide-Band Simulated Conversations as Training Data for End-to-End Neural Diarization. In Proceedings of ICASSP 2023. Rhodes Island: IEEE Signal Processing Society, 2023. p. 1-5. ISBN: 978-1-7281-6327-7."
+        },
+        {
+            "year": "2023",
+            "citation": "MATEJKA, P.; SILNOVA, A.; SLAVICEK, J.; MOSNER, L.; PLCHOT, O.; KLCO, M.; PENG, J.; STAFYLAKIS, T.; BURGET, L. Description and Analysis of ABC Submission to NIST LRE 2022. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Dublin: International Speech Communication Association, 2023. no. 08, p. 511-515. ISSN: 1990-9772."
+        },
+        {
+            "year": "2023",
+            "citation": "MOSNER, L.; PLCHOT, O.; PENG, J.; BURGET, L.; CERNOCKY, J. Multi-Channel Speech Separation with Cross-Attention and Beamforming. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Dublin: International Speech Communication Association, 2023. no. 08, p. 1693-1697. ISSN: 1990-9772."
+        },
+        {
+            "year": "2023",
+            "citation": "PENG, J.; PLCHOT, O.; STAFYLAKIS, T.; MOSNER, L.; BURGET, L.; CERNOCKY, J. An attention-based backend allowing efficient fine-tuning of transformer models for speaker verification. In 2022 IEEE Spoken Language Technology Workshop, SLT 2022 - Proceedings. Doha: IEEE Signal Processing Society, 2023. p. 555-562. ISBN: 978-1-6654-7189-3."
+        },
+        {
+            "year": "2023",
+            "citation": "PENG, J.; PLCHOT, O.; STAFYLAKIS, T.; MOSNER, L.; BURGET, L.; CERNOCKY, J. Improving Speaker Verification with Self-Pretrained Transformer Models. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Dublin: International Speech Communication Association, 2023. no. 08, p. 5361-5365. ISSN: 1990-9772."
+        },
+        {
+            "year": "2023",
+            "citation": "PENG, J.; STAFYLAKIS, T.; GU, R.; PLCHOT, O.; MOSNER, L.; BURGET, L.; CERNOCKY, J. Parameter-Efficient Transfer Learning of Pre-Trained Transformer Models for Speaker Verification Using Adapters. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Rhodes Island: IEEE Signal Processing Society, 2023. p. 1-5. ISBN: 978-1-7281-6327-7."
+        },
+        {
+            "year": "2023",
+            "citation": "SILNOVA, A.; BRUMMER, J.; SWART, A.; BURGET, L. Toroidal Probabilistic Spherical Discriminant Analysis. In Proceedings of ICASSP 2023. Rhodes Island: IEEE Signal Processing Society, 2023. p. 1-5. ISBN: 978-1-7281-6327-7."
+        },
+        {
+            "year": "2023",
+            "citation": "SILNOVA, A.; SLAVICEK, J.; MOSNER, L.; KLCO, M.; PLCHOT, O.; MATEJKA, P.; PENG, J.; STAFYLAKIS, T.; BURGET, L. ABC System Description for NIST LRE 2022. Proceedings of NIST LRE 2022 Workshop. Washington DC: National Institute of Standards and Technology, 2023. p. 1-5."
+        },
+        {
+            "year": "2023",
+            "citation": "STAFYLAKIS, T.; MOSNER, L.; KAKOUROS, S.; PLCHOT, O.; BURGET, L.; CERNOCKY, J. Extracting speaker and emotion information from self-supervised speech models via channel-wise correlations. In 2022 IEEE Spoken Language Technology Workshop, SLT 2022 - Proceedings. Doha: IEEE Signal Processing Society, 2023. p. 1136-1143. ISBN: 978-1-6654-7189-3."
+        },
+        {
+            "year": "2023",
+            "citation": "YU, D.; GONG, Y.; PICHENY, A.; RAMABHADRAN, B.; HAKKANI-TUR, D.; PRASAD, R.; ZEN, H.; SKOGLUND, J.; CERNOCKY, J.; BURGET, L.; MOHAMED, A. Twenty-Five Years of Evolution in Speech and Language Processing. IEEE SIGNAL PROCESSING MAGAZINE, 2023, vol. 40, no. 5, p. 27-39. ISSN: 1558-0792."
+        },
+        {
+            "year": "2022",
+            "citation": "ALAM, J.; BURGET, L.; GLEMBEK, O.; MATEJKA, P.; MOSNER, L.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; STAFYLAKIS, T. Development of ABC systems for the 2021 edition of NIST Speaker Recognition evaluation. Proceedings of The Speaker and Language Recognition Workshop (Odyssey 2022). Beijing: International Speech Communication Association, 2022. p. 346-353."
+        },
+        {
+            "year": "2022",
+            "citation": "BASKAR, M.; HERZIG, T.; NGUYEN, D.; DIEZ SANCHEZ, M.; POLZEHL, T.; BURGET, L.; CERNOCKY, J. Speaker adaptation for Wav2vec2 based dysarthric ASR. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 3403-3407. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "BRUMMER, J.; SWART, A.; MOSNER, L.; SILNOVA, A.; PLCHOT, O.; STAFYLAKIS, T.; BURGET, L. Probabilistic Spherical Discriminant Analysis: An Alternative to PLDA for length-normalized embeddings. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 1446-1450. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "EGOROVA, E.; VYDANA, H.; BURGET, L.; CERNOCKY, J. Spelling-Aware Word-Based End-to-End ASR. IEEE SIGNAL PROCESSING LETTERS, 2022, vol. 29, no. 29, p. 1729-1733. ISSN: 1558-2361."
+        },
+        {
+            "year": "2022",
+            "citation": "HAN, J.; LONG, Y.; BURGET, L.; CERNOCKY, J. DPCCN: Densely-Connected Pyramid Complex Convolutional Network for Robust Speech Separation and Extraction. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Singapore: IEEE Signal Processing Society, 2022. p. 7292-7296. ISBN: 978-1-6654-0540-9."
+        },
+        {
+            "year": "2022",
+            "citation": "KOCOUR, M.; UMESH, J.; KARAFIAT, M.; SVEC, J.; LOPEZ, F.; BENES, K.; DIEZ SANCHEZ, M.; SZOKE, I.; LUQUE, J.; VESELY, K.; BURGET, L.; CERNOCKY, J. BCN2BRNO: ASR System Fusion for Albayzin 2022 Speech to Text Challenge. Proceedings of IberSpeech 2022. Granada: International Speech Communication Association, 2022. p. 276-280."
+        },
+        {
+            "year": "2022",
+            "citation": "KOCOUR, M.; ZMOLIKOVA, K.; ONDEL YANG, L.; SVEC, J.; DELCROIX, M.; OCHIAI, T.; BURGET, L.; CERNOCKY, J. Revisiting joint decoding based multi-talker speech recognition with DNN acoustic model. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 4955-4959. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "LANDINI, F.; LOZANO DIEZ, A.; DIEZ SANCHEZ, M.; BURGET, L. From Simulated Mixtures to Simulated Conversations as Training Data for End-to-End Neural Diarization. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 5095-5099. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "LANDINI, F.; PROFANT, J.; DIEZ SANCHEZ, M.; BURGET, L. Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: Theory, implementation and analysis on standard tasks. COMPUTER SPEECH AND LANGUAGE, 2022, vol. 71, no. 101254, p. 1-16. ISSN: 0885-2308."
+        },
+        {
+            "year": "2022",
+            "citation": "MOSNER, L.; PLCHOT, O.; BURGET, L.; CERNOCKY, J. Multi-Channel Speaker Verification with Conv-Tasnet Based Beamformer. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Singapore: IEEE Signal Processing Society, 2022. p. 7982-7986. ISBN: 978-1-6654-0540-9."
+        },
+        {
+            "year": "2022",
+            "citation": "MOSNER, L.; PLCHOT, O.; BURGET, L.; CERNOCKY, J. Multisv: Dataset for Far-Field Multi-Channel Speaker Verification. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Singapore: IEEE Signal Processing Society, 2022. p. 7977-7981. ISBN: 978-1-6654-0540-9."
+        },
+        {
+            "year": "2022",
+            "citation": "ONDEL YANG, L.; LAM-YEE-MUI, L.; KOCOUR, M.; CORRO, C.; BURGET, L. GPU-Accelerated Forward-Backward Algorithm with Application to Lattice-Free MMI. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Singapore: IEEE Signal Processing Society, 2022. p. 8417-8421. ISBN: 978-1-6654-0540-9."
+        },
+        {
+            "year": "2022",
+            "citation": "ONDEL YANG, L.; YUSUF, B.; BURGET, L.; SARACLAR, M. Non-Parametric Bayesian Subspace Models for Acoustic Unit Discovery. IEEE-ACM Transactions on Audio Speech and Language Processing, 2022, vol. 30, no. 5, p. 1902-1917. ISSN: 2329-9290."
+        },
+        {
+            "year": "2022",
+            "citation": "PENG, J.; GU, R.; MOSNER, L.; PLCHOT, O.; BURGET, L.; CERNOCKY, J. Learnable Sparse Filterbank for Speaker Verification. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 5110-5114. ISSN: 1990-9772."
+        },
+        {
+            "year": "2022",
+            "citation": "SILNOVA, A.; STAFYLAKIS, T.; MOSNER, L.; PLCHOT, O.; ROHDIN, J.; MATEJKA, P.; BURGET, L.; GLEMBEK, O.; BRUMMER, J. Analyzing speaker verification embedding extractors and back-ends under language and channel mismatch. Proceedings of The Speaker and Language Recognition Workshop (Odyssey 2022). Beijing: International Speech Communication Association, 2022. p. 9-16."
+        },
+        {
+            "year": "2022",
+            "citation": "STAFYLAKIS, T.; MOSNER, L.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; BURGET, L.; CERNOCKY, J. Training Speaker Embedding Extractors Using Multi-Speaker Audio with Unknown Speaker Boundaries. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Incheon: International Speech Communication Association, 2022. no. 9, p. 605-609. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "BASKAR, M.; BURGET, L.; WATANABE, S.; ASTUDILLO, R.; CERNOCKY, J. Eat: Enhanced ASR-TTS for Self-Supervised Speech Recognition. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 6753-6757. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2021",
+            "citation": "BENES, K.; BURGET, L. Text Augmentation for Language Models in High Error Recognition Scenario. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 1872-1876. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "EGOROVA, E.; VYDANA, H.; BURGET, L.; CERNOCKY, J. Out-of-Vocabulary Words Detection with Attention and CTC Alignments in an End-to-End ASR System. In Proceedings Interspeech 2021. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 2901-2905. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "LANDINI, F.; GLEMBEK, O.; MATEJKA, P.; ROHDIN, J.; BURGET, L.; DIEZ SANCHEZ, M.; SILNOVA, A. Analysis of the BUT Diarization System for Voxconverse Challenge. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 5819-5823. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2021",
+            "citation": "LANDINI, F.; LOZANO DIEZ, A.; BURGET, L.; DIEZ SANCHEZ, M.; SILNOVA, A.; ZMOLIKOVA, K.; GLEMBEK, O.; MATEJKA, P.; STAFYLAKIS, T.; BRUMMER, J. BUT System Description for The Third DIHARD Speech Diarization Challenge. Proceedings available at Dihard Challenge Github. on-line by LDC and University of Pennsylvania: 2021. p. 1-5."
+        },
+        {
+            "year": "2021",
+            "citation": "PENG, J.; QU, X.; GU, R.; WANG, J.; XIAO, J.; BURGET, L.; CERNOCKY, J. Effective Phase Encoding for End-To-End Speaker Verification. In Proceedings Interspeech 2021. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 2366-2370. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "PENG, J.; QU, X.; WANG, J.; GU, R.; XIAO, J.; BURGET, L.; CERNOCKY, J. ICSpk: Interpretable Complex Speaker Embedding Extractor from Raw Waveform. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 511-515. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "STAFYLAKIS, T.; ROHDIN, J.; BURGET, L. Speaker embeddings by modeling channel-wise correlations. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Brno: International Speech Communication Association, 2021. no. 8, p. 501-505. ISSN: 1990-9772."
+        },
+        {
+            "year": "2021",
+            "citation": "VYDANA, H.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J. The IWSLT 2021 BUT Speech Translation Systems. In Proceedings of 18th International Conference on Spoken Language Translation (IWSLT). Bangkok, on-line: Association for Computational Linguistics, 2021. p. 75-83. ISBN: 978-1-7138-3378-9."
+        },
+        {
+            "year": "2021",
+            "citation": "VYDANA, H.; KARAFIAT, M.; ZMOLIKOVA, K.; BURGET, L.; CERNOCKY, J. Jointly Trained Transformers Models for Spoken Language Translation. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 7513-7517. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2021",
+            "citation": "YUSUF, B.; ONDEL YANG, L.; BURGET, L.; CERNOCKY, J.; SARACLAR, M. A Hierarchical Subspace Model for Language-Attuned Acoustic Unit Discovery. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Toronto, Ontario: IEEE Signal Processing Society, 2021. p. 3710-3714. ISBN: 978-1-7281-7605-5."
+        },
+        {
+            "year": "2021",
+            "citation": "ZMOLIKOVA, K.; DELCROIX, M.; BURGET, L.; NAKATANI, T.; CERNOCKY, J. Integration of Variational Autoencoder and Spatial Clustering for Adaptive Multi-Channel Neural Speech Separation. In 2021 IEEE Spoken Language Technology Workshop, SLT 2021 - Proceedings. Shenzhen - virtual: IEEE Signal Processing Society, 2021. p. 889-896. ISBN: 978-1-7281-7066-4."
+        },
+        {
+            "year": "2020",
+            "citation": "ALAM, J.; BOULIANNE, G.; BURGET, L.; DAHMANE, M.; DIEZ SANCHEZ, M.; GLEMBEK, O.; LALONDE, M.; LOZANO DIEZ, A.; MATEJKA, P.; MIZERA, P.; MOSNER, L.; NOISEUX, C.; MONTEIRO, J.; NOVOTNY, O.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; SLAVICEK, J.; STAFYLAKIS, T.; ST-CHARLES, P.; WANG, S.; ZEINALI, H. Analysis of ABC Submission to NIST SRE 2019 CMN and VAST Challenge. Proceedings of Odyssey 2020 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Tokyo: International Speech Communication Association, 2020. no. 11, p. 289-295. ISSN: 2312-2846."
+        },
+        {
+            "year": "2020",
+            "citation": "BURGET, L.; GLEMBEK, O.; LOZANO DIEZ, A.; MATEJKA, P.; NOVOTNY, O.; PLCHOT, O.; PULUGUNDLA, B.; ROHDIN, J.; SILNOVA, A.; VESELY, K. BUT System Description to SdSV Challenge 2020. Proceedings of Short-duration Speaker Verification Challenge 2020 Workshop. Shanghai, on-line event of Interspeech 2020 Conference: 2020. p. 1-5."
+        },
+        {
+            "year": "2020",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; LANDINI, F.; CERNOCKY, J. Analysis of Speaker Diarization based on Bayesian HMM with Eigenvoice Priors. IEEE-ACM Transactions on Audio Speech and Language Processing, 2020, vol. 28, no. 1, p. 355-368. ISSN: 2329-9290."
+        },
+        {
+            "year": "2020",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; LANDINI, F.; WANG, S.; CERNOCKY, J. Optimizing Bayesian Hmm Based X-Vector Clustering for the Second Dihard Speech Diarization Challenge. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Barcelona: IEEE Signal Processing Society, 2020. p. 6519-6523. ISBN: 978-1-5090-6631-5."
+        },
+        {
+            "year": "2020",
+            "citation": "KESIRAJU, S.; PLCHOT, O.; BURGET, L.; GANGASHETTY, S. Learning Document Embeddings Along With Their Uncertainties. IEEE-ACM Transactions on Audio Speech and Language Processing, 2020, vol. 2020, no. 28, p. 2319-2332. ISSN: 2329-9290."
+        },
+        {
+            "year": "2020",
+            "citation": "KOSIBA, M.; BURGET, L. Multiwavelength classification of X-ray selected galaxy cluster candidates using convolutional neural networks. Monthly Notices of the Royal Astronomical Society, 2020, vol. 496, no. 4, p. 4141-4153. ISSN: 1365-2966."
+        },
+        {
+            "year": "2020",
+            "citation": "LANDINI, F.; WANG, S.; DIEZ SANCHEZ, M.; BURGET, L.; MATEJKA, P.; ZMOLIKOVA, K.; MOSNER, L.; SILNOVA, A.; PLCHOT, O.; NOVOTNY, O.; ZEINALI, H.; ROHDIN, J. But System for the Second Dihard Speech Diarization Challenge. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Barcelona: IEEE Signal Processing Society, 2020. p. 6529-6533. ISBN: 978-1-5090-6631-5."
+        },
+        {
+            "year": "2020",
+            "citation": "LOZANO DIEZ, A.; SILNOVA, A.; PULUGUNDLA, B.; ROHDIN, J.; VESELY, K.; BURGET, L.; PLCHOT, O.; GLEMBEK, O.; NOVOTNY, O.; MATEJKA, P. BUT Text-Dependent Speaker Verification System for SdSV Challenge 2020. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Shanghai: International Speech Communication Association, 2020. no. 10, p. 761-765. ISSN: 1990-9772."
+        },
+        {
+            "year": "2020",
+            "citation": "MATEJKA, P.; PLCHOT, O.; GLEMBEK, O.; BURGET, L.; ROHDIN, J.; ZEINALI, H.; MOSNER, L.; SILNOVA, A.; NOVOTNY, O.; DIEZ SANCHEZ, M.; CERNOCKY, J. 13 years of speaker recognition research at BUT, with longitudinal analysis of NIST SRE. COMPUTER SPEECH AND LANGUAGE, 2020, vol. 2020, no. 63, p. 1-15. ISSN: 0885-2308."
+        },
+        {
+            "year": "2020",
+            "citation": "ROHDIN, J.; SILNOVA, A.; DIEZ SANCHEZ, M.; PLCHOT, O.; MATEJKA, P.; BURGET, L.; GLEMBEK, O. End-to-end DNN based text-independent speaker recognition for long and short utterances. COMPUTER SPEECH AND LANGUAGE, 2020, vol. 2020, no. 59, p. 22-35. ISSN: 0885-2308."
+        },
+        {
+            "year": "2020",
+            "citation": "SILNOVA, A.; BRUMMER, J.; ROHDIN, J.; STAFYLAKIS, T.; BURGET, L. Probabilistic embeddings for speaker diarization. Proceedings of Odyssey 2020 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Tokyo: International Speech Communication Association, 2020. no. 11, p. 24-31. ISSN: 2312-2846."
+        },
+        {
+            "year": "2020",
+            "citation": "WANG, S.; ROHDIN, J.; PLCHOT, O.; BURGET, L.; YU, K.; CERNOCKY, J. Investigation of Specaugment for Deep Speaker Embedding Learning. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Barcelona: IEEE Signal Processing Society, 2020. p. 7139-7143. ISBN: 978-1-5090-6631-5."
+        },
+        {
+            "year": "2020",
+            "citation": "ZEINALI, H.; LEE, K.; ALAM, J.; BURGET, L. SdSV Challenge 2020: Large-Scale Evaluation of Short-duration Speaker Verification. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Shanghai: International Speech Communication Association, 2020. no. 10, p. 731-735. ISSN: 1990-9772."
+        },
+        {
+            "year": "2020",
+            "citation": "ZMOLIKOVA, K.; KOCOUR, M.; LANDINI, F.; BENES, K.; KARAFIAT, M.; VYDANA, H.; LOZANO DIEZ, A.; PLCHOT, O.; BASKAR, M.; SVEC, J.; MOSNER, L.; MALENOVSKY, V.; BURGET, L.; YUSUF, B.; NOVOTNY, O.; GREZL, F.; SZOKE, I.; CERNOCKY, J. BUT System for CHiME-6 Challenge. Proceedings of CHiME 2020 Virtual Workshop. Barcelona: University of Sheffield, 2020. p. 1-3."
+        },
+        {
+            "year": "2019",
+            "citation": "ALAM, J.; BOULIANNE, G.; BURGET, L.; GLEMBEK, O.; LOZANO DIEZ, A.; MATEJKA, P.; MIZERA, P.; MOSNER, L.; NOVOTNY, O.; PLCHOT, O.; ROHDIN, J.; SILNOVA, A.; SLAVICEK, J.; STAFYLAKIS, T.; WANG, S.; ZEINALI, H.; DAHMANE, M.; ST-CHARLES, P.; LALONDE, M.; NOISEUX, C.; MONTEIRO, J. ABC System Description for NIST Multimedia Speaker Recognition Evaluation 2019. Proceedings of NIST 2019 SRE Workshop. Sentosa, Singapore: National Institute of Standards and Technology, 2019. p. 1-7."
+        },
+        {
+            "year": "2019",
+            "citation": "BASKAR, M.; BURGET, L.; WATANABE, S.; KARAFIAT, M.; HORI, T.; CERNOCKY, J. Promising Accurate Prefix Boosting For Sequence-to-sequence ASR. In Proceedings of ICASSP. Brighton: IEEE Signal Processing Society, 2019. p. 5646-5650. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2019",
+            "citation": "BASKAR, M.; WATANABE, S.; ASTUDILLO, R.; HORI, T.; BURGET, L.; CERNOCKY, J. Semi-supervised Sequence-to-sequence ASR using Unpaired Speech and Text. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 3790-3794. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; WANG, S.; ROHDIN, J.; CERNOCKY, J. Bayesian HMM based x-vector clustering for Speaker Diarization. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 346-350. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "FAJCIK, M.; BURGET, L.; SMRZ, P. BUT-FIT at SemEval-2019 Task 7: Determining the Rumour Stance with Pre-Trained Deep Bidirectional Transformers. In Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, 2019. p. 1097-1104. ISBN: 978-1-950737-06-2."
+        },
+        {
+            "year": "2019",
+            "citation": "MATEJKA, P.; PLCHOT, O.; ZEINALI, H.; MOSNER, L.; SILNOVA, A.; BURGET, L.; NOVOTNY, O.; GLEMBEK, O. Analysis of BUT Submission in Far-Field Scenarios of VOiCES 2019 Challenge. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 2448-2452. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "MOSNER, L.; PLCHOT, O.; ROHDIN, J.; BURGET, L.; CERNOCKY, J. Speaker Verification with Application-Aware Beamforming. In IEEE Automatic Speech Recognition and Understanding Workshop - Proceedings (ASRU). Sentosa, Singapore: IEEE Signal Processing Society, 2019. p. 411-418. ISBN: 978-1-7281-0306-8."
+        },
+        {
+            "year": "2019",
+            "citation": "NOVOTNY, O.; PLCHOT, O.; GLEMBEK, O.; BURGET, L. Factorization of Discriminatively Trained i-Vector Extractor for Speaker Recognition. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 4330-4334. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "NOVOTNY, O.; PLCHOT, O.; GLEMBEK, O.; BURGET, L.; MATEJKA, P. Discriminatively Re-trained i-Vector Extractor For Speaker Recognition. In Proceedings of 2019 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Brighton: IEEE Signal Processing Society, 2019. p. 6031-6035. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2019",
+            "citation": "NOVOTNY, O.; PLCHOT, O.; GLEMBEK, O.; CERNOCKY, J.; BURGET, L. Analysis of DNN Speech Signal Enhancement for Robust Speaker Recognition. COMPUTER SPEECH AND LANGUAGE, 2019, vol. 2019, no. 58, p. 403-421. ISSN: 0885-2308."
+        },
+        {
+            "year": "2019",
+            "citation": "ONDEL YANG, L.; VYDANA, H.; BURGET, L.; CERNOCKY, J. Bayesian Subspace Hidden Markov Model for Acoustic Unit Discovery. In Proceedings of Interspeech 2019. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 261-265. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "ROHDIN, J.; STAFYLAKIS, T.; SILNOVA, A.; ZEINALI, H.; BURGET, L.; PLCHOT, O. Speaker Verification Using End-To-End Adversarial Language Adaptation. In Proceedings of ICASSP 2019. Brighton: IEEE Signal Processing Society, 2019. p. 6006-6010. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2019",
+            "citation": "STAFYLAKIS, T.; ROHDIN, J.; PLCHOT, O.; MIZERA, P.; BURGET, L. Self-supervised speaker embeddings. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 2863-2867. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "WANG, S.; ROHDIN, J.; BURGET, L.; PLCHOT, O.; QIAN, Y.; YU, K.; CERNOCKY, J. On the Usage of Phonetic Information for Text-independent Speaker Embedding Extraction. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 1148-1152. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "ZEINALI, H.; BURGET, L.; ROHDIN, J.; STAFYLAKIS, T.; CERNOCKY, J. How To Improve Your Speaker Embeddings Extractor in Generic Toolkits. In Proceedings of 2019 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Brighton: IEEE Signal Processing Society, 2019. p. 6141-6145. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2019",
+            "citation": "ZEINALI, H.; CERNOCKY, J.; BURGET, L. A multi purpose and large scale speech corpus in Persian and English for speaker and speech Recognition: the DeepMine database. In IEEE Automatic Speech Recognition and Understanding Workshop - Proceedings (ASRU). Sentosa, Singapore: IEEE Signal Processing Society, 2019. p. 397-402. ISBN: 978-1-7281-0306-8."
+        },
+        {
+            "year": "2019",
+            "citation": "ZEINALI, H.; STAFYLAKIS, T.; ATHANASOPOULOU, G.; ROHDIN, J.; GKINIS, I.; BURGET, L.; CERNOCKY, J. Detecting Spoofing Attacks Using VGG and SincNet: BUT-Omilia Submission to ASVspoof 2019 Challenge. In Proceedings of Interspeech. Proceedings of Interspeech. Graz: International Speech Communication Association, 2019. no. 9, p. 1073-1077. ISSN: 1990-9772."
+        },
+        {
+            "year": "2019",
+            "citation": "ZMOLIKOVA, K.; DELCROIX, M.; KINOSHITA, K.; OCHIAI, T.; NAKATANI, T.; BURGET, L.; CERNOCKY, J. SpeakerBeam: Speaker Aware Neural Network for Target Speaker Extraction in Speech Mixtures. IEEE Journal of Selected Topics in Signal Processing, 2019, vol. 13, no. 4, p. 800-814. ISSN: 1932-4553."
+        },
+        {
+            "year": "2018",
+            "citation": "ALAM, J.; BHATTACHARYA, G.; BRUMMER, J.; BURGET, L.; DIEZ SANCHEZ, M.; GLEMBEK, O.; KENNY, P.; KLCO, M.; LANDINI, F.; LOZANO DIEZ, A.; MATEJKA, P.; MONTEIRO, J.; MOSNER, L.; NOVOTNY, O.; PLCHOT, O.; PROFANT, J.; ROHDIN, J.; SILNOVA, A.; SLAVICEK, J.; STAFYLAKIS, T.; ZEINALI, H. ABC NIST SRE 2018 SYSTEM DESCRIPTION. Proceedings of 2018 NIST SRE Workshop. Athens: National Institute of Standards and Technology, 2018. p. 1-10."
+        },
+        {
+            "year": "2018",
+            "citation": "BENES, K.; KESIRAJU, S.; BURGET, L. i-vectors in language modeling: An efficient way of domain adaptation for feed-forward models. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 3383-3387. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "BRUMMER, J.; SILNOVA, A.; BURGET, L.; STAFYLAKIS, T. Gaussian meta-embeddings for efficient scoring of a heavy-tailed PLDA model. In Proceedings of Odyssey 2018. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Les Sables d'Olonne: International Speech Communication Association, 2018. no. 6, p. 349-356. ISSN: 2312-2846."
+        },
+        {
+            "year": "2018",
+            "citation": "DIEZ SANCHEZ, M.; BURGET, L.; MATEJKA, P. Speaker Diarization based on Bayesian HMM with Eigenvoice Priors. In Proceedings of Odyssey 2018. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Les Sables d Olonne: International Speech Communication Association, 2018. no. 6, p. 147-154. ISSN: 2312-2846."
+        },
+        {
+            "year": "2018",
+            "citation": "DIEZ SANCHEZ, M.; LANDINI, F.; BURGET, L.; ROHDIN, J.; SILNOVA, A.; ZMOLIKOVA, K.; NOVOTNY, O.; VESELY, K.; GLEMBEK, O.; PLCHOT, O.; MOSNER, L.; MATEJKA, P. BUT system for DIHARD Speech Diarization Challenge 2018. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 2798-2802. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "EGOROVA, E.; BURGET, L. Out-of-Vocabulary Word Recovery Using FST-Based Subword Unit Clustering in a Hybrid ASR System. In Proceedings of ICASSP 2018. Calgary: IEEE Signal Processing Society, 2018. p. 5919-5923. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2018",
+            "citation": "KARAFIAT, M.; BASKAR, M.; SZOKE, I.; MALENOVSKY, V.; VESELY, K.; GREZL, F.; BURGET, L.; CERNOCKY, J. BUT OpenSAT 2017 speech recognition system. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 2638-2642. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "KARAFIAT, M.; BASKAR, M.; VESELY, K.; GREZL, F.; BURGET, L.; CERNOCKY, J. Analysis of Multilingual BLSTM Acoustic Model on Low and High Resource Languages. In Proceedings of ICASSP 2018. Calgary: IEEE Signal Processing Society, 2018. p. 5789-5793. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2018",
+            "citation": "ONDEL YANG, L.; GODARD, P.; BESACIER, L.; LARSEN, E.; HASEGAWA-JOHNSON, M.; SCHARENBORG, O.; DUPOUX, E.; BURGET, L.; YVON, F.; KHUDANPUR, S. Bayesian Models for Unit Discovery on a Very Low Resource Language. In Proceedings of ICASSP 2018. Calgary: IEEE Signal Processing Society, 2018. p. 5939-5943. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2018",
+            "citation": "PLCHOT, O.; MATEJKA, P.; NOVOTNY, O.; CUMANI, S.; LOZANO DIEZ, A.; SLAVICEK, J.; DIEZ SANCHEZ, M.; GREZL, F.; GLEMBEK, O.; KAMSALI VEERA, M.; SILNOVA, A.; BURGET, L.; ONDEL YANG, L.; KESIRAJU, S.; ROHDIN, J. Analysis of BUT-PT Submission for NIST LRE 2017. In Proceedings of Odyssey 2018 The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Les Sables d'Olonne: International Speech Communication Association, 2018. no. 6, p. 47-53. ISSN: 2312-2846."
+        },
+        {
+            "year": "2018",
+            "citation": "PULUGUNDLA, B.; BASKAR, M.; KESIRAJU, S.; EGOROVA, E.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J. BUT system for low resource Indian language ASR. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 3182-3186. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "ROHDIN, J.; SILNOVA, A.; DIEZ SANCHEZ, M.; PLCHOT, O.; MATEJKA, P.; BURGET, L. End-to-End DNN Based Speaker Recognition Inspired by i-Vector and PLDA. In Proceedings of ICASSP. Calgary: IEEE Signal Processing Society, 2018. p. 4874-4878. ISBN: 978-1-5386-4658-8."
+        },
+        {
+            "year": "2018",
+            "citation": "SILNOVA, A.; BRUMMER, J.; GARCIA-ROMERO, D.; SNYDER, D.; BURGET, L. Fast variational Bayes for heavy-tailed PLDA applied to i-vectors and x-vectors. In Proceedings of Interspeech 2018. Proceedings of Interspeech. Hyderabad: International Speech Communication Association, 2018. no. 9, p. 72-76. ISSN: 1990-9772."
+        },
+        {
+            "year": "2018",
+            "citation": "ZEINALI, H.; BURGET, L.; CERNOCKY, J. Convolutional Neural Networks and X-Vector Embedding for DCASE2018 Acoustic Scene Classification Challenge. Proceedings of DCASE 2018 Workshop. Surrey: Tampere University of Technology, 2018. p. 1-5. ISBN: 978-952-15-4262-6."
+        },
+        {
+            "year": "2018",
+            "citation": "ZEINALI, H.; BURGET, L.; SAMETI, H.; CERNOCKY, J. Spoken Pass-Phrase Verification in the i-vector Space. In Proceedings of Odyssey 2018. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Les Sables d Olonne: International Speech Communication Association, 2018. no. 6, p. 372-377. ISSN: 2312-2846."
+        },
+        {
+            "year": "2017",
+            "citation": "BASKAR, M.; KARAFIAT, M.; BURGET, L.; VESELY, K.; GREZL, F.; CERNOCKY, J. Residual Memory Networks: Feed-forward approach to learn long-term temporal dependencies. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 4810-4814. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "BENES, K.; BASKAR, M.; BURGET, L. Residual Memory Networks in Language Modeling: Improving the Reputation of Feed-Forward Networks. In Proceedings of Interspeeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 284-288. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "HANNEMANN, M.; TRMAL, J.; ONDEL YANG, L.; KESIRAJU, S.; BURGET, L. Bayesian joint-sequence models for grapheme-to-phoneme conversion. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 2836-2840. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "KARAFIAT, M.; BASKAR, M.; MATEJKA, P.; VESELY, K.; GREZL, F.; BURGET, L.; CERNOCKY, J. 2016 BUT Babel system: Multilingual BLSTM acoustic model with i-vector based adaptation. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 719-723. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "KARAFIAT, M.; VESELY, K.; ZMOLIKOVA, K.; DELCROIX, M.; WATANABE, S.; BURGET, L.; CERNOCKY, J.; SZOKE, I. Training Data Augmentation and Data Selection. In New Era for Robust Speech Recognition: Exploiting Deep Learning. Computer Science, Artificial Intelligence. Heidelberg: Springer International Publishing, 2017. p. 245-260. ISBN: 978-3-319-64679-4."
+        },
+        {
+            "year": "2017",
+            "citation": "KESIRAJU, S.; PAPPAGARI, R.; ONDEL YANG, L.; BURGET, L.; DEHAK, N.; KHUDANPUR, S.; CERNOCKY, J.; GANGASHETTY, S. Topic identification of spoken documents using unsupervised acoustic unit discovery. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 5745-5749. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "LIU, C.; YANG, J.; SUN, M.; KESIRAJU, S.; ROTT, A.; ONDEL YANG, L.; GHAHREMANI, P.; DEHAK, N.; BURGET, L.; KHUDANPUR, S. An Empirical evaluation of zero resource acoustic unit discovery. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 5305-5309. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "MATEJKA, P.; NOVOTNY, O.; PLCHOT, O.; BURGET, L.; DIEZ SANCHEZ, M.; CERNOCKY, J. Analysis of Score Normalization in Multilingual Speaker Recognition. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 1567-1571. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "MATEJKA, P.; PLCHOT, O.; NOVOTNY, O.; CUMANI, S.; LOZANO DIEZ, A.; SLAVICEK, J.; DIEZ SANCHEZ, M.; GREZL, F.; GLEMBEK, O.; KAMSALI VEERA, M.; SILNOVA, A.; BURGET, L.; ONDEL YANG, L.; KESIRAJU, S.; ROHDIN, J. BUT- PT System Description for NIST LRE 2017. Proceedings of NIST Language Recognition Workshop 2017. Orlando, Florida: National Institute of Standards and Technology, 2017. p. 1-6."
+        },
+        {
+            "year": "2017",
+            "citation": "ONDEL YANG, L.; BURGET, L.; CERNOCKY, J.; KESIRAJU, S. Bayesian phonotactic language model for Acoustic Unit Discovery. In Proceedings of ICASSP 2017. New Orleans: IEEE Signal Processing Society, 2017. p. 5750-5754. ISBN: 978-1-5090-4117-6."
+        },
+        {
+            "year": "2017",
+            "citation": "PAPADOPOULOS, P.; TRAVADI, R.; VAZ, C.; MALANDRAKIS, N.; HERMJAKOB, U.; POURDAMGHANI, N.; PUST, M.; ZHANG, B.; PAN, X.; LU, D.; LIN, Y.; GLEMBEK, O.; BASKAR, M.; KARAFIAT, M.; BURGET, L.; HASEGAWA-JOHNSON, M.; JI, H.; MAY, J.; KNIGHT, K.; NARAYANAN, S. Team ELISA System for DARPA LORELEI Speech Evaluation 2016. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 2053-2057. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "SILNOVA, A.; BURGET, L.; CERNOCKY, J. Alternative Approaches to Neural Network based Speaker Verification. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 1572-1575. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "VESELY, K.; BURGET, L.; CERNOCKY, J. Semi-supervised DNN training with word selection for ASR. In Proceedings of Interspeech 2017. Proceedings of Interspeech. Stockholm: International Speech Communication Association, 2017. no. 08, p. 3687-3691. ISSN: 1990-9772."
+        },
+        {
+            "year": "2017",
+            "citation": "ZEINALI, H.; SAMETI, H.; BURGET, L. HMM-Based Phrase-Independent i-Vector Extractor for Text-Dependent Speaker Verification. IEEE-ACM Transactions on Audio Speech and Language Processing, 2017, vol. 25, no. 7, p. 1421-1435. ISSN: 2329-9290."
+        },
+        {
+            "year": "2017",
+            "citation": "ZEINALI, H.; SAMETI, H.; BURGET, L.; CERNOCKY, J. Text-dependent speaker verification based on i-vectors, Neural Networks and Hidden Markov Models. COMPUTER SPEECH AND LANGUAGE, 2017, vol. 2017, no. 46, p. 53-71. ISSN: 0885-2308."
+        },
+        {
+            "year": "2016",
+            "citation": "KARAFIAT, M.; BURGET, L.; GREZL, F.; VESELY, K.; CERNOCKY, J. Multilingual Region-Dependent Transforms. In Proceedings of the 41th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016), 2016. Shanghai: IEEE Signal Processing Society, 2016. p. 5430-5434. ISBN: 978-1-4799-9988-0."
+        },
+        {
+            "year": "2016",
+            "citation": "KESIRAJU, S.; BURGET, L.; SZOKE, I.; CERNOCKY, J. Learning document representations using subspace multinomial model. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 700-704. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2016",
+            "citation": "LI, R.; MALLIDI, S.; PLCHOT, O.; BURGET, L.; DEHAK, N. Exploiting Hidden-Layer Responses of Deep Neural Networks for Language Recognition. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 3265-3269. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2016",
+            "citation": "LOZANO DIEZ, A.; SILNOVA, A.; MATEJKA, P.; GLEMBEK, O.; PLCHOT, O.; PESAN, J.; BURGET, L.; GONZALEZ-RODRIGUEZ, J. Analysis and Optimization of Bottleneck Features for Speaker Recognition. In Proceedings of Odyssey 2016. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Bilbao: International Speech Communication Association, 2016. no. 06, p. 352-357. ISSN: 2312-2846."
+        },
+        {
+            "year": "2016",
+            "citation": "MATEJKA, P.; GLEMBEK, O.; NOVOTNY, O.; PLCHOT, O.; GREZL, F.; BURGET, L.; CERNOCKY, J. Analysis Of DNN Approaches To Speaker Identification. In Proceedings of the 41th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016), 2016. Shanghai: IEEE Signal Processing Society, 2016. p. 5100-5104. ISBN: 978-1-4799-9988-0."
+        },
+        {
+            "year": "2016",
+            "citation": "NOVOTNY, O.; MATEJKA, P.; GLEMBEK, O.; PLCHOT, O.; GREZL, F.; BURGET, L.; CERNOCKY, J. Analysis of the DNN-Based SRE Systems in Multi-language Conditions. In Proceedings of SLT 2016. San Diego: IEEE Signal Processing Society, 2016. p. 199-204. ISBN: 978-1-5090-4903-5."
+        },
+        {
+            "year": "2016",
+            "citation": "NOVOTNY, O.; MATEJKA, P.; PLCHOT, O.; GLEMBEK, O.; BURGET, L.; CERNOCKY, J. Analysis of Speaker Recognition Systems in Realistic Scenarios of the SITW 2016 Challenge. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 828-832. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2016",
+            "citation": "ONDEL YANG, L.; BURGET, L.; CERNOCKY, J. Variational Inference for Acoustic Unit Discovery. In Procedia Computer Science. Procedia Computer Science. Yogyakarta: Elsevier Science, 2016. no. 81, p. 80-86. ISSN: 1877-0509."
+        },
+        {
+            "year": "2016",
+            "citation": "PESAN, J.; BURGET, L.; CERNOCKY, J. Sequence Summarizing Neural Networks for Spoken Language Recognition. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 3285-3289. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2016",
+            "citation": "PLCHOT, O.; BURGET, L.; ARONOWITZ, H.; MATEJKA, P. Audio Enhancing With DNN Autoencoder For Speaker Recognition. In Proceedings of the 41th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016), 2016. Shanghai: IEEE Signal Processing Society, 2016. p. 5090-5094. ISBN: 978-1-4799-9988-0."
+        },
+        {
+            "year": "2016",
+            "citation": "PLCHOT, O.; MATEJKA, P.; FER, R.; GLEMBEK, O.; NOVOTNY, O.; PESAN, J.; VESELY, K.; ONDEL YANG, L.; KARAFIAT, M.; GREZL, F.; KESIRAJU, S.; BURGET, L.; BRUMMER, J.; SWART, A.; CUMANI, S.; MALLIDI, S.; LI, R. BAT System Description for NIST LRE 2015. In Proceedings of Odyssey 2016, The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Bilbao: International Speech Communication Association, 2016. no. 06, p. 166-173. ISSN: 2312-2846."
+        },
+        {
+            "year": "2016",
+            "citation": "VESELY, K.; WATANABE, S.; ZMOLIKOVA, K.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J. Sequence Summarizing Neural Network for Speaker Adaptation. In Proceedings of the 41th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016), 2016. Shanghai: IEEE Signal Processing Society, 2016. p. 5315-5319. ISBN: 978-1-4799-9988-0."
+        },
+        {
+            "year": "2016",
+            "citation": "ZEINALI, H.; BURGET, L.; SAMETI, H.; GLEMBEK, O.; PLCHOT, O. Deep Neural Networks and Hidden Markov Models in i-vector-based Text-Dependent Speaker Verification. In Proceedings of Odyssey 2016, The Speaker and Language Recognition Workshop. Proceedings of Odyssey: The Speaker and Language Recognition Workshop Odyssey 2014, Joensuu, Finland. Bilbao: International Speech Communication Association, 2016. no. 06, p. 24-30. ISSN: 2312-2846."
+        },
+        {
+            "year": "2016",
+            "citation": "ZEINALI, H.; SAMETI, H.; BURGET, L.; CERNOCKY, J.; MAGHSOODI, N.; MATEJKA, P. i-vector/HMM Based Text-dependent Speaker Verification System for RedDots Challenge. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 440-444. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2016",
+            "citation": "ZMOLIKOVA, K.; KARAFIAT, M.; VESELY, K.; DELCROIX, M.; WATANABE, S.; BURGET, L.; CERNOCKY, J. Data selection by sequence summarizing neural network in mismatch condition training. In Proceedings of Interspeech 2016. San Francisco: International Speech Communication Association, 2016. p. 2354-2358. ISBN: 978-1-5108-3313-5."
+        },
+        {
+            "year": "2015",
+            "citation": "GLEMBEK, O.; MATEJKA, P.; BURGET, L.; SCHWARZ, P.; PESAN, J.; PLCHOT, O. Voice-print transformation for migration between automatic speaker identification systems. Abstract book of the 7th European Academy of Forensic Science Conference. Praha: Criminal Police Department Prague, 2015. p. 345-345. ISBN: 978-80-260-8659-8."
+        },
+        {
+            "year": "2015",
+            "citation": "GLEMBEK, O.; MATEJKA, P.; PLCHOT, O.; PESAN, J.; BURGET, L.; SCHWARZ, P. Migrating i-vectors Between Speaker Recognition Systems Using Regression Neural Networks. In Proceedings of Interspeech 2015. Proceedings of Interspeech. Dresden: International Speech Communication Association, 2015. no. 09, p. 2327-2331. ISBN: 978-1-5108-1790-6. ISSN: 1990-9772."
+        },
+        {
+            "year": "2015",
+            "citation": "HERMANSKY, H.; BURGET, L.; COHEN, J.; DUPOUX, E.; FELDMAN, N.; GODFREY, J.; KHUDANPUR, S.; MACIEJEWSKI, M.; MALLIDI, S.; MENON, A.; OGAWA, T.; PEDDINTI, V.; ROSE, R.; STERN, R.; WIESNER, M.; VESELY, K. TOWARDS MACHINES THAT KNOW WHEN THEY DO NOT KNOW: SUMMARY OF WORK DONE AT 2014 FREDERICK JELINEK MEMORIAL WORKSHOP. In Proceedings of 2015 IEEE International Conference on Acoustics, Speech and Signal Processing. South Brisbane, Queensland: IEEE Signal Processing Society, 2015. p. 5009-5013. ISBN: 978-1-4673-6997-8."
+        },
+        {
+            "year": "2015",
+            "citation": "HSIAO, R.; MA, J.; HARTMANN, W.; KARAFIAT, M.; GREZL, F.; BURGET, L.; SZOKE, I.; CERNOCKY, J.; WATANABE, S.; CHEN, Z.; MALLIDI, S.; HERMANSKY, H.; TSAKALIDIS, S.; SCHWARTZ, R. Robust Speech Recognition in Unknown Reverberant and Noisy Conditions. In Proceedings of 2015 IEEE Automatic Speech Recognition and Understanding Workshop. Scottsdale, Arizona: IEEE Signal Processing Society, 2015. p. 533-538. ISBN: 978-1-4799-7291-3."
+        },
+        {
+            "year": "2015",
+            "citation": "KARAFIAT, M.; GREZL, F.; BURGET, L.; SZOKE, I.; CERNOCKY, J. Three ways to adapt a CTS recognizer to unseen reverberated speech in BUT system for the ASpIRE challenge. In Proceedings of Interspeech 2015. Proceedings of Interspeech. Dresden: International Speech Communication Association, 2015. no. 09, p. 2454-2458. ISBN: 978-1-5108-1790-6. ISSN: 1990-9772."
+        },
+        {
+            "year": "2015",
+            "citation": "MOTLICEK, P.; DEY, S.; MADIKERI, S.; BURGET, L. EMPLOYMENT OF SUBSPACE GAUSSIAN MIXTURE MODELS IN SPEAKER RECOGNITION. In Proceedings of 2015 IEEE International Conference on Acoustics, Speech and Signal Processing. South Brisbane, Queensland: IEEE Signal Processing Society, 2015. p. 4445-4449. ISBN: 978-1-4673-6997-8."
+        },
+        {
+            "year": "2015",
+            "citation": "PESAN, J.; BURGET, L.; HERMANSKY, H.; VESELY, K. DNN derived filters for processing of modulation spectrum of speech. In Proceedings of Interspeech 2015. Proceedings of Interspeech. Dresden: International Speech Communication Association, 2015. no. 09, p. 1908-1911. ISBN: 978-1-5108-1790-6. ISSN: 1990-9772."
+        },
+        {
+            "year": "2015",
+            "citation": "SZOKE, I.; SKACEL, M.; CERNOCKY, J.; BURGET, L. Coping with Channel Mismatch in Query-By-Example - BUT QUESST 2014. In Proceedings of 2015 IEEE International Conference on Acoustics, Speech and Signal Processing. South Brisbane, Queensland: IEEE Signal Processing Society, 2015. p. 5838-5842. ISBN: 978-1-4673-6997-8."
+        },
+        {
+            "year": "2014",
+            "citation": "BAHARI, M.; DEHAK, N.; VAN HAMME, H.; BURGET, L.; ALI, A.; GLASS, J. Non-Negative Factor Analysis of Gaussian Mixture Model Weight Adaptation for Language and Dialect Recognition. IEEE-ACM Transactions on Audio Speech and Language Processing, 2014, vol. 2014, no. 7, p. 1117-1129. ISSN: 2329-9290."
+        },
+        {
+            "year": "2014",
+            "citation": "BURGET, L. Subspace modeling techniques in speech. Brno: Faculty of Information Technology BUT, 2014. 134 p."
+        },
+        {
+            "year": "2014",
+            "citation": "GLEMBEK, O.; MA, J.; MATEJKA, P.; ZHANG, B.; PLCHOT, O.; BURGET, L.; MATSOUKAS, S. Domain adaptation via within-class covariance correction in I-vector based speaker recognition systems. In Proceedings of ICASSP 2014. Florencie: IEEE Signal Processing Society, 2014. p. 4060-4064. ISBN: 978-1-4799-2892-7."
+        },
+        {
+            "year": "2014",
+            "citation": "KARAFIAT, M.; VESELY, K.; SZOKE, I.; BURGET, L.; GREZL, F.; HANNEMANN, M.; CERNOCKY, J. BUT ASR System for BABEL Surprise Evaluation 2014. In Proceedings of 2014 Spoken Language Technology Workshop. South Lake Tahoe, Nevada: IEEE Signal Processing Society, 2014. p. 501-506. ISBN: 978-1-4799-7129-9."
+        },
+        {
+            "year": "2014",
+            "citation": "MARTINEZ GONZALEZ, D.; BURGET, L.; STAFYLAKIS, T.; LEI, Y.; KENNY, P.; LLEIDA, E. Unscented Transform For Ivector-based Noisy Speaker Recognition. In Proceedings of ICASSP 2014. Florencie: IEEE Signal Processing Society, 2014. p. 4070-4074. ISBN: 978-1-4799-2892-7."
+        },
+        {
+            "year": "2014",
+            "citation": "PLCHOT, O.; DIEZ SANCHEZ, M.; SOUFIFAR, M.; BURGET, L. PLLR Features in Language Recognition System for RATS. In Proceedings of Interspeech 2014. Singapore: International Speech Communication Association, 2014. p. 3048-3051. ISBN: 978-1-63439-435-2."
+        },
+        {
+            "year": "2014",
+            "citation": "SZOKE, I.; BURGET, L.; GREZL, F.; CERNOCKY, J.; ONDEL YANG, L. Calibration and Fusion of Query-by-example Systems - BUT SWS 2013. In Proceedings of ICASSP 2014. Florencie: IEEE Signal Processing Society, 2014. p. 7899-7903. ISBN: 978-1-4799-2892-7."
+        },
+        {
+            "year": "2014",
+            "citation": "SZOKE, I.; SKACEL, M.; BURGET, L. BUT QUESST 2014 System Description. In CEUR Workshop Proceedings. CEUR Workshop Proceedings. Barcelona: CEUR-WS.org, 2014. no. 1263, p. 1-2. ISSN: 1613-0073."
+        },
+        {
+            "year": "2013",
+            "citation": "AKBACAK, M.; BURGET, L.; WENG, W.; VAN HOUT, J. Rich System Combination For Keyword Spotting In Noisy and Acoustically Heterogenous Audio Streams. Proceedings of ICASSP 2013. Vancouver: IEEE Signal Processing Society, 2013. p. 8267-8271. ISBN: 978-1-4799-0355-9."
+        },
+        {
+            "year": "2013",
+            "citation": "CUMANI, S.; BRUMMER, J.; BURGET, L.; LAFACE, P.; PLCHOT, O.; VASILAKAKIS, V. Pairwise Discriminative Speaker Verification in the I -Vector Space. IEEE Transactions on Audio, Speech, and Language Processing, 2013, vol. 2013, no. 6, p. 1217-1227. ISSN: 1558-7916."
+        },
+        {
+            "year": "2013",
+            "citation": "LEI, Y.; BURGET, L.; SCHEFFER, N. A Noise Robust I-Vector Extractor Using Vector Taylor Series For Speaker Recognition. Proceedings of ICASSP 2013. Vancouver: IEEE Signal Processing Society, 2013. p. 6788-6791. ISBN: 978-1-4799-0355-9."
+        },
+        {
+            "year": "2013",
+            "citation": "RATH, S.; BURGET, L.; KARAFIAT, M.; GLEMBEK, O.; CERNOCKY, J. A Region-specific Feature-space Transformation for Speaker Adaptation and Singularity Analysis of Jacobian Matrix. Proceedings of Interspeeech 2013. Interspeech. Lyon: International Speech Communication Association, 2013. no. 8, p. 1228-1232. ISBN: 978-1-62993-443-3. ISSN: 2308-457X."
+        },
+        {
+            "year": "2013",
+            "citation": "SOUFIFAR, M.; BURGET, L.; PLCHOT, O.; CUMANI, S.; CERNOCKY, J. Regularized Subspace n-Gram Model for Phonotactic iVector Extraction. Proceedings of Interspeech 2013. Interspeech. Lyon: International Speech Communication Association, 2013. no. 8, p. 74-78. ISBN: 978-1-62993-443-3. ISSN: 2308-457X."
+        },
+        {
+            "year": "2013",
+            "citation": "SZOKE, I.; BURGET, L.; GREZL, F.; ONDEL YANG, L. BUT SWS 2013 - Massive Parallel Approach. In Proceedings of the MediaEval 2013 Multimedia Benchmark Workshop. CEUR Workshop Proceedings. Barcelona: CEUR-WS.org, 2013. no. 1043, p. 1-2. ISSN: 1613-0073."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, K.; GHOSHAL, A.; BURGET, L.; POVEY, D. Sequence-discriminative Training of Deep Neural Networks. Proceedings of Interspeech 2013. Interspeech. Lyon: International Speech Communication Association, 2013. no. 8, p. 2345-2349. ISBN: 978-1-62993-443-3. ISSN: 2308-457X."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, K.; HANNEMANN, M.; BURGET, L. Semi-supervised Training of Deep Neural Networks. Proceedings of ASRU 2013. Olomouc: IEEE Signal Processing Society, 2013. p. 267-272. ISBN: 978-1-4799-2755-5."
+        },
+        {
+            "year": "2012",
+            "citation": "FERRER, L.; BURGET, L.; PLCHOT, O.; SCHEFFER, N. A Unified Approach for Audio Characterization and its Application to Speaker Recognition. Proceedings of Odyssey 2012, The Speaker and Language Recognition Workshop. Singapur: International Speech Communication Association, 2012. p. 317-323. ISBN: 978-981-07-3093-2."
+        },
+        {
+            "year": "2012",
+            "citation": "HAIN, T.; BURGET, L.; DINES, J.; GARNER, P.; GREZL, F.; EL HANNANI, A.; HUIJBREGTS, M.; KARAFIAT, M.; LINCOLN, M.; WAN, V. Transcribing Meetings with the AMIDA System. IEEE Transactions on Audio, Speech, and Language Processing, 2012, vol. 20, no. 2, p. 486-498. ISSN: 1558-7916."
+        },
+        {
+            "year": "2012",
+            "citation": "KARAFIAT, M.; JANDA, M.; CERNOCKY, J.; BURGET, L. Region Dependent Linear Transforms in Multilingual Speech Recognition. In Proc. International Conference on Acoustics, Speech, and Signal Processing 2012. Kyoto: IEEE Signal Processing Society, 2012. p. 4885-4888. ISBN: 978-1-4673-0044-5."
+        },
+        {
+            "year": "2012",
+            "citation": "KOMBRINK, S.; HANNEMANN, M.; BURGET, L. Out-of-Vocabulary Word Detection and Beyond. In Detection and Identification of Rare Audiovisual Cues. Studies in Computational Intelligence, 384. Springer-Verlag Berlin Heidelberg: Springer Verlag, 2012. p. 57-65. ISBN: 978-3-642-24033-1."
+        },
+        {
+            "year": "2012",
+            "citation": "KOMBRINK, S.; MIKOLOV, T.; KARAFIAT, M.; BURGET, L. Improving Language Models for ASR Using Translated In-domain Data. Proceedings of 2012 IEEE International Conference on Acoustics, Speech and Signal Processing. Kyoto: IEEE Signal Processing Society, 2012. p. 4405-4408. ISBN: 978-1-4673-0044-5."
+        },
+        {
+            "year": "2012",
+            "citation": "LEI, Y.; BURGET, L.; FERRER, L.; GRACIARENA, M.; SCHEFFER, N. Towards Noise-Robust Speaker Recognition Using Probabilistic Linear Discriminant Analysis. Proc. International Conference on Acoustics, Speech, and Signal P. Kyoto: IEEE Signal Processing Society, 2012. p. 4253-4256. ISBN: 978-1-4673-0044-5."
+        },
+        {
+            "year": "2012",
+            "citation": "LEI, Y.; BURGET, L.; SCHEFFER, N. Bilinear Factor Analysis for iVector Based Speaker Verification. Proceedings of Interspeech. Portland, Oregon: International Speech Communication Association, 2012. p. 1-4. ISBN: 978-1-62276-759-5."
+        },
+        {
+            "year": "2012",
+            "citation": "MARTINEZ GONZALEZ, D.; BURGET, L.; FERRER, L.; SCHEFFER, N. Ivector-Based Prosodic System For Language Identification. Proc. International Conference on Acoustics, Speec. Kyoto: IEEE Signal Processing Society, 2012. p. 4861-4864. ISBN: 978-1-4673-0044-5."
+        },
+        {
+            "year": "2012",
+            "citation": "POVEY, D.; HANNEMANN, M.; BOULIANNE, G.; BURGET, L.; GHOSHAL, A.; JANDA, M.; KARAFIAT, M.; KOMBRINK, S.; MOTLICEK, P.; QIAN, Y.; RIEDHAMMER, K.; VESELY, K.; VU, N. Generating Exact Lattices in The WFST Framework. Proceedings of 2012 IEEE International Conference on Acoustics, Speech and Signal Processing. Kyoto: IEEE Signal Processing Society, 2012. p. 4213-4216. ISBN: 978-1-4673-0044-5."
+        },
+        {
+            "year": "2012",
+            "citation": "SOUFIFAR, M.; CUMANI, S.; BURGET, L.; CERNOCKY, J. Discriminative Classifiers for Phonotactic Language Recognition with iVectors. Proc. International Conference on Acoustics, Speech, and Signal Processing 2012. Kyoto: IEEE Signal Processing Society, 2012. p. 4853-4856. ISBN: 978-1-4673-0044-5."
+        },
+        {
+            "year": "2011",
+            "citation": "BURGET, L.; PLCHOT, O.; CUMANI, S.; GLEMBEK, O.; MATEJKA, P.; BRUMMER, N. Discriminatively Trained Probabilistic Linear Discriminant Analysis for Speaker Verification. In Proceedings of the 2011 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011. Praha: IEEE Signal Processing Society, 2011. p. 4832-4835. ISBN: 978-1-4577-0537-3."
+        },
+        {
+            "year": "2011",
+            "citation": "CUMANI, S.; BRUMMER, N.; BURGET, L.; LAFACE, P. Fast Discriminative Speaker Verification in the I-Vector Space. Proceedings of the 2011 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011. Praha: IEEE Signal Processing Society, 2011. p. 4852-4855. ISBN: 978-1-4577-0537-3."
+        },
+        {
+            "year": "2011",
+            "citation": "FERRER, L.; BRATT, H.; BURGET, L.; CERNOCKY, J.; GLEMBEK, O.; GRACIARENA, M.; LAWSON, A.; LEI, Y.; MATEJKA, P.; PLCHOT, O.; SCHEFFER, N. Promoting robustness for speaker modeling in the community: the PRISM evaluation set. Proceedings of SRE11 Analysis Workshop in 2011. Atlanta, Georga: 2011. p. 1-7."
+        },
+        {
+            "year": "2011",
+            "citation": "GLEMBEK, O.; BURGET, L.; BRUMMER, N.; PLCHOT, O.; MATEJKA, P. Discriminatively Trained i-vector Extractor for Speaker Verification. In Proceedings of Interspeech 2011. Proceedings of Interspeech. Florence: International Speech Communication Association, 2011. no. 8, p. 137-140. ISBN: 978-1-61839-270-1. ISSN: 1990-9772."
+        },
+        {
+            "year": "2011",
+            "citation": "GLEMBEK, O.; BURGET, L.; KENNY, P.; KARAFIAT, M.; MATEJKA, P. Simplification and optimization of I-Vector Extraction. Proceedings of the 2011 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011. Praha: IEEE Signal Processing Society, 2011. p. 4516-4519. ISBN: 978-1-4577-0537-3."
+        },
+        {
+            "year": "2011",
+            "citation": "KARAFIAT, M.; BURGET, L.; MATEJKA, P.; GLEMBEK, O.; CERNOCKY, J. iVector-Based Discriminative Adaptation for Automatic Speech Recognition. Proceedings of ASRU 2011. Hilton Waikoloa Village, Big Island, Hawaii: IEEE Signal Processing Society, 2011. p. 152-157. ISBN: 978-1-4673-0366-8."
+        },
+        {
+            "year": "2011",
+            "citation": "KOCKMANN, M.; BURGET, L.; CERNOCKY, J. Application of speaker- and language identification state-of-the-art techniques for emotion recognition. Speech communication, 2011, vol. 53, no. 9, p. 1172-1185. ISSN: 0167-6393."
+        },
+        {
+            "year": "2011",
+            "citation": "KOCKMANN, M.; FERRER, L.; BURGET, L.; CERNOCKY, J. iVector Fusion of Prosodic and Cepstral Features for Speaker Verification. Proceedings of Interspeech 2011. Proceedings of Interspeech. Florence: International Speech Communication Association, 2011. no. 8, p. 265-268. ISBN: 978-1-61839-270-1. ISSN: 1990-9772."
+        },
+        {
+            "year": "2011",
+            "citation": "KOCKMANN, M.; FERRER, L.; BURGET, L.; SHRIBERG, E.; CERNOCKY, J. Recent Progress in Prosodic Speaker Verification. Proceedings of the 2011 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011. Praha: IEEE Signal Processing Society, 2011. p. 4556-4559. ISBN: 978-1-4577-0537-3."
+        },
+        {
+            "year": "2011",
+            "citation": "KOMBRINK, S.; MIKOLOV, T.; KARAFIAT, M.; BURGET, L. Recurrent Neural Network based Language Modeling in Meeting Recognition. Proceedings of Interspeech 2011. Proceedings of Interspeech. Florence: International Speech Communication Association, 2011. no. 8, p. 2877-2880. ISBN: 978-1-61839-270-1. ISSN: 1990-9772."
+        },
+        {
+            "year": "2011",
+            "citation": "MARTINEZ GONZALEZ, D.; PLCHOT, O.; BURGET, L.; GLEMBEK, O.; MATEJKA, P. Language Recognition in iVectors Space. In Proceedings of Interspeech 2011. Proceedings of Interspeech. Florence: International Speech Communication Association, 2011. no. 8, p. 861-864. ISBN: 978-1-61839-270-1. ISSN: 1990-9772."
+        },
+        {
+            "year": "2011",
+            "citation": "MATEJKA, P.; GLEMBEK, O.; CASTALDO, F.; ALAM, J.; PLCHOT, O.; KENNY, P.; BURGET, L.; CERNOCKY, J. Full-covariance UBM and Heavy-tailed PLDA in I-Vector Speaker Verification. In Proceedings of the 2011 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011. Praha: IEEE Signal Processing Society, 2011. p. 4828-4831. ISBN: 978-1-4577-0537-3."
+        },
+        {
+            "year": "2011",
+            "citation": "MIKOLOV, T.; DEORAS, A.; KOMBRINK, S.; BURGET, L.; CERNOCKY, J. Empirical Evaluation and Combination of Advanced Language Modeling Techniques. Proceedings of Interspeech 2011. Proceedings of Interspeech. Florence: International Speech Communication Association, 2011. no. 8, p. 605-608. ISBN: 978-1-61839-270-1. ISSN: 1990-9772."
+        },
+        {
+            "year": "2011",
+            "citation": "MIKOLOV, T.; DEORAS, A.; POVEY, D.; BURGET, L.; CERNOCKY, J. Strategies for Training Large Scale Neural Network Language Models. Proceedings of ASRU 2011. Hilton Waikoloa Village, Big Island, Hawaii: IEEE Signal Processing Society, 2011. p. 196-201. ISBN: 978-1-4673-0366-8."
+        },
+        {
+            "year": "2011",
+            "citation": "MIKOLOV, T.; KOMBRINK, S.; BURGET, L.; CERNOCKY, J.; KHUDANPUR, S. Extensions of Recurrent Neural Network Language Model. Proceedings of the 2011 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011. Praha: IEEE Signal Processing Society, 2011. p. 5528-5531. ISBN: 978-1-4577-0537-3."
+        },
+        {
+            "year": "2011",
+            "citation": "MIKOLOV, T.; KOMBRINK, S.; DEORAS, A.; BURGET, L.; CERNOCKY, J. RNNLM - Recurrent Neural Network Language Modeling Toolkit. Proceedings of ASRU 2011. Hilton Waikoloa Village, Big Island, Hawaii: IEEE Signal Processing Society, 2011. p. 1-4. ISBN: 978-1-4673-0366-8."
+        },
+        {
+            "year": "2011",
+            "citation": "POVEY, D.; BURGET, L.; AGARWAL, M.; AKYAZI, P.; GHOSHAL, A.; GLEMBEK, O.; GOEL, N.; KARAFIAT, M.; RASTROW, A.; ROSE, R.; SCHWARZ, P.; THOMAS, S. The subspace Gaussian mixture model-A structured model for speech recognition. COMPUTER SPEECH AND LANGUAGE, 2011, vol. 25, no. 2, p. 404-439. ISSN: 0885-2308."
+        },
+        {
+            "year": "2011",
+            "citation": "POVEY, D.; GHOSHAL, A.; BOULIANNE, G.; BURGET, L.; GLEMBEK, O.; GOEL, N.; HANNEMANN, M.; MOTLICEK, P.; QIAN, Y.; SCHWARZ, P.; SILOVSKY, J.; STEMMER, G.; VESELY, K. The Kaldi Speech Recognition Toolkit. Proceedings of ASRU 2011. Hilton Waikoloa Village Resort, Hawaii: IEEE Signal Processing Society, 2011. p. 1-4. ISBN: 978-1-4673-0366-8."
+        },
+        {
+            "year": "2011",
+            "citation": "SOUFIFAR, M.; KOCKMANN, M.; BURGET, L.; PLCHOT, O.; GLEMBEK, O.; SVENDSEN, T. iVector Approach to Phonotactic Language Recognition. In Proceedings of Interspeech 2011. Proceedings of Interspeech. Florence: International Speech Communication Association, 2011. no. 8, p. 2913-2916. ISBN: 978-1-61839-270-1. ISSN: 1990-9772."
+        },
+        {
+            "year": "2010",
+            "citation": "BRUMMER, J.; BURGET, L.; KENNY, P.; MATEJKA, P.; DE VILLIERS, E.; KARAFIAT, M.; KOCKMANN, M.; GLEMBEK, O.; PLCHOT, O.; BAUM, D.; SENOUSSAUOI, M. ABC System description for NIST SRE 2010. Proc. NIST 2010 Speaker Recognition Evaluation. Brno: National Institute of Standards and Technology, 2010. p. 1-20."
+        },
+        {
+            "year": "2010",
+            "citation": "BURGET, L.; SCHWARZ, P.; AGARWAL, M.; AKYAZI, P.; FENG, K.; GHOSHAL, A.; GLEMBEK, O.; GOEL, N.; KARAFIAT, M.; POVEY, D.; RASTROW, A.; ROSE, R.; THOMAS, S. Multilingual acoustic modeling for speech recognition based on Subspace Gaussian Mixture Models. Proc. International Conference on Acoustictics, Speech, and Signal Processing. Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Dallas: IEEE Signal Processing Society, 2010. no. 3, p. 4334-4337. ISBN: 978-1-4244-4296-6. ISSN: 1520-6149."
+        },
+        {
+            "year": "2010",
+            "citation": "GHOSHAL, A.; POVEY, D.; AGARWAL, M.; AKYAZI, P.; BURGET, L.; FENG, K.; GLEMBEK, O.; GOEL, N.; KARAFIAT, M.; RASTROW, A.; ROSE, R.; SCHWARZ, P.; THOMAS, S. A novel estimation of feature-space MLLR for full-covariance models. Proc. International Conference on Acoustics, Speech, and Signal Processing. Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Dallas: IEEE Signal Processing Society, 2010. no. 3, p. 4310-4313. ISBN: 978-1-4244-4296-6. ISSN: 1520-6149."
+        },
+        {
+            "year": "2010",
+            "citation": "GOEL, N.; THOMAS, S.; AGARWAL, M.; AKYAZI, P.; BURGET, L.; FENG, K.; GHOSHAL, A.; GLEMBEK, O.; KARAFIAT, M.; POVEY, D.; RASTROW, A.; ROSE, R.; SCHWARZ, P. Approaches to automatic LEXICON learning with limited training examples. Proc. International Conference on Acoustics, Speech, and Signal Processing. Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Dallas: IEEE Signal Processing Society, 2010. no. 3, p. 5094-5097. ISBN: 978-1-4244-4296-6. ISSN: 1520-6149."
+        },
+        {
+            "year": "2010",
+            "citation": "HAIN, T.; BURGET, L.; DINES, J.; GARNER, P.; EL HANNANI, A.; HUIJBREGTS, M.; KARAFIAT, M.; LINCOLN, M.; WAN, V. The AMIDA 2009 Meeting Transcription System. Proceedings of the 11th Annual Conference of the International Speech Communication Association (INTERSPEECH 2010). Proceedings of Interspeech. Makuhari, Chiba: International Speech Communication Association, 2010. no. 9, p. 358-361. ISBN: 978-1-61782-123-3. ISSN: 1990-9772."
+        },
+        {
+            "year": "2010",
+            "citation": "HANNEMANN, M.; KOMBRINK, S.; KARAFIAT, M.; BURGET, L. Similarity Scoring for Recognizing Repeated Out-of-VocabularyWords. Proceedings of the 11th Annual Conference of the International Speech Communication Association (INTERSPEECH 2010). Proceedings of Interspeech. Makuhari, Chiba: International Speech Communication Association, 2010. no. 9, p. 897-900. ISBN: 978-1-61782-123-3. ISSN: 1990-9772."
+        },
+        {
+            "year": "2010",
+            "citation": "JANCIK, Z.; PLCHOT, O.; BRUMMER, J.; BURGET, L.; GLEMBEK, O.; HUBEIKA, V.; KARAFIAT, M.; MATEJKA, P.; MIKOLOV, T.; STRASHEIM, A.; CERNOCKY, J. Data selection and calibration issues in automatic language recognition - investigation with BUT-AGNITIO NIST LRE 2009 system. In Proc. Odyssey 2010 - The Speaker and Language Recognition Workshop. Brno: International Speech Communication Association, 2010. p. 215-221. ISBN: 978-80-214-4114-9."
+        },
+        {
+            "year": "2010",
+            "citation": "KOCKMANN, M.; BURGET, L.; CERNOCKY, J. Brno University of Technology System for Interspeech 2010 Paralinguistic Challenge. Proceedings of the 11th Annual Conference of the International Speech Communication Association (INTERSPEECH 2010). Proceedings of Interspeech. Makuhari, Chiba: International Speech Communication Association, 2010. no. 9, p. 2822-2825. ISBN: 978-1-61782-123-3. ISSN: 1990-9772."
+        },
+        {
+            "year": "2010",
+            "citation": "KOCKMANN, M.; BURGET, L.; CERNOCKY, J. Investigations into prosodic syllable contour features for speaker recognition. Proc. International Conference on Acoustics, Speech, and Signal Processing. Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Dallas: IEEE Signal Processing Society, 2010. no. 3, p. 4418-4421. ISBN: 978-1-4244-4296-6. ISSN: 1520-6149."
+        },
+        {
+            "year": "2010",
+            "citation": "KOCKMANN, M.; BURGET, L.; GLEMBEK, O.; FERRER, L.; CERNOCKY, J. Prosodic Speaker Verification using Subspace Multinomial Models with Intersession Compensation. Proceedings of the 11th Annual Conference of the International Speech Communication Association (INTERSPEECH 2010). Proceedings of Interspeech. Makuhari, Chiba, Japan: International Speech Communication Association, 2010. no. 9, p. 1061-1064. ISBN: 978-1-61782-123-3. ISSN: 1990-9772."
+        },
+        {
+            "year": "2010",
+            "citation": "KOMBRINK, S.; HANNEMANN, M.; BURGET, L. Out-of-vocabulary word detection and beyond. ECML PKDD 2010 Proceedings and Journal Content. Barcelona: 2010. p. 1-8."
+        },
+        {
+            "year": "2010",
+            "citation": "KOMBRINK, S.; HANNEMANN, M.; BURGET, L.; HERMANSKY, H. Recovery of Rare Words in Lecture Speech. Proc. Text, Speech and Dialogue 2010. Lecture Notes in Computer Science. Brno: Springer Verlag, 2010. no. 9, p. 330-337. ISBN: 978-3-642-15759-2. ISSN: 0302-9743."
+        },
+        {
+            "year": "2010",
+            "citation": "MIKOLOV, T.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J.; KHUDANPUR, S. Recurrent neural network based language model. Proceedings of the 11th Annual Conference of the International Speech Communication Association (INTERSPEECH 2010). Proceedings of Interspeech. Makuhari, Chiba: International Speech Communication Association, 2010. no. 9, p. 1045-1048. ISBN: 978-1-61782-123-3. ISSN: 1990-9772."
+        },
+        {
+            "year": "2010",
+            "citation": "MIKOLOV, T.; PLCHOT, O.; GLEMBEK, O.; MATEJKA, P.; BURGET, L.; CERNOCKY, J. PCA-based Feature Extraction for Phonotactic Language Recognition. In Proc. Odyssey 2010 - The Speaker and Language Recognition Workshop. Brno: International Speech Communication Association, 2010. p. 251-255. ISBN: 978-80-214-4114-9."
+        },
+        {
+            "year": "2010",
+            "citation": "POVEY, D.; BURGET, L.; AGARWAL, M.; AKYAZI, P.; FENG, K.; GHOSHAL, A.; GLEMBEK, O.; GOEL, N.; KARAFIAT, M.; RASTROW, A.; ROSE, R.; SCHWARZ, P.; THOMAS, S. Subspace Gaussian mixture models for speech recognition. Proc. International Conference on Acoustics, Speech, and Signal Processing. Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Dallas: IEEE Signal Processing Society, 2010. no. 3, p. 4330-4333. ISBN: 978-1-4244-4296-6. ISSN: 1520-6149."
+        },
+        {
+            "year": "2010",
+            "citation": "SANTHOSH KUMAR, C.; LI, H.; TONG, R.; MATEJKA, P.; BURGET, L.; CERNOCKY, J. Tuning phone decoders for language identification. Proc. International Conference on Acoustics, Speech, and Signal Processing 2010. Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Dallas: IEEE Signal Processing Society, 2010. no. 3, p. 5010-5013. ISBN: 978-1-4244-4296-6. ISSN: 1520-6149."
+        },
+        {
+            "year": "2010",
+            "citation": "VESELY, K.; BURGET, L.; GREZL, F. Parallel Training of Neural Networks for Speech Recognition. Proceedings of the 11th Annual Conference of the International Speech Communication Association (INTERSPEECH 2010). Proceedings of Interspeech. Makuhari, Chiba: International Speech Communication Association, 2010. no. 9, p. 2934-2937. ISSN: 1990-9772."
+        },
+        {
+            "year": "2010",
+            "citation": "VESELY, K.; BURGET, L.; GREZL, F. Parallel Training of Neural Networks for Speech Recognition. Prof. Text, Speech and Dialogue 2010. Lecture Notes in Computer Science. LNAI 6231. Brno: Springer Verlag, 2010. no. 9, p. 439-446. ISBN: 978-3-642-15759-2. ISSN: 0302-9743."
+        },
+        {
+            "year": "2009",
+            "citation": "BRUMMER, N.; BURGET, L.; GLEMBEK, O.; HUBEIKA, V.; JANCIK, Z.; KARAFIAT, M.; MATEJKA, P.; MIKOLOV, T.; PLCHOT, O.; STRASHEIM, A. BUT-AGNITIO System Description for NIST Language Recognition Evaluation 2009. Proceedings NIST 2009 Language Recognition Evaluation Workshop. Baltimore, Maryland, USA: National Institute of Standards and Technology, 2009. p. 1-7."
+        },
+        {
+            "year": "2009",
+            "citation": "BRUMMER, N.; STRASHEIM, A.; HUBEIKA, V.; MATEJKA, P.; BURGET, L.; GLEMBEK, O. Discriminative Acoustic Language Recognition via Channel-Compensated GMM Statistics. Proc. Interspeech 2009. Proceedings of Interspeech. Brighton: International Speech Communication Association, 2009. no. 9, p. 2187-2190. ISBN: 978-1-61567-692-7. ISSN: 1990-9772."
+        },
+        {
+            "year": "2009",
+            "citation": "BURGET, L.; FAPSO, M.; HUBEIKA, V.; GLEMBEK, O.; KARAFIAT, M.; KOCKMANN, M.; MATEJKA, P.; SCHWARZ, P.; CERNOCKY, J. BUT system for NIST 2008 speaker recognition evaluation. Proc. Interspeech 2009. Proceedings of Interspeech. Brighton: International Speech Communication Association, 2009. no. 9, p. 2335-2338. ISBN: 978-1-61567-692-7. ISSN: 1990-9772."
+        },
+        {
+            "year": "2009",
+            "citation": "BURGET, L.; MATEJKA, P.; HUBEIKA, V.; CERNOCKY, J. Investigation into variants of Joint Factor Analysis for speaker recognition. Proc. Interspeech 2009. Proceedings of Interspeech. Brighton: International Speech Communication Association, 2009. no. 9, p. 1263-1266. ISBN: 978-1-61567-692-7. ISSN: 1990-9772."
+        },
+        {
+            "year": "2009",
+            "citation": "DEHAK, N.; KENNY, P.; DEHAK, R.; GLEMBEK, O.; DUMOUCHEL, P.; BURGET, L.; HUBEIKA, V.; CASTALDO, F. Support vector machines and joint factor analysis for speaker verification. Proc. ICASSP 2009. Taiwan: IEEE Signal Processing Society, 2009. p. 1-4. ISBN: 978-1-4244-2354-5."
+        },
+        {
+            "year": "2009",
+            "citation": "GLEMBEK, O.; BURGET, L.; DEHAK, N.; BRUMMER, N.; KENNY, P. Comparison of Scoring Methods used in Speaker Recognition with Joint Factor Analysis. Proc. ICASSP 2009. Taipei: IEEE Signal Processing Society, 2009. p. 1-4. ISBN: 978-1-4244-2354-5."
+        },
+        {
+            "year": "2009",
+            "citation": "GREZL, F.; KARAFIAT, M.; BURGET, L. Investigation into bottle-neck features for meeting speech recognition. Proc. Interspeech 2009. Proceedings of Interspeech. Brighton: International Speech Communication Association, 2009. no. 9, p. 2947-2950. ISBN: 978-1-61567-692-7. ISSN: 1990-9772."
+        },
+        {
+            "year": "2009",
+            "citation": "KOCKMANN, M.; BURGET, L.; CERNOCKY, J. Brno University of Technology System for Interspeech 2009 Emotion Challenge. Proc. Interspeech 2009. Proceedings of Interspeech. Brighton: International Speech Communication Association, 2009. no. 9, p. 348-351. ISSN: 1990-9772."
+        },
+        {
+            "year": "2009",
+            "citation": "KOMBRINK, S.; BURGET, L.; MATEJKA, P.; KARAFIAT, M.; HERMANSKY, H. Posterior-based Out of Vocabulary Word Detection in Telephone Speech. Proc. Interspeech 2009. Proceedings of Interspeech. Brighton: International Speech Communication Association, 2009. no. 9, p. 80-83. ISSN: 1990-9772."
+        },
+        {
+            "year": "2009",
+            "citation": "MIKOLOV, T.; KOPECKY, J.; BURGET, L.; GLEMBEK, O.; CERNOCKY, J. Neural network based language models for highly inflective languages. Proc. ICASSP 2009. Taipei: IEEE Signal Processing Society, 2009. p. 1-4. ISBN: 978-1-4244-2354-5."
+        },
+        {
+            "year": "2008",
+            "citation": "BURGET, L.; FAPSO, M.; HUBEIKA, V.; GLEMBEK, O.; KARAFIAT, M.; KOCKMANN, M.; MATEJKA, P.; SCHWARZ, P.; CERNOCKY, J. BUT system description: NIST SRE 2008. Proc. 2008 NIST Speaker Recognition Evaluation Workshop. Montreal: National Institute of Standards and Technology, 2008. p. 1-4."
+        },
+        {
+            "year": "2008",
+            "citation": "BURGET, L.; SCHWARZ, P.; MATEJKA, P.; HANNEMANN, M.; RASTROW, A.; WHITE, C.; KHUDANPUR, S.; HERMANSKY, H.; CERNOCKY, J. Combination of strongly and weakly constrained recognizers for reliable detection of OOVs. Proc. International Conference on Acoustics, Speech, and Signal Processing (ICASSP). Las Vegas: IEEE Signal Processing Society, 2008. p. 1-4. ISBN: 1-4244-1484-9."
+        },
+        {
+            "year": "2008",
+            "citation": "GLEMBEK, O.; MATEJKA, P.; BURGET, L.; MIKOLOV, T. Advances in Phonotactic Language Recognition. Proc. Interspeech 2008. Proceedings of Interspeech. Brisbane: International Speech Communication Association, 2008. no. 9, p. 1-4. ISSN: 1990-9772."
+        },
+        {
+            "year": "2008",
+            "citation": "HUBEIKA, V.; BURGET, L.; MATEJKA, P.; SCHWARZ, P. Discriminative Training and Channel Compensation for Acoustic Language Recognition. Proc. Interspeech 2008. Proceedings of Interspeech. Brisbane: International Speech Communication Association, 2008. no. 9, p. 1-4. ISSN: 1990-9772."
+        },
+        {
+            "year": "2008",
+            "citation": "KARAFIAT, M.; BURGET, L.; HAIN, T.; CERNOCKY, J. Discrimininative training of narrow band - wide band adaptated systems for meeting recognition. Proc. Interspeech 2008. Proceedings of Interspeech. Brisbane: International Speech Communication Association, 2008. no. 9, p. 1-4. ISSN: 1990-9772."
+        },
+        {
+            "year": "2008",
+            "citation": "KOCKMANN, M.; BURGET, L. Contour modeling of prosodic and acoustic features for speaker recognition. Proc. 2008 IEEE Workshop on Spoken Language Technology. Goa: IEEE Signal Processing Society, 2008. p. 1-4. ISBN: 978-1-4244-3472-5."
+        },
+        {
+            "year": "2008",
+            "citation": "KOCKMANN, M.; BURGET, L. Syllable based Feature-Contours for Speaker Recognition. Proc. 14th International Workshop on Advances in Speech Technology. Maribor: 2008. p. 1-4."
+        },
+        {
+            "year": "2008",
+            "citation": "MATEJKA, P.; BURGET, L.; GLEMBEK, O.; SCHWARZ, P.; HUBEIKA, V.; FAPSO, M.; MIKOLOV, T.; PLCHOT, O.; CERNOCKY, J. BUT language recognition system for NIST 2007 evaluations. Proc. Interspeech 2008. Proceedings of Interspeech. Brisbane, Australia: International Speech Communication Association, 2008. no. 9, p. 1-4. ISSN: 1990-9772."
+        },
+        {
+            "year": "2008",
+            "citation": "OPARIN, I.; GLEMBEK, O.; BURGET, L.; CERNOCKY, J. Morphological random forests for language modeling of inflectional languages. Proc. 2008 IEEE Workshop on Spoken Language Technology. Goa: IEEE Signal Processing Society, 2008. p. 1-4. ISBN: 978-1-4244-3472-5."
+        },
+        {
+            "year": "2008",
+            "citation": "PLCHOT, O.; HUBEIKA, V.; BURGET, L.; SCHWARZ, P.; MATEJKA, P. Acquisition of Telephone Data from Radio Broadcasts with Applications to Language Recognition. Proc. 11th International Conference on Text, Speech and Dialogue. Berlin: Springer Verlag, 2008. p. 477-483. ISBN: 978-3-540-87390-7."
+        },
+        {
+            "year": "2008",
+            "citation": "SZOKE, I.; BURGET, L.; CERNOCKY, J.; FAPSO, M. Sub-word modeling of out of vocabulary words in spoken term detection. Proc. 2008 IEEE Workshop on Spoken Language Technology. Goa: IEEE Signal Processing Society, 2008. p. 1-4. ISBN: 978-1-4244-3472-5."
+        },
+        {
+            "year": "2008",
+            "citation": "SZOKE, I.; FAPSO, M.; BURGET, L.; CERNOCKY, J. Hybrid word-subword decoding for spoken term detection. Proc. SSCS 2008: Speech search workshop at SIGIR. Singapore: Association for Computing Machinery, 2008. p. 1-4. ISBN: 978-90-365-2697-5."
+        },
+        {
+            "year": "2008",
+            "citation": "WHITE, C.; ZWEIG, G.; BURGET, L.; SCHWARZ, P.; HERMANSKY, H. Confidence estimation, OOV detection and language ID using phone-to-word transduction and phone-level alignments. Proc. 2008 IEEE International Conference on Acoustics, Speech, and Signal Processing. Las Vegas: IEEE Signal Processing Society, 2008. p. 1-4. ISBN: 1-4244-1484-9."
+        },
+        {
+            "year": "2007",
+            "citation": "BRUMMER, N.; BURGET, L.; CERNOCKY, J.; GLEMBEK, O.; GREZL, F.; KARAFIAT, M.; VAN LEEUWEN, D.; MATEJKA, P.; SCHWARZ, P.; STRASHEIM, A. Fusion of heterogeneous speaker recognition systems in the STBU submission for the NIST speaker recognition evaluation 2006. IEEE Transactions on Audio, Speech, and Language Processing, 2007, vol. 15, no. 7, p. 2072-2084. ISSN: 1558-7916."
+        },
+        {
+            "year": "2007",
+            "citation": "BURGET, L.; MATEJKA, P.; SCHWARZ, P.; GLEMBEK, O.; CERNOCKY, J. Analysis of feature extraction and channel compensation in GMM speaker recognition system. IEEE Transactions on Audio, Speech, and Language Processing, 2007, vol. 15, no. 7, p. 1979-1986. ISSN: 1558-7916."
+        },
+        {
+            "year": "2007",
+            "citation": "CERNOCKY, J.; BURGET, L.; SCHWARZ, P.; MATEJKA, P.; KARAFIAT, M.; GLEMBEK, O.; KOPECKY, J.; SZOKE, I.; FAPSO, M.; GREZL, F.; HUBEIKA, V.; OPARIN, I. Search in speech, language identification and speaker recognition in Speech@FIT. Proc. 17th International Conference Radioelektronika, 2007. Brno: Department of Radioelectronics FEEC BUT, 2007. p. 1-6. ISBN: 978-80-214-3390-8."
+        },
+        {
+            "year": "2007",
+            "citation": "CERNOCKY, J.; SZOKE, I.; FAPSO, M.; KARAFIAT, M.; BURGET, L.; KOPECKY, J.; GREZL, F.; SCHWARZ, P.; GLEMBEK, O.; OPARIN, I.; SMRZ, P.; MATEJKA, P. Search in speech for public security and defense. Proc. IEEE Workshop on Signal Processing Applications for Public Security and Forensics, 2007 (SAFE '07). Washington D.C.: IEEE Signal Processing Society, 2007. p. 1-7. ISBN: 1-4244-1226-9."
+        },
+        {
+            "year": "2007",
+            "citation": "HAIN, T.; WAN, V.; BURGET, L.; KARAFIAT, M.; DINES, J.; VEPA, J.; GARAU, G.; LINCOLN, M. The AMI System for the Transcription of Speech in Meetings. Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2007). Hononulu: IEEE Signal Processing Society, 2007. p. 357-360. ISBN: 1-4244-0728-1."
+        },
+        {
+            "year": "2007",
+            "citation": "HUBEIKA, V.; SZOKE, I.; BURGET, L.; CERNOCKY, J. Maximum Likelihood and Maximum Mutual Information Training in Gender and Age Recognition System. Proc. 10th International Conference on Text Speech and Dialogue (TSD 2007). Pilsen: Springer Verlag, 2007. p. 1-6. ISBN: 978-3-540-74627-0."
+        },
+        {
+            "year": "2007",
+            "citation": "KARAFIAT, M.; BURGET, L.; CERNOCKY, J.; HAIN, T. Application of CMLLR in narrow band wide band adapted systems. Proc. INTERSPEECH 2007. Proceedings of Interspeech. Antwerpen: International Speech Communication Association, 2007. no. 9, p. 1260-1263. ISSN: 1990-9772."
+        },
+        {
+            "year": "2007",
+            "citation": "MATEJKA, P.; BURGET, L.; GLEMBEK, O.; SCHWARZ, P.; HUBEIKA, V.; FAPSO, M.; MIKOLOV, T.; PLCHOT, O. BUT system description for NIST LRE 2007. Proc. 2007 NIST Language Recognition Evaluation Workshop. Orlando: National Institute of Standards and Technology, 2007. p. 1-5."
+        },
+        {
+            "year": "2007",
+            "citation": "MATEJKA, P.; BURGET, L.; SCHWARZ, P.; GLEMBEK, O.; KARAFIAT, M.; GREZL, F.; CERNOCKY, J.; VAN LEEUWEN, D.; BRUMMER, N.; STRASHEIM, A. STBU system for the NIST 2006 speaker recognition evaluation. Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2007). Honolulu: IEEE Signal Processing Society, 2007. p. 221-224. ISBN: 1-4244-0728-1."
+        },
+        {
+            "year": "2006",
+            "citation": "BURGET, L.; FAPSO, M.; MATEJKA, P.; SMRZ, P.; CERNOCKY, J.; KARAFIAT, M.; SCHWARZ, P.; SZOKE, I. Indexing and search methods for spoken documents. Proceedings of the Ninth International Conference on Text, Speech and Dialogue, TSD 2006. Lecture Notes in Computer Science. LNCS. Berlin: Springer Verlag, 2006. no. 4188, p. 351-358. ISSN: 0302-9743."
+        },
+        {
+            "year": "2006",
+            "citation": "BURGET, L.; MATEJKA, P.; CERNOCKY, J. Discriminative Training Techniques for Acoustic Language Identification. Proceedings of ICASSP 2006. Toulouse: 2006. p. 209-212."
+        },
+        {
+            "year": "2006",
+            "citation": "CERNOCKY, J.; MATEJKA, P.; BURGET, L.; SCHWARZ, P. Automatic Language Identification System. Sbornik prispevku z odborneho seminare \"Nove technologie v radiokomunikacich\". Brno: University of Defence in Brno, 2006. p. 1-6."
+        },
+        {
+            "year": "2006",
+            "citation": "FAPSO, M.; SCHWARZ, P.; SZOKE, I.; SMRZ, P.; SCHWARZ, M.; CERNOCKY, J.; KARAFIAT, M.; BURGET, L. Search Engine for Information Retrieval from Speech Records. Proceedings of the Third International Seminar on Computer Treatment of Slavic and East European Languages. Bratislava: 2006. p. 100-101."
+        },
+        {
+            "year": "2006",
+            "citation": "FAPSO, M.; SMRZ, P.; SCHWARZ, P.; SZOKE, I.; SCHWARZ, M.; CERNOCKY, J.; KARAFIAT, M.; BURGET, L. Information Retrieval from Spoken Documents. Proceedings of the Seventh International Conference on Intelligent Text Processing and Computational Linguistics (CICLING 2006). Mexico City: Springer Verlag, 2006. p. 410-416. ISBN: 3-540-32205-1."
+        },
+        {
+            "year": "2006",
+            "citation": "GLEMBEK, O.; KARAFIAT, M.; BURGET, L.; CERNOCKY, J. Czech Speech Recognizer for Multiple Environments. Radioeletronika 2006. Bratislava: 2006. p. 1-4."
+        },
+        {
+            "year": "2006",
+            "citation": "HAIN, T.; BURGET, L.; DINES, J.; GARAU, G.; KARAFIAT, M.; LINCOLN, M.; WAN, V. The AMI Meeting Transcription System. Proc. NIST Rich Transcription 2006 Spring Meeting Recognition Evaluation Worskhop. Washington D.C.: National Institute of Standards and Technology, 2006. p. 1-12."
+        },
+        {
+            "year": "2006",
+            "citation": "KARAFIAT, M.; GREZL, F.; SCHWARZ, P.; BURGET, L.; CERNOCKY, J. Robust heteroscedastic linear discriminant analysis and LCRC posterior features in large vocabulary continuous speech recognition. Proc. Fifth Slovenian and First International Language Technologies Conference. Ljubljana: 2006. p. 1-4."
+        },
+        {
+            "year": "2006",
+            "citation": "KARAFIAT, M.; GREZL, F.; SCHWARZ, P.; BURGET, L.; CERNOCKY, J. Robust heteroscedastic linear discriminant analysis and LCRC posterior features in meeting data recognition. Proc. 3nd Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms (MLMI 2006). Lecture Notes in Computer Science. Berlin: Springer Verlag, 2006. p. 275-284. ISBN: 3-540-69267-3."
+        },
+        {
+            "year": "2006",
+            "citation": "KOPECKY, J.; SZOKE, I.; FAPSO, M.; KARAFIAT, M.; BURGET, L.; OPARIN, I.; SCHWARZ, P.; MATEJKA, P.; CERNOCKY, J.; GLEMBEK, O. BUT System for NIST STD 2006 - Arabic. Proc. NIST SPoken Term Detection Evaluation workshop (STD 2006). Washington D.C.: National Institute of Standards and Technology, 2006. p. 1-15."
+        },
+        {
+            "year": "2006",
+            "citation": "MATEJKA, P.; BURGET, L.; SCHWARZ, P.; CERNOCKY, J. Brno University of Technology System for NIST 2005 Language Recognition Evaluation. Proceedings of Odyssey 2006: The Speaker and Language Recognition Workshop. San Juan: 2006. p. 57-64. ISBN: 1-4244-0472-X."
+        },
+        {
+            "year": "2006",
+            "citation": "MATEJKA, P.; BURGET, L.; SCHWARZ, P.; CERNOCKY, J. NIST Language Recognition Evaluation 2005. Proceedings of NIST LRE 2005. Washington DC: National Institute of Standards and Technology, 2006. p. 1-37."
+        },
+        {
+            "year": "2006",
+            "citation": "MATEJKA, P.; BURGET, L.; SCHWARZ, P.; CERNOCKY, J. NIST Speaker Recognition Evaluation 2006. Proceedings of NIST Speaker Recognition Evaluation 2006. San Juan: National Institute of Standards and Technology, 2006. p. 1-40."
+        },
+        {
+            "year": "2006",
+            "citation": "MATEJKA, P.; SCHWARZ, P.; BURGET, L.; CERNOCKY, J. Use of anti-models to furher improve state-of-the-art PRLM language recognition system. Proceedings of ICASSP 2006. Toulouse: 2006. p. 197-200."
+        },
+        {
+            "year": "2006",
+            "citation": "SZOKE, I.; FAPSO, M.; KARAFIAT, M.; BURGET, L.; GREZL, F.; SCHWARZ, P.; GLEMBEK, O.; MATEJKA, P.; KONTAR, S.; CERNOCKY, J. BUT System for NIST STD 2006 - English. Proc. NIST SPoken Term Detection Evaluation workshop (STD 2006). Washington D.C.: National Institute of Standards and Technology, 2006. p. 1-26."
+        },
+        {
+            "year": "2005",
+            "citation": "FAPSO, M.; SMRZ, P.; SCHWARZ, P.; SZOKE, I.; BURGET, L.; KARAFIAT, M.; CERNOCKY, J. System pre efektivne vyhladavanie v recovych databazach. Sbornik databazove konference DATAKON 2005. Brno: Masaryk University, 2005. s. 323-333. ISBN: 80-210-3813-6."
+        },
+        {
+            "year": "2005",
+            "citation": "HAIN, T.; BURGET, L.; DINES, J.; GARAU, G.; KARAFIAT, M.; LINCOLN, M.; MCCOWAN, I.; MOORE, D.; WAN, V.; ORDELMAN, R.; RENALS, S. The 2005 AMI System for the Transcription of Speech in Meetings. Machine Learning for Multimodal Interaction, Second International Workshop, MLMI 2005, Edinburgh, UK, July 11-13, 2005, Revised Selected Papers. Lecture Notes in Computer Science Volume 3869, Springer 2006. Edinburgh: University of Edinburgh, 2005. p. 450-462. ISBN: 978-3-540-32549-9."
+        },
+        {
+            "year": "2005",
+            "citation": "KARAFIAT, M.; BURGET, L.; CERNOCKY, J. Using Smoothed Heteroscedastic Linear Discriminant Analysis in Large Vocabulary Continuous Speech Recognition System. 2nd Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms. tento clanek nebyl zarazen mezi Revised Selected Papers, nevysel v LNCS 3869. Edinbourgh, Scotland: University of Edinburgh, 2005. p. 1-8."
+        },
+        {
+            "year": "2005",
+            "citation": "MOTLICEK, P.; BURGET, L.; CERNOCKY, J. Non-parametric Speaker Turn Segmentation of Meeting Data. Interspeech'2005 - Eurospeech - 9th European Conference on Speech Communication and Technology. European Conference EUROSPEECH. Lisabon: International Speech Communication Association, 2005. no. 9, p. 657-660. ISSN: 1018-4074."
+        },
+        {
+            "year": "2005",
+            "citation": "MOTLICEK, P.; BURGET, L.; CERNOCKY, J. VISUAL FEATURES FOR MULTIMODAL SPEECH RECOGNITION. Radioelektronika 2005. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 187-190. ISBN: 80-214-2904-6."
+        },
+        {
+            "year": "2005",
+            "citation": "SZOKE, I.; SCHWARZ, P.; BURGET, L.; FAPSO, M.; KARAFIAT, M.; CERNOCKY, J.; MATEJKA, P. Comparison of Keyword Spotting Approaches for Informal Continuous Speech. Interspeech'2005 - Eurospeech - 9th European Conference on Speech Communication and Technology. European Conference EUROSPEECH. Lisabon: 2005. p. 633-636. ISSN: 1018-4074."
+        },
+        {
+            "year": "2005",
+            "citation": "SZOKE, I.; SCHWARZ, P.; BURGET, L.; KARAFIAT, M.; CERNOCKY, J. Phoneme based acoustics keyword spotting in informal continuous speech. Radioelektronika 2005. Brno: Faculty of Electrical Engineering and Communication BUT, 2005. p. 195-198. ISBN: 80-214-2904-6."
+        },
+        {
+            "year": "2005",
+            "citation": "SZOKE, I.; SCHWARZ, P.; BURGET, L.; KARAFIAT, M.; MATEJKA, P.; CERNOCKY, J. Phoneme Based Acoustics Keyword Spotting in Informal Continuous Speech. Lecture Notes in Computer Science, 2005, vol. 2005, no. 3658, p. 302-309. ISSN: 0302-9743."
+        },
+        {
+            "year": "2005",
+            "citation": "SZOKE, I.; SCHWARZ, P.; MATEJKA, P.; BURGET, L.; FAPSO, M.; KARAFIAT, M.; CERNOCKY, J. Comparison of Keyword Spotting Approaches for Informal Continuous Speech. 2nd Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms. Edinburgh: 2005. p. 1-12."
+        },
+        {
+            "year": "2004",
+            "citation": "BURGET, L. Combination of Speech Features Using Smoothed Heteroscedastic Linear Discriminant Analysis. Proc. 8th International Conference on Spoken Language Processing. Jeju island: Sunjin Printing Co, 2004. p. 2549-2552."
+        },
+        {
+            "year": "2004",
+            "citation": "BURGET, L. Complementarity of Speech Recognition Systems and System Combination. Brno: Faculty of Information Technology BUT, 2004. 145 p."
+        },
+        {
+            "year": "2004",
+            "citation": "BURGET, L. Measurement of Complementarity of Recognition Systems. Proc. Seventh International conference on Text, Speech and Dialogue. Lecture Notes in Artificial Intelligence (LNAI) subseries of LNCS series as Volume 3206. Brno: Springer Verlag, 2004. p. 283-290. ISBN: 3-540-23049-1."
+        },
+        {
+            "year": "2004",
+            "citation": "MOTLICEK, P.; BURGET, L.; CERNOCKY, J. Phoneme Recognition of Meetings using Audio-Visual Data. AMI Workshop. Martigny: 2004. 6 p."
+        },
+        {
+            "year": "2003",
+            "citation": "BURGET, L.; CERNOCKY, J. Recognition of Speech with Non-random Attributes. 6th International Conference, TSD 2003 Ceske Budejovice, Czech Republic, September 2003 Proceedings. Lecture Notes in Computer Science. Ceske Budejovice: Springer Verlag, 2003. no. 09, p. 1-6. ISBN: 3-540-20024-X. ISSN: 0302-9743."
+        },
+        {
+            "year": "2002",
+            "citation": "BURGET, L.; DUPONT, S.; GARUDADRI, H.; GREZL, F.; HERMANSKY, H.; JAIN, P.; KAJAREKAR, S.; MORGAN, N. QUALCOMM-ICSI-OGI Features for ASR. Proc. 7th International Conference on Spoken Language Processing. Denver: International Speech Communication Association, 2002. p. 4-7. ISBN: 1-876346-42-6."
+        },
+        {
+            "year": "2002",
+            "citation": "BURGET, L.; MOTLICEK, P.; GREZL, F.; JAIN, P. Distributed speech recognition. Radioengineering, 2002, vol. 2002, no. 4, p. 12-16. ISSN: 1210-2512."
+        },
+        {
+            "year": "2002",
+            "citation": "GREZL, F.; BURGET, L.; JAIN, P.; CERNOCKY, J. Improving TRAPS features using LDA. Proc. 12th International scientific conference Radioelektronika 2002. Bratislava: Slovak University of Technology in Bratislava, 2002. 4 p. ISBN: 80-227-1700-2."
+        },
+        {
+            "year": "2002",
+            "citation": "MOTLICEK, P.; BURGET, L. Efficient Noise Estimation and its Application for Robust Speech Recognition. 5th International Conference, TSD 2002 Brno, Czech Republic, September 2002 Proceedings. Berlin: Springer Verlag, 2002. p. 229-236. ISBN: 3-540-44129-8."
+        },
+        {
+            "year": "2002",
+            "citation": "MOTLICEK, P.; BURGET, L. Noise estimation for efficient speech enhancement and robust speech recognition. Proc. 7th International Conference on Spoken Language Processing. Denver: International Speech Communication Association, 2002. p. 1033-1036. ISBN: 1-876346-42-6."
+        },
+        {
+            "year": "2001",
+            "citation": "BENITEZ, C., BURGET, L., CHEN, B., DUPONT, S., GARUDADRI, H., HERMANSKY, H., JAIN, P., KAJAREKAR, S., MORGAN, N., SIVADAS, S. Robust ASR front-end using spectral-based and discriminant features: experiments on Aurora tasks. In Proc. EUROSPEECH. Aalborg: 2001. 4 p. ISBN: 87-90834-09-7."
+        },
+        {
+            "year": "2001",
+            "citation": "BURGET, L., HERMANSKY, H. Data Driven Design of Filter Bank for Speech Recognition. In Proc. 4th Intl. Conference Text, Speech Dialogue. Zelezna Ruda: Springer Verlag, 2001. 6 p. ISBN: 3-540-42557-8."
+        },
+        {
+            "year": "2000",
+            "citation": "BURGET, L., SCHWARZ, P. Recognition of Czech Isolated Digits. In International Scientific Conference RADIOELEKTRONIKA 2000. Bratislava: STU Bratislava, 2000. 4 p. ISBN: 80-227-1389-9."
+        },
+        {
+            "year": "2000",
+            "citation": "MOTLICEK, P.; BURGET, L. RELIABILITY IMPROVEMENT OF SPEECH PITCH DETECTION USING PATHS. Volume of the Works written by Students and Postgraduate Students. Brno: Faculty of Electrical Engineering and Communication BUT, 2000. p. 348-351. ISBN: 80-7204-155-X."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2025",
+            "title": "Materialy a nastroje pro workshop #2 a vzdelavaci kampane",
+            "metadata": "other unclassified results, 2025"
+        },
+        {
+            "year": "2024",
+            "title": "Materialy a nastroje pro workshop #1 a vzdelavaci kampane",
+            "metadata": "other unclassified results, 2024"
+        },
+        {
+            "year": "2022",
+            "title": "NEUREM3 Interim Research Report",
+            "metadata": "report, 2022",
+            "authors": "BURGET, L.; BOJAR, O."
+        },
+        {
+            "year": "2016",
+            "title": "ABC NIST SRE 2016 SYSTEM DESCRIPTION",
+            "metadata": "report, 2016",
+            "authors": "BRUMMER, J.; SWART, A.; PRIETO, J.; GARCIA PERERA, L.; MATEJKA, P.; PLCHOT, O.; DIEZ SANCHEZ, M.; SILNOVA, A.; JIANG, X.; NOVOTNY, O.; ROHDIN, J.; GLEMBEK, O.; GREZL, F.; BURGET, L.; ONDEL YANG, L.; PESAN, J.; CERNOCKY, J.; KENNY, P.; ALAM, J.; BHATTACHARYA, G.; ZEINALI, H."
+        },
+        {
+            "year": "2008",
+            "title": "Brno University Of Technology - NIST 2008 SRE",
+            "metadata": "presentation, poster, 2008",
+            "authors": "BURGET, L.; FAPSO, M.; HUBEIKA, V.; GLEMBEK, O.; KARAFIAT, M.; KOCKMANN, M.; MATEJKA, P.; SCHWARZ, P.; CERNOCKY, J."
+        },
+        {
+            "year": "2007",
+            "title": "Channel Compensation for Speaker Recognition",
+            "metadata": "presentation, poster, 2007",
+            "authors": "HUBEIKA, V.; BURGET, L.; MATEJKA, P.; CERNOCKY, J."
+        },
+        {
+            "year": "2007",
+            "title": "Combination of Word and Phoneme Approach for Spoken Term Detection",
+            "metadata": "presentation, poster, 2007",
+            "authors": "SZOKE, I.; BURGET, L.; KARAFIAT, M."
+        },
+        {
+            "year": "2007",
+            "title": "Pouziti mluvenych korpusu ve vyvoji systemu pro rozpoznavani ceskych prednasek",
+            "metadata": "presentation, poster, 2007",
+            "authors": "MIKOLOV, T.; OPARIN, I.; GLEMBEK, O.; BURGET, L.; KARAFIAT, M.; CERNOCKY, J."
+        },
+        {
+            "year": "2007",
+            "title": "Spoken Term Detection System Based on a Combination of LVCSR and Phonetic Search",
+            "metadata": "presentation, poster, 2007",
+            "authors": "SZOKE, I.; FAPSO, M.; KARAFIAT, M.; BURGET, L.; GREZL, F.; SCHWARZ, P.; GLEMBEK, O.; MATEJKA, P.; KOPECKY, J.; CERNOCKY, J."
+        },
+        {
+            "year": "2005",
+            "title": "Search Engine for Information Retrieval from Multi-modal Records",
+            "metadata": "presentation, poster, 2005",
+            "authors": "FAPSO, M.; SCHWARZ, P.; SZOKE, I.; CERNOCKY, J.; SMRZ, P.; BURGET, L.; KARAFIAT, M."
+        },
+        {
+            "year": "2005",
+            "title": "System for automatic language identification (LID)",
+            "metadata": "implementation of production, 2005",
+            "authors": "MATEJKA, P.; BURGET, L.; SCHWARZ, P.; CERNOCKY, J."
+        },
+        {
+            "year": "2004",
+            "title": "Combination of MFCC and TRAP features for LVCSR of meeting data",
+            "metadata": "presentation, poster, 2004",
+            "authors": "KARAFIAT, M.; GREZL, F.; BURGET, L."
+        },
+        {
+            "title": "NEUREM3 Final Research Report",
+            "metadata": "report",
+            "authors": "BURGET, L.; BOJAR, O."
+        }
+    ],
+    "name": "Burget Lukas, doc. Ing., Ph.D."
+}

@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "code": "ZPOe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Image Processing (in English)"
+    },
+    "content": {
+        "guarantor": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. | (DCGM)",
+        "course_coordinator": "Beran Vitezslav, doc. Ing., Ph.D. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written)",
+        "time_span": "- 26 hrs lectures\n- 26 hrs projects",
+        "assessment_points": "- 51 pts final exam (written part)\n- 10 pts mid-term test (written part)\n- 39 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Barina David, Ing., Ph.D. | (DCGM) | Beran Vitezslav, doc. Ing., Ph.D. | (DCGM) | Reich Borek, Ing. | (DCGM) | Spanel Michal, doc. Ing., Ph.D. | (DCGM) | Zemcik Pavel, prof. Dr. Ing., dr. h. c. | (DCGM)",
+        "instructor": "Beran Vitezslav, doc. Ing., Ph.D. | (DCGM)",
+        "learning_objectives": "To get acquainted with the image processing basics theory (transformations, filtration, noise reduction, etc.). To learn how to apply such knowledge on real examples of image processing tasks. To get acquainted with \"higher\" imaging algorithms. To learn kow to practically program image processing applications through projects.The students will get acquainted with the image processing basics theory (transformations, filtration, noise reduction, etc.). They will learn how to apply such knowledge on real examples of image processing tasks. They will also get acquainted with \"higher\" imaging algorithms. Finally, they will learn how to practically program image processing applications through projects.Students will improve their teamwork skills and in exploitation of \"C\" language.",
+        "recommended_prerequisites": "- Computer Graphics Principles(IZG)",
+        "prerequisite_knowledge_and_skills": "Programming language C, basic knowledge of computer graphics, mathematicalanalysis and linear algebra.",
+        "study_literature": "- Russ, J.C.: The Image Processing Handbook, CRC Press 1995, ISBM 0-8493-2516-1\n- Bradski, G., Kaehler, A.: Learning OpenCV: Computer Vision with the OpenCV Library, OReilly 2008, ISBN: 978-0596516130\n- Jahne, B.: Handbook of Computer Vision and Applications, Academic Press, 1999, ISBN 0-12-379770-5\n- IEEE Multimedia, IEEE, USA - series of journals- various articles",
+        "syllabus_of_lectures": "- Introduction, representation of image, linear filtration.\n- Image acquisition.\n- Discrete image transforms, FFT, relationship with filtering.\n- Point image transforms.\n- Edge detection, segmentation.\n- Resampling, warping, morphing.\n- DCT, Wavelets.\n- Watermarks.\n- Test+ project status presentation.\n- Image distortion, types of noise, optimal filtration.\n- Project consultations.\n- Project preparations.\n- Matematical morphology, motion analysis, conclusion.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "Individually assigned project for the whole duration of the course.",
+        "progress_assessment": "- Mid-term exam - 10 points.\n- Individual project - 39 points.\n- Final exam - 51 points."
+    }
+}

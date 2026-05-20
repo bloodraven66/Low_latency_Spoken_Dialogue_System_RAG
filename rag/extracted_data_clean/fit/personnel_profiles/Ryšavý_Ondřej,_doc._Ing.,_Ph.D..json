@@ -1,0 +1,918 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "rysavy@fit.vut.cz",
+            "work_phone": "+420 54114 1118",
+            "room": "C311 Office",
+            "researcher_id": "C-3823-2009",
+            "orcid_id": "0000-0001-9652-6418",
+            "scopus_author_id": "9639380300"
+        }
+    },
+    "roles": [
+        {
+            "organization": "NES@FIT - Networks and distributed systems research group",
+            "role": "Principal researcher"
+        },
+        {
+            "organization": "Electoral Commission of FIT AS",
+            "role": "Chairman"
+        },
+        {
+            "organization": "Chamber of Academic Staff of AS FIT",
+            "role": "Chairman of Chamber"
+        },
+        {
+            "organization": "Academic senate of FIT",
+            "role": "Vice-chairman"
+        },
+        {
+            "organization": "AS FIT election commission for elections to AS BUT",
+            "role": "Member"
+        },
+        {
+            "organization": "Bachelor Study Programme Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Dean's Collegium",
+            "role": "Dean's Advisor"
+        },
+        {
+            "organization": "Disciplinary Committee of FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Legislative Commission of AS FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "chairman"
+        },
+        {
+            "organization": "Scientific Board",
+            "role": "Member of Scientific Board"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Supervisors Specialists in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "scientific_activities": [
+            "security monitoring of computer communication",
+            "data processing from communication systems",
+            "design and analysis of distributed applications",
+            "design of computer protocols",
+            "digital forensic analysis"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Wednesday, 10:00-12:00 , B/C311 (Bozetechova 1/2, Brno 61200) Consultation is possible in person or online (Microsoft Teams).",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "IBTe",
+                "title": "Bachelor's Thesis (in English)",
+                "details": "English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CZV-ZIT",
+                "title": "Basics of Informatics",
+                "details": "Czech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IPK",
+                "title": "Computer Communications and Networks",
+                "details": "Czech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "DFAa",
+                "title": "Digital Forensics (in English)",
+                "details": "English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDI",
+                "title": "Distributed Application Environment",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ZZN",
+                "title": "Knowledge Discovery in Databases",
+                "details": "Czech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ITTe",
+                "title": "Term Thesis (in English)",
+                "details": "English, winter",
+                "department": "DIFS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "DFAa",
+                "title": "Digital Forensics (in English)",
+                "details": "Laboratory exercise, Lecture, Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IBTe",
+                "title": "Bachelor's Thesis (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IPK",
+                "title": "Computer Communications and Networks",
+                "details": "Lecture, Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDI",
+                "title": "Distributed Application Environment",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CZV-ZIT",
+                "title": "Basics of Informatics",
+                "details": "Lecture,\nCzech, winter",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "LLM-Enhanced Cybersecurity Network Monitoring and Its Governance",
+            "details": "TACR, 11. verejna soutez SIGMA, dilci cil 4: Bilateralni spoluprace, TQ26000006, start: 2026-01-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "Rozvoj kapacit v kyberbezpecnosti v Argentine",
+            "details": "MZV, Posilovani kapacit verejnych vysokych skol v rozvojovych zemich - vyhlaseni dotacniho programu pro rok 2025, 25-PKVV-017, start: 2025-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2025",
+            "title": "Rozvoj kapacit v kyberbezpecnosti v Kenske republice",
+            "details": "MZV, Posilovani kapacit verejnych vysokych skol v rozvojovych zemich - vyhlaseni dotacniho programu pro rok 2025, 25-PKVV-020, start: 2025-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2024",
+            "title": "Combined passive and active network monitoring",
+            "details": "TACR, 10. verejna soutez - Program na podporu aplikovaneho vyzkumu, experimentalniho vyvoje TREND, podprogram 1, FW10010040, start: 2024-01-01, end: 2026-06-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "Privacy-respecting Explainable Assessment and Collection of Threats",
+            "details": "TACR, 5. verejna soutez programu Delta 2, TM05000014, start: 2024-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Cybersecurity Innovation Hub",
+            "details": "EU, Digital Europe Programme, 101083932, start: 2023-04-01, end: 2026-04-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "Czech National Quantum Communication Infrastructure",
+            "details": "EU, Digital Europe Programme, 101091684, start: 2023-03-01, end: 2026-08-31, running"
+        },
+        {
+            "year": "2022",
+            "title": "A set of forensic analytic tools for image and video processing for the criminal police and investigation service",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010041, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Flow-based Encrypted Traffic Analysis",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010024, start: 2022-01-01, end: 2025-06-30, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Context-based Encrypted Traffic Analysis Using Flow Data",
+            "details": "TACR, 3. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, PODPROGRAM 1 \u2013 TECHNOLOGICTI LIDRI, FW03010099, start: 2021-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Alliance for developing, teaching and training Digital Forensics and Incident Response students and practitioners",
+            "details": "EU, Erasmus+, 2020-1-LI01-KA203-000185, start: 2020-09-01, end: 2023-08-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Conformity Assessment Body",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/09, start: 2020-07-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Metody AI pro zabezpeceni kybernetickeho prostoru a ridici systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6293, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "National Center of Competence for Cybersecurity",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, start: 2019-01-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Security monitoring of ICS communication in the smart grid",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022138, start: 2019-11-01, end: 2022-10-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "TRACTOR: TRaffic Analysis and seCuriTy OpeRations for ICS/SCADA",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/02, start: 2019-05-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "TSB: The feasibility study of a private ISP for the needs of organizations of the city of Brno",
+            "details": "Technicke site Brno, akciova spolecnost, start: 2019-04-01, end: 2019-05-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Introduction of attractive and effective English language studies at FIT",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, start: 2018-02-01, end: 2019-08-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Vyzkum efektivnich kryptografickych metod pro zvyseni bezpecnosti nastupujicich komunikacnich technologii v oblasti Internetu veci",
+            "details": "BUT, Vnitrni projekty VUT, FEKT/FIT-J-18-5434, start: 2018-03-01, end: 2019-02-28, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Integrated platform for analysis of digital data from security incidents",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020062, start: 2017-01-01, end: 2020-06-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Nastroje, metody a technologie ICT pro podporu konceptu smart cities",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3964, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IRONSTONE - IoT monitoring and forensics",
+            "details": "TACR, Program podpory spoluprace v aplikovanem vyzkumu a experimentalnim vyvoji prostrednictvim spolecnych projektu technologickych a inovacnich agentur DELTA, TF03000029, start: 2016-11-01, end: 2019-10-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "PRISTINE: Programmability in RIna for european Supremacy of virTualIzed NEtworks",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, PRISTINE, start: 2014-01-01, end: 2016-10-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Vyzkum pokrocilych metod ICT a jejich aplikace",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2299, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "SCADA system for control and monitoring RT processes",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA01010632, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Modern Tools for Detection and Mitigation of Cyber Criminality on the New Generation Internet",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015022, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Secured, reliable and adaptive computer systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-1, start: 2010-03-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Dependent type system for object-oriented programming languages",
+            "details": "GACR, Standardni projekty, GA201/09/1316, start: 2009-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "ATLANTIS-DeSIRE^2: Dependable Systems International Research and Educational Experience",
+            "details": "MZ, Ostatni programy MZ, ATLANTIS-DESIRE, start: 2008-10-01, end: 2013-09-30, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Safety and security of networked embedded system applications",
+            "details": "GACR, Standardni projekty, GA102/08/1429, start: 2008-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Training laboratory for network specialists",
+            "details": "FR533/2008/A, start: 2008-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Framework for the deductive analysis of embedded software",
+            "details": "GACR, Postdoktorandske granty, GP201/07/P544, start: 2007-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2006",
+            "title": "Toward International Learning Environment for Real-Time Safety-Critical Control Systems",
+            "details": "ATLANTIS-ILERT, start: 2006-11-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Design and implementation of embedded formal verification assistants in the .NET framework",
+            "details": "MS1412001, start: 2004-03-12, end: 2005-09-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "BURGETOVA, I.; MATOUSEK, P.; RYSAVY, O. Towards identification of network applications in encrypted traffic. Annals of Telecommunications, 2025, vol. 2025, no. 9, p. 1015-1032."
+        },
+        {
+            "year": "2024",
+            "citation": "BURGETOVA, I.; RYSAVY, O.; MATOUSEK, P. Towards Identification of Network Applications in Encrypted Traffic. In The Proceedings of the 8th Cyber Security in Networking Conference (CSNet 2024). Paris: IEEE Communications Society, 2024. p. 213-221. ISBN: 979-8-3315-3411-0."
+        },
+        {
+            "year": "2024",
+            "citation": "HRANICKY, R.; HORAK, A.; POLISENSKY, J.; JERABEK, K.; RYSAVY, O. Unmasking the Phishermen: Phishing Domain Detection with Machine Learning and Multi-Source Intelligence. In Proceedings of IEEE/IFIP Network Operations and Management Symposium 2024. Soul: Institute of Electrical and Electronics Engineers, 2024. p. 1-5. ISBN: 979-8-3503-2794-6."
+        },
+        {
+            "year": "2024",
+            "citation": "HRANICKY, R.; HORAK, A.; POLISENSKY, J.; ONDRYAS, O.; JERABEK, K.; RYSAVY, O. Spotting the Hook: Leveraging Domain Data for Advanced Phishing Detection. In 2024 10th International Conference on Network and Service Management (CNSM). Praha: Institute of Electrical and Electronics Engineers, 2024. p. 1-7. ISBN: 978-3-903176-66-9."
+        },
+        {
+            "year": "2024",
+            "citation": "JERABEK, K.; HYNEK, K.; RYSAVY, O. Comparative Analysis of DNS over HTTPS Detectors. Computer Networks, 2024, vol. 247, no. June, p. 1-13. ISSN: 1872-7069."
+        },
+        {
+            "year": "2024",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; BURGETOVA, I. Experience Report: Using JA4+ Fingerprints for Malware Detection in Encrypted Traffic. In Proceedings of 20th International Conference on Network and Service Management. Prague: Institute of Electrical and Electronics Engineers, 2024. p. 1-5. ISBN: 979-8-3315-0515-8."
+        },
+        {
+            "year": "2023",
+            "citation": "HAVLENA, V.; MATOUSEK, P.; RYSAVY, O.; HOLIK, L. Accurate Automata-Based Detection of Cyber Threats in Smart Grid Communication. IEEE Transactions on Smart Grid, 2023, vol. 2023, no. 14, p. 2352-2366. ISSN: 1949-3053."
+        },
+        {
+            "year": "2023",
+            "citation": "IMERI, A.; RYSAVY, O. Deep learning for predictive alerting and cyber-attack mitigation. In IEEE 13th Annual Computing and Communication Workshop and Conference, CCWC 2023. Las Vegas: IEEE Computer Society, 2023. p. 476-481. ISBN: 978-3-319-93490-7."
+        },
+        {
+            "year": "2023",
+            "citation": "JERABEK, K.; HYNEK, K.; RYSAVY, O.; BURGETOVA, I. DNS over HTTPS Detection Using Standard Flow Telemetry. IEEE Access, 2023, vol. 2023, no. 11, p. 50000-50012. ISSN: 2169-3536."
+        },
+        {
+            "year": "2023",
+            "citation": "JERABEK, K.; RYSAVY, O.; BURGETOVA, I. Analysis of Well-Known DNS over HTTPS Resolvers. In 2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC). Las Vegas: 2023. p. 516-524. ISBN: 979-8-3503-3286-5."
+        },
+        {
+            "year": "2023",
+            "citation": "RADER, R.; JERABEK, K.; RYSAVY, O. Detecting DoH-Based Data Exfiltration: FluBot Malware Case Study. IEEE 48th Conference on Local Computer Networks (LCN). Daytona Beach: IEEE Computer Society, 2023. p. 50-54. ISBN: 979-8-3503-0074-1."
+        },
+        {
+            "year": "2023",
+            "citation": "YOUSSEF, S.; RYSAVY, O. Toward migration to SDN: Generating SDN Forwarding Rules by Decision Tree. In 26th Conference on Innovation in Clouds, Internet and Networks and Workshops (ICIN). Paris: IEEE Computer Society, 2023. p. 16-20. ISBN: 979-8-3503-9804-5."
+        },
+        {
+            "year": "2022",
+            "citation": "JERABEK, K.; HYNEK, K.; CEJKA, T.; RYSAVY, O. Collection of Datasets with DNS over HTTPS Traffic. Data in Brief, 2022, vol. 2022, no. 42, p. 1-13. ISSN: 2352-3409."
+        },
+        {
+            "year": "2022",
+            "citation": "JERABEK, K.; RYSAVY, O.; BURGETOVA, I. Measurement and characterization of DNS over HTTPS traffic. ArXiv.org, 2022, vol. 2022, no. 2204, p. 1-27. ISSN: 2331-8422."
+        },
+        {
+            "year": "2021",
+            "citation": "BURGETOVA, I.; MATOUSEK, P.; RYSAVY, O. Anomaly Detection of ICS Communication Using Statistical Models. In Proceedings of the 17th International Conference on Network Service Management (CNSM 2021). Izmir: Institute of Electrical and Electronics Engineers, 2021. p. 166-172. ISBN: 978-3-903176-36-2."
+        },
+        {
+            "year": "2021",
+            "citation": "HOLKOVIC, M.; BOHUS, M.; RYSAVY, O. Network Problem Diagnostics using Typographic Error Correction. In Proceedings of the 17th International Conference on Network Service Management (CNSM 2021). Izmir: Institute of Electrical and Electronics Engineers, 2021. p. 482-490. ISBN: 978-3-903176-36-2."
+        },
+        {
+            "year": "2021",
+            "citation": "HRANICKY, R.; BREITINGER, F.; RYSAVY, O.; SHEPPARD, J.; SCHAEDLER, F.; MORGENSTERN, H.; MALIK, S. What do incident response practitioners need to know? A skillmap for the years ahead. Forensic Science International: Digital Investigation, 2021, vol. 37, no. 2, p. 23-34. ISSN: 2666-2825."
+        },
+        {
+            "year": "2021",
+            "citation": "MATOUSEK, P.; BURGETOVA, I.; RYSAVY, O.; VICTOR, M. On Reliability of JA3 Hashes for Fingerprinting Mobile Applications. In Digital Forensics and Cyber Crime. ICDF2C 2020. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Boston: Springer International Publishing, 2021. p. 1-22. ISBN: 978-3-030-68733-5."
+        },
+        {
+            "year": "2021",
+            "citation": "MATOUSEK, P.; RYSAVY, O. Teaching ICS Security in Blended Classroom Environment. In Proceedings of the 2021 30th Annual Conference of the European Association for Education in Electrical and Information Engineering (EAEEIE). Prague: Czech Technical University, 2021. p. 148-153. ISBN: 978-1-7281-9324-3."
+        },
+        {
+            "year": "2021",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; POLCAK, L. Unified SNMP Interface for IoT Monitoring. In Proceedings of the IM 2021 - 2021 IFIP/IEEE International Symposium on Integrated Network Management. Bordeaux: International Federation for Information Processing, 2021. p. 938-943. ISBN: 978-3-903176-32-4."
+        },
+        {
+            "year": "2021",
+            "citation": "RYSAVY, O.; MATOUSEK, P. A Network Traffic Processing Library for ICS Anomaly Detection. In ECBS '21: Proceedings of the 7th Conference on the Engineering of Computer Based Systems. Novi Sad: Association for Computing Machinery, 2021. p. 144-151. ISBN: 978-1-4503-9057-6."
+        },
+        {
+            "year": "2020",
+            "citation": "HOLKOVIC, M.; BOHUS, M.; RYSAVY, O. Pattern Detection Based Network Diagnostics. In Proceedings of the 17th International Joint Conference on e-Business and Telecommunications. Setubal: SciTePress - Science and Technology Publications, 2020. p. 35-42. ISBN: 978-989-758-445-9."
+        },
+        {
+            "year": "2020",
+            "citation": "HOLKOVIC, M.; POLCAK, L.; RYSAVY, O. Application Error Detection in Networks by Protocol Behavior Model. In Communications in Computer and Information Science. Communications in Computer and Information Science. Praha: Springer Verlag, 2020. no. 1, p. 3-28. ISBN: 978-3-030-52685-6. ISSN: 1865-0929."
+        },
+        {
+            "year": "2020",
+            "citation": "HOLKOVIC, M.; RYSAVY, O. Using Rule-Based Decision Trees for Automatic Passive Diagnostics of the Network Problems. International Journal on Advances in Networks and Services, 2020, vol. 2020, no. 1, p. 1-10. ISSN: 1942-2644."
+        },
+        {
+            "year": "2020",
+            "citation": "HRANICKY, R.; ZOBAL, L.; RYSAVY, O.; KOLAR, D.; MIKUS, D. Distributed PCFG Password Cracking. In Computer Security - ESORICS 2020. Lecture notes in Computer Science. Guildford: Springer Nature Switzerland AG, 2020. p. 701-719. ISBN: 978-3-030-58950-9."
+        },
+        {
+            "year": "2020",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; HAVLENA, V.; GREGR, M. Flow based monitoring of ICS communication in the smart grid. Journal of Information Security and Applications, 2020, vol. 2020, no. 54, p. 102535-102535. ISSN: 2214-2126."
+        },
+        {
+            "year": "2020",
+            "citation": "PLUSKAL, J.; BREITINGER, F.; RYSAVY, O. Netfox Detective: A novel open-source Network Forensics Analysis Tool. Forensic Science International: Digital Investigation, 2020, vol. 35, no. 301019, p. 1-13. ISSN: 2666-2825."
+        },
+        {
+            "year": "2020",
+            "citation": "POLCAK, L.; RYSAVY, O.; MATOUSEK, P. Identity Linking in Computer Networks. In Proceedings of the 17th International Joint Conference on e-Business and Telecommunications, DCNET, OPTICS, SIGMAP and WINSYS. Setubal: SciTePress - Science and Technology Publications, 2020. p. 45-52. ISBN: 978-989-758-445-9."
+        },
+        {
+            "year": "2020",
+            "citation": "YOUSSEF, S.; RYSAVY, O. Proposed Method for Partial Node Replacement by Software Defined Network. Position Papers of the 2020 Federated Conference on Computer Science and Information Systems. Annals of Computer Science and Information Systems. Annals of Computer Science and Information Systems. Warsaw: Polish Information Processing Society, 2020. no. 9, p. 11-14. ISBN: 978-83-959183-0-8. ISSN: 2300-5963."
+        },
+        {
+            "year": "2019",
+            "citation": "HOLKOVIC, M.; RYSAVY, O. Network Diagnostics Using Passive Network Monitoring and Packet Analysis. ICNS 2019. The Fifteenth International Conference on Networking and Services. Athens: The International Academy, Research and Industry Association, 2019. p. 47-51. ISBN: 978-1-61208-711-5."
+        },
+        {
+            "year": "2019",
+            "citation": "HOLKOVIC, M.; RYSAVY, O.; DUDEK, J. Automating Network Security Analysis at Packet-level by using Rule-based Engine. In Proceedings of the Sixth European Conference on the Engineering of Computer-Based Systems. Bucharest: Association for Computing Machinery, 2019. p. 1-8. ISBN: 978-1-4503-7636-5."
+        },
+        {
+            "year": "2019",
+            "citation": "HOLKOVIC, M.; RYSAVY, O.; POLCAK, L. Using Network Traces to Generate Models for Automatic Network Application Protocols Diagnostics. In Proceedings of the 16th International Joint Conference on e-Business and Telecommunications Volume 1: DCNET, ICE-B, OPTICS, SIGMAP and WINSYS. Praha: SciTePress - Science and Technology Publications, 2019. p. 37-47. ISBN: 978-989-758-378-0."
+        },
+        {
+            "year": "2019",
+            "citation": "HRANICKY, R.; LISTIAK, F.; MIKUS, D.; RYSAVY, O. On Practical Aspects of PCFG Password Cracking. In Data and Applications Security and Privacy. Lecture Notes in Computer Science. Charleston: Springer Nature Switzerland AG, 2019. no. 11559, p. 43-60. ISBN: 978-3-030-22478-3. ISSN: 0302-9743."
+        },
+        {
+            "year": "2019",
+            "citation": "HRANICKY, R.; ZOBAL, L.; RYSAVY, O.; KOLAR, D. Distributed password cracking with BOINC and hashcat. Digital Investigation, 2019, vol. 30, no. 1, p. 161-172. ISSN: 1742-2876."
+        },
+        {
+            "year": "2019",
+            "citation": "JERABEK, K.; RYSAVY, O. Big Data Network Flow Processing Using Apache Spark. In Proceedings of the 6th Conference on the Engineering of Computer Based Systems (ECBS 2019), 2019. Bukurest: Association for Computing Machinery, 2019. p. 1-9. ISBN: 978-1-4503-7636-5."
+        },
+        {
+            "year": "2019",
+            "citation": "LETAVAY, V.; PLUSKAL, J.; RYSAVY, O. A Scalable Architecture for Network Traffic Forensics. The Fifteenth International Conference on Networking and Services ICNS 2019. Athens: The International Academy, Research and Industry Association, 2019. p. 32-36. ISBN: 978-1-61208-711-5."
+        },
+        {
+            "year": "2019",
+            "citation": "LETAVAY, V.; PLUSKAL, J.; RYSAVY, O. Network Forensic Analysis for Lawful Enforcement Steroids, Distributed and Scalable. In Proceedings of the 6th Conference on the Engineering of Computer Based Systems (ECBS 2019), 2019. Bucharest: Association for Computing Machinery, 2019. p. 1-10. ISBN: 978-1-4503-7636-5."
+        },
+        {
+            "year": "2019",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; BURGETOVA, I. Extending Networking Curriculum with Applied Artificial Intelligence. In Proceedings of EAEEIE 2019. Ruse: Institute of Electrical and Electronics Engineers, 2019. p. 11-16. ISBN: 978-1-7281-3222-8."
+        },
+        {
+            "year": "2019",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; GREGR, M. Increasing Visibility of IEC 104 Communication in the Smart Grid. 6th International Symposium for ICS & SCADA Cyber Security Research 2019. Swindon: BCS Learning and Development Ltd., 2019. p. 21-30. ISBN: 978-1-78017-523-2."
+        },
+        {
+            "year": "2019",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; GREGR, M. Security Monitoring of IoT Communication Using Flows. In Proceedings of the 6th Conference on the Engineering of Computer Based Systems. ECBS '19. New York: Association for Computing Machinery, 2019. p. 1-9. ISBN: 978-1-4503-7636-5."
+        },
+        {
+            "year": "2019",
+            "citation": "PLUSKAL, J.; KOUTENSKY, M.; VONDRACEK, M.; RYSAVY, O. Network Forensic Investigations of Tunneled Traffic: A Case Study. Revue Roumaine des Sciences Techniques-Serie Electrotechnique et Energetique, 2019, vol. 64, no. 4, p. 429-434. ISSN: 0035-4066."
+        },
+        {
+            "year": "2019",
+            "citation": "PLUSKAL, J.; VONDRACEK, M.; RYSAVY, O. Network Forensics in GSE Overlay Networks. In ECBS '19: Proceedings of the 6th Conference on the Engineering of Computer Based Systems. Bukurest: Association for Computing Machinery, 2019. p. 1-10. ISBN: 978-1-4503-7636-5."
+        },
+        {
+            "year": "2018",
+            "citation": "ASGARI, H.; HAINES, S.; RYSAVY, O. Identification of Threats and Security Risk Assessments for Recursive Internet Architecture. IEEE Systems Journal, 2018, vol. 12, no. 3, p. 2437-2448. ISSN: 1937-9234."
+        },
+        {
+            "year": "2018",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; JAMES, J.; JANG, Y. Interconnecting Education and Research Through International Partnership: IoT Case Study. In 2018 28th EAEEIE Annual Conference, EAEEIE 2018. Hafnarfjordur: Institute of Electrical and Electronics Engineers, 2018. p. 1-6. ISBN: 978-1-5386-7711-7."
+        },
+        {
+            "year": "2018",
+            "citation": "PLUSKAL, J.; LICHTNER, O.; RYSAVY, O. Traffic Classification and Application Identification in Network Forensics. In Fourteenth Annual IFIP WG 11.9 International Conference on Digital Forensics. IFIP Advances in Information and Communication Technology. New Delhi: Springer International Publishing, 2018. no. 1, p. 161-181. ISBN: 978-3-319-99277-8. ISSN: 1868-4238."
+        },
+        {
+            "year": "2018",
+            "citation": "RYCHLY, M.; RYSAVY, O. Big Data Security Analysis with TARZAN Platform. Journal of Cyber Security and Mobility, 2018, vol. 8, no. 2, p. 165-188. ISSN: 2245-1439."
+        },
+        {
+            "year": "2018",
+            "citation": "VONDRACEK, M.; PLUSKAL, J.; RYSAVY, O. Automated Man-in-the-Middle Attack Against Wi-Fi Networks. Journal of Digital Forensics Security and Law, 2018, vol. 2018, no. 13, p. 59-80. ISSN: 1558-7215."
+        },
+        {
+            "year": "2017",
+            "citation": "MAREK, M.; RYSAVY, O.; VESELY, V. Towards analysis of IP communication in a constrained environment of tactical radio networks. In Proceedings of European Conference on the Engineering of Computer Based Systems. Larnaca: Association for Computing Machinery, 2017. p. 50-57. ISBN: 978-1-4503-4843-0."
+        },
+        {
+            "year": "2017",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; ONYANGO, C.; SEVILLA, J. Delivering ICT Security Courses over 5.944 km Experience of Czech-Kenyan Co-operation. In Proceedings of the 27th EAEEIE Annual Conference. Grenoble: Grenoble Institute of Technology, 2017. p. 1-7. ISBN: 978-1-7281-0907-7."
+        },
+        {
+            "year": "2017",
+            "citation": "RYCHLY, M.; RYSAVY, O. TARZAN: An Integrated Platform for Security Analysis. In Proceedings of the 2017 Federated Conference on Computer Science and Information Systems. Annals of Computer Science and Information Systems, Volume 11. Praha: IEEE Computer Society, 2017. p. 561-567. ISBN: 978-83-946253-7-5."
+        },
+        {
+            "year": "2017",
+            "citation": "VESELY, V.; HOLUSA, J.; RYSAVY, O. First-hop Redundancy Protocols in OMNeT++. In Proceedings of the 7th International Conference on Simulation and Modeling Methodologies, Technologies and Applications - Volume 1: SIMULTECH. Madrid: SciTePress - Science and Technology Publications, 2017. p. 331-339. ISBN: 978-989-758-265-3."
+        },
+        {
+            "year": "2017",
+            "citation": "VONDRACEK, M.; PLUSKAL, J.; RYSAVY, O. Automation of MitM Attack on Wi-Fi Networks. In 9th International Conference on Digital Forensics & Cyber Crime. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering book series (LNICST). Prague: Springer International Publishing, 2017. no. 216, p. 207-220. ISBN: 978-3-319-73696-9. ISSN: 1867-8211."
+        },
+        {
+            "year": "2016",
+            "citation": "GRASA, E.; RYSAVY, O.; LICHTNER, O.; ASGARI, H.; DAY, J.; CHITKUSHEV, L. From protecting protocols to layers: designing, implementing and experimenting with security policies in RINA. In 2016 IEEE International Conference on Communications (ICC). Kuala-Lumpur: Institute of Electrical and Electronics Engineers, 2016. p. 736-742. ISBN: 978-1-4799-6665-3."
+        },
+        {
+            "year": "2016",
+            "citation": "HRANICKY, R.; HOLKOVIC, M.; MATOUSEK, P.; RYSAVY, O. On Efficiency of Distributed Password Recovery. Journal of Digital Forensics Security and Law, 2016, vol. 11, no. 2, p. 79-95. ISSN: 1558-7215."
+        },
+        {
+            "year": "2016",
+            "citation": "HRANICKY, R.; MATOUSEK, P.; RYSAVY, O.; VESELY, V. Experimental Evaluation of Password Recovery in Encrypted Documents. In Proceedings of ICISSP 2016. Roma: SciTePress - Science and Technology Publications, 2016. p. 299-306. ISBN: 978-989-758-167-0."
+        },
+        {
+            "year": "2016",
+            "citation": "VESELY, V.; REK, V.; RYSAVY, O. Babel Routing Protocol for OMNeT++ - More than just a new simulation module for INET framework. Proceedings of 3rd OMNeT++ Community Summit. ArXiv.org. Ithaca, NY: Cornell University Library, 2016. no. 9, p. 1-5. ISSN: 2331-8422."
+        },
+        {
+            "year": "2015",
+            "citation": "MATOUSEK, P.; PLUSKAL, J.; RYSAVY, O.; VESELY, V.; KMET, M.; KARPISEK, F.; VYMLATIL, M. Advanced Techniques for Reconstruction of Incomplete Network Data. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, 2015, vol. 2015, no. 157, p. 69-84. ISSN: 1867-8211."
+        },
+        {
+            "year": "2015",
+            "citation": "PLUSKAL, J.; MATOUSEK, P.; RYSAVY, O.; KMET, M.; VESELY, V.; KARPISEK, F.; VYMLATIL, M. Netfox Detective: A tool for advanced network forensics analysis. Proceedings of Security and Protection of Information (SPI) 2015. Brno: University of Defence in Brno, 2015. p. 147-163. ISBN: 978-80-7231-997-8."
+        },
+        {
+            "year": "2015",
+            "citation": "RYSAVY, O. Formal Logic Based Framework for Network Configuration Analysis. Brno: Faculty of Information Technology BUT, 2015. 127 p."
+        },
+        {
+            "year": "2015",
+            "citation": "SVEDA, M.; RYSAVY, O.; VESELY, V.; GREGR, M.; PODERMANSKI, T.; HALFAR, P.; MAREK, M. Design of Computer Networks Concerning Network Applications Support. Computer Aided Systems Theory. Las Palmas de Gran Canaria: University of Las Palmas, 2015. p. 23-24. ISBN: 978-84-606-5438-4."
+        },
+        {
+            "year": "2015",
+            "citation": "VESELY, V.; MAREK, M.; HYKEL, T.; RYSAVY, O. Skip This Paper - RINASim: Your Recursive InterNetwork Architecture Simulator. Proceedings of 2nd OMNeT++ Community Summit. ArXiv.org. Ithaca, NY: Cornell University Library, 2015. no. 9, p. 1-4. ISSN: 2331-8422."
+        },
+        {
+            "year": "2015",
+            "citation": "VESELY, V.; REK, V.; RYSAVY, O. Enhanced Interior Gateway Routing Protocol with IPv4 and IPv6 Support for OMNeT plus. Advances in Intelligent Systems and Computing, 2015, vol. 402, no. 1, p. 65-82. ISSN: 2194-5357."
+        },
+        {
+            "year": "2015",
+            "citation": "VESELY, V.; RYSAVY, O. Locator/Id Split Protocol Improvement for High-Availability Environment. Proceedings of The Eleventh International Conference on Networking and Services ICNS 2015. Roma: The International Academy, Research and Industry Association, 2015. p. 61-67. ISBN: 978-1-61208-404-6."
+        },
+        {
+            "year": "2015",
+            "citation": "VESELY, V.; RYSAVY, O. Map-Cache Synchronization and Merged RLOC Probing Study for LISP. The International Journal on Advances in Intelligent Systems, 2015, vol. 2015, no. 34, p. 494-506. ISSN: 1942-2679."
+        },
+        {
+            "year": "2014",
+            "citation": "GREGA, W.; HILBURN, T.; KORNECKI, A.; MAYR, R.; PYLE, I.; ROZENBLIT, J.; RYSAVY, O.; SVEDA, M.; ZHANG, L.; ZHANG, L. 2013 Federated Conference on Computer Science and Information Systems - International workshop on Cyber-Physical Systems. In 2013 Federated Conference on Computer Science and Information Systems. Krakow: Elsevier Science, 2014. p. 1-200. ISBN: 978-1-4673-4471-5."
+        },
+        {
+            "year": "2014",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; GREGR, M.; VYMLATIL, M. Towards Identification of Operating Systems from the Internet Traffic. IPFIX Monitoring with Fingerprinting and Clustering. In DCNET2014. Proceedings of the 5th International Conference on Data Communication Networking. Wien: SciTePress - Science and Technology Publications, 2014. p. 21-27. ISBN: 978-989-758-042-0."
+        },
+        {
+            "year": "2014",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; KMET, M. Fast RTP Detection and Codecs Classification in Internet Traffic. Journal of Digital Forensics Security and Law, 2014, vol. 2014, no. 2, p. 99-110. ISSN: 1558-7215."
+        },
+        {
+            "year": "2014",
+            "citation": "PLUSKAL, J.; RYSAVY, O.; VESELY, V. NetFox - The network forensic extandable analysis tool. 6th AFCEA Student Conference Future of Information and Communication Technology. Bucharest: University Politehnica of Bucharest, 2014. p. 68-71. ISBN: 978-606-551-047-0."
+        },
+        {
+            "year": "2014",
+            "citation": "VESELY, V.; BLOUDICEK, J.; RYSAVY, O. Enhanced Interior Gateway Routing Protocol for OMNeT++. Proceedings of the 4th International Conference on Simulation and Modeling Methodologies, Technologies and Applications (SIMULTECH 2014). Wien: SciTePress - Science and Technology Publications, 2014. p. 50-58. ISBN: 978-989-758-045-1."
+        },
+        {
+            "year": "2014",
+            "citation": "VESELY, V.; MAREK, M.; RYSAVY, O.; SVEDA, M. Multicast, TRILL and LISP Extensions for INET. International Journal on Advances in Networks and Services, 2014, vol. 2014, no. 4, p. 240-251. ISSN: 1942-2644."
+        },
+        {
+            "year": "2014",
+            "citation": "VESELY, V.; RYSAVY, O.; SVEDA, M. Protocol Independent Multicast in OMNeT++. The Tenth International Conference on Networking and Services. 74400 CHAMONIX MONT-BLANC: The International Academy, Research and Industry Association, 2014. p. 132-137. ISBN: 978-1-61208-330-8."
+        },
+        {
+            "year": "2013",
+            "citation": "DE SILVA, G.; RYSAVY, O.; MATOUSEK, P.; SVEDA, M. On Formal Reachability Analysis in Networks with Dynamic Behavior. TELECOMMUNICATION SYSTEMS, 2013, vol. 52, no. 2, p. 919-929. ISSN: 1018-4864."
+        },
+        {
+            "year": "2013",
+            "citation": "PACNER, J.; RYSAVY, O.; SVEDA, M. On the Evaluation of Clock Synchronization Methods for Networked Control Systems. 3rd Eastern European Regional Conference on the Engineering of Computer-Based Systems. New York: IEEE Computer Society, 2013. p. 10-12. ISBN: 978-0-7695-3759-7."
+        },
+        {
+            "year": "2013",
+            "citation": "RYSAVY, O.; RAB, J.; SVEDA, M. Improving security in SCADA systems through firewall policy analysis. Proceedings of the Federated Conference on Computer Science and Information Systems. Krakow: IEEE Computer Society, 2013. p. 1435-1440. ISBN: 978-1-4673-4471-5."
+        },
+        {
+            "year": "2013",
+            "citation": "SVEDA, M.; RYSAVY, O. Dependable Cyber-Physical Systems Networking: An Approach for Real-Time, Software Intensive Systems. Programmable Devices and Embedded Systems. Programmable devices and systems. Volume #12. Laxenburg: IFAC, 2013. no. 11, p. 1-4. ISBN: 978-3-902823-21-2. ISSN: 1474-6670."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V.; RYSAVY, O.; SVEDA, M. IPv6 Unicast and IPv4 Multicast Routing in OMNeT++. Proceedings of the IEEE 6th International ICST Conference on Simulation Tools and Techniques. Cannes: International Communication Sciences and Technology Association, 2013. p. 1-4. ISBN: 978-1-936968-47-3."
+        },
+        {
+            "year": "2012",
+            "citation": "HALFAR, P.; RAB, J.; RYSAVY, O.; SVEDA, M. A Formal Authorization Framework for Networked SCADA Systems. Proceedings IEEE ECBS 2012. Novy Sad: IEEE Computer Society, 2012. p. 298-302. ISBN: 978-0-7695-4664-3."
+        },
+        {
+            "year": "2012",
+            "citation": "RYSAVY, O.; SVEDA, M.; VRBA, R. A Framework for Cyber-Physical Systems Design - A Concept Study. Proceedings ICONS 2012. Saint Gilles, Reunion Island: International Academy, Research, and Industry Association, 2012. p. 79-82. ISBN: 978-1-61208-184-7."
+        },
+        {
+            "year": "2012",
+            "citation": "SVEDA, M.; RYSAVY, O.; DE SILVA, G.; MATOUSEK, P.; RAB, J. Static Analysis of Routing and Firewall Policy Configurations. In e-Business and Telecommunications. Communications in Computer and Information Science. LNCS CCIS, Vol.222. Heidelberg: Springer Science+Business Media B.V., 2012. no. 222, p. 39-53. ISBN: 978-3-642-25205-1. ISSN: 1865-0929."
+        },
+        {
+            "year": "2012",
+            "citation": "SVEDA, M.; SEKLETAR, M.; FIDLER, T.; RYSAVY, O. A High-level Network-wide Router Configuration Language. Proceedings ICN 2012. Saint Gilles, Reunion Island: International Academy, Research, and Industry Association, 2012. p. 18-21. ISBN: 978-1-61208-183-0."
+        },
+        {
+            "year": "2011",
+            "citation": "SVEDA, M.; RYSAVY, O.; DE SILVA, G.; MATOUSEK, P.; RAB, J. Reachability Analysis in Dynamically Routed Networks. Proceedings of the IEEE ECBS 2011. Piscataway, NJ: IEEE Computer Society, 2011. p. 197-205. ISBN: 978-0-7695-4379-6."
+        },
+        {
+            "year": "2011",
+            "citation": "SVEDA, M.; RYSAVY, O.; MATOUSEK, P. Supporting Safe and Secure Networked System Design. Computer Aided Systems Theory (EUROCAST 11), Extended Abstracts. Las Palmas de Gran Canaria: The Universidad de Las Palmas de Gran Canaria, 2011. p. 22-23. ISBN: 978-84-693-9560-8."
+        },
+        {
+            "year": "2010",
+            "citation": "DE SILVA, G.; MATOUSEK, P.; RYSAVY, O.; SVEDA, M. Formal Analysis Approach on Networks with Dynamic Behaviours. 2010 International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT). Moscow: IEEE Computer Society, 2010. p. 545-551. ISBN: 978-1-4244-7285-7."
+        },
+        {
+            "year": "2010",
+            "citation": "KORNECKI, A.; GREGA, W.; HILBURN, T.; THIRIET, J.; SVEDA, M.; RYSAVY, O.; PILAT, A. Transatlantic Engineering Programs: An Experience in International Cooperation. In Safeeullah Soomro (Editor): Engineering the Computer Science and IT. 2010. Vienna: IN-TECH Education and Publishing, 2010. p. 65-84. ISBN: 978-953-307-012-4."
+        },
+        {
+            "year": "2010",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; DE SILVA, G.; DANKO, M. Combination of Simulation and Formal Methods to Analyse Network Survivability. Proceedings of the IEEE 3rd International ICST Conference on Simulation Tools and Techniques. Malaga: International Communication Sciences and Technology Association, 2010. p. 150-155. ISBN: 978-963-9799-87-5."
+        },
+        {
+            "year": "2010",
+            "citation": "SVEDA, M.; RYSAVY, O.; MATOUSEK, P.; RAB, J. An Approach for Automated Network-Wide Security Analysis. Proceedings of the Ninth International Conference on Networks ICN 2010. Les Menuires: IEEE Computer Society, 2010. p. 294-299. ISBN: 978-0-7695-3979-9."
+        },
+        {
+            "year": "2010",
+            "citation": "SVEDA, M.; RYSAVY, O.; MATOUSEK, P.; RAB, J.; CEJKA, R. SECURITY ANALYSIS OF TCP/IP NETWORKS -- An Approach to Automatic Analysis of Network Security Properties. Proceedings of the International Conference on Data Communication Networking ICETE-DCNET 2010. Athens: Institute for Systems and Technologies of Information, Control and Communication, 2010. p. 5-11. ISBN: 978-989-8425-25-6."
+        },
+        {
+            "year": "2009",
+            "citation": "GREGA, W.; HILBURN, T.; KORNECKI, A.; RYSAVY, O.; SVEDA, M.; THIRIET, J. Methodology for Creation of Multidisciplinary, Transatlantic Engineering Program in Information Technology. Proceedings of the European Association for Education in Electrical and Information Engineering Council's Annual Conference 2009. Valencia: Politechnical University of Valencia, 2009. p. 1-5. ISBN: 978-84-8363-428-8."
+        },
+        {
+            "year": "2009",
+            "citation": "PILAT, A.; KORNECKI, A.; THIRIET, J.; GREGA, W.; RYSAVY, O. Inter-university Project Based on LEGO NXT. 18th IEEE International Conference on Control Applications. Saint Petersburg: IEEE Computer Society, 2009. p. 1248-1253. ISBN: 978-1-4244-4602-5."
+        },
+        {
+            "year": "2009",
+            "citation": "RAB, J.; RYSAVY, O.; SVEDA, M. On the Implementation of State-space Exploration Procedure in a Relational Database Management System. 30th IFAC Workshop on Real-Time Programming and 4th International Workshop on Real-Time Software. Mragowo: IEEE Computer Society, 2009. p. 151-156. ISBN: 978-83-60810-22-4."
+        },
+        {
+            "year": "2009",
+            "citation": "RYSAVY, O.; RAB, J. A Formal Model of Composing Components: The TLA+ Approach. Innovations in Systems and Software Engineering, 2009, vol. 5, no. 2, p. 139-149. ISSN: 1614-5046."
+        },
+        {
+            "year": "2009",
+            "citation": "RYSAVY, O.; SVEDA, M.; KORNECKI, A.; HILBURN, T.; GREGA, W.; PILAT, A.; THIRIET, J. Designing and Implementing International RSIC Engineering Curriculum. 1st Eastern European Regional Conference on the Engineering of Computer-Based Systems. Novi Sad: IEEE Computer Society, 2009. p. 71-76. ISBN: 978-0-7695-3759-7."
+        },
+        {
+            "year": "2009",
+            "citation": "SKARVADA, L.; PETERKA, O.; RYSAVY, O.; KOLAR, D. A Calculus of Coercive Subtyping. Draft Proceedings of the 21st International Symposium on Implementation and Application of Functional Languages. SHU-TR-CS-2009-09-01. South Orange: Seton Hall University, 2009. p. 182-192."
+        },
+        {
+            "year": "2009",
+            "citation": "SVEDA, M.; KORNECKI, A.; HILBURN, T.; GREGA, W.; THIRIET, J.; RYSAVY, O. Real-Time Software-Intensive Systems Engineering: An International Perspective. European Association for Education in Electrical and Information Engineering Council's Annual Conference 2009. Valencia: Politechnical University of Valencia, 2009. p. 1-6. ISBN: 978-84-8363-428-8."
+        },
+        {
+            "year": "2008",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; RAB, J.; SVEDA, M. A Formal Model for Network-wide Security Analysis. Proceeding of the 15 IEEE International Symposium and Workshop on the Engineering of Computer-based Systems. Belfast: University of Ulster, 2008. p. 171-181. ISBN: 0-7695-3141-5."
+        },
+        {
+            "year": "2008",
+            "citation": "RYSAVY, O.; RAB, J. A Component-based Approach to Verification of Embedded Control Systems using TLA. IEEE Proceedings of International Multiconference on Computer Science and Information Technology. Wisla: IEEE Computer Society Press, 2008. p. 719-725. ISBN: 978-83-60810-14-9."
+        },
+        {
+            "year": "2008",
+            "citation": "SVEDA, M.; RYSAVY, O.; VRBA, R. Pattern-driven Reuse of Behavioral Specifications in Embedded Control System Design. In Frontiers in Robotics, Automation and Control. Vienna: IN-TECH Education and Publishing, 2008. p. 151-164. ISBN: 978-953-7619-17-6."
+        },
+        {
+            "year": "2007",
+            "citation": "PETERKA, O.; RYSAVY, O.; LORENC, V.; OSOVSKY, M.; SKARVADA, L. Can Objects Have Dependent Types?. Proceedings of 3rd Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2007). Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 173-180. ISBN: 978-80-7355-077-6."
+        },
+        {
+            "year": "2007",
+            "citation": "SVEDA, M.; RYSAVY, O. Industrial Application Development Using Case-Based Reasoning. Proceedings of International Workshop on Artificial Neural Networks and Intelligent Information Processing. Angers: Institute for Systems and Technologies of Information, Control and Communication, 2007. p. 64-70. ISBN: 972-8865-86-4."
+        },
+        {
+            "year": "2007",
+            "citation": "SVEDA, M.; VRBA, R.; RYSAVY, O. Pattern-Driven Reuse of Embedded Control Design. Proceedings of Fourth International Conference on Informatics in Control, Automation and Robotics. Angers: Institute for Systems and Technologies of Information, Control and Communication, 2007. p. 152-159. ISBN: 972-8865-84-8."
+        },
+        {
+            "year": "2006",
+            "citation": "RYSAVY, O.; SCUGLIK, F.; SVEDA, M. Designing Algorithm-oriented Generic Library on .NET Framework. Proceedings of the 13th IEEE International Symposium and Workshop on the Engineering of Computer-Based Systems ECBS 2006. Los Alamitos, CA: IEEE Computer Society, 2006. p. 159-163. ISBN: 0-7695-2546-6."
+        },
+        {
+            "year": "2005",
+            "citation": "BURES, F.; RYSAVY, O.; SCUGLIK, F.; SVEDA, M. A Framework for Formal Specification of Embedded Systems. Proceedings of the 12th IEEE International Conference and Workshop on the Engineering of Computer-Based Systems. Los Alamitos, California: IEEE Computer Society, 2005. p. 323-330. ISBN: 0-7695-2308-0."
+        },
+        {
+            "year": "2005",
+            "citation": "RYSAVY, O. Specifying and reasoning in the calculus of objects. Brno: 2005. 95 p."
+        },
+        {
+            "year": "2004",
+            "citation": "BURES, F.; RYSAVY, O. A Graph Representation for Use Case Specifications. Proceedings of the WSEAS International Conferences. Salzburg: World Scientific and Engineering Academy, 2004. p. 686-690. ISBN: 960-8052-95-5."
+        },
+        {
+            "year": "2004",
+            "citation": "RYSAVY, O.; BURES, F. Formal Abstract Architecture for Use Case Specifications. Proceedings of the 11th IEEE International Conference and Workshop on the Engineering of Computer-Based Systems. Los Alamitos: IEEE Computer Society Press, 2004. p. 203-211. ISBN: 0-7695-21258."
+        },
+        {
+            "year": "2004",
+            "citation": "RYSAVY, O.; BURES, F. A Graph Representation for Use Case Specifications. WSEAS Transactions on Computers, 2004, vol. 2004, no. 3, p. 686-690. ISSN: 1109-2750."
+        },
+        {
+            "year": "2004",
+            "citation": "RYSAVY, O.; BURES, F.; SCUGLIK, F.; SVEDA, M. Integration of Formal Methods in a Specification Framework for Embedded Systems. Proceedings of the IEEE TC-ECBS and IFIP WG10.1 Joint Workshop on Formal Specifications of Computer-Based Systems. Stirling: IEEE Computer Society, 2004. p. 57-63. ISBN: 1-85769-1970."
+        },
+        {
+            "year": "2003",
+            "citation": "BURES, F.; RYSAVY, O. Formal specification of IEEE1451.1 fragments. 11. International Conference on Software, Telecommunications & Computer Networks. Split: Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture , University of Split, 2003. p. 282-287. ISBN: 953-6114-64-X."
+        },
+        {
+            "year": "2003",
+            "citation": "BURES, F.; RYSAVY, O. Declarative Behaviour Description of Selected Class from Standard IEEE 1451.1. ElectronicsLetters.com - http://www.electronicsletters.com, 2003, vol. 2003, no. 6, 6 p. ISSN: 1213-161X."
+        },
+        {
+            "year": "2003",
+            "citation": "RYSAVY, O.; SVEDA, M. A Minimal Formal Language for Object-Oriented Specifications. Proceedings of the IEEE TC-ECBS and IFIP WG10.1 Joint Workshop on Formal Specifications of Computer-Based Systems, 2003. Huntsville, AL: University of Stirling, 2003. p. 35-40. ISBN: 1-85769-189X."
+        },
+        {
+            "year": "2002",
+            "citation": "RYSAVY, O. Semantics of UML diagrams: A Case Study. Proceedings of 8th Conference STUDENT EEICT 2002. Brno, CZ: Faculty of Electrical Engineering and Communication BUT, 2002. 8 p. ISBN: 80-214-2116-9."
+        },
+        {
+            "year": "2002",
+            "citation": "RYSAVY, O. XML constraint specification language. Proceedings of the 9th Electronic Devices and Systems Conference EDS'02. Brno: Brno University of Technology, 2002. 4 p. ISBN: 80-214-2180-0."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2020",
+            "title": "Behavioral Anomaly Detection in Industrial Control Systems: An Evaluation of Flowmon ADS",
+            "metadata": "report, 2020",
+            "authors": "YOUSSEF, S.; RYSAVY, O."
+        },
+        {
+            "year": "2019",
+            "title": "An IPFIX Extension for MQTT Protocol Monitoring",
+            "metadata": "report, 2019",
+            "authors": "RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Analysis of Constrained Application Protocol",
+            "metadata": "report, 2017",
+            "authors": "RYSAVY, O."
+        },
+        {
+            "year": "2017",
+            "title": "Netfox Detective - Identifikace aplikacnich protokolu pomoci algoritmu strojoveho uceni",
+            "metadata": "report, 2017",
+            "authors": "PLUSKAL, J.; LICHTNER, O.; RYSAVY, O."
+        },
+        {
+            "year": "2017",
+            "title": "Platforma pro zpracovani dat sitove forenzni analyzy",
+            "metadata": "report, 2017",
+            "authors": "RYCHLY, M.; RYSAVY, O."
+        },
+        {
+            "year": "2017",
+            "title": "Security Monitoring of LwM2M communication",
+            "metadata": "report, 2017",
+            "authors": "RYSAVY, O."
+        },
+        {
+            "year": "2016",
+            "title": "Network Forensic Tool Netfox Detective",
+            "metadata": "presentation, poster, 2016",
+            "authors": "PLUSKAL, J.; RYSAVY, O."
+        },
+        {
+            "year": "2016",
+            "title": "On the Identification of Applications from Captured Network Traffic",
+            "metadata": "presentation, poster, 2016",
+            "authors": "PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2016",
+            "title": "TLS/SSL Decryption Workshop",
+            "metadata": "presentation, poster, 2016",
+            "authors": "PLUSKAL, J.; VESELY, V.; GREGR, M.; RYSAVY, O."
+        },
+        {
+            "year": "2015",
+            "title": "Concepts of Intercepted Communication Processing with Netfox Detective",
+            "metadata": "presentation, poster, 2015",
+            "authors": "PLUSKAL, J.; RYSAVY, O."
+        },
+        {
+            "year": "2015",
+            "title": "Deliverable 2.4: RINASim - basic functionality",
+            "metadata": "report, 2015",
+            "authors": "VESELY, V.; MAREK, M.; HYKEL, T.; RYSAVY, O.; LICHTNER, O."
+        },
+        {
+            "year": "2015",
+            "title": "Deliverable 2.6: RINASim - advanced functionality",
+            "metadata": "report, 2015",
+            "authors": "VESELY, V.; MAREK, M.; HYKEL, T.; RYSAVY, O.; LICHTNER, O.; JERABEK, K."
+        },
+        {
+            "year": "2009",
+            "title": "A Calculus of Coercive Subtyping",
+            "metadata": "report, 2009",
+            "authors": "KOLLAR, M.; PETERKA, O.; RYSAVY, O.; SKARVADA, L."
+        },
+        {
+            "year": "2008",
+            "title": "A Formal Approach to Network Security Analysis",
+            "metadata": "report, 2008",
+            "authors": "MATOUSEK, P.; RYSAVY, O.; SVEDA, M.; RAB, J.; CEJKA, R."
+        },
+        {
+            "year": "2007",
+            "title": "A Path to Become a Skillful CCNP Expert During your University Studies",
+            "metadata": "presentation, poster, 2007",
+            "authors": "MATOUSEK, P.; RYSAVY, O."
+        },
+        {
+            "year": "2005",
+            "title": "Design and development of a library for formal verification: an overview",
+            "metadata": "report, 2005",
+            "authors": "RYSAVY, O.; SCUGLIK, F."
+        },
+        {
+            "year": "2003",
+            "title": "A Survey on Formal Representation of UML",
+            "metadata": "report, 2003",
+            "authors": "RYSAVY, O."
+        }
+    ],
+    "name": "Rysavy Ondrej, doc. Ing., Ph.D."
+}

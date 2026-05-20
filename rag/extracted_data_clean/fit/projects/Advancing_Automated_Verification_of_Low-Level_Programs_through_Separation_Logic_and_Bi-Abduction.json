@@ -1,0 +1,32 @@
+{
+    "project": "Advancing Automated Verification of Low-Level Programs through Separation Logic and Bi-Abduction",
+    "title": "Pokrok v automatizovanem overovani nizkourovnovych programu prostrednictvim separacni logiky a bi-abdukce",
+    "metadata": {
+        "project_period": "1. 1. 2026 \u2013 31. 12. 2026",
+        "project_type": "grant",
+        "agency": "Ministry of Education, Youth and Sports",
+        "program": "AKTION Ceska republika - Rakousko"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Advancing Automated Verification of Low-Level Programs through Separation Logic and Bi-Abduction"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Formal Verification, Low Level-programming, Separation logic"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "This project addresses the challenges of verifying low-level programs that use pointers and dynamic data structures, where memory-safety errors can lead to severe reliability and security risks. Building on the prototype tool Broom, developed jointly by the Czech and Austrian teams, we will advance separation logic-based bi-abductive analysis to improve support for type recasting and scalability. Our research will develop new formal foundations, prove the soundness of the proposed techniques, and implement prototypes. Through joint work, we will combine Austrian expertise in decision procedures with Czech expertise in low-level code analysis, ensuring both scientific progress and training of young researchers."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Rogalewicz Adam, doc. Mgr., Ph.D. (DITS) \u2013 research leader Dacik Tomas, Ing. (DITS) Valko Roderik, MSc (DITS) Vojnar Tomas, prof. Ing., Ph.D. (DITS)"
+        }
+    }
+}

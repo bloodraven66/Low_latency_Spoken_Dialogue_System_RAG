@@ -1,0 +1,33 @@
+{
+    "project": "EUROPEAN BLOCKCHAIN SERVICES INFRASTRUCTURE, EBSI",
+    "title": "Evropsky projekt pro DLT financovani digitalizace SME pro prekonani krize",
+    "metadata": {
+        "project_period": "1. 3. 2024 \u2013 31. 8. 2026",
+        "project_type": "grant",
+        "code": "Z222901000001",
+        "agency": "Ministry of Industry and Trade of the Czech Republic",
+        "program": "Projekt systemu financovani SME prostrednictvim EBSI"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "EUROPEAN BLOCKCHAIN SERVICES INFRASTRUCTURE, EBSI"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "bonds, blockchain"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The proposed project (EBSIMARKET) envisages the creation of a pan-European platform for bonds of small and medium-sized enterprises, which are one of the main tools for the recovery of the European economy affected by Covid-19 and the Russian invasion of Ukraine. Such a platform for issuing, purchasing and trading blockchain bonds could become one of the sources, or another channel to raise around 1 trillion for European SMEs. EBSIMARKET aims to improve the access of small and medium-sized enterprises to external financing at a time when macroeconomic conditions will have an adverse effect on the availability of funds and worsening access to bank loans."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Vesely Vladimir, Ing., Ph.D. (DIFS) \u2013 research leader Bartl Roman, Ing. (CIS - Architektura) Cihakova Lucie, Ing. (RCIT) Fiala Frantisek (DIFS) Gadorek Petr, Ing. (DFIT-ISD) Gregr Matej, Ing., Ph.D. (DIFS) Hranicky Radek, Ing., Ph.D. (DIFS) Hruska Tomas, prof. Ing., CSc. (DIFS) Hulek Matej, Bc. (DIFS) Jerabek Kamil, Ing., Ph.D. (DIFS) Kocman Radim, Ing., Ph.D. (DFIT-ISD) Kolar Dusan, doc. Dr. Ing. (DIFS) Koutensky Michal, Ing. (DIFS) Kuchynka Marek, Ing. (DFIT-ISD) Lichtner Ondrej, Ing. (DIFS) Malinka Kamil, doc. Mgr., Ph.D. (DITS) Marek Marcel, Ing. (DIFS) Oleksak Samuel, Ing. (DITS) Peresini Martin, Ing. (DITS) Pirova Zuzana, Ing. (DFIT-FO) Pluskal Jan, Ing., Ph.D. (DIFS) Rysava Veronika, Bc., DiS. (RCIT) Svatosova Helena, JUDr. Ing. (DFIT-FO) Valova Marie (DFIT-PO)"
+        }
+    }
+}

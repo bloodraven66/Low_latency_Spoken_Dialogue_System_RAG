@@ -1,0 +1,196 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "ispanhel@fit.vut.cz",
+            "work_phone": "+420 54114 1298",
+            "room": "L205 Office",
+            "researcher_id": "AAA-2527-2020",
+            "orcid_id": "0000-0003-2980-5614",
+            "scopus_author_id": "57200140577"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "By prior arrangement. Book an appointment here: DiplomkyFIT.cz - Consultation hours - Spanhel Jakub",
+        "lectured_courses": [
+            {
+                "abbreviation": "POVa",
+                "title": "Computer Vision (in English)",
+                "details": "Project,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Safe and Secure Traffic Systems with Advanced Technology",
+            "details": "MV, Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - II. verejna soutez, VB02000081, start: 2024-01-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Non-Invasive and Secure IDentification",
+            "details": "TACR, 4. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW04020153, start: 2022-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Safe and Secure Traffic Systems of New Generation",
+            "details": "MV, Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - I. verejna soutez, VB01000048, start: 2022-01-01, end: 2023-12-31, running"
+        },
+        {
+            "year": "2021",
+            "title": "5G-ERA - 5G-Enhanced Robot Autonomy",
+            "details": "EU, Horizon 2020, start: 2021-01-01, end: 2024-06-30, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Research and Development of a Solution for Measuring Speed of Trams in Video",
+            "details": "start: 2021-09-24, end: 2021-11-30, completed"
+        },
+        {
+            "year": "2021",
+            "title": "SECUSEN II: SECure SENsors - Industrial Intelligence",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/14, start: 2021-06-01, end: 2022-09-30, running"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Next Generation of Integrated Atomic Force and Scanning Electron Microscopy",
+            "details": "TACR, Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW01010183, start: 2020-04-01, end: 2023-03-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Progressive Image Processing Algorithms",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH04010394, start: 2018-10-01, end: 2021-08-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "SMARTCarPark - Surveillance Monitoring, Analysis and Re-identification of Traffic for Enhanced Car Parking",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH03010529, start: 2018-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Feasibility study for traffic aggregation based on automatic algorithm with minimal operator inputs",
+            "details": "CDV, start: 2017-11-01, end: 2017-12-12, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Vehicle Trajectory and Movement Analysis",
+            "details": "CDV, start: 2017-09-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2023",
+            "citation": "GAVRIELIDES, A.; SOPHOCLEOUS, M.; AGAPIOU, G.; LESSI, C.; SPANHEL, J.; LENDINEZ, A.; QIU, R.; LI, D. Implementing Network Applications for 5G-Enabled Robots Through the 5G-ERA Platform. In IFIP Advances in Information and Communication Technology. IFIP Advances in Information and Communication Technology. Artificial Intelligence Applications and Innovations. Cham: Springer Nature Switzerland AG, 2023. no. 2023, p. 55-65. ISBN: 978-3-031-34170-0. ISSN: 1868-422X."
+        },
+        {
+            "year": "2023",
+            "citation": "KIEFER, B.; BARTL, V.; SPANHEL, J.; HEROUT, A.; YANG, M., et al. 1st Workshop on Maritime Computer Vision (MaCVi) 2023: Challenge Results. In 2023 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW). Waikoloa, Hawaii: Institute of Electrical and Electronics Engineers, 2023. p. 265-302. ISBN: 979-8-3503-2056-5."
+        },
+        {
+            "year": "2022",
+            "citation": "BARTL, V.; SPANHEL, J.; HEROUT, A. PersonGONE: Image Inpainting for Automated Checkout Solution. In 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. New Orleans, LA: IEEE Computer Society, 2022. no. 7, p. 3114-3122. ISSN: 2160-7516."
+        },
+        {
+            "year": "2022",
+            "citation": "SOPHOCLEOUS, M.; LESSI, C.; XU, Z.; SPANHEL, J.; QIU, R.; LENDINEZ, A.; CHONDROULIS, I.; BELIKAIDIS, I. AI-driven intent-based networking for 5G enhanced robot autonomy. In AIAI 2022 IFIP WG 12.5 International Workshops. IFIP Advances in Information and Communication Technology. IFIP Advances in Information and Communication Technology. Cham: Springer Nature Switzerland AG, 2022. no. 2022, p. 61-70. ISSN: 1868-422X."
+        },
+        {
+            "year": "2020",
+            "citation": "BARTL, V.; JURANEK, R.; SPANHEL, J.; HEROUT, A. PlaneCalib: Automatic Camera Calibration by Multiple Observations of Rigid Objects on Plane. In 2020 International Conference on Digital Image Computing: Techniques and Applications (DICTA). Melbourne: Institute of Electrical and Electronics Engineers, 2020. p. 1-8. ISBN: 978-1-7281-9108-9."
+        },
+        {
+            "year": "2020",
+            "citation": "BARTL, V.; SPANHEL, J.; DOBES, P.; JURANEK, R.; HEROUT, A. Automatic Camera Calibration by Landmarks on Rigid Objects. Machine vision and applications, 2020, vol. 32, no. 1, p. 2-15. ISSN: 1432-1769."
+        },
+        {
+            "year": "2020",
+            "citation": "DOBES, P.; SPANHEL, J.; BARTL, V.; JURANEK, R.; HEROUT, A. Density-Based Vehicle Counting with Unsupervised Scale Selection. In Digital Image Computing: Techniques and Applications 2020. Melbourne: Institute of Electrical and Electronics Engineers, 2020. p. 1-8. ISBN: 978-1-7281-9108-9."
+        },
+        {
+            "year": "2020",
+            "citation": "FOLENTA, J.; SPANHEL, J.; BARTL, V.; HEROUT, A. Determining Vehicle Turn Counts at Multiple Intersections by Separated Vehicle Classes Using CNNs. In 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. Seattle, WA: IEEE Computer Society, 2020. no. 07, p. 2544-2549. ISBN: 978-1-7281-9360-1. ISSN: 2160-7516."
+        },
+        {
+            "year": "2020",
+            "citation": "HAVRANEK, P.; ZUVALA, R.; SPANHEL, J.; HEROUT, A.; VALENTOVA, V.; AMBROS, J. How does road marking in horizontal curves influence driving behaviour?. European Transport Research Review, 2020, vol. 12, no. 1, p. 1-11. ISSN: 1866-8887."
+        },
+        {
+            "year": "2020",
+            "citation": "SPANHEL, J.; SOCHOR, J.; JURANEK, R.; DOBES, P.; BARTL, V.; HEROUT, A. Learning Feature Aggregation in Temporal Domain for Re-Identification. COMPUTER VISION AND IMAGE UNDERSTANDING, 2020, vol. 192, no. 11, p. 1-12. ISSN: 1077-3142."
+        },
+        {
+            "year": "2019",
+            "citation": "JURANEK, R.; SPANHEL, J.; SOCHOR, J.; HEROUT, A.; NOVAK, J. Visual Analysis of Vehicle Trajectories for Determining Cross-Sectional Load Density. Transactions on Transport Sciences - online version, 2019, vol. 10, no. 1, p. 50-57. ISSN: 1802-9876."
+        },
+        {
+            "year": "2019",
+            "citation": "SPANHEL, J.; BARTL, V.; JURANEK, R.; HEROUT, A. Vehicle Re-Identification and Multi-Camera Tracking in Challenging City-Scale Environment. In 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. Long Beach: IEEE Computer Society, 2019. no. 1, p. 150-158. ISSN: 2160-7516."
+        },
+        {
+            "year": "2019",
+            "citation": "SPANHEL, J.; JURANEK, R.; HEROUT, A.; NOVAK, J.; HAVRANEK, P. Analysis of Vehicle Trajectories for Determining Cross-Sectional Load Density Based on Computer Vision. In 2019 22th International Conference on Intelligenet Transportation Systems (ITSC). Auckland: Institute of Electrical and Electronics Engineers, 2019. p. 1001-1006. ISBN: 978-1-5386-7024-8."
+        },
+        {
+            "year": "2018",
+            "citation": "SOCHOR, J.; JURANEK, R.; SPANHEL, J.; MARSIK, L.; SIROKY, A.; HEROUT, A.; ZEMCIK, P. Comprehensive Data Set for Automatic Single Camera Visual Speed Measurement. IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, 2018, vol. 2018, no. 99, p. 1633-1643. ISSN: 1524-9050."
+        },
+        {
+            "year": "2018",
+            "citation": "SOCHOR, J.; SPANHEL, J.; HEROUT, A. BoxCars: Improving Fine-Grained Recognition of Vehicles using 3-D Bounding Boxes in Traffic Surveillance. IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, 2018, vol. 2019, no. 1, p. 97-108. ISSN: 1524-9050."
+        },
+        {
+            "year": "2018",
+            "citation": "SOCHOR, J.; SPANHEL, J.; JURANEK, R.; DOBES, P.; HEROUT, A. Graph@FIT Submission to the NVIDIA AI City Challenge 2018. In NVIDIA AI City Challenge 2018 (CVPRW). Salt Lake City: IEEE Computer Society, 2018. p. 77-84. ISBN: 978-1-5386-6100-0."
+        },
+        {
+            "year": "2018",
+            "citation": "SPANHEL, J.; SOCHOR, J.; JURANEK, R.; HEROUT, A. Geometric Alignment by Deep Learning for Recognition of Challenging License Plates. In 2018 21st International Conference on Intelligent Transportation Systems (ITSC). Proceedings. Lahaina, Maui: IEEE Intelligent Transportation Systems Society, 2018. no. 21, p. 3524-3529. ISBN: 978-1-72810-321-1. ISSN: 2153-0017."
+        },
+        {
+            "year": "2018",
+            "citation": "SPANHEL, J.; SOCHOR, J.; MAKAROV, A. Detection of Traffic Violations of Road Users Based on Convolutional Neural Networks. In 2018 14th Symposium on Neural Networks and Applications (NEUREL). Belgrade: IEEE Signal Processing Society, 2018. p. 1-6. ISBN: 978-1-5386-6974-7."
+        },
+        {
+            "year": "2018",
+            "citation": "SPANHEL, J.; SOCHOR, J.; MAKAROV, A. Vehicle Fine-grained Recognition Based on Convolutional Neural Networks for Real-world Applications. In 2018 14th Symposium on Neural Networks and Applications (NEUREL). Belgrade: IEEE Signal Processing Society, 2018. p. 1-5. ISBN: 978-1-5386-6974-7."
+        },
+        {
+            "year": "2017",
+            "citation": "SOCHOR, J.; SPANHEL, J.; HEROUT, A. BoxCars: 3D Boxes for Improved Fine-Grained Vehicle Recognition. The Fourth Workshop on Fine-Grained Visual Categorization (CVPR 2017). Honolulu, HI: IEEE Computer Society, 2017. p. 1-2."
+        },
+        {
+            "year": "2017",
+            "citation": "SPANHEL, J.; SOCHOR, J.; JURANEK, R.; HEROUT, A.; MARSIK, L.; ZEMCIK, P. Holistic Recognition of Low Quality License Plates by CNN using Track Annotated Data. In International Workshop on Traffic and Street Surveillance for Safety and Security (AVSS 2017). Lecce: IEEE Computer Society, 2017. p. 1-6. ISBN: 978-1-5386-2939-0."
+        }
+    ],
+    "name": "Spanhel Jakub, Ing., Ph.D."
+}

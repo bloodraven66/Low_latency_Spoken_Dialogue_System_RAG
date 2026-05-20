@@ -1,0 +1,94 @@
+{
+    "contact": {
+        "department": "Department of Intelligent Systems",
+        "department_abbr": "DITS",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "imacak@fit.vut.cz",
+            "phone": "+420 54114 1178",
+            "room": "A219 Office",
+            "orcid_id": "0009-0004-4277-2751"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Automata@FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Automated Analysis and Verification Research Group - VeriFIT",
+            "role": "Ph.D. Student"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "Best Student Paper Award AAMAS 2025"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Can be arranged via email ( imacak@fit.vut.cz ) or Discord (fpmk).",
+        "lectured_courses": [
+            {
+                "abbreviation": "MSP",
+                "title": "Statistics and Probability",
+                "details": "Fundamentals seminar,\nCzech, winter",
+                "department": "IM DSO"
+            },
+            {
+                "abbreviation": "TINe",
+                "title": "Theoretical Computer Science (in English)",
+                "details": "Lecture,\nEnglish, summer",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "QUAK: Quantum Program Analysis using Automata Toolkit",
+            "details": "GACR, Standardni projekty, 25-18318S, start: 2025-01-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Verification and Analysis for Safety and Security of Applications in Life",
+            "details": "EU, HORIZON EUROPE, SEP-210979090, start: 2024-06-01, end: 2027-05-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "VESCAA: Verifiable and Efficient Synthesis of Agent Controllers",
+            "details": "GACR, Standardni projekty, GA23-06963S, start: 2023-03-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Efficient Finite Automata for Automated Reasoning",
+            "details": "MSMT, ERC CZ, LL1908, start: 2020-01-01, end: 2024-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; CHAKRABORTY, D.; JUNGES, S.; KRETINSKY, J.; MACAK, F. Symbiotic Local Search for Small Decision Tree Policies in MDPs. In Proceedings of the Forty-first Conference on Uncertainty in Artificial Intelligence. Proceedings of Machine Learning Research. ML Research Press, 2025. p. 132-142."
+        },
+        {
+            "year": "2025",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; JUNGES, S.; MACAK, F. Small Decision Trees for MDPs with Deductive Synthesis. In Computer Aided Verification. Springer Cham, 2025. p. 169-192. ISBN: 978-3-031-98678-9."
+        },
+        {
+            "year": "2025",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; MACAK, F.; FRANCESCO, P.; MICHELE, C. Decentralized Planning Using Probabilistic Hyperproperties. In Proc. of the 24th International Conference on Autonomous Agents and Multiagent Systems. Detroit: 2025. p. 1688-1697. ISBN: 979-8-4007-1426-9."
+        },
+        {
+            "year": "2025",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; MACAK, F.; JUNGES, S. Policies Grow on Trees: Model Checking Families of MDPs. In Proceeding of 22nd International Symposium on Automated Technology for Verification and Analysis. Cham: Springer Verlag, 2025. p. 51-75. ISBN: 978-3-031-78749-2."
+        },
+        {
+            "year": "2025",
+            "citation": "MACAK, F.; ANDRIUSHCHENKO, R.; CESKA, M.; JUNGES, S.; KATOEN, J. An Oracle-Guided Approach to Constrained Policy Synthesis Under Uncertainty. The journal of artificial intelligence research, 2025, vol. 2025, no. 82, p. 433-469."
+        },
+        {
+            "year": "2023",
+            "citation": "ANDRIUSHCHENKO, R.; ALEXANDER, B.; CESKA, M.; JUNGES, S.; KATOEN, J.; MACAK, F. Search and Explore: Symbiotic Policy Synthesis in POMDPs. In Computer Aided Verification. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Cham: Springer Verlag, 2023. p. 113-135. ISBN: 978-3-031-37708-2."
+        }
+    ],
+    "name": "Macak Filip, Ing."
+}

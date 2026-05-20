@@ -1,0 +1,167 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "isolony@fit.vut.cz",
+            "work_phone": "+420 54114 1404",
+            "room": "L203 Office",
+            "orcid_id": "0000-0003-4891-8219",
+            "scopus_author_id": "42762366100"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Robotic research group Robo@FIT",
+            "role": "Researcher"
+        }
+    ],
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "POVa",
+                "title": "Computer Vision (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Distributed Multi-Sensor System For Human Safety and Health (DistriMuSe)",
+            "details": "MSMT, Chips Joint Undertaking, 9A24005, 101139769/9A24005, start: 2024-05-01, end: 2027-04-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence",
+            "details": "EU, HORIZON EUROPE, 101159156, start: 2024-05-01, end: 2026-09-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "Machine learning for printed heritage digitisation",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV066, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2022",
+            "title": "AISEE - Artificial Intelligence based Search Environment for photo/video",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010029, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Development of the methods for motion correction in LiDAR data",
+            "details": "GEODROM, start: 2021-01-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Auto-Navigation for Urban Air Mobility",
+            "details": "Honeywell, spol. s r.o., start: 2019-04-16, end: 2019-07-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Improve the parameters of computer vision and computer graphics in an internal validation project Vision 2022",
+            "details": "VirtualTraining, start: 2017-11-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Tools and methods for video and image processing to improve effectivity of rescue and security services operations",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020068, start: 2017-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3984, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2506, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "VYUZITI ROZSIRENE VIRTUALNI REALITY \u2013 AUGMENTED REALITY V STROJIRENSKYCH APLIKACICH",
+            "details": "BUT, Vnitrni projekty VUT, FSI-J-13-2129, start: 2013-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Intelligent Management Platform for Advanced Real-Time media processes",
+            "details": "MSMT, Sedmy ramcovy program Evropskeho spolecenstvi pro atomovou energii (Euratom) v oblasti jaderneho vyzkumu a vzdelavani, 7E13044, start: 2012-11-01, end: 2015-10-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-2, 2010, start: 2010-04-01, end: 2010-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2022",
+            "citation": "BARINA, D.; SOLONY, M.; CHLUBNA, T.; DLABAJA, D.; KLIMA, O.; ZEMCIK, P. Comparison of light field compression methods. MULTIMEDIA TOOLS AND APPLICATIONS, 2022, vol. 81, no. 2, p. 2517-2528. ISSN: 1573-7721."
+        },
+        {
+            "year": "2019",
+            "citation": "BARINA, D.; CHLUBNA, T.; SOLONY, M.; DLABAJA, D.; ZEMCIK, P. Evaluation of 4D Light Field Compression Methods. In International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG), Part I. Computer Science Research Notes (CSRN). Plzen: Union Agency, 2019. p. 55-61. ISBN: 978-80-86943-37-4."
+        },
+        {
+            "year": "2019",
+            "citation": "TROTTNOW, J.; SPIELMANN, S.; HERFET, T.; LANGE, T.; CHELLI, K.; SOLONY, M.; SMRZ, P.; ZEMCIK, P.; AENCHBACHER, W.; GROGAN, M.; ALAIN, M.; SMOLIC, ALJOSA, S.; CANH, T.; VU-THANH, O.; VAZQUEZ-CORRAL, J.; BERTAHNIO, M. The Potential of Light Fields in Media Productions. In SA'19: SIGGRAPH ASIA 2019 TECHNICAL BRIEFS. TECHNICAL BRIEFS. New York: Association for Computing Machinery, 2019. p. 71-74. ISBN: 978-1-4503-6945-9."
+        },
+        {
+            "year": "2017",
+            "citation": "ILA, V.; POLOK, L.; SOLONY, M.; ISTENIC, K. Fast Incremental Bundle Adjustment with Covariance Recovery. In 2017 Fifth International Conference on 3D Vision. Qingdao: Institute of Electrical and Electronics Engineers, 2017. p. 1-9. ISBN: 978-989-8425-47-8."
+        },
+        {
+            "year": "2017",
+            "citation": "ILA, V.; POLOK, L.; SOLONY, M.; SVOBODA, P. SLAM plus plus -A highly efficient and temporally scalable incremental SLAM framework. INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH, 2017, vol. 2017, no. 1, p. 210-230. ISSN: 1741-3176."
+        },
+        {
+            "year": "2015",
+            "citation": "ILA, V.; POLOK, L.; SOLONY, M.; ZEMCIK, P.; SMRZ, P. Fast Covariance Recovery in Incremental Nonlinear Least Square Solvers. In Proceedings of IEEE International Conference on robotics and Automation. Seattle: IEEE Computer Society, 2015. p. 1-8. ISBN: 978-1-4799-6922-7."
+        },
+        {
+            "year": "2015",
+            "citation": "SOLONY, M.; IMRE, E.; ILA, V.; POLOK, L.; KIM, H.; ZEMCIK, P. Fast and Accurate Refinement Method for 3D Reconstruction from Stereo Spherical Images. In Proceedings of the 10th International Conference on Computer Vision Theory and Applications. Berlin: Institute of Electrical and Electronics Engineers, 2015. p. 1-8. ISBN: 978-989-8425-47-8."
+        },
+        {
+            "year": "2013",
+            "citation": "ILA, V.; POLOK, L.; SMRZ, P.; SOLONY, M.; ZEMCIK, P. Incremental Block Cholesky Factorization for Nonlinear Least Squares in Robotics. In proceedings of The Robotics: Science and Systems 2013 Conference. Berlin: MIT Press, 2013. p. 1-8. ISBN: 978-981-07-3937-9."
+        },
+        {
+            "year": "2013",
+            "citation": "ILA, V.; POLOK, L.; SMRZ, P.; SOLONY, M.; ZEMCIK, P. Incremental Cholesky Factorization for Least Squares Problems in Robotics. Proceedings of The 2013 IFAC Intelligent Autonomous Vehicles Symposium. Gold Coast: IEEE Computer Society, 2013. p. 1-8. ISBN: 978-3-902823-36-6."
+        },
+        {
+            "year": "2013",
+            "citation": "POLOK, L.; ILA, V.; SOLONY, M.; ZEMCIK, P.; SMRZ, P. Efficient Implementation for Block Matrix Operations Nonlinear Least Squares Problems for Robotic Applications. Proceedings of 2013 IEEE International Conference on Robotics and Automation. Karlsruhe: IEEE Computer Society, 2013. p. 123-131. ISBN: 978-1-4673-5642-8."
+        },
+        {
+            "year": "2011",
+            "citation": "SOLONY, M.; ZAK, P.; BERAN, V.; SPANEL, M. Camera Localization Using Incomplete Chessboard Pattern. In VISAPP 2011 - Proceedings of the International Conference on Computer Vision Theory and Application. Algarve: Institute for Systems and Technologies of Information, Control and Communication, 2011. p. 415-418. ISBN: 978-989-8425-47-8."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2017",
+            "title": "Selected Video-Processing Methods and System Architecture Design",
+            "metadata": "report, 2017",
+            "authors": "BERAN, V.; BARTIK, V.; BARTL, V.; FROML, V.; HEROUT, A.; NOSKO, S.; SOLONY, M.; ZEMCIK, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2015",
+            "title": "A GPU-Accelerated Bundle Adjustment Solver",
+            "metadata": "presentation, poster, 2015",
+            "authors": "POLOK, L.; SOLONY, M.; ILA, V.; SMRZ, P.; ZEMCIK, P.; CLIFFORD, J.; PABST, S."
+        }
+    ],
+    "name": "Solony Marek, Ing., Ph.D."
+}

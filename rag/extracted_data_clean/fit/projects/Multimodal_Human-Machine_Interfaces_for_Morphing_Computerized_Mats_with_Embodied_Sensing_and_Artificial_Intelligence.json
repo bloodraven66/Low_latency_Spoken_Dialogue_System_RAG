@@ -1,0 +1,29 @@
+{
+    "project": "Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence",
+    "title": "Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence",
+    "metadata": {
+        "project_period": "1. 5. 2024 \u2013 30. 9. 2026",
+        "project_type": "grant",
+        "code": "101159156",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Human-machine interaction, multimodal processing, novel manipulation, usability test"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The MOZART project aims to advance the state of the art in robotic handling and manipulation of soft and heterogeneous objects. Its approach is a radical departure from existing technologies as it develops a new concept based on deformable manipulation surfaces supported by AI-powered control and learning tools. While the running project primarily addresses the development of hardware and control algorithms, human-machine interaction is less explored. The role of the new partner - Brno University of Technology, Czechia (BUT), in the proposed project extension is mainly to research the field of Human-Machine Interaction (HMI), explicitly identifying user roles, needs, and necessary interface types, iteratively developing prototypes, and performing evaluation. Usability testing will be carried out in multiple stages of development, including aspects of the social science perspective (with the help of SSH research experts from partner TCD), to assess the system's natural fit with diverse operators. Various input and output modalities and their combinations will be evaluated, including the manipulation surface itself and augmented and virtual reality. Machine learning may be used to achieve the adaptivity of the interface. Various types of interfaces that will be developed will be backed up by a cloudenabled server, acting as a data platform, enabling data sharing between users and offloading computationally intensive tasks. BUT aims to contribute to MOZART's goal of automating the food industry by designing effective user interfaces that enhance system acceptance, leveraging the team's extensive experience in this field."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader Bambusek Daniel, Ing. (DCGM) Barina David, Ing., Ph.D. (DCGM) Docekal Martin, Ing. (DCGM) Dytrych Jaroslav, Ing., Ph.D. (DCGM) Juranek Roman, Ing., Ph.D. (DCGM) Jurankova Marketa, Ing., Ph.D. (DCGM) Kapinus Michal, Ing., Ph.D. (DCGM) Klima Ondrej, Ing., Ph.D. (DCGM) Materna Zdenek, Ing., Ph.D. (DCGM) Musil Petr, Ing., Ph.D. (CM-SFE) Otrusina Lubomir, Ing. (DCGM) Strycek Simon, Ing. (DCGM) Solony Marek, Ing., Ph.D. (DCGM) Vlnas Michal, Ing. (DCGM) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        }
+    }
+}

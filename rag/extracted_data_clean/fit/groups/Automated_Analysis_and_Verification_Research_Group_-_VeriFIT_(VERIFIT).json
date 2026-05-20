@@ -1,0 +1,2223 @@
+{
+    "group": "Automated Analysis and Verification Research Group - VeriFIT (VERIFIT)",
+    "about": {
+        "automated_analysis_and_verification_research_group_-_verifit": [
+            "VeriFITis a group including researchers and students from FIT BUT interested in research on methods ofautomated analysis and verificationof systems. The interests of the group includeformal analysis and verification(static analysis, abstract interpretation, model checking),dynamic analysis(i.e., analysis at run-time), intelligent testing as well as methods ofself-healingof systems. The group is involved in basic research in the described areas as well as in development and evaluation of prototype verification tools.Older photos of the group:2012,2013,2015.Find the main web-page of the group (so far in Czech only) athttps://verifit.webnode.cz/."
+        ],
+        "research_interests": [
+            "Static analysis and verification with formal roots in the area of infinite-state systems (programs with pointers and dynamic linked data structures, concurrent programs with unbounded concurrency, programs with unbounded integer variables, arrays, parameters, recursion, unbounded communication channels, etc.), building on applications of theory of automata, logics, and graphs.",
+            "Testing and dynamic analysis of (esp. concurrent) software using a broad range of techniques (such as noise injection, extrapolation, data mining, machine learning), including possible self-healing or providing information for software quality assurance.",
+            "Formal verification in the area of hardware design based on high-level hardware description languages.",
+            "Research on efficient techniques of handling automata (e.g., simulation reduction of non-deterministic automata or efficient inclusion checking on non-deterministic automata), decision procedures for various logics, etc."
+        ],
+        "awards": [
+            "The tools Predator (P. Peringer, V. Sokova, T. Vojnar) and 2LS (V. Malik, T. Vojnar; the tool is being primarily developed by DiffBlue ) took part in the International Software Verification Competition SV-COMP'20 where they won one gold and one bronze medal. Moreover, V. Sokova, M. Hruska, and T. Vojnar participated on a combination of Predator with the Symbiotic analyser that is being primarily developed at FI MU and that won one gold and two silver medals.",
+            "The paper Chain-Free String Constraints (P.A. Abdulla, M.F. Atig, B.P. Diep, L. Holik, P. Janku) received the Best Paper award of ATVA 2019 .",
+            "The paper Automata Terms in a Lazy WSkS Decision Procedure (V. Havlena, L. Holik, O. Lengal, T. Vojnar) received the Best Paper award of CADE-27 , 2019.",
+            "The tools Predator (M. Kotoun, P. Peringer, V. Sokova, T. Vojnar) and 2LS (V. Malik, T. Vojnar; the tool is being primarily developed by DiffBlue ) took part in the International Software Verification Competition SV-COMP'19 where they won one silver medal, and Predator won the MemSafety-Heap and MemSafety-LinkedLists sub-categories.",
+            "The paper about the ANaConDA analyzer won the best tool demo award at ISSTA'18 .",
+            "The approach proposed in collaboration with the ehw@FIT group and first presented in the paper Approximating Complex Arithmetic Circuits with Formal Error Guarantees: 32-bit Multipliers Accomplished (M. Ceska, J. Matyas, V. Mrazek, L. Sekanina, Z. Vasicek, and T. Vojnar) won a bronze medal in the 2018 Human-Competitive Awards: \"Humies\" competition.",
+            "V. Malik and J. Matyas won the JCMM Brno PhD talent scholarship starting from the 2017 year.",
+            "J. Matyas won the IT SPY competition for the best diploma thesis of the year with his thesis \" Employing Approximate Equivalence for Design of Approximate Circuits \" led by M. Ceska jr and solved in collaboration between the VeriFIT and ehw@fit groups.",
+            "The Predator (M. Kotoun, P. Peringer, V. Sokova, T. Vojnar) and Forester (L. Holik, M. Hruska, O. Lengal, A. Rogalewicz, J. Simacek, T. Vojnar) tools took part in the International Software Verification Competition SV-COMP'18 where they won one silver medal, and Predator won the ReachSafety-Heap and MemSafety-Heap categories. Moreover, some members of the group (V. Malik, S. Marticek, T. Vojnar) got involved into the competition within the team of the 2LS analyser that is being primarily developed by the DiffBlue company.",
+            "The Predator (M. Kotoun, P. Peringer, V. Sokova, T. Vojnar) and Forester (L. Holik, M. Hruska, O. Lengal, A. Rogalewicz, J. Simacek, T. Vojnar) tools took part in the International Software Verification Competition SV-COMP'17 where they won one gold medal.",
+            "Ondrej Lengal won the 2015 Antonin Svoboda Award for the Best Dissertation Thesis awarded by the Czech Society for Cybernetics and Computer Science .",
+            "The Predator (M. Kotoun, P. Peringer, V. Sokova, T. Vojnar) and Forester (L. Holik, M. Hruska, O. Lengal, A. Rogalewicz, J. Simacek, T. Vojnar) tools took part in the International Software Verification Competition SV-COMP'16 where they won one gold medal.",
+            "The Predator (P. Muller, P. Peringer, T. Vojnar) and Forester (L. Holik, M. Hruska, O. Lengal, A. Rogalewicz, J. Simacek, T. Vojnar) tools took part in the International Software Verification Competition SV-COMP'15 where they won one gold and one silver medal.",
+            "The SPEN (C. Enea, O. Lengal, M. Sighireanu a T. Vojnar) and SLIDE (R. Iosif, A. Rogalewicz a T. Vojnar) tools won one gold and three silver medals at the 1st International Competition of Separation Logic Decision Procedures SL-COMP'14 .",
+            "The Predator tool has been awarded the prestigious Kurt Godel medal at the FLoC Olympic Games 2014 for its successes in three consecutive years of the international competition in software verification SV-COMP .",
+            "The Predator (K. Dudka, P. Peringer, T. Vojnar) and CPAlien (P. Muller, T. Vojnar) tools took part in the International Software Verification Competition SV-COMP'14 where they won one silver and one bronze medal.",
+            "The paper The Tree Width of Separation Logic with Recursive Definitions (R. Iosif, A. Rogalewicz, J. Simacek) received the Best Paper award of CADE-24 , 2013.",
+            "The paper An Integrated Specification and Verification Technique for Highly Concurrent Data Structures (P.A. Abdulla, F. Haziza, L. Holik, B. Jonsson, A. Rezine) received the EASST Best Software Science Paper award of ETAPS'13 .",
+            "The Predator tool (K. Dudka, P. Muller, P. Peringer, T. Vojnar) won three categories of the SV-COMP'13 competition.",
+            "The paper ANaConDA: A Framework for Analysing Multi-threaded C/C++ Programs on the Binary Level (J. Fiedor, T. Vojnar) received the Best Tool Paper award of RV'12 .",
+            "The Predator tool (K. Dudka, P. Muller, P. Peringer, T. Vojnar) won one of the categories of the SV-COMP'12 competition.",
+            "The paper When Simulation Meets Antichains. On Checking Language Inclusion of NFAs. (P.A. Abdulla, Y.-F. Chen, L. Holik, R. Mayr, T. Vojnar) received the EATCS Best Theory Paper award of ETAPS'10 .",
+            "The paper Composed Bisimulation for Tree Automata (P.A. Abdulla, A. Bouajjani, L. Holik, L. Kaati, T. Vojnar) received the Best Paper award of CIAA'08 ."
+        ],
+        "tool_support": [
+            "The plugins are developed for selected properties such as absence of deadlocks, atomicity of call sequences, or computational complexity and implemented on top of analysers such as Facebook Infer or Frama-C .",
+            "Predator -- a tool for analysing programs with various kinds of dynamic linked lists using symbolic memory graphs.",
+            "2LS -- the analyser is being primarily developed by DiffBlue , but members of the VeriFIT group participates on adding various features into the tool (e.g., analysis of programs with pointers or analysis of non-termination).",
+            "Forester -- a tool for analysing programs with dynamic linked data structures using tree automata.",
+            "CPAlien -- a tool for analysing programs with dynamic linked data structures using symbolic memory graphs in the context of configurable program analysis.",
+            "Code-listener -- an infrastructure for building static analyzers on top of GCC compiler.",
+            "ARTMC -- a tree-automata based tool for verifying programs operating on complex dynamic data structures linked through pointers.",
+            "Perun -- a tool for dynamic performance analysis and automated detection of performance regressions between different version of programs stored in repositories.",
+            "Ranger -- a tool for resource-bounds analysis of heap-manipulating programs based on the Forester and Loopus tools.",
+            "Sloth and Trau -- decision procedures for formulae over strings.",
+            "Gaston -- a decition procedure for the WS1S logic based on-the-fly state-space search (an extension of the dWiNA prototype).",
+            "dWiNA -- a decision procedure for the WS1S logic based on non-deterministic automata as an alternative to the very well-known MONA tool, which is based on using deterministic automata.",
+            "SPEN -- a decision procedure for a fragment of separation logic with inductive predicates over lists using a combination of graph homomorphism checking, SAT solving, and checking membership in languages of tree automata.",
+            "SLIDE -- a decision procedure for a fragment of separation logic with complex inductive predicates based on a reduction to checking inclusion of tree automata languages.",
+            "SearchBestie -- a generic infrastructure for applications of search techniques in the field of program testing.",
+            "ANaConDA -- an environment for dynamic analysis of concurrent C/C++ programs on the binary level",
+            "DA-BMC -- a tool suite for dynamic analysis of concurrent Java programs, recording suspicious executions, and their subsequent reproduction and further examination in the JPF model checker (formerly RecRev ).",
+            "Java Race Detector and Healer -- a tool for a run-time detection and automatic healing of race conditions in concurrent Java programs.",
+            "MUSE -- a tool for model checking using symbolic execution.",
+            "libVATA -- a library for efficient handling of explicitly as well as semi-symbolically encoded non-deterministic tree automata (an older version of the semi-symbolic part of the library used to be available as libSFTA ).",
+            "SA -- a tool for computing simulations over labelled transition systems (LTS) and tree automata (TA).",
+            "Hades -- a tool for detecting various kinds of hazards in single pipelined microprocessors using a combination of various formal methods (dataflow analysis, SAT solving, parameterized model checking).",
+            "CDCreloaded -- a tool for formal verification of asynchronous circuits wit multiple clock domains.",
+            "VHDL2CA -- a tool for compiling parametric VHDL components into counter automata that may be subsequently used for a formal verification of the components for all possible values of the parameters (using existing tools for formal verification over counter automata).",
+            "Zetav & Verif -- tools for verification of systems specified in RT-Logic language or the Modechart formalism."
+        ],
+        "cooperation": [
+            "Department of Information Technology , Uppsala University, Sweden,",
+            "Microsoft Research Redmond , USA,",
+            "IIS , Academia Sinica, Taiwan,",
+            "Department of Computer Science , Oxford University, UK,",
+            "Software Modeling and Verification Group , RWTH Aachen, Germany,",
+            "Institute of Theoretical Computer Science , TU Braunschweig, Germany,",
+            "VERIMAG , University Grenoble Alpes/CNRS, Grenoble, France,",
+            "FORSYTE , Faculty of Informatics, TU Vienna, Vienna, Austria,",
+            "Chair for Foundations of Software Reliability and Theoretical Computer Science , TU Munich, Germany,",
+            "Automatic Reasoning , Faculty of Informatics, TU Keiserslautern, Germany,",
+            "IRIF , University Paris Diderot/CNRS, Paris, France, UK.",
+            "D3S , MFF UK, Prague, Czechia,",
+            "Fakulta informatiky , Masaryk University, Brno, Czechia.",
+            "Red Hat Lab , Red Hat Czech at FIT BUT, Brno, Czechia,",
+            "Honeywell Aerospace and International, Brno, Czechia,",
+            "DiffBlue , Oxford, UK.",
+            "Members of the consortium of the H2020 ECSEL project Arrowhead Tools ,",
+            "Members of the consortium of the H2020 ECSEL project Aquas ."
+        ],
+        "overview": [
+            "VeriFITis a group including researchers and students from FIT BUT interested in research on methods ofautomated analysis and verificationof systems. The interests of the group includeformal analysis and verification(static analysis, abstract interpretation, model checking),dynamic analysis(i.e., analysis at run-time), intelligent testing as well as methods ofself-healingof systems. The group is involved in basic research in the described areas as well as in development and evaluation of prototype verification tools.Older photos of the group:2012,2013,2015.Find the main web-page of the group (so far in Czech only) athttps://verifit.webnode.cz/."
+        ]
+    },
+    "team": {
+        "supervisor": [
+            {
+                "name": "Vojnar Tomas, prof. Ing., Ph.D.",
+                "position": "Supervisor",
+                "notes": [
+                    "Static analysis of programs, focused especially (though not only) on programs with pointers and dynamic data structures, concurrency, or performance analysis.",
+                    "Formal analysis and verification, especially for parametric and infinite-state systems.",
+                    "Dynamic analysis and testing, particularly for concurrent programs.",
+                    "Automata and logics for verification and beyond.",
+                    "See also the research groupVeriFIT."
+                ]
+            }
+        ],
+        "member": [
+            {
+                "name": "Ceska Milan, doc. RNDr., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Fiedor Jan, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Fiedor Tomas, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Havlena Vojtech, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Holik Lukas, doc. Mgr., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Holikova Lenka, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Janku Petr, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Krena Bohuslav, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Lengal Ondrej, doc. Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Malik Viktor, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Matyas Jiri, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Peringer Petr, Dr. Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Rogalewicz Adam, doc. Mgr., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Smrcka Ales, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Sokova Veronika, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Vargovcik Pavol, Ing.",
+                "position": "Member"
+            }
+        ],
+        "ph.d._student": [
+            {
+                "name": "Andriushchenko Roman, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Dacik Tomas, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Hecko Michal, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Hudak David, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Chocholaty David, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Kocourek Tomas, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Kozak David, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Macak Filip, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Pavela Jiri, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Rozsival Michal, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Sic Juraj, Mgr.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Sedy Michal, Ing.",
+                "position": "Ph.D. Student"
+            },
+            {
+                "name": "Smahlikova Barbora, Ing.",
+                "position": "Ph.D. Student"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "Advancing Automated Verification of Low-Level Programs through Separation Logic and Bi-Abduction",
+            "details": "MSMT, AKTION Ceska republika - Rakousko, start: 2026-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2020",
+            "title": "Efficient Finite Automata for Automated Reasoning",
+            "details": "MSMT, ERC CZ, LL1908, start: 2020-01-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Verification and Validation of Automated Systems' Safety and Security",
+            "details": "EU, Horizon 2020, 8A20009, start: 2020-05-01, end: 2023-07-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Arrowhead Tools for Engineering of Digitalisation Solutions",
+            "details": "EU, Horizon 2020, 8A19010, start: 2019-05-01, end: 2022-07-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Automation of Formal Verification",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH04010192, start: 2019-01-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "AQUAS: Aggregated Quality Assurance for Systems",
+            "details": "EU, Horizon 2020, 8A17001, 737475, start: 2017-05-01, end: 2020-04-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "ROBUST - veRificatiOn and Bug hUnting for advanced SofTware",
+            "details": "GACR, Standardni projekty, GA17-12465S, start: 2017-01-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Efficient Automata Techniques for Formal Reasoning",
+            "details": "GACR, Juniorske granty, GJ16-24707Y, start: 2016-01-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Relaxed equivalence checking for approximate computing",
+            "details": "GACR, Standardni projekty, GA16-17538S, start: 2016-01-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Automatic Analysis and Verification of Transactional Memories",
+            "details": "MSMT, COST CZ (2011-2017), LD14001, start: 2014-01-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Automatic Formal Analysis and Verification of Programs with Complex Unbounded Data and Control Structures",
+            "details": "GACR, Standardni projekty, GA14-11384S, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Runtime Verification beyond Monitoring (ARVI)",
+            "details": "EU, European Cooperation in Science and Technology (COST), IC1402, start: 2014-12-17, end: 2018-12-18, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Intelligent Testing and Analysis of Concurrent Software",
+            "details": "MSMT, KONTAKT II (2011-2017), LH13265, start: 2013-04-01, end: 2015-03-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Verification of Infinite State Systems Based on Finite Automata",
+            "details": "GACR, Postdoktorandske granty, GP13-37876P, start: 2013-02-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Transactional Memories: Foundations, Algorithms, Tools, and Applications (Euro-TM)",
+            "details": "MSMT, COST CZ (2011-2017), IC1001, start: 2011-02-10, end: 2015-02-09, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Automata and Logic for Symbolic Verification of Software",
+            "details": "MSMT, KONTAKT, MEB021023, start: 2010-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Static and Dynamic Verification of Programs with Advanced Features of Concurrency and Unboundedness",
+            "details": "GACR, Standardni projekty, GAP103/10/0306, start: 2010-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2009",
+            "title": "Developement of techniques for automatic verification of programs with dynamic data structures",
+            "details": "GACR, Postdoktorandske granty, GP201/09/P531, start: 2009-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Advanced Methods for Automatic Verification of Infinite-state Systems",
+            "details": "MEB 020840, start: 2008-02-20, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Advanced Formal Approaches in the Design and Verification of Computer-Based Systems",
+            "details": "GACR, Standardni projekty, GA102/07/0322, start: 2007-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2006",
+            "title": "Automatic Verification of Programs with Dynanic Data Structures with Pointers",
+            "details": "2-06-27, start: 2006-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Formal verification of programs working with dynamic data strucktures",
+            "details": "FR3101/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Podpora vyuky pro formalni verifikaci hardwaru",
+            "details": "FR2978/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "SHADOWS - A Self-Healing Approach to Designing Complex Software Systems",
+            "details": "start: 2006-06-01, end: 2009-07-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Integrated approach to education of PhD students in the area of parallel and distributed systems",
+            "details": "GACR, Doktorske granty, GD102/05/H050, start: 2005-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Automated methods and tools supporting development of reliable parallel and distributed systems",
+            "details": "GACR, Standardni projekty, GA102/04/0780, start: 2004-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Opticka sit narodniho vyzkumu a jeji nove aplikace",
+            "details": "MSMT, Vyzkumna centra (2000-2004), MSM6383917201, start: 2004-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2003",
+            "title": "Advanced Methods of Automatic Verification of Parametric and Infinite-State Systems",
+            "details": "GACR, Postdoktorandske granty, GP102/03/D211, start: 2003-09-01, end: 2006-09-01, completed"
+        },
+        {
+            "year": "2001",
+            "title": "ADVANCE -- Advanced Validation Techniques for Telecommunication Protocols",
+            "details": "IST-1999-29082, start: 2001-10-01, end: 2004-01-31, completed"
+        },
+        {
+            "year": "2001",
+            "title": "Environment for Development, Modelling, and Application of Heterogeneous Systems",
+            "details": "GACR, Standardni projekty, GA102/01/1485, start: 2001-01-01, end: 2003-12-31, completed"
+        },
+        {
+            "year": "2000",
+            "title": "Modelling, Verifying, and Prototyping Distributed Applications Using Petri Nets",
+            "details": "GACR, Standardni projekty, GA102/00/1017, start: 2000-01-01, end: 2002-12-31, completed"
+        },
+        {
+            "year": "1999",
+            "title": "Temporal Properties of Models Described by Object-Oriented Petri nets",
+            "details": "FR1092/1999/G1, start: 1999-01-01, end: 2000-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Verifying Temporal Properties of Models Based on Object-Oriented Petri Nets",
+            "details": "FEI-98-?, start: 1998-01-01, end: 1998-12-31, completed"
+        },
+        {
+            "year": "1994",
+            "title": "Methodology of Information Systems Development",
+            "details": "GACR, Standardni projekty, GA102/94/1097, start: 1994-01-01, end: 1996-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "details": "ABDULLA, P.; CHEN, Y.; CHEN, Y.; HOLIK, L.; LENGAL, O.; LIN, J.; LO, F.; TSAI, W. Verifying Quantum Circuits with Level-Synchronized Tree Automata. Proceedings of the ACM on Programming Languages-PACMPL, 2025, vol. 9, no. 1, p. 923-953. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "ADAM, R.; KOZAK, D.; VOJNAR, T.; CERNY, T.; GOULIS, G. SAVAT: A Tool for Visualizing the Impact of Changes in Microservices. In Lecture Notes in Computer Science. Springer, 2025. p. 3-11. ISBN: 978-3-032-04402-0. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "ANDRIUSHCHENKO, R.; CESKA, M.; MACAK, F.; FRANCESCO, P.; MICHELE, C. Decentralized Planning Using Probabilistic Hyperproperties. In Proc. of the 24th International Conference on Autonomous Agents and Multiagent Systems. Detroit: 2025. p. 1688-1697. ISBN: 979-8-4007-1426-9. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "ANDRIUSHCHENKO, R.; CESKA, M.; MACAK, F.; JUNGES, S. Policies Grow on Trees: Model Checking Families of MDPs. In Proceeding of 22nd International Symposium on Automated Technology for Verification and Analysis. Cham: Springer Verlag, 2025. p. 51-75. ISBN: 978-3-031-78749-2. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "CHEN, Y.; HAVLENA, V.; HECKO, M.; HOLIK, L.; LENGAL, O. A Uniform Framework for Handling Position Constraints in String Solving. Proceedings of the ACM on Programming Languages-PACMPL, 2025, vol. 9, no. PLDI, p. 550-575. ISSN: 2475-1421. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "CHOCHOLATY, D.; HAVLENA, V.; HOLIK, L.; HRANICKA, J.; LENGAL, O.; SIC, J. Z3-Noodler 1.3: Shepherding Decision Procedures for Strings with Model Generation. Proceedings of TACAS'25. Lecture Notes in Computer Science. Hamilton: Springer Verlag, 2025. no. 1, p. 23-44. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "FIEDOR, T.; PAVELA, J.; ROGALEWICZ, A.; VOJNAR, T. Efficient Manipulation of Control Flow Models in Evolving Software. In Eurocast 2024 -- Computer Aided Systems Theory: Extended Abstracts. Lecture Notes in Computer Science. Las Palmas de Gran Canaria: Springer International Publishing, 2025. p. 412-427. ISBN: 978-3-031-82949-9. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "FLORIAN, S.; ROGALEWICZ, A.; VOJNAR, T.; ZULEGER, F. Compositional Shape Analysis with Shared Abduction and Biabductive Loop Acceleration. In Programming Languages and Systems - 34th European Symposium on Programming, ESOP 2025. Lecture Notes in Computer Science. Springer, 2025. p. 230-257. ISBN: 978-3-031-91121-7. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "HAVLENA, V.; HECKO, M.; HOLIK, L.; LENGAL, O. Negated String Containment is Decidable. Leibniz International Proceedings in Informatics. Dagstuhl: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2025. p. 1-20. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B. Complementation of Emerson-Lei Automata. Proceedings of FoSSaCS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 1, p. 88-110. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "HOLIK, L.; LENGAL, O.; STEPKOVA, A.; MAJOR, J.; STREJCEK, J. On Complementation of Nondeterministic Finite Automata without Full Determinization. 25th International Symposium on Fundamentals of Computation Theory. Lecture Notes in Computer Science. Wroclaw: Springer Verlag, 2025. p. 221-237. ISBN: 978-3-032-04700-7. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "JOBRANOVA, S.; LENGAL, O.; CHEN, Y.; CHEN, T.; JIANG, J. Accelerating Quantum Circuit Simulation with Symbolic Execution and Loop Summarization. In IEEE/ACM International Conference on Computer-Aided Design (ICCAD '24), October 27--31, 2024, New York, NY, USA. New York: Association for Computing Machinery, 2025. p. 1-9. ISBN: 979-8-4007-1077-3. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "KOZAK, D.; STANCU, C.; VOJNAR, T.; WIMMER, C. SkipFlow: Improving the Precision of Points-to Analysis using Primitive Values and Predicate Edges. In Proceedings of the 23rd ACM/IEEE International Symposium on Code Generation and Optimization. New York: Association for Computing Machinery, 2025. p. 347-361. ISBN: 979-8-4007-1275-3. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "LENGAL, O.; CHEN, Y.; LIN, J.; TSAI, W.; HSIEH, M.; HUANG, W.; CHUNG, K. AutoQ 2.0: From Verification of Quantum Circuits to Verification of Quantum Programs. In Proceedings of TACAS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 15698, p. 87-108. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "LENGAL, O.; CHEN, Y.; TSAI, W.; LIN, J.; CHUNG, K.; YEN, D. An Automata-Based Framework for Verification and Bug Hunting in Quantum Circuits. COMMUNICATIONS OF THE ACM, 2025, vol. 68, no. 6, p. 85-93. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "MACAK, F.; ANDRIUSHCHENKO, R.; CESKA, M.; JUNGES, S.; KATOEN, J. An Oracle-Guided Approach to Constrained Policy Synthesis Under Uncertainty. The journal of artificial intelligence research, 2025, vol. 2025, no. 82, p. 433-469. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "SEDY, M.; HOLIK, L. Automata Size Reduction by Procedure Finding. In Proceedings of NFM'25. Lecture Notes in Computer Science. Williamsburg: Springer Nature Switzerland AG, 2025. no. 15682, p. 421-440. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "VASICEK, O.; ARIAS, J.; FIEDOR, J.; GUPTA, G.; HALL, B.; KRENA, B.; LARSON, B.; VOJNAR, T. On Zeno-like Behaviors in the Event Calculus with Goal-directed Answer Set Programming. In Proceedings 41st International Conference on Logic Programming. Electronic Proceedings in Theoretical Computer Science, EPTCS. EPTCS, 2025. p. 496-510. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "CESKA, M.; ANDRIUSHCHENKO, R.; ARND, H.; JUNGES, S.; KRETINSKY, J. Tools at the Frontiers of Quantitative Verification: QComp 2023 Competition Report. In International TOOLympics Challenge. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2024. p. 90-146. ISBN: 978-3-031-67694-9. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "CHEN, Y.; CHOCHOLATY, D.; HAVLENA, V.; HOLIK, L.; LENGAL, O.; SIC, J. Z3-Noodler: An Automata-based String Solver. In Proceedings of TACAS'24. Lecture Notes in Computer Science. Luxembourgh: Springer Verlag, 2024. no. 14570, p. 24-33. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "DACIK, T.; ROGALEWICZ, A.; VOJNAR, T.; ZULEGER, F. Deciding Boolean Separation Logic via Small Models. In Tools and Algorithms for the Construction and Analysis of Systems (TACAS). Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2024. p. 188-206. ISBN: 978-3-031-57245-6. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HAVLENA, V.; HECKO, M.; HOLIK, L.; LENGAL, O.; HABERMEHL, P. Algebraic Reasoning Meets Automata in Solving Linear Integer Arithmetic. Proceedings of CAV'24. Lecture Notes in Computer Science. Montreal: Springer Verlag, 2024. no. 14681, p. 42-67. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HAVLENA, V.; HOLIK, L.; LENGAL, O.; SIC, J. Cooking String-Integer Conversions with Noodles. Proceedings of SAT'24. Leibniz International Proceedings in Informatics. Leibniz International Proceedings in Informatics (LIPIcs). Pune: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2024. no. 305, p. 1-19. ISSN: 1868-8969. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HELFRICH, M.; ANDRIUSHCHENKO, R.; CESKA, M.; KRETINSKY, J.; MARTICEK, S.; SAFRANEK, D. Abstraction-based segmental simulation of reaction networks using adaptive memoization. BMC BIOINFORMATICS, 2024, vol. 25, no. 1, p. 1-24. ISSN: 1471-2105. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HOLIK, L.; CHOCHOLATY, D.; FIEDOR, T.; HAVLENA, V.; HRUSKA, M.; LENGAL, O.; SIC, J. Mata: A Fast and Simple Finite Automata Library. In Proceedings of TACAS'24. Lecture Notes in Computer Science. Luxembourgh: Springer Verlag, 2024. no. 14571, p. 130-151. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "KOZAK, D.; CERNY, T.; ABDELFATTAH, A.; BLANCHARD, A.; HALE, J.; HUTCHESON, R.; LAMBARIA, N. Software Architecture Reconstruction for Microservice Systems using Static Analysis via GraalVM Native Image. In 2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER). Los Alamitos: Institute of Electrical and Electronics Engineers, 2024. p. 12-22. ISBN: 979-8-3503-3066-3. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "MALIK, V.; VOJNAR, T.; SCHRAMMEL, P. Template-Based Verification of Array-Manipulating Programs. In Taming the Infinities of Concurrency. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2024. p. 206-224. ISBN: 978-3-031-56221-1. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "VASICEK, O.; ARIAS, J.; FIEDOR, J.; GUPTA, G.; HALL, B.; KRENA, B.; LARSON, B.; VARANASI, S.; VOJNAR, T. Early Validation of High-Level System Requirements with Event Calculus and Answer Set Programming. THEORY AND PRACTICE OF LOGIC PROGRAMMING, 2024, vol. 24, no. 4, p. 844-862. ISSN: 1475-3081. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "WIMMER, C.; STANCU, C.; KOZAK, D.; WUERTHINGER, T. Scaling Type-Based Points-to Analysis with Saturation. Proceedings of the ACM on Programming Languages-PACMPL, 2024, vol. 8, no. PLDI, p. 990-1013. ISSN: 2475-1421. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "ANDRIUSHCHENKO, R.; ALEXANDER, B.; CESKA, M.; JUNGES, S.; KATOEN, J.; MACAK, F. Search and Explore: Symbiotic Policy Synthesis in POMDPs. In Computer Aided Verification. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Cham: Springer Verlag, 2023. p. 113-135. ISBN: 978-3-031-37708-2. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "ANDRIUSHCHENKO, R.; BARTOCCI, E.; CESKA, M.; FRANCESCO, P.; SARAH, S. Deductive Controller Synthesis for Probabilistic Hyperproperties. In Quantitative Evaluation of SysTems. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Cham: Springer Verlag, 2023. p. 288-306. ISBN: 978-3-031-43834-9. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "CHEN, Y.; CHOCHOLATY, D.; HAVLENA, V.; HOLIK, L.; LENGAL, O.; SIC, J. Solving String Constraints with Lengths by Stabilization. Proceedings of the ACM on Programming Languages-PACMPL, 2023, vol. 7, no. 10, p. 2112-2141. ISSN: 2475-1421. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "FIEDOR, J.; KRENA, B.; SMRCKA, A.; VASICEK, O.; VOJNAR, T. Integrating OSLC Services into Eclipse. In Computer Aided Systems Theory - EUROCAST 2022. Lecture Notes in Computer Science. Las Palmas de Gran Canaria: Springer International Publishing, 2023. p. 240-249. ISBN: 978-3-031-25311-9. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HARMIM, D.; MARCIN, V.; SVOBODOVA, L.; VOJNAR, T. Static Deadlock Detection in Low-Level C Code. In International Conference on Computer Aided Systems Theory (EUROCAST'22). Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2023. p. 267-276. ISBN: 978-3-031-25311-9. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HAVLENA, V.; CHOCHOLATY, D.; LENGAL, O.; HOLIK, L.; SIC, J.; BLAHOUDEK, F.; CHEN, Y. Word Equations in Synergy with Regular Constraints. In Proceedings of FM'23. Lecture Notes in Computer Science. Lubeck: Springer Verlag, 2023. no. 14000, p. 403-423. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HAVLENA, V.; LENGAL, O.; CHEN, Y.; TURRINI, A. A symbolic algorithm for the case-split rule in solving word constraints with extensions. JOURNAL OF SYSTEMS AND SOFTWARE, 2023, vol. 201, no. 201, p. 111673-111693. ISSN: 0164-1212. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HAVLENA, V.; MATOUSEK, P.; RYSAVY, O.; HOLIK, L. Accurate Automata-Based Detection of Cyber Threats in Smart Grid Communication. IEEE Transactions on Smart Grid, 2023, vol. 2023, no. 14, p. 2352-2366. ISSN: 1949-3053. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HAVLENA, V.; SMAHLIKOVA, B.; LENGAL, O.; LI, Y.; TURRINI, A. Modular Mix-and-Match Complementation of Buchi Automata. In Proceedings of TACAS'23. Lecture Notes in Computer Science. Paris: Springer Verlag, 2023. no. 13993, p. 249-270. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HOLIK, L.; HOLIKOVA, L.; SIC, J.; VOJNAR, T. Fast Matching of Regular Patterns with Synchronizing Counting. In Foundations of Software Science and Computation Structures. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2023. no. 1, p. 392-412. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HOLIK, L.; HRUSKA, M.; SIC, J.; VARGOVCIK, P.; FIEDOR, T.; ROGALEWICZ, A. Reasoning about Regular Properties: A Comparative Study. In Automated Deduction - CADE 29. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2023. no. 14132, p. 286-306. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "KOZAK, D.; JOVANOVIC, V.; STANCU, C.; VOJNAR, T.; WIMMER, C. Comparing Rapid Type Analysis with Points-To Analysis in GraalVM Native Image. In Proceedings of the 20th ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes. New York: Association for Computing Machinery, 2023. p. 129-142. ISBN: 979-8-4007-0380-5. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "LENGAL, O.; CHEN, Y.; TSAI, W.; CHUNG, K.; LIN, J. AutoQ: An Automata-based Quantum Circuit Verifier. In Proceedings of 35th International Conference on Computer Aided Verification. Lecture Notes in Computer Science. Cham: Springer Verlag, 2023. no. 13966, p. 139-153. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "LENGAL, O.; CHEN, Y.; TSAI, W.; LIN, J.; CHUNG, K.; YEN, D. An Automata-Based Framework for Verification and Bug Hunting in Quantum Circuits. Proceedings of the ACM on Programming Languages-PACMPL, 2023, vol. 7, no. 6, p. 1218-1243. ISSN: 2475-1421. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "SMRCKA, A.; ROZSIVAL, M. NetLoiter: A Tool for Automated Testing of Network Applications using Fault-injection. In Proceedings - 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops Volume, DSN-W 2023. Porto: Institute of Electrical and Electronics Engineers, 2023. p. 207-210. ISBN: 979-8-3503-2543-0. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "SMRCKA, A.; SANGCHOOLIE, B.; EMANUELE, M.; VARA, J.; FARRELL, M.; BARBOSA, R.; BAGLUM, C.; YAYAN, U.; ERGUN, S.; KANAK, A. Towards an extensive set of criteria for safety and cyber-security evaluation of cyber-physical systems. Open Research Europe, 2023, vol. 3, no. 219, p. 1-21. ISSN: 2732-5121. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "ANDRIUSHCHENKO, R.; CESKA, M.; JUNGES, S.; KATOEN, J. Inductive Synthesis of Finite-State Controllers for POMDPs. In Conference on Uncertainty in Artificial Intelligence. Proceedings of Machine Learning Research. Proceedings of Machine Learning Research. Eindhoven: Proceedings of Machine Learning Research, 2022. no. 180, p. 85-95. ISSN: 2640-3498. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "ANDRIUSHCHENKO, R.; CESKA, M.; MARCIN, V.; VOJNAR, T. GPU-Accelerated Synthesis of Probabilistic Programs. In International Conference on Computer Aided Systems Theory (EUROCAST'22). Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2022. p. 256-266. ISBN: 978-3-031-25312-6. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "BAUER, T.; AGIRRE, J.; FURCHO, D.; HERZNER, W.; HRUSKA, B.; KARACA, M.; PEREIRA, D.; PROENCA, J.; SCHLICK, R.; SICHER, R.; SMRCKA, A.; YAYAN, U.; SANGCHOOLIE, B. Cross-domain Modelling of Verification and Validation Workflows in the Large Scale European Research Project VALU3S Invited Paper. In Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Lecture Notes in Computer Science. Lecture Notes in Computer Science. Cham: 2022. p. 368-382. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; SEKANINA, L.; VASICEK, Z.; VOJNAR, T. SagTree: Towards Efficient Mutation in Evolutionary Circuit Approximation. Swarm and Evolutionary Computation, 2022, vol. 69, no. 100986, p. 1-10. ISSN: 2210-6502. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VOJNAR, T. Designing Approximate Arithmetic Circuits with Combined Error Constraints. In Proceeding of 25th Euromicro Conference on Digital System Design 2022 (DSD'22). Gran Canaria: Institute of Electrical and Electronics Engineers, 2022. p. 785-792. ISBN: 978-1-6654-7404-7. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "CHARVAT, L.; SMRCKA, A.; VOJNAR, T. Utilizing parametric systems for detection of pipeline hazards. International Journal on Software Tools for Technology Transfer, 2022, vol. 2020, no. 1, p. 1-28. ISSN: 1433-2779. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "FIEDOR, T.; PAVELA, J.; ROGALEWICZ, A.; VOJNAR, T. Perun: Performance Version System. In Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022). Limassol: Institute of Electrical and Electronics Engineers, 2022. p. 499-503. ISBN: 978-1-6654-7956-1. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B. Complementing Buchi Automata with Ranker. In Proceedings of the 34th International Conference on Computer Aided Verification. Lecture Notes in Computer Science. Haifa: Springer Verlag, 2022. no. 13372, p. 188-201. ISBN: 978-3-031-13187-5. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B. Sky Is Not the Limit: Tighter Rank Bounds for Elevator Automata in Buchi Automata Complementation. In Proceedings of TACAS'22. Lecture Notes in Computer Science. Munich: Springer Verlag, 2022. no. 13244, p. 118-136. ISBN: 978-3-030-99526-3. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HELFRICH, M.; CESKA, M.; KRETINSKY, J.; MARTICEK, S. Abstraction-Based Segmental Simulation of Chemical Reaction Networks. In International Conference on Computational Methods in Systems Biology. Lecture Notes in Bioinformatics. Bucharest: Springer Verlag, 2022. p. 41-60. ISBN: 978-3-031-15033-3. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HOLIK, L.; PERINGER, P.; ROGALEWICZ, A.; SOKOVA, V.; VOJNAR, T.; ZULEGER, F. Low-Level Bi-Abduction. In 36th European Conference on Object-Oriented Programming (ECOOP 2022). Leibniz International Proceedings in Informatics. Leibniz International Proceedings in Informatics. Wadern: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2022. no. 222, p. 1-30. ISBN: 978-3-95977-225-9. ISSN: 1868-8969. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HOLIKOVA, L.; HOLIK, L.; HOMOLIAK, I.; LENGAL, O.; VEANES, M.; VOJNAR, T. Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers. In Proceedings of the 31st USENIX Security Symposium. Boston, MA: USENIX, 2022. p. 4165-4182. ISBN: 978-1-939133-31-1. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "SIC, J.; GE-ERNST, A.; SCHOLL, C.; WIMMER, R. Solving dependency quantified Boolean formulas using quantifier localization. Theoretical Computer Science, 2022, vol. 2022, no. 925, p. 1-24. ISSN: 0304-3975. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "SILLING, P.; MALIK, V.; VOJNAR, T. Applying Custom Patterns in Semantic Equality Analysis. In Networked Systems. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2022. p. 265-282. ISBN: 978-3-031-17436-0. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "VASICEK, O.; FIEDOR, J.; KRATOCHVILA, T.; KRENA, B.; SMRCKA, A.; VOJNAR, T. Unite: An Adapter for Transforming Analysis Tools to Web Services via OSLC. In ESEC/FSE 2022: Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering. Singapore: Association for Computing Machinery, 2022. p. 1408-1418. ISBN: 978-1-4503-9413-0. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "ANDRIUSHCHENKO, R.; CESKA, M.; ABATE, A.; KWIATKOWSKA, M. Adaptive formal approximations of Markov chains. PERFORMANCE EVALUATION, 2021, vol. 148, no. 102207, p. 1-23. ISSN: 0166-5316. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "ANDRIUSHCHENKO, R.; CESKA, M.; JUNGES, S.; KATOEN, J. Inductive Synthesis for Probabilistic Programs Reaches New Horizons. In International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS). Lecture Notes in Computer Science. Cham: Springer International Publishing, 2021. p. 191-209. ISBN: 978-3-030-72015-5. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "ANDRIUSHCHENKO, R.; CESKA, M.; STUPINSKY, S.; JUNGES, S.; KATOEN, J. PAYNT: A Tool for Inductive Synthesis of Probabilistic Programs. In International Conference on Computer Aided Verification (CAV). Lecture Notes in Computer Science. Cham: Springer Verlag, 2021. p. 856-869. ISBN: 978-3-030-81684-1. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "CESKA, M.; JUNGES, S.; KATOEN, J.; HENSE, C. Counterexample-guided inductive synthesis for probabilistic systems. FORMAL ASPECTS OF COMPUTING, 2021, vol. 33, no. 4, p. 637-667. ISSN: 0934-5043. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "CHALUPA, M.; JASEK, T.; RECHTACKOVA, A.; STREJCEK, J.; SOKOVA, V.; NOVAK, J. Symbiotic 8: Beyond Symbolic Execution. In Proceedings of TACAS 2021 (2). Lecture Notes in Computer Science. Cham: Springer International Publishing, 2021. p. 453-457. ISBN: 978-3-030-72012-4. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "HAVLENA, V.; HOLIK, L.; LENGAL, O.; VOJNAR, T. Automata Terms in a Lazy WSkS Decision Procedure. JOURNAL OF AUTOMATED REASONING, 2021, vol. 65, no. 7, p. 971-999. ISSN: 0168-7433. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "HAVLENA, V.; LENGAL, O. Reducing (to) the Ranks: Efficient Rank-based Buchi Automata Complementation. In 32nd International Conference on Concurrency Theory (CONCUR 2021). Leibniz International Proceedings in Informatics. Paris: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2021. no. 8, p. 1-19. ISSN: 1868-8969. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "HOLIK, L.; ABDULLA, P.; ATIG, M.; BUI PHI, D.; CHEN, Y.; WU, Z. Solving Not-Substring Constraint with Flat Abstraction. In Programming Languages and Systems - 19th Asian Symposium, APLAS 2021, Chicago, IL, USA, October 17-18, 2021, Proceedings. 13008. Berlin: Springer International Publishing, 2021. p. 305-320. ISBN: 978-3-030-89051-3. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "HOLIK, L.; HRUSKA, M. Towards Efficient Shape Analysis with Tree Automata. In Proceedings International Conference on Networked Systems. Lecture Notes in Computer Science. Lecture notes in Computer Science. Cham: Springer Verlag, 2021. no. 12754, p. 206-214. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "HOLIK, L.; VARGOVCIK, P. Simplifying Alternating Automata for Emptiness Testing. In Programming Languages and Systems - 19th Asian Symposium, APLAS 2021, Chicago, IL, USA, October 17-18, 2021, Proceedings. Cham: Springer International Publishing, 2021. p. 243-264. ISBN: 978-3-030-89051-3. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MALIK, V.; VOJNAR, T. Automatically Checking Semantic Equivalence between Versions of Large-Scale C Projects. In 2021 14th IEEE Conference on Software Testing, Verification and Validation (ICST). Porto de Galinhas: Institute of Electrical and Electronics Engineers, 2021. p. 329-339. ISBN: 978-1-7281-6837-1. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MATOUSEK, P.; HAVLENA, V.; HOLIK, L. Efficient Modelling of ICS Communication For Anomaly Detection Using Probabilistic Automata. In Proceedings of IFIP/IEEE International Symposium on Integrated Network Management. Bordeaux: International Federation for Information Processing, 2021. p. 81-89. ISBN: 978-3-903176-32-4. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "PEREIRA, D.; SANGCHOOLIE, B.; SMRCKA, A.; BARBOSA, R.; ESNAOLA, M.; GIANTAMIDIS, G.; SCHLICK, R.; YAZICI, A. The VALU3S ECSEL project: Verification and validation of automated systems safety and security. Microprocessors and Microsystems, 2021, vol. 87, no. 104349, p. 1-18. ISSN: 0141-9331. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "SIC, J.; STREJCEK, J. DQBDD: An Efficient BDD-Based DQBF Solver. In Proc. of the 24th International Conference on Theory and Applications of Satisfiability Testing. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2021. no. 12831, p. 535-544. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "SLAPAL, J. A convenient graph connectedness for digital imagery. In High Performance Computing in Science and Engineering 2019. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2021. no. 12456, p. 150-162. ISBN: 978-3-030-67076-4. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "SMAHLIKOVA, B.; HAVLENA, V.; LENGAL, O. Deciding S1S: Down the Rabbit Hole and Through the Looking Glass. In Proceedings of NETYS'21. Lecture Notes in Computer Science. Lecture notes in Computer Science. Cham: Springer Verlag, 2021. no. 12754, p. 215-222. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "CESKA, M.; CHAU, C.; KRETINSKY, J. SeQuaiA: A Scalable Tool for Semi-Quantitative Analysis of Chemical Reaction Networks. In International Conference on Computer Aided Verification. Lecture Notes in Computer Science. Cham: Springer Verlag, 2020. p. 653-666. ISBN: 978-3-030-53287-1. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "CESKA, M.; HAVLENA, V.; HOLIK, L.; LENGAL, O.; VOJNAR, T. Approximate Reduction of Finite Automata for High-Speed Network Intrusion Detection. International Journal on Software Tools for Technology Transfer, 2020, vol. 22, no. 5, p. 523-539. ISSN: 1433-2779. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; SEKANINA, L.; VASICEK, Z.; VOJNAR, T. Adaptive verifiability-driven strategy for evolutionary approximation of arithmetic circuits. APPLIED SOFT COMPUTING, 2020, vol. 95, no. 106466, p. 1-17. ISSN: 1568-4946. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VOJNAR, T. Satisfiability Solving Meets Evolutionary Optimisation in Designing Approximate Circuits. In Theory and Applications of Satisfiability Testing - SAT 2020. Lecture Notes in Computer Science. Alghero: Springer International Publishing, 2020. p. 481-491. ISBN: 978-3-030-51824-0. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HAVLENA, V.; HOLIK, L.; LENGAL, O.; VALES, O.; VOJNAR, T. Antiprenexing for WSkS: A Little Goes a Long Way. In EPiC Series in Computing. EPiC series in computing. Proceedings of LPAR-23. Manchester: EasyChair, 2020. no. 73, p. 298-316. ISSN: 2398-7340. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HAVLENA, V.; LENGAL, O.; CHEN, Y.; TURRINI, A. A Symbolic Algorithm for the Case-Split Rule in String Constraint Solving. In Proceedings of APLAS'20. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2020. no. 12470, p. 343-363. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HOLIK, L.; JANKU, P.; BUI PHI, D.; CHEN, Y.; LIN, H.; WU, W.; ABDULLA, P.; ATIG, M. Efficient handling of string-number conversion. In Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation. Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI). New York: Association for Computing Machinery, 2020. p. 943-957. ISBN: 978-1-4503-7613-6. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HOLIK, L.; ROGALEWICZ, A.; VOJNAR, T.; IOSIF, R. Abstraction Refinement and Antichains for Trace Inclusion of Infinite State Systems. FORMAL METHODS IN SYSTEM DESIGN, 2020, vol. 55, no. 3, p. 137-170. ISSN: 0925-9856. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HOLIKOVA, L.; HOLIK, L.; LENGAL, O.; SAARIKIVI, O.; VEANES, M.; VOJNAR, T. Regex Matching with Counting-Set Automata. Proceedings of the ACM on Programming Languages-PACMPL, 2020, vol. 4, no. 11, p. 1-30. ISSN: 2475-1421. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HRUSKA, M.; CHALUPA, M.; JASEK, T.; STREJCEK, J.; SOKOVA, V.; VOJNAR, T.; AYAZIOVA, P.; TOMOVIC, L. Symbiotic 7: Integration of Predator and More (Competition Contribution). In Proceedings of TACAS 2020 (2). Lecture Notes in Computer Science. Cham: Springer International Publishing, 2020. p. 413-417. ISBN: 978-3-030-45236-0. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HUM, Q.; TAN, W.; TEY, S.; LENUS, L.; HOMOLIAK, I.; LIN, Y.; SUN, J. CoinWatch: A Clone-Based Approach for Detecting Vulnerabilities in Cryptocurrencies. In 3rd IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN (BLOCKCHAIN 2020). Rhodos: Institute of Electrical and Electronics Engineers, 2020. p. 17-25. ISBN: 978-0-7381-0495-9. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "MATOUSEK, P.; RYSAVY, O.; HAVLENA, V.; GREGR, M. Flow based monitoring of ICS communication in the smart grid. Journal of Information Security and Applications, 2020, vol. 2020, no. 54, p. 102535-102535. ISSN: 2214-2126. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "MATYAS, J.; PANKUCH, A.; VOJNAR, T.; CESKA, M.; CESKA, M. Approximating Complex Arithmetic Circuits with Guaranteed Worst-Case Relative Error. In International Conference on Computer Aided Systems Theory (EUROCAST'19). Lecture Notes in Computer Science. Cham: Springer Verlag, 2020. p. 482-490. ISBN: 978-3-030-45092-2. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "SANGCHOOLIE, B.; BECKER, H.; KANAK, A.; POMANTE, L.; SCHLICK, R.; SMRCKA, A.; BARBOSA, R.; ESNAOLA, M.; FERRARI, E.; GIANTAMIDIS, G.; PEREIRA, D.; YAZICI, A.; FOLKESSON, P. The VALU3S ECSEL Project: Verification and Validation of Automated Systems Safety and Security. In 2020 23rd Euromicro Conference on Digital System Design (DSD 2020). Krajn: Institute of Electrical and Electronics Engineers, 2020. p. 352-359. ISBN: 978-1-7281-9535-3. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "SLAPAL, J. A 3D digital Jordan-Brouwer separation theorem. COMPUTATIONAL & APPLIED MATHEMATICS, 2020, vol. 39, no. 11, p. 1-10. ISSN: 1807-0302. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "SLAPAL, J. A closure operator for the digital plane. Filomat, 2020, vol. 34, no. 10, p. 3229-3237. ISSN: 0354-5180. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "SOKOVA, V.; PERINGER, P.; VOJNAR, T. PredatorHP Revamped (Not Only) for Interval-Sized Memory Regions and Memory Reallocation (Competition Contribution). In Proceedings of TACAS 2020 (2). Lecture Notes in Computer Science. Cham: Springer International Publishing, 2020. p. 408-412. ISBN: 978-3-030-45236-0. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "ABDULLA, P.; ATIG, M.; BUI PHI, D.; HOLIK, L.; JANKU, P. Chain-Free String Constraints. In Proceedings of ATVA'19. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2019. p. 277-293. ISBN: 978-3-030-31783-6. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "ABDULLA, P.; ATIG, M.; CHEN, Y.; BUI PHI, D.; HOLIK, L.; REZINE, A.; RUMMER, P. Trau : SMT solver for string constraints. In Proceedings of the 18th Conference on Formal Methods in Computer-Aided Design. Austin: FMCAD Inc., 2019. p. 165-169. ISBN: 978-0-9835678-8-2. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "CESKA, M.; HENSE, C.; JANSEN, N.; JUNGES, S.; KATOEN, J. Model Repair Revamped - On the Automated Synthesis of Markov Chains -. In From Reactive Systems to Cyber-Physical Systems. Lecture Notes of Computer Science. Cham: Springer International Publishing, 2019. p. 107-125. ISBN: 978-3-030-31513-9. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "CESKA, M.; HENSE, C.; JUNGES, S.; KATOEN, J. Counterexample-Driven Synthesis for Probabilistic Program Sketches. In Proceedings of the 23rd International Symposium on Formal Methods. Lecture Notes of Computer Science. Porto: Springer International Publishing, 2019. p. 101-120. ISBN: 978-3-030-30941-1. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "CESKA, M.; JANSEN, N.; JUNGES, S.; KATOEN, J. Shepherding Hordes of Markov Chains. In Proceedings of 25th International Conference on Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Praha: Springer International Publishing, 2019. p. 172-190. ISBN: 978-3-030-17464-4. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "CESKA, M.; KRETINSKY, J. Semi-quantitative Abstraction and Analysis of Chemical Reaction Networks (Extended Abstract). In Proceedings of the 17th International Conference on Computational Methods in Systems Biology. Lecture Notes in Bioinformatics. Trieste: Springer International Publishing, 2019. p. 337-341. ISBN: 978-3-030-31303-6. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "CESKA, M.; KRETINSKY, J. Semi-Quantitative Abstraction and Analysis of Chemical Reaction Networks. In Proceedings of the 31th International Conference on Computer Aided Verification (CAV'19). Lecture Notes of Computer Science. New York: Springer International Publishing, 2019. p. 475-496. ISBN: 978-3-030-25540-4. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "CHEN, Y.; CHIANG, C.; HOLIK, L.; KAO, W.; LIN, H.; VOJNAR, T.; WEN, Y.; WU, W. J-ReCoVer: Java Reducer Commutativity Verifier. In Proceedings of 17th Asian Symposium on Programming Languages and Systems (APLAS). Lecture Notes in Computer Science. Cham: Springer International Publishing, 2019. p. 357-366. ISBN: 978-3-030-34174-9. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "CHEN, Y.; HAVLENA, V.; LENGAL, O. Simulations in Rank-Based Buchi Automata Complementation. In Proceedings of 17th Asian Symposium on Programming Languages and Systems (APLAS). Lecture Notes in Computer Science. Nusa Dua: Springer International Publishing, 2019. no. 11893, p. 447-467. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "FIEDOR, T.; HOLIK, L.; LENGAL, O.; VOJNAR, T. Nested Antichains for WS1S. ACTA INFORMATICA, 2019, vol. 56, no. 3, p. 205-228. ISSN: 0001-5903. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HAVLENA, V.; CESKA, M.; HOLIK, L.; KORENEK, J.; LENGAL, O.; MATOUSEK, D.; MATOUSEK, J.; SEMRIC, J.; VOJNAR, T. Deep Packet Inspection in FPGAs via Approximate Nondeterministic Automata. In Proceedings - 27th IEEE International Symposium on Field-Programmable Custom Computing Machines, FCCM 2019. San Diego, CA: Institute of Electrical and Electronics Engineers, 2019. p. 109-117. ISBN: 978-1-7281-1131-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HAVLENA, V.; HOLIK, L.; LENGAL, O.; VOJNAR, T. Automata Terms in a Lazy WSkS Decision Procedure. In Proceedings of 27th International Conference on Automated Deduction (CADE-27). Lecture Notes in Computer Science. Natal: Springer Verlag, 2019. no. 11716, p. 300-318. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HOLIK, L.; HOLIKOVA, L.; LENGAL, O.; VOJNAR, T.; SAARIKIVI, O.; VEANES, M. Succinct Determinisation of Counting Automata via Sphere Construction. In In Proc. of 17th Asian Symposium on Programming Languages and Systems - APLAS'19. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2019. no. 11893, p. 468-489. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HOLIKOVA, L.; JANKU, P. Solving String Constraints with Approximate Parikh Image. In Proceedings of EUROCAST'19. Lecture Notes in Computer Science. Heidelberg: Springer International Publishing, 2019. p. 1-8. ISBN: 978-3-030-45092-2. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "POMANTE, L.; MUTTILLO, V.; KRENA, B.; VOJNAR, T.; VELJKOVIC, F.; MAGNIN, P.; MATSCHNIG, M.; FISCHER, B.; MARTINEZ, J.; GRUBER, T. The AQUAS ECSEL Project Aggregated Quality Assurance for Systems: Co-Engineering Inside and Across the Product Life Cycle. Microprocessors and Microsystems, 2019, vol. 2019, no. 69, p. 54-67. ISSN: 0141-9331. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "SLAPAL, J. Path-induced closure operators on graphs for defining digital Jordan surfaces. Open Mathematics, 2019, vol. 17, no. 1, p. 1374-1380. ISSN: 2391-5455. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CALINESCU, R.; CESKA, M.; GERASIMOU, S.; KWIATKOWSKA, M.; PAOLETTI, N. Efficient Synthesis of Robust Models for Stochastic Systems. JOURNAL OF SYSTEMS AND SOFTWARE, 2018, vol. 2018, no. 143, p. 140-158. ISSN: 0164-1212. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CESKA, M.; HAVLENA, V.; HOLIK, L.; LENGAL, O.; VOJNAR, T. Approximate Reduction of Finite Automata for High-Speed Network Intrusion Detection. In Proceedings of TACAS'18. Lecture Notes in Computer Science. Thessaloniki: Springer Verlag, 2018. no. 2, p. 155-175. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VASICEK, Z.; SEKANINA, L.; VOJNAR, T. ADAC: Automated Design of Approximate Circuits. In Proceedings of 30th International Conference on Computer Aided Verification (CAV'18). Oxford, UK: Springer International Publishing, 2018. p. 612-620. ISBN: 978-3-319-96145-3. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "FIEDOR, J.; MUZIKOVSKA, M.; SMRCKA, A.; VASICEK, O.; VOJNAR, T. Advances in the ANaConDA Framework for Dynamic Analysis and Testing of Concurrent C/C++ Programs. In Proceedings of 27th ACM SIGSOFT International Symposium on Software Testing and Analysis. New York: Association for Computing Machinery, 2018. p. 356-359. ISBN: 978-1-4503-5699-2. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "FIEDOR, T.; HOLIK, L.; ROGALEWICZ, A.; VOJNAR, T.; SINN, M.; ZULEGER, F. From Shapes to Amortized Complexity. In Proceedings of VMCAI'18. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2018. no. 10747, p. 205-225. ISBN: 978-3-319-73720-1. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "HOLGATE, D.; SLAPAL, J. Closure, interior and neighbourhood in a category. HACETTEPE JOURNAL OF MATHEMATICS AND STATISTICS, 2018, vol. 47, no. 6, p. 1512-1520. ISSN: 1303-5010. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "HOLIK, L.; JANKU, P.; VOJNAR, T.; LIN, A.; RUMMER, P. String constraints with concatenation and transducers solved efficiently. Proceedings of the ACM on Programming Languages-PACMPL, 2018, vol. 2, no. 2, p. 96-127. ISSN: 2475-1421. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "HOLIK, L.; LENGAL, O.; SIC, J.; VOJNAR, T.; VEANES, M. Simulation Algorithms for Symbolic Automata. In Proc. of 16th International Symposium on Automated Technology for Verification and Analysis. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2018. no. 1, p. 109-125. ISBN: 978-3-030-01089-8. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "HRUSKA, M.; MALIK, V.; SCHRAMMEL, P.; VOJNAR, T. Template-Based Verification of Heap-Manipulating Programs. In Proceedings of the 18th Conference on Formal Methods in Computer-Aided Design. Austin: FMCAD Inc., 2018. p. 103-111. ISBN: 978-0-9835678-8-2. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KRENA, B.; SIMKOVA, H.; UR, S.; VOJNAR, T. Prediction of Coverage of Expensive Concurrency Metrics Using Cheaper Metrics. In Computer Aided Systems Theory - EUROCAST 2017. 16th International Conference, Las Palmas de Gran Canaria, Spain, February 19-24, 2017, Revised Selected Papers, Part II. Las Palmas: Springer International Publishing, 2018. p. 99-108. ISBN: 978-3-319-74726-2. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "LENGAL, O.; HEIZMANN, M.; CHEN, Y.; LI, Y.; TSAI, M.; TURRINI, A.; ZHANG, L. Advanced Automata-based Algorithms for Program Termination Checking. In Proceedings of PLDI'18. Philadelphia: Association for Computing Machinery, 2018. p. 135-150. ISBN: 978-1-4503-5698-5. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "LOURENCO, J.; FIEDOR, J.; KRENA, B.; VOJNAR, T. Discovering Concurrency Errors. In Lectures on Runtime Verification: Introductory and Advanced Topics. Lecture Notes in Computer Science, vol 10457. Cham: Springer International Publishing, 2018. p. 34-60. ISBN: 978-3-319-75632-5. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "MALIK, V.; MARTICEK, S.; SCHRAMMEL, P.; VOJNAR, T.; SRIVAS, M.; WAHLANG, J. 2LS: Memory Safety and Non-termination (Competition Contribution). In Proceedings of the 24th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, part 2. Lecture Notes in Computer Science. Thessaloniki: Springer International Publishing, 2018. p. 417-421. ISBN: 978-3-319-89962-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SLAPAL, J. Categorical aspects of inducing closure operators on graphs by sets of walks. JOURNAL OF COMPUTER AND SYSTEM SCIENCES, 2018, vol. 2018, no. 95, p. 143-150. ISSN: 0022-0000. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SLAPAL, J. Closure operators on graphs for modeling connectedness in digital spaces. Filomat, 2018, vol. 32, no. 14, p. 5011-5021. ISSN: 0354-5180. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SLAPAL, J. Galois connections between sets of paths and closure operators in simple graphs. Open Mathematics, 2018, vol. 16, no. 1, p. 1573-1581. ISSN: 2391-5455. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "SLAPAL, J. Relation-induced connectedness in the digital plane. Aequationes Mathematicae, 2018, vol. 2018, no. 95, p. 75-90. ISSN: 0001-9054. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "VOJNAR, T.; POMANTE, L.; KRENA, B.; VELJKOVIC, F.; MAGNIN, P. The AQUAS ECSEL Project. In Proceedings of 21st Euromicro Conference on Digital System Design (DSD 2018). Praha: Institute of Electrical and Electronics Engineers, 2018. p. 592-599. ISBN: 978-1-5386-7376-8. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "CESKA, M.; CALINESCU, R.; GERASIMOU, S.; KWIATKOWSKA, M.; PAOLETTI, N. Designing Robust Software Systems through Parametric Markov Chain Synthesis. In Proceedings of 14th IEEE International Conference On Software Architecture. New Jersey: IEEE Computer Society, 2017. p. 131-140. ISBN: 978-1-5090-5729-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "CESKA, M.; CARDELLI, L.; FRANZLE, M.; KWIATKOWSKA, M.; LAURENTI, L.; PAOLETTI, N.; WHITBY, M. Syntax-Guided Optimal Synthesis for Chemical Reaction Networks. In Proceedings of the 29th International Conference on Computer Aided Verification. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2017. p. 375-395. ISBN: 978-3-319-63390-9. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "CESKA, M.; CESKA, M.; PAOLETTI, N. Precise Parameter Synthesis for Generalised Stochastic Petri Nets with Interval Parameters. In Proceedings of 16th International Conference on Computer Aided Systems Theory. LNCS volume 10672. Heidelberg: Springer Verlag, 2017. p. 38-46. ISBN: 978-3-319-74726-2. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VASICEK, Z.; SEKANINA, L.; VOJNAR, T. Approximating Complex Arithmetic Circuits with Formal Error Guarantees: 32-bit Multipliers Accomplished. In Proceedings of 36th IEEE/ACM International Conference On Computer Aided Design (ICCAD). Irvine, CA: Institute of Electrical and Electronics Engineers, 2017. p. 416-423. ISBN: 978-1-5386-3093-8. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "FIEDOR, J.; VOJNAR, T.; SMRCKA, A.; DIAS, R.; FERREIRA, C.; LOURENCO, J.; SOUSA, D. Verifying Concurrent Programs Using Contracts. In 2017 IEEE International Conference on Software Testing, Verification and Validation (ICST). Tokyo: Institute of Electrical and Electronics Engineers, 2017. p. 196-206. ISBN: 978-1-5090-6032-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "FIEDOR, T.; HOLIK, L.; JANKU, P.; LENGAL, O.; VOJNAR, T. Lazy Automata Techniques for WS1S. In Proceedings of TACAS'17. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2017. no. 1, p. 407-425. ISBN: 978-3-662-54576-8. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "HOLIK, L.; ABDULLA, P.; ATIG, M.; BUI PHI, D.; CHEN, Y.; REZINE, A.; RUMMER, P. Flatten and conquer: a framework for efficient analysis of string constraints. In Proceedings of the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation. ACM. New York: Association for Computing Machinery, 2017. p. 602-617. ISBN: 978-1-4503-4988-8. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "HOLIK, L.; ABDULLA, P.; HAZIZA, F.; JONSSON, B.; REZINE, A. An integrated specification and verification technique for highly concurrent data structures for highly concurrent data structures. International Journal on Software Tools for Technology Transfer, 2017, vol. 5, no. 19, p. 549-563. ISSN: 1433-2779. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "HOLIK, L.; HRUSKA, M.; LENGAL, O.; ROGALEWICZ, A.; VOJNAR, T. Counterexample Validation and Interpolation-Based Refinement for Forest Automata. In Proceedings of VMCAI'17. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Cham: Springer Verlag, 2017. p. 288-309. ISBN: 978-3-319-52234-0. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "HOLIK, L.; MEYER, R.; VOJNAR, T.; WOLF, S. Effect Summaries for Thread-Modular Analysis Sound Analysis Despite an Unsound Heuristic. In SAS 2017: Static Analysis. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2017. no. 1, p. 169-191. ISBN: 978-3-319-66706-5. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "HRUSKA, M.; HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T. Forester: From Heap Shapes to Automata Predicates. In Proceedings of TACAS'17. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2017. p. 365-369. ISBN: 978-3-662-54580-5. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KOZAK, D.; KRENA, B.; SIMKOVA, H.; VOJNAR, T. Search-Based Testing Concurrent Java Programs Using the RoadRunner Analysis Framework [poster]. The proceedings of the 12th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Telc: 2017. p. 25-25. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LAURENTI, L.; ABATE, A.; BORTOLUSSI, L.; CARDELLI, L.; CESKA, M.; KWIATKOWSKA, M. Reachability Computation for Switching Diffusions:Finite Abstractions with Certifiable and Tuneable Precision. In Proceedings of the 20th ACM International Conference on Hybrid Systems: Computation and Control. ACM. New York: Association for Computing Machinery, 2017. p. 55-64. ISBN: 978-1-4503-4590-3. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LENGAL, O.; CHEN, Y.; TAN, T.; WU, Z. Register Automata with Linear Arithmetic. In Proceedings of LICS'17. Reykjavik: IEEE Computer Society, 2017. p. 1-12. ISBN: 978-1-5090-3018-7. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LENGAL, O.; HONG, C.; CHEN, Y.; MU, S.; SINHA, N.; WANG, B. An Executable Sequential Specification for Spark Aggregation. In Proceedings of NETYS'17. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2017. no. 10299, p. 421-438. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LENGAL, O.; LIN, A.; MAJUMDAR, R.; RUMMER, P. Fair Termination for Parameterized Probabilistic Concurrent Systems. In Proceedings of TACAS'17. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2017. no. 1, p. 499-517. ISBN: 978-3-662-46680-3. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LENGAL, O.; VOJNAR, T.; ENEA, C.; SIGHIREANU, M. Compositional Entailment Checking for a Fragment of Separation Logic. FORMAL METHODS IN SYSTEM DESIGN, 2017, vol. 2017, no. 51, p. 575-607. ISSN: 0925-9856. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LENGAL, O.; VOJNAR, T.; ENEA, C.; SIGHIREANU, M. SPEN: A Solver for Separation Logic. In Proceedings of NFM'17. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2017. p. 302-309. ISBN: 978-3-319-57287-1. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "PFALTZ, J.; SLAPAL, J. Closure operators associated with networks. HACETTEPE JOURNAL OF MATHEMATICS AND STATISTICS, 2017, vol. 46, no. 1, p. 91-101. ISSN: 1303-5010. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "SIMKOVA, H.; KRENA, B.; VOJNAR, T.; LETKO, Z.; UR, S.; DUDKA, V.; VOLKOVICH, Z.; AVROS, R. Boosted decision trees for behaviour mining of concurrent programmes. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, 2017, vol. 29, no. 21, p. 4268-4289. ISSN: 1532-0634. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "SLAPAL, J. A ternary relation for structuring the digital plane. In AMCSE 2016. ITM Web of Conferences. Les Ulis Cedex A: EDP Sciences, 2017. no. 01012, p. 1-5. ISSN: 2271-2097. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "SLAPAL, J. Structuring Digital Spaces by Path-Partition Induced Closure Operators on Graphs. In Computational Modeling of Objects Presented in Images. Fundamentals, Methods, and Applications. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2017. no. 3, p. 43-55. ISBN: 978-3-319-54608-7. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "SLAPAL, J. Terse walk sets in graphs and induced closure operators. TOPOLOGY AND ITS APPLICATIONS, 2017, vol. 230, no. 1, p. 258-266. ISSN: 0166-8641. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "SLAPAL, J. Walk-set induced connectedness in digital spaces. Carpathian Journal of Mathematics, 2017, vol. 33, no. 2, p. 247-256. ISSN: 1584-2851. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ABATE, A.; CESKA, M.; KWIATKOWSKA, M. Approximate Policy Iteration for Markov Decision Processes via Quantitative Adaptive Aggregations. In Proceedings of 14th International Symposium on Automated Technology for Verification and Analysis. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2016. p. 13-31. ISBN: 978-3-319-46519-7. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "CESKA, M.; ALDEGHERI, S.; BARNAT, J.; BOMBIERI, N.; BUSATO, F. Parametric Multi-Step Scheme for GPU-Accelerated Graph Decomposition into Strongly Connected Components. In Proceedings of 2nd Workshop on Performance Engineering for Large Scale Graph Analytics. Lecture Notes in Computer Science. Cham: Springer Verlag, 2016. p. 519-531. ISBN: 978-3-319-58942-8. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "CESKA, M.; PILAR, P.; PAOLETTI, N.; BRIM, L.; KWIATKOWSKA, M. PRISM-PSY: Precise GPU-Accelerated Parameter Synthesis for Stochastic Systems. In Proceedings of the 22nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin: Springer International Publishing, 2016. p. 367-384. ISBN: 978-3-662-49673-2. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "CHARVAT, L.; SMRCKA, A.; VOJNAR, T. Hades: Microprocessor Hazard Analysis via Formal Verification of Parameterized Systems. In Proceedings 11th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2016). Electronic Proceedings in Theoretical Computer Science, EPTCS. Electronic Proceedings in Theoretical Computer Science. Brno: Faculty of Informatics MU, 2016. no. 233, p. 87-93. ISBN: 978-80-210-8362-2. ISSN: 2075-2180. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "CHEN, Y.; HSIEH, C.; LENGAL, O.; LII, T.; TSAI, M.; WANG, B.; WANG, F. PAC Learning-Based Verification and Model Synthesis. In Proceedings of the 38th International Conference on Software Engineering. Austin, TX: Association for Computing Machinery, 2016. p. 714-724. ISBN: 978-1-4503-3900-1. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "DUDKA, K.; HOLIK, L.; PERINGER, P.; TRTIK, M.; VOJNAR, T. From Low-Level Pointers to High-Level Containers. In Verification, Model Checking, and Abstract Interpretation (VMCAI). Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2016. p. 431-452. ISBN: 978-3-662-49121-8. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "HOLIK, L.; ALMEIDA, R.; MAYR, R. Reduction of Nondeterministic Tree Automata. In Tools and Algorithms for the Construction and Analysis of Systems. Volume 9636 of the series Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2016. p. 717-735. ISBN: 978-3-662-49673-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; SEKANINA, L.; VASICEK, Z.; VOJNAR, T. Towards Formal Relaxed Equivalence Checking in Approximate Computing Methodology. 2nd Workshop on Approximate Computing (WAPCO 2016). Prague: 2016. p. 1-6. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "HOLIK, L.; MEYER, R.; MUSKALLA, S. Antichains for the Verification of Recursive Programs. In Proceedings of International Conference on Networked Systems. Lecture Notes in Computer Science (LNCS). Cham: Springer International Publishing, 2016. p. 322-336. ISBN: 978-3-319-26849-1. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "HOLIK, L.; MEYER, R.; MUSKALLA, S. Summaries for Context-Free Games. In 36th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2016). Leibniz International Proceedings in Informatics (LIPIcs). Dagstuhl: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2016. p. 41-57. ISBN: 978-3-95977-027-9. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "HRUSKA, M.; LENGAL, O.; SIMACEK, J.; VOJNAR, T.; HOLIK, L.; ROGALEWICZ, A. Run Forester, Run Backwards! (Competition Contribution). In Proceedings of TACAS'16. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2016. p. 923-926. ISBN: 978-3-662-49673-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KOTOUN, M.; PERINGER, P.; SOKOVA, V.; VOJNAR, T. Optimized PredatorHP and the SV-COMP Heap and Memory Safety Benchmark (Competition Contribution). In Proceedings of TACAS 2016. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2016. p. 942-945. ISBN: 978-3-662-49673-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "PERINGER, P.; SOKOVA, V.; TRTIK, M.; VOJNAR, T.; HOLIK, L.; KOTOUN, M. Predator Shape Analysis Tool Suite. In Proceedings of HVC 2016. Lecture Notes in Computer Science. Zurich: Springer International Publishing, 2016. p. 202-209. ISBN: 978-3-319-49052-6. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ROGALEWICZ, A. Symbolic Representations of Dynamic Data Structures in Program Analysis. Brno: 2016. 191 p. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "ROGALEWICZ, A.; VOJNAR, T.; IOSIF, R. Abstraction Refinement and Antichains for Trace Inclusion of Infinite State Systems. In Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2016. p. 71-89. ISBN: 978-3-662-49673-2. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "SLAPAL, J. A categorical approach to convergence: compactness. TOPOLOGY AND ITS APPLICATIONS, 2016, vol. 201, no. 1, p. 78-85. ISSN: 0166-8641. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "CHARVAT, L.; SMRCKA, A.; VOJNAR, T. Microprocessor Hazard Analysis via Formal Verification of Parameterized Systems. Proceedings of the 15th International Conference on Computer Aided Systems Theory (EUROCAST 2015). Las Palmas de Grand Canaria: The Universidad de Las Palmas de Gran Canaria, 2015. p. 193-194. ISBN: 978-84-606-5438-4. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "CHARVAT, L.; SMRCKA, A.; VOJNAR, T. Microprocessor Hazard Analysis Via Formal Verification of Parameterized Systems. In Computer Aided Systems Theory - EUROCAST 2015. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Zurich: Springer International Publishing, 2015. no. 1, p. 605-614. ISBN: 978-3-319-27340-2. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "FIEDOR, J.; DUDKA, V.; KRENA, B.; LETKO, Z.; UR, S.; VOJNAR, T. Advances in Noise-based Testing of Concurrent Programs. SOFTWARE TESTING VERIFICATION & RELIABILITY, 2015, vol. 25, no. 3, p. 272-309. ISSN: 1099-1689. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "FIEDOR, J.; LETKO, Z.; LOURENCO, J.; VOJNAR, T. On Monitoring C/C++ Transactional Memory Programs. In Proceedings of MEMICS'14. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2015. p. 73-87. ISBN: 978-3-319-14895-3. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "FIEDOR, J.; LETKO, Z.; VOJNAR, T.; LOURENCO, J. Dynamic Validation of Contracts in Concurrent Code. Proceedings of the 15th International Conference on Computer Aided Systems Theory. Universidad de Las Palmas de Canaria: The Universidad de Las Palmas de Gran Canaria, 2015. p. 177-178. ISBN: 978-84-606-5438-4. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "FIEDOR, J.; VOJNAR, T.; LETKO, Z.; LOURENCO, J. Dynamic Validation of Contracts in Concurrent Code. In Proceedings of EUROCAST'15. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2015. p. 555-564. ISBN: 978-3-319-27339-6. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "FIEDOR, T.; HOLIK, L.; LENGAL, O.; VOJNAR, T. Nested Antichains for WS1S. In Proceedings of TACAS'15. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2015. p. 658-674. ISBN: 978-3-662-46680-3. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "HOLIK, L.; CHEN, Y.; REZINE, A.; RUMMER, P.; STENMAN, J.; ABDULLA, P.; ATIG, M. Norn: An SMT Solver for String Constraints. In Computer Aided Verification. Lecture Notes in Computer Science Volume 9206. Cham: Springer International Publishing, 2015. p. 462-469. ISBN: 978-3-319-21689-8. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "HOLIK, L.; LENGAL, O.; VOJNAR, T.; JONSSON, B.; TRINH, Q.; ABDULLA, P. Verification of heap manipulating programs with ordered data by extended forest automata. ACTA INFORMATICA, 2015, vol. 53, no. 4, p. 357-385. ISSN: 0001-5903. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "HRUSKA, M.; LENGAL, O.; SIMACEK, J.; VOJNAR, T.; HOLIK, L.; ROGALEWICZ, A. Forester: Shape Analysis Using Tree Automata (Competition Contribution). In Proceedings of TACAS'15. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2015. p. 432-435. ISBN: 978-3-662-46680-3. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "PERINGER, P.; MULLER, P.; VOJNAR, T. Predator Hunting Party (Competition Contribution). In Proceedings of TACAS'15. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2015. p. 443-446. ISBN: 978-3-662-46680-3. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ABDULLA, P.; HAZIZA, F.; HOLIK, L. Block Me If You Can! Context-Sensitive Parameterized Verification. In 21st International Static Analysis Symposium. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2014. no. 8723, p. 1-17. ISBN: 978-3-319-10935-0. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "CHARVAT, L.; SMRCKA, A.; VOJNAR, T. Using Formal Verification of Parameterized Systems in RAW Hazard Analysis in Microprocessors. In Proceedings of 15th International Workshop on Microprocessor Test and Verification (MTV 2014). Austin, TX: IEEE Computer Society, 2014. p. 83-89. ISBN: 978-1-4673-6858-2. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "DUDKA, K.; PERINGER, P.; VOJNAR, T. Predator: A Shape Analyzer Based on Symbolic Memory Graphs (Competition Contribution). In Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2014. p. 412-414. ISBN: 978-3-642-54861-1. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "DUDKA, V.; KRENA, B.; LETKO, Z.; SIMKOVA, H.; VOJNAR, T. Multi-objective Genetic Optimization for Noise-Based Testing of Concurrent Software. Proceedings of MEMICS'14. Brno: 2014. p. 133-133. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "DUDKA, V.; KRENA, B.; LETKO, Z.; SIMKOVA, H.; VOJNAR, T. Multi-objective Genetic Optimization for Noise-Based Testing of Concurrent Software. In SSBSE'14. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2014. p. 107-122. ISBN: 978-3-319-09939-2. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ENEA, C.; LENGAL, O.; SIGHIREANU, M.; VOJNAR, T. Compositional Entailment Checking for a Fragment of Separation Logic. In Proceedings of APLAS'14. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2014. p. 314-333. ISBN: 978-3-319-12735-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "FIEDOR, T. A Decision Procedure For The WSkS Logic. Saarbrucken: Lambert Academic Publishing, 2014. 60 p. ISBN: 978-3-659-63583-0. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HOLIK, L.; ABDULLA, P.; ATIG, M.; CHEN, Y.; RUMMER, P.; STENMAN, J. String Constraints for Verification. In 26th International Conference on Computer Aided Verification. Lecture Notes in Computer Science, Volume 8559. Berlin: Springer Verlag, 2014. p. 150-166. ISBN: 978-3-319-08866-2. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HOLIK, L.; VOJNAR, T.; ABDULLA, P.; CHEN, Y. Mediating for reduction (on minimizing alternating Buchi automata). Theoretical Computer Science, 2014, vol. 2014, no. 552, p. 26-43. ISSN: 0304-3975. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MARHEFKA, M.; MULLER, P. Dfuzzer: A D-Bus Service Fuzzing Tool. In Proceedings of IEEE Seventh International Conference on Software Testing, Verification and Validation Workshopsn. Cleveland: IEEE Computer Society, 2014. p. 383-389. ISBN: 978-0-7695-5194-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MULLER, P.; VOJNAR, T. CPAlien: Shape Analyzer for CPAChecker (Competition Contribution). In Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2014. p. 395-397. ISBN: 978-3-642-54861-1. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ROGALEWICZ, A.; VOJNAR, T.; IOSIF, R. Deciding Entailments in Inductive Separation Logic with Tree Automata. In Proceedings of ATVA'14. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2014. p. 201-218. ISBN: 978-3-319-11935-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "SIMKOVA, H.; LETKO, Z.; KRENA, B.; VOJNAR, T.; DUDKA, V.; AVROS, R.; UR, S.; VOLKOVICH, Z. Boosted Decision Trees for Behaviour Mining of Concurrent Programs. Proceedings of MEMICS'14. Brno: NOVPRESS s.r.o., 2014. p. 15-27. ISBN: 978-80-214-5022-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "CEDERBERG, J.; VOJNAR, T.; ABDULLA, P. Monotonic Abstraction for Programs with Multiply-Linked Structures. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2013, vol. 24, no. 2, p. 187-210. ISSN: 0129-0541. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "CHARVAT, L.; SMRCKA, A.; VOJNAR, T. An Abstraction of Multi-Port Memories with Arbitrary Addressable Units. Proceedings of the 14th Computer Aided Systems Theory. Las Palmas de Grand Canaria: The Universidad de Las Palmas de Gran Canaria, 2013. p. 254-255. ISBN: 978-84-695-6971-9. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DUDKA, K.; MULLER, P.; PERINGER, P.; VOJNAR, T. Predator: A Tool for Verification of Low-Level List Manipulation (Competition Contribution). Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Lecture Notes in Computer Science Volume 7795. Berlin: Springer Verlag, 2013. no. 7795, p. 627-629. ISBN: 978-3-642-36742-7. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DUDKA, K.; PERINGER, P.; VOJNAR, T. Byte-Precise Verification of Low-Level List Manipulation. 20th Static Analysis Symposium. Lecture Notes in Computer Science. Lecture Notes in Computer Science Volume 7935. Berlin: Springer Verlag, 2013. no. 7935, p. 215-237. ISBN: 978-3-642-38855-2. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HOLIK, L.; ABDULLA, P.; HAZIZA, F.; JONSSON, B.; REZINE, A. An Integrated Specification and Verification Technique for Highly Concurrent Data Structures. 19th International Conference, TACAS 2013. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin Heidelberg: Springer Verlag, 2013. no. 0000, p. 324-338. ISBN: 978-3-642-36742-7. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HOLIK, L.; JONSSON, B.; LENGAL, O.; VOJNAR, T.; TRINH, Q.; ABDULLA, P. Verification of Heap Manipulating Programs with Ordered Data by Extended Forest Automata. Proceedings of ATVA'13. Heidelberg: Springer Verlag, 2013. p. 224-239. ISBN: 978-3-319-02443-1. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T. Fully Automated Shape Analysis Based on Forest Automata. Proceedings of CAV'13. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2013. no. 8044, p. 740-755. ISBN: 978-3-642-39798-1. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "LETKO, Z. Analysis and Testing of Concurrent Programs. Information Sciences and Technologies Bulletin of the ACM Slovakia, 2013, vol. 5, no. 3, p. 1-8. ISSN: 1338-1237. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "NOVOSAD, P.; CESKA, M. Algorithm for Computing Unfoldings of Unbounded Hybrid Petri Nets. Proc. of Computer Aided System Theory 2013. Universidad de Las Palmas de Gran Canaria: The Universidad de Las Palmas de Gran Canaria, 2013. p. 244-245. ISBN: 84-695-6971-6. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ROGALEWICZ, A.; IOSIF, R. Automata-Based Termination Proofs. COMPUTING AND INFORMATICS, 2013, vol. 2013, no. 4, p. 739-775. ISSN: 1335-9150. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "ROGALEWICZ, A.; SIMACEK, J.; IOSIF, R. The Tree Width of Separation Logic with Recursive Definitions. Automated Deduction - CADE-24. Lecture Notes in Computer Science. Lecture Notes in Artificial Intelligence. Berlin: Springer Verlag, 2013. no. 7898, p. 21-38. ISBN: 978-3-642-38573-5. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "VOJNAR, T.; KRENA, B. Automated formal analysis and verification: an overview. INTERNATIONAL JOURNAL OF GENERAL SYSTEMS, 2013, vol. 2013, no. 42, p. 335-365. ISSN: 0308-1079. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "CESKA, M.; FIEDOR, J.; GACH, M. A Novel Approach to Modechart Verification of Real-Time systems. Lecture Notes in Computer Science, 2012, vol. 2012, no. 6927, p. 559-567. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "CHARVAT, L.; SMRCKA, A.; VOJNAR, T. Automatic Formal Correspondence Checking of ISA and RTL Microprocessor Description. Proceedings of the 13th International Workshop on Microprocessor Test and Verification (MTV 2012). Austin, TX: Institute of Electrical and Electronics Engineers, 2012. p. 6-12. ISBN: 978-1-4673-4441-8. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DUDKA, K.; MULLER, P.; PERINGER, P.; VOJNAR, T. Predator: A Verification Tool for Programs with Dynamic Linked Data Structures (Competition Contribution). Lecture Notes in Computer Science, 2012, vol. 2012, no. 7214, p. 544-547. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DUDKA, K.; PERINGER, P.; VOJNAR, T. An Easy to Use Infrastructure for Building Static Analysis Tools. Lecture Notes in Computer Science, 2012, vol. 2012, no. 6927, p. 527-534. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DUDKA, V.; FIEDOR, J.; KRENA, B.; VOJNAR, T. DA-BMC: A Tool Chain Combining Dynamic Analysis and Bounded Model Checking. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7186, p. 1-5. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DUDKA, V.; KRENA, B.; LETKO, Z.; UR, S.; VOJNAR, T. Testing of Concurrent Programs with Genetic Algorithms. Lecture Notes in Computer Science, 2012, roc. 2012, c. 7515, s. 152-167. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "FIEDOR, J.; KRENA, B.; LETKO, Z.; VOJNAR, T. A Uniform Classification of Common Concurrency Errors. Lecture Notes in Computer Science, 2012, vol. 2012, no. 6927, p. 519-526. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "FIEDOR, J.; VOJNAR, T. Noise-Based Testing and Analysis of Multi-threaded C/C++ Programs on the Binary Level. PADTAD '12. Proceedings of the 10th Workshop on Parallel and Distributed Systems. New York: Association for Computing Machinery, 2012. p. 36-46. ISBN: 978-1-4503-1456-5. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "FIEDOR, J.; VOJNAR, T. ANaConDA: A Framework for Analysing Multi-threaded C/C++ Programs on the Binary Level. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7687, p. 35-41. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "HOLIK, L.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T.; HABERMEHL, P. Forest Automata for Verification of Heap Manipulation. FORMAL METHODS IN SYSTEM DESIGN, 2012, vol. 2012, no. 41, p. 83-106. ISSN: 0925-9856. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "IOSIF, R.; HOJJAT, H.; KONECNY, F.; KUNCAK, V.; RUMMER, P. Accelerating Interpolants. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7561, p. 187-202. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KONECNY, F. Relational Verification of Programs with Integer Data. Brno: Faculty of Information Technology BUT, 2012. 153 p. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KONECNY, F.; HOJJAT, H.; IOSIF, R.; KUNCAK, V.; RUMMER, P.; GARNIER, F. A Verification Toolkit for Numerical Transition Systems. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7436, p. 247-251. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KONECNY, F.; IOSIF, R.; BOZGA, M. Deciding Conditional Termination. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7214, p. 252-266. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KRENA, B.; LETKO, Z.; VOJNAR, T. Analysis and Testing of Concurrent Programs. FIT Monograph. FIT Monograph. Brno: Faculty of Information Technology BUT, 2012. 136 p. ISBN: 978-80-214-4464-5. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "KRENA, B.; LETKO, Z.; VOJNAR, T. Noise Injection Heuristics for Concurrency Testing. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7119, p. 123-131. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "LENGAL, O. An Efficient Finite Tree Automata Library: The Design of BDD-based Semi-symbolic Algorithms for Nondeterministic Finite Tree Automata. Saarbrucken: Lambert Academic Publishing, 2012. 64 p. ISBN: 978-3-659-27069-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "LENGAL, O.; SIMACEK, J.; VOJNAR, T. VATA: A Library for Efficient Manipulation of Non-Deterministic Tree Automata. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7214, p. 79-94. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "LETKO, Z. Analysis and Testing of Concurrent Programs. Brno: Faculty of Information Technology BUT, 2012. 139 p. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "LETKO, Z.; VOJNAR, T.; KRENA, B. Coverage Metrics for Saturation-based and Search-based Testing of Concurrent Software. Lecture Notes in Computer Science, 2012, roc. 2012, c. 7186, s. 177-192. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ROGALEWICZ, A.; VOJNAR, T.; HABERMEHL, P.; BOUAJJANI, A. Abstract Regular (Tree) Model Checking. International Journal on Software Tools for Technology Transfer, 2012, vol. 14, no. 2, p. 167-191. ISSN: 1433-2779. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SIMACEK, J. Harnessing Forest Automata for Verification of Heap Manipulating Programs. Brno: Faculty of Information Technology BUT, 2012. 128 p. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZACHARIASOVA, M.; LENGAL, O. Towards Beneficial Hardware Acceleration in HAVEN: Evaluation of Testbed Architectures. Lecture Notes in Computer Science, 2012, vol. 2013, no. 7857, p. 266-273. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZACHARIASOVA, M.; LENGAL, O.; KAJAN, M. HAVEN: An Open Framework for FPGA-Accelerated Functional Verification of Hardware. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7261, p. 247-253. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "ABDULLA, P.; CHEN, Y.; CLEMENTE, L.; HOLIK, L.; HONG, C.; MAYR, R.; VOJNAR, T. Advanced Ramsey-based Buchi Automata Inclusion Testing. Lecture Notes in Computer Science, 2011, vol. 2011, no. 6901, p. 187-202. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "CEDERBERG, J.; VOJNAR, T.; ABDULLA, P. Monotonic Abstraction for Programs with Multiply-Linked Structures. Lecture Notes in Computer Science, 2011, vol. 2011, no. 6945, p. 125-138. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DUDKA, K.; PERINGER, P.; VOJNAR, T. An Easy to Use Infrastructure for Building Static Analysis Tools. Proceedings of the 13th International Conference on Computer Aided Systems Theory. Universidad de Las Palmas de Canaria: The Universidad de Las Palmas de Gran Canaria, 2011. p. 328-329. ISBN: 978-84-693-9560-8. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DUDKA, K.; PERINGER, P.; VOJNAR, T. Predator: A Practical Tool for Checking Manipulation of Dynamic Data Structures Using Separation Logic. Lecture Notes in Computer Science, 2011, vol. 2011, no. 6806, p. 372-378. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "FIEDOR, J.; GACH, M.; CESKA, M. A Novel Approach to Modechart Verification of Real-Time Systems. Proceedings of the 13th International Conference on Computer Aided Systems Theory. Universidad de Las Palmas de Canaria: The Universidad de Las Palmas de Gran Canaria, 2011. p. 338-339. ISBN: 978-84-693-9560-8. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "FIEDOR, J.; LETKO, Z.; VOJNAR, T.; KRENA, B. A Uniform Classification of Common Concurrency Errors. Proceedings of the 13th International Conference on Computer Aided Systems Theory. Universidad de Las Palmas de Canaria: The Universidad de Las Palmas de Gran Canaria, 2011. p. 326-327. ISBN: 978-84-693-9560-8. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "HOLIK, L. Simulations and Antichains for Efficient Handling of Finite Automata. Brno: Department of Intelligent Systems FIT BUT, 2011. 128 p. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "HOLIK, L.; LENGAL, O.; SIMACEK, J.; VOJNAR, T. Efficient Inclusion Checking on Explicit and Semi-Symbolic Tree Automata. Lecture Notes in Computer Science, 2011, vol. 2011, no. 6996, p. 243-258. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "HOLIK, L.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T.; HABERMEHL, P. Forest Automata for Verification of Heap Manipulation. Lecture Notes in Computer Science, 2011, vol. 2011, no. 6806, p. 424-440. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PROCHAZKA, B.; VOJNAR, T.; DRAHANSKY, M. Hijacking the Linux Kernel. Sixth Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS'10) -- Selected Papers. OpenAccess Series in Informatics (OASIcs). OASIcs proceedengs from MEMICS'10 papers. Dagstuhl: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2011. no. 2, p. 85-92. ISBN: 978-3-939897-22-4. ISSN: 2190-6807. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VOJNAR, T.; IOSIF, R.; HABERMEHL, P.; BOUAJJANI, A.; BOZGA, M.; MORO, P. Programs with Lists are Counter Automata. FORMAL METHODS IN SYSTEM DESIGN, 2011, vol. 38, no. 2, p. 158-192. ISSN: 0925-9856. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BOZGA, M.; IOSIF, R.; KONECNY, F. Fast Acceleration of Ultimately Periodic Relations. Computer Aided Verification. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2010. p. 227-242. ISBN: 978-3-642-14294-9. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "HOLIK, L.; SIMACEK, J. Optimizing an LTS-Simulation Algorithm. COMPUTING AND INFORMATICS, 2010, vol. 2010, no. 7, p. 1337-1348. ISSN: 1335-9150. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "HOLIK, L.; VOJNAR, T. Simulations and Aintichains for Efficient Handling of Tree Automata. FIT Monograph. FIT Monograph. Brno: Faculty of Information Technology BUT, 2010. 150 p. ISBN: 978-80-214-4217-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "HOLIK, L.; VOJNAR, T.; ABDULLA, P.; CHEN, Y.; MAYR, R. When Simulation Meets Antichains (On Checking Language Inclusion of Nondeterministic Finite (Tree) Automata). Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2010. p. 158-174. ISBN: 978-3-642-12001-5. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "HOLIK, L.; VOJNAR, T.; CHEN, Y.; MAYR, R.; HONG, C.; ABDULLA, P.; CLEMENTE, L. Simulation Subsumption in Ramsey-Based Buchi Automata Universality and Inclusion Testing. Computer Aided Verification. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2010. p. 132-147. ISBN: 978-3-642-14294-9. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "IOSIF, R.; VOJNAR, T.; HABERMEHL, P. Automata-based Verification of Programs with Tree Updates. ACTA INFORMATICA, 2010, vol. 47, no. 1, p. 1-31. ISSN: 0001-5903. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KRENA, B.; LETKO, Z.; UR, S.; VOJNAR, T. A Platform for Search-Based Testing of Concurrent Software. PADTAD '10. Proceedings of the 8th Workshop on Parallel and Distributed Systems. Trento: Association for Computing Machinery, 2010. p. 48-58. ISBN: 978-1-60558-823-0. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KRENA, B.; LETKO, Z.; VOJNAR, T.; UR, S. A Platform for Search-Based Testing of Concurrent Software. 6th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2010. p. 208-208. ISBN: 978-80-87342-10-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "LETKO, Z. Sophisticated Testing of Concurrent Software. SSBSE '10. Proceedings of 2nd International Symposium on Search Based Software Engineering. Benevento: Institute of Electrical and Electronics Engineers, 2010. p. 36-40. ISBN: 978-0-7695-4195-2. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "PROCHAZKA, B. An Attack on the Linux System Call. Proceedings of the 16th Conference STUDENT EEICT 2010. Volume 3. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2010. s. 130-132. ISBN: 978-80-214-4078-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "PROCHAZKA, B.; VOJNAR, T.; DRAHANSKY, M. Hijacking the Linux Kernel. MEMICS 2010 - Sixth Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2010. p. 143-150. ISBN: 978-80-87342-10-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SMRCKA, A. Verification of Asynchronous and Parametrized Hardware Designs. Brno: Department of Intelligent Systems FIT BUT, 2010. 124 p. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SMRCKA, A. Verification of Asynchronous and Parametrized Hardware Designs. Information Sciences and Technologies Bulletin of the ACM Slovakia, 2010, vol. 2, no. 2, p. 60-69. ISSN: 1338-1237. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SMRCKA, A.; VOJNAR, T. Verification of Asynchronous and Parametrized Hardware Designs. FIT Monograph. FIT Monograph. Brno: Faculty of Information Technology BUT, 2010. 115 p. ISBN: 978-80-214-4214-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DUDKA, V.; KRENA, B.; VOJNAR, T. Self-healing Assurance using Bounded Model Checking. Computer Aided Systems Theory - EUROCAST 2009. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2009. p. 295-303. ISBN: 978-3-642-04771-8. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DUDKA, V.; VOJNAR, T.; KRENA, B. Self-healing Assurance using Bounded Model Checking. Computer Aided Systems Theory. Las Palmas de Grand Canaria: The Universidad de Las Palmas de Gran Canaria, 2009. p. 99-100. ISBN: 978-84-691-8502-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "HOLIK, L.; SIMACEK, J. Optimizing an LTS-Simulation Algorithm. 5th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Znojmo: Faculty of Informatics MU, 2009. p. 93-101. ISBN: 978-3-939897-15-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "HOLIK, L.; VOJNAR, T.; ABDULLA, P.; BOUAJJANI, A.; KAATI, L. Composed Bisimulation for Tree Automata. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2009, vol. 20, no. 4, p. 685-700. ISSN: 0129-0541. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "HOLIK, L.; VOJNAR, T.; ABDULLA, P.; CHEN, Y. Mediating for Reduction (On Minimizing Alternating Buchi Automata). IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (2009). LIPIcs, sv. 4. Wadern: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2009. s. 1-12. ISBN: 978-3-939897-13-2. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "HOLIK, L.; VOJNAR, T.; ABDULLA, P.; KAATI, L. A Uniform (Bi-)Simulation-Based Framework for Reducing Tree Automata. ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE, 2009, vol. 2009, no. 251, p. 27-48. ISSN: 1571-0661. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "IOSIF, R.; KONECNY, F.; VOJNAR, T.; HABERMEHL, P.; BOZGA, M. Automatic Verification of Integer Array Programs. Computer Aided Verification. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2009. p. 157-172. ISBN: 978-3-642-02657-7. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "IOSIF, R.; ROGALEWICZ, A. Automata-Based Termination Proofs. Implementation and Application of Automata. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2009. p. 165-177. ISBN: 978-3-642-02978-3. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KRENA, B.; LETKO, Z.; VOJNAR, T.; NIR-BUCHBINDER, Y.; TZOREF-BRILL, R.; UR, S. A Concurrency Testing Tool and its Plug-ins for Dynamic Analysis and Runtime Healing. Runtime Verification. Lecture Notes in Computer Science, Volume 5779/2009. Berlin: Springer Verlag, 2009. p. 101-114. ISBN: 978-3-642-04693-3. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DUDKA, V. Bounded Model Checking Using Java PathFinder. Proceedings of the 14th Conference STUDENT EEICT 2008. Volume 2. Brno: Brno University of Technology, 2008. p. 247-249. ISBN: 978-80-214-3615-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HABERMEHL, P.; IOSIF, R.; VOJNAR, T. What else is decidable about integer arrays?. Foundations of Software Science and Computation Structures. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 475-490. ISBN: 978-3-540-78497-5. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HABERMEHL, P.; VOJNAR, T. Proceedings of 10th International Workshop on Verification of Infinite-State Systems - INFINITY'08. Toronto: Faculty of Information Technology BUT, 2008. 74 p. ISBN: 978-80-214-3697-8. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HOLIK, L.; VOJNAR, T.; ABDULLA, P.; BOUAJJANI, A.; KAATI, L. Composed Bisimulation for Tree Automata. Implementation and Application of Automata. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 212-222. ISBN: 978-3-540-70843-8. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HOLIK, L.; VOJNAR, T.; ABDULLA, P.; BOUAJJANI, A.; KAATI, L. Computing Simulations over Tree Automata (Efficient Techniques for Reducing Tree Automata). Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 93-108. ISBN: 978-3-540-78799-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HOLIK, L.; VOJNAR, T.; ABDULLA, P.; KAATI, L. A Uniform (Bi-)Simulation-Based Framework for Reducing Tree Automata. 4th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Faculty of Informatics MU, 2008. p. 3-11. ISBN: 978-80-7355-082-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "HOLIK, L.; VOJNAR, T.; BOUAJJANI, A.; HABERMEHL, P.; TOUILI, T. Antichain-based Universality and Inclusion Testing over Nondeterministic Finite Tree Automata. Implementation and Application of Automata. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 57-67. ISBN: 978-3-540-70843-8. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "IOSIF, R.; VOJNAR, T.; HABERMEHL, P. A Logic of Singly Indexed Arrays. Logic for Programming, Artificial Intelligence and Reasoning. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2008. p. 558-573. ISBN: 978-3-540-89438-4. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "LETKO, Z. An Architecture for Self-Healing of Data Races and Atomicity Violations for Java. Proceedings of the 14th Conference STUDENT EEICT 2008. Volume 2. Brno: Brno University of Technology, 2008. p. 256-258. ISBN: 978-80-214-3615-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "LETKO, Z.; VOJNAR, T.; KRENA, B. AtomRace: Data Race and Atomicity Violation Detector and Healer. PADTAD '08. Proceedings of the 6th workshop on Parallel and distributed systems. Seattle: Association for Computing Machinery, 2008. p. 1-10. ISBN: 978-1-60558-052-4. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SMRCKA, A.; VOJNAR, T. Verifying Parametrised Hardware Designs Via Counter Automata. Hardware and Software, Verification and Testing. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2008. p. 51-68. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VOJNAR, T.; ANTOS, D.; CESKA, M.; KOTASEK, Z.; KRETINSKY, M.; MATYSKA, L. Proceedings of 4th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Faculty of Informatics MU, 2008. 286 p. ISBN: 978-80-7355-082-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VOJNAR, T.; CESKA, M.; ROGALEWICZ, A.; ERLEBACH, P.; HOLIK, L.; BOUAJJANI, A.; HABERMEHL, P.; TOUILI, T.; MORO, P. Automaticka verifikace programu s dynamickymi datovymi strukturami. Inovacni podnikani & transfer technologii, 2008, roc. 2008, c. 1, s. 21-22. ISSN: 1210-4612. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VOJNAR, T.; HABERMEHL, P.; BOUAJJANI, A. Verification of parametric concurrent systems with prioritised FIFO resource management. FORMAL METHODS IN SYSTEM DESIGN, 2008, vol. 32, no. 2, p. 129-172. ISSN: 0925-9856. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "DUDKA, V.; KRENA, B.; VOJNAR, T. Using JavaPathFinder for Self-healing Assurance. Proceedings of 3rd Doctoral Workshop on Mathematical and Engineering Methods in Computer Science - MEMICS 2007. Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 67-73. ISBN: 978-80-7355-077-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "ERLEBACH, P.; CESKA, M.; VOJNAR, T. Pattern-Based Verification for Trees. Computer Aided Systems Theory - EUROCAST 2007. Las Palmas de Grand Canaria: The Universidad de Las Palmas de Gran Canaria, 2007. p. 181-182. ISBN: 978-3-540-75866-2. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "ERLEBACH, P.; CESKA, M.; VOJNAR, T. Generalised Multi-Pattern-Based Verification of Programs with Linear Linked Structures. FORMAL ASPECTS OF COMPUTING, 2007, vol. 19, no. 3, p. 363-374. ISSN: 0934-5043. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "ERLEBACH, P.; VOJNAR, T.; CESKA, M. Pattern-based Verification for Trees. Computer Aided Systems Theory. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2007. p. 488-496. ISBN: 978-3-540-75866-2. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "HABERMEHL, P.; IOSIF, R.; ROGALEWICZ, A.; VOJNAR, T. Proving Termination of Tree Manipulating Programs. Automated Technology for Verification and Analysis. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2007. p. 145-161. ISBN: 978-3-540-75595-1. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "HOLIK, L.; ROGALEWICZ, A. Counterexample Analysis in Abstract Regular Tree Model Checking of Complex Dynamic Data Structures. Third Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2007). Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 59-66. ISBN: 978-80-7355-077-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "LETKO, Z. Dynamic Detection and Healing of Low Level Data Races. Proceedings of the 13th Conference STUDENT EEICT 2007. Volume 2. Brno: Brno University of Technology, 2007. p. 257-259. ISBN: 978-80-214-3408-0. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "ROGALEWICZ, A. Verification of Programs with Complex Data Structures. Brno: 2007. 122 p. ISBN: 978-80-214-3548-3. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SMRCKA, A.; REHAK, V.; VOJNAR, T.; SAFRANEK, D.; MATOUSEK, P.; REHAK, Z. Verifying VHDL Design with Multiple Clocks in SMV. In Formal Methods: Applications and Technology. Lecture Notes in Computer Science. Lecture Notes in Computer Science 4346. Bonn: Springer Verlag, 2007. no. 4346, p. 148-164. ISBN: 978-3-540-70951-0. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "VOJNAR, T. Cut-offs and Automata in Formal Verification of Infinite-State Systems. FIT Monograph 1. FIT Monograph 1. Brno: Faculty of Information Technology BUT, 2007. 189 p. ISBN: 978-80-214-3547-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "VOJNAR, T. Stromove automaty s omezenimi v symbolicke verifikaci programu manipulujicich vyvazene stromy. Soucasne trendy teoreticke informatiky. ITI Series 2007-347. Praha: 2007. s. 38-39. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "BOUAJJANI, A.; HABERMEHL, P.; ROGALEWICZ, A.; VOJNAR, T. Abstract Regular Tree Model Checking of Complex Dynamic Data Structures. Static Analysis. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2006. p. 52-70. ISBN: 978-3-540-37756-6. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "BOUAJJANI, A.; HABERMEHL, P.; ROGALEWICZ, A.; VOJNAR, T. Abstract Regular Tree Model Checking. ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE, 2006, vol. 149, no. 1, p. 37-48. ISSN: 1571-0661. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "HABERMEHL, P.; IOSIF, R.; VOJNAR, T. Automata-based Verification of Programs with Tree Updates. Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2006. p. 350-364. ISBN: 978-3-540-33056-1. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "IOSIF, R.; HABERMEHL, P.; VOJNAR, T.; BOUAJJANI, A.; BOZGA, M.; MORO, P. Programs with Lists are Counter Automata. Computer Aided Verification. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2006. p. 517-531. ISBN: 978-3-540-37406-0. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "KRENA, B. Computer Go as a Verification Case Study. Proceedings of XXVIIIth International Autumn Colloquium ASIS 2006: Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2006. p. 95-100. ISBN: 80-86840-26-3. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "ROGALEWICZ, A. Abstract Regular Model Checking of Complex Dynamic Data Structures - Implementation Details. Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Faculty of Information Technology BUT, 2006. p. 198-205. ISBN: 80-214-3287-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRCKA, A. High-level Modeling, Analysis and Verification of Programmable Hardware Design. Proceedings of the Junior Scientist Conference 2006. Vienna: Technical University Wien, 2006. p. 93-94. ISBN: 3-902463-05-8. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRCKA, A.; HLAVKA, P.; REHAK, V.; SAFRANEK, D.; SIMECEK, P.; VOJNAR, T. Formal Verification of the CRC Algorithm Properties. In MEMICS 2006 Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Mikulov: 2006. p. 55-62. ISBN: 80-214-3287-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRCKA, A.; REHAK, V.; VOJNAR, T.; SAFRANEK, D.; MATOUSEK, P.; REHAK, Z. Verifying VHDL Design with Multiple Clocks in SMV. Proceedings of FMICS 2006. Bonn: 2006. p. 140-155. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "VOJNAR, T.; CESKA, M.; ERLEBACH, P. Pattern-Based Verification of Programs with Extended Linear Linked Data Structures. ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE, 2006, vol. 2006, no. 145, p. 113-130. ISSN: 1571-0661. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "BOUAJJANI, A.; HABERMEHL, P.; ROGALEWICZ, A.; VOJNAR, T. Abstract Regular Tree Model Checking. Proceedings of 7th International Workshop on Verification of Infinite-State Systems -- INFINITY 2005. BRICS Notes Series. Aarhus: Basic Research in Computer Science, Computer Science Departments of the Aarlborg and Aarhus Universities, 2005. no. 4, p. 15-24. ISSN: 0909-3206. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "ERLEBACH, P.; VOJNAR, T. Automated Formal Verification of Programs with Dynamic Data Structures Using State-of-the-Art Tools. Proceedings of 8th International Conference ISIM'05 Information System Implementation and Modeling. Ostrava: Marq software s.r.o., 2005. p. 219-226. ISBN: 80-86840-09-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "HABERMEHL, P.; VOJNAR, T. Regular Model Checking Using Inference of Regular Languages. ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE, 2005, vol. 138, no. 3, p. 21-36. ISSN: 1571-0661. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "KRENA, B.; CESKA, M.; VOJNAR, T. Parallel State Space Generation and Exploration on Shared-Memory Architectures. Computer Aided Systems Theory - EUROCAST 2005. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2005. p. 275-280. ISBN: 978-3-540-29002-5. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MATOUSEK, P. Symbolic Data Structures for Parametric Verification. Brno: Faculty of Information Technology BUT, 2005. 106 p. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MATOUSEK, P.; SMRCKA, A.; VOJNAR, T. High-Level Modelling, Analysis, and Verification on FPGA-Based Hardware Design. Correct Hardware Design and Verification Methods. Lecture Notes in Computer Science. Lecture Notes in Computer Science 3725/2005. Berlin: Springer Verlag, 2005. no. 3725, p. 371-375. ISBN: 978-3-540-29105-3. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SMRCKA, A., MATOUSEK, P., VOJNAR, T. High-level Modelling, Analysis, and Verification on FPGA-based Hardware Design. Brno: CESNET National Research and Education Network, 2005. 17 p. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "VOJNAR, T.; BOUAJJANI, A.; HABERMEHL, P.; MORO, P. Verifying Programs with Dynamic 1-Selector-Linked Structures in Regular Model Checking. Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2005. p. 13-29. ISBN: 978-3-540-25333-4. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "VOJNAR, T.; CESKA, M.; ERLEBACH, P. Pattern-Based Verification of Programs with Extended Linear Linked Data Structures. Proceedings of Fifth International Workshop on Automated Verification of Critical Systems. Warwick: 2005. p. 101-117. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "BOUAJJANI, A.; HABERMEHL, P.; VOJNAR, T. Abstract Regular Model Checking. Lecture Notes in Computer Science, 2004, vol. 2004, no. 3114, p. 372-386. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "HABERMEHL, P.; VOJNAR, T. Regular Model Checking Using Inference of Regular Languages. Proceedings of 6th International Workshop on Verification of Infinite-State Systems -- INFINITY 2004. London: 2004. p. 61-71. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "KRENA, B. Metody analyzy objektove orientovanych Petriho siti. Brno: 2004. 128 s. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "MATOUSEK, P. A New Data Structure Based on Intervals. Proceedings of MOVEP'04. Bruxelles: 2004. p. 16-21. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "MATOUSEK, P. Tools for Parametric Verification. A Comparison on a Case Study. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2004, vol. 10, no. 10, p. 1469-1495. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2004",
+            "details": "ROGALEWICZ, A.; VOJNAR, T. Tree Automata In Modelling And Verification Of Concurrent Programs. Proceedings of ASIS 2004. Ostrava: Marq software s.r.o., 2004. p. 197-202. ISBN: 80-86840-03-4. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "BOUAJJANI, A.; HABERMEHL, P.; VOJNAR, T. Verification of Parametric Concurrent Systems with Prioritized FIFO Resource Management. Lecture Notes in Computer Science, 2003, vol. 2003, no. 2761, p. 174-190. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2003",
+            "details": "CESKA, M.; HASA, L.; VOJNAR, T. Partial-Order Reduction in Model Checking of Object-Oriented Petri Nets. In Computer Aided Systems Theory - EUROCAST 2003. Lecture Notes in Computer Science 2809. Berlin: Springer Verlag, 2003. p. 265-278. ISBN: 3-540-20221-8. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Analysis and Verification Queries over Object-Oriented Petri Nets. Formal Methods and Tools for Computer Science, Eurocast 2001, Extended Abstracts. Las Palmas de Gran Canaria, Canary Islands, Spain: University of Las Palmas, 2001. p. 115-118. ISBN: 84-699-3971-8. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "CESKA, M.; JANOUSEK, V.; VOJNAR, T. Generating and Using State Spaces of Object-Oriented Petri Nets. COMPUTER SYSTEMS SCIENCE AND ENGINEERING, 2001, vol. 16, no. 3, p. 183-193. ISSN: 0267-6192. Detail"
+        },
+        {
+            "year": "2001",
+            "details": "VOJNAR, T. Towards Formal Analysis and Verification over State Spaces of Object-Oriented Petri Nets. Brno: 2001. 148 p. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2024",
+            "title": "Mata: A Finite Automata Library",
+            "authors": "Mata: A Finite Automata Library , software, 2024 : HAVLENA, V.; HOLIK, L.; CHOCHOLATY, D.; LENGAL, O.; SIC, J.; FIEDOR, T.; HRUSKA, M."
+        },
+        {
+            "year": "2024",
+            "title": "Predator Hunting Party: A Tool for Verification and Bug Hunting, version 3.1415",
+            "authors": "Predator Hunting Party: A Tool for Verification and Bug Hunting, version 3.1415 , software, 2024 : MULLER, P.; PERINGER, P.; SOKOVA, V.; VOJNAR, T.; KINST, O.; KOTOUN, M."
+        },
+        {
+            "year": "2024",
+            "title": "Z3-Noodler: A String Solver",
+            "authors": "Z3-Noodler: A String Solver , software, 2024 : HAVLENA, V.; HOLIK, L.; CHOCHOLATY, D.; LENGAL, O.; SIC, J.; CHEN, Y."
+        },
+        {
+            "year": "2023",
+            "title": "Network application tester based on fault-injection",
+            "authors": "Network application tester based on fault-injection , software, 2023 : ROZSIVAL, M.; SMRCKA, A."
+        },
+        {
+            "year": "2023",
+            "title": "RacerF, Version 1.0",
+            "authors": "RacerF, Version 1.0 , software, 2023 : DACIK, T.; VOJNAR, T."
+        },
+        {
+            "year": "2022",
+            "title": "Analyzator metrik monitorovanych v dohledovem centru",
+            "authors": "Analyzator metrik monitorovanych v dohledovem centru , software, 2022 : FIEDOR, T.; HRUSKA, M.; SMRCKA, A.; SVEDA, M.; HRADSKY, T."
+        },
+        {
+            "year": "2022",
+            "title": "Atomer: Atomicity Violations Analyser, Version 2.0",
+            "authors": "Atomer: Atomicity Violations Analyser, Version 2.0 , software, 2022 : HARMIM, D.; VOJNAR, T."
+        },
+        {
+            "year": "2022",
+            "title": "Broom: A Static Analyzer for C Based on Separation Logic and the Principle of Bi-Abductive Reasoning",
+            "authors": "Broom: A Static Analyzer for C Based on Separation Logic and the Principle of Bi-Abductive Reasoning , software, 2022 : ROGALEWICZ, A.; SOKOVA, V.; VOJNAR, T.; HOLIK, L.; PERINGER, P.; ZULEGER, F."
+        },
+        {
+            "year": "2022",
+            "title": "GadgetCA: A Tool for Generating ReDoS Attacks",
+            "authors": "GadgetCA: A Tool for Generating ReDoS Attacks , software, 2022 : HOLIK, L.; HOLIKOVA, L.; HOMOLIAK, I.; LENGAL, O.; VOJNAR, T.; VEANES, M."
+        },
+        {
+            "year": "2022",
+            "title": "Multitenantni aplikacni modul vyrobniho informacniho systemu",
+            "authors": "Multitenantni aplikacni modul vyrobniho informacniho systemu , software, 2022 : SMRCKA, A.; FREYBURG, P.; SVEDA, M.; HRADSKY, T."
+        },
+        {
+            "year": "2022",
+            "title": "Ranker: A Tool for Complementing Buchi Automata",
+            "authors": "Ranker: A Tool for Complementing Buchi Automata , software, 2022 : HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B."
+        },
+        {
+            "year": "2022",
+            "title": "Unite: An Adapter for Transforming Analysis Tools to Web Services via OSLC, Version 3.0",
+            "authors": "Unite: An Adapter for Transforming Analysis Tools to Web Services via OSLC, Version 3.0 , software, 2022 : VASICEK, O.; FIEDOR, J.; SMRCKA, A.; VOJNAR, T.; KRENA, B."
+        },
+        {
+            "year": "2021",
+            "title": "DeadlockF, Version 1.0",
+            "authors": "DeadlockF, Version 1.0 , software, 2021 : DACIK, T.; VOJNAR, T."
+        },
+        {
+            "year": "2021",
+            "title": "Software for measurement and evaluation of performance parameters",
+            "authors": "Software for measurement and evaluation of performance parameters , software, 2021 : FIEDOR, T.; HRUSKA, M.; SMRCKA, A."
+        },
+        {
+            "year": "2021",
+            "title": "Testos-Aufover - Verification as a Service",
+            "authors": "Testos-Aufover - Verification as a Service , software, 2021 : SMRCKA, A.; VASICEK, O.; FIEDOR, J.; VOJNAR, T."
+        },
+        {
+            "year": "2020",
+            "title": "ANaConDA: A Framework for Analysing Multi-threaded C/C++ Programs on the Binary Level, Version 0.4",
+            "authors": "ANaConDA: A Framework for Analysing Multi-threaded C/C++ Programs on the Binary Level, Version 0.4 , software, 2020 : FIEDOR, J.; VASICEK, O.; MUZIKOVSKA, M.; SMRCKA, A.; VOJNAR, T.; KRENA, B."
+        },
+        {
+            "year": "2020",
+            "title": "Atomer: Atomicity Violations Analyser, Version 1.0",
+            "authors": "Atomer: Atomicity Violations Analyser, Version 1.0 , software, 2020 : HARMIM, D.; VOJNAR, T."
+        },
+        {
+            "year": "2020",
+            "title": "Chipmunk: A Tool for Matching of Regular Expressions",
+            "authors": "Chipmunk: A Tool for Matching of Regular Expressions , software, 2020 : HOLIK, L.; HOLIKOVA, L.; LENGAL, O.; VOJNAR, T.; VEANES, M."
+        },
+        {
+            "year": "2020",
+            "title": "L2D2: A Low Level Deadlock Detector, Version 1.0",
+            "authors": "L2D2: A Low Level Deadlock Detector, Version 1.0 , software, 2020 : MARCIN, V.; VOJNAR, T."
+        },
+        {
+            "year": "2020",
+            "title": "Looper: A Worst Case Cost Analyser, Version 1.0",
+            "authors": "Looper: A Worst Case Cost Analyser, Version 1.0 , software, 2020 : PAVELA, O.; VOJNAR, T.; FIEDOR, T.; ROGALEWICZ, A."
+        },
+        {
+            "year": "2020",
+            "title": "Nastroj pro pripravu testu prumyslovych aplikaci",
+            "authors": "Nastroj pro pripravu testu prumyslovych aplikaci , software, 2020 : HRUSKA, M.; FIEDOR, T.; PANOV, S.; ROZSIVAL, M.; SMRCKA, A.; TURECEK, D.; POSPISIL, L.; CELEDA, P."
+        },
+        {
+            "year": "2020",
+            "title": "OSLC ANaConDA Adapter, Version 1.0",
+            "authors": "OSLC ANaConDA Adapter, Version 1.0 , software, 2020 : VASICEK, O.; FIEDOR, J.; SMRCKA, A.; VOJNAR, T.; KRENA, B."
+        },
+        {
+            "year": "2020",
+            "title": "Perun: Lightweight Performance Version System, Version 0.18.3",
+            "authors": "Perun: Lightweight Performance Version System, Version 0.18.3 , software, 2020 : FIEDOR, T.; PAVELA, J.; PODOLA, R.; STUPINSKY, S.; LISCINSKY, M.; ROGALEWICZ, A.; VOJNAR, T."
+        },
+        {
+            "year": "2020",
+            "title": "Testos-Spectra: A tool for verification of ptLTL on C/C++ programs",
+            "authors": "Testos-Spectra: A tool for verification of ptLTL on C/C++ programs , software, 2020 : SMRCKA, A.; SECKAROVA, P."
+        },
+        {
+            "year": "2019",
+            "title": "PICoSo: An SMT Solver for String Constraints",
+            "authors": "PICoSo: An SMT Solver for String Constraints , software, 2019 : HOLIKOVA, L.; JANKU, P."
+        },
+        {
+            "year": "2019",
+            "title": "Trau: SMT solver for string constraints",
+            "authors": "Trau: SMT solver for string constraints , software, 2019 : HOLIK, L.; ABDULLA, P.; ATIG, M.; BUI PHI, D.; CHEN, Y.; REZINE, A.; RUMMER, P."
+        },
+        {
+            "year": "2019",
+            "title": "VeriFIT Static Analysis Plugins",
+            "authors": "VeriFIT Static Analysis Plugins , software, 2019 : MARCIN, V.; HARMIM, D.; PAVELA, O.; VOJNAR, T.; FIEDOR, T.; ROGALEWICZ, A."
+        },
+        {
+            "year": "2018",
+            "title": "MINA: A Tool for Verification of Programs with an Unbounded Number of Threads",
+            "authors": "MINA: A Tool for Verification of Programs with an Unbounded Number of Threads , software, 2018 : HOLIK, L.; HOLIKOVA, L.; VOJNAR, T."
+        },
+        {
+            "year": "2018",
+            "title": "Ranger: A Tool for Bounds Analysis of Heap-Manipulating Programs",
+            "authors": "Ranger: A Tool for Bounds Analysis of Heap-Manipulating Programs , software, 2018 : FIEDOR, T.; HOLIK, L.; ROGALEWICZ, A.; VOJNAR, T.; SINN, M.; ZULEGER, F."
+        },
+        {
+            "year": "2018",
+            "title": "Sloth: An SMT Solver for String Constraints",
+            "authors": "Sloth: An SMT Solver for String Constraints , software, 2018 : HOLIK, L.; JANKU, P.; VOJNAR, T.; LIN, A.; RUMMER, P."
+        },
+        {
+            "year": "2017",
+            "title": "Gaston - Symbolic WS1S Solver",
+            "authors": "Gaston - Symbolic WS1S Solver , software, 2017 : FIEDOR, T.; HOLIK, L.; JANKU, P.; LENGAL, O.; VOJNAR, T."
+        },
+        {
+            "year": "2015",
+            "title": "dWiNA - An Implementation of Decision Procedure for WS1S",
+            "authors": "dWiNA - An Implementation of Decision Procedure for WS1S , software, 2015 : FIEDOR, T.; LENGAL, O.; HOLIK, L.; VOJNAR, T."
+        },
+        {
+            "year": "2015",
+            "title": "INCLUDER (TRACER): Trace Inclusion for Data Word Automata",
+            "authors": "INCLUDER (TRACER): Trace Inclusion for Data Word Automata , software, 2015 : ROGALEWICZ, A.; IOSIF, R.; VOJNAR, T."
+        },
+        {
+            "year": "2015",
+            "title": "Norn: An SMT Solver for String Constraints",
+            "authors": "Norn: An SMT Solver for String Constraints , software, 2015 : HOLIK, L.; ABDULLA, P.; ATIG, M.; CHEN, Y.; REZINE, A.; STENMAN, J."
+        },
+        {
+            "year": "2014",
+            "title": "HADES - Hazard Detection System",
+            "authors": "HADES - Hazard Detection System , software, 2014 : CHARVAT, L.; SMRCKA, A.; VOJNAR, T."
+        },
+        {
+            "year": "2014",
+            "title": "SLIDE: Separation Logic with Inductive Definitions",
+            "authors": "SLIDE: Separation Logic with Inductive Definitions , software, 2014 : ROGALEWICZ, A.; IOSIF, R.; VOJNAR, T."
+        },
+        {
+            "year": "2014",
+            "title": "SPEN - A Solver for Separation Logic Entailments",
+            "authors": "SPEN - A Solver for Separation Logic Entailments , software, 2014 : LENGAL, O.; VOJNAR, T.; ENEA, C.; SIGHIREANU, M."
+        },
+        {
+            "year": "2013",
+            "title": "CPAlien: Configurable Program Analysis over Symbolic Memory Graphs",
+            "authors": "CPAlien: Configurable Program Analysis over Symbolic Memory Graphs , software, 2013 : MULLER, P.; VOJNAR, T."
+        },
+        {
+            "year": "2012",
+            "title": "ANaConDA: A Framework for Analysing Multi-threaded C/C++ Programs on the Binary Level",
+            "authors": "ANaConDA: A Framework for Analysing Multi-threaded C/C++ Programs on the Binary Level , software, 2012 : FIEDOR, J.; VOJNAR, T."
+        },
+        {
+            "year": "2012",
+            "title": "HAVEN: An Open Framework for FPGA-Accelerated Functional Verification of Hardware",
+            "authors": "HAVEN: An Open Framework for FPGA-Accelerated Functional Verification of Hardware , software, 2012 : ZACHARIASOVA, M.; LENGAL, O.; KAJAN, M."
+        },
+        {
+            "year": "2012",
+            "title": "VATA: A Library for Efficient Manipulation of Non-Deterministic Tree Automata",
+            "authors": "VATA: A Library for Efficient Manipulation of Non-Deterministic Tree Automata , software, 2012 : LENGAL, O.; SIMACEK, J.; VOJNAR, T."
+        },
+        {
+            "year": "2011",
+            "title": "DA-BMC: A Tool Chain Combining Dynamic Analysis and Bounded Model Checking",
+            "authors": "DA-BMC: A Tool Chain Combining Dynamic Analysis and Bounded Model Checking , software, 2011 : DUDKA, V.; FIEDOR, J.; VOJNAR, T.; KRENA, B."
+        },
+        {
+            "year": "2010",
+            "title": "An Easy to Use Infrastructure for Building Static Analysis Tools",
+            "authors": "An Easy to Use Infrastructure for Building Static Analysis Tools , software, 2010 : DUDKA, K.; PERINGER, P.; VOJNAR, T."
+        },
+        {
+            "year": "2010",
+            "title": "Forester: A Tool for Verification of Programs with Pointers",
+            "authors": "Forester: A Tool for Verification of Programs with Pointers , software, 2010 : SIMACEK, J.; HOLIK, L.; ROGALEWICZ, A.; VOJNAR, T.; HABERMEHL, P."
+        },
+        {
+            "year": "2010",
+            "title": "Framework for Formal Verification of Clock Domain Crossing",
+            "authors": "Framework for Formal Verification of Clock Domain Crossing , software, 2010 : SMRCKA, A.; VOJNAR, T."
+        },
+        {
+            "year": "2010",
+            "title": "libSFTA: A Semi-symbolic Nondeterministic Finite Tree Automata Library Prototype",
+            "authors": "libSFTA: A Semi-symbolic Nondeterministic Finite Tree Automata Library Prototype , software, 2010 : LENGAL, O.; HOLIK, L.; VOJNAR, T."
+        },
+        {
+            "year": "2010",
+            "title": "Predator: A Tool for Checking Manipulation of Dynamic Data Structures Using Separation Logic",
+            "authors": "Predator: A Tool for Checking Manipulation of Dynamic Data Structures Using Separation Logic , software, 2010 : DUDKA, K.; PERINGER, P.; VOJNAR, T."
+        },
+        {
+            "year": "2010",
+            "title": "Replay Tracer & BMC",
+            "authors": "Replay Tracer & BMC , software, 2010 : DUDKA, V.; FIEDOR, J.; KRENA, B.; LETKO, Z.; VOJNAR, T."
+        },
+        {
+            "year": "2010",
+            "title": "Search-based Testing Environment (SearchBestie)",
+            "authors": "Search-based Testing Environment (SearchBestie) , software, 2010 : LETKO, Z.; VOJNAR, T.; KRENA, B."
+        },
+        {
+            "year": "2010",
+            "title": "Tool for verification of systems described using the Modechart formalism",
+            "authors": "Tool for verification of systems described using the Modechart formalism , software, 2010 : GACH, M.; FIEDOR, J.; CESKA, M."
+        },
+        {
+            "year": "2010",
+            "title": "Tool for verification of systems specified in RT-Logic language",
+            "authors": "Tool for verification of systems specified in RT-Logic language , software, 2010 : FIEDOR, J.; GACH, M.; CESKA, M."
+        },
+        {
+            "year": "2009",
+            "title": "Analyzator CDC asynchronnich komponent",
+            "authors": "Analyzator CDC asynchronnich komponent , software, 2009 : SMRCKA, A."
+        },
+        {
+            "year": "2009",
+            "title": "FLATA",
+            "authors": "FLATA , software, 2009 : KONECNY, F.; VOJNAR, T.; BOZGA, M.; IOSIF, R."
+        },
+        {
+            "year": "2009",
+            "title": "Prekladac modelu FAST pro ARMC",
+            "authors": "Prekladac modelu FAST pro ARMC , software, 2009 : SMRCKA, A."
+        },
+        {
+            "year": "2009",
+            "title": "Tool for Computing Simulations",
+            "authors": "Tool for Computing Simulations , software, 2009 : SIMACEK, J.; HOLIK, L.; VOJNAR, T."
+        },
+        {
+            "year": "2008",
+            "title": "Java Atomicity Violation Detector & Healer",
+            "authors": "Java Atomicity Violation Detector & Healer , software, 2008 : LETKO, Z.; VOJNAR, T.; KRENA, B."
+        },
+        {
+            "year": "2008",
+            "title": "Model checking Using Symbolic Execution",
+            "authors": "Model checking Using Symbolic Execution , software, 2008 : KRENA, B.; BRAIONE, P.; DENARO, G.; PEZZE, M."
+        },
+        {
+            "year": "2007",
+            "title": "ARTMC - Abstract Regular Tree Model Checking",
+            "authors": "ARTMC - Abstract Regular Tree Model Checking , software, 2007 : ROGALEWICZ, A.; VOJNAR, T."
+        },
+        {
+            "year": "2007",
+            "title": "Java Race Detector & Healer",
+            "authors": "Java Race Detector & Healer , software, 2007 : LETKO, Z.; VOJNAR, T.; KRENA, B."
+        },
+        {
+            "year": "2007",
+            "title": "Translator of VHDL Design to Counter Automaton",
+            "authors": "Translator of VHDL Design to Counter Automaton , software, 2007 : SMRCKA, A.; VOJNAR, T."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2005",
+            "title": "Automata-based Verification of Programs with Tree Updates",
+            "authors": ", research report, 2005 : HABERMEHL, P., RADU, I., VOJNAR, T."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2023",
+            "title": "A symbolic algorithm for the case-split rule in solving word constraints with extensions (technical report)",
+            "authors": "A symbolic algorithm for the case-split rule in solving word constraints with extensions (technical report) , report, 2023 : HAVLENA, V.; LENGAL, O.; CHEN, Y.; TURRINI, A."
+        },
+        {
+            "year": "2023",
+            "title": "Modular Mix-and-Match Complementation of Buchi Automata (Technical Report)",
+            "authors": "Modular Mix-and-Match Complementation of Buchi Automata (Technical Report) , report, 2023 : HAVLENA, V.; SMAHLIKOVA, B.; LENGAL, O.; LI, Y.; TURRINI, A."
+        },
+        {
+            "year": "2022",
+            "title": "Complementing Buchi Automata with Ranker (Technical Report)",
+            "authors": "Complementing Buchi Automata with Ranker (Technical Report) , report, 2022 : HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B."
+        },
+        {
+            "year": "2022",
+            "title": "Low-Level Bi-Abduction (Artifact)",
+            "authors": "Low-Level Bi-Abduction (Artifact) , other unclassified results, 2022 : ROGALEWICZ, A.; SOKOVA, V.; VOJNAR, T.; HOLIK, L.; PERINGER, P.; ZULEGER, F."
+        },
+        {
+            "year": "2022",
+            "title": "Low-Level Bi-Abduction (technical report)",
+            "authors": "Low-Level Bi-Abduction (technical report) , report, 2022 : HOLIK, L.; PERINGER, P.; ROGALEWICZ, A.; SOKOVA, V.; VOJNAR, T.; ZULEGER, F."
+        },
+        {
+            "year": "2022",
+            "title": "Sky Is Not the Limit: Tighter Rank Bounds for Elevator Automata in Buchi Automata Complementation (Technical Report)",
+            "authors": "Sky Is Not the Limit: Tighter Rank Bounds for Elevator Automata in Buchi Automata Complementation (Technical Report) , report, 2022 : HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B."
+        },
+        {
+            "year": "2021",
+            "title": "Reducing (to) the Ranks: Efficient Rank-based Buchi Automata Complementation (Technical Report)",
+            "authors": "Reducing (to) the Ranks: Efficient Rank-based Buchi Automata Complementation (Technical Report) , report, 2021 : HAVLENA, V.; LENGAL, O."
+        },
+        {
+            "year": "2020",
+            "title": "Learning Probabilistic Automata in the Context of IEC 104",
+            "authors": "Learning Probabilistic Automata in the Context of IEC 104 , report, 2020 : HAVLENA, V.; HOLIK, L.; MATOUSEK, P."
+        },
+        {
+            "year": "2020",
+            "title": "String Constraints with Concatenation and Transducers Solved Efficiently (Technical Report)",
+            "authors": "String Constraints with Concatenation and Transducers Solved Efficiently (Technical Report) , report, 2020 : HOLIK, L.; JANKU, P.; VOJNAR, T.; LIN, A.; RUMMER, P."
+        },
+        {
+            "year": "2019",
+            "title": "Automata Terms in a Lazy WSkS Decision Procedure (Technical Report)",
+            "authors": "Automata Terms in a Lazy WSkS Decision Procedure (Technical Report) , report, 2019 : HAVLENA, V.; HOLIK, L.; LENGAL, O.; VOJNAR, T."
+        },
+        {
+            "year": "2019",
+            "title": "PredatorHP Attacks Interval-Sized Regions",
+            "authors": "PredatorHP Attacks Interval-Sized Regions , report, 2019 : KOTOUN, M.; PERINGER, P.; SOKOVA, V.; VOJNAR, T."
+        },
+        {
+            "year": "2019",
+            "title": "Succinct Determinisation of Counting Automata via Sphere Construction (Technical Report)",
+            "authors": "Succinct Determinisation of Counting Automata via Sphere Construction (Technical Report) , report, 2019 : HOLIK, L.; HOLIKOVA, L.; LENGAL, O.; VOJNAR, T.; SAARIKIVI, O.; VEANES, M."
+        },
+        {
+            "year": "2018",
+            "title": "Simulation Algorithms for Symbolic Automata (Technical Report)",
+            "authors": "Simulation Algorithms for Symbolic Automata (Technical Report) , report, 2018 : HOLIK, L.; LENGAL, O.; SIC, J.; VOJNAR, T.; VEANES, M."
+        },
+        {
+            "year": "2017",
+            "title": "An Executable Sequential Specification for Spark Aggregation",
+            "authors": "An Executable Sequential Specification for Spark Aggregation , report, 2017 : LENGAL, O.; HONG, C.; CHEN, Y.; MU, S.; SINHA, N.; WANG, B."
+        },
+        {
+            "year": "2017",
+            "title": "Lazy Automata Techniques for WS1S",
+            "authors": "Lazy Automata Techniques for WS1S , report, 2017 : FIEDOR, T.; HOLIK, L.; JANKU, P.; LENGAL, O.; VOJNAR, T."
+        },
+        {
+            "year": "2017",
+            "title": "Register Automata with Linear Arithmetic",
+            "authors": "Register Automata with Linear Arithmetic , report, 2017 : LENGAL, O.; CHEN, Y.; TAN, T.; WU, Z."
+        },
+        {
+            "year": "2016",
+            "title": "From Low-Level Pointers to High-Level Containers, Technical Report No. FIT-TR-2015-03",
+            "authors": "From Low-Level Pointers to High-Level Containers, Technical Report No. FIT-TR-2015-03 , report, 2016 : DUDKA, K.; HOLIK, L.; PERINGER, P.; TRTIK, M.; VOJNAR, T."
+        },
+        {
+            "year": "2014",
+            "title": "Compositional Entailment Checking for a Fragment of Separation Logic",
+            "authors": "Compositional Entailment Checking for a Fragment of Separation Logic , report, 2014 : ENEA, C.; LENGAL, O.; SIGHIREANU, M.; VOJNAR, T."
+        },
+        {
+            "year": "2014",
+            "title": "Using Formal Verification of Parameterized Systems in RAW Hazard Analysis in Microprocessors",
+            "authors": "Using Formal Verification of Parameterized Systems in RAW Hazard Analysis in Microprocessors , report, 2014 : CHARVAT, L.; SMRCKA, A.; VOJNAR, T."
+        },
+        {
+            "year": "2013",
+            "title": "Byte-Precise Verification of Low-Level List Manipulation",
+            "authors": "Byte-Precise Verification of Low-Level List Manipulation , report, 2013 : DUDKA, K.; PERINGER, P.; VOJNAR, T."
+        },
+        {
+            "year": "2013",
+            "title": "Fully Automated Shape Analysis Based on Forest Automata",
+            "authors": "Fully Automated Shape Analysis Based on Forest Automata , report, 2013 : HOLIK, L.; LENGAL, O.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T."
+        },
+        {
+            "year": "2013",
+            "title": "The Tree Width of Separation Logic with Recursive Definitions",
+            "authors": "The Tree Width of Separation Logic with Recursive Definitions , report, 2013 : ROGALEWICZ, A.; SIMACEK, J.; IOSIF, R."
+        },
+        {
+            "year": "2013",
+            "title": "Verification of Heap Manipulating Programs with Ordered Data by Extended Forest Automata",
+            "authors": "Verification of Heap Manipulating Programs with Ordered Data by Extended Forest Automata , report, 2013 : HOLIK, L.; JONSSON, B.; LENGAL, O.; VOJNAR, T.; TRINH, Q.; ABDULLA, P."
+        },
+        {
+            "year": "2012",
+            "title": "Testing of Concurrent Programs Using Genetic Algorithms",
+            "authors": "Testing of Concurrent Programs Using Genetic Algorithms , report, 2012 : DUDKA, V.; KRENA, B.; LETKO, Z.; VOJNAR, T."
+        },
+        {
+            "year": "2012",
+            "title": "Towards Beneficial Hardware Acceleration in HAVEN: Evaluation of Testbed Architectures",
+            "authors": "Towards Beneficial Hardware Acceleration in HAVEN: Evaluation of Testbed Architectures , report, 2012 : ZACHARIASOVA, M.; LENGAL, O."
+        },
+        {
+            "year": "2011",
+            "title": "Advanced Ramsey-based Buchi Automata Inclusion Testing",
+            "authors": "Advanced Ramsey-based Buchi Automata Inclusion Testing , report, 2011 : ABDULLA, P.; CHEN, Y.; CLEMENTE, L.; HOLIK, L.; HONG, C.; MAYR, R.; VOJNAR, T."
+        },
+        {
+            "year": "2011",
+            "title": "DA-BMC: A Tool Chain Combining Dynamic Analysis and Bounded Model Checking",
+            "authors": "DA-BMC: A Tool Chain Combining Dynamic Analysis and Bounded Model Checking , report, 2011 : DUDKA, V.; FIEDOR, J.; KRENA, B.; VOJNAR, T."
+        },
+        {
+            "year": "2011",
+            "title": "Efficient Inclusion Checking on Explicit and Semi-Symbolic Tree Automata",
+            "authors": "Efficient Inclusion Checking on Explicit and Semi-Symbolic Tree Automata , report, 2011 : HOLIK, L.; LENGAL, O.; SIMACEK, J.; VOJNAR, T."
+        },
+        {
+            "year": "2011",
+            "title": "Forest Automata for Verification of Heap Manipulation",
+            "authors": "Forest Automata for Verification of Heap Manipulation , report, 2011 : HOLIK, L.; ROGALEWICZ, A.; SIMACEK, J.; VOJNAR, T.; HABERMEHL, P."
+        },
+        {
+            "year": "2011",
+            "title": "HAVEN: An Open Framework for FPGA-Accelerated Functional Verification of Hardware",
+            "authors": "HAVEN: An Open Framework for FPGA-Accelerated Functional Verification of Hardware , report, 2011 : ZACHARIASOVA, M.; LENGAL, O.; KAJAN, M."
+        },
+        {
+            "year": "2011",
+            "title": "Predator: A Practical Tool for Checking Manipulation of Dynamic Data Structures Using Separation Logic",
+            "authors": "Predator: A Practical Tool for Checking Manipulation of Dynamic Data Structures Using Separation Logic , report, 2011 : DUDKA, K.; PERINGER, P.; VOJNAR, T."
+        },
+        {
+            "year": "2010",
+            "title": "A Uniform Classification of Common Concurrency Errors",
+            "authors": "A Uniform Classification of Common Concurrency Errors , report, 2010 : FIEDOR, J.; KRENA, B.; LETKO, Z.; VOJNAR, T."
+        },
+        {
+            "year": "2010",
+            "title": "Fast Acceleration of Ultimately Periodic Relations",
+            "authors": "Fast Acceleration of Ultimately Periodic Relations , report, 2010 : BOZGA, M.; IOSIF, R.; KONECNY, F."
+        },
+        {
+            "year": "2010",
+            "title": "Simulation Subsumption in Ramsey-based Buchi Automata Universality and Inclusion Testing",
+            "authors": "Simulation Subsumption in Ramsey-based Buchi Automata Universality and Inclusion Testing , report, 2010 : HOLIK, L.; VOJNAR, T.; CHEN, Y.; MAYR, R.; HONG, C.; ABDULLA, P.; CLEMENTE, L."
+        },
+        {
+            "year": "2010",
+            "title": "When Simulation Meets Antichains (On Checking Language Inclusion of Nondeterministic Finite (Tree) Automata)",
+            "authors": "When Simulation Meets Antichains (On Checking Language Inclusion of Nondeterministic Finite (Tree) Automata) , report, 2010 : HOLIK, L.; VOJNAR, T.; ABDULLA, P.; CHEN, Y.; MAYR, R."
+        },
+        {
+            "year": "2009",
+            "title": "A Concurrency Testing Tool and its Plug-ins for Dynamic Analysis and Runtime Healing",
+            "authors": "A Concurrency Testing Tool and its Plug-ins for Dynamic Analysis and Runtime Healing , report, 2009 : LETKO, Z.; VOJNAR, T.; KRENA, B.; NIR-BUCHBINDER, Y.; TZOREF-BRILL, R.; UR, S."
+        },
+        {
+            "year": "2009",
+            "title": "Automatic Verification of Integer Array Programs",
+            "authors": "Automatic Verification of Integer Array Programs , report, 2009 : IOSIF, R.; KONECNY, F.; VOJNAR, T.; HABERMEHL, P.; BOZGA, M."
+        },
+        {
+            "year": "2009",
+            "title": "Mediating for Reduction (On Minimizing Alternating Buchi Automata)",
+            "authors": "Mediating for Reduction (On Minimizing Alternating Buchi Automata) , report, 2009 : ABDULLA, P.; HOLIK, L.; CHEN, Y.; VOJNAR, T."
+        },
+        {
+            "year": "2009",
+            "title": "Mediating for Reduction (On Minimizing Alternating Buchi Automata)",
+            "authors": "Mediating for Reduction (On Minimizing Alternating Buchi Automata) , report, 2009 : HOLIK, L.; VOJNAR, T.; ABDULLA, P.; CHEN, Y."
+        },
+        {
+            "year": "2009",
+            "title": "Optimizing an LTS-Simulation Algorithm",
+            "authors": "Optimizing an LTS-Simulation Algorithm , report, 2009 : HOLIK, L.; SIMACEK, J."
+        },
+        {
+            "year": "2008",
+            "title": "A Logic of Singly Indexed Arrays",
+            "authors": "A Logic of Singly Indexed Arrays , report, 2008 : HABERMEHL, P.; IOSIF, R.; VOJNAR, T."
+        },
+        {
+            "year": "2008",
+            "title": "A Uniform (Bi-)Simulation-Based Framework for Reducing Tree Automata",
+            "authors": "A Uniform (Bi-)Simulation-Based Framework for Reducing Tree Automata , report, 2008 : HOLIK, L.; VOJNAR, T.; ABDULLA, P.; KAATI, L."
+        },
+        {
+            "year": "2008",
+            "title": "Antichain-based Universality and Inclusion Testing over Nondeterministic Finite Tree Automata",
+            "authors": "Antichain-based Universality and Inclusion Testing over Nondeterministic Finite Tree Automata , report, 2008 : HOLIK, L.; VOJNAR, T.; BOUAJJANI, A.; HABERMEHL, P.; TOUILI, T."
+        },
+        {
+            "year": "2008",
+            "title": "Composed Bisimulation for Tree Automata",
+            "authors": "Composed Bisimulation for Tree Automata , report, 2008 : HOLIK, L.; VOJNAR, T.; ABDULLA, P.; BOUAJJANI, A.; KAATI, L."
+        },
+        {
+            "year": "2008",
+            "title": "Computing Simulations over Tree Automata: Efficient Techniques for Reducing Tree Automata",
+            "authors": "Computing Simulations over Tree Automata: Efficient Techniques for Reducing Tree Automata , report, 2008 : HOLIK, L.; VOJNAR, T.; ABDULLA, P.; BOUAJJANI, A.; KAATI, L."
+        },
+        {
+            "year": "2008",
+            "title": "What else is decidable about integer arrays?",
+            "authors": "What else is decidable about integer arrays? , report, 2008 : HABERMEHL, P.; IOSIF, R.; VOJNAR, T."
+        },
+        {
+            "year": "2007",
+            "title": "SHADOWS - Deliverable D3.2.1: Research Report on Methodology for Self-Healing Concurrent Code Fixing",
+            "authors": "SHADOWS - Deliverable D3.2.1: Research Report on Methodology for Self-Healing Concurrent Code Fixing , report, 2007 : KRENA, B.; LETKO, Z.; TZOREF-BRILL, R.; UR, S.; VOJNAR, T."
+        },
+        {
+            "year": "2007",
+            "title": "SHADOWS - Deliverable D3.2.3: Report on Safety of Program Modifications",
+            "authors": "SHADOWS - Deliverable D3.2.3: Report on Safety of Program Modifications , report, 2007 : DUDKA, V.; KRENA, B.; LETKO, Z.; VOJNAR, T."
+        },
+        {
+            "year": "2005",
+            "title": "CRC64 Algorithm Analysis and Verification",
+            "authors": "CRC64 Algorithm Analysis and Verification , report, 2005 : HLAVKA, P.; KRATOCHVILA, T.; REHAK, V.; SAFRANEK, D.; SIMECEK, P.; VOJNAR, T."
+        }
+    ]
+}

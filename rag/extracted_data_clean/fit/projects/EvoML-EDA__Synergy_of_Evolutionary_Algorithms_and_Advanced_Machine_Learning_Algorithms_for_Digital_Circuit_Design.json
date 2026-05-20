@@ -1,0 +1,29 @@
+{
+    "project": "EvoML-EDA: Synergy of Evolutionary Algorithms and Advanced Machine Learning Algorithms for Digital Circuit Design",
+    "title": "EvoML-EDA: Synergy of Evolutionary Algorithms and Advanced Machine Learning Algorithms for Digital Circuit Design",
+    "metadata": {
+        "project_period": "1. 1. 2026 \u2013 31. 12. 2030",
+        "project_type": "grant",
+        "code": "26-22525M",
+        "agency": "Czech Science Foundation",
+        "program": "JUNIOR STAR"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Digital circuit;Design Automation;Evolutionary Algorithms;Machine-Learning"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "This project develops a novel hybrid framework integrating evolutionary algorithms with advanced machine learning models to revolutionize digital circuit design. Current methodologies face significant challenges: evolutionary approaches suffer from inefficient blind operators and expensive evaluations, while ML-based approaches lack hardware-specific training data. Our framework addresses these limitations through ML-guided evolutionary operators, structure-aware surrogate models, and specialized techniques for emerging technologies and verification requirements. The synergistic combination leverages evolutionary algorithms' exploration capabilities with ML's pattern recognition power. We will validate our approach through diverse case studies including approximate accelerators, verification-optimized designs, medical signal classifiers, and superconducting circuits, advancing automated circuit design for both current and emerging technologies."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Mrazek Vojtech, Ing., Ph.D. (DCSY) \u2013 research leader Hurta Martin, Ing., Ph.D. (DCSY) Labuda Jan, Mgr. (DCSY) Sedlak David, Ing. (DCSY) Sertaridis Ilias (DCSY) Zachariasova Marcela, Ing., Ph.D. (DCSY)"
+        }
+    }
+}

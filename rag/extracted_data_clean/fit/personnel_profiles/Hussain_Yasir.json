@@ -1,0 +1,63 @@
+{
+    "contact": {
+        "department": "Department of Computer Systems",
+        "department_abbr": "DCSY",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "ihussain@fit.vut.cz",
+            "work_phone": "+420 54114 1055",
+            "room": "L305 PC Architecture Laboratory",
+            "orcid_id": "0009-0008-0610-1159"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Cognitive and Neural Engineering Research group",
+            "role": "Ph.D. student"
+        }
+    ],
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "BRIa",
+                "title": "Brain Computer Interface",
+                "details": "Laboratory exercise, Project,\nEnglish, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "IMHa",
+                "title": "Science of happiness",
+                "details": "Laboratory exercise,\nEnglish, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "INCe",
+                "title": "Digital Systems Design (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCSY"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Application-specific HW/SW architectures and their applications",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8141, start: 2023-03-01, end: 2026-02-28, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "HUSSAIN, Y.; AMNA, R.; MALIK, A. ECG and EEG Analysis of Brain-Heart Interactions During Seizure Episodes. In 2025 IEEE International Instrumentation and Measurement Technology Conference (I2MTC). Chemnitz: IEEE Computer Society, 2025. p. 1-6. ISBN: 979-8-3315-0500-4."
+        },
+        {
+            "year": "2025",
+            "citation": "HUSSAIN, Y.; FATIMA, M.; MALIK, A. A Deep Learning Approach to EEG-Based Diagnosis of Cognitive Skills Impairment: Electrode-Level Analysis Insights. In 2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI). Athens, Greece: IEEE, 2025. p. 1470-1475. ISBN: 979-8-3315-4919-0."
+        },
+        {
+            "year": "2025",
+            "citation": "HUSSAIN, Y.; SURAWEERA, S.; MALIK, A. Unraveling Cognitive Impairments in Mental and Neurological Disorders: A Biomarker-Based Mapping Framework. Neuroscience and Biobehavioral Reviews, 2025, vol. 180, no. 106426, 28 p."
+        }
+    ],
+    "name": "Hussain Yasir"
+}

@@ -1,0 +1,71 @@
+{
+    "publication": "XING, B.; YUAN, K.; YU, Z.; LIU, X.; KALVIAINEN, H. AU-TTT: Vision Test-Time Training model for Facial Action Unit Detection. In Proceedings IEEE International Conference on Multimedia and Expo. Proceedings (IEEE International Conference on Multimedia and Expo). IEEE Computer Society, 2025. 11 p. ISBN: 9798331594954. Detail YAN, B.; HAMED, I.; SHIMIZU, S.; LODAGALA, V.; CHEN, W.; IAKOVENKO, O.; TALAFHA, B.; HUSSEIN, A.; POLOK, A.; CHANG, K.; KLEMENT, D.; ALTHUBAITI, S.; PENG, P.; WIESNER, M.; SOLORIO, T.; ALI, A.; KHUDANPUR, S.; WATANABE, S. CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 743-747. Detail YU, Z.; LIU, X.; DAMER, N.; FAN, D.; SHI, J.; GUO, X.; LIN, X.; WEN, B.; KONG, A.; KALVIAINEN, H.; SCHULLER, B.; CAO, X. SVC 2025 Chairs\u2019 Welcome. Svc 2025 Proceedings of the 1st International Workshop and Challenge on Subtle Visual Computing Co Located with mm 2025. Association for Computing Machinery, Inc, 2025. ISBN: 9798400718373. Detail ZAKLOVA, K.; JOHN, P.; JANOSIK, A.; HYNEK, J.; HRUSKA, T. Transparency in Czech Regions: Evaluation of Open Data Availability for Public Awareness. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail ZAVREL, J.; KOUTENSKY, M.; DOLEJSKA, D.; VESELY, V. Tumbling Down the Stairs: Exploiting a Tumbler's Attempt to Hide with Ordinary-looking Transactions using Wallet Fingerprinting. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-9. ISSN: 2666-2817. Detail ZBORIL, F.; VIDENSKY, F.; KOCI, R.; ZBORIL, F. Advanced Evaluation of Variable Binding Strategies in BDI Agents with Integrated Failure Handling. In Agents and Artificial Intelligence. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2025. p. 3-29. ISBN: 978-3-031-87326-3. Detail ZEINALI, H.; LEE, K.; ALAM, J.; BURGET, L. Text-dependent Speaker Verification Challenge 2024: Exploring Shared and User-defined Passphrases. In 2025 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Hyderabad, Indicka republika: Institute of Electrical and Electronics Engineers Inc., 2025. p. 1-5. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; LU, W.; XU, J. Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing. IEEE Transactions on Audio, Speech, and Language Processing, 2025, no. 33, p. 3850-3865. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; XU, J.; LU, W. SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing. IEEE Transactions on Information Forensics and Security, 2025, no. 20, p. 6474-6489. Detail ZHANG, Y.; TIAN, B.; ZHANG, L.; DUAN, Z. PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 5353-5357.",
+    "year": "2025",
+    "title": "AU-TTT: Vision Test-Time Training model for Facial Action Unit Detection",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "conference paper"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Xing Bohao Yuan Kaishen Yu Zitong Liu Xin Kalviainen Heikki Antero, prof., Dr."
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Facial Action Units (AUs) detection is a cornerstone of objective facial expression analysis and a critical focus in affective computing. Despite its importance, AU detection faces significant challenges, such as the high cost of AU annotation and the limited availability of datasets. These constraints often lead to overfitting in existing methods, resulting in substantial performance degradation when applied across diverse datasets. Addressing these issues is essential for improving the reliability and generalizability of AU detection methods. Moreover, many current approaches leverage Transformers for their effectiveness in long-context modeling, but they are hindered by the quadratic complexity of self-attention. Recently, Test-Time Training (TTT) layers have emerged as a promising solution for long-sequence modeling. Additionally, TTT applies self-supervised learning for iterative updates during both training and inference, offering a potential pathway to mitigate the generalization challenges inherent in AU detection tasks. In this paper, we propose a novel vision backbone tailored for AU detection, incorporating bidirectional TTT blocks, named AU-TTT. Our approach introduces TTT Linear to the AU detection task and optimizes image scanning mechanisms for enhanced performance. Additionally, we design an AU-specific Region of Interest (RoI) scanning mechanism to capture fine-grained facial features critical for AU detection. Experimental results demonstrate that our method achieves competitive performance in both within-domain and cross-domain scenarios."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Facial AU detection | test-time training"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2025"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "11"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "Proceedings (IEEE International Conference on Multimedia and Expo), ISSN"
+        },
+        "proceedings": {
+            "label": "Proceedings",
+            "text": "Proceedings IEEE International Conference on Multimedia and Expo"
+        },
+        "conference": {
+            "label": "Conference",
+            "text": "IEEE International Conference on Multimedia and Expo"
+        },
+        "isbn": {
+            "label": "ISBN",
+            "text": "9798331594954"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "IEEE Computer Society"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1109/ICME59968.2025.11209184"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-105022622704"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@inproceedings{BUT200627, author=\"{} and {} and {} and {} and Heikki Antero {Kalviainen} and {}\", title=\"AU-TTT: Vision Test-Time Training model for Facial Action Unit Detection\", booktitle=\"Proceedings IEEE International Conference on Multimedia and Expo\", year=\"2025\", journal=\"Proceedings (IEEE International Conference on Multimedia and Expo)\", pages=\"11\", publisher=\"IEEE Computer Society\", doi=\"10.1109/ICME59968.2025.11209184\", isbn=\"9798331594954\", issn=\"1945-7871\" }"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Computer Graphics and Multimedia (DCGM)"
+        }
+    }
+}

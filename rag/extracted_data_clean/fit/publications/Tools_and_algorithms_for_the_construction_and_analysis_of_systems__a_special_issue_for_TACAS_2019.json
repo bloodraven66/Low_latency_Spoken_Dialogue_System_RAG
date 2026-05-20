@@ -1,0 +1,59 @@
+{
+    "publication": "VOJNAR, T.; ZHANG, L. Tools and algorithms for the construction and analysis of systems: a special issue for TACAS 2019. International Journal on Software Tools for Technology Transfer, 2026, vol. 24, no. 1, p. 29-31.",
+    "year": "2026",
+    "title": "Tools and algorithms for the construction and analysis of systems: a special issue for TACAS 2019",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "journal article"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Vojnar Tomas, prof. Ing., Ph.D. , DITS (FIT) ZHANG, L."
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Automated techniques and tools for the construction and analysis of systems are inevitable to manage the complexity of the current systems. Such techniques and tools are the subject of interest of the International Conference on Tools and Algorithms for the Construction and Analysis of Systems-TACAS. This special issue of Software Tools for Technology Transfer presents extended versions of five selected papers from the 25th edition of TACAS that took place in 2019. All of the papers included into this special issue aim at various aspects of automated design and formal verification and hence contribute to development of more reliable computer systems. 2021, The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Abstraction; Automata; Binary decision diagrams; Bounded model checking; Dependency graphs; Fault-tolerant distributed systems; Higher-order logic; Interpolation; Linear algebra; Model checking; SMT solving; Theorem proving"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2026"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "29\u201331"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "International Journal on Software Tools for Technology Transfer, vol. 24, no. 1, ISSN"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1007/s10009-021-00642-y"
+        },
+        "ut_wos": {
+            "label": "UT WoS",
+            "text": "000679761900001"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-85112621664"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@article{BUT193229, author=\"VOJNAR, T. and ZHANG, L.\", title=\"Tools and algorithms for the construction and analysis of systems: a special issue for TACAS 2019\", journal=\"International Journal on Software Tools for Technology Transfer\", year=\"2026\", volume=\"24\", number=\"1\", pages=\"29--31\", doi=\"10.1007/s10009-021-00642-y\", issn=\"1433-2779\", url=\"https://link.springer.com/article/10.1007/s10009-021-00642-y\" }"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Intelligent Systems (DITS)"
+        }
+    }
+}

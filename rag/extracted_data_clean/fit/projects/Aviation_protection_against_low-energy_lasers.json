@@ -1,0 +1,41 @@
+{
+    "project": "Aviation protection against low-energy lasers",
+    "title": "Ochrana letectvi pred nizkoenergetickymi lasery",
+    "metadata": {
+        "project_period": "1. 1. 2022 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "CK03000036",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "3. verejna soutez programu Doprava 2020+"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Aviation protection against low-energy lasers"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Aviation, low-energy lasers, Police of the Czech Republic"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The primary goal of the project is to design the structure of technical equipment with an associated algorithmic base and experimentally verify the possibilities of using an optoelectronic system for detection and localization of low-power laser sources, which threaten air safety. The device will be tailor-made for the application guarantor (CZ Police). Another goal is to verify the possibility of using this system for UAS detection so that it can be connected to the system of the current infrastructure administrator. Such a system can be placed in the vicinity of any airport and will cover not only the RWY itself but also the area of arrival and departure routes STAR and SID, where the aircraft are most vulnerable, which will be processed as an extension of additional system functionality"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Kolar Dusan, doc. Dr. Ing. (DIFS) \u2013 research leader Burget Radek, doc. Ing., Ph.D. (DIFS) Drahansky Martin, prof. Ing., Ph.D. Dyk Tomas, Ing. Goldmann Tomas, Ing., Ph.D. (DITS) Kanich Ondrej, Ing., Ph.D. (CM-SFE) Malanik Petr, Ing. Mika Monika, Ing. Orsag Filip, Ing., Ph.D. (DITS) Regeciova Dominika, Ing. (FIT) Rydlo Stepan, Ing. (DITS) Sakin Martin, Ing. (DITS) Viskupic Matej, Ing. (RG STRaDe)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- POLANECKA, A.; NOVACKOVA, K.; BALAZ, T.; RYDLO, S.; KOLAR, D. Detection of Laser Beams Aimed at Aircraft in Flight. In 2024 New Trends in Civil Aviation (NTCA). Praha: Institute of Electrical and Electronics Engineers, 2024. p. 119-124. ISBN: 978-80-01-07182-3. Detail"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- Sestava pro lokalizaci zdroje svazku laseroveho zareni / Snimaci jednotka systemu pro lokalizaci zdroje laseroveho svazku , utility model, 2024 Authors : RYDLO, S.; DRAHANSKY, M.; KOLAR, D.; MALANIK, P.; BALAZ, T.; HOSPODKA, J."
+        }
+    }
+}

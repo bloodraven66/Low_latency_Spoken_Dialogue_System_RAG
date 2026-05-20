@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "code": "SEPa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Semester Project (in English)"
+    },
+    "content": {
+        "guarantor": "Bidlo Michal, doc. Ing., Ph.D. | (DCSY)",
+        "course_coordinator": "Veigend Petr, Ing., Ph.D. | (DITS)",
+        "language_of_instruction": "English",
+        "completion": "Classified Credit (written+oral)",
+        "time_span": "- 65 hrs projects",
+        "assessment_points": "- 100 pts projects",
+        "department": "Department of Computer Systems | (UPSY)",
+        "instructor": "Bidlo Michal, doc. Ing., Ph.D. | (DCSY)",
+        "learning_objectives": "The fundamental goal of this course is to support the individual creative student work during the engineering project solving, its formal description, and defence.Knowledge and experience with engineering project building and its documentation.",
+        "compulsory_co-requisites": "- Master's Thesis (in English)(DIPa)",
+        "study_literature": "- A Guide To The Project Management Body Of Knowledge, Fifth Edition, Project Management Institute, 2013, ISBN 978-1-935589-67-9.\n- Pokyny pro vypracovani semestralniho projektu.\n- ISO 2145:1978: Documentation - Numbering of divisions and subdivisions in written documents.\n- Konkretni doporucenou literaturu upresni vedouci semestralniho projektu podle zamereni dane problematiky.",
+        "progress_assessment": "Consultations with student's supervisor, written technical report and its defence."
+    }
+}

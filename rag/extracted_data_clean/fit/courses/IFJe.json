@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "code": "IFJe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Formal Languages and Compilers (in English)"
+    },
+    "content": {
+        "guarantor": "Meduna Alexandr, prof. RNDr., CSc. | (DIFS)",
+        "course_coordinator": "Krivka Zbynek, Ing., Ph.D. | (DIFS)",
+        "language_of_instruction": "English",
+        "completion": "Credit+Examination (written)",
+        "time_span": "- 39 hrs lectures\n- 13 hrs projects",
+        "assessment_points": "- 55 pts final exam (written part)\n- 20 pts mid-term test (written part)\n- 25 pts projects",
+        "department": "Department of Information Systems | (UIFS)",
+        "lecturer": "Havel Martin, Ing. | (DIFS) | Krivka Zbynek, Ing., Ph.D. | (DIFS) | Meduna Alexandr, prof. RNDr., CSc. | (DIFS)",
+        "instructor": "Havel Martin, Ing. | (DIFS) | Krivka Zbynek, Ing., Ph.D. | (DIFS)",
+        "learning_objectives": "Familiarity with formal languages and their models. Grasp of compiler construction.Fundamental familiarity with the theory of formal languages. Ability of a compiler construction.",
+        "recommended_prerequisites": "- Discrete Mathematics(IDM)",
+        "prerequisite_knowledge_and_skills": "Discrete mathematics.",
+        "study_literature": "- Parsons, T. W.: Introduction to Compiler Construction. Freeman, New York, 1992.\n- Meduna, A.: Elements of Compiler Design. Taylor & Francis, New York, 2008.\n- Nystrom, R.: Crafting Interpreters.\u200e Genever Benning, 2021, Available online http://craftinginterpreters.com.",
+        "fundamental_literature": "- Meduna, A.: Formal Languages and Computation: Models and Their Applications. Taylor & Francis, New York, 2014.",
+        "syllabus_of_lectures": "- Basics of formal languages: alphabet, strings, languages.\n- Introduction to compiler design: structure of a compiler.\n- Regular languages and their models: regular expressions, finite automata.\n- Variants of finite automata.\n- Lexical analysis: lexical analyzer, symbol table.\n- Context-free languages and their models: context-free grammars, pushdown automata.\n- Pushdown automata and general parsing.\n- Deterministic top-down syntax analysis: recursive descent.\n- Deterministic bottom-up syntax analysis: simple precedence analysis.\n- Chomsky hierarchy and the corresponding models. Remarks and summary.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "The task is to implement and document a program which, given a composition of functions, transforms it to an equivalent mathematical expression.",
+        "progress_assessment": "- Mid-term exam - open questions - 20 points.\n- Project - implementation of a simple compiler - 25 points.\n- Final exam - 55 points. To be allowed to take the final exam, the student has to obtain 20 points during the semester; out of these 20 points, at least five points have to be obtained from the project implementation."
+    }
+}

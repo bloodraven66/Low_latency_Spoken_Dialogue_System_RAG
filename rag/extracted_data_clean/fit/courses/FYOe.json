@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "code": "FYOe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Physical Optics (in English)*)"
+    },
+    "content": {
+        "guarantor": "Sedlak Petr, doc. Ing., Ph.D. | (UFYZ)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written)",
+        "time_span": "- 26 hrs lectures\n- 13 hrs seminar\n- 13 hrs projects",
+        "assessment_points": "- 60 pts final exam\n- 10 pts mid-term test\n- 30 pts projects",
+        "department": "Department of Physics | (UFYZ)",
+        "lecturer": "Sedlak Petr, doc. Ing., Ph.D. | (UFYZ)",
+        "instructor": "Sedlak Petr, doc. Ing., Ph.D. | (UFYZ)",
+        "learning_objectives": "To learn the basic principles of the physical optics needed for computer graphics. Extend the general knowledge of optics and get acquainted with the modern optics. To learn how to apply the gathered knowledge on real tasks. To get acquainted with further physics principles important for computer graphics.The students will learn the basic principles of the physical optics needed for computer graphics. They will extend their general knowledge of optics and get acquainted with the modern optics. They will also learn how to apply the gathered knowledge on real tasks. Finally, they will get acquainted with further physics principles important for computer graphics.",
+        "prerequisite_knowledge_and_skills": "Fundamentals of physics at secondary school level",
+        "fundamental_literature": "- Hecht, E., Zajac, A.: Optics, Addison-Wesley, Reading, UK, 1977, ISBN 0-201-02835-2\n- Saleh, B. E. A, Teich, M. C.: Fundamentals of Photonics, Wiley 2007, USA, 978-0-471-35832-9\n- Halliday, D., Resnick, R., Walker, J.: Fundamentals of Physics, Willey, New York, USA, 1997, ISBN 0-471-10559-7\n- Maly, P.: Optika (2ed), Karolinum, 2013, ISBN 978-80-246-2246-0",
+        "syllabus_of_lectures": "- Electromagnetic waves and light.\n- Light at the interface of two media, Fresnel's equations. Reflection at dielectric and metallic surfaces, linear and elliptical polarization. Polarizers.\n- Coherence. Interference from thin films. Interference filters. The Fabry-Perot interferometer.\n- Diffraction by edges, slits, gratings and 2D and 3D structures. Holography.\n- Transmission of light through media. Dispersion, spectrometers, rainbow. Absorption. Scattering.\n- Thermal radiation. Energy and light quantities. Receptors, human eye. Spectral sensitivity of receptors. Filters and color dividers.\n- Elements of image-forming systems. Mirrors, prisms, lenses, the microscope, the telescopes. The Fermat principle.\n- Analytical ray tracing. Matrix concept. Aperture and field stops. Magnification, resolving power. Errors in image forming. Notes on fiber optics.\n- The quantum mechanical concept of radiation. The wave function, the Schroedinger equation, the uncertainty principle. The tunnel effect.\n- Energy levels, the Pauli exclusion principle, energy bands. Spectra of atoms and molecules. Selection rules.\n- Physical statistics. Photon. Stimulated and spontaneous emission. Inversion population. Lasers.\n- The basics of luminiscence, phosphors, fluorescence, phosphorescence.\n- Radioactive radiation.",
+        "syllabus_of_seminars": "- Electromagnetic waves and light.\n- Light at the interface of two media, Fresnel's equations. Reflection at dielectric and metallic surfaces, linear and elliptical polarization. Polarizers.\n- Coherence. Interference from thin films. Interference filters. The Fabry-Perot interferometer.\n- Diffraction by edges, slits, gratings and 2D and 3D structures. Holography.\n- Transmission of light through media. Dispersion, spectrometers, rainbow. Absorption. Scattering.\n- Thermal radiation. Energy and light quantities. Receptors, human eye. Spectral sensitivity of receptors. Filters and color dividers.\n- Elements of image-forming systems. Mirrors, prisms, lenses, the microscope, the telescopes. The Fermat principle.\n- Analytical ray tracing. Matrix concept. Aperture and field stops. Magnification, resolving power. Errors in image forming. Notes on fiber optics.\n- The quantum mechanical concept of radiation. The wave function, the Schroedinger equation, the uncertainty principle. The tunnel effect.\n- Energy levels, the Pauli exclusion principle, energy bands. Spectra of atoms and molecules. Selection rules.\n- Physical statistics. Photon. Stimulated and spontaneous emission. Inversion population. Lasers.\n- The basics of luminiscence, phosphors, fluorescence, phosphorescence.\n- Radioactive radiation.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "Individually assigned projects; it is expected that the \"programming part\" of the assignment will be consulted and evaluated in other course (more computer science oriented).",
+        "progress_assessment": "- Mid-term exam - up to 10 points\n- Project - up to 30 points\n- Written exam - up to 60 points"
+    }
+}

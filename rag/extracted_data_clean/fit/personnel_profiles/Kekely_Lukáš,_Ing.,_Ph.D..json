@@ -1,0 +1,204 @@
+{
+    "contact": {
+        "department": "Department of Computer Systems",
+        "department_abbr": "DCSY",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "ikekely@fit.vut.cz",
+            "phone": "+420 54114 1484",
+            "room": "Q305 DynaNIC",
+            "researcher_id": "ABE-7162-2020",
+            "orcid_id": "0000-0001-8257-8129",
+            "scopus_author_id": "55532449300"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Accelerated Network Technologies Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "ICT Master Thesis of the Year 2013 - Solutions for Bussiness Mobility and Security",
+            "Prize of Zdena Rabova 2013",
+            "2nd place in the ACM SPY Competition 2013",
+            "Jan Hlavicka Award for Outstanding Results in PhD Studies 2014",
+            "Josef Hlavka's Award 2014",
+            "ABB University Award 2015",
+            "Best Student Paper Award (DSD 2018)",
+            "Minister of the Interior award for outstanding results in the area of security research 2018",
+            "Werner von Siemens award 2017 2018",
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2019"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Po predchozi domluve e-mailem.",
+        "lectured_courses": [
+            {
+                "abbreviation": "PCS",
+                "title": "Advanced Digital Systems",
+                "details": "Exercise in computer lab, Lecture, Project,\nCzech, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "HSCa",
+                "title": "Hardware/Software Codesign (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "INC",
+                "title": "Digital Systems Design",
+                "details": "Project, Seminar,\nCzech, English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "INCe",
+                "title": "Digital Systems Design (in English)",
+                "details": "Seminar,\nEnglish, winter",
+                "department": "DCSY"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Application-specific HW/SW architectures and their applications",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8141, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Navrh, optimalizace a evaluace aplikacne specifickych pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6309, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Flexible probe for lawful interceptions",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022143, start: 2019-07-01, end: 2022-09-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Acceleration of the DNS collector",
+            "details": "CZ.NIC, z.s.p.o., start: 2018-02-01, end: 2099-12-31, running"
+        },
+        {
+            "year": "2017",
+            "title": "Pokrocile paralelni a vestavene pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3994, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Architektury paralelnich a vestavenych pocitacovych systemu",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2297, start: 2014-01-01, end: 2016-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2021",
+            "citation": "FUKAC, T.; MATOUSEK, J.; KORENEK, J.; KEKELY, L. Increasing Memory Efficiency of Hash-Based Pattern Matching for High-Speed Networks. In 2021 International Conference on Field-Programmable Technology, ICFPT 2021. Auckland: Institute of Electrical and Electronics Engineers, 2021. p. 185-193. ISBN: 978-1-6654-2010-5."
+        },
+        {
+            "year": "2020",
+            "citation": "KEKELY, L.; CABAL, J.; PUS, V.; KORENEK, J. Multi Buses: Theory and Practical Considerations of Data Bus Width Scaling in FPGAs. In Proceedings - Euromicro Conference on Digital System Design, DSD 2020. Kranj: IEEE Computer Society, 2020. p. 49-56. ISBN: 978-1-7281-9535-3."
+        },
+        {
+            "year": "2020",
+            "citation": "KEKELY, M.; KEKELY, L.; KORENEK, J. General memory efficient packet matching FPGA architecture for future high-speed networks. Microprocessors and Microsystems, 2020, vol. 73, no. 3, p. 1-12. ISSN: 0141-9331."
+        },
+        {
+            "year": "2020",
+            "citation": "KORENEK, J.; KORCEK, P.; KEKELY, L. Akcelerace analyzy sitoveho provozu. Data Security Management, 2020, roc. 24, c. 4, s. 30-34. ISSN: 1211-8737."
+        },
+        {
+            "year": "2019",
+            "citation": "KEKELY, L.; CABAL, J.; KORENEK, J. Effective FPGA Architecture for General CRC. In Architecture of Computing Systems - ARCS 2019. Neuvedeno: Springer International Publishing, 2019. p. 211-223. ISBN: 978-3-030-18655-5."
+        },
+        {
+            "year": "2019",
+            "citation": "KUCERA, J.; KEKELY, L.; PIECEK, A.; KORENEK, J. General IDS Acceleration for High-Speed Networks. In Proceedings - 2018 IEEE 36th International Conference on Computer Design, ICCD 2018. Orlando: Institute of Electrical and Electronics Engineers, 2019. p. 366-373. ISBN: 978-1-5386-8477-1."
+        },
+        {
+            "year": "2018",
+            "citation": "CABAL, J.; BENACEK, P.; KEKELY, L.; KEKELY, M.; PUS, V.; KORENEK, J. Configurable FPGA Packet Parser for Terabit Networks with Guaranteed Wire-Speed Throughput. In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. New York: Association for Computing Machinery, 2018. p. 249-258. ISBN: 978-1-4503-5614-5."
+        },
+        {
+            "year": "2018",
+            "citation": "KEKELY, L.; CABAL, J.; KORENEK, J. High-Speed Computation of CRC Codes for FPGAs. In Proceedings of the 2018 International Conference on Field-Programmable Technology (FPT 2018). Naha: IEEE Computer Society, 2018. p. 237-240. ISBN: 978-1-7281-0214-6."
+        },
+        {
+            "year": "2018",
+            "citation": "KEKELY, M.; KEKELY, L.; KORENEK, J. Memory Aware Packet Matching Architecture for High-Speed Networks. In Proceedings of the 21st Euromicro Conference on Digital Systems Design. Praha: IEEE Computer Society, 2018. p. 1-8. ISBN: 978-1-5386-7376-8."
+        },
+        {
+            "year": "2018",
+            "citation": "KUCERA, J.; KEKELY, L.; PUS, V.; PIECEK, A.; KORENEK, J. Hardware Acceleration of Intrusion Detection Systems for High-Speed Networks. In Proceedings of the 2018 Symposium on Architectures for Networking and Communications Systems. Ithaca, NY: Association for Computing Machinery, 2018. p. 177-178. ISBN: 978-1-4503-5902-3."
+        },
+        {
+            "year": "2015",
+            "citation": "KEKELY, L.; KUCERA, J.; PUS, V.; KORENEK, J.; VASILAKOS, A. Software Defined Monitoring of Application Protocols. IEEE TRANSACTIONS ON COMPUTERS, 2015, vol. 65, no. 2, p. 615-626. ISSN: 0018-9340."
+        },
+        {
+            "year": "2014",
+            "citation": "KEKELY, L. Software Defined Monitoring: Novy pristup k monitorovaniu vysokorychlostnych pocitacovych sieti. Pocitacove architektury a diagnostika 2014. Liberec: Liberec University of Technology, 2014. s. 74-79. ISBN: 978-80-7494-027-9."
+        },
+        {
+            "year": "2014",
+            "citation": "KEKELY, L.; PUS, V.; BENACEK, P.; KORENEK, J. Trade-offs and Progressive Adoption of FPGA Acceleration in Network Traffic Monitoring. In 2014 24th International Conference on Field Programmable Logic and Applications (FPL 2014). Munich: IEEE Circuits and Systems Society, 2014. p. 264-267. ISBN: 978-3-00-044645-0."
+        },
+        {
+            "year": "2014",
+            "citation": "KEKELY, L.; PUS, V.; KORENEK, J. Software Defined Monitoring of Application Protocols. In Proceedings of IEEE INFOCOM 2014 - IEEE Conference on Computer Communications. Toronto: IEEE Computer Society, 2014. p. 1725-1733. ISBN: 978-1-4799-3360-0."
+        },
+        {
+            "year": "2014",
+            "citation": "KEKELY, L.; ZADNIK, M.; MATOUSEK, J.; KORENEK, J. Fast Lookup for Dynamic Packet Filtering in FPGA. In Proceedings of the 2014 IEEE 17th International Symposium on Design and Diagnostics of Electronic Circuits and Systems, DDECS 2014. Warszawa: IEEE Computer Society, 2014. p. 219-222. ISBN: 978-1-4799-4558-0."
+        },
+        {
+            "year": "2014",
+            "citation": "PUS, V.; KEKELY, L.; KORENEK, J. Design Methodology of Configurable High Performance Packet Parser for FPGA. In 17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Warszawa: IEEE Computer Society, 2014. p. 189-194. ISBN: 978-1-4799-4558-0."
+        },
+        {
+            "year": "2014",
+            "citation": "ZAVODNIK, T.; KEKELY, L.; PUS, V. CRC based hashing in FPGA using DSP blocks. In 17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems. Warszawa: IEEE Computer Society, 2014. p. 179-182. ISBN: 978-1-4799-4558-0."
+        },
+        {
+            "year": "2012",
+            "citation": "KEKELY, L.; PUS, V.; KORENEK, J. Low-Latency Modular Packet Header Parser for FPGA. ACM/IEEE Symposium on Architectures for Networking and Communications Systems. Austin: Association for Computing Machinery, 2012. p. 77-78. ISBN: 978-1-4503-1685-9."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2015",
+            "title": "Dokumentace pro sestaveni a zprovozneni prototypu hardwarove akcelerovane sondy pro legalni odposlechy",
+            "metadata": "report, 2015",
+            "authors": "ZADNIK, M.; KEKELY, L.; VRANA, R.; HOLKOVIC, M.; FRANKOVA, B."
+        },
+        {
+            "year": "2015",
+            "title": "Report z testovani prototypu 100Gb/s sondy pro zakonne odposlechy",
+            "metadata": "report, 2015",
+            "authors": "KEKELY, L.; VRANA, R.; ZADNIK, M."
+        },
+        {
+            "year": "2012",
+            "title": "Hardwarove akcelerovana sonda pro legalni odposlechy",
+            "metadata": "report, 2012",
+            "authors": "ZADNIK, M.; KEKELY, L."
+        }
+    ],
+    "name": "Kekely Lukas, Ing., Ph.D."
+}

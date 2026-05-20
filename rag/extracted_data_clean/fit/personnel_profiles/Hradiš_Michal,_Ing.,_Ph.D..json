@@ -1,0 +1,493 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "ihradis@fit.vut.cz",
+            "work_phone": "+420 54114 1411",
+            "room": "Q201 DCGM Office",
+            "researcher_id": "G-9365-2016",
+            "orcid_id": "0000-0002-6364-129X",
+            "scopus_author_id": "23135162300"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Department of Control and Instrumentation",
+            "role": "External Cooperator"
+        },
+        {
+            "organization": "Computer Graphics Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Supervisors Specialists in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2022"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Konzultaci si muzete domluvit telefonicky nebo pres email. Pro DP/BP konzultace pouzivam www.diplomkyfit.cz.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "KNN",
+                "title": "Convolutional Neural Networks",
+                "details": "Czech, summer",
+                "department": "DCGM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "KNN",
+                "title": "Convolutional Neural Networks",
+                "details": "Lecture,\nCzech, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "POVa",
+                "title": "Computer Vision (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "SUI",
+                "title": "Artificial Intelligence and Machine Learning",
+                "details": "Lecture, Seminar,\nCzech, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Machine learning for printed heritage digitisation",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV066, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Reanimated book - digitized library treasures for the creative industries",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV033, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "semANT - Semantic Document Exploration",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV060, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2022",
+            "title": "AISEE - Artificial Intelligence based Search Environment for photo/video",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010029, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "SV - MAIA LABS",
+            "details": "MAIA LABS, start: 2022-12-08, end: 2024-01-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "HAAWAII - Highly Automated Air Traffic Controller Workstations with Artificial Intelligence Integration",
+            "details": "EU, Horizon 2020, H2020-SESAR-2019-2, start: 2020-06-01, end: 2022-11-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Advanced content extraction and recognition for printed and handwritten documents for better accessibility and usability",
+            "details": "MK, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje narodni a kulturni identity na leta 2016 az 2022 (NAKI II), DG18P02OVV055, start: 2018-03-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Progressive Image Processing Algorithms",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH04010394, start: 2018-10-01, end: 2021-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Caffe XNOR-nets",
+            "details": "Innovatrics, start: 2017-03-01, end: 2017-06-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "enetCollect - Large-Scale Information Extraction and Gamification for Crowdsourced Language Learning",
+            "details": "EU, European Cooperation in Science and Technology (COST), start: 2017-09-01, end: 2021-03-06, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Innovation voucher - Text data extraction from card scan",
+            "details": "Medingo, start: 2017-03-01, end: 2017-09-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Research and development of diagnostic unit for forming machines",
+            "details": "MPO, TRIO, FV20512, start: 2017-04-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "User Activity Analysis and Emotional Competence Assessment for Investigation of Problematic Usage of the Internet",
+            "details": "EU, European Cooperation in Science and Technology (COST), start: 2017-10-23, end: 2022-04-22, completed"
+        },
+        {
+            "year": "2017",
+            "title": "WearableRobots - Advanced Collaborative Aspects of Wearable Robotic Systems",
+            "details": "EU, European Cooperation in Science and Technology (COST), start: 2017-09-01, end: 2021-09-14, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Intelligent visual quality control",
+            "details": "Inkubator VUT, start: 2015-06-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Algorithms, Design Methods, and Many-Core Execution Platform for Low-Power Massive Data-Rate Video and Image Processing",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H14002, start: 2014-04-01, end: 2017-06-30, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2506, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Support of teaching detection classifiers",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2786/2010/G1, start: 2010-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Tools and Methods for Video and Image Processing for the Fight against Terrorism",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015006, start: 2010-10-01, end: 2015-09-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2026",
+            "citation": "KISS, M.; HRADIS, M.; DVORAKOVA, M.; JIROUSEK, V.; KERSCH, F. AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2026. p. 50-66. ISBN: 978-3-032-09370-7."
+        },
+        {
+            "year": "2026",
+            "citation": "VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7."
+        },
+        {
+            "year": "2025",
+            "citation": "FAJCIK, M.; DOCEKAL, M.; DOLEZAL, J.; ONDREJ, K.; BENES, K.; SMRZ, P.; POLOK, A.; HRADIS, M. BenCzechMark : A Czech-Centric Multitask and Multimetric Benchmark for Large Language Models with Duel Scoring Mechanism. Transactions of the Association for Computational Linguistics, 2025, vol. 13, no. 9, p. 1068-1095."
+        },
+        {
+            "year": "2025",
+            "citation": "KISS, M.; HRADIS, M. Masked Self-Supervised Pre-Training for Text Recognition Transformers on Large-Scale Datasets. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2025. p. 53-70. ISBN: 978-3-032-09367-7."
+        },
+        {
+            "year": "2025",
+            "citation": "KOHUT, J.; DOCEKAL, M.; HRADIS, M.; VASKO, M. BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction. In Document Analysis and Recognition \u2013 ICDAR 2025. Cham: Springer Nature Switzerland, 2025. p. 287-304. ISBN: 978-3-032-04623-9."
+        },
+        {
+            "year": "2025",
+            "citation": "KOHUT, J.; HRADIS, M.;. Practical Fine-Tuning of Autoregressive Models on Limited Handwritten Texts. In Document Analysis and Recognition \u2013 ICDAR 2025. Cham: Springer Nature Switzerland, 2025. p. 22-39. ISBN: 978-3-032-04629-1."
+        },
+        {
+            "year": "2025",
+            "citation": "KOSTELNIK, M.; HRADIS, M.; BENES, K. TextBite: A Historical Czech Document Dataset for Logical Page Segmentation. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2025. p. 124-140. ISBN: 978-3-032-09367-7."
+        },
+        {
+            "year": "2024",
+            "citation": "KISS, M.; HRADIS, M. Self-supervised Pre-training of Text Recognizers. In Barney Smith, E.H., Liwicki, M., Peng, L. (eds) Document Analysis and Recognition - ICDAR 2024. Lecture Notes in Computer Science. Ateny: Springer Nature Switzerland AG, 2024. p. 218-235. ISBN: 978-3-031-70545-8."
+        },
+        {
+            "year": "2024",
+            "citation": "KRAL, J.; HRADIS, M.; BUZGA, M.; KUNOVSKY, L. Exploring the benefits and challenges of AI-driven large language models in gastroenterology: Think out of the box. BIOMEDICAL PAPERS-OLOMOUC, 2024, vol. 168, no. 4, p. 277-283. ISSN: 1213-8118."
+        },
+        {
+            "year": "2024",
+            "citation": "LEHECKA, D.; JEBAVY, F.; KERSCH, F.; PAVCIK, F.; JANA, H.; FREMROVA, K.; KISS, M.; LHOTAK, M.; DVORAKOVA, M.; BEZOVA, M.; HRADIS, M.; ZABICKA, P.; JIROUSEK, V. Orbis Pictus: Zpristupneni netextovych dat z digitalnich knihoven. ITlib, 2024, roc. 2024, c. 2, s. 22-31."
+        },
+        {
+            "year": "2024",
+            "citation": "STETINA, J.; FAJCIK, M.; HRADIS, M.; STEFANIK, M. A Comparative Study of Text Retrieval Models on DaReCzech. Recent Advances in Slavonic Natural Language Processing, 2024, no. 7, p. 85-100."
+        },
+        {
+            "year": "2023",
+            "citation": "KISS, M.; HRADIS, M.; BENES, K.; BUCHAL, P.; KULA, M. SoftCTC-semi-supervised learning for text recognition using soft pseudo-labels. International Journal on Document Analysis and Recognition, 2023, vol. 2024, no. 27, p. 177-193. ISSN: 1433-2825."
+        },
+        {
+            "year": "2023",
+            "citation": "KOHUT, J.; HRADIS, M. Finetuning Is a Surprisingly Effective Domain Adaptation Baseline in Handwriting Recognition. In Document Analysis and Recognition - ICDAR 2023. Lecture Notes in Computer Science. Lecture Notes in Computer Science. San Jose: Springer Nature Switzerland AG, 2023. no. 1, p. 269-286. ISBN: 978-3-031-41684-2. ISSN: 0302-9743."
+        },
+        {
+            "year": "2023",
+            "citation": "KOHUT, J.; HRADIS, M.; KISS, M. Towards Writing Style Adaptation in Handwriting Recognition. In Document Analysis and Recognition - ICDAR 2023. Lecture Notes in Computer Science. Lecture Notes in Computer Science. San Jose: Springer Nature Switzerland AG, 2023. no. 1, p. 377-394. ISBN: 978-3-031-41684-2. ISSN: 0302-9743."
+        },
+        {
+            "year": "2022",
+            "citation": "DVORAKOVA, M.; HRADIS, M.; ZABICKA, P.; KOHUT, J.; KISS, M.; BENES, K. Vyuziti PERO OCR pri prepisu rukopisu. Archivni casopis, 2022, roc. 72, c. 1, s. 14-27. ISSN: 0004-0398."
+        },
+        {
+            "year": "2022",
+            "citation": "KISS, M.; KOHUT, J.; BENES, K.; HRADIS, M. Importance of Textlines in Historical Document Classification. In Uchida, S., Barney, E., Eglin, V. (eds) Document Analysis Systems. Lecture Notes in Computer Science. La Rochelle: Springer Nature Switzerland AG, 2022. p. 158-170. ISBN: 978-3-031-06554-5."
+        },
+        {
+            "year": "2021",
+            "citation": "KISS, M.; BENES, K.; HRADIS, M. AT-ST: Self-Training Adaptation Strategy for OCR in Domains with Limited Transcriptions. In Llados J., Lopresti D., Uchida S. (eds) Document Analysis and Recognition - ICDAR 2021. Lecture Notes in Computer Science. Lausanne: Springer Nature Switzerland AG, 2021. p. 463-477. ISBN: 978-3-030-86336-4."
+        },
+        {
+            "year": "2021",
+            "citation": "KODYM, O.; HRADIS, M. Page Layout Analysis System for Unconstrained Historic Documents. In Llados J., Lopresti D., Uchida S. (eds) Document Analysis and Recognition - ICDAR 2021. Lecture Notes in Computer Science. Lausanne: Springer Nature Switzerland AG, 2021. p. 492-506. ISBN: 978-3-030-86330-2."
+        },
+        {
+            "year": "2021",
+            "citation": "KODYM, O.; HRADIS, M. TG2: text-guided transformer GAN for restoring document readability and perceived quality. International Journal on Document Analysis and Recognition, 2021, vol. 2021, no. 1, p. 1-14. ISSN: 1433-2825."
+        },
+        {
+            "year": "2021",
+            "citation": "KOHUT, J.; HRADIS, M. TS-Net: OCR Trained to Switch Between Text Transcription Styles. In Llados J., Lopresti D., Uchida S. (eds) Document Analysis and Recognition - ICDAR 2021. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Lausanne: Springer Nature Switzerland AG, 2021. no. 1, p. 478-493. ISBN: 978-3-030-86336-4. ISSN: 0302-9743."
+        },
+        {
+            "year": "2020",
+            "citation": "BILKOVA, Z.; HRADIS, M. Perceptual license plate super-resolution with CTC loss. In IS and T International Symposium on Electronic Imaging Science and Technology. IS&T International Symposium on Electronic Imaging Science and Technology. Springfield, USA: Society for Imaging Science and Technology, 2020. no. 6, p. 52-57. ISSN: 2470-1173."
+        },
+        {
+            "year": "2020",
+            "citation": "KISS, M.; HRADIS, M.; KODYM, O. Brno Mobile OCR Dataset. In Proceedings of the International Conference on Document Analysis and Recognition, ICDAR. Sydney: Institute of Electrical and Electronics Engineers, 2020. p. 1352-1357. ISBN: 978-1-7281-3015-6."
+        },
+        {
+            "year": "2020",
+            "citation": "MLICH, J.; KOPLIK, K.; HRADIS, M.; ZEMCIK, P. Fire Segmentation in Still Images. In Springer International Publishing. Lecture Notes in Computer Science. Auckland: Springer International Publishing, 2020. p. 27-37. ISBN: 978-3-030-40605-9."
+        },
+        {
+            "year": "2018",
+            "citation": "BUITELAAR, P.; WOOD, I.; NEGI, S.; ARCAN, M.; MCCRAE, J.; ABELE, A.; ROBIN, C.; ANDRYUSHECHKIN, V.; ZIAD, H.; SAGHA, H.; SCHMITT, M.; SCHULLER, B.; SANCHEZ-RADA, J.; IGLESIAS, C.; NAVARRO, C.; GIEFER, A.; HEISE, N.; MASUCCI, V.; DANZA, F.; CATERINO, C.; SMRZ, P.; HRADIS, M.; POVOLNY, F.; KLIMES, M.; MATEJKA, P.; TUMMARELLO, G. MixedEmotions: An Open-Source Toolbox for Multimodal Emotion Analysis. IEEE TRANSACTIONS ON MULTIMEDIA, 2018, vol. 20, no. 9, p. 2454-2465. ISSN: 1520-9210."
+        },
+        {
+            "year": "2018",
+            "citation": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A. CNN for IMU Assisted Odometry Estimation using Velodyne LiDAR. In IEEE International Conference on Autonomous Robot Systems and Competitions. IEEE International Conference on Autonomous Robot Systems and Competitions. Torres Vedras: Institute of Electrical and Electronics Engineers, 2018. no. 4, p. 71-77. ISBN: 978-1-5386-5221-3. ISSN: 2573-9387."
+        },
+        {
+            "year": "2018",
+            "citation": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A. CNN for Very Fast Ground Segmentation in Velodyne LiDAR Data. In IEEE International Conference on Autonomous Robot Systems and Competitions. Torres Vedras: Institute of Electrical and Electronics Engineers, 2018. p. 97-103. ISBN: 978-1-5386-5221-3."
+        },
+        {
+            "year": "2016",
+            "citation": "KOLAR, M.; HRADIS, M.; ZEMCIK, P. Deep Learning on Small Datasets using Online Image Search. In Proceedings of 32nd Spring Conference on Computer Graphics. Proceeding of Spring Conference on Computer Graphics. Bratislava: Comenius University in Bratislava, 2016. no. 32, p. 87-93. ISBN: 978-1-4503-3693-2. ISSN: 1335-5694."
+        },
+        {
+            "year": "2016",
+            "citation": "POVOLNY, F.; MATEJKA, P.; HRADIS, M.; POPKOVA, A.; OTRUSINA, L.; SMRZ, P.; WOOD, I.; ROBIN, C.; LAMEL, L. Multimodal Emotion Recognition for AVEC 2016 Challenge. In AVEC '16 Proceedings of the 6th International Workshop on Audio/Visual Emotion Challenge. Amsterdam: Association for Computing Machinery, 2016. p. 75-82. ISBN: 978-1-4503-4516-3."
+        },
+        {
+            "year": "2016",
+            "citation": "SVOBODA, P.; HRADIS, M.; BARINA, D.; ZEMCIK, P. Compression Artifacts Removal Using Convolutional Neural Networks. Journal of WSCG, 2016, vol. 24, no. 2, p. 63-72. ISSN: 1213-6972."
+        },
+        {
+            "year": "2016",
+            "citation": "SVOBODA, P.; HRADIS, M.; MARSIK, L.; ZEMCIK, P. CNN for license plate motion deblurring. In IEEE International Conference on Image Processing (ICIP). Phoenix: IEEE Signal Processing Society, 2016. p. 3832-3836. ISBN: 978-1-4673-9961-6."
+        },
+        {
+            "year": "2015",
+            "citation": "CADIK, M.; VASICEK, J.; HRADIS, M.; RADENOVIC, F.; CHUM, O. Camera Elevation Estimation from a Single Mountain Landscape Photograph. In British Machine Vision Conference 2015. Swansea: The British Machine Vision Association and Society for Pattern Recognition, 2015. p. 1-12. ISBN: 978-1-901725-53-7."
+        },
+        {
+            "year": "2015",
+            "citation": "HRADIS, M.; KOTERA, J.; ZEMCIK, P.; SROUBEK, F. Convolutional Neural Networks for Direct Text Deblurring. Proceedings of BMVC 2015. Swansea: The British Machine Vision Association and Society for Pattern Recognition, 2015. p. 1-13. ISBN: 1-901725-53-7."
+        },
+        {
+            "year": "2014",
+            "citation": "HRADIS, M.; KOLAR, M.; SVOBODA, P.; ZEMCIK, P.; SMRZ, P. Large Scale Image Classification by Brno University of Technology. Poster. Zurich: 2014. 1 p."
+        },
+        {
+            "year": "2013",
+            "citation": "ZEMCIK, P.; JURANEK, R.; MUSIL, M.; MUSIL, P.; HRADIS, M. High Performance Architecture for Object Detection in Streamed Videos. Proceedings of FPL 2013. Porto: IEEE Circuits and Systems Society, 2013. p. 1-4. ISBN: 978-1-4799-0004-6."
+        },
+        {
+            "year": "2013",
+            "citation": "ZEMCIK, P.; JURANEK, R.; MUSIL, P.; MUSIL, M.; HRADIS, M. High performance architecture for object detection in streamed video. Poster. New York: 2013. 1 p."
+        },
+        {
+            "year": "2013",
+            "citation": "ZEMCIK, P.; JURANEK, R.; MUSIL, P.; MUSIL, M.; HRADIS, M. High performance FPGA object detector: Hardware prototype. Proceedings of FPL 2013. Porto: 2013. p. 1 (1 s.). ISBN: 978-1-4799-0004-6."
+        },
+        {
+            "year": "2012",
+            "citation": "BEDNARIK, R.; EIVAZI, S.; HRADIS, M. Gaze and Conversational Engagement in Multiparty Video Conversation: An annotation scheme and classification. 4th Workshop on Eye Gaze in Intelligent Human Machine Interaction. Santa Monica: Association for Computing Machinery, 2012. p. 1-5. ISBN: 978-1-4503-1516-6."
+        },
+        {
+            "year": "2012",
+            "citation": "BEDNARIK, R.; VRZAKOVA, H.; HRADIS, M. What you want to do next: A novel approach for intent prediction in gaze-based interaction. ETRA '12 Proceedings of the Symposium on Eye Tracking Research and Applications. Santa Barbara: Association for Computing Machinery, 2012. p. 83-90. ISBN: 978-1-4503-1221-9."
+        },
+        {
+            "year": "2012",
+            "citation": "HEROUT, A.; HRADIS, M.; ZEMCIK, P. EnMS: Early non-Maxima Suppression. PATTERN ANALYSIS AND APPLICATIONS, 2012, vol. 2012, no. 2, p. 121-132. ISSN: 1433-7541."
+        },
+        {
+            "year": "2012",
+            "citation": "HRADIS, M.; EIVAZI, S.; BEDNARIK, R. Voice activity detection in video mediated communication from gaze. ETRA '12 Proceedings of the Symposium on Eye Tracking Research and Applications. Santa Barbara: Association for Computing Machinery, 2012. p. 329-332. ISBN: 978-1-4503-1221-9."
+        },
+        {
+            "year": "2012",
+            "citation": "HRADIS, M.; KOLAR, M.; KRAL, J.; LANIK, A.; ZEMCIK, P.; SMRZ, P. Annotating images with suggestions - user study of a tagging system. Advanced Concepts for Intelligent Vision Systems. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Brno: Springer Verlag, 2012. no. 7517, p. 155-166. ISBN: 978-3-642-33139-8. ISSN: 0302-9743."
+        },
+        {
+            "year": "2012",
+            "citation": "HRADIS, M.; REZNICEK, I.; BEHUN, K. Semantic Class Detectors in Video Genre Recognition. Proceedings of VISAPP 2012. Rome: SciTePress - Science and Technology Publications, 2012. p. 640-646. ISBN: 978-989-8565-03-7."
+        },
+        {
+            "year": "2012",
+            "citation": "JURANEK, R.; HRADIS, M.; ZEMCIK, P. Real-time Algorithms of Object Detection using Classifiers. In Real-Time System. Rijeka: InTech - Open Access Publisher, 2012. p. 1-22. ISBN: 9789535105107."
+        },
+        {
+            "year": "2012",
+            "citation": "KRAL, J.; HRADIS, M. Restricted Boltzman Machines for Image Tag Suggestion. Proceedings of the 19th Conference STUDENT EEICT 2012. Brno: Brno University of Technology, 2012. p. 1-5."
+        },
+        {
+            "year": "2012",
+            "citation": "POLACEK, O.; KLIMA, M.; SPORKA, A.; ZAK, P.; HRADIS, M.; ZEMCIK, P.; PROCHAZKA, V. A Comparative Study on Distant Free-Hand Pointing. EuroiTV '12 Proceedings of the 10th European conference on Interactive tv and video. Berlin, Germany: Association for Computing Machinery, 2012. p. 139-142. ISBN: 978-1-4503-1107-6."
+        },
+        {
+            "year": "2011",
+            "citation": "BERAN, V.; HRADIS, M.; REZNICEK, I.; OTRUSINA, L. Content-based Copy Detection. In 2011 TREC Video Retrieval Evaluation Notebook Papers. Gaithersburg, MD: National Institute of Standards and Technology, 2011. p. 1-10."
+        },
+        {
+            "year": "2011",
+            "citation": "HEROUT, A.; JOSTH, R.; JURANEK, R.; HAVEL, J.; HRADIS, M.; ZEMCIK, P. Real-time object detection on CUDA. Journal of Real-Time Image Processing, 2011, vol. 2011, no. 3, p. 159-170. ISSN: 1861-8200."
+        },
+        {
+            "year": "2011",
+            "citation": "HRADIS, M.; REZNICEK, I.; BEHUN, K. Brno University of Technology at MediaEval 2011 Genre Tagging Task. Working Notes Proceedings of the MediaEval 2011 Workshop. CEUR Workshop Proceedings. Pisa, Italy: CEUR-WS.org, 2011. no. 9, p. 1-2. ISSN: 1613-0073."
+        },
+        {
+            "year": "2010",
+            "citation": "HEROUT, A.; ZEMCIK, P.; HRADIS, M.; JURANEK, R.; HAVEL, J.; JOSTH, R.; ZADNIK, M. Low-Level Image Features for Real-Time Object Detection. In Pattern Recognition, Recent Advances. Vienna: IN-TECH Education and Publishing, 2010. p. 111-136. ISBN: 978-953-7619-90-9."
+        },
+        {
+            "year": "2010",
+            "citation": "HRADIS, M.; BERAN, V.; REZNICEK, I.; HEROUT, A.; BARINA, D.; VLCEK, A.; ZEMCIK, P. Brno University of Technology at TRECVid 2010 SIN, CCD. In 2010 TREC Video Retrieval Evaluation Notebook Papers. Gaithersburg, MD: National Institute of Standards and Technology, 2010. p. 1-10."
+        },
+        {
+            "year": "2010",
+            "citation": "JURANEK, R.; HRADIS, M.; ZEMCIK, P. Platform for Teaching Detection Classifiers. Proceedings of Digital Technologies 2010. Zilina: Zilina University Publisher, 2010. p. 1-5. ISBN: 978-80-554-0304-5."
+        },
+        {
+            "year": "2010",
+            "citation": "ZEMCIK, P.; HRADIS, M.; HEROUT, A. Exploiting neighbors for faster scanning window detection in images. ACIVS 2010. Lecture Notes in Computer Science. Sydney: Springer Verlag, 2010. p. 100-111. ISBN: 978-3-642-17690-6."
+        },
+        {
+            "year": "2009",
+            "citation": "CHMELAR, P.; BERAN, V.; HEROUT, A.; HRADIS, M.; REZNICEK, I.; ZEMCIK, P. Brno University of Technology at TRECVid 2009. TRECVID 2009: Participant Notebook Papers and Slides. Gaithersburg, MD: National Institute of Standards and Technology, 2009. p. 1-11."
+        },
+        {
+            "year": "2008",
+            "citation": "BERAN, V.; HEROUT, A.; HRADIS, M.; REZNICEK, I.; ZEMCIK, P. Video Summarization at Brno University of Technology. ACM Multimedia. 2008 ACM International Conference on Multimedia Compilation E-Proceedings, TVS'08. New Yourk: Association for Computing Machinery, 2008. p. 31-34. ISBN: 978-1-60558-303-7."
+        },
+        {
+            "year": "2008",
+            "citation": "CHMELAR, P.; BERAN, V.; HEROUT, A.; HRADIS, M.; JURANEK, R.; LANIK, A.; MLICH, J.; NAVRATIL, J.; REZNICEK, I.; ZAK, P.; ZEMCIK, P. Brno University of Technology at TRECVid 2008. Proceedings of TRECVID 2008. Gaithersburg: National Institute of Standards and Technology, 2008. p. 1-16."
+        },
+        {
+            "year": "2008",
+            "citation": "HEROUT, A.; BERAN, V.; HRADIS, M.; POTUCEK, I.; ZEMCIK, P.; CHMELAR, P. TRECVID 2007 by the Brno Group. Proceedings of TRECVID 2007. Gaithersburg: National Institute of Standards and Technology, 2008. p. 1-6. ISBN: 978-1-59593-780-3."
+        },
+        {
+            "year": "2008",
+            "citation": "HEROUT, A.; JOSTH, R.; ZEMCIK, P.; HRADIS, M. GP-GPU Implementation of the \"Local Rank Differences\" Image Feature. Proceedings of International Conference on Computer Vision and Graphics 2008. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2008. p. 1-11. ISBN: 978-3-642-02344-6."
+        },
+        {
+            "year": "2008",
+            "citation": "HEROUT, A.; ZEMCIK, P.; JURANEK, R.; HRADIS, M. Implementation of the \"Local Rank Differences\" Image Feature Using SIMD Instructions of CPU. Proceedings of Sixth Indian Conference on Computer Vision, Graphics and Image Processing. Bhubaneswar: IEEE Computer Society, 2008. p. 1-9. ISBN: 978-0-7695-3476-3."
+        },
+        {
+            "year": "2008",
+            "citation": "HRADIS, M. Framework for Research on Detection Classifiers. Proceedings of Spring Conference on Computer Graphics. Budmerice: Comenius University in Bratislava, 2008. p. 171-177. ISBN: 978-80-89186-30-3."
+        },
+        {
+            "year": "2008",
+            "citation": "HRADIS, M. ShotBoundary Detection with Simple Boosted Classifiers. Proceedings of the 12th Conference STUDENT EEICT 2008 Volume 4. Brno: Faculty of Electrical Engineering and Communication BUT, 2008. p. 266-270. ISBN: 80-214-3163-6."
+        },
+        {
+            "year": "2008",
+            "citation": "HRADIS, M.; HEROUT, A.; ZEMCIK, P. Local Rank Patterns - Novel Features for Rapid Object Detection. Proceedings of International Conference on Computer Vision and Graphics 2008. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2008. no. 12, p. 1-12. ISSN: 0302-9743."
+        },
+        {
+            "year": "2008",
+            "citation": "POLOK, L.; HEROUT, A.; ZEMCIK, P.; HRADIS, M.; JURANEK, R.; JOSTH, R. \"Local Rank Differences\" Image Feature Implemented on GPU. Proceedings of the 10th International Conference on Advanced Concepts for Intelligent Vision Systems. Lecture Notes In Computer Science; Vol. 5259. Berlin, Heidelberg: Springer Verlag, 2008. p. 170-181. ISBN: 978-3-540-88457-6."
+        },
+        {
+            "year": "2007",
+            "citation": "BERAN, V.; HRADIS, M.; HEROUT, A.; CHMELAR, P.; POTUCEK, I.; SUMEC, S.; ZEMCIK, P. Video Summarization at Brno University of Technology. ACM Multimedia. Augsburg: Association for Computing Machinery, 2007. p. 1-4. ISBN: 978-1-59593-702-5."
+        },
+        {
+            "year": "2007",
+            "citation": "GRANAT, J.; HEROUT, A.; HRADIS, M.; ZEMCIK, P. Hardware Acceleration of AdaBoost Classifier. Workshop on Multimodal Interaction and Related Machine Learning Algorithms (MLMI). Brno: 2007. p. 1-12."
+        },
+        {
+            "year": "2007",
+            "citation": "HRADIS, M. Virtual Mobile Robot Localization. Proceedings of the 13th Conference STUDENT EEICT 2007. Brno: Brno University of Technology, 2007. p. 80-82. ISBN: 978-80-214-3408-0."
+        },
+        {
+            "year": "2007",
+            "citation": "Hradis, M. VIRTUAL MOBILE ROBOT LOCALIZATION. In Proceedings of the 13th conference STUDENT EEICT 2007, volume 2. Brno: Ing. Zdenek Novotny CSc., Ondrackova 105, Brno, 2007. 3 p. ISBN: 978-80-214-3408-0."
+        },
+        {
+            "year": "2007",
+            "citation": "SILHAVA, J.; BERAN, V.; CHMELAR, P.; HEROUT, A.; HRADIS, M.; JURANEK, R.; ZEMCIK, P. Platform for Evaluation of Image Classifiers. Spring Conference on Computer Graphics. Budmerice: Comenius University in Bratislava, 2007. p. 103-109. ISBN: 978-80-223-2292-8."
+        },
+        {
+            "year": "2007",
+            "citation": "SILHAVA, J.; BERAN, V.; CHMELAR, P.; HEROUT, A.; HRADIS, M.; JURANEK, R.; ZEMCIK, P. Testbench for Evaluation of Image Classifiers. Computer Graphics & Geometry, 2007, vol. 2007, no. 9, p. 31-47. ISSN: 1811-8992."
+        },
+        {
+            "year": "2007",
+            "citation": "ZEMCIK, P.; HRADIS, M.; HEROUT, A. Local Rank Differences - Novel Features for Image. Poster SCCG 2007. Budmerice: 2007. p. 1-12."
+        },
+        {
+            "year": "2006",
+            "citation": "HRADIS, M.; JURANEK, R. Head Tracking in Meeting Video. Proceedings of the 12th Conference STUDENT EEICT 2006 Volume 2. Brno: Vysoke uceni technicke v Brne, 2006. s. 203-205. ISBN: 80-214-3161-X."
+        },
+        {
+            "year": "2006",
+            "citation": "HRADIS, M.; JURANEK, R. Real-time Tracking of Participants in Meeting Video. Proceedings of The 10th Central European Seminar on Computer Graphics. Budmerice: 2006. p. 89-93."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2017",
+            "title": "Ground Segmentation by CNNs in Velodyne Data",
+            "metadata": "testing, 2017",
+            "authors": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A."
+        },
+        {
+            "year": "2015",
+            "title": "Image Captioning with Semantically Similar Images",
+            "metadata": "report, 2015",
+            "authors": "HRADIS, M.; KOLAR, M.; ZEMCIK, P."
+        },
+        {
+            "year": "2015",
+            "title": "VideoTerror demonstrator. Event-based Video Analytic Tool (EVIDANT)",
+            "metadata": "report, 2015",
+            "authors": "BERAN, V.; KAPINUS, M.; KLICNAR, L.; MATERNA, Z.; HRADIS, M.; FROML, V.; VOLF, T.; MRACEK, S.; ZENDULKA, J.; ZEMCIK, P."
+        },
+        {
+            "year": "2014",
+            "title": "Klasifikace scen a tagovani obrazku",
+            "metadata": "report, 2014",
+            "authors": "HRADIS, M.; LANIK, A."
+        }
+    ],
+    "name": "Hradis Michal, Ing., Ph.D."
+}

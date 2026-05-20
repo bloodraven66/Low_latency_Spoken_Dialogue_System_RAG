@@ -1,0 +1,995 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Deputy Head of\nDepartment",
+        "details": {
+            "e_mail": "herout@fit.vut.cz",
+            "work_phone": "+420 54114 1261",
+            "room": "L224 Office",
+            "researcher_id": "B-5651-2014",
+            "orcid_id": "0000-0003-2143-9314",
+            "scopus_author_id": "6506161493"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Computer Graphics Research Group",
+            "role": "Principal researcher"
+        },
+        {
+            "organization": "Disciplinary Committee of FIT",
+            "role": "Chairman"
+        },
+        {
+            "organization": "Doctoral Study Programme Board of FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "chairman"
+        },
+        {
+            "organization": "Scientific Board",
+            "role": "Member of Scientific Board"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2012",
+            "Imagine Cup 2013",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2019"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Tuesday, 15:00-17:00 , Please, reserve a consultation slot in advance: https://merlin.fit.vutbr.cz/wiki/index.php/Konzultace-Herout Thursday, 15:00-18:00 , B/L224 (Bozetechova 1/2, Brno 61200) Please, reserve a consultation slot in advance: https://merlin.fit.vutbr.cz/wiki/index.php/Konzultace-Herout",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "TAMa",
+                "title": "Application Development for Mobile Devices (in English)",
+                "details": "English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "PGR",
+                "title": "Computer Graphics",
+                "details": "Czech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "PGRe",
+                "title": "Computer Graphics (in English)",
+                "details": "English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "WP1a",
+                "title": "Essentials of Work and Study in Research and Technology 1",
+                "details": "English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "WP2a",
+                "title": "Essentials of Work and Study in Research and Technology 2",
+                "details": "English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "GZN",
+                "title": "Graphical and Sound Interfaces and Standards",
+                "details": "Czech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "UXIa",
+                "title": "User Experience and Design of User Interfaces and Services (in English)",
+                "details": "English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "YP1a",
+                "title": "Year Project 1",
+                "details": "English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "YP2a",
+                "title": "Year Project 2",
+                "details": "English, summer",
+                "department": "DCGM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "GZN",
+                "title": "Graphical and Sound Interfaces and Standards",
+                "details": "Lecture, Project,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IKK",
+                "title": "Circle Consultations",
+                "details": "Fundamentals seminar,\nCzech, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITU",
+                "title": "User Interface Programming",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITUe",
+                "title": "User Interface Programming (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "PGR",
+                "title": "Computer Graphics",
+                "details": "Lecture, Project,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "PGRe",
+                "title": "Computer Graphics (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "TAMa",
+                "title": "Application Development for Mobile Devices (in English)",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "UXIa",
+                "title": "User Experience and Design of User Interfaces and Services (in English)",
+                "details": "Fundamentals seminar, Lecture, Project,\nEnglish, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "VGE",
+                "title": "Computational Geometry",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Safe and Secure Traffic Systems with Advanced Technology",
+            "details": "MV, Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - II. verejna soutez, VB02000081, start: 2024-01-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Qinfo - Acquisition and Statistical Processing of Subjective Attitudes in Time",
+            "details": "TACR, 1. verejna soutez programu SIGMA, TQ01000036, start: 2023-09-01, end: 2026-08-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Reanimated book - digitized library treasures for the creative industries",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV033, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Non-Invasive and Secure IDentification",
+            "details": "TACR, 4. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW04020153, start: 2022-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Safe and Secure Traffic Systems of New Generation",
+            "details": "MV, Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - I. verejna soutez, VB01000048, start: 2022-01-01, end: 2023-12-31, running"
+        },
+        {
+            "year": "2021",
+            "title": "Condition diagnostics and protection of bridge constructions system with application of WIM system",
+            "details": "TACR, 2. verejna soutez programu Doprava 2020+, CK02000126, start: 2021-04-01, end: 2024-03-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Research and Development of a Solution for Measuring Speed of Trams in Video",
+            "details": "start: 2021-09-24, end: 2021-11-30, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Research and development of algorithms for processing of videosequences",
+            "details": "VirtualTraining, start: 2021-02-01, end: 2022-11-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Next Generation of Integrated Atomic Force and Scanning Electron Microscopy",
+            "details": "TACR, Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW01010183, start: 2020-04-01, end: 2023-03-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Framework of key enabling technologies for safe and autonomous drones  applications",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A19003, start: 2019-10-01, end: 2023-01-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Research of computer vision algorithms, enhanced reality and related user interfaces",
+            "details": "ONEPROVE, start: 2018-01-01, end: 2020-09-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "SMARTCarPark - Surveillance Monitoring, Analysis and Re-identification of Traffic for Enhanced Car Parking",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje EPSILON (2015-2025), TH03010529, start: 2018-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Development of indoor software for cycling - Rouvy AR",
+            "details": "EU, OP PIK - Aplikace, EG17_107/0012061, start: 2017-11-01, end: 2020-09-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Feasibility study for traffic aggregation based on automatic algorithm with minimal operator inputs",
+            "details": "CDV, start: 2017-11-01, end: 2017-12-12, completed"
+        },
+        {
+            "year": "2017",
+            "title": "iARTIST - industry-Academia Research on Three-dimensional Image Sensing for Transportation",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, start: 2017-10-01, end: 2018-01-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Improve the parameters of computer vision and computer graphics in an internal validation project Vision 2022",
+            "details": "VirtualTraining, start: 2017-11-01, end: 2018-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Tools and methods for video and image processing to improve effectivity of rescue and security services operations",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020068, start: 2017-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Vehicle Trajectory and Movement Analysis",
+            "details": "CDV, start: 2017-09-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3984, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "CVapp - Development of Computer Vision Modules for the Computer Vision Application-Store",
+            "details": "click2stream, start: 2016-01-21, end: 2016-02-21, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "CVapp - Enhancement of Computer Vision Application-Store Communication Modules and Development of Sample Applications",
+            "details": "click2stream, start: 2015-05-27, end: 2015-06-27, completed"
+        },
+        {
+            "year": "2014",
+            "title": "CVapp-computer vision application-store engine",
+            "details": "click2stream, start: 2014-09-04, end: 2015-02-14, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Zpracovani, rozpoznavani a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2506, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Applying Pilots Models for Safer Aircraft",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, 7E13047, start: 2013-09-01, end: 2016-08-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "HoliDes - Holistic Human Factors and System Design of Adaptive Cooperative Human-Machine Systems",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H13004, start: 2013-10-01, end: 2016-09-30, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Uprava nastroje pro zaznam videa \"Multi Stream Recorder",
+            "details": "DISK, 03092013, start: 2013-09-03, end: 2013-10-02, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Vytvoreni softwarove aplikace pro prehravani videa a dalsiho obsahu pro verejny kiosek s dotykovym uzivatelskym rozhranim",
+            "details": "WRTB, 11022013, start: 2013-02-11, end: 2013-03-08, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Context acquisition on mobile devices",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR1966/2012/G1, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "D-NOTAM",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA02030835, start: 2012-01-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Efficient software development for mobile devices",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2158/2012/G1, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Navrh a realizace, testovani algoritmu",
+            "details": "SKODA AUTO, Algoritmy, start: 2012-03-21, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "V3C - Visual Computing Competence Center",
+            "details": "TACR, Centra kompetence, TE01020415, start: 2012-05-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-2, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Modern Tools for Detection and Mitigation of Cyber Criminality on the New Generation Internet",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015022, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-2, 2010, start: 2010-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Tools and Methods for Video and Image Processing for the Fight against Terrorism",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015006, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Laboratory of Image Processing and Computer Graphics",
+            "details": "FR2148/2009/Aa, start: 2009-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Laboratory of human machine interaction",
+            "details": "FR0274/2008/Aa, start: 2008-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2004",
+            "title": "Rapid prototyping tools for development of HW-accelerated embedded image- and video-processing applications",
+            "details": "AV CR, Informacni spolecnost (Narodni program vyzkumu), 1ET400750408, start: 2004-07-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Computer graphics algorithms with FPGA support",
+            "details": "GACR, Standardni projekty, GA102/02/0507, start: 2002-01-01, end: 2003-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2026",
+            "citation": "VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7."
+        },
+        {
+            "year": "2025",
+            "citation": "VASKO, M.; HEROUT, A. LossFIQA: A Shortcut Solution to Image Quality Assessment Using Loss for Faces and Beyond. IEEE Access, 2025, vol. 13, no. 7, p. 126915-126924."
+        },
+        {
+            "year": "2023",
+            "citation": "KIEFER, B.; BARTL, V.; SPANHEL, J.; HEROUT, A.; YANG, M., et al. 1st Workshop on Maritime Computer Vision (MaCVi) 2023: Challenge Results. In 2023 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW). Waikoloa, Hawaii: Institute of Electrical and Electronics Engineers, 2023. p. 265-302. ISBN: 979-8-3503-2056-5."
+        },
+        {
+            "year": "2023",
+            "citation": "KOCUR, V.; HEGROVA, V.; PATOCKA, M.; NEUMAN, J.; HEROUT, A. Correction of AFM data artifacts using a convolutional neural network trained with synthetically generated data. Ultramicroscopy, 2023, vol. 246, no. 1, p. 113666-113666. ISSN: 0304-3991."
+        },
+        {
+            "year": "2023",
+            "citation": "LI, J.; ELLIS, D.; KODYM, O.; HEROUT, A.; SPANEL, M.; EGGER, J. Towards clinical applicability and computational efficiency in automatic cranial implant design: An overview of the AutoImplant 2021 cranial implant design challenge. MEDICAL IMAGE ANALYSIS, 2023, vol. 88, no. 102865, p. 1-15. ISSN: 1361-8423."
+        },
+        {
+            "year": "2023",
+            "citation": "OMACHTOVA, A.; HEROUT, A.; BAMBUSEK, D.; JURIK, V. How to shoot yourself right with a smartphone?. Virtual reality, 2023, vol. 2023, no. 1, p. 1-13. ISSN: 1434-9957."
+        },
+        {
+            "year": "2022",
+            "citation": "BARTL, V.; SPANHEL, J.; HEROUT, A. PersonGONE: Image Inpainting for Automated Checkout Solution. In 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. New Orleans, LA: IEEE Computer Society, 2022. no. 7, p. 3114-3122. ISSN: 2160-7516."
+        },
+        {
+            "year": "2022",
+            "citation": "KOBRTEK, J.; MILET, T.; TOTH, M.; HEROUT, A. Comparison of Modern Omnidirectional Precise Shadowing Techniques Versus Ray Tracing. Computer Graphics Forum, 2022, vol. 41, no. 1, p. 106-121. ISSN: 0167-7055."
+        },
+        {
+            "year": "2021",
+            "citation": "HEROUT, A.; KODYM, O.; SPANEL, M. AutoImplant 2020-First MICCAI Challenge on Automatic Cranial Implant Design. IEEE TRANSACTIONS ON MEDICAL IMAGING, 2021, vol. 40, no. 9, p. 2329-2342. ISSN: 0278-0062."
+        },
+        {
+            "year": "2021",
+            "citation": "KODYM, O.; SPANEL, M.; HEROUT, A. Deep Learning for Cranioplasty in Clinical Practice: Going from Synthetic to Real Patient Data. Computers in Biology and Medicine, 2021, vol. 137, no. 104766, p. 1-10. ISSN: 0010-4825."
+        },
+        {
+            "year": "2021",
+            "citation": "KODYM, O.; SPANEL, M.; HEROUT, A. Segmentation of Defective Skulls from CT Data for Tissue Modelling. In Towards the Automatization of Cranial Implant Design in Cranioplasty II. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Strasbourg: Springer Nature Switzerland AG, 2021. no. 13123, p. 19-28. ISBN: 978-3-030-92652-6. ISSN: 0302-9743."
+        },
+        {
+            "year": "2020",
+            "citation": "BARTL, V.; JURANEK, R.; SPANHEL, J.; HEROUT, A. PlaneCalib: Automatic Camera Calibration by Multiple Observations of Rigid Objects on Plane. In 2020 International Conference on Digital Image Computing: Techniques and Applications (DICTA). Melbourne: Institute of Electrical and Electronics Engineers, 2020. p. 1-8. ISBN: 978-1-7281-9108-9."
+        },
+        {
+            "year": "2020",
+            "citation": "BARTL, V.; SPANHEL, J.; DOBES, P.; JURANEK, R.; HEROUT, A. Automatic Camera Calibration by Landmarks on Rigid Objects. Machine vision and applications, 2020, vol. 32, no. 1, p. 2-15. ISSN: 1432-1769."
+        },
+        {
+            "year": "2020",
+            "citation": "DOBES, P.; SPANHEL, J.; BARTL, V.; JURANEK, R.; HEROUT, A. Density-Based Vehicle Counting with Unsupervised Scale Selection. In Digital Image Computing: Techniques and Applications 2020. Melbourne: Institute of Electrical and Electronics Engineers, 2020. p. 1-8. ISBN: 978-1-7281-9108-9."
+        },
+        {
+            "year": "2020",
+            "citation": "FOLENTA, J.; SPANHEL, J.; BARTL, V.; HEROUT, A. Determining Vehicle Turn Counts at Multiple Intersections by Separated Vehicle Classes Using CNNs. In 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. Seattle, WA: IEEE Computer Society, 2020. no. 07, p. 2544-2549. ISBN: 978-1-7281-9360-1. ISSN: 2160-7516."
+        },
+        {
+            "year": "2020",
+            "citation": "HAVRANEK, P.; ZUVALA, R.; SPANHEL, J.; HEROUT, A.; VALENTOVA, V.; AMBROS, J. How does road marking in horizontal curves influence driving behaviour?. European Transport Research Review, 2020, vol. 12, no. 1, p. 1-11. ISSN: 1866-8887."
+        },
+        {
+            "year": "2020",
+            "citation": "KODYM, O.; SPANEL, M.; HEROUT, A. Cranial Defect Reconstruction Using Cascaded CNN with Alignment. In Towards the Automatization of Cranial Implant Design in Cranioplasty. Lecture Notes in Computer Science. Lima: Springer Nature Switzerland AG, 2020. p. 56-64. ISBN: 978-3-030-64326-3."
+        },
+        {
+            "year": "2020",
+            "citation": "KODYM, O.; SPANEL, M.; HEROUT, A. Skull Shape Reconstruction Using Cascaded Convolutional Networks. Computers in Biology and Medicine, 2020, vol. 123, no. 103886, p. 1-9. ISSN: 0010-4825."
+        },
+        {
+            "year": "2020",
+            "citation": "SPANHEL, J.; SOCHOR, J.; JURANEK, R.; DOBES, P.; BARTL, V.; HEROUT, A. Learning Feature Aggregation in Temporal Domain for Re-Identification. COMPUTER VISION AND IMAGE UNDERSTANDING, 2020, vol. 192, no. 11, p. 1-12. ISSN: 1077-3142."
+        },
+        {
+            "year": "2019",
+            "citation": "BARTL, V.; HEROUT, A. OptInOpt: Dual Optimization for Automatic Camera Calibration by Multi-Target Observations. In 16th IEEE International Conference on Advanced Video and Signal-based Surveillance. Taipei: Institute of Electrical and Electronics Engineers, 2019. p. 1-8. ISBN: 978-1-7281-0990-9."
+        },
+        {
+            "year": "2019",
+            "citation": "JURANEK, R.; SPANHEL, J.; SOCHOR, J.; HEROUT, A.; NOVAK, J. Visual Analysis of Vehicle Trajectories for Determining Cross-Sectional Load Density. Transactions on Transport Sciences - online version, 2019, vol. 10, no. 1, p. 50-57. ISSN: 1802-9876."
+        },
+        {
+            "year": "2019",
+            "citation": "KOBRTEK, J.; MILET, T.; HEROUT, A. Silhouette Extraction for Shadow Volumes Using Potentially Visible Sets. In International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG). Plzen: Union Agency, 2019. p. 9-16. ISBN: 978-80-86943-37-4."
+        },
+        {
+            "year": "2019",
+            "citation": "SPANHEL, J.; BARTL, V.; JURANEK, R.; HEROUT, A. Vehicle Re-Identification and Multi-Camera Tracking in Challenging City-Scale Environment. In 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. Long Beach: IEEE Computer Society, 2019. no. 1, p. 150-158. ISSN: 2160-7516."
+        },
+        {
+            "year": "2019",
+            "citation": "SPANHEL, J.; JURANEK, R.; HEROUT, A.; NOVAK, J.; HAVRANEK, P. Analysis of Vehicle Trajectories for Determining Cross-Sectional Load Density Based on Computer Vision. In 2019 22th International Conference on Intelligenet Transportation Systems (ITSC). Auckland: Institute of Electrical and Electronics Engineers, 2019. p. 1001-1006. ISBN: 978-1-5386-7024-8."
+        },
+        {
+            "year": "2019",
+            "citation": "SZENTANDRASI, I.; JURANKOVA, M.; ZACHARIAS, M.; HEROUT, A. Poor Man's Virtual Camera: Real-Time Simultaneous Matting and Camera Pose Estimation. IEEE COMPUTER GRAPHICS AND APPLICATIONS, 2019, vol. 39, no. 6, p. 108-119. ISSN: 0272-1716."
+        },
+        {
+            "year": "2019",
+            "citation": "VELAS, M.; SPANEL, M.; HEROUT, A. Indoor and Outdoor Backpack Mapping with Calibrated Pair of Velodyne LiDARs. SENSORS, 2019, vol. 19, no. 18, p. 1-34. ISSN: 1424-8220."
+        },
+        {
+            "year": "2018",
+            "citation": "KODYM, O.; SPANEL, M.; HEROUT, A. Segmentation of Head and Neck Organs at Risk Using CNN with Batch Dice Loss. In Pattern Recognition, 40th German Conference, GCPR 2018 Proceedings. Lecture Notes in Computer Science. LNCS, volume 11269. Stuttgart: Springer International Publishing, 2018. no. 11269, p. 105-114. ISBN: 978-3-030-12938-5. ISSN: 0302-9743."
+        },
+        {
+            "year": "2018",
+            "citation": "SOCHOR, J.; JURANEK, R.; SPANHEL, J.; MARSIK, L.; SIROKY, A.; HEROUT, A.; ZEMCIK, P. Comprehensive Data Set for Automatic Single Camera Visual Speed Measurement. IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, 2018, vol. 2018, no. 99, p. 1633-1643. ISSN: 1524-9050."
+        },
+        {
+            "year": "2018",
+            "citation": "SOCHOR, J.; SPANHEL, J.; HEROUT, A. BoxCars: Improving Fine-Grained Recognition of Vehicles using 3-D Bounding Boxes in Traffic Surveillance. IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, 2018, vol. 2019, no. 1, p. 97-108. ISSN: 1524-9050."
+        },
+        {
+            "year": "2018",
+            "citation": "SOCHOR, J.; SPANHEL, J.; JURANEK, R.; DOBES, P.; HEROUT, A. Graph@FIT Submission to the NVIDIA AI City Challenge 2018. In NVIDIA AI City Challenge 2018 (CVPRW). Salt Lake City: IEEE Computer Society, 2018. p. 77-84. ISBN: 978-1-5386-6100-0."
+        },
+        {
+            "year": "2018",
+            "citation": "SPANHEL, J.; SOCHOR, J.; JURANEK, R.; HEROUT, A. Geometric Alignment by Deep Learning for Recognition of Challenging License Plates. In 2018 21st International Conference on Intelligent Transportation Systems (ITSC). Proceedings. Lahaina, Maui: IEEE Intelligent Transportation Systems Society, 2018. no. 21, p. 3524-3529. ISBN: 978-1-72810-321-1. ISSN: 2153-0017."
+        },
+        {
+            "year": "2018",
+            "citation": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A. CNN for IMU Assisted Odometry Estimation using Velodyne LiDAR. In IEEE International Conference on Autonomous Robot Systems and Competitions. IEEE International Conference on Autonomous Robot Systems and Competitions. Torres Vedras: Institute of Electrical and Electronics Engineers, 2018. no. 4, p. 71-77. ISBN: 978-1-5386-5221-3. ISSN: 2573-9387."
+        },
+        {
+            "year": "2018",
+            "citation": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A. CNN for Very Fast Ground Segmentation in Velodyne LiDAR Data. In IEEE International Conference on Autonomous Robot Systems and Competitions. Torres Vedras: Institute of Electrical and Electronics Engineers, 2018. p. 97-103. ISBN: 978-1-5386-5221-3."
+        },
+        {
+            "year": "2017",
+            "citation": "BARTL, V.; HEROUT, A. Fully Automatic Horizon Estimation for Surveillance Cameras. In 2017 International Conference on Digital Image Computing: Techniques and Applications (DICTA). Sydney: Institute of Electrical and Electronics Engineers, 2017. p. 23-30. ISBN: 978-1-5386-2839-3."
+        },
+        {
+            "year": "2017",
+            "citation": "SOCHOR, J.; JURANEK, R.; HEROUT, A. Traffic Surveillance Camera Calibration by 3D Model Bounding Box Alignment for Accurate Vehicle Speed Measurement. COMPUTER VISION AND IMAGE UNDERSTANDING, 2017, vol. 2017, no. 161, p. 87-98. ISSN: 1077-3142."
+        },
+        {
+            "year": "2017",
+            "citation": "SOCHOR, J.; SPANHEL, J.; HEROUT, A. BoxCars: 3D Boxes for Improved Fine-Grained Vehicle Recognition. The Fourth Workshop on Fine-Grained Visual Categorization (CVPR 2017). Honolulu, HI: IEEE Computer Society, 2017. p. 1-2."
+        },
+        {
+            "year": "2017",
+            "citation": "SPANHEL, J.; SOCHOR, J.; JURANEK, R.; HEROUT, A.; MARSIK, L.; ZEMCIK, P. Holistic Recognition of Low Quality License Plates by CNN using Track Annotated Data. In International Workshop on Traffic and Street Surveillance for Safety and Security (AVSS 2017). Lecce: IEEE Computer Society, 2017. p. 1-6. ISBN: 978-1-5386-2939-0."
+        },
+        {
+            "year": "2016",
+            "citation": "JURANKOVA, M.; HEROUT, A.; HAVEL, J. Real-Time Precise Detection of Regular Grids and Matrix Codes. Journal of Real-Time Image Processing, 2016, vol. 11, no. 1, p. 193-200. ISSN: 1861-8200."
+        },
+        {
+            "year": "2016",
+            "citation": "KAJAN, R.; HEROUT, A.; BEDNARIK, R.; POVOLNY, F. PeepList: Adapting ex-post interaction with pervasive display content using eye tracking. Pervasive and Mobile Computing, 2016, vol. 30, no. 1, p. 71-83. ISSN: 1574-1192."
+        },
+        {
+            "year": "2016",
+            "citation": "SOCHOR, J.; HEROUT, A.; HAVEL, J. BoxCars: 3D Boxes as CNN Input for Improved Fine-Grained Vehicle Recognition. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Las Vegas: IEEE Computer Society, 2016. no. 6, p. 3006-3015. ISBN: 978-1-4673-8851-1. ISSN: 1063-6919."
+        },
+        {
+            "year": "2016",
+            "citation": "VELAS, M.; SPANEL, M.; HEROUT, A. Collar Line Segments for Fast Odometry Estimation from Velodyne Point Clouds. In Proceedings of IEEE International Conference on Robotics and Automation. Stockholm: IEEE Computer Society, 2016. p. 4486-4491. ISBN: 978-1-4673-8025-6."
+        },
+        {
+            "year": "2016",
+            "citation": "ZACHARIAS, M.; HEROUT, A. Color Theme-Based Digital Art for Augmented Environment. Proceedings of the 2016 International Conference on Digital Arts, Media and Technology. Chiang Rai: 2016. p. 1-6. ISBN: 978-1-5090-5209-7."
+        },
+        {
+            "year": "2016",
+            "citation": "ZACHARIAS, M.; SZENTANDRASI, I.; HEROUT, A. Visual Correction of Position Drift using Uniform Marker Fields. In Proceedings of the 32nd Spring conference on Computer Graphics. Bratislava: Association for Computing Machinery, 2016. p. 81-85. ISBN: 978-1-4503-4436-4."
+        },
+        {
+            "year": "2016",
+            "citation": "ZAPLETAL, D.; HEROUT, A. Vehicle Re-Identification for Automatic Video Traffic Surveillance. In International Workshop on Automatic Traffic Surveillance (CVPR 2016). Las Vegas: IEEE Computer Society, 2016. p. 1568-1574. ISBN: 978-0-7695-4989-7."
+        },
+        {
+            "year": "2015",
+            "citation": "BEHUN, K.; HEROUT, A.; PAVELKOVA, A. Implicit Hand Gestures in Aeronautics Cockpit as a Cue for Crew State and Workload Inference. In Proceedings of ITSC 2015. Las Palmas: The Universidad de Las Palmas de Gran Canaria, 2015. p. 632-637. ISBN: 978-1-4673-6596-3."
+        },
+        {
+            "year": "2015",
+            "citation": "JURANEK, R.; HEROUT, A.; JURANKOVA, M.; ZEMCIK, P. Real-Time Pose Estimation Piggybacked on Object Detection. In Proceedings of ICCV. Santiago: IEEE Computer Society, 2015. p. 1-9. ISBN: 978-1-4673-8391-2."
+        },
+        {
+            "year": "2015",
+            "citation": "PAVELKOVA, A.; HEROUT, A.; BEHUN, K. Usability of Pilot's Gaze in Aeronautic Cockpit for Safer Aircraft. In Proceedings of ITSC 2015. Las Palmas: The Universidad de Las Palmas de Gran Canaria, 2015. p. 1-6. ISBN: 978-1-4673-6595-6."
+        },
+        {
+            "year": "2015",
+            "citation": "SOCHOR, J.; HEROUT, A. Unsupervised Processing of Vehicle Appearance for Automatic Understanding in Traffic Surveillance. In Digital Image Computing: Techniques and Applications (DICTA), 2015 International Conference on. Adelaide: Australian Pattern Recognition Society, 2015. p. 1-8. ISBN: 978-1-4673-6795-0."
+        },
+        {
+            "year": "2015",
+            "citation": "SZENTANDRASI, I.; ZACHARIAS, M.; KAJAN, R.; TINKA, J.; JURANKOVA, M.; SOCHOR, J.; HEROUT, A. INCAST: Interactive Camera Streams for Surveillance Cams AR. In Proceedings of the 2015 14th IEEE International Symposium on Mixed and Augmented Reality. Fukuoka: Institute of Electrical and Electronics Engineers, 2015. p. 1-5. ISBN: 978-1-4799-6184-9."
+        },
+        {
+            "year": "2014",
+            "citation": "BEHUN, K.; HEROUT, A.; PALDY, A. Kinect-Supported Dataset Creation for Human Pose Estimation. In Proceedings of Spring Conference on Computer Graphics. Smolenice: Comenius University in Bratislava, 2014. p. 88-95. ISBN: 978-80-223-3601-7."
+        },
+        {
+            "year": "2014",
+            "citation": "HAVEL, J.; JURANKOVA, M.; HEROUT, A.; JOSTH, R. Real-Time Detection of Lines using Parallel Coordinates and CUDA. Journal of Real-Time Image Processing, 2014, vol. 2014, no. 9, p. 205-216. ISSN: 1861-8200."
+        },
+        {
+            "year": "2014",
+            "citation": "JURANKOVA, M.; HEROUT, A.; JURANEK, R.; SOCHOR, J. Fully Automatic Roadside Camera Calibration for Traffic Surveillance. IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, 2014, vol. 2014, no. 1, p. 1-10. ISSN: 1524-9050."
+        },
+        {
+            "year": "2014",
+            "citation": "JURANKOVA, M.; SOCHOR, J.; HEROUT, A. Automatic Camera Calibration for Traffic Understanding. In Proceedings of BMVC 2014. Nottingham: The British Machine Vision Association and Society for Pattern Recognition, 2014. p. 1-10. ISBN: 1-901725-52-9."
+        },
+        {
+            "year": "2014",
+            "citation": "KAJAN, R.; SZENTANDRASI, I.; HEROUT, A.; PAVELKOVA, A. Reliable and Unobtrusive Inter-Device Collaboration by Continuous Interaction. In Journal of WSCG. Plzen: University of West Bohemia in Pilsen, 2014. p. 95-103. ISBN: 978-80-86943-69-5."
+        },
+        {
+            "year": "2014",
+            "citation": "SLOSAR, P.; JURANEK, R.; HEROUT, A. Cheap Rendering vs. Costly Annotation: Rendered Omnidirectional Dataset of Vehicles. In Proceedings of Spring Conference on Computer Graphics. Smolenice: Comenius University in Bratislava, 2014. p. 105-112. ISBN: 978-80-223-3601-7."
+        },
+        {
+            "year": "2014",
+            "citation": "VELAS, M.; SPANEL, M.; MATERNA, Z.; HEROUT, A. Calibration of RGB Camera With Velodyne LiDAR. In WSCG 2014 Communication Papers Proceedings. Journal of WSCG. Plzen: Union Agency, 2014. no. 22, p. 135-144. ISBN: 978-80-86943-71-8. ISSN: 1213-6972."
+        },
+        {
+            "year": "2013",
+            "citation": "HAVEL, J.; HEROUT, A.; JURANKOVA, M. Vanishing Points in Point-to-Line Mappings and Other Line Parameterizations. Pattern Recognition Letters, 2013, vol. 2013, no. 34, p. 703-708. ISSN: 0167-8655."
+        },
+        {
+            "year": "2013",
+            "citation": "HEROUT, A.; SZENTANDRASI, I.; ZACHARIAS, M.; JURANKOVA, M.; KAJAN, R. Five Shades of Grey for Fast and Reliable Camera Pose Estimation. Proceedings of CVPR. Portland, OR: IEEE Computer Society, 2013. p. 1384-1390. ISBN: 978-0-7695-4989-7."
+        },
+        {
+            "year": "2013",
+            "citation": "HORVATH, Z.; HEROUT, A.; SZENTANDRASI, I.; ZACHARIAS, M. Design and Detection of Local Geometric Features for Deformable Marker Fields. Proceedings of 29th Spring conference on Computer Graphics. Bratislava: Comenius University in Bratislava, 2013. p. 85-92. ISBN: 978-80-223-3377-1."
+        },
+        {
+            "year": "2013",
+            "citation": "JURANKOVA, M.; HEROUT, A. Real Projective Plane Mapping for Detection of Orthogonal Vanishing Points. Proceedings of BMVC 2013. Bristol: The British Machine Vision Association and Society for Pattern Recognition, 2013. p. 1-10. ISBN: 1-901725-49-9."
+        },
+        {
+            "year": "2013",
+            "citation": "JURANKOVA, M.; SZENTANDRASI, I.; ZACHARIAS, M.; HEROUT, A. Poor Man's SimulCam: Real-Time And Effortless MatchMoving. Proceedings of the 2013 12th IEEE International Symposium on Mixed and Augmented Reality. Adelaide, S.A.: Institute of Electrical and Electronics Engineers, 2013. p. 1-3. ISBN: 978-1-4673-4661-0."
+        },
+        {
+            "year": "2013",
+            "citation": "KAJAN, R.; SZENTANDRASI, I.; HEROUT, A.; ZACHARIAS, M. On-Screen Marker Fields for Reliable Screen-To-Screen Task Migration. Proceedings of the 2013 International Conference on Human Factors in Computing & Informatics. Maribor: Springer Verlag, 2013. p. 1-19. ISBN: 978-3-642-39061-6."
+        },
+        {
+            "year": "2013",
+            "citation": "MILET, T.; NAVRATIL, J.; HEROUT, A.; ZEMCIK, P. Improved Computation of Attenuated Light with Application in Scenes with Multiple Light Sources. Proceedings of SCCG 2013. Bratislava: Comenius University in Bratislava, 2013. p. 155-160. ISBN: 978-80-223-3377-1."
+        },
+        {
+            "year": "2012",
+            "citation": "BEDNARIK, R.; HEROUT, A. What Students Want: A Study on the Role of Supervisor of Final Works in Computing Education. Proceedings of the 12th Koli Calling International Conference on Computing Education Research. New York: Association for Computing Machinery, 2012. p. 118-125. ISBN: 978-1-4503-1795-5."
+        },
+        {
+            "year": "2012",
+            "citation": "HEROUT, A.; HRADIS, M.; ZEMCIK, P. EnMS: Early non-Maxima Suppression. PATTERN ANALYSIS AND APPLICATIONS, 2012, vol. 2012, no. 2, p. 121-132. ISSN: 1433-7541."
+        },
+        {
+            "year": "2012",
+            "citation": "HEROUT, A.; JURANKOVA, M.; HAVEL, J. Real-Time Detection of Lines and Grids: By PClines and Other Approaches. Springerbriefs in Computer Science. Springerbriefs in Computer Science. London: Springer London, 2012. 88 p. ISBN: 978-1-4471-4413-7."
+        },
+        {
+            "year": "2012",
+            "citation": "HEROUT, A.; ZACHARIAS, M.; JURANKOVA, M.; HAVEL, J. Fractal Marker Fields: No More Scale Limitations for Fiduciary Markers. Proceedings of the 2012 11th IEEE International Symposium on Mixed and Augmented Reality. Atlatnta, Georgia: Institute of Electrical and Electronics Engineers, 2012. p. 1-2. ISBN: 978-1-4673-4660-3."
+        },
+        {
+            "year": "2012",
+            "citation": "JOSTH, R.; ANTIKAINEN, J.; HAVEL, J.; HEROUT, A.; ZEMCIK, P.; HAUTA-KASARI, M. Real-Time PCA Calculation for Spectral Imaging (using SIMD and GP-GPU). Journal of Real-Time Image Processing, 2012, vol. 7, no. 2, p. 95-103. ISSN: 1861-8200."
+        },
+        {
+            "year": "2012",
+            "citation": "KAJAN, R.; ZACHARIAS, M.; HEROUT, A. Selective Availability for Security Monitoring. Proceedings of the Software Technologies and Processes 2012. Furtwagen: 2012. p. 1-10."
+        },
+        {
+            "year": "2012",
+            "citation": "SZENTANDRASI, I.; HEROUT, A.; JURANKOVA, M. Fast Detection and Recognition of QR codes in High-Resolution Images. Proceedings of 28th Spring conference on Computer Graphics. Bratislava: Comenius University in Bratislava, 2012. p. 1-8. ISBN: 978-1-4503-1977-5."
+        },
+        {
+            "year": "2012",
+            "citation": "SZENTANDRASI, I.; ZACHARIAS, M.; HAVEL, J.; HEROUT, A.; JURANKOVA, M.; KAJAN, R. Uniform Marker Fields: Camera Localization By Orientable De Bruijn Tori. Proceedings of the 2012 11th IEEE International Symposium on Mixed and Augmented Reality. Atlatnta, Georgia: Institute of Electrical and Electronics Engineers, 2012. p. 1-2. ISBN: 978-1-4673-4661-0."
+        },
+        {
+            "year": "2011",
+            "citation": "ANTIKAINEN, J.; HAVEL, J.; JOSTH, R.; HEROUT, A.; ZEMCIK, P.; HAUTA-KASARI, M. Non-Negative Tensor Factorization Accelerated Using GPGPU. IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS, 2011, vol. 2011, no. 1111, 7 p. ISSN: 1045-9219."
+        },
+        {
+            "year": "2011",
+            "citation": "HEROUT, A.; JOSTH, R.; JURANEK, R.; HAVEL, J.; HRADIS, M.; ZEMCIK, P. Real-time object detection on CUDA. Journal of Real-Time Image Processing, 2011, vol. 2011, no. 3, p. 159-170. ISSN: 1861-8200."
+        },
+        {
+            "year": "2011",
+            "citation": "JOSTH, R.; JURANKOVA, M.; HEROUT, A.; HAVEL, J. Real-Time Line Detection Using Accelerated High-Resolution Hough Transform. Proceedings of SCIA 2011, LNCS. Ystad: Springer Verlag, 2011. p. 784-793. ISBN: 978-3-642-21226-0."
+        },
+        {
+            "year": "2011",
+            "citation": "JURANKOVA, M.; HAVEL, J.; HEROUT, A. Real-Time Detection of Lines using Parallel Coordinates and OpenGL. Proceedings of SCCG 2011. Bratislava: Comenius University in Bratislava, 2011. p. 1-7. ISBN: 978-80-223-3018-3."
+        },
+        {
+            "year": "2011",
+            "citation": "JURANKOVA, M.; HEROUT, A.; HAVEL, J. PClines - Line Detection Using Parallel Coordinates. Proceedings of CVPR 2011. Colorado Springs: IEEE Computer Society, 2011. p. 1489-1494. ISBN: 978-1-4577-0393-5."
+        },
+        {
+            "year": "2011",
+            "citation": "SEEMAN, M.; ZEMCIK, P.; JURANEK, R.; HEROUT, A. Fast bilateral filter for HDR imaging. JOURNAL OF VISUAL COMMUNICATION AND IMAGE REPRESENTATION, 2011, roc. 2012, c. 1, 6 s. ISSN: 1047-3203."
+        },
+        {
+            "year": "2011",
+            "citation": "STRBA, M.; HEROUT, A.; HAVEL, J. Handwritten Digits Recognition Improved by Multiresolution Classifier Fusion. Proceedings of IbPRIA 2011, LNCS. Berlin: Springer Verlag, 2011. p. 726-733. ISBN: 978-3-642-21256-7."
+        },
+        {
+            "year": "2011",
+            "citation": "VANEK, J.; BENES, B.; HEROUT, A.; STAVA, O. Large-Scale Physics-Based Terrain Editing Using Adaptive Tiles on the GPU. IEEE COMPUTER GRAPHICS AND APPLICATIONS, 2011, vol. 2011, no. 1, 10 p. ISSN: 0272-1716."
+        },
+        {
+            "year": "2011",
+            "citation": "VANEK, J.; NAVRATIL, J.; HEROUT, A.; ZEMCIK, P. High-quality Shadows with Improved Paraboloid Mapping. Advances in Visual Computing. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2011. p. 421-430. ISBN: 978-3-642-24027-0."
+        },
+        {
+            "year": "2011",
+            "citation": "ZEMCIK, P.; PRIBYL, B.; HEROUT, A.; SEEMAN, M. Accelerated Image Resampling for Geometry Correction. Journal of Real-Time Image Processing, 2011, vol. 6, no. 3, p. 1-9. ISSN: 1861-8200."
+        },
+        {
+            "year": "2010",
+            "citation": "BERAN, V.; HEROUT, A.; ZEMCIK, P. On-line Video Synchronization Based on Visual Vocabularies. In Proceedings of WSCG'10. 18th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision, WSCG 2010. Plzen: University of West Bohemia in Pilsen, 2010. p. 31-34. ISBN: 978-80-86943-88-6."
+        },
+        {
+            "year": "2010",
+            "citation": "BERAN, V.; ZEMCIK, P.; HEROUT, A. On-line Video Synchronization Based on Visual Vocabularies. International Journal of Signal and Image Processing, 2010, vol. 2010, no. 2, p. 1-7. ISSN: 1737-9253."
+        },
+        {
+            "year": "2010",
+            "citation": "HANAK, I.; HEROUT, A.; ZEMCIK, P. Acceleration of the Detail Driven Method for Hologram Generation. OPTICAL ENGINEERING, 2010, vol. 49, no. 8, p. 1-9. ISSN: 0091-3286."
+        },
+        {
+            "year": "2010",
+            "citation": "HAVEL, J.; HEROUT, A. Rendering Pipeline Modelled by Category Theory. GraVisMa 2010 workshop proceedings. Plzen: University of West Bohemia in Pilsen, 2010. p. 101-105. ISBN: 978-80-86943-85-5."
+        },
+        {
+            "year": "2010",
+            "citation": "HAVEL, J.; HEROUT, A. Yet Faster Ray-Triangle Intersection (Using SSE4). IEEE transactions on visualization and computer graphics, 2010, vol. 2010, no. 3, p. 434-438. ISSN: 1077-2626."
+        },
+        {
+            "year": "2010",
+            "citation": "HEROUT, A.; JURANEK, R.; ZEMCIK, P. Implementing the Local Binary Patterns with SIMD Instructions of CPU. Proceedings of WSCG 2010. Plzen: University of West Bohemia in Pilsen, 2010. p. 39-42. ISBN: 978-80-86943-86-2."
+        },
+        {
+            "year": "2010",
+            "citation": "HEROUT, A.; ZEMCIK, P.; HRADIS, M.; JURANEK, R.; HAVEL, J.; JOSTH, R.; ZADNIK, M. Low-Level Image Features for Real-Time Object Detection. In Pattern Recognition, Recent Advances. Vienna: IN-TECH Education and Publishing, 2010. p. 111-136. ISBN: 978-953-7619-90-9."
+        },
+        {
+            "year": "2010",
+            "citation": "HRADIS, M.; BERAN, V.; REZNICEK, I.; HEROUT, A.; BARINA, D.; VLCEK, A.; ZEMCIK, P. Brno University of Technology at TRECVid 2010 SIN, CCD. In 2010 TREC Video Retrieval Evaluation Notebook Papers. Gaithersburg, MD: National Institute of Standards and Technology, 2010. p. 1-10."
+        },
+        {
+            "year": "2010",
+            "citation": "KAJAN, R.; HEROUT, A. MoonGate: Modular real-time strategy engine for Xbox 360 and PC. PROCEEDINGS OF THE IADIS INTERNATIONAL CONFERENCE GAME AND ENTERTAINMENT TECHNOLOGIES 2010. Freiburg: 2010. s. 91-95. ISBN: 978-972-8939-18-2."
+        },
+        {
+            "year": "2010",
+            "citation": "REZNICEK, I.; ZEMCIK, P.; HEROUT, A.; BERAN, V. SVM CLASSIFIERS CREATION IN PARALLEL CONSTRAINED ENVIRONMENT. In Proc. of the IADIS Int. Conf. - Computer Graphics, Visualization, Computer Vision and Image Processing, CGVCVIP 2010, Visual Commun., VC 2010, Web3DW 2010, Part of the MCCSIS 2010. Freiburg im Breissgau: IADIS, 2010. p. 535-538. ISBN: 978-972-8939-22-9."
+        },
+        {
+            "year": "2010",
+            "citation": "VLCEK, A.; HAVEL, J.; HEROUT, A. Front-to-Back Blending with Early Fragment Discarding. Proceedings of Spring Conference on Computer Graphics. Bratislava: Comenius University in Bratislava, 2010. p. 91-97. ISBN: 978-80-223-2843-2."
+        },
+        {
+            "year": "2010",
+            "citation": "ZEMCIK, P.; HRADIS, M.; HEROUT, A. Exploiting neighbors for faster scanning window detection in images. ACIVS 2010. Lecture Notes in Computer Science. Sydney: Springer Verlag, 2010. p. 100-111. ISBN: 978-3-642-17690-6."
+        },
+        {
+            "year": "2009",
+            "citation": "BERAN, V.; HEROUT, A.; REZNICEK, I. Video-Based Bicycle Detection in Underground Scenarios. Proceedings of WSCG'09. 17-th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision. Plzen: University of West Bohemia in Pilsen, 2009. p. 1-4. ISBN: 978-80-86943-94-7."
+        },
+        {
+            "year": "2009",
+            "citation": "BERAN, V.; JURANEK, R.; MLICH, J.; ZAK, P.; HEROUT, A.; ZEMCIK, P. On-Line Object Behaviour Analysis for Surveillance Systems. 10th Annual ICT Conference. Nairobi: 2009. p. 1-5."
+        },
+        {
+            "year": "2009",
+            "citation": "CHMELAR, P.; BERAN, V.; HEROUT, A.; HRADIS, M.; REZNICEK, I.; ZEMCIK, P. Brno University of Technology at TRECVid 2009. TRECVID 2009: Participant Notebook Papers and Slides. Gaithersburg, MD: National Institute of Standards and Technology, 2009. p. 1-11."
+        },
+        {
+            "year": "2009",
+            "citation": "HANAK, I.; ZEMCIK, P.; ZADNIK, M.; HEROUT, A. Hologram synthesis accelerated in field programmable gate array by partial quadratic interpolation. OPTICAL ENGINEERING, 2009, vol. 8, no. 48, p. 1-7. ISSN: 0091-3286."
+        },
+        {
+            "year": "2009",
+            "citation": "HEROUT, A. Hardware Acceleration of Graphics and Vision Algorithms. Brno: Faculty of Information Technology BUT, 2009. 25 p."
+        },
+        {
+            "year": "2009",
+            "citation": "ZEMCIK, P.; MARSIK, L.; HEROUT, A. Point Cloud Rendering in FPGA. WSCG\u20192009 Communication Papers Proceedings. Plzen: University of West Bohemia in Pilsen, 2009. p. 63-66. ISBN: 978-80-86943-94-7."
+        },
+        {
+            "year": "2009",
+            "citation": "ZEMCIK, P.; PRIBYL, B.; HEROUT, A. Precise Image Resampling Algorithm. GraVisMa 2009 Workshop Proceedigs. Plzen: University of West Bohemia in Pilsen, 2009. p. 135-138. ISBN: 978-80-86943-90-9."
+        },
+        {
+            "year": "2008",
+            "citation": "BERAN, V.; HEROUT, A.; HRADIS, M.; REZNICEK, I.; ZEMCIK, P. Video Summarization at Brno University of Technology. ACM Multimedia. 2008 ACM International Conference on Multimedia Compilation E-Proceedings, TVS'08. New Yourk: Association for Computing Machinery, 2008. p. 31-34. ISBN: 978-1-60558-303-7."
+        },
+        {
+            "year": "2008",
+            "citation": "CHMELAR, P.; BERAN, V.; HEROUT, A.; HRADIS, M.; JURANEK, R.; LANIK, A.; MLICH, J.; NAVRATIL, J.; REZNICEK, I.; ZAK, P.; ZEMCIK, P. Brno University of Technology at TRECVid 2008. Proceedings of TRECVID 2008. Gaithersburg: National Institute of Standards and Technology, 2008. p. 1-16."
+        },
+        {
+            "year": "2008",
+            "citation": "HEROUT, A.; BERAN, V.; HRADIS, M.; POTUCEK, I.; ZEMCIK, P.; CHMELAR, P. TRECVID 2007 by the Brno Group. Proceedings of TRECVID 2007. Gaithersburg: National Institute of Standards and Technology, 2008. p. 1-6. ISBN: 978-1-59593-780-3."
+        },
+        {
+            "year": "2008",
+            "citation": "HEROUT, A.; JOSTH, R.; ZEMCIK, P.; HRADIS, M. GP-GPU Implementation of the \"Local Rank Differences\" Image Feature. Proceedings of International Conference on Computer Vision and Graphics 2008. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2008. p. 1-11. ISBN: 978-3-642-02344-6."
+        },
+        {
+            "year": "2008",
+            "citation": "HEROUT, A.; KUBICEK, R.; ZEMCIK, P.; ZAK, P. Automatic Video Editing for Multimodal Meetings. Proceedings of International Conference on Computer Vision and Graphics 2008. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2008. no. 12, p. 1-12. ISSN: 0302-9743."
+        },
+        {
+            "year": "2008",
+            "citation": "HEROUT, A.; ZEMCIK, P.; JURANEK, R.; HRADIS, M. Implementation of the \"Local Rank Differences\" Image Feature Using SIMD Instructions of CPU. Proceedings of Sixth Indian Conference on Computer Vision, Graphics and Image Processing. Bhubaneswar: IEEE Computer Society, 2008. p. 1-9. ISBN: 978-0-7695-3476-3."
+        },
+        {
+            "year": "2008",
+            "citation": "HRADIS, M.; HEROUT, A.; ZEMCIK, P. Local Rank Patterns - Novel Features for Rapid Object Detection. Proceedings of International Conference on Computer Vision and Graphics 2008. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2008. no. 12, p. 1-12. ISSN: 0302-9743."
+        },
+        {
+            "year": "2008",
+            "citation": "POLOK, L.; HEROUT, A.; ZEMCIK, P.; HRADIS, M.; JURANEK, R.; JOSTH, R. \"Local Rank Differences\" Image Feature Implemented on GPU. Proceedings of the 10th International Conference on Advanced Concepts for Intelligent Vision Systems. Lecture Notes In Computer Science; Vol. 5259. Berlin, Heidelberg: Springer Verlag, 2008. p. 170-181. ISBN: 978-3-540-88457-6."
+        },
+        {
+            "year": "2007",
+            "citation": "BERAN, V.; HRADIS, M.; HEROUT, A.; CHMELAR, P.; POTUCEK, I.; SUMEC, S.; ZEMCIK, P. Video Summarization at Brno University of Technology. ACM Multimedia. Augsburg: Association for Computing Machinery, 2007. p. 1-4. ISBN: 978-1-59593-702-5."
+        },
+        {
+            "year": "2007",
+            "citation": "GRANAT, J.; HEROUT, A.; HRADIS, M.; ZEMCIK, P. Hardware Acceleration of AdaBoost Classifier. Workshop on Multimodal Interaction and Related Machine Learning Algorithms (MLMI). Brno: 2007. p. 1-12."
+        },
+        {
+            "year": "2007",
+            "citation": "SILHAVA, J.; BERAN, V.; CHMELAR, P.; HEROUT, A.; HRADIS, M.; JURANEK, R.; ZEMCIK, P. Platform for Evaluation of Image Classifiers. Spring Conference on Computer Graphics. Budmerice: Comenius University in Bratislava, 2007. p. 103-109. ISBN: 978-80-223-2292-8."
+        },
+        {
+            "year": "2007",
+            "citation": "SILHAVA, J.; BERAN, V.; CHMELAR, P.; HEROUT, A.; HRADIS, M.; JURANEK, R.; ZEMCIK, P. Testbench for Evaluation of Image Classifiers. Computer Graphics & Geometry, 2007, vol. 2007, no. 9, p. 31-47. ISSN: 1811-8992."
+        },
+        {
+            "year": "2007",
+            "citation": "ZEMCIK, P.; HRADIS, M.; HEROUT, A. Local Rank Differences - Novel Features for Image. Poster SCCG 2007. Budmerice: 2007. p. 1-12."
+        },
+        {
+            "year": "2006",
+            "citation": "BERAN, V.; GRANAT, J.; HEROUT, A.; ZEMCIK, P. DSP and FPGA Based Raster Image Processing Architecture. Proceedings of the Digital Technologies 2007 Workshop. Zilina: Zilina University Publisher, 2006. p. 1-6."
+        },
+        {
+            "year": "2006",
+            "citation": "HEROUT, A.; ZEMCIK, P. DSP/FPGA Embedded Image Processing Accelerator Harnessed in Traffic Monitoring. Proceedings of the IWES 2006 Workshop. Heraklion: 2006. 1 p."
+        },
+        {
+            "year": "2006",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BERAN, V.; GRANAT, J. Hardware Accelerated Image Analysis in FPGA. Proceedings of SCCG. Casta-Papiernicka: Comenius University in Bratislava, 2006. p. 1-4. ISBN: 80-223-2175-3."
+        },
+        {
+            "year": "2006",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BERAN, V.; SUMEC, S.; POTUCEK, I. Real-Time Visual Processing Using \"Views\". Poster, MLMI Conference. Washington, DC: 2006. p. 1 (1 s.)."
+        },
+        {
+            "year": "2005",
+            "citation": "HEROUT, A.; ZEMCIK, P. Hardware Pipeline for Rendering Clouds of Circular Points. Proceedings of WSCG 2005. Plzen: University of West Bohemia in Pilsen, 2005. p. 17-22. ISBN: 80-903100-7-9."
+        },
+        {
+            "year": "2005",
+            "citation": "SCHIER, J.; KOVAR, B.; ZEMCIK, P.; HEROUT, A.; BERAN, V. Reconfigurable image processing architecture with simulink prototyping support. Sbornik \"Technical Computing 2005\". Praha: 2005. p. 1-4."
+        },
+        {
+            "year": "2005",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BERAN, V.; POTUCEK, I.; FUCIK, O.; HONEC, J.; RICHTER, M.; JANAKOVA, I.; LISZTWAN, M. Image Processing in Traffic Applications. Proceedings of GVIP 2005. Proceedings of GVIP 2005. Cairo: 2005. p. 1-6. ISSN: 1687-398X."
+        },
+        {
+            "year": "2005",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BERAN, V.; SCHIER, J.; FUCIK, O. Reconfigurable Image Processing Architecture. Proceedings of GVIP2005. Proceedings of GVIP 2005. Cairo: 2005. p. 1-6. ISSN: 1687-398X."
+        },
+        {
+            "year": "2004",
+            "citation": "FUCIK, O.; ZEMCIK, P.; TUPEC, P.; BRYAN, L.; HEROUT, A. The Networked Photo-Enforcement and Traffic Monitoring System. Proceedings of Engineering of Computer-Based Systems. Los Alamitos: IEEE Computer Society, 2004. p. 423-428. ISBN: 0-7695-2125-8."
+        },
+        {
+            "year": "2004",
+            "citation": "HEROUT, A.; ZEMCIK, P. Animated Particle Rendering in DSP and FPGA. SCCG 2004 Proceedings. Bratislava: Slovak University of Technology in Bratislava, 2004. p. 237-242. ISBN: 80-223-1918-X."
+        },
+        {
+            "year": "2004",
+            "citation": "HEROUT, A.; ZEMCIK, P. Hardware Implementation of EWA. Computer Vision and Graphics. Warsaw: Springer Verlag, 2004. p. 593-598. ISBN: 978-1402041785."
+        },
+        {
+            "year": "2004",
+            "citation": "HEROUT, A.; ZEMCIK, P.; BERAN, V.; KADLEC, J. Image and Video Processing Software Framework for Fast Application Development. Joint AMI/PASCAL/IM2/M4 workshop. Martigny: Institute for Perceptual Artificial Intelligence, 2004. 1 p."
+        },
+        {
+            "year": "2004",
+            "citation": "ZEMCIK, P.; HEROUT, A.; BRYAN, L.; TUPEC, P.; FUCIK, O. Particle rendering pipeline in DSP and FPGA. Proceedings of Engineering of Computer-Based Systems. Los Alamitos: IEEE Computer Society, 2004. p. 361-368. ISBN: 0-7695-2125-8."
+        },
+        {
+            "year": "2004",
+            "citation": "ZEMCIK, P.; SUMEC, S.; POTUCEK, I.; SPANEL, M.; HEROUT, A.; PECIVA, J. Summary of Image/Video Processing for AMI Project in Brno. Poster at MLMI'04 workshop. Martigny: Institute for Perceptual Artificial Intelligence, 2004. p. 1 (1 s.)."
+        },
+        {
+            "year": "2003",
+            "citation": "CAPEK, D.; HEROUT, A. Fast and Believable Face Animation - Practical Approach. Applied Simulation and Modelling. Calgary: ACTA Press, 2003. p. 335-340. ISBN: 0-88986-384-9."
+        },
+        {
+            "year": "2003",
+            "citation": "HEROUT, A.; REZAC, D.; TISNOVSKY, P. Visualization of 3D Potential Fields Computed Using TKSL/C. Proceedings of the 9th Conference and Competition STUDENT EEICT 2003. Brno: Faculty of Electrical Engineering and Communication BUT, 2003. p. 583-587. ISBN: 80-214-2379-X."
+        },
+        {
+            "year": "2003",
+            "citation": "HEROUT, A.; REZAC, D.; TISNOVSKY, P. Visualization of 3D Potential Fields Computed Using TKSL/C. Proceedings of the International Conference and Competition STUDENT EEICT 2003. Brno: Brno University of Technology, 2003. p. 310-314. ISBN: 80-214-2401-X."
+        },
+        {
+            "year": "2003",
+            "citation": "HEROUT, A.; TISNOVSKY, P. Studie implementace pruzinoveho casticoveho systemu na paralelni architekture s podporou DSP a FPGA. Elektrorevue - Internetovy casopis (http://www.elektrorevue.cz), 2003, roc. 2003, c. 25, s. 1-18. ISSN: 1213-1539."
+        },
+        {
+            "year": "2003",
+            "citation": "TISNOVSKY, P.; HEROUT, A.; ZEMCIK, P. Cache-Based Parallel Particle Rendering Engine. ElectronicsLetters.com - http://www.electronicsletters.com, 2003, vol. 2003, no. 1, 8 p. ISSN: 1213-161X."
+        },
+        {
+            "year": "2003",
+            "citation": "ZEMCIK, P.; HEROUT, A.; TISNOVSKY, P. Particle Rendering Pipeline. Spring Conference on Computer Graphics 2003 Proceedings. Bratislava: Slovak University of Technology in Bratislava, 2003. p. 180-186. ISBN: 80-223-1837-X."
+        },
+        {
+            "year": "2002",
+            "citation": "HEROUT, A.; TISNOVSKY, P. Vector Field Calculations on a Special Hardware Architecture. East-West-Vision 2002 Proceedings. Graz: Technical University Wien, 2002. p. 263-264. ISBN: 3-85403-163."
+        },
+        {
+            "year": "2002",
+            "citation": "HEROUT, A.; TISNOVSKY, P. Vizualizace vektorovych poli s vyuzitim metody sledovani castic. Elektrorevue - Internetovy casopis (http://www.elektrorevue.cz), 2002, roc. 2002, c. 20, s. 1-15. ISSN: 1213-1539."
+        },
+        {
+            "year": "2002",
+            "citation": "TISNOVSKY, P.; HEROUT, A. Adaptive Algorithm for Vector Field Interpolation Based on Octree Structure. Spring Conference on Computer Graphics Proceedings 2002. Budmerice: Slovak University of Technology in Bratislava, 2002. p. 145-150. ISBN: 80-223-1730-6."
+        },
+        {
+            "year": "2001",
+            "citation": "HEROUT, A.; ZEMCIK, P. Raster Volume Data Graphic Library. Sbornik ASIS 2001. Brno: Marq software s.r.o., 2001. 15 p. ISBN: 80-85988-61-5."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2023",
+            "title": "Software pro zpracovani dat",
+            "metadata": "other, 2023",
+            "authors": "ZEMCIK, P.; BERAN, V.; DOBES, P.; FUCIK, O.; HEROUT, A.; PECIVA, J.; SMRZ, P."
+        },
+        {
+            "year": "2020",
+            "title": "Algoritmy - Uprava, nastaveni, kalibrace",
+            "metadata": "report, 2020",
+            "authors": "HEROUT, A.; BARTL, V.; BERAN, V.; DRAHANSKY, M.; ZEMCIK, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2019",
+            "title": "Automaticka kalibrace kamery s vyuzitim automaticky detekovanych vyznacnych bodu na vozidlech",
+            "metadata": "report, 2019",
+            "authors": "BARTL, V.; HEROUT, A."
+        },
+        {
+            "year": "2019",
+            "title": "Segmentation of Defective Skulls from CT Data for Tissue Modelling",
+            "metadata": "presentation, poster, 2019",
+            "authors": "KODYM, O.; SPANEL, M.; HEROUT, A."
+        },
+        {
+            "year": "2018",
+            "title": "Automaticka kalibrace sledovanim dopravy",
+            "metadata": "report, 2018",
+            "authors": "BARTL, V.; HEROUT, A."
+        },
+        {
+            "year": "2017",
+            "title": "Ground Segmentation by CNNs in Velodyne Data",
+            "metadata": "testing, 2017",
+            "authors": "VELAS, M.; SPANEL, M.; HRADIS, M.; HEROUT, A."
+        },
+        {
+            "year": "2017",
+            "title": "Selected Video-Processing Methods and System Architecture Design",
+            "metadata": "report, 2017",
+            "authors": "BERAN, V.; BARTIK, V.; BARTL, V.; FROML, V.; HEROUT, A.; NOSKO, S.; SOLONY, M.; ZEMCIK, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2013",
+            "title": "Video Processing Using Vanishing Points",
+            "metadata": "report, 2013",
+            "authors": "HEROUT, A.; JURANKOVA, M."
+        }
+    ],
+    "name": "Herout Adam, prof. Ing., Ph.D."
+}

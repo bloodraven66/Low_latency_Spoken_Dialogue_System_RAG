@@ -1,0 +1,28 @@
+{
+    "project": "Artistic Intelligence - Responsiveness, accessibility, responsibility, equity",
+    "title": "Artistic Intelligence - Responsiveness, accessibility, responsibility, equity",
+    "metadata": {
+        "project_period": "31. 10. 2024 \u2013 29. 9. 2028",
+        "project_type": "grant",
+        "agency": "European Union",
+        "program": "European Cooperation in Science and Technology (COST)"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Vstricne a zodpovedne strojove uceni pro inovace zalozene na umeni"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project will contribute to the activities of COST Action CA23158 - ARTinRARE - in the areas related to employing responsive and responsible approaches to assessing GenAI models in art-driven innovations, exploring human-machine interfaces and collaborative environments for practice-based research across the arts, and evaluating advanced text-to-video models for movie and game industry."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader"
+        }
+    }
+}

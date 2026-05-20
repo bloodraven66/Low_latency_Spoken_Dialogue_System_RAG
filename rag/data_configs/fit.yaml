@@ -1,0 +1,17 @@
+programs:
+  - name: MIT-EN
+    url: https://www.fit.vut.cz/study/program/9505/.en
+  - name: MITAI
+    url: https://www.fit.vut.cz/study/program/9506/.en
+
+groups:
+  - name: research_groups
+    url: https://www.fit.vut.cz/research/groups/.en
+
+projects:
+  - name: research_projects
+    url: https://www.fit.vut.cz/research/projects/.en
+
+publications:
+  - name: publications
+    url: https://www.fit.vut.cz/research/publication-results/.en

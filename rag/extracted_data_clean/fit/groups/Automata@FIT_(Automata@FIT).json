@@ -1,0 +1,257 @@
+{
+    "group": "Automata@FIT (Automata@FIT)",
+    "about": {
+        "information": [
+            "Up-to-date and additional information on the group are available from agroup private website.",
+            "Automata@FIT is a research group at FIT BUT, founded in 2023, focusing on research around finite automata and related formalisms, their theory, the fundamental principles needed to use them efficiently in applications, and the applications themselves: in formal automatic reasoning, system analysis and verification, deciding logics, SMT-solving, string constraint solving, analysis of quantum circuits, in regular pattern recognition, network monitoring and anomaly detection, formalisms and methods to deal with uncertainty and to support automated decision making."
+        ],
+        "current_research": [
+            "development of string constraint solving technology, based on finite automata, with applications in the analysis of string manipulation systems, web application vulnerabilities, security policy analysis, e.g. cloud technologies,",
+            "analysis of quantum circuits using techniques based on tree automata",
+            "automatic procedures for decision logics such as integer linear arithmetic, WS1S, MSO, HyperLTL",
+            "development of general-purpose techniques and tools for efficient use of finite automata",
+            "development of concise extensions to finite automata and decision diagrams and methods for working with them (e.g., alternations, registers, counters, procedures)",
+            "Markov models as a formalism for dealing with uncertainty and supporting automated decision making",
+            "automata in network traffic monitoring and anomaly detection",
+            "efficient regular pattern matching"
+        ],
+        "awards": [
+            "Nomination for the Best paper of ETAPS'24, for the work Z3-Noodler: An Automata-based String Solver by Yu-Fang Chen, David Chocholaty, Vojtech Havlena, Lukas Holik, Ondrej Lengal, Juraj Sic",
+            "Best paper at FM'23 for the work Word Equations in Synergy with Regular Constraints by Frantisek Blahoudek, Yu-Fang Chen, David Chocholaty, Vojtech Havlena, Lukas Holik, Ondrej Lengal, Juraj Sic",
+            "Distinguished paper at OOPSLA'23 for the work Solving String Constraints with Lengths by Stabilization by Yu-Fang Chen, David Chocholaty, Vojtech Havlena, Lukas Holik, Ondrej Lengal, Juraj Sic",
+            "Distinguished paper at PLDI'23 for the work An Automata-Based Framework for Verification and Bug Hunting in Quantum Circuits by Yu-Fang Chen, Kai-Min Chung, Ondrej Lengal, Jyun-Ao Lin, Wei-Lun Tsai, Di-De Yen",
+            "Barbora Smahlikova won the VCLA International Student Awards 2023 and the Government of the Czech Republic Gifted Student Award for her research"
+        ],
+        "contact": [
+            "Lukas Holik, holik@fit.vutbr.cz"
+        ],
+        "overview": [
+            "Up-to-date and additional information on the group are available from agroup private website.",
+            "Automata@FIT is a research group at FIT BUT, founded in 2023, focusing on research around finite automata and related formalisms, their theory, the fundamental principles needed to use them efficiently in applications, and the applications themselves: in formal automatic reasoning, system analysis and verification, deciding logics, SMT-solving, string constraint solving, analysis of quantum circuits, in regular pattern recognition, network monitoring and anomaly detection, formalisms and methods to deal with uncertainty and to support automated decision making."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Holik Lukas, doc. Mgr., Ph.D.",
+                "position": "Principal Researcher"
+            }
+        ],
+        "member_of_workgroup": [
+            {
+                "name": "Andriushchenko Roman, Ing.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Ceska Milan, doc. RNDr., Ph.D.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Havlena Vojtech, Ing., Ph.D.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Hecko Michal, Ing.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Hruska Martin, Ing., Ph.D.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Chocholaty David, Ing.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Janku Petr, Ing., Ph.D.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Jawed Soyiba, Dr., MSc",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Lengal Ondrej, doc. Ing., Ph.D.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Macak Filip, Ing.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Rogalewicz Adam, doc. Mgr., Ph.D.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Sic Juraj, Mgr.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Smrcka Ales, Ing., Ph.D.",
+                "position": "Member of Workgroup"
+            },
+            {
+                "name": "Sedy Michal, Ing.",
+                "position": "Member of Workgroup"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "Advancing Automated Verification of Low-Level Programs through Separation Logic and Bi-Abduction",
+            "details": "MSMT, AKTION Ceska republika - Rakousko, start: 2026-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Representing Boolean Functions by a Self-Adaptable Data Structure",
+            "details": "GACR, Standardni projekty, GA23-07565S, start: 2023-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "VESCAA: Verifiable and Efficient Synthesis of Agent Controllers",
+            "details": "GACR, Standardni projekty, GA23-06963S, start: 2023-03-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Efficient Finite Automata for Automated Reasoning",
+            "details": "MSMT, ERC CZ, LL1908, start: 2020-01-01, end: 2024-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "details": "ABDULLA, P.; CHEN, Y.; CHEN, Y.; HOLIK, L.; LENGAL, O.; LIN, J.; LO, F.; TSAI, W. Verifying Quantum Circuits with Level-Synchronized Tree Automata. Proceedings of the ACM on Programming Languages-PACMPL, 2025, vol. 9, no. 1, p. 923-953. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "CHEN, Y.; HAVLENA, V.; HECKO, M.; HOLIK, L.; LENGAL, O. A Uniform Framework for Handling Position Constraints in String Solving. Proceedings of the ACM on Programming Languages-PACMPL, 2025, vol. 9, no. PLDI, p. 550-575. ISSN: 2475-1421. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "CHOCHOLATY, D.; HAVLENA, V.; HOLIK, L.; HRANICKA, J.; LENGAL, O.; SIC, J. Z3-Noodler 1.3: Shepherding Decision Procedures for Strings with Model Generation. Proceedings of TACAS'25. Lecture Notes in Computer Science. Hamilton: Springer Verlag, 2025. no. 1, p. 23-44. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B. Complementation of Emerson-Lei Automata. Proceedings of FoSSaCS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 1, p. 88-110. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "JOBRANOVA, S.; LENGAL, O.; CHEN, Y.; CHEN, T.; JIANG, J. Accelerating Quantum Circuit Simulation with Symbolic Execution and Loop Summarization. In IEEE/ACM International Conference on Computer-Aided Design (ICCAD '24), October 27--31, 2024, New York, NY, USA. New York: Association for Computing Machinery, 2025. p. 1-9. ISBN: 979-8-4007-1077-3. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "LENGAL, O.; CHEN, Y.; LIN, J.; TSAI, W.; HSIEH, M.; HUANG, W.; CHUNG, K. AutoQ 2.0: From Verification of Quantum Circuits to Verification of Quantum Programs. In Proceedings of TACAS'25. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2025. no. 15698, p. 87-108. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "SEDY, M.; HOLIK, L. Automata Size Reduction by Procedure Finding. In Proceedings of NFM'25. Lecture Notes in Computer Science. Williamsburg: Springer Nature Switzerland AG, 2025. no. 15682, p. 421-440. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "CHEN, Y.; CHOCHOLATY, D.; HAVLENA, V.; HOLIK, L.; LENGAL, O.; SIC, J. Z3-Noodler: An Automata-based String Solver. In Proceedings of TACAS'24. Lecture Notes in Computer Science. Luxembourgh: Springer Verlag, 2024. no. 14570, p. 24-33. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HAVLENA, V.; HECKO, M.; HOLIK, L.; LENGAL, O.; HABERMEHL, P. Algebraic Reasoning Meets Automata in Solving Linear Integer Arithmetic. Proceedings of CAV'24. Lecture Notes in Computer Science. Montreal: Springer Verlag, 2024. no. 14681, p. 42-67. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HAVLENA, V.; HOLIK, L.; LENGAL, O.; SIC, J. Cooking String-Integer Conversions with Noodles. Proceedings of SAT'24. Leibniz International Proceedings in Informatics. Leibniz International Proceedings in Informatics (LIPIcs). Pune: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2024. no. 305, p. 1-19. ISSN: 1868-8969. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HOLIK, L.; CHOCHOLATY, D.; FIEDOR, T.; HAVLENA, V.; HRUSKA, M.; LENGAL, O.; SIC, J. Mata: A Fast and Simple Finite Automata Library. In Proceedings of TACAS'24. Lecture Notes in Computer Science. Luxembourgh: Springer Verlag, 2024. no. 14571, p. 130-151. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "CHEN, Y.; CHOCHOLATY, D.; HAVLENA, V.; HOLIK, L.; LENGAL, O.; SIC, J. Solving String Constraints with Lengths by Stabilization. Proceedings of the ACM on Programming Languages-PACMPL, 2023, vol. 7, no. 10, p. 2112-2141. ISSN: 2475-1421. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HAVLENA, V.; CHOCHOLATY, D.; LENGAL, O.; HOLIK, L.; SIC, J.; BLAHOUDEK, F.; CHEN, Y. Word Equations in Synergy with Regular Constraints. In Proceedings of FM'23. Lecture Notes in Computer Science. Lubeck: Springer Verlag, 2023. no. 14000, p. 403-423. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HAVLENA, V.; LENGAL, O.; CHEN, Y.; TURRINI, A. A symbolic algorithm for the case-split rule in solving word constraints with extensions. JOURNAL OF SYSTEMS AND SOFTWARE, 2023, vol. 201, no. 201, p. 111673-111693. ISSN: 0164-1212. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HAVLENA, V.; SMAHLIKOVA, B.; LENGAL, O.; LI, Y.; TURRINI, A. Modular Mix-and-Match Complementation of Buchi Automata. In Proceedings of TACAS'23. Lecture Notes in Computer Science. Paris: Springer Verlag, 2023. no. 13993, p. 249-270. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HOLIK, L.; HOLIKOVA, L.; SIC, J.; VOJNAR, T. Fast Matching of Regular Patterns with Synchronizing Counting. In Foundations of Software Science and Computation Structures. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2023. no. 1, p. 392-412. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HOLIK, L.; HRUSKA, M.; SIC, J.; VARGOVCIK, P.; FIEDOR, T.; ROGALEWICZ, A. Reasoning about Regular Properties: A Comparative Study. In Automated Deduction - CADE 29. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2023. no. 14132, p. 286-306. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HOLIKOVA, L.; HORKY, M.; SIC, J. Automata with Bounded Repetition in RE2. In Computer Aided Systems Theory - EUROCAST 2022. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2023. no. 13789, p. 232-239. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "LENGAL, O.; CHEN, Y.; TSAI, W.; CHUNG, K.; LIN, J. AutoQ: An Automata-based Quantum Circuit Verifier. In Proceedings of 35th International Conference on Computer Aided Verification. Lecture Notes in Computer Science. Cham: Springer Verlag, 2023. no. 13966, p. 139-153. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "LENGAL, O.; CHEN, Y.; TSAI, W.; LIN, J.; CHUNG, K.; YEN, D. An Automata-Based Framework for Verification and Bug Hunting in Quantum Circuits. Proceedings of the ACM on Programming Languages-PACMPL, 2023, vol. 7, no. 6, p. 1218-1243. ISSN: 2475-1421. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B. Complementing Buchi Automata with Ranker. In Proceedings of the 34th International Conference on Computer Aided Verification. Lecture Notes in Computer Science. Haifa: Springer Verlag, 2022. no. 13372, p. 188-201. ISBN: 978-3-031-13187-5. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B. Sky Is Not the Limit: Tighter Rank Bounds for Elevator Automata in Buchi Automata Complementation. In Proceedings of TACAS'22. Lecture Notes in Computer Science. Munich: Springer Verlag, 2022. no. 13244, p. 118-136. ISBN: 978-3-030-99526-3. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HOLIKOVA, L.; HOLIK, L.; HOMOLIAK, I.; LENGAL, O.; VEANES, M.; VOJNAR, T. Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers. In Proceedings of the 31st USENIX Security Symposium. Boston, MA: USENIX, 2022. p. 4165-4182. ISBN: 978-1-939133-31-1. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "SIC, J.; GE-ERNST, A.; SCHOLL, C.; WIMMER, R. Solving dependency quantified Boolean formulas using quantifier localization. Theoretical Computer Science, 2022, vol. 2022, no. 925, p. 1-24. ISSN: 0304-3975. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "SIC, J.; STREJCEK, J. DQBDD: An Efficient BDD-Based DQBF Solver. In Proc. of the 24th International Conference on Theory and Applications of Satisfiability Testing. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2021. no. 12831, p. 535-544. ISSN: 0302-9743. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2024",
+            "title": "Mata: A Finite Automata Library",
+            "authors": "Mata: A Finite Automata Library , software, 2024 : HAVLENA, V.; HOLIK, L.; CHOCHOLATY, D.; LENGAL, O.; SIC, J.; FIEDOR, T.; HRUSKA, M."
+        },
+        {
+            "year": "2024",
+            "title": "Z3-Noodler: A String Solver",
+            "authors": "Z3-Noodler: A String Solver , software, 2024 : HAVLENA, V.; HOLIK, L.; CHOCHOLATY, D.; LENGAL, O.; SIC, J.; CHEN, Y."
+        },
+        {
+            "year": "2022",
+            "title": "Ranker: A Tool for Complementing Buchi Automata",
+            "authors": "Ranker: A Tool for Complementing Buchi Automata , software, 2022 : HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2023",
+            "title": "Modular Mix-and-Match Complementation of Buchi Automata (Technical Report)",
+            "authors": "Modular Mix-and-Match Complementation of Buchi Automata (Technical Report) , report, 2023 : HAVLENA, V.; SMAHLIKOVA, B.; LENGAL, O.; LI, Y.; TURRINI, A."
+        },
+        {
+            "year": "2022",
+            "title": "Complementing Buchi Automata with Ranker (Technical Report)",
+            "authors": "Complementing Buchi Automata with Ranker (Technical Report) , report, 2022 : HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B."
+        },
+        {
+            "year": "2022",
+            "title": "Sky Is Not the Limit: Tighter Rank Bounds for Elevator Automata in Buchi Automata Complementation (Technical Report)",
+            "authors": "Sky Is Not the Limit: Tighter Rank Bounds for Elevator Automata in Buchi Automata Complementation (Technical Report) , report, 2022 : HAVLENA, V.; LENGAL, O.; SMAHLIKOVA, B."
+        }
+    ]
+}

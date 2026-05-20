@@ -1,0 +1,29 @@
+{
+    "project": "NGI0 Commons FUND",
+    "title": "NGI0 Commons FUND",
+    "metadata": {
+        "project_period": "26. 3. 2025 \u2013 30. 6. 2027",
+        "project_type": "grant",
+        "code": "101135429",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Digital identity, Internet Services & Applications, Trustworthy ICT, Data portability, Trustworthiness, OSHW, Open Source, Free Software, FOSS, (user-centric) privacy preservation,"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "This proposal aims at increasing the visibility of the NGI Zero Commons granting programme, to promote its output and its grant mechanisms. We will increase the interaction with scientific and technical output throughout the region of Central and East Europe and beyond - which due to the nature of the funding scheme (small, early stage grants for deep tech) requires continuous attention to reach the right talent. The value of the addition of BUT as widening partner lies in two partially overlapping aspects which are currently not present within the programme: a significant investment in promoting and growing mindshare for the individual technological building blocks produced by NGI Zero, and through that also much more active and directly targeted engagement with the talent pool present in the geography covered by HopOn/WIDERA. This means we communicate on two layers: direct outreach to target audiences promoting ethical open technologies as well as evangelising the recursive opportunity to researchers and developers to contribute to the underlying portfolio of technology commons. We put reusable technological building blocks on display, but in a co-creation way: anyone can jump in and improve and add more functionality or tweak to new use cases. Outreach activity was limited by design so far (due to priorities set early within the project on technical excellence and long term societal impact. The new effort will build a network of technical universities and other interested parties across Europe interested in contributing to the open internet and the technology commons. This part will seek to engage educational and research institutions with cutting edge work on open standards and open source from developers and researchers executed within NGI Zero Commons, and empower them to join this effort and benefit from the results."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader Dobes Petr, Ing. (DCGM) Dolezal Jan, Ing. (DCGM) John Petr, Ing. (DCGM) Lazur Juraj, Ing. (DIFS) Liska Jakub, Ing. (DCGM) Lojda Jakub, Ing., Ph.D. (DCSY) Mihola David, Ing. (DCSY) Musil Martin, Ing., Ph.D. (DCGM) Nosko Svetozar, Ing., Ph.D. (DCGM) Vlnas Michal, Ing. (DCGM) Zaklova Kristyna, Ing. (DFIT-ISD) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        }
+    }
+}

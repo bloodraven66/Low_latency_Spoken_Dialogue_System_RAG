@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "code": "PKSa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Advanced Communication Systems*)"
+    },
+    "content": {
+        "guarantor": "Rysavy Ondrej, doc. Ing., Ph.D. | (DIFS)",
+        "course_coordinator": "Matousek Petr, doc. Ing., Ph.D., M.A. | (DIFS)",
+        "language_of_instruction": "English",
+        "completion": "Credit+Examination (written)",
+        "time_span": "- 39 hrs lectures\n- 6 hrs laboratories\n- 7 hrs projects",
+        "assessment_points": "- 60 pts final exam\n- 20 pts mid-term test\n- 12 pts labs\n- 8 pts projects",
+        "department": "Department of Information Systems | (UIFS)",
+        "lecturer": "Matousek Petr, doc. Ing., Ph.D., M.A. | (DIFS) | Rysavy Ondrej, doc. Ing., Ph.D. | (DIFS)",
+        "instructor": "Matousek Petr, doc. Ing., Ph.D., M.A. | (DIFS) | Rysavy Ondrej, doc. Ing., Ph.D. | (DIFS)",
+        "learning_objectives": "The purposes of subject is acquaint students with types and structure communication networks designated for transmission calling, data and picture and theories of information transmission used in them.\nStudents shall be acquired knowledge about the structure of communication network used for transmission of calling, data and pictures and technology of transmission information in them used.Student acquires presentation and communication capabilities.",
+        "study_literature": "- Johnson, Ch.: Radio Access Networks for UMTS: Principles and Practice, Wiley, 2008.\n- Cox, Ch.:An Introduction to LTE: LTE, LTE-Advanced, SAE, VoLTE and 4G Mobile Communications, Wiley; 2 edition, 2014.\n- Corner D.E., Internetworking with TCP/IP, Pearson; 6 edition, 2013.",
+        "syllabus_of_lectures": "- Network Goals. Topology and network structure. Voice and data communication, the digital revolution.\n- Transfer medium types and characteristics\n- Theory of transmission systems. SDH and PDH.\n- Link-layer protocols. Flow control. Transparency. Numbering of the frame. The HDLC Protocol.\n- Integrated services of digital networks - ISDN. ISDN protocols, accesses, and interface standards.\n- DSS1 and CCS7 signaling protocols.\n- SIGTRAN\n- xDSL technology\n- GSM\n- GPRS and EDGE\n- UMTS\n- LTE\n- 5G",
+        "syllabus_of_laboratory_exercises": "- ISDN communication setup\n- ADSL communication setup\n- SIGTRAN communication setup\n- GSM communication analysis",
+        "progress_assessment": "A mid-term exam evaluation and laboratory protocols evaluation.\nScored active participation in laboratories. A possibility of replacement only in case of objective and proven obstacles in the study."
+    }
+}

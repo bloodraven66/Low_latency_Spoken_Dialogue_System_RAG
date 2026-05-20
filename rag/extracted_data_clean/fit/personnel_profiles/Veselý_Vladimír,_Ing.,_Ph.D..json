@@ -1,0 +1,468 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "veselyv@fit.vut.cz",
+            "work_phone": "+420 54114 1321",
+            "room": "C310 Office",
+            "researcher_id": "AAK-5454-2020",
+            "orcid_id": "0000-0002-6346-2152",
+            "scopus_author_id": "56523139300"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Cyber Security Governance Committee",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "NES@FIT - Networks and distributed systems research group",
+            "role": "Member"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "2017 - present: assistant professor at UIFS",
+            "2009 - 2016: doctoral studies at FIT BUT in Brno",
+            "2009 - 2012: interrupted bachelor's studies at the Faculty of Arts of MUNI in Brno (UCO 143220)",
+            "2007 - 2009: master's studies at FIT BUT in Brno",
+            "2004 - 2007: bachelor studies at FIT BUT in Brno",
+            "1996 - 2004: studying at the university embryo at the Gymnasium in Sumperk",
+            "2015 - co-founder of netsearch s.r.o.",
+            "2012 - present: instructor of Cisco instructors for ITC i-com-unity",
+            "2011 - present : freelance trainer for PCdir, ICTpro, Everesta",
+            "2007 - 2009: within the CCIE Incubator program as a network consultant at ANECT a.s.",
+            "2006 - 2007: administrator at AMAR s.r.o., MKR Plus, DATASERVIS",
+            "ANSA - modelling and simulation in OMNeT++",
+            "RINASim - modelling and simulation of Recursive InterNetwork Architecture",
+            "Cryptocurrencies (Bitcoin, Ethereum, Ripple, IOTA) and blockchain forensics",
+            "Provider networks (CISCO, Juniper) and their technologies (CDN, LISP, IS-IS)",
+            "computer virtualization (VMWare WS and ESXi) and networking (GNS3, UnetLab, EVE-ng)",
+            "PLOCHA civic association",
+            "LinkedIn profile",
+            "KPSZ",
+            "low-cost travel",
+            "Theory and history of film and audiovisual culture",
+            "coffee, absinthe, pipes, Doomtrooper, Marie",
+            "modelling naive erotic sculptures from expired plasticine"
+        ],
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2025"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Friday, 9:00-:0 , B/C310 (Bozetechova 1/2, Brno 61200) !!! COVID-19 consultations !!! Anytime between 9am and 12am through MS Teams or Google Hangouts using university login after successful arrangement via email.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "CSOa",
+                "title": "CCNA Cybersecurity Operations (in English)",
+                "details": "English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IBS",
+                "title": "Security and Computer Networks",
+                "details": "Czech, English, summer",
+                "department": "DIFS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "BDA",
+                "title": "Blockchain and Decentralized Applications",
+                "details": "Lecture,\nCzech, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "CCS",
+                "title": "Design and Security of Enterprise Networks",
+                "details": "Laboratory exercise,\nCzech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CE1",
+                "title": "CCNP Enterprise: Core Networking (ENCOR)",
+                "details": "Laboratory exercise,\nCzech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CE2",
+                "title": "CCNP Enterprise: Advanced Routing (ENARSI)",
+                "details": "Laboratory exercise,\nCzech, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CSOa",
+                "title": "CCNA Cybersecurity Operations (in English)",
+                "details": "Laboratory exercise, Lecture,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IBS",
+                "title": "Security and Computer Networks",
+                "details": "Laboratory exercise, Lecture,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IPK",
+                "title": "Computer Communications and Networks",
+                "details": "Lecture, Project,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDS",
+                "title": "Data Communications, Computer Networks and Protocols",
+                "details": "Lecture, Seminar,\nCzech, English, summer",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "COP IDEA: COP for Investigations DEserving Intel-led Analysis",
+            "details": "EU, The Internal Security Fund \u2013 Police, 101219100, start: 2026-01-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "Rozvoj kapacit v kyberbezpecnosti v Argentine",
+            "details": "MZV, Posilovani kapacit verejnych vysokych skol v rozvojovych zemich - vyhlaseni dotacniho programu pro rok 2025, 25-PKVV-017, start: 2025-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2024",
+            "title": "EUROPEAN BLOCKCHAIN SERVICES INFRASTRUCTURE, EBSI",
+            "details": "MPO, Projekt systemu financovani SME prostrednictvim EBSI, Z222901000001, start: 2024-03-01, end: 2026-08-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Cybersecurity Innovation Hub",
+            "details": "EU, Digital Europe Programme, 101083932, start: 2023-04-01, end: 2026-04-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "MIXER: Building community interested in cryptocurrency mixers",
+            "details": "MV, Vyhlaseni druhe verejne souteze podprogramu 3, PROGRAMU STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1), PODPROGRAMU 3 ROZVOJ INICIATIVY V BEZPECNOSTNIM VYZKUMU, VJ03030037, start: 2023-06-01, end: 2025-06-30, completed"
+        },
+        {
+            "year": "2022",
+            "title": "TENACITy: Travelling intelligENce Against CrIme and Terrorism",
+            "details": "EU, HORIZON EUROPE, 101074048, start: 2022-09-01, end: 2025-08-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "WIM LA - Camea SV",
+            "details": "CAMEA, start: 2022-03-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "BAZAR: Building better and safer darknet without wallet-less marketplaces",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) podprogramu 3 Rozvoj iniciativy v bezpecnostnim vyzkumu, VJ01030004, start: 2021-01-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "BLockchain Enabled Deep learning Data analysis",
+            "details": "NS, Prime kontrakty - smluvni vyzkum, neverejne zdroje, start: 2020-01-01, end: 2021-06-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Metody AI pro zabezpeceni kybernetickeho prostoru a ridici systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6293, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Introduction of attractive and effective English language studies at FIT",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, start: 2018-02-01, end: 2019-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Integrated platform for analysis of digital data from security incidents",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020062, start: 2017-01-01, end: 2020-06-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Nastroje, metody a technologie ICT pro podporu konceptu smart cities",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3964, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "PRISTINE: Programmability in RIna for european Supremacy of virTualIzed NEtworks",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, PRISTINE, start: 2014-01-01, end: 2016-10-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Vyzkum pokrocilych metod ICT a jejich aplikace",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2299, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Interactive computer networks lab",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR192/2013/G1, start: 2013-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Modern Tools for Detection and Mitigation of Cyber Criminality on the New Generation Internet",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015022, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Secured, reliable and adaptive computer systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-1, start: 2010-03-01, end: 2010-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "KOUTENSKY, M.; VESELY, V. Oracleboros: Reusing Hyperledger Fabric Mechanisms to Provide Oracle Functionality. In 2025 7th International Conference on Blockchain Computing and Applications, BCCA 2025. Dubrovnik: Institute of Electrical and Electronics Engineers Inc., 2025. p. 139-144. ISBN: 9798331502966."
+        },
+        {
+            "year": "2025",
+            "citation": "ZAVREL, J.; KOUTENSKY, M.; DOLEJSKA, D.; VESELY, V. Tumbling Down the Stairs: Exploiting a Tumbler's Attempt to Hide with Ordinary-looking Transactions using Wallet Fingerprinting. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-9. ISSN: 2666-2817."
+        },
+        {
+            "year": "2024",
+            "citation": "KOUTENSKY, M.; VESELY, V.; PERESINI, M.; DOLEJSKA, D.; PLUSKAL, J. Using Blockchain to Secure Passenger Name Records and Effectively Protect Citizen Rights. In 2024 6th Conference on Blockchain Research and Applications for Innovative Networks and Services, BRAINS 2024. Berlin: Institute of Electrical and Electronics Engineers, 2024. p. 1-10. ISBN: 979-8-3503-6784-3."
+        },
+        {
+            "year": "2023",
+            "citation": "DOLEJSKA, D.; KOUTENSKY, M.; VESELY, V.; PLUSKAL, J. Busting up Monopoly: Methods for Modern Darknet Marketplace Forensics. Forensic Science International: Digital Investigation, 2023, vol. 46, no. 1, p. 1-11. ISSN: 2666-2817."
+        },
+        {
+            "year": "2022",
+            "citation": "DOLEJSKA, D.; VESELY, V.; PLUSKAL, J.; KOUTENSKY, M. Shedding Light on Monopoly: Temporal Analysis of Drug Trades. 13th EAI International Conference, ICDF2C 2022, Boston, MA, November 16-18, 2022, Proceedings. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Boston, MA: Springer Nature Switzerland AG, 2022. no. 508, p. 151-168. ISBN: 978-3-031-36573-7. ISSN: 1867-8211."
+        },
+        {
+            "year": "2021",
+            "citation": "VESELY, V.; ZAVREL, J. Quality Control Methodology for Simulation Models of Computer Network Protocols. Proceedings of 8th Virutal OMNeT++ Community Summit. ArXiv.org. Ithaca, NY: Cornell University Library, 2021. no. 9, p. 1-19. ISSN: 2331-8422."
+        },
+        {
+            "year": "2020",
+            "citation": "KOUTENSKY, M.; VESELY, V.; MAFFIONE, V. Addressing Bandwidth-driven Flow Allocation in RINA. Computers, 2020, vol. 9, no. 3, p. 1-23. ISSN: 2073-431X."
+        },
+        {
+            "year": "2020",
+            "citation": "KOUTENSKY, M.; VESELY, V.; MAFFIONE, V. Bandwidth-driven Flow Allocation Policy for RINA. In Proceedings of the 23rd Conference on Innovation in Clouds, Internet and Networks (ICIN 2020). Paris: IEEE Communications Society, 2020. p. 51-56. ISBN: 978-1-7281-5127-4."
+        },
+        {
+            "year": "2019",
+            "citation": "JERABEK, K.; VESELY, V. One of the Ways How to Make RIB Distributed. In Proceedings of the 22nd Conference on Innovation in Clouds, Internet and Networks (ICIN 2019). Pariz: IEEE Communications Society, 2019. p. 49-53. ISBN: 978-1-5386-3458-5."
+        },
+        {
+            "year": "2019",
+            "citation": "VESELY, V.; MAREK, M.; JERABEK, K. RINASim. EAI/Springer Innovations in Communication and Computing, 2019, vol. 2019, no. 1, p. 139-181. ISSN: 2522-8595."
+        },
+        {
+            "year": "2019",
+            "citation": "VESELY, V.; MAREK, M.; JERABEK, K.; NOVAK, A. Everything You Always Wanted to Know About BGPv4 in OMNeT++ But Were Afraid to Ask. In Proceedings of 6th OMNeT++ Community Summit. EPiC series in computing. Manchester: EasyChair, 2019. no. 1, p. 1-8. ISSN: 2398-7340."
+        },
+        {
+            "year": "2019",
+            "citation": "VESELY, V.; ZADNIK, M. How to detect cryptocurrency miners? By traffic forensics!. Digital Investigation, 2019, vol. 31, no. 31, p. 1-14. ISSN: 1742-2876."
+        },
+        {
+            "year": "2017",
+            "citation": "MAREK, M.; RYSAVY, O.; VESELY, V. Towards analysis of IP communication in a constrained environment of tactical radio networks. In Proceedings of European Conference on the Engineering of Computer Based Systems. Larnaca: Association for Computing Machinery, 2017. p. 50-57. ISBN: 978-1-4503-4843-0."
+        },
+        {
+            "year": "2017",
+            "citation": "VESELY, V.; HOLUSA, J.; RYSAVY, O. First-hop Redundancy Protocols in OMNeT++. In Proceedings of the 7th International Conference on Simulation and Modeling Methodologies, Technologies and Applications - Volume 1: SIMULTECH. Madrid: SciTePress - Science and Technology Publications, 2017. p. 331-339. ISBN: 978-989-758-265-3."
+        },
+        {
+            "year": "2017",
+            "citation": "VESELY, V.; RAJCA, T. Discovering Neighbor Devices in Computer Network - Development of CDP and LLDP Simulation Modules for OMNeT++. Proceedings of 4th OMNeT++ Community Summit. ArXiv.org. Ithaca, NY: Cornell University Library, 2017. no. 10, p. 1-4. ISSN: 2331-8422."
+        },
+        {
+            "year": "2016",
+            "citation": "HRANICKY, R.; MATOUSEK, P.; RYSAVY, O.; VESELY, V. Experimental Evaluation of Password Recovery in Encrypted Documents. In Proceedings of ICISSP 2016. Roma: SciTePress - Science and Technology Publications, 2016. p. 299-306. ISBN: 978-989-758-167-0."
+        },
+        {
+            "year": "2016",
+            "citation": "VESELY, V.; REK, V.; RYSAVY, O. Babel Routing Protocol for OMNeT++ - More than just a new simulation module for INET framework. Proceedings of 3rd OMNeT++ Community Summit. ArXiv.org. Ithaca, NY: Cornell University Library, 2016. no. 9, p. 1-5. ISSN: 2331-8422."
+        },
+        {
+            "year": "2015",
+            "citation": "MATOUSEK, P.; PLUSKAL, J.; RYSAVY, O.; VESELY, V.; KMET, M.; KARPISEK, F.; VYMLATIL, M. Advanced Techniques for Reconstruction of Incomplete Network Data. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, 2015, vol. 2015, no. 157, p. 69-84. ISSN: 1867-8211."
+        },
+        {
+            "year": "2015",
+            "citation": "PLUSKAL, J.; MATOUSEK, P.; RYSAVY, O.; KMET, M.; VESELY, V.; KARPISEK, F.; VYMLATIL, M. Netfox Detective: A tool for advanced network forensics analysis. Proceedings of Security and Protection of Information (SPI) 2015. Brno: University of Defence in Brno, 2015. p. 147-163. ISBN: 978-80-7231-997-8."
+        },
+        {
+            "year": "2015",
+            "citation": "SVEDA, M.; RYSAVY, O.; VESELY, V.; GREGR, M.; PODERMANSKI, T.; HALFAR, P.; MAREK, M. Design of Computer Networks Concerning Network Applications Support. Computer Aided Systems Theory. Las Palmas de Gran Canaria: University of Las Palmas, 2015. p. 23-24. ISBN: 978-84-606-5438-4."
+        },
+        {
+            "year": "2015",
+            "citation": "VESELY, V.; MAREK, M.; HYKEL, T.; RYSAVY, O. Skip This Paper - RINASim: Your Recursive InterNetwork Architecture Simulator. Proceedings of 2nd OMNeT++ Community Summit. ArXiv.org. Ithaca, NY: Cornell University Library, 2015. no. 9, p. 1-4. ISSN: 2331-8422."
+        },
+        {
+            "year": "2015",
+            "citation": "VESELY, V.; REK, V.; RYSAVY, O. Enhanced Interior Gateway Routing Protocol with IPv4 and IPv6 Support for OMNeT plus. Advances in Intelligent Systems and Computing, 2015, vol. 402, no. 1, p. 65-82. ISSN: 2194-5357."
+        },
+        {
+            "year": "2015",
+            "citation": "VESELY, V.; RYSAVY, O. Locator/Id Split Protocol Improvement for High-Availability Environment. Proceedings of The Eleventh International Conference on Networking and Services ICNS 2015. Roma: The International Academy, Research and Industry Association, 2015. p. 61-67. ISBN: 978-1-61208-404-6."
+        },
+        {
+            "year": "2015",
+            "citation": "VESELY, V.; RYSAVY, O. Map-Cache Synchronization and Merged RLOC Probing Study for LISP. The International Journal on Advances in Intelligent Systems, 2015, vol. 2015, no. 34, p. 494-506. ISSN: 1942-2679."
+        },
+        {
+            "year": "2014",
+            "citation": "PLUSKAL, J.; RYSAVY, O.; VESELY, V. NetFox - The network forensic extandable analysis tool. 6th AFCEA Student Conference Future of Information and Communication Technology. Bucharest: University Politehnica of Bucharest, 2014. p. 68-71. ISBN: 978-606-551-047-0."
+        },
+        {
+            "year": "2014",
+            "citation": "VESELY, V.; BLOUDICEK, J.; RYSAVY, O. Enhanced Interior Gateway Routing Protocol for OMNeT++. Proceedings of the 4th International Conference on Simulation and Modeling Methodologies, Technologies and Applications (SIMULTECH 2014). Wien: SciTePress - Science and Technology Publications, 2014. p. 50-58. ISBN: 978-989-758-045-1."
+        },
+        {
+            "year": "2014",
+            "citation": "VESELY, V.; MAREK, M.; RYSAVY, O.; SVEDA, M. Multicast, TRILL and LISP Extensions for INET. International Journal on Advances in Networks and Services, 2014, vol. 2014, no. 4, p. 240-251. ISSN: 1942-2644."
+        },
+        {
+            "year": "2014",
+            "citation": "VESELY, V.; RYSAVY, O.; SVEDA, M. Protocol Independent Multicast in OMNeT++. The Tenth International Conference on Networking and Services. 74400 CHAMONIX MONT-BLANC: The International Academy, Research and Industry Association, 2014. p. 132-137. ISBN: 978-1-61208-330-8."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V. Map-cache Synchronization for Locator/ID Split Protocol. Proceedings of the 19th Conference Student EEICT 2013 Volume 3. Brno: Fakulta informacnich technologii VUT v Brne, 2013. s. 234-239. ISBN: 978-80-214-4695-3."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V. LISP: nove paradigma ve smerovani (1.). ROOT, informace nejen ze sveta Linuxu, 2013, roc. 2013, c. 9, s. 1-6. ISSN: 1212-8309."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V. LISP: nove paradigma ve smerovani (2.). ROOT, informace nejen ze sveta Linuxu, 2013, roc. 2013, c. 9, s. 1-6. ISSN: 1212-8309."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V. LISP: nove paradigma ve smerovani (3.). ROOT, informace nejen ze sveta Linuxu, 2013, roc. 2013, c. 10, s. 1-6. ISSN: 1212-8309."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V. LISP: nove paradigma ve smerovani (4.). ROOT, informace nejen ze sveta Linuxu, 2013, roc. 2013, c. 10, s. 1-6. ISSN: 1212-8309."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V. LISP: nove paradigma ve smerovani (5.). ROOT, informace nejen ze sveta Linuxu, 2013, roc. 2013, c. 10, s. 1-6. ISSN: 1212-8309."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V.; MATOUSEK, P.; SVEDA, M. Multicast simulation and modeling in OMNeT++. SimuTools '13 Proceedings of the 6th International ICST Conference on Simulation Tools and Techniques. Brussels: International Communication Sciences and Technology Association, 2013. p. 142-145. ISBN: 978-1-4503-2464-9."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V.; RYSAVY, O.; SVEDA, M. IPv6 Unicast and IPv4 Multicast Routing in OMNeT++. Proceedings of the IEEE 6th International ICST Conference on Simulation Tools and Techniques. Cannes: International Communication Sciences and Technology Association, 2013. p. 1-4. ISBN: 978-1-936968-47-3."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V.; SVEDA, M. Comparison of Proposals Suggesting Internet Architecture Change. Sbornik prispevku Mezinarodni Masarykovy konference pro doktorandy a mlade vedecke pracovniky 2013. Hradec Kralove: Akademicke sdruzeni MAGNANIMITAS Assn., 2013. p. 1-11. ISBN: 978-80-87952-00-9."
+        },
+        {
+            "year": "2012",
+            "citation": "VESELY, V. Comparison Study on Merging PCAP Files. Proceedings of the 18th Conference Student EEICT 2012 Volume 3. Brno: Fakulta informacnich technologii VUT v Brne, 2012. s. 457-461. ISBN: 978-80-214-4462-1."
+        },
+        {
+            "year": "2012",
+            "citation": "VESELY, V. Extended Comparison Study on Merging PCAP Files. ElectroScope, 2012, roc. 2012, c. 5, s. 1-6. ISSN: 1802-4564."
+        },
+        {
+            "year": "2012",
+            "citation": "VESELY, V.; MATOUSEK, P.; SVEDA, M. Multicast Simulation and Modeling in OMNeT++. Proceedings of the IEEE 5th International ICST Conference on Simulation Tools and Techniques. Desenzano del Garda: International Communication Sciences and Technology Association, 2012. p. 298-301. ISBN: 978-1-936968-47-3."
+        },
+        {
+            "year": "2012",
+            "citation": "VESELY, V.; SVEDA, M. L2 protocols in OMNeT++. In IP Networking 1 -- Theory and Practice. Zilina: Zilina University Publisher, 2012. p. 37-40. ISBN: 978-80-554-0494-3."
+        },
+        {
+            "year": "2011",
+            "citation": "PODERMANSKI, T.; VESELY, V. IPv6 Myty a skutecnost, dil VII. - Podpora Multicast a anycast provozu. Lupa, 2011, roc. 2011, c. 1, 10 s. ISSN: 1213-0702."
+        },
+        {
+            "year": "2011",
+            "citation": "POLCAK, L.; GREGR, M.; KAJAN, M.; MATOUSEK, P.; VESELY, V. Designing Lawful Interception in IPv6 Networks. Security and Protection of Information. Brno: University of Defence in Brno, 2011. p. 114-126. ISBN: 978-80-7231-777-6."
+        },
+        {
+            "year": "2010",
+            "citation": "VESELY, V. Security Issues of Bootstrap Router Mechanism in Protocol Independent Multicast. Proceedings of the 16th Conference Student EEICT 2010 Volume 5. Brno: Faculty of Information Technology BUT, 2010. p. 239-243. ISBN: 978-80-214-4080-7."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2017",
+            "title": "Detekce kryptomenovych tezaru",
+            "metadata": "report, 2017",
+            "authors": "VESELY, V."
+        },
+        {
+            "year": "2016",
+            "title": "TLS/SSL Decryption Workshop",
+            "metadata": "presentation, poster, 2016",
+            "authors": "PLUSKAL, J.; VESELY, V.; GREGR, M.; RYSAVY, O."
+        },
+        {
+            "year": "2015",
+            "title": "Deliverable 2.4: RINASim - basic functionality",
+            "metadata": "report, 2015",
+            "authors": "VESELY, V.; MAREK, M.; HYKEL, T.; RYSAVY, O.; LICHTNER, O."
+        },
+        {
+            "year": "2015",
+            "title": "Deliverable 2.6: RINASim - advanced functionality",
+            "metadata": "report, 2015",
+            "authors": "VESELY, V.; MAREK, M.; HYKEL, T.; RYSAVY, O.; LICHTNER, O.; JERABEK, K."
+        },
+        {
+            "year": "2014",
+            "title": "Virtualizace pocitacovych siti",
+            "metadata": "course reader, 2014",
+            "authors": "VESELY, V."
+        },
+        {
+            "year": "2012",
+            "title": "Support for the operation of IPv6 multicast and anycast",
+            "metadata": "report, 2012",
+            "authors": "PODERMANSKI, T.; VESELY, V."
+        }
+    ],
+    "name": "Vesely Vladimir, Ing., Ph.D."
+}

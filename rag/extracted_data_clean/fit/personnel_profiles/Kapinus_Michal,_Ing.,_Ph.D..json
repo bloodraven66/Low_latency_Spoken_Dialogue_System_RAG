@@ -1,0 +1,179 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "ikapinus@fit.vut.cz",
+            "work_phone": "+420 54114 1406",
+            "room": "L206 Office",
+            "researcher_id": "AAC-9635-2019",
+            "orcid_id": "0000-0002-4728-8916",
+            "scopus_author_id": "57192273832"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Computer Graphics Research Group",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Robotic research group Robo@FIT",
+            "role": "Researcher"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "Na konzultace se prihlasujte zde: https://www.diplomkyfit.cz/konzultace-verejne/vedouci-247/2163f04cb2c237ff97de580a89ccb119535ffc2e",
+        "lectured_courses": [
+            {
+                "abbreviation": "ISC",
+                "title": "PC Seminar",
+                "details": "Exercise in computer lab,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ITU",
+                "title": "User Interface Programming",
+                "details": "Exercise in computer lab,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITUe",
+                "title": "User Interface Programming (in English)",
+                "details": "Exercise in computer lab, Project,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ROBa",
+                "title": "Robotics (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Multimodal Human-Machine Interfaces for Morphing Computerized Mats with Embodied Sensing and Artificial Intelligence",
+            "details": "EU, HORIZON EUROPE, 101159156, start: 2024-05-01, end: 2026-09-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "Long Life Power Platforms for Internet of Things",
+            "details": "MSMT, Chips Joint Undertaking, 9A23012, start: 2023-06-01, end: 2026-05-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "AISEE - Artificial Intelligence based Search Environment for photo/video",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010029, start: 2022-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Automaticka kalibrace robota",
+            "details": "Y-Soft, start: 2022-11-01, end: 2023-08-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Test-it-off: Robotic offline product testing",
+            "details": "MPO, TRIO, FV40052, start: 2019-01-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Collaborative robot 2.0: cognition of the work environment, augmented reality-based user interface, simple deployment and reconfiguration",
+            "details": "TACR, Program na podporu aplikovaneho vyzkumu ZETA, TJ01000352, start: 2017-09-01, end: 2019-08-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Zpracovani, zobrazovani a analyza multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3984, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "V3C - Visual Computing Competence Center",
+            "details": "TACR, Centra kompetence, TE01020415, start: 2012-05-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Tools and Methods for Video and Image Processing for the Fight against Terrorism",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015006, start: 2010-10-01, end: 2015-09-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2024",
+            "citation": "KAPINUS, M.; BERAN, V.; MATERNA, Z.; BAMBUSEK, D. Augmented Reality Spatial Programming Paradigm Applied to End-User Robot Programming. ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING, 2024, vol. 89, no. 89, p. 1-13. ISSN: 0736-5845."
+        },
+        {
+            "year": "2023",
+            "citation": "BAMBUSEK, D.; MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. How Do I Get There? Overcoming Reachability Limitations of Constrained Industrial Environments in Augmented Reality Applications. In 2023 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). Shanghai: Institute of Electrical and Electronics Engineers, 2023. p. 115-122. ISBN: 979-8-3503-4815-6."
+        },
+        {
+            "year": "2023",
+            "citation": "MATERNA, Z.; KAPINUS, M.; DOBES, P.; JURANEK, R.; SMRZ, P. Communication Framework for 5G-Enabled Network Applications. EuCNC & 6G Summit Proceedings. Gothenburg: 2023. p. 1-5."
+        },
+        {
+            "year": "2022",
+            "citation": "BAMBUSEK, D.; MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. Handheld Augmented Reality: Overcoming Reachability Limitations by Enabling Temporal Switch to Virtual Reality. In HRI '22: Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. Sapporo, Hokkaido: Association for Computing Machinery, 2022. p. 698-702. ISBN: 978-1-6654-0731-1."
+        },
+        {
+            "year": "2022",
+            "citation": "KAPINUS, M.; BAMBUSEK, D.; MATERNA, Z.; BERAN, V.; SMRZ, P. Improved Indirect Virtual Objects Selection Methods for Cluttered Augmented Reality Environments on Mobile Devices. In HRI '22: Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. Sapporo, Hokkaido: Association for Computing Machinery, 2022. p. 834-838. ISBN: 978-1-6654-0731-1."
+        },
+        {
+            "year": "2020",
+            "citation": "KAPINUS, M.; MATERNA, Z.; BAMBUSEK, D.; BERAN, V. End-User Robot Programming Case Study: Augmented Reality vs. Teach Pendant. In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction. Cambridge: Association for Computing Machinery, 2020. p. 281-283. ISBN: 978-1-4503-7057-8."
+        },
+        {
+            "year": "2019",
+            "citation": "BAMBUSEK, D.; MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. Combining Interactive Spatial Augmented Reality with Head-Mounted Display for End-User Collaborative Robot Programming. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). New Delhi: Institute of Electrical and Electronics Engineers, 2019. p. 1-9. ISBN: 978-1-7281-2622-7."
+        },
+        {
+            "year": "2019",
+            "citation": "KAPINUS, M.; BERAN, V.; MATERNA, Z.; BAMBUSEK, D. Spatially Situated End-User Robot Programming in Augmented Reality. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). New Delhi: Institute of Electrical and Electronics Engineers, 2019. p. 1-9. ISBN: 978-1-7281-2622-7."
+        },
+        {
+            "year": "2018",
+            "citation": "MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P.; ZEMCIK, P. Interactive Spatial Augmented Reality in Collaborative Robot Programming: User Experience Evaluation. In RO-MAN 2018 - 27th IEEE International Symposium on Robot and Human Interactive Communication. NanJing: Institute of Electrical and Electronics Engineers, 2018. p. 80-87. ISBN: 978-1-5386-7980-7."
+        },
+        {
+            "year": "2017",
+            "citation": "MATERNA, Z.; KAPINUS, M.; BERAN, V.; SMRZ, P. Using Persona, Scenario, and Use Case to Develop a Human-Robot Augmented Reality Collaborative Workspace. In ACM/IEEE International Conference on Human-Robot Interaction. Viden: Association for Computing Machinery, 2017. p. 201-202. ISBN: 978-1-4503-4885-0."
+        },
+        {
+            "year": "2017",
+            "citation": "STADLER, S.; GIULIANI, M.; KAPINUS, M.; MATERNA, Z.; MIRNIG, N.; TSCHELIGI, M. Industrial Human-Robot Interaction: Creating Personas for Augmented Reality supported Robot Control and Teaching. In Proceedings of the Companion of the 2017 ACM/IEEE International Conference on Human-Robot Interaction. Vienna: Association for Computing Machinery, 2017. p. 291-292. ISBN: 978-1-4503-4885-0."
+        },
+        {
+            "year": "2016",
+            "citation": "MATERNA, Z.; KAPINUS, M.; SPANEL, M.; BERAN, V.; SMRZ, P. Simplified Industrial Robot Programming: Effects of Errors on Multimodal Interaction in WoZ experiment. In 25th IEEE International Symposium on Robot and Human Interactive Communication, RO-MAN 2016. New York City: Institute of Electrical and Electronics Engineers, 2016. p. 200-205. ISBN: 978-1-5090-3929-6."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2015",
+            "title": "VideoTerror demonstrator. Event-based Video Analytic Tool (EVIDANT)",
+            "metadata": "report, 2015",
+            "authors": "BERAN, V.; KAPINUS, M.; KLICNAR, L.; MATERNA, Z.; HRADIS, M.; FROML, V.; VOLF, T.; MRACEK, S.; ZENDULKA, J.; ZEMCIK, P."
+        }
+    ],
+    "name": "Kapinus Michal, Ing., Ph.D."
+}

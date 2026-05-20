@@ -1,0 +1,37 @@
+{
+    "project": "RoQuIEm - 5G-enable Road Quality Monitoring based on Embedded Intelligence",
+    "title": "Monitorovani kvality silnic zalozene na vestavene inteligenci s podporou 5G",
+    "metadata": {
+        "project_period": "1. 6. 2023 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "FW08010018",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "8. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "RoQuIEm - 5G-enable Road Quality Monitoring based on Embedded Intelligence"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "5G network; monitoring, traffic; sensors"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The goal of the proposed project is to use existing mobile parking monitoring systems to acquire additional relevant traffic data, such as parameters and condition of roads, traffic signs, but also other other data. In order to improve QoS and QoE, the features of the 5G network will be used to enable high-quality data recording and real-time processing in the cloud environment. In addition, next-generation networks will be used to distribute information about the state of the road and surrounding infrastructure. Technically, it is an extension to the existing traffic monitoring system on the vehicle through additional sensors and novel functions."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM) \u2013 research leader Bobcik Petr, Ing. (RG GRAPH) Juricek Zdenek (DFIT-FO) Kreslik Frantisek, Ing. (CVT) Milet Tomas, Ing., Ph.D. (DCGM) Otrusina Lubomir, Ing. (DCGM) Smrz Pavel, doc. RNDr., Ph.D. (DCGM)"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- Software pro zpracovani senzorovych dat , software, 2024 Authors : ZEMCIK, P.; SMRZ, P.; MILET, T."
+        }
+    }
+}

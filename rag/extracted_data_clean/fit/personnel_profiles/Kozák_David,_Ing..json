@@ -1,0 +1,93 @@
+{
+    "contact": {
+        "department": "Department of Intelligent Systems",
+        "department_abbr": "DITS",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "ikozak@fit.vut.cz",
+            "room": "A220 Office",
+            "orcid_id": "0000-0002-8846-922X",
+            "scopus_author_id": "58629134000"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Automated Analysis and Verification Research Group - VeriFIT",
+            "role": "Ph.D. Student"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "Friday, 10:00-12:00 , B/A220 (Bozetechova 1/2, Brno 61200) Po predchozi domluve.",
+        "lectured_courses": [
+            {
+                "abbreviation": "GJA",
+                "title": "Graphical User Interfaces in Java",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "GJAe",
+                "title": "Graphical User Interfaces in Java (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IOS",
+                "title": "Operating Systems",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IVS",
+                "title": "Practical Aspects of Software Design",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IZP",
+                "title": "Introduction to Programming Systems",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Reliable, Secure, and Intelligent Computer Systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2013",
+            "title": "HoliDes - Holistic Human Factors and System Design of Adaptive Cooperative Human-Machine Systems",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H13004, start: 2013-10-01, end: 2016-09-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "ADAM, R.; KOZAK, D.; VOJNAR, T.; CERNY, T.; GOULIS, G. SAVAT: A Tool for Visualizing the Impact of Changes in Microservices. In Lecture Notes in Computer Science. Springer, 2025. p. 3-11. ISBN: 978-3-032-04402-0."
+        },
+        {
+            "year": "2025",
+            "citation": "KOZAK, D.; STANCU, C.; VOJNAR, T.; WIMMER, C. SkipFlow: Improving the Precision of Points-to Analysis using Primitive Values and Predicate Edges. In Proceedings of the 23rd ACM/IEEE International Symposium on Code Generation and Optimization. New York: Association for Computing Machinery, 2025. p. 347-361. ISBN: 979-8-4007-1275-3."
+        },
+        {
+            "year": "2024",
+            "citation": "KOZAK, D.; CERNY, T.; ABDELFATTAH, A.; BLANCHARD, A.; HALE, J.; HUTCHESON, R.; LAMBARIA, N. Software Architecture Reconstruction for Microservice Systems using Static Analysis via GraalVM Native Image. In 2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER). Los Alamitos: Institute of Electrical and Electronics Engineers, 2024. p. 12-22. ISBN: 979-8-3503-3066-3."
+        },
+        {
+            "year": "2024",
+            "citation": "WIMMER, C.; STANCU, C.; KOZAK, D.; WUERTHINGER, T. Scaling Type-Based Points-to Analysis with Saturation. Proceedings of the ACM on Programming Languages-PACMPL, 2024, vol. 8, no. PLDI, p. 990-1013. ISSN: 2475-1421."
+        },
+        {
+            "year": "2023",
+            "citation": "KOZAK, D.; JOVANOVIC, V.; STANCU, C.; VOJNAR, T.; WIMMER, C. Comparing Rapid Type Analysis with Points-To Analysis in GraalVM Native Image. In Proceedings of the 20th ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes. New York: Association for Computing Machinery, 2023. p. 129-142. ISBN: 979-8-4007-0380-5."
+        },
+        {
+            "year": "2017",
+            "citation": "KOZAK, D.; KRENA, B.; SIMKOVA, H.; VOJNAR, T. Search-Based Testing Concurrent Java Programs Using the RoadRunner Analysis Framework [poster]. The proceedings of the 12th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Telc: 2017. p. 25-25."
+        }
+    ],
+    "name": "Kozak David, Ing."
+}

@@ -1,0 +1,37 @@
+{
+    "project": "Safe and Secure Traffic Systems with Advanced Technology",
+    "title": "Bezpecne dopravni systemy s pokrocilou technologii",
+    "metadata": {
+        "project_period": "1. 1. 2024 \u2013 28. 2. 2026",
+        "project_type": "grant",
+        "code": "VB02000081",
+        "agency": "Ministry of the Interior of the Czech Republic",
+        "program": "Programu bezpecnostniho vyzkumu CR 2021-2026: vyvoj, testovani a evaluace novych bezpecnostnich technologii (SECTECH) - II. verejna soutez"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Safe and Secure Traffic Systems with Advanced Technology"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "road traffic monitoring; safety; cameras; transport systems"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The goal of the project is to create new road traffic monitoring systems with advanced technologies to ensure greater safety. The increase in safety consists of new functions both in sensors built in, especially cameras that are part of transport systems, and in cloud (server) systems that process data from cameras and other sensors. The new functions mainly consist of new procedures for the detection of various types of objects in transport (especially vehicles of various types and other objects relevant to transport), in cloud (server) systems it is then about locating vehicles, monitoring their type, number, movement and identification based on registration signs and other visual features, as well as predicting their movement and intervals between vehicles (or other traffic-relevant data as needed by users). Another goal is to improve the security of the entire connected system of cameras and servers and to ensure the authenticity of the data."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Beran Vitezslav, doc. Ing., Ph.D. (DCGM) \u2013 research leader Bambusek Daniel, Ing. (DCGM) Barina David, Ing., Ph.D. (DCGM) Herout Adam, prof. Ing., Ph.D. (DCGM) Kreslik Martin (CVT) Kuchynka Marek, Ing. (DFIT-ISD) Otrusina Lubomir, Ing. (DCGM) Smrz Pavel, doc. RNDr., Ph.D. (DCGM) Spanhel Jakub, Ing., Ph.D. (DCGM) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- Metody zpracovani dat pro dopravni ucely , software, 2024 Authors : SPANHEL, J.; BERAN, V.; HEROUT, A.; ZEMCIK, P."
+        }
+    }
+}

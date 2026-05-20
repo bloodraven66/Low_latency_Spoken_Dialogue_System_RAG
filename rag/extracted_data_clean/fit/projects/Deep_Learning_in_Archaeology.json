@@ -1,0 +1,28 @@
+{
+    "project": "Deep Learning in Archaeology",
+    "title": "Deep Learning in Archaeology",
+    "metadata": {
+        "project_period": "25. 11. 2024 \u2013 19. 9. 2028",
+        "project_type": "grant",
+        "agency": "European Union",
+        "program": "European Cooperation in Science and Technology (COST)"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "DL4Arch - Hluboke uceni v archeologii"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project will contribute to the activities of COST Action CA23141 - MAIA - in the areas related to exploring advanced deep learning models in diverse archaeological contexts, managing relevant training and evaluation data collections, analysing existing and newly created digital comparative collections, and investigating robustness and transparency of learning approaches in archaeology."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader"
+        }
+    }
+}

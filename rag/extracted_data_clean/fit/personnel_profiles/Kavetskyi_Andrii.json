@@ -1,0 +1,84 @@
+{
+    "contact": {
+        "department": "Department of Intelligent Systems",
+        "department_abbr": "DITS",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "ikavetskyi@fit.vut.cz",
+            "work_phone": "+420 54114 1339",
+            "room": "S110 Office",
+            "orcid_id": "0000-0002-0575-7788"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Security Technology Research and Development",
+            "role": "Member"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "Consultations by prior agreement by e-mail."
+    },
+    "projects": [
+        {
+            "year": "2022",
+            "title": "Development of the autonomous monitoring center",
+            "details": "EU, OP PIK - Aplikace, start: 2022-04-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Vyvoj autonomniho dohledoveho centra - SV",
+            "details": "ALSYKO, start: 2022-03-01, end: 2023-09-02, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Identification, classification and numerical simulation of fracture pattern in acrylic glass sheets",
+            "details": "MSMT, Mobility - CR - Nemecko, 8J21DE002, start: 2021-01-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Spolehlive, bezpecne a efektivni pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "STEPHENSON, K.; TSE, T.; HWANG, J.; KAVETSKYI, A.; DHANJI, S.; KOLAWOLE, O.; PAKZAD-VAEZI, K.; MAMMO, Z.; GREGORY-EVANS, K.; GREGORY-EVANS, C.; JU, J. Quantitative Choroidal Analysis of Molecularly Characterized Retinitis Pigmentosa. Investigative ophthalmology & visual science, 2025, vol. 66, no. 9, 10 p."
+        },
+        {
+            "year": "2021",
+            "citation": "BISWAS, S.; ROHDIN, J.; KAVETSKYI, A.; ALVES SARAIVA, G.; BISWAS, A.; DRAHANSKY, M. Investigation of Bilateral Similarity in Central Retinal Blood Vessels. IEEE Access, 2021, vol. 2021, no. 9, p. 63012-63028. ISSN: 2169-3536."
+        },
+        {
+            "year": "2020",
+            "citation": "BISWAS, S.; ROHDIN, J.; KAVETSKYI, A.; DRAHANSKY, M. Grading Quality of Color Retinal Images to Assist Fundus Camera Operators. In Proceedings of the IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS). Rochester: IEEE Computer Society Press, 2020. p. 77-82. ISBN: 978-1-7281-9429-5."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2021",
+            "title": "Analyza kvality retinalnich snimku",
+            "metadata": "report, 2021",
+            "authors": "DRAHANSKY, M.; RYDLO, S.; KAVETSKYI, A.; KANICH, O.; BISWAS, S.; MNUK, T."
+        },
+        {
+            "year": "2021",
+            "title": "Detekce exsudatu v retinalnich snimcich",
+            "metadata": "report, 2021",
+            "authors": "DRAHANSKY, M.; RYDLO, S.; KAVETSKYI, A.; MNUK, T."
+        },
+        {
+            "year": "2021",
+            "title": "Detekce hemoragii a mikroaneurysmat v retinalnich snimcich",
+            "metadata": "report, 2021",
+            "authors": "DRAHANSKY, M.; RYDLO, S.; KAVETSKYI, A.; MNUK, T."
+        }
+    ],
+    "name": "Kavetskyi Andrii"
+}

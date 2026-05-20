@@ -1,0 +1,37 @@
+{
+    "project": "LEDNeCo: Low Energy Deep Neurocomputing",
+    "title": "LEDNeCo: Low Energy Deep Neurocomputing",
+    "metadata": {
+        "project_period": "1. 1. 2025 \u2013 31. 12. 2027",
+        "project_type": "grant",
+        "code": "GA25-15490S",
+        "agency": "Czech Science Foundation",
+        "program": "Standardni projekty"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "LEDNeCo: Low Energy Deep Neurocomputing"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "deep neural networks;tranformers;energy complexity;hardware accelerator;approximation theory;robust learning;genetic programming"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Modern artificial intelligence technologies based on deep neural networks (DNNs) such as GPT are computationally extremely demanding. In addition to consuming an enormous amount of energy, this limits their deployment in battery-powered embedded (edge) devices (e.g. smart mobile apps). LEDNeCo is a project of basic research whose ambition is to develop a low-energy deep neurocomputing paradigm based on machine-independent energy complexity theory for DNNs, which issues from practical experience in the design of diverse DNN hardware accelerators. Among other things, universal lower bounds on energy complexity of DNNs and estimates of inference error will be derived for identifying DNN components (e.g. weights, neurons, layers) whose approximation is provably the most energy efficient. The achieved theoretical knowledge will be used in new advanced approximation techniques (e.g. weight compression, Boolean optimization, robust aproximation of components) for low-power hardware implementations of DNN (incl. transformer), which will be tested on benchmark datasets."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Vasicek Zdenek, doc. Ing., Ph.D. (DCSY) \u2013 research leader Klhufek Jan, Ing. (DCSY) Mrazek Vojtech, Ing., Ph.D. (DCSY) Sekanina Lukas, prof. Ing., Ph.D. (DCSY)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- KALKREUTH, R.; DE, O.; JANKOVIC, A.; ANASTACIO, M.; DIERKES, J.; VASICEK, Z.; HOOS, H. TinyverseGP: Towards a Modular Cross-domain Benchmarking Framework for Genetic Programming. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2172-2176. ISBN: 979-8-4007-1464-1. Detail KLHUFEK, J.; MARCHISIO, A.; MRAZEK, V.; SEKANINA, L.; SHAFIQUE, M. TransInferSim: Toward Fast and Accurate Evaluation of Embedded Hardware Accelerators for Transformer Networks. IEEE Access, 2025, vol. 13, no. October, p. 177215-177226. Detail MRAZEK, V.; BALASKAS, K.; DUARTE, P.; VASICEK, Z.; TAHOORI, M.; ZERVAKIS, G. Arbitrary Precision Printed Ternary Neural Networks with Holistic Evolutionary Approximation. IEEE Transactions on Circuits and Systems for Artificial Intelligence, 2025, vol. 2, no. 4, p. 351-363. Detail PLEVAC, L.; VASICEK, Z. Towards Efficient Semantic Mutation in CGP: Enhancing SOMOk. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2172-2176. ISBN: 979-8-4007-1464-1. Detail SEDLAK, D.; KLHUFEK, J.; MRAZEK, V.; VASICEK, Z. Towards Efficient Scheduling of Transformer Neural Network Computation for Edge AI Deployment. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2242-2248. ISBN: 979-8-4007-1464-1. Detail\n- KLHUFEK, J.; MARCHISIO, A.; MRAZEK, V.; SEKANINA, L.; SHAFIQUE, M. TransInferSim: Toward Fast and Accurate Evaluation of Embedded Hardware Accelerators for Transformer Networks. IEEE Access, 2025, vol. 13, no. October, p. 177215-177226. Detail MRAZEK, V.; BALASKAS, K.; DUARTE, P.; VASICEK, Z.; TAHOORI, M.; ZERVAKIS, G. Arbitrary Precision Printed Ternary Neural Networks with Holistic Evolutionary Approximation. IEEE Transactions on Circuits and Systems for Artificial Intelligence, 2025, vol. 2, no. 4, p. 351-363. Detail PLEVAC, L.; VASICEK, Z. Towards Efficient Semantic Mutation in CGP: Enhancing SOMOk. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2172-2176. ISBN: 979-8-4007-1464-1. Detail SEDLAK, D.; KLHUFEK, J.; MRAZEK, V.; VASICEK, Z. Towards Efficient Scheduling of Transformer Neural Network Computation for Edge AI Deployment. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2242-2248. ISBN: 979-8-4007-1464-1. Detail\n- MRAZEK, V.; BALASKAS, K.; DUARTE, P.; VASICEK, Z.; TAHOORI, M.; ZERVAKIS, G. Arbitrary Precision Printed Ternary Neural Networks with Holistic Evolutionary Approximation. IEEE Transactions on Circuits and Systems for Artificial Intelligence, 2025, vol. 2, no. 4, p. 351-363. Detail PLEVAC, L.; VASICEK, Z. Towards Efficient Semantic Mutation in CGP: Enhancing SOMOk. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2172-2176. ISBN: 979-8-4007-1464-1. Detail SEDLAK, D.; KLHUFEK, J.; MRAZEK, V.; VASICEK, Z. Towards Efficient Scheduling of Transformer Neural Network Computation for Edge AI Deployment. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2242-2248. ISBN: 979-8-4007-1464-1. Detail\n- PLEVAC, L.; VASICEK, Z. Towards Efficient Semantic Mutation in CGP: Enhancing SOMOk. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2172-2176. ISBN: 979-8-4007-1464-1. Detail SEDLAK, D.; KLHUFEK, J.; MRAZEK, V.; VASICEK, Z. Towards Efficient Scheduling of Transformer Neural Network Computation for Edge AI Deployment. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2242-2248. ISBN: 979-8-4007-1464-1. Detail\n- SEDLAK, D.; KLHUFEK, J.; MRAZEK, V.; VASICEK, Z. Towards Efficient Scheduling of Transformer Neural Network Computation for Edge AI Deployment. Proceedings of the Genetic and Evolutionary Computation Conference Companion. Malaga: Association for Computing Machinery, 2025. p. 2242-2248. ISBN: 979-8-4007-1464-1. Detail"
+        }
+    }
+}

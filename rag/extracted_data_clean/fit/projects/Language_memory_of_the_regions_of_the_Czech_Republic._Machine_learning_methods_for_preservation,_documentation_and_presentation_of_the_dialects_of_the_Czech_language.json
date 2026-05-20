@@ -1,0 +1,45 @@
+{
+    "project": "Language memory of the regions of the Czech Republic. Machine learning methods for preservation, documentation and presentation of the dialects of the Czech language",
+    "title": "Jazykova pamet regionu Ceske republiky. Metody strojoveho uceni pro uchovani, dokumentaci a prezentaci nareci ceskeho jazyka",
+    "metadata": {
+        "project_period": "1. 3. 2023 \u2013 31. 12. 2027",
+        "project_type": "grant",
+        "code": "DH23P03OVV010",
+        "agency": "Ministry of Culture Czech Republic",
+        "program": "NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "Language memory of the regions of the Czech Republic. Machine learning methods for preservation, documentation and presentation of the dialects of the Czech language"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Czech language, dialects, dialectology, artificial intelligence, speech and language data, automatic dialect identification, automatic speech recognition, interactive maps, language memory of regions"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Language is a fundamental connecting element of every nation and its territorial dialects are an important part of regional identity. In the modern world, dialects are gradually disappearing, their variability is diminishing and they are gradually assimilating into the language represented by the mainstream media and the Internet. Due to the significant costs of acquiring and annotating training language data, the dialects have virtually zero support in modern artificial intelligence (AI) and machine learning (ML) technologies, represented mainly by automatic speech recognition (ASR). In Czechia, the dialectology department of the Czech Academy of Sciences, Czech Language Institute (UJC AV CR) is systematically engaged in research of colloquial phenomena of the Czech national language, is dedicated to the study of dialects. However, UJC lacks any modern technology for automatic processing, storage, documentation and presentation of dialects. Also, the outputs of the dialectology department are available primarily to the scientific community; there is a lack of modern interactive web applications or services that could be used by the general public. The project, proposed by ASR specialists (BUT), dialectologists (UJC) and interactive map imaging experts (UPOL), aims to adapt existing technologies and develop new procedures for automatic processing, storage, documentation and presentation of Czech language dialects. A detailed methodology for the transfer of structured knowledge from dialectology to machine learning (where work with data is dominant) will be developed. The existing Archive of Sound Recordings of Dialect Speech (built in UJC from 1952 to the present and containing over 750 hours of recordings) will be supplemented with metadata and prepared for machine learning. As a prerequisite, we will develop software for dialect detection based on audio recording."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Karafiat Martin, Ing., Ph.D. (DCGM) \u2013 research leader Kocour Martin, Ing. (DCGM) Kotolan Martin (DFIT-ISD) Plchot Oldrich, Ing., Ph.D. (DCGM) Sedlacek Simon, Ing. (DCGM) Yusuf Bolaji (DCGM) Zizka Josef, Ing. (DCGM)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- SIMECKOVA, M.; KARAFIAT, M.; PLCHOT, O. Using machine learning for automatic dialect detection. New methods in Czech dialectology. In Slovanske dialek ty v dobe dig ital nich technologii. Narecni prameny a jejich soucasne zpracovani. Praha: Slovansky ustav AV CR, 2025. p. 297-307. ISBN: 978-80-86420-99-8. Detail\n- BENES, K.; KOCOUR, M.; BURGET, L. Hystoc: Obtaining Word Confidences for Fusion of End-To-End ASR Systems. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. Seoul: IEEE Signal Processing Society, 2024. p. 11276-11280. ISBN: 979-8-3503-4485-1. Detail\n- MATEJKA, P.; SILNOVA, A.; SLAVICEK, J.; MOSNER, L.; PLCHOT, O.; KLCO, M.; PENG, J.; STAFYLAKIS, T.; BURGET, L. Description and Analysis of ABC Submission to NIST LRE 2022. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Proceedings of Interspeech. Dublin: International Speech Communication Association, 2023. no. 08, p. 511-515. ISSN: 1990-9772. Detail"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- Rozpoznavac reci adaptovany pro generovani dialektologicke transkripce z audionahravek , software, 2025 Authors : Martin Karafiat, Josef Zizka, Marta Simeckova, Bronislav Stupnanek\n- Automaticky detektor dialektu na zaklade audionahravky , software, 2024 Authors : PLCHOT, O.; ODEHNAL, O.; KARAFIAT, M.; ZIZKA, J.; SIMECKOVA, M."
+        },
+        "results_with_impact_on_practice": {
+            "label": "Results with Impact on Practice",
+            "text": "- Diferencni hlasky v narecich ceskeho jazyka \u2013 soubor tri interaktivnich syntetickych map s odbornym komentarem , specialized map with expert contents, 2025 Authors : Simeckova Marta, Kubecek Filip, Pradkova Petra, Stupnanek Bronislav, Suta Radek, Temer Simon, Netek Rostislav, Barvir Radek, Vozenilek Vit, Vondrakova Alena, Zizka Josef. Metodika pro prevod strukturovanych znalosti z oboru dialektologie do strojoveho uceni , certified methodologies, 2025 Authors : SIMECKOVA, M.; STUPNANEK, B.; KARAFIAT, M.; VONDRAKOVA, A.; VOZENILEK, V.; NETEK, R.\n- Metodika pro prevod strukturovanych znalosti z oboru dialektologie do strojoveho uceni , certified methodologies, 2025 Authors : SIMECKOVA, M.; STUPNANEK, B.; KARAFIAT, M.; VONDRAKOVA, A.; VOZENILEK, V.; NETEK, R."
+        }
+    }
+}

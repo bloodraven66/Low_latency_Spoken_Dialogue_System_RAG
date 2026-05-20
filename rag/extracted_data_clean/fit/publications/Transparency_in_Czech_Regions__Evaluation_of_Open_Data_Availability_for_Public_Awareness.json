@@ -1,0 +1,87 @@
+{
+    "publication": "ZAKLOVA, K.; JOHN, P.; JANOSIK, A.; HYNEK, J.; HRUSKA, T. Transparency in Czech Regions: Evaluation of Open Data Availability for Public Awareness. In IEEE Xplore. 2025 Smart City Symposium Prague (SCSP). Prague: Institute of Electrical and Electronics Engineers, 2025. p. 1-6. ISBN: 979-8-3315-2550-7. Detail ZAVREL, J.; KOUTENSKY, M.; DOLEJSKA, D.; VESELY, V. Tumbling Down the Stairs: Exploiting a Tumbler's Attempt to Hide with Ordinary-looking Transactions using Wallet Fingerprinting. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-9. ISSN: 2666-2817. Detail ZBORIL, F.; VIDENSKY, F.; KOCI, R.; ZBORIL, F. Advanced Evaluation of Variable Binding Strategies in BDI Agents with Integrated Failure Handling. In Agents and Artificial Intelligence. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2025. p. 3-29. ISBN: 978-3-031-87326-3. Detail ZEINALI, H.; LEE, K.; ALAM, J.; BURGET, L. Text-dependent Speaker Verification Challenge 2024: Exploring Shared and User-defined Passphrases. In 2025 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP). Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. Hyderabad, Indicka republika: Institute of Electrical and Electronics Engineers Inc., 2025. p. 1-5. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; LU, W.; XU, J. Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing. IEEE Transactions on Audio, Speech, and Language Processing, 2025, no. 33, p. 3850-3865. Detail ZHANG, R.; WEI, J.; LU, X.; ZHANG, L.; JIN, D.; XU, J.; LU, W. SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing. IEEE Transactions on Information Forensics and Security, 2025, no. 20, p. 6474-6489. Detail ZHANG, Y.; TIAN, B.; ZHANG, L.; DUAN, Z. PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. Interspeech. Rotterdam, Nizozemi: ISCA, 2025. p. 5353-5357.",
+    "year": "2025",
+    "title": "Transparency in Czech Regions: Evaluation of Open Data Availability for Public Awareness",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "conference paper"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Zaklova Kristyna, Ing. , CIS - Internal Systems (CIS), DFIT-ISD (FIT), DCGM (FIT) John Petr, Ing. , DIFS (FIT), DCGM (FIT) Janosik Adam, Bc., FIT (FIT) Hynek Jiri, Ing., Ph.D. , DIFS (FIT) Hruska Tomas, prof. Ing., CSc. , DIFS (FIT)"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "Innovations in information technology have created opportunities to improve living conditions for citizens and residents. One key development is the smart city concept, which offers benefits like ambient-assisted living. However, residents need to express their needs and evaluate whether legislators take meaningful steps to address them. Effective monitoring of policy decisions is necessary not only at the city level, but also for larger administrative units such as regions or the entire state. Effective monitoring requires leveraging open government data with appropriate tools to prevent misinformation and empty political promises. Assessing the availability and quality of these data is the key to achieving these objectives. The regional elections in autumn 2024 were an impulse for us to assess the transparency of Czech regional councils-specifically, how easily citizens can access and understand information about policy decisions that affect them. In addition to analysis of the available data and assessment of the transparency of the regions, our results include a process to achieve this goal, applicable to other OGDs, and unified datasets and visualizations confirming the universality of the tools we have developed."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "Open Government Data, Smart City, sustainability, regional council, government transparency"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2025"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "1\u20136"
+        },
+        "proceedings": {
+            "label": "Proceedings",
+            "text": "IEEE Xplore"
+        },
+        "series": {
+            "label": "Series",
+            "text": "2025 Smart City Symposium Prague (SCSP)"
+        },
+        "conference": {
+            "label": "Conference",
+            "text": "Smart Cities Symposium Prague 2025"
+        },
+        "isbn": {
+            "label": "ISBN",
+            "text": "979-8-3315-2550-7"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "Institute of Electrical and Electronics Engineers"
+        },
+        "place": {
+            "label": "Place",
+            "text": "Prague"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1109/SCSP65598.2025.11037709"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-105011592439"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@inproceedings{BUT197686, author=\"Kristyna {Zaklova} and Petr {John} and Adam {Janosik} and Jiri {Hynek} and Tomas {Hruska}\", title=\"Transparency in Czech Regions: Evaluation of Open Data Availability for Public Awareness\", booktitle=\"IEEE Xplore\", year=\"2025\", series=\"2025 Smart City Symposium Prague (SCSP)\", pages=\"1--6\", publisher=\"Institute of Electrical and Electronics Engineers\", address=\"Prague\", doi=\"10.1109/SCSP65598.2025.11037709\", isbn=\"979-8-3315-2550-7\", url=\"https://ieeexplore.ieee.org/document/11037709\" }"
+        },
+        "files": {
+            "label": "Files",
+            "text": "- pdf 43-final.pdf 350 kB\n- pdf zaklova-janosik-regional-voting.pdf 774 kB"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Chytre informacni technologie pro odolnou spolecnost , BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        "research_groups": {
+            "label": "Research groups",
+            "text": "Information and Database Systems Research Group (RG IS)"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Information Systems (DIFS)"
+        }
+    }
+}

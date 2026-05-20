@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "code": "ZREe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "5 credits",
+        "course_name": "Speech Signal Processing (in English)"
+    },
+    "content": {
+        "guarantor": "Cernocky Jan, prof. Dr. Ing. | (DCGM)",
+        "course_coordinator": "Grezl Frantisek, Ing., Ph.D. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written+oral)",
+        "time_span": "- 26 hrs lectures\n- 26 hrs pc labs",
+        "assessment_points": "- 75 pts final exam (written part)\n- 25 pts mid-term test (written part)",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Grezl Frantisek, Ing., Ph.D. | (DCGM)",
+        "instructor": "Grezl Frantisek, Ing., Ph.D. | (DCGM)",
+        "learning_objectives": "To provide students with the knowledge of basic characteristics of speech signal in relation to production and hearing of speech by humans. To describe basic algorithms of speech analysis common to many applications. To give an overview of applications (recognition, synthesis, coding) and to inform about practical aspects of speech algorithms implementation.The students will get familiar with basic characteristics of speech signal in relation to production and hearing of speech by humans. They will understand basic algorithms of speech analysis common to many applications. They will be given an overview of applications (recognition, synthesis, coding) and be informed about practical aspects of speech algorithms implementation. The students will be able to design a simple system for speech processing (speech activity detector, recognizer of limited number of isolated words), including its implementation into application programs.",
+        "prerequisite_knowledge_and_skills": "Solid knowledge of basic mathematics and signal processing (Fourier transform, linear filtering, random signals).",
+        "study_literature": "- Psutka, J.: Komunikace s pocitacem mluvenou reci. Academia, Praha, 1995, ISBN 80-200-0203-0\n- Gold, B., Morgan, N.: Speech and Audio Signal Processing, John Wiley & Sons, 2000, ISBN 0-471-35154-7",
+        "syllabus_of_lectures": "- Introduction, applications of speech processing, sciences relevant for SP, informational content of speech.\n- Digital processing of speech signals.\n- Speech production and perception, basic notions from psycho-acoustics, applications in speech processing.\n- Introduction to phonetics, international norms for phoneme mark-up.\n- Pre-processing and basic parameters of speech.\n- Linear-predictive model, spectrum using LP, applications of LP.\n- Cepstral analysis, Mel-frequency cepstrum.\n- Determination of fundamental frequency.\n- Speech coding\n- Speech recognition - dynamic programming DTW, hidden Markov models HMM\n- Speech synthesis\n- Software and libraries for speech processing.",
+        "syllabus_of_computer_exercises": "- Except the last one, Matlab is used in labs.\n- Frames, windows, spectrum, pre-processing.\n- Linear prediction (LPC).\n- Fundamental frequency estimation.\n- Coding.\n- Recognition - Dynamic time Warping (DTW).\n- Recognition - hidden Markov models (Hidden Markov Model Toolkit - HTK).",
+        "progress_assessment": "- mid-term test\n- presentation of projects\n- presentation of results in computer labs"
+    }
+}

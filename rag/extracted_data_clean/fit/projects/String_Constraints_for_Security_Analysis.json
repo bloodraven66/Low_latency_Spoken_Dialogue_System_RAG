@@ -1,0 +1,37 @@
+{
+    "project": "String Constraints for Security Analysis",
+    "title": "String Constraints for Security Analysis",
+    "metadata": {
+        "project_period": "1. 8. 2025 \u2013 31. 7. 2028",
+        "project_type": "grant",
+        "code": "25-17934S",
+        "agency": "Czech Science Foundation",
+        "program": "Standardni projekty"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Retezcova omezeni pro analyzu bezpecnosti"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "verification; security; web-applications; SQL-injection; XSS; automata; string constraints; SMT; automated reasoning"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "We aim at advancing the technology of string constraint solving (SCS) to enable security analysis of web applications. It is a timely objective---vulnerabilities to cross-site scripting, SQL-injection, or security policy malfunctions are among the main sources of security breaches of today's web technologies. They elicit astronomical costs that pose a significant obstacle for the industry. Automatic and precise analysis of web applications has always been the vision of SCS research community. Realizing it is within the potential of our recent SCS method that showcases our long term research of automata technology and, despite its youth, surpasses the state of the art. We propose to perfect our SCS technique so that it reaches the required scalability and expressiveness, and to initiate a development of SC enabled analyses of web applications written in languages such as JavaScript or PHP. It requires tackling fundamental questions about SCS, further develop automata techniques we build on, and to propose scalable analyses for dynamic languages compatible with the SCS technology."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Holik Lukas, doc. Mgr., Ph.D. (DITS) \u2013 research leader Havlena Vojtech, Ing., Ph.D. (DITS) Chocholaty David, Ing. (DITS) Kocourek Tomas, Ing. (DITS) Rogalewicz Adam, doc. Mgr., Ph.D. (DITS) Sic Juraj, Mgr. (DITS)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- HOLIK, L.; LENGAL, O.; STEPKOVA, A.; MAJOR, J.; STREJCEK, J. On Complementation of Nondeterministic Finite Automata without Full Determinization. 25th International Symposium on Fundamentals of Computation Theory. Lecture Notes in Computer Science. Wroclaw: Springer Verlag, 2025. p. 221-237. ISBN: 978-3-032-04700-7. Detail"
+        }
+    }
+}

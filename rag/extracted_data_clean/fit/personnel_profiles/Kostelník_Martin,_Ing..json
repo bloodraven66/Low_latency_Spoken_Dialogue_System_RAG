@@ -1,0 +1,49 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "ikostelnik@fit.vut.cz",
+            "work_phone": "+420 54114 1411",
+            "phone": "+420 605 041 742",
+            "room": "Q201 DCGM Office",
+            "orcid_id": "0009-0002-5478-9580"
+        }
+    },
+    "teaching": {
+        "consulting_hours": "Po predchozi domluve e-mailem nebo telefonicky.",
+        "lectured_courses": [
+            {
+                "abbreviation": "IKK",
+                "title": "Circle Consultations",
+                "details": "Fundamentals seminar,\nCzech, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Machine learning for printed heritage digitisation",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV066, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Reanimated book - digitized library treasures for the creative industries",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV033, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "semANT - Semantic Document Exploration",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV060, start: 2023-03-01, end: 2027-12-31, running"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "KOSTELNIK, M.; HRADIS, M.; BENES, K. TextBite: A Historical Czech Document Dataset for Logical Page Segmentation. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops. Cham: Springer Nature Switzerland, 2025. p. 124-140. ISBN: 978-3-032-09367-7."
+        }
+    ],
+    "name": "Kostelnik Martin, Ing."
+}

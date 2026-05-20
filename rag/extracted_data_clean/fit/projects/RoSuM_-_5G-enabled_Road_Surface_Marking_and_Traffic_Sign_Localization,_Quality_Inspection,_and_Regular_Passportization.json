@@ -1,0 +1,37 @@
+{
+    "project": "RoSuM - 5G-enabled Road Surface Marking and Traffic Sign Localization, Quality Inspection, and Regular Passportization",
+    "title": "RoSuM - Lokalizace vodorovneho a svisleho dopravniho znaceni, kontrola kvality a pravidelna pasportizace s podporou 5G",
+    "metadata": {
+        "project_period": "1. 6. 2023 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "FW08010017",
+        "agency": "Technology Agency of the Czech Republic",
+        "program": "8. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "RoSuM - 5G-enabled Road Surface Marking and Traffic Sign Localization, Quality Inspection, and Regular Passportization"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "5G technology; visual inspection; data collection; artificial intelligence; software"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The aim of the project is to create a system for automated visual inspection of the condition of the road, road markings, traffic equipment and other assets of the road administrator. The system will use continuous data collection using smart camera devices for fast fault detection, and these will be clearly reported to the administrator of the communications. The system will utilize modern machine learning methods and advanced localization algorithms that allow the manufacturing of cheaper and more usable equipment than currently available on the market. The overall system will consist of a smart camera, software using artificial intelligence and existing map data for in-camera data selection, and a cloud system for final evaluation and reporting of communication defects and changes."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM) \u2013 research leader Juricek Zdenek (DFIT-FO) Juricek Zdenek Kreslik Frantisek, Ing. (CVT) Milet Tomas, Ing., Ph.D. (DCGM) Smrz Pavel, doc. RNDr., Ph.D. (DCGM) Vlnas Michal, Ing. (DCGM)"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- V4: SW pro zpresneni lokalizace pomoci vizualnich dat , software, 2024 Authors : SMRZ, P.; ZEMCIK, P.; VLNAS, M."
+        }
+    }
+}

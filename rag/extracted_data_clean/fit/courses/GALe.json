@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "code": "GALe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Graph Algorithms (in English)"
+    },
+    "content": {
+        "guarantor": "Meduna Alexandr, prof. RNDr., CSc. | (DIFS)",
+        "course_coordinator": "Krivka Zbynek, Ing., Ph.D. | (DIFS)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written)",
+        "time_span": "- 39 hrs lectures\n- 13 hrs projects",
+        "assessment_points": "- 60 pts final exam (written part)\n- 15 pts mid-term test (written part)\n- 25 pts projects",
+        "department": "Department of Information Systems | (UIFS)",
+        "lecturer": "Havel Martin, Ing. | (DIFS) | Krivka Zbynek, Ing., Ph.D. | (DIFS)",
+        "instructor": "Havel Martin, Ing. | (DIFS) | Krivka Zbynek, Ing., Ph.D. | (DIFS)",
+        "learning_objectives": "Introduction to graph theory with focus on graph representations, graph algorithms and their complexities.Fundamental ability to construct an algorithm for a graph problem and to analyze its time and space complexity.",
+        "prerequisite_knowledge_and_skills": "Foundations in discrete mathematics and algorithmic thinking.",
+        "study_literature": "- Electronic copy of lectures (available in E-Learning).\n- A. Gibbons, Algorithmic Graph Theory, Cambridge University Press, 1985.\n- T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein,Introduction to Algorithms, 3rd edition. MIT Press, 2009.\n- J.A. McHugh,Algorithmic Graph Theory, Prentice-Hall, 1990.\n- K. Erciyes:Guide to Graph Algorithms (Sequential, Parallel and Distributed). Springer, 2018.\n- A. Mitina:Applied Combinatorics with Graph Theory. NEIU, 2019.\nA. Mitina:Applied Combinatorics with Graph Theory. NEIU, 2019.",
+        "syllabus_of_lectures": "- Introduction, algorithmic complexity, basic notions and graph representations.\n- Graph searching, depth-first search, breadth-first search.\n- Topological sort, acyclic graphs.\n- Graph components, strongly connected components, examples.\n- Trees, minimal spanning trees, algorithms of Jarnik and Boruvka.\n- Growing a minimal spanning tree, algorithms of Kruskal and Prim.\n- Single-source shortest paths, Bellman-Ford algorithm, shortest path in DAGs.\n- Dijkstra algorithm. All-pairs shortest paths.\n- Shortest paths and matrix multiplication, Floyd-Warshall algorithm.\n- Flows and cuts in networks, maximal flow, minimal cut, Ford-Fulkerson algorithm.\n- Matching in bipartite graphs, maximal matching.\n- Graph coloring.\n- Eulerian graphs and tours, Hamiltonian graphs and cycles.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "- Solving of selected graph problems and presentation of solutions (principle, complexity, implementation, optimization).",
+        "progress_assessment": "- Mid-term exam - 15 points.\n- Projects - 25 points.\n- Final exam - 60 points.The minimal number of points which can be obtained from the final exam is 25. Otherwise, no points from the final exam will be assigned to a student."
+    }
+}

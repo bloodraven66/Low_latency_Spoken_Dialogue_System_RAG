@@ -1,0 +1,85 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "ivasko@fit.vut.cz",
+            "phone": "+420 54114 1414",
+            "room": "L204 Office",
+            "researcher_id": "GYU-6930-2022",
+            "orcid_id": "0000-0003-1404-4154"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Computer Graphics Research Group",
+            "role": "Researcher"
+        }
+    ],
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "ITU",
+                "title": "User Interface Programming",
+                "details": "Exercise in computer lab,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITUe",
+                "title": "User Interface Programming (in English)",
+                "details": "Exercise in computer lab,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IZG",
+                "title": "Computer Graphics Principles",
+                "details": "Exercise in computer lab,\nCzech, English, summer",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "POVa",
+                "title": "Computer Vision (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Qinfo - Acquisition and Statistical Processing of Subjective Attitudes in Time",
+            "details": "TACR, 1. verejna soutez programu SIGMA, TQ01000036, start: 2023-09-01, end: 2026-08-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Reanimated book - digitized library treasures for the creative industries",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV033, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2022",
+            "title": "Non-Invasive and Secure IDentification",
+            "details": "TACR, 4. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW04020153, start: 2022-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Next Generation of Integrated Atomic Force and Scanning Electron Microscopy",
+            "details": "TACR, Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, FW01010183, start: 2020-04-01, end: 2023-03-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2026",
+            "citation": "VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7."
+        },
+        {
+            "year": "2025",
+            "citation": "KOHUT, J.; DOCEKAL, M.; HRADIS, M.; VASKO, M. BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction. In Document Analysis and Recognition \u2013 ICDAR 2025. Cham: Springer Nature Switzerland, 2025. p. 287-304. ISBN: 978-3-032-04623-9."
+        },
+        {
+            "year": "2025",
+            "citation": "VASKO, M.; HEROUT, A. LossFIQA: A Shortcut Solution to Image Quality Assessment Using Loss for Faces and Beyond. IEEE Access, 2025, vol. 13, no. 7, p. 126915-126924."
+        }
+    ],
+    "name": "Vasko Marek, Ing."
+}

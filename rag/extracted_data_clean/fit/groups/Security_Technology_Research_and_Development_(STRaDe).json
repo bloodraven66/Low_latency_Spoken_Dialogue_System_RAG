@@ -1,0 +1,1778 @@
+{
+    "group": "Security Technology Research and Development (STRaDe)",
+    "about": {
+        "security_technology_research_and_development": [
+            "The STRaDe research group is part of the Department of Intelligent Systems at the Faculty of Information Technology, Brno University of Technology. Our main focus is on the research and development of security technologies, including both software and hardware. A key area of our research is biometrics, where we specialize in a wide range of technologies such as fingerprint, iris, and retina scanning and recognition, 3D face and hand recognition, vein recognition, and liveness detection of biometric elements. In hardware, we focus on the development of various sensor devices.",
+            "In addition to biometrics, we are also involved in the development and application of advanced AI systems for image processing. We have extensive experience in neural network acceleration and other optimizations for the use of artificial intelligence in embedded and IoT systems. In the past, we have also worked on robotics-related topics, which we have gradually reduced in order to fully concentrate on our main research areas."
+        ],
+        "research_interests": [
+            "biometric systems",
+            "security",
+            "image and video processing",
+            "embedded systems",
+            "police and military applications",
+            "smart sensors",
+            "AI solutions for embedded and IoT systems"
+        ],
+        "biometric_systems_laboratory": [
+            "For biometrics research, our lab is equipped with a wide range of devices, including fingerprint sensors, facial recognition systems, iris scanners, and many other sensors. In the lab, we focus on both testing new devices and developing algorithms for spoof and liveness detection. In 2024, the lab's computing technology has been upgraded to increase our technical capabilities for new research, including in the field of AI."
+        ],
+        "information": [
+            "STRaDe FIT BUT, Tomas Goldmann, Bozetechova 2, 612 00, Brno, Czech Republic"
+        ],
+        "overview": [
+            "The STRaDe research group is part of the Department of Intelligent Systems at the Faculty of Information Technology, Brno University of Technology. Our main focus is on the research and development of security technologies, including both software and hardware. A key area of our research is biometrics, where we specialize in a wide range of technologies such as fingerprint, iris, and retina scanning and recognition, 3D face and hand recognition, vein recognition, and liveness detection of biometric elements. In hardware, we focus on the development of various sensor devices.",
+            "In addition to biometrics, we are also involved in the development and application of advanced AI systems for image processing. We have extensive experience in neural network acceleration and other optimizations for the use of artificial intelligence in embedded and IoT systems. In the past, we have also worked on robotics-related topics, which we have gradually reduced in order to fully concentrate on our main research areas."
+        ]
+    },
+    "team": {
+        "chairman_of_workgroup": [
+            {
+                "name": "Goldmann Tomas, Ing., Ph.D.",
+                "position": "Chairman of Workgroup"
+            }
+        ],
+        "deputy_head": [
+            {
+                "name": "Orsag Filip, Ing., Ph.D.",
+                "position": "Deputy Head"
+            }
+        ],
+        "member": [
+            {
+                "name": "Kavetskyi Andrii",
+                "position": "Member"
+            },
+            {
+                "name": "Malinka Kamil, doc. Mgr., Ph.D.",
+                "position": "Member",
+                "notes": [
+                    "IT Security and Cryptography",
+                    "Usable security",
+                    "Deepfakes and its security impacts",
+                    "Privacy and anonymity systems",
+                    "Blockchain"
+                ]
+            },
+            {
+                "name": "Plesko Filip, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Rydlo Stepan, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Sakin Martin, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Semerad Lukas, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Simun Samuel, Bc.",
+                "position": "Member"
+            },
+            {
+                "name": "Tinka Jan, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Viskupic Matej, Ing.",
+                "position": "Member"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2020",
+            "title": "TBS-AG: Snimani biometrickych charakteristik lidske ruky",
+            "details": "TBS_CH, start: 2020-04-01, end: 2020-08-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Device for automatic scanning of eye retina",
+            "details": "TACR, Program aplikovaneho vyzkumu, experimentalniho vyvoje a inovaci GAMA (2014-2019), TG01010054, start: 2018-04-01, end: 2019-06-30, running"
+        },
+        {
+            "year": "2017",
+            "title": "Tools and methods for video and image processing to improve effectivity of rescue and security services operations",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020068, start: 2017-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Features extraction from eye retina and their analysis",
+            "details": "MZP, Ostatni projekty, start: 2016-09-01, end: 2017-04-30, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Microscopic analysis of botanic samples and their preparation for e-learning",
+            "details": "MZP, Ostatni projekty, start: 2016-09-01, end: 2017-04-30, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Monitoring the Internet of things wireless networks for security reseasons",
+            "details": "CESNET, start: 2016-07-01, end: 2017-06-30, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Control of intelligent household",
+            "details": "MZP, Ostatni projekty, start: 2015-09-01, end: 2016-04-30, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Innovation voucher of Zlinsky region - INVELECT",
+            "details": "KUZK, InVo INVELECT 2014, start: 2014-05-14, end: 2015-03-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Innovation voucher of Zlinsky region - SychrovNet",
+            "details": "NS, Prime kontrakty - smluvni vyzkum, neverejne zdroje, InVo SychrovNet 2014, start: 2014-01-01, end: 2015-03-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "New solutions for multimodal biometrics - enhancement of security and reliability of biometric technologies",
+            "details": "MSMT, COST CZ (2011-2017), LD14013, start: 2014-04-01, end: 2016-02-29, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Innovation of laboratory of chips security analysis",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR1239/2013/Aa, start: 2013-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Innovation voucher - Touchless Biometric Systems s.r.o.",
+            "details": "TBS_CZ, 08072013-01, start: 2013-07-08, end: 2013-08-10, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Innovation voucher JIC - ELKO EP",
+            "details": "ELKO, start: 2013-07-08, end: 2014-08-10, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Innovation voucher of Zlinsky region UnArtel",
+            "details": "NS, Prime kontrakty - smluvni vyzkum, neverejne zdroje, InVo UnArtel 2013, start: 2013-04-01, end: 2014-03-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Device for acquirement and recognition of eye iris and eye retina",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED3.1.00/13.0271, start: 2012-01-01, end: 2015-06-30, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Fakultni nemocnice u sv. Anny v Brne - Mezinarodni centrum klinickeho vyzkumu (FNUSA-ICRC)",
+            "details": "EU, OP VAVPI - Oblast podpory 4.1 \u2013 Infrastruktura pro vyuku na vysokych skolach spojenou s vyzkumem, CZ.1.05/1.1.00/02.0123, start: 2012-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Innovation voucher JIC - ADAPTIVITY",
+            "details": "Adaptivity, JIC-InVo-ADAPTIVITY-2012, start: 2012-09-19, end: 2013-06-01, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Innovation voucher JIC - FreeTel",
+            "details": "FreeTel, 2012-05-001, start: 2012-09-14, end: 2013-06-01, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Intelligent assistance systems: multisensor processing and reliability analysis",
+            "details": "NATO, CBP.EAP.CLG 984, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Recognition of persons and their behaviour in intelligent households",
+            "details": "OVZ, Ostatni verejne zdroje financovani nepatrici do institucionalnich zdroju CR, AKTION-FHV, start: 2012-07-01, end: 2013-07-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Innovation voucher JIC - GINA Software",
+            "details": "NS, Prime kontrakty - smluvni vyzkum, neverejne zdroje, JIC-InVo-GINA-2011, start: 2011-07-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Inovacni voucher JIC - TBS Deutschland AG",
+            "details": "NS, Prime kontrakty - smluvni vyzkum, neverejne zdroje, JIC-InVo-TBS-2011, start: 2011-07-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "SPAce exploration Research for Throatable Advanced eNgine (SPARTAN)",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, 7E11027-fit, start: 2011-02-01, end: 2013-02-28, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Robot for search of human beings in incrushes and avalanches",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102014024, start: 2010-10-01, end: 2014-07-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Tools and Methods for Video and Image Processing for the Fight against Terrorism",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015006, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Use of authentication-security technologies for automation and enhancement of efectivity by selected processes in monitoring of object's state and movement",
+            "details": "Inkubator VUT, JIC-InVo-Siemens-2010, start: 2010-03-01, end: 2010-09-30, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Adjustment of algorithms for 3D fingerprints",
+            "details": "TBS-BL-2009, start: 2009-11-01, end: 2010-01-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Education of liveness testing in subject Biometric systems",
+            "details": "FR2525/2009/G1, start: 2009-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Finger veins recognition",
+            "details": "VEPA20092010, start: 2009-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Multimedial and wireless extension intelligent electroinstallation INELS",
+            "details": "MPO, TIP, FR-TI1/392, start: 2009-03-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Research and development of technologies for intelligent optical tracking systems",
+            "details": "MPO, TIP, FR-TI1/195, start: 2009-03-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "TeamIT - Building Competitive Research Teams in IT",
+            "details": "MSMT, Operacni program Vzdelavani pro konkurenceschopnost, EE2.3.09.0067, start: 2009-09-01, end: 2012-08-31, completed"
+        },
+        {
+            "year": "2009",
+            "title": "Testing of the sensor TST-Biometrics BiRD 3",
+            "details": "TST-2009-FIT, start: 2009-08-01, end: 2009-10-28, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Ground Truth Database for Finger Minutiae Data",
+            "details": "BKA, GTD, start: 2008-08-01, end: 2013-07-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Idex project",
+            "details": "IDEX, start: 2008-09-01, end: 2009-08-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Trusted Revocable Biometric Identities",
+            "details": "EU-7FP-ICT, TURBINE, start: 2008-02-01, end: 2011-01-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2026",
+            "details": "RYDLO, S.; ORSAG, F.; GOLDMANN, T.; KOLAR, D. Finger Vein Identification Using Pretrained Feature Matching Networks. IEEE Access, 2026, no. VOLUME 14, 2026, p. 23814-23823. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "PLESKO, F.; GOLDMANN, T.; MALINKA, K. Reconstruction and enhancement techniques for overcoming occlusion in facial recognition. EURASIP Journal on Image and Video Processing, 2025, vol. 2025, no. 1, p. 1-21. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "STEPHENSON, K.; TSE, T.; HWANG, J.; KAVETSKYI, A.; DHANJI, S.; KOLAWOLE, O.; PAKZAD-VAEZI, K.; MAMMO, Z.; GREGORY-EVANS, K.; GREGORY-EVANS, C.; JU, J. Quantitative Choroidal Analysis of Molecularly Characterized Retinitis Pigmentosa. Investigative ophthalmology & visual science, 2025, vol. 66, no. 9, 10 p. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "POLANECKA, A.; NOVACKOVA, K.; BALAZ, T.; RYDLO, S.; KOLAR, D. Detection of Laser Beams Aimed at Aircraft in Flight. In 2024 New Trends in Civil Aviation (NTCA). Praha: Institute of Electrical and Electronics Engineers, 2024. p. 119-124. ISBN: 978-80-01-07182-3. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "URBANOVA, P.; GOLDMANN, T.; CERNY, D.; DRAHANSKY, M. Head Poses and Grimaces: Challenges for automated face identification algorithms?. SCIENCE & JUSTICE, 2024, vol. 64, no. 4, p. 421-442. ISSN: 1355-0306. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "PLESKO, F.; GOLDMANN, T.; MALINKA, K. Facial Image Reconstruction and its Influence to Face Recognition. 2023 International Conference of the Biometrics Special Interest Group (BIOSIG). Darmstadt: Society for Informatics, 2023. p. 1-4. ISBN: 979-8-3503-3655-9. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "SCHWARZ, M.; KANICH, O.; BERKA, M.; HAVLOVICOVA, M.; DRAHANSKY, M. Dermatoglyphic Patterns in Monozygotic Twins with Zimmermann-Laband Syndrome. Journal of Forensic Identification, 2023, vol. 73, no. 1, p. 3-13. ISSN: 0895-173X. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "KANICH, O.; MATEJKA, J.; FIALOVA, E.; PETROVA KAFKOVA, M.; DOSEDEL, T.; DRAHANSKY, M. Technological, legal and sociological summary of biometric technology usage. ScienceOpen Research, 2022, vol. 2022, no. 12, p. 1-7. ISSN: 2199-1006. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "KAUBA, C.; DRAHANSKY, M.; NOVAKOVA, M.; UHL, A.; RYDLO, S. State-of-the-Art in 3D Finger Vein Recognition and a NovelMirror-Based 3D Finger Vein Imaging Device. Journal of Imaging, 2022, vol. 2022, no. 8, p. 1-25. ISSN: 2313-433X. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "LA CAVA, S.; ORR, G.; GOLDMANN, T.; DRAHANSKY, M.; MARCIALIS, G. 3D Face Reconstruction for Forensic Recognition - A Survey. In 2022 26th International Conference on Pattern Recognition (ICPR). Manhattan, New York: 2022. p. 930-937. ISBN: 978-1-6654-9062-7. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "BISWAS, S.; ROHDIN, J.; BISWAS, A.; DRAHANSKY, M. A Study of Bilateral Symmetry in Color Fundus Photographs. IEEE Access, 2021, vol. 2021, no. 9, p. 109624-109651. ISSN: 2169-3536. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "BISWAS, S.; ROHDIN, J.; KAVETSKYI, A.; ALVES SARAIVA, G.; BISWAS, A.; DRAHANSKY, M. Investigation of Bilateral Similarity in Central Retinal Blood Vessels. IEEE Access, 2021, vol. 2021, no. 9, p. 63012-63028. ISSN: 2169-3536. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "DRAHANSKY, M. Vyuziti podvrhu biometrickych charakteristik v praxi. In Porada V., Rais K.: Pravni, kriminalisticke a kyberneticke aspekty kyberneticke kriminality a bezpecnosti. Brno: Akademicke nakladatelstvi CERM sro., 2021. s. 333-345. ISBN: 978-80-7623-065-1. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "DVORAK, M.; DRAHANSKY, M.; ABDULLA BARAZANCHI, W. On the fly biometric identification system using hand-geometry. IET Biometrics, 2021, vol. 10, no. 3, p. 315-325. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "DVORAK, M.; KANICH, O.; DRAHANSKY, M. Scalable Imaging Device Using Line Scan Camera for use in Biometric Recognition and Medical Imaging. In Proceedings of the 14th International Joint Conference on Biomedical Engineering Systems and Technologies. Lisboa: Institute for Systems and Technologies of Information, Control and Communication, 2021. p. 160-168. ISBN: 978-989-758-490-9. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "DYK, T.; DRAHANSKY, M. Tank Barrel Scanning Device. In Proceedings of the 8th International Conference on Military Technologies 2021. Brno: IEEE Computer Society, 2021. p. 1-4. ISBN: 978-1-6654-3724-0. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "GOLDMANN, T.; DRAHANSKY, M. Generating Face Image Dataset Using a 3D Head Model. In 2021 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2). Rajshahi: Institute of Electrical and Electronics Engineers, 2021. p. 1-4. ISBN: 978-1-6654-0638-3. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "SCHWARZ, M.; RYBA, L.; KREPELOVA, A.; MOSLEROVA, V.; ZELINOVA, M.; TURNOVEC, M.; MARTINKOVA, J.; KRATOCHVILOVA, L.; DRAHANSKY, M.; MACEK, M.; HAVLOVICOVA, M. Zimmermann-Laband syndrome in monozygotic twins with a mild neurobehavioral phenotype lacking gingival overgrowth-A case report of a novel KCNN3 gene variant. AMERICAN JOURNAL OF MEDICAL GENETICS PART A, 2021, vol. 2021, no. 12, p. 1-5. ISSN: 1552-4833. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "SEMERAD, L.; DRAHANSKY, M. Retina Recognition Using Crossings and Bifurcations. In Applications of Pattern Recognition. London: InTech - Open Access Publisher, 2021. p. 77-94. ISBN: 978-1-78985-332-2. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "BISWAS, S.; ROHDIN, J.; DRAHANSKY, M. Bilateral Symmetry in Central Retinal Blood Vessels. In 8th International Workshop on Biometrics and Forensics, IWBF 2020. Porto: IEEE Computer Society, 2020. p. 1-6. ISBN: 978-1-7281-6232-4. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "BISWAS, S.; ROHDIN, J.; DRAHANSKY, M. Interretinal Symmetry in Color Fundus Photographs. In Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS. Montreal: IEEE Computer Society, 2020. p. 1980-1983. ISBN: 978-1-7281-1990-8. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "BISWAS, S.; ROHDIN, J.; KAVETSKYI, A.; DRAHANSKY, M. Grading Quality of Color Retinal Images to Assist Fundus Camera Operators. In Proceedings of the IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS). Rochester: IEEE Computer Society Press, 2020. p. 77-82. ISBN: 978-1-7281-9429-5. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "DRAHANSKY, M.; MACEK, I.; GOLDMANN, T. Monitoring of visitors in museum exhibitions. Journal of the National Museum. Natural History Series. Narodni muzeum EG EF, 2020, vol. 2020, no. 189, p. 155-162. ISSN: 1802-6850. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "PERNICKY, R.; DRAHANSKY, M.; KANICH, O. Vyzkum falzifikatu otisku prstu na ruznych nosicich. Kriminalisticky sbornik, 2020, roc. 2020, c. 5, s. 54-58. ISSN: 1453-259X. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BALAZ, T.; KREJCI, J.; SVEC, M.; DRAHANSKY, M. UAV Range Measurement by Impulse Laser Rangefinder. In Proceedings of the 7th International Conference on Military Technologies 2019. Brno: IEEE Computer Society, 2019. p. 1-7. ISBN: 978-1-7281-4593-8. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BISWAS, S.; ROHDIN, J.; DRAHANSKY, M. Suitable Embedding to Find Similarity Between Left and Right Retinas of a Person. In Proceedings of the 12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics. Suzhou: IEEE Computer Society, 2019. p. 1-6. ISBN: 978-1-7281-4852-6. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BISWAS, S.; ROHDIN, J.; DRAHANSKY, M. Synthetic Retinal Images from Unconditional GANs. In Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Berlin: IEEE Computer Society, 2019. p. 2736-2739. ISBN: 978-1-5386-1311-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "BISWAS, S.; ROHDIN, J.; MNUK, T.; DRAHANSKY, M. Is There Any Similarity Between a Person's Left and Right Retina?. In Proceedings of the 18th International Conference of the Biometrics Special Interest Group. Lecture Notes in Informatics. Darmstadt: GI - Group for computer science, 2019. p. 71-82. ISBN: 978-3-88579-690-9. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "DRAHANSKY, M. Foto-Fahndung mit 3D-Modellen. Koln: 2019. s. 1 (1 s.). Detail"
+        },
+        {
+            "year": "2019",
+            "details": "DRAHANSKY, M.; KANICH, O. Influence of Skin Diseases on Fingerprints. In Biometrics under Biomedical Considerations. Singapore: Springer Nature Singapore, 2019. p. 1-39. ISBN: 978-981-1311-44-4. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "DVORAK, M.; DRAHANSKY, M.; ABDULLA BARAZANCHI, W. On-the-fly fingerprint acquisition method. Materials Science and Engineering. Praha: Asia Society of Researchers, 2019. p. 1-6. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "KANICH, O.; KOSTAK, D.; DRAHANSKY, M. Psoriasis Damage Simulation into Synthetic Fingerprint. In Proceedings 18th International Conference of the Biometrics Special Interest Group. Lecture Notes in Informatics. Darmstadt: GI - Group for computer science, 2019. p. 205-212. ISBN: 978-3-88579-690-9. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MALCIK, D.; DRAHANSKY, M. Improving The Physical Security Of Microchips Against Side-Channel Attacks. International Journal of Advanced Science and Technology, 2019, vol. 2019, no. 127, p. 13-24. ISSN: 2207-6360. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "MALCIK, D.; DRAHANSKY, M. Improving the Physical Security of Microchips. International Journal of Security and Its Applications, 2019, vol. 13, no. 3, p. 17-28. ISSN: 2207-9629. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "SEMERAD, L.; DRAHANSKY, M. Retinal Vascular Characteristics. In Handbook of Vascular Biometrics. Advances in Computer Vision and Pattern Recognition. Londyn: Springer International Publishing, 2019. p. 309-354. ISBN: 978-3-030-27730-7. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "CHARVAT, M.; DRAHANSKY, M. Detecting and Locating People Using Low-Cost Thermal Imaging Camera. Beitrage zum Usability Day XVI - Assistenztechnologien in der Arbeitswelt. Dornbirn: Pabst Science Publishers, 2018. p. 41-51. ISBN: 978-3-95853-405-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "DRAHANSKY, M. Hand-Based Biometrics: Methods and Technology. London: The Institution of Engineering and Technology, 2018. 430 p. ISBN: 978-1-78561-224-4. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "DRAHANSKY, M. Recognition of Eye Characteristics. In Machine Learning and Biometrics. London: InTech - Open Access Publisher, 2018. p. 7-35. ISBN: 978-1-78923-590-6. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "DRAHANSKY, M. Tajemstvi biometrie 2 - Rozpoznavani obliceje. Blesk, 2018, roc. 63, c. 7, s. 18-19. ISSN: 1213-8991. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "DRAHANSKY, M. Tajemstvi biometrie 3 - Duhovka a sitnice. Blesk, 2018, roc. 63, c. 12, s. 40-41. ISSN: 1213-8991. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "DRAHANSKY, M. Tajemstvi biometrie 4 - Lidska ruka. Blesk, 2018, roc. 63, c. 18, s. 48-49. ISSN: 1213-8991. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "DRAHANSKY, M.; KANICH, O.; DVORAK, M. Spoofing methods in hand-based biometrics. In Hand-Based Biometrics: Methods and Technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 367-398. ISBN: 978-1-78561-224-4. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "DRAHANSKY, M.; YANUSHKEVICH, S. General introduction. In Hand-Based Biometrics: Methods and technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 1-17. ISBN: 978-1-78561-224-4. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "DVORAK, M.; DRAHANSKY, M. 3D Hand Geometry Recognition. In Biometric-Based Physical and Cybersecurity Systems. Cham: Springer International Publishing, 2018. p. 103-123. ISBN: 978-3-319-98733-0. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "DVORAK, M.; DRAHANSKY, M. Hand shape recognition and palm-print recognition using 2D and 3D features. In Hand-Based Biometrics: Methods and Technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 283-307. ISBN: 978-1-78561-224-4. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "HAJEK, J.; DRAHANSKY, M. Recognition-Based on Eye Biometrics: Iris and Retina. In Biometric-Based Physical and Cybersecurity Systems. Cham: Springer International Publishing, 2018. p. 37-102. ISBN: 978-3-319-98733-0. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "HEIDARI, M.; DRAHANSKY, M. Detection of Ridge Discontinuities in Fingerprint Recognition Influenced by Skin Diseases. International Journal of Advanced Science and Technology, 2018, vol. 116, no. 116, p. 13-22. ISSN: 2005-4238. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "HEIDARI, M.; GOLDMANN, T.; DVORAK, M.; DRAHANSKY, M. Antispoofing and multispectral (optical) methods in hand-based biometrics. In Hand-Based Biometrics: Methods and Technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 337-365. ISBN: 978-1-78561-224-4. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "HEIDARI, M.; KANICH, O.; DRAHANSKY, M. Processing of fingerprints influenced by skin diseases. In Hand-Based Biometrics: Methods and Technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 135-168. ISBN: 978-1-78561-224-4. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KANICH, O. Research in Fingerprint Damage Simulations. Brno: Brno University of Technology, 2018. p. 1-148. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KANICH, O.; DRAHANSKY, M. State of the art in fingerprint recognition. In Hand-Based Biometrics: Methods and Technology. IET Book Series on Advances in Biometrics. London: The Institution of Engineering and Technology, 2018. p. 83-110. ISBN: 978-1-78561-224-4. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KANICH, O.; MEZL, M.; DRAHANSKY, M. Use of Creative Materials for Fingerprint Spoofs. In 2018 International Workshop on Biometrics and Forensics (IWBF). Sassari: Institute of Electrical and Electronics Engineers, 2018. p. 1-8. ISBN: 978-1-5386-1366-5. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "KOSTIALIK, D.; MARUNIAK, L.; DRAHANSKY, M. Symptoms Detection in Eye Retina Image. In 2017 IEEE Symposium Series on Computational Intelligence. Hawaii: IEEE Computer Society, 2018. p. 1-6. ISBN: 978-1-5386-2725-9. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "LAI, K.; KANICH, O.; DVORAK, M.; DRAHANSKY, M.; YANUSHKEVICH, S.; SHMERKO, V. Biometric-Enabled Watchlists Technology. IET Biometrics, 2018, vol. 7, no. 2, p. 163-172. ISSN: 2047-4938. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "BAROTOVA, S.; DRAHANSKY, M. Fingerprint Damage Localizer and Detector of Skin Diseases from Fingerprint Images. In Proceedings of the 16th International Conference of the Biometrics Special Interest Group. Lecture Notes in Informatics P-270. Darmstadt: Springer Verlag, 2017. p. 267-274. ISBN: 978-3-88579-664-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "DRAHANSKY, M. Bezpecnost biometrickych systemov. PC Revue, 2017, roc. 2017, c. 5, s. 96-99. ISSN: 1335-0226. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "DRAHANSKY, M.; KANICH, O.; BREZINOVA, E. Challenges for fingerprint recognition - spoofing, skin diseases and environmental effects. In Handbook of Biometrics for Forensic Science. Advances in Computer Vision and Pattern Recognition. Cham: Springer Verlag, 2017. p. 63-83. ISBN: 978-3-319-50671-5. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "DRAHANSKY, M.; MEISTER, T.; NEZHYBA, O. Sicherheit fur intelligente Hauser. Beitrage zum Usability Day XV - Umgebungsunterstutztes Leben. Dornbirn: Pabst Science Publishers, 2017. s. 64-69. ISBN: 978-3-95853-316-5. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "DRAHANSKY, M.; PERNICKY, R.; KANICH, O.; BAROTOVA, S. Verarbeitung von beschadigten Fingerabdrucken in der polizeilichen Praxis. DuD - Datenschutz und Datensicherheit, 2017, roc. 41, c. 7, s. 407-414. ISSN: 1614-0702. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "DRAHANSKY, M.; SPURNY, M.; GOLDMANN, T. Gesichtsdetektion und -erkennung in Videos aus offentlichen Kamerasystemen. DuD - Datenschutz und Datensicherheit, 2017, roc. 41, c. 7, s. 415-421. ISSN: 1614-0702. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "DVORAK, M.; DRAHANSKY, M. Security of Hand Geometry. Proceedings of Conference SPI 2017. Brno: University of Defence in Brno, 2017. p. 17-29. ISBN: 978-80-7231-414-0. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "DVORAK, M.; DRAHANSKY, M.; KEMPTER, G.; MOHELNIKOVA, J.; LUZA, R.; RITTER, W.; KUNZ, A. Usability and Quality of Light Sources for Households. Beitrage zum Usability Day XV - Umgebungsunterstutztes Leben. Dornbirn: Pabst Science Publishers, 2017. p. 125-133. ISBN: 978-3-95853-316-5. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "KANICH, O.; DRAHANSKY, M. Simulation of Synthetic Fingerprint Generation Using Petri Nets. IET Biometrics, 2017, vol. 6, no. 6, p. 402-408. ISSN: 2047-4938. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "LUZA, R.; ORSAG, F.; DRAHANSKY, M.; ROZMAN, J. Robot RUDA - Introduction and Current Research. Central European Researchers Journal, 2017, vol. 3, no. 1, p. 1-8. ISSN: 2453-7314. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "BAROTOVA, S.; DRAHANSKY, M.; PERNICKY, R. Detection of Ridge Damages in Fingerprint Recognition Caused by Skin Diseases. International Journal of Signal Processing, Image Processing and Pattern Recognition, 2016, vol. 9, no. 11, p. 125-146. ISSN: 2005-4254. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "BARTA, M.; DRAHANSKY, M. Generation of Skin Diseases into Synthetic Fingerprints. International Journal of Image Processing, 2016, vol. 10, no. 5, p. 229-248. ISSN: 1985-2304. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "DRAHANSKY, M.; KANICH, O.; BREZINOVA, E.; SHINODA, K. Experiments with optical properties of skin on fingers. Journal on Systemics, Cybernetics and Informatics, 2016, vol. 2016, no. 2, p. 37-46. ISSN: 2168-5053. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "EASTWOOD, S.; SHMERKO, V.; YANUSHKEVICH, S.; DRAHANSKY, M.; GORODNICHY, D. Biometric-Enabled Authentication Machines: A Survey of Open-Set Real-World Applications. IEEE Transactions on Human-Machine Systems, 2016, vol. 46, no. 2, p. 231-242. ISSN: 2168-2291. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "KANICH, O.; DRAHANSKY, M. Currently Used Swipe Fingerprint Sensors. International Journal of Bio-Science and Bio-Technology, 2016, vol. 8, no. 1, p. 381-386. ISSN: 2233-7849. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "MALCIK, D.; DRAHANSKY, M. Microscopic Analysis of Chips. International Journal of Security and Its Applications, 2016, vol. 2016, no. 11, p. 47-66. ISSN: 1738-9976. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "PACURA, D.; DRAHANSKY, M. CUDA Accelerated Real-time Digital Image Stabilization in a Video Stream. International Journal of Software Engineering and Its Applications, 2016, vol. 10, no. 6, p. 113-124. ISSN: 1738-9984. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "YANUSHKEVICH, S.; EASTWOOD, S.; DRAHANSKY, M.; SHMERKO, V. Understanding and taxonomy of uncertainty in modeling, simulation, and risk profiling for border control automation. Journal of Defense Modeling and Simulation-Applications Methodology Technology-JDMS, 2016, vol. 15, no. 1, p. 95-109. ISSN: 1548-5129. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "DRAHANSKY, M.; HANACEK, P.; ZBORIL, F.; HENZL, M.; ZBORIL, F.; YIM, J.; SHIM, K. Cryptomodules in Wireless Networks using Biometric Authentication: Securing Nodes in Wireless Networks. In Improving Information Security Practices through Computational Intelligence. Washington: IGI Global, 2015. p. 198-227. ISBN: 978-1-4666-9426-2. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "DRAHANSKY, M.; KANICH, O. Vulnerabilities of Biometric Systems. Security and Protection of Information 2015. Brno: University of Defence in Brno, 2015. p. 53-60. ISBN: 978-80-7231-997-8. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "DRAHANSKY, M.; KOLAR, R.; MNUK, T. Elektronicke zarizeni pro snimani obrazu sitnice a duhovky oka. Ceska a slovenska oftalmologie, 2015, roc. 71, c. 6, s. 302-308. ISSN: 1211-9059. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "HAJEK, J.; DRAHANSKY, M.; KOLAR, R.; ODSTRCILIK, J.; BOROVSKY, J. Bimodal eye imaging system. In Signal-Image Technology and Internet-Based Systems. Bangkok: Institute of Electrical and Electronics Engineers, 2015. p. 572-575. ISBN: 978-1-4673-9721-6. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "KOLAR, R.; SEMERAD, L.; DRAHANSKY, M.; ODSTRCILIK, J.; HAJEK, J.; BOROVSKY, J. Bimodal Eye Imaging System for Biometric and Medical Applications. Security and Protection of Information 2015. Brno: University of Defence in Brno, 2015. p. 83-95. ISBN: 978-80-7231-997-8. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "MRACEK, S.; DVORAK, R.; VANA, J.; NOVOTNY, T.; DRAHANSKY, M. 3D Face Recognition Utilizing a Low-Cost Depth Sensor. 11th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2015). Ljubljana: 2015. p. 1 (1 s.). ISBN: 978-1-4799-6026-2. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "SEMERAD, L.; DRAHANSKY, M. Biometric entropy of retina. In Proceedings of Information and Digital Technologies 2015. Zilina: University of Zilina, 2015. p. 291-293. ISBN: 978-1-4673-7185-8. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "SPURNY, J.; KANICH, O.; DRAHANSKY, M.; DOLEZEL, M.; SHINODA, K. New materials for spoofing touch-based fingerprint scanners. In Proceedings of International Conference on Computer Application Technologies 2015. Matsue: IEEE Computer Society, 2015. p. 207-211. ISBN: 978-1-4673-8211-3. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "SVOBODA, J.; BRONSTEIN, M.; DRAHANSKY, M. Contactless biometric hand geometry recognition using a low-cost 3D camera. In Proceedings 2015 International Conference on Biometrics. Phuket: IEEE Biometric Council, 2015. p. 452-457. ISBN: 978-1-4799-7824-3. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "YANUSHKEVICH, S.; EASTWOOD, S.; MANDERSON, T.; SAMOIL, S.; DRAHANSKY, M.; SHMERKO, V. Taxonomy and Modeling of Impersonation in e-Border Authentication. In Proceedings of EST 2015. Braunschweig: Technische Universitat Braunschweig, 2015. p. 1-6. ISBN: 978-1-61208-427-5. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "EASTWOOD, S.; SHMERKO, V.; YANUSHKEVICH, S.; DRAHANSKY, M. Biometric Intelligence in Authentication Machines: From Talking Faces to Talking Robots. In Proceedings of IIAI 3rd International Conference on Advanced Applied Informatics. Kitakyushu: IEEE Computer Society, 2014. p. 763-768. ISBN: 978-1-4799-4174-2. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HAJEK, J.; DOLEZEL, M.; DRAHANSKY, M. Biometric device for retina and iris recognition in intelligent houses. Beitrage zum Usability Day XII Assistenztechnik fur betreutes Wohnen. Dornbirn: University of Applied Sciences Vorarlberg, 2014. p. 143-147. ISBN: 978-3-89967-943-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "HAJEK, J.; DRAHANSKY, M.; KOLAR, R. Experimental ophthalmic multimodal imaging system for iris and retina. In Proceedings of IIAI 3rd International Conference on Advanced Applied Informatics. Kitakyushu: IEEE Computer Society, 2014. p. 676-679. ISBN: 978-1-4799-4174-2. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KANICH, O. Fingerprint Damage Simulation. Saarbrucken: Lambert Academic Publishing, 2014. 68 p. ISBN: 978-3-659-63942-5. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "KUPKOVA, K. EEG for Biometric Verification. Proceedings of the 20th Conference STUDENT EEICT 2014. Volume 3. Brno: Brno University of Technology, 2014. p. 298-302. ISBN: 978-80-214-4924-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MRACEK, S.; DRAHANSKY, M.; DVORAK, R.; PROVAZNIK, V.; VANA, J. 3D Face Recognition on Low-Cost Depth Sensors. In Proceedings of the International Conference of Biometrics Special Interest Group (BIOSIG 2014). GI-Edition. Proceedings. Darmstadt: GI - Group for computer science, 2014. no. 230, p. 195-202. ISBN: 978-3-88579-624-4. ISSN: 1617-5468. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "MRACEK, S.; VANA, J.; KUPKOVA, K.; DRAHANSKY, M.; DOLEZEL, M. 3D face recognition based on the hierarchical score-level fusion classifiers. In Proceedings of Biometric and Surveillance Technology for Human and Activity Identification XI, Vol. 9075. Baltimore: SPIE - the international society for optics and photonics, 2014. p. 1-12. ISBN: 978-1-62841-012-9. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "ORSAG, F.; DRAHANSKY, M. Construction of a Rescue Robot: Robotic Arm Module. Applied Mechanics and Materials, 2014, vol. 2014, no. 613, p. 139-143. ISSN: 1662-7482. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DOLEZEL, M.; DRAHANSKY, M.; URBANEK, J. Einfluss von Hauterkrankungen auf den biometrischen Erkennungsprozess. DuD - Datenschutz und Datensicherheit, 2013, roc. 2013, c. 06, s. 358-362. ISSN: 1614-0702. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DRAHANSKY, M.; DOLEZEL, M.; VANA, J.; BREZINOVA, E.; YIM, J.; SHIM, K. New Optical Methods for Liveness Detection on Fingers. Biomed Research International, 2013, vol. 2013, no. 9, p. 1-11. ISSN: 2314-6133. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DRAHANSKY, M.; HANACEK, P.; ZBORIL, F.; ZBORIL, F.; BARABAS, M.; ANTAL, L. Threats in Networks using Agent and Biometric Systems. International Journal of Bio-Science and Bio-Technology, 2013, vol. 5, no. 3, p. 119-133. ISSN: 2233-7849. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HAJEK, J.; DRAHANSKY, M.; DROZD, R. Extraction of Retina Features Based on Position of the Blood Vessel Bifurcation. Journal of Medical Research and Development, 2013, vol. 2, no. 3, p. 55-59. ISSN: 2303-9345. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HERMAN, D.; ORSAG, F. Development of Algorithms of the Foreground Objects Effects Compensation for the Passive Optoelectronic Rangefinder. Proceedings of the IASTED International Conference Modelling, Identification and Control (MIC 2013). Innsbruck: ACTA Press, 2013. p. 240-247. ISBN: 978-0-88986-943-1. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "HERMAN, D.; ORSAG, F. Exploring k-PSO Algorithm for Clustering. Proceedings of the IASTED International Conference Artificial Intelligence and Applications (AIA 2013). Innsbruck: ACTA Press, 2013. p. 161-168. ISBN: 978-0-88986-943-1. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "NAHHAS, I. A New Algorithm for Fast Block-Matching Motion Estimation Based on Four-Neighborhood Blocks. Processing of EEICT 2013. Brno: Faculty of Electrical Engineering and Computing, University of Zagreb, 2013. p. 1-6. ISBN: 978-80-214-4695-3. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "NAHHAS, I.; DRAHANSKY, M. Analysis of Block Matching Algorithms with Fast Computational and Winner-update Strategies. International Journal of Signal Processing, Image Processing and Pattern Recognition, 2013, vol. 6, no. 3, p. 129-137. ISSN: 2005-4254. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "POURSABERI, A.; VANA, J.; MRACEK, S.; DVORAK, R.; YANUSHKEVICH, S.; DRAHANSKY, M.; SHMERKO, V.; GAVRILOVA, M. Facial biometrics for situational awareness systems. IET Biometrics, 2013, vol. 2, no. 2, p. 35-47. ISSN: 2047-4938. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "SVOBODA, J.; KLUBAL, O.; DRAHANSKY, M. Biometric Recognition of People by 3D Hand Geometry. In Proceedings of 9th International Conference on Digital Technologies 2013. Zilina: IEEE Computer Society, 2013. p. 173-177. ISBN: 978-80-554-0682-4. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DLUHOS, O.; DVORAK, R.; VANA, J.; DRAHANSKY, M. Hand Surface as Biometric Identifier. Advanced Science and Technology Letters, Volume 4, 2012, vol. 8, no. 7, p. 351-356. ISSN: 2287-1233. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DOLEZEL, M.; DRAHANSKY, M.; URBANEK, J.; BREZINOVA, E.; KIM, T. Influence of Skin Diseases on Fingerprint Quality and Recognition. In New Trends and Developments in Biometrics. Rijeka: InTech - Open Access Publisher, 2012. p. 275-303. ISBN: 9789535108597. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DRAHANSKY, M.; DOLEZEL, M.; URBANEK, J.; BREZINOVA, E.; KIM, T. Influence of Skin Diseases on Fingerprint Recognition. JOURNAL OF BIOMEDICINE AND BIOTECHNOLOGY, 2012, vol. 2012, no. 4, p. 1-14. ISSN: 1110-7243. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "DROZD, R.; HAJEK, J.; DRAHANSKY, M. An algorithm for retina features extraction based on position of the blood vessel bifurcations. In Biometric Recognition. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Guangzhou: Springer London, 2012. no. 7701, p. 308-315. ISBN: 978-3-642-35135-8. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MALCIK, D.; DRAHANSKY, M. Anatomy of Biometric Passports. Advanced Science and Technology Letters, Volume 4, 2012, vol. 2012, no. 4, p. 258-263. ISSN: 2287-1233. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MALCIK, D.; DRAHANSKY, M. Anatomy of Biometric Passports. JOURNAL OF BIOMEDICINE AND BIOTECHNOLOGY, 2012, vol. 2012, no. 1, p. 1-8. ISSN: 1110-7243. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MALCIK, D.; DRAHANSKY, M. Microscopic Analysis of Chips: Chips deprocessing. Advanced Science and Technology Letters, Volume 4, 2012, vol. 2012, no. 7, p. 80-85. ISSN: 2287-1233. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "MRACEK, S.; VANA, J.; DVORAK, R.; DRAHANSKY, M.; YANUSHKEVICH, S. 3D and Thermo-face Recognition. In New Trends and Developments in Biometrics. Rijeka: InTech - Open Access Publisher, 2012. p. 31-58. ISBN: 9789535108597. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "NAHHAS, I.; DRAHANSKY, M. Comparison of Fast Block Matching Algorithms for Motion Estimation. Proceedings of IMC2012. Hradec Kralove: Ministry of Industry and Trade of the Czech Republic, 2012. p. 3139-3145. ISBN: 978-80-905243-3-0. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "PROCHAZKA, B.; DRAHANSKY, M.; HANACEK, P. Unos vypocetniho toku v obsluze systemovych volani na operacnim systemu Linux. IMEA 2012 Sbornik prispevku 12.rocniku doktorandske konference. Hradec Kralove: Univerzita Hradec Kralove, 2012. s. 19-24. ISBN: 978-80-7435-185-3. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "VANA, J.; MRACEK, S.; YANUSHKEVICH, S.; DRAHANSKY, M. Applying Fusion in Thermal Face Recognition. In BIOSIG 2012. GI-Edition. Proceedings. Lecture Notes in Informatics (LNI) - Proceedings. Darmstadt: Fraunhofer Institute - Graphic Data Processing Institute, 2012. no. 8, p. 233-244. ISBN: 978-3-88579-290-1. ISSN: 1617-5468. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "ZBORIL, F.; DRAHANSKY, M.; HANACEK, P.; HORACEK, J. Security in Wireless Sensor Networks with Mobile Codes. In Threats, Countermeasures, and Advances in Applied Information Security. Hershey: IGI Global, 2012. p. 411-425. ISBN: 978-1-4666-0978-5. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DRAHANSKY, M. Fingerprint Recognition Technology - Related Topics. Saarbrucken: Lambert Academic Publishing, 2011. 172 p. ISBN: 978-3-8443-3007-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DRAHANSKY, M. Liveness Detection in Biometrics. In Advanced Biometric Technologies. Rijeka: InTech - Open Access Publisher, 2011. p. 179-198. ISBN: 978-953-307-487-0. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DRAHANSKY, M.; BALITANAS, M. Cipher for Internet-based Supervisory Control and Data Acquisition Architecture. Journal of Security Engineering, 2011, vol. 8, no. 3, p. 337-348. ISSN: 1738-7531. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DRAHANSKY, M.; DVORAK, R.; VANA, J. Personenerkennung mittels 3D Handgeometrie. DuD - Datenschutz und Datensicherheit, 2011, roc. 2011, c. 3, s. 169-174. ISSN: 1614-0702. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DRAHANSKY, M.; ORSAG, F.; DVORAK, R.; HAJEK, J.; VANA, J.; HERMAN, D.; KNEZIK, J.; MARVAN, A.; LODROVA, D.; DOLEZEL, M.; HANACEK, P.; MRACEK, S.; STRUZKA, J. Biometrie. Brno: Computer Press, s.r.o, 2011. 294 s. ISBN: 978-80-254-8979-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DVORAK, R.; DRAHANSKY, M.; VANA, J. Human Recognition by 3D Hand Geometry. Proceedings of Security and Protection of Information 2011. Brno: University of Defence in Brno, 2011. p. 169-177. ISBN: 978-80-7231-777-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KUBAT, D.; DRAHANSKY, M. RF Touch for Wireless Control of Intelligent Houses. In Ubiquitous Computing and Multimedia Applications: Second International Conference, UCMA 2011. Part I, CCIS 150. Berlin: Springer Verlag, 2011. p. 206-210. ISBN: 978-3-642-20974-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "KUBAT, D.; DRAHANSKY, M. Wireless Control of Intelligent Houses. International Journal of Control and Automation, 2011, vol. 4, no. 3, p. 123-126. ISSN: 2005-4297. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MALCIK, D. Mikroskopicka analyza cipu. Proceedings of the 17th Conference STUDENT EEICT 2011. Brno: Fakulta informacnich technologii VUT v Brne, 2011. s. 306-308. ISBN: 978-80-214-4272-6. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MALCIK, D.; DRAHANSKY, M. Microscopic Analysis of Chips. In Security Technology. Communications in Computer and Information Science. Jeju, Jeju Island: Springer Verlag, 2011. p. 113-122. ISBN: 978-3-642-27188-5. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MRACEK, S. 3D Face Recognition. Saarbrucken: Lambert Academic Publishing, 2011. 81 p. ISBN: 978-3-8465-4450-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "MRACEK, S.; BUSCH, C.; DVORAK, R.; DRAHANSKY, M. Inspired by Bertillon - Recognition Based on Anatomical Features from 3D Face Scans. In Proceedings of the 3rd International Workshop on Security and Communication Networks. Gjovik: Gjovik University College, 2011. p. 53-58. ISBN: 978-82-91313-67-2. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PIVARNIK, J.; PROCHAZKA, B. Linux Keylogger. Proceedings of the 17th Conference STUDENT EEICT 2010. Volume 3. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2011. s. 1 (1 s.). ISBN: 978-80-214-4273-3. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "PROCHAZKA, B.; VOJNAR, T.; DRAHANSKY, M. Hijacking the Linux Kernel. Sixth Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS'10) -- Selected Papers. OpenAccess Series in Informatics (OASIcs). OASIcs proceedengs from MEMICS'10 papers. Dagstuhl: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, 2011. no. 2, p. 85-92. ISBN: 978-3-939897-22-4. ISSN: 2190-6807. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "VANA, J.; DRAHANSKY, M.; DVORAK, R. Thermal Face Recognition - Matching Algorithms Performance. Proceedings of the Conference Security and Protection of Information 2011. Brno: University of Defence in Brno, 2011. p. 140-149. ISBN: 978-80-7231-777-6. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BREZINOVA, E.; DRAHANSKY, M.; ORSAG, F. Dermatologic Diseases and Fingerprint Recognition. In Database Theory and Application, Bio-Science and Bio-Technology 2010. Communications in Computer and Information Science. Berlin: Springer Verlag, 2010. p. 251-257. ISBN: 978-3-642-17621-0. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "BUSCH, C.; LODROVA, D.; TABASSI, E.; GROTHER, P.; KRODEL, W.; NEUMANN, L.; RUHLAND, T.; DOLEZEL, M.; KORTE, U. Semantic Conformance Testing Methodology and intial Results for Fingeprint Minutia Encoding. In Proc. Of the International Biometric Performance Conference. Gaithersburg: National Institute of Standards and Technology, 2010. p. 1-23. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DOLEZEL, M. Detekce oblasti otisku prstu v obraze. Brno: Ustav inteligentnich systemu FIT VUT v Brne, 2010. 47 s. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DOLEZEL, M. Detekce oblasti otisku prstu v obraze. Proceedings of the 16th Conference STUDENT EEICT 2010. Volume 2. Brno: Vysoke uceni technicke v Brne, 2010. s. 106-108. ISBN: 978-80-214-4078-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DOLEZEL, M.; LODROVA, D.; BUSCH, C.; DRAHANSKY, M. Fingerprint Area Detection in Fingerprint Images Based on Enhanced Gabor Filtering. In Bio-Science and Bio-Technology 2010. Jeju Island: Springer Verlag, 2010. p. 234-240. ISBN: 978-3-642-17622-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DOLEZEL, M.; LODROVA, D.; BUSCH, C.; DRAHANSKY, M. Segmentation Procedure for Fingerprint Area Detection in Image Based on Enhanced Gabor Filtering. International Journal of Bio-Science and Bio-Technology, 2010, vol. 2010, no. 3, p. 39-50. ISSN: 1976-118X. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DRAHANSKY, M. Biometric Cryptography Based on Fingerprints. Saarbrucken: Lambert Academic Publishing, 2010. 152 p. ISBN: 978-3-8383-6361-5. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DRAHANSKY, M.; BALITANAS, M. Incentive Approach to The Active Network Privacy Threats and Vulnerabilities. Journal of Security Engineering, 2010, vol. 7, no. 6, p. 585-598. ISSN: 1738-7531. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DRAHANSKY, M.; BREZINOVA, E.; LODROVA, D.; ORSAG, F. Fingerprint Recognition Influenced by Skin Diseases. International Journal of Bio-Science and Bio-Technology, 2010, vol. 3, no. 4, p. 11-22. ISSN: 1976-118X. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DRAHANSKY, M.; BREZINOVA, E.; ORSAG, F.; LODROVA, D. Dermatologicke faktory ovlivnujici snimani otisku prstu pro biometricke ucely. Kriminalistika, 2010, roc. 43, c. 3, s. 196-206. ISSN: 1210-9150. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DRAHANSKY, M.; LODROVA, D. New Experiments with Optical Liveness Testing Methods. Journal of Information Hiding and Multimedia Signal Processing, 2010, vol. 1, no. 4, p. 301-309. ISSN: 2073-4212. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DRAHANSKY, M.; ORSAG, F.; HANACEK, P. Accelerometer Based Digital Video Stabilization for General Security Surveillance Systems. International Journal of Security and Its Applications, 2010, vol. 2010, no. 1, p. 1-10. ISSN: 1738-9976. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DRAHANSKY, M.; SEMERAK, V. Recognition of Hits in a Target. In Signal Processing and Multimedia 2010. Jeju Island: Springer Verlag, 2010. s. 30-34. ISBN: 978-3-642-17640-1. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "DVORAK, R.; LODROVA, D.; DITTRICH, P.; VANA, J.; DRAHANSKY, M. Research in the area of biometric systems - liveness detection; recognition of 3D hand, finger veins and thermofaces. World and homeland security. Brno: University of Defence in Brno, 2010. p. 143-152. ISBN: 978-80-7231-728-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "FIALA, J. The Design of Experiments for Hypothesis Testing: Multi-disciplinary Informatics Model Extension. The 2010 International Conference on Behavioral, Cognitive and Psychological Sciences, BCPS 2010 Singapore, Singapore, February 26-28, 2010 Proceedings. Singapore: Waseda University, 2010. p. 1-5. ISBN: 978-1-84626-028-5. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "HANACEK, P.; DRAHANSKY, M. Analyse sicherer Hardwarelosungen. DuD - Datenschutz und Datensicherheit, 2010, roc. 2010, c. 11, s. 766-770. ISSN: 1614-0702. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "HANACEK, P.; DRAHANSKY, M.; ORSAG, F. Angriffe auf sichere Hardwarelosungen. Die Datenschleuder, 2010, roc. 2010, c. 94, s. 12-14. ISSN: 0930-1054. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "HERMAN, D. Navigace autonomniho venkovniho mobilniho robota. Proceedings of the 16th Conference and Competition STUDENT EEICT 2010. Volume 3. Brno: Fakulta informacnich technologii VUT v Brne, 2010. s. 109-111. ISBN: 978-80-214-4078-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "HERMAN, D.; NAJVAREK, J.; ONDRACEK, T.; ORSAG, F.; DRAHANSKY, M. Robot pro Robotour 2010. Proceedings of the 5th Robotour Workshop. Bratislava: 2010. s. 33-37. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "JANKOVYCH, R.; SKVAREK, J.; DRAHANSKY, M.; HAJEK, J.; MARVAN, A.; VANA, J. Snimaci a merici zarizeni pro diagnostiku vyvrtu hlavni. Proceedings of the International Conference on Military Technologies 2010. Bratislava: Univerzita Obrany, 2010. s. 11-20. ISBN: 978-80-8075-454-9. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "KOVAROVA, A.; SZALAYOVA, L. Semantics in the field of widgets: a case study in public transportation departure notifications. In Semantics in Adaptive and Personalized Services. Studies in Computational Intelligence. Berlin: Springer Verlag, 2010. p. 93-107. ISBN: 978-3-642-11683-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "LODROVA, D.; DVORAK, R.; DRAHANSKY, M.; ORSAG, F. A New Method of Finger Veins Detection. International Journal of Bio-Science and Bio-Technology, 2010, vol. 2009, no. 4, p. 11-15. ISSN: 1976-118X. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "LODROVA, D.; DVORAK, R.; DRAHANSKY, M.; ORSAG, F. Method for Finger Veins Detection. In Analysis of Biomedical Signals and Images. Brno: Brno University of Technology, 2010. p. 240-243. ISBN: 978-80-214-4105-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "MARVAN, A.; HAJEK, J.; VANA, J.; DVORAK, R.; DRAHANSKY, M. Scanning and Measuring Device for Diagnostic of Barrel Bore. In Signal Processing and Multimedia 2010. Jeju Island: Springer Verlag, 2010. p. 24-29. ISBN: 978-3-642-17640-1. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "MRACEK, S. 3D Face Recognition. Proceedings of the 16th Conference and Competition STUDENT EEICT 2010. Brno: 2010. p. 124-126. ISBN: 978-80-214-4078-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "NOVOTNY, T. Tachometr pro sportovce. Proceedings of the 16th Conference STUDENT EEICT 2010. Volume 2. Brno: Vysoke uceni technicke v Brne, 2010. s. 41-43. ISBN: 978-80-214-4077-7. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ORSAG, F. Speaker Dependent Coefficients for Speaker Recognition. International Journal of Security and Its Applications, 2010, vol. 2010, no. 1, p. 31-47. ISSN: 1738-9976. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "ORSAG, F.; DRAHANSKY, M. Image stabilization and object tracking in a video-stream. World and homeland security. Brno: University of Defence in Brno, 2010. p. 432-439. ISBN: 978-80-7231-728-8. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "PROCHAZKA, B. An Attack on the Linux System Call. Proceedings of the 16th Conference STUDENT EEICT 2010. Volume 3. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2010. s. 130-132. ISBN: 978-80-214-4078-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "PROCHAZKA, B.; VOJNAR, T.; DRAHANSKY, M. Hijacking the Linux Kernel. MEMICS 2010 - Sixth Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2010. p. 143-150. ISBN: 978-80-87342-10-7. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "BUSCH, C.; LODROVA, D.; TABASSI, E.; KRODEL, W. Semantic Conformance Testing for Finger Minutiae Data. Proceedings of IWSCN2009. Trondheim: IEEE Computer Society, 2009. p. 17-24. ISBN: 978-82-997105-1-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M. Experiments with Fingerprint Image Quality. In Proceedings of BLISS 2009. Edinburgh: IEEE Computer Society, 2009. p. 13-17. ISBN: 978-0-7695-3754-2. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M. Realization of Experiments with Image Quality of Fingerprints. International Journal of Advanced Science and Technology, 2009, vol. 6, no. 5, p. 71-79. ISSN: 2005-4238. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; BREZINOVA, E.; ORSAG, F.; LODROVA, D. Classification of Skin Diseases and Their Impact on Fingerprint Recognition. In Proceedings of the Special Interest Group on Biometrics and Electronic Signatures. Lecture Notes in Informatics. Darmstadt: Society for Informatics, 2009. p. 173-176. ISBN: 978-3-88579-249-9. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; LODROVA, D. Televizni porad na PublicTV - Vyzkum v oblasti bezpecnosti. Brno: 2009. 1 s. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; LODROVA, D. Experiments with Optical Liveness Testing Method. In Proceedings of IIH-MSP 2009. Kyoto: IEEE Computer Society, 2009. p. 123-128. ISBN: 978-0-7695-3762-7. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; LODROVA, D.; ORSAG, F.; BREZINOVA, E. Detekce zivosti prstu. Data Security Management, 2009, roc. 13, c. 2, s. 22-26. ISSN: 1211-8737. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; MARVAN, A.; HOLENDA, S.; POPELA, R. Flight Data Wireless Digital Acquisition System. Letecky zpravodaj, 2009, vol. 2008, no. 2, p. 15-17. ISSN: 1211-877X. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; ORSAG, F. Digital Image Stabilization in a Video-Stream. Proceedings of VISAPP 2009. Lisboa: Institute for Systems and Technologies of Information, Control and Communication, 2009. p. 621-625. ISBN: 978-989-8111-74-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; ORSAG, F. Real-time video stabilisation. International Journal of Autonomic Computing, 2009, vol. 2009, no. 2, p. 202-210. ISSN: 1741-8569. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; ORSAG, F.; HANACEK, P. Securing of Communication in GSM Networks. Proceedings of NGWS2009. Melbourne: Lambert Academic Publishing, 2009. p. 30-36. ISBN: 978-3-8383-5346-3. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; ORSAG, F.; HANACEK, P. Accelerometer Based Digital Video Stabilization for Security Surveillance Systems. In Proceedings of International Conference SecTech 2009. Communications in Computer and Information Science 58. Berlin: Springer Verlag, 2009. p. 225-233. ISBN: 978-3-642-10846-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; OUJEZDSKY, T.; ORSAG, F. Shooting Emplacement with Wireless Control. Proceedings of NGWS2009. Melbourne: Science & Engineering Research Support Center, 2009. p. 21-23. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DRAHANSKY, M.; POPELA, R.; MARVAN, A.; ZIKMUND, P.; HOLENDA, S. SEDAQ - Ustredna pro sber dat ze senzoru v UAV. Sbornik prispevku 9. mezinarodni vedecke konference MDS-PSL 2009. Brno: Univerzita Obrany, 2009. s. 28-31. ISBN: 978-80-7231-670-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "DVORAK, R.; DRAHANSKY, M.; ORSAG, F. Object Surface Reconstruction from One Camera System. In Future Generation Information Technology. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2009. p. 87-94. ISBN: 978-3-642-10508-1. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "FIALA, J. Information Hypothesis: On Human Information Capability Study. Brain Informatics International Conference, BI 2009 Beijing, China, October 22-24, 2009 Proceedings. Lecture Notes in Computer Science. Lecture Notes in Computer Science, Lecture Notes in Artificial Intelligence, Vol. 5819. Peking: Springer Verlag, 2009. no. 10, p. 25-35. ISBN: 978-3-642-04953-8. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "FIALA, J. ON HUMAN INFORMATION CAPABILITIES. Proceedings of the 15th Conference STUDENT EEICT 2009, Volume 4. Brno: Dean's Office FIT BUT, 2009. p. 1-5. ISBN: 978-80-214-3870-5. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "LODROVA, D.; BUSCH, C.; TABASSI, E.; KRODEL, W.; DRAHANSKY, M. Semantic Conformance Testing Methodology for Finger Minutiae Data. In Proceedings of the Special Interest Group on Biometrics and Electronic Signatures. Lecture Notes in Informatics. Darmstadt: Society for Informatics, 2009. p. 31-42. ISBN: 978-3-88579-249-9. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "LODROVA, D.; DRAHANSKY, M. New Liveness Detection Method Based on Causation of Optical Changes. In Proceedings of IWSCN2009. Trondheim: IEEE Computer Society, 2009. p. 25-29. ISBN: 978-82-997105-1-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "LODROVA, D.; DVORAK, R.; DRAHANSKY, M.; ORSAG, F. A New Approach for Veins Detection. In Proceedings of Internation Conference BSBT 2009. Communications in Computer and Information Science 57. Berlin: Springer Verlag, 2009. p. 76-80. ISBN: 978-3-642-10615-6. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MARESOVA, M.; DRAHANSKY, M. Collection of Different Face Gestures and Realization of Experiments. International Journal of Software Engineering and Its Applications, 2009, vol. 3, no. 2, p. 63-67. ISSN: 1738-9984. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MARVAN, A. Robot pro Minisumo. Proceedings of the 15th Conference STUDENT EEICT 2009. Brno: Vysoke uceni technicke v Brne, 2009. s. 1-3. ISBN: 978-80-214-3868-2. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "MARVAN, A.; DRAHANSKY, M.; ORSAG, F. Robot for Minisumo. In The 35th Annual Conference of IEEE Industrial Electronics Society, 2009. Porto: Institute of Electrical and Electronics Engineers, 2009. p. 2332-2335. ISBN: 978-1-4244-4648-3. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "ORSAG, F. Speaker Dependent Frequency Cepstrum Coefficients. Security Technology. CCIS 58. Berlin: Springer Verlag, 2009. p. 258-264. ISBN: 978-3-642-10846-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "PECHO, P.; NAGY, J.; HANACEK, P.; DRAHANSKY, M. Secure Collection Tree Protocol for Tamper-Resistant Wireless Sensors. In Proceedings of International Conference SecTech 2009. Communications in Computer and Information Science 58. Berlin: Springer Verlag, 2009. p. 217-224. ISBN: 978-3-642-10846-4. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "PECHO, P.; ZBORIL, F.; DRAHANSKY, M.; HANACEK, P. Agent Platform for Wireless Sensor Network with Support for Cryptographic Protocols. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2009, vol. 15, no. 6, p. 992-1006. ISSN: 0948-6968. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SZALAYOVA, L. Personalized Widget for Public Transportation Departures. Proceedings of SMAP 08. Los Alamitos: IEEE Computer Society, 2009. p. 40-44. ISBN: 978-0-7695-3444-2. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DRAHANSKY, M. A Study on Novel Tool to Retort P2P Security Issues. Journal of Security Engineering, 2008, vol. 5, no. 2, p. 133-140. ISSN: 1738-7531. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "DRAHANSKY, M. A Study on the Security Vulnerabilities in Control Systems, Critical Infrastructure Systems and SCADA. Journal of Security Engineering, 2008, vol. 5, no. 6, p. 509-516. ISSN: 1738-7531. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VANA, J. FACE RECOGNITION BY THERMAL IMAGE. Proceedings of the 14th edition of the STUDENT EEICT 2008. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2008. s. 160-162. ISBN: 978-80-214-3617-6. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "MARVAN, A. Mobilni robot. Proceedings of the 13th Conference STUDENT EEICT 2007. Brno: Vysoke uceni technicke v Brne, 2007. s. 1-3. ISBN: 978-80-214-3407-3. Detail"
+        },
+        {
+            "year": "1986",
+            "details": "ZBORIL, F.; KRESLIKOVA, J. Programovaci jazyky. Brno: 1986. p. 1-161. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2025",
+            "title": "Opticka soustava pro bocni snimani laseroveho svazku v otevrenem prostoru se zesilovacem jasu obrazu",
+            "authors": "Opticka soustava pro bocni snimani laseroveho svazku v otevrenem prostoru se zesilovacem jasu obrazu , functioning sample, 2025 : RYDLO, S.; NOVACKOVA, K.; PEMCAK, I.; MALANIK, P."
+        },
+        {
+            "year": "2024",
+            "title": "Device for biometric identification with the aid of fingerprints and/or hand characteristics, and method of biometric identification with the aid of these characteristics",
+            "authors": "Device for biometric identification with the aid of fingerprints and/or hand characteristics, and method of biometric identification with the aid of these characteristics , patent, 2024 : DVORAK, M.; GOLDMANN, T.; DRAHANSKY, M.; SAKIN, M.; DVORAK, R.; NEZHYBA, O.; MEISTER, T.; ZARRABI, A."
+        },
+        {
+            "year": "2024",
+            "title": "Fingerprint Processing Web Application",
+            "authors": "Fingerprint Processing Web Application , software, 2024 : VANO, M.; SVOBODA, J.; SAKIN, M."
+        },
+        {
+            "year": "2024",
+            "title": "Sestava pro lokalizaci zdroje svazku laseroveho zareni / Snimaci jednotka systemu pro lokalizaci zdroje laseroveho svazku",
+            "authors": "Sestava pro lokalizaci zdroje svazku laseroveho zareni / Snimaci jednotka systemu pro lokalizaci zdroje laseroveho svazku , utility model, 2024 : RYDLO, S.; DRAHANSKY, M.; KOLAR, D.; MALANIK, P.; BALAZ, T.; HOSPODKA, J."
+        },
+        {
+            "year": "2023",
+            "title": "Detekce laseroveho svazku v otevrenem prostoru",
+            "authors": "Detekce laseroveho svazku v otevrenem prostoru , software, 2023 : SOKOVA, L.; KOLAR, D.; RYDLO, S."
+        },
+        {
+            "year": "2023",
+            "title": "FaceAIKit: Library for face detection and recognition",
+            "authors": "FaceAIKit: Library for face detection and recognition , software, 2023 : GOLDMANN, T."
+        },
+        {
+            "year": "2023",
+            "title": "Multimodalni snimac prostorove struktury krevniho reciste prstu",
+            "authors": "Multimodalni snimac prostorove struktury krevniho reciste prstu , utility model, 2023 : RYDLO, S.; DRAHANSKY, M."
+        },
+        {
+            "year": "2023",
+            "title": "Zarizeni pro snimani krevniho reciste prstu ve 3D za pouziti zrcadel",
+            "authors": "Zarizeni pro snimani krevniho reciste prstu ve 3D za pouziti zrcadel , functioning sample, 2023 : RYDLO, S.; DRAHANSKY, M."
+        },
+        {
+            "year": "2022",
+            "title": "Application for monitoring the shattering of acrylic glass",
+            "authors": "Application for monitoring the shattering of acrylic glass , software, 2022 : KAVETSKYI, A.; DRAHANSKY, M.; WEINBERG, K.; NOTZEL, R."
+        },
+        {
+            "year": "2022",
+            "title": "BUTCube - Communnication",
+            "authors": "BUTCube - Communnication , functioning sample, 2022 : RYDLO, S.; MALANIK, P."
+        },
+        {
+            "year": "2022",
+            "title": "BUTCube - Flight controller computer",
+            "authors": "BUTCube - Flight controller computer , functioning sample, 2022 : MALANIK, P.; LAZAR, V.; RYDLO, S.; LAZNICKA, T.; BARTONEK, J.; POPELA, R."
+        },
+        {
+            "year": "2022",
+            "title": "BUTCube - Microsatellite firmware",
+            "authors": "BUTCube - Microsatellite firmware , software, 2022 : MALANIK, P.; RYDLO, S.; LAZNICKA, T.; LAZAR, V.; BARTONEK, J."
+        },
+        {
+            "year": "2022",
+            "title": "BUTCube - Sun sensor module",
+            "authors": "BUTCube - Sun sensor module , functioning sample, 2022 : MALANIK, P.; LAZAR, V.; RYDLO, S.; LAZNICKA, T.; BARTONEK, J.; POPELA, R."
+        },
+        {
+            "year": "2022",
+            "title": "Phenobottle 2: Algae cultivator for distributed optimization with temperature control and spectral density measurement",
+            "authors": "Phenobottle 2: Algae cultivator for distributed optimization with temperature control and spectral density measurement , prototype, 2022 : MALANIK, P.; CERVENY, J.; TINKA, J.; DRAHANSKY, M."
+        },
+        {
+            "year": "2022",
+            "title": "Stacionarni multimodalni biometricke zarizeni pro verifikaci identity osob na zaklade otisku prstu a obliceje pri prekracovani statnich hranic",
+            "authors": "Stacionarni multimodalni biometricke zarizeni pro verifikaci identity osob na zaklade otisku prstu a obliceje pri prekracovani statnich hranic , functioning sample, 2022 : MALANIK, P.; VANA, J.; DRAHANSKY, M.; GOLDMANN, T.; DVORAK, R."
+        },
+        {
+            "year": "2022",
+            "title": "Zarizeni pro snimani meibomskych zlaz (meibograf)",
+            "authors": "Zarizeni pro snimani meibomskych zlaz (meibograf) , functioning sample, 2022 : RYDLO, S.; MNUK, T.; DRAHANSKY, M."
+        },
+        {
+            "year": "2022",
+            "title": "Zarizeni s rotujicim osvetlenim okolo prstu pro pozorovani viditelnosti krevniho reciste prstu",
+            "authors": "Zarizeni s rotujicim osvetlenim okolo prstu pro pozorovani viditelnosti krevniho reciste prstu , functioning sample, 2022 : RYDLO, S.; DRAHANSKY, M."
+        },
+        {
+            "year": "2021",
+            "title": "3D fotogrammetricka stanice pro celotelovy zaznam cloveka",
+            "authors": "3D fotogrammetricka stanice pro celotelovy zaznam cloveka , functioning sample, 2021 : RYDLO, S.; JURDA, M.; DRAHANSKY, M.; URBANOVA, P.; CERNY, D.; SAKIN, M."
+        },
+        {
+            "year": "2021",
+            "title": "Aplikace pro mobilni telefony testujici jejich bezpecnost",
+            "authors": "Aplikace pro mobilni telefony testujici jejich bezpecnost , software, 2021 : GOLDMANN, T.; DRAHANSKY, M."
+        },
+        {
+            "year": "2021",
+            "title": "BUTCube - Electronic power system",
+            "authors": "BUTCube - Electronic power system , functioning sample, 2021 : MALANIK, P."
+        },
+        {
+            "year": "2021",
+            "title": "BUTCube - Solar unit",
+            "authors": "BUTCube - Solar unit , functioning sample, 2021 : MALANIK, P."
+        },
+        {
+            "year": "2021",
+            "title": "Einrichtung zur biometrischen Identifikation mit Hilfe von Fingerabdrucken und/oder Handcharakteristiken und Verfahren zur biometrischen Identifikation mit Hilfe dieser Charakteristiken",
+            "authors": "Einrichtung zur biometrischen Identifikation mit Hilfe von Fingerabdrucken und/oder Handcharakteristiken und Verfahren zur biometrischen Identifikation mit Hilfe dieser Charakteristiken , patent, 2021 : DVORAK, M.; GOLDMANN, T.; DRAHANSKY, M.; SAKIN, M.; DVORAK, R.; NEZHYBA, O.; MEISTER, T.; ZARRABI, A."
+        },
+        {
+            "year": "2021",
+            "title": "Jednotka pro transluminaci plic",
+            "authors": "Jednotka pro transluminaci plic , functioning sample, 2021 : GOLDMANN, T.; VOTRUBA, J.; DRAHANSKY, M.; BRUHA, T."
+        },
+        {
+            "year": "2021",
+            "title": "Phenobottle: Algae cultivator for distributed optimization",
+            "authors": "Phenobottle: Algae cultivator for distributed optimization , functioning sample, 2021 : MALANIK, P.; CERVENY, J.; DRAHANSKY, M.; DVORAK, M."
+        },
+        {
+            "year": "2020",
+            "title": "3D snimac obliceje",
+            "authors": "3D snimac obliceje , utility model, 2020 : GOLDMANN, T.; DRAHANSKY, M."
+        },
+        {
+            "year": "2020",
+            "title": "Elektronicke pero pro zaznam dynamickych vlastnosti pisma",
+            "authors": "Elektronicke pero pro zaznam dynamickych vlastnosti pisma , functioning sample, 2020 : MULLER, D.; DRAHANSKY, M."
+        },
+        {
+            "year": "2020",
+            "title": "Lekarske zarizeni pro lokalizaci solitarnich plicnich uzlu v plicni tkani",
+            "authors": "Lekarske zarizeni pro lokalizaci solitarnich plicnich uzlu v plicni tkani , utility model, 2020 : VOTRUBA, J.; DRAHANSKY, M.; GOLDMANN, T.; KOLAR, R.; BRUHA, T."
+        },
+        {
+            "year": "2020",
+            "title": "Ridici deska pro manipulator zarizeni EYRINA",
+            "authors": "Ridici deska pro manipulator zarizeni EYRINA , functioning sample, 2020 : MALANIK, P.; DRAHANSKY, M."
+        },
+        {
+            "year": "2020",
+            "title": "Zarizeni pro on-line zpracovani videosekvenci v realnem case",
+            "authors": "Zarizeni pro on-line zpracovani videosekvenci v realnem case , functioning sample, 2020 : BERAN, V.; DRAHANSKY, M.; HEROUT, A.; ZEMCIK, P.; ZENDULKA, J.; BAMBUSEK, D.; BARTIK, V.; BARTL, V.; GOLDMANN, T.; KANICH, O.; KOCMAN, R.; MALANIK, P.; NOSKO, S.; PLASCENCIA, A.; VOLF, T."
+        },
+        {
+            "year": "2020",
+            "title": "Zarizeni pro snimani biometrickych charakteristik lidske ruky",
+            "authors": "Zarizeni pro snimani biometrickych charakteristik lidske ruky , functioning sample, 2020 : DVORAK, M.; GOLDMANN, T.; DVORAK, R.; DRAHANSKY, M.; KANICH, O.; SAKIN, M.; MEISTER, T.; NEZHYBA, O."
+        },
+        {
+            "year": "2020",
+            "title": "Zarizeni pro snimani ocniho pozadi a zpusob jeho cinnosti",
+            "authors": "Zarizeni pro snimani ocniho pozadi a zpusob jeho cinnosti , patent, 2020 : DRAHANSKY, M.; HAJEK, J."
+        },
+        {
+            "year": "2019",
+            "title": "Fingerprint Quality Visualizer",
+            "authors": "Fingerprint Quality Visualizer , software, 2019 : KANICH, O.; ORAVEC, T.; DEJMAL, D."
+        },
+        {
+            "year": "2019",
+            "title": "Mobilni kriminalisticka elektronicka jednotka",
+            "authors": "Mobilni kriminalisticka elektronicka jednotka , functioning sample, 2019 : MALANIK, P.; DRAHANSKY, M.; PERNICKY, R."
+        },
+        {
+            "year": "2019",
+            "title": "Multisenzoricka deska pro dron",
+            "authors": "Multisenzoricka deska pro dron , prototype, 2019 : MALANIK, P.; GOLDMANN, T.; DRAHANSKY, M."
+        },
+        {
+            "year": "2019",
+            "title": "Plne automaticke zarizeni na snimani sitnice oka",
+            "authors": "Plne automaticke zarizeni na snimani sitnice oka , functioning sample, 2019 : DRAHANSKY, M.; MALANIK, P.; POKORNY, J."
+        },
+        {
+            "year": "2019",
+            "title": "Software pro rizeni plne automatickeho zarizeni na snimani sitnice oka",
+            "authors": "Software pro rizeni plne automatickeho zarizeni na snimani sitnice oka , software, 2019 : MALANIK, P.; DRAHANSKY, M."
+        },
+        {
+            "year": "2018",
+            "title": "Multispektralni detektor zivosti vhodny zejmena pro technologii rozpoznavani otisku prstu",
+            "authors": "Multispektralni detektor zivosti vhodny zejmena pro technologii rozpoznavani otisku prstu , utility model, 2018 : DRAHANSKY, M.; DVORAK, R.; VANA, J.; GOLDMANN, T.; DVORAK, M.; KANICH, O."
+        },
+        {
+            "year": "2018",
+            "title": "Poloautomaticke snimaci zarizeni 2D charakteristik ruky",
+            "authors": "Poloautomaticke snimaci zarizeni 2D charakteristik ruky , functioning sample, 2018 : DVORAK, M.; STEHLIK, P.; DRAHANSKY, M."
+        },
+        {
+            "year": "2018",
+            "title": "Poloautomaticke zarizeni na snimani sitnice oka",
+            "authors": "Poloautomaticke zarizeni na snimani sitnice oka , functioning sample, 2018 : DRAHANSKY, M.; MALANIK, P.; HAJEK, J.; POKORNY, J."
+        },
+        {
+            "year": "2018",
+            "title": "SYDAGenerator - nastroj pro generovani datasetu s vyuzitim 3D objektu",
+            "authors": "SYDAGenerator - nastroj pro generovani datasetu s vyuzitim 3D objektu , software, 2018 : GOLDMANN, T.; DRAHANSKY, M."
+        },
+        {
+            "year": "2018",
+            "title": "Synthetic Fingerprint Damage Simulator and Generator - Swipe Damage Module",
+            "authors": "Synthetic Fingerprint Damage Simulator and Generator - Swipe Damage Module , software, 2018 : KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2017",
+            "title": "Snimaci zarizeni pro kratke strelne zbrane",
+            "authors": "Snimaci zarizeni pro kratke strelne zbrane , functioning sample, 2017 : GOLDMANN, T.; DVORAK, M.; SPURNY, M.; DRAHANSKY, M."
+        },
+        {
+            "year": "2016",
+            "title": "Aplikace pro biometrickou detekci zivosti prstu",
+            "authors": "Aplikace pro biometrickou detekci zivosti prstu , software, 2016 : MEZL, M.; SMITAL, L.; PROVAZNIK, V.; DRAHANSKY, M."
+        },
+        {
+            "year": "2016",
+            "title": "Aplikace pro detekci oblasti otisku prstu",
+            "authors": "Aplikace pro detekci oblasti otisku prstu , software, 2016 : DOLEZEL, M.; KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2016",
+            "title": "HeadViewer - simulacni nastroj pro urceni pozice hlavy z pohledu CCTV kamery",
+            "authors": "HeadViewer - simulacni nastroj pro urceni pozice hlavy z pohledu CCTV kamery , software, 2016 : GOLDMANN, T.; DRAHANSKY, M."
+        },
+        {
+            "year": "2016",
+            "title": "Rozpoznavani obliceje z kvadrokoptery",
+            "authors": "Rozpoznavani obliceje z kvadrokoptery , software, 2016 : MIKUNDOVA, L.; DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "Aplikace pro anonymizaci videa",
+            "authors": "Aplikace pro anonymizaci videa , software, 2015 : ORSAG, F.; BOREK, M."
+        },
+        {
+            "year": "2015",
+            "title": "Aplikace pro evidenci lokalit distribucnich a koncovych bodu telekomunikacni site",
+            "authors": "Aplikace pro evidenci lokalit distribucnich a koncovych bodu telekomunikacni site , software, 2015 : HAJEK, J.; SIMARA, S.; MARTIS, A.; DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "Biometricke bezpecnostni zarizeni pro snimani a rozpoznavani zil prstu lidske ruky",
+            "authors": "Biometricke bezpecnostni zarizeni pro snimani a rozpoznavani zil prstu lidske ruky , patent, 2015 : DRAHANSKY, M.; LODROVA, D.; DVORAK, R.; FIALA, J.; NEZHYBA, O."
+        },
+        {
+            "year": "2015",
+            "title": "FaceLib",
+            "authors": "FaceLib , software, 2015 : MRACEK, S."
+        },
+        {
+            "year": "2015",
+            "title": "Funkcni vzorek dataloggeru pro instalace do drevenych vrstvenych podlahovin",
+            "authors": "Funkcni vzorek dataloggeru pro instalace do drevenych vrstvenych podlahovin , functioning sample, 2015 : HAJEK, J.; RASKA, D.; VITEK, P.; DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "Funkcni vzorek roboticke platformy pro hledani osob v zavalech a lavinach",
+            "authors": "Funkcni vzorek roboticke platformy pro hledani osob v zavalech a lavinach , functioning sample, 2015 : DRAHANSKY, M.; ORSAG, F.; HAJEK, J.; LUZA, R.; VANA, J.; MARVAN, A.; NOVOTNY, T.; BABINEC, A.; TRHON, A."
+        },
+        {
+            "year": "2015",
+            "title": "Microscopic data analyzer",
+            "authors": "Microscopic data analyzer , software, 2015 : MALCIK, D.; DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "Multifunkcni kamerovy system s automatizovanym zpracovanim videodat",
+            "authors": "Multifunkcni kamerovy system s automatizovanym zpracovanim videodat , utility model, 2015 : DRAHANSKY, M.; ZENDULKA, J.; ZEMCIK, P.; FROML, V.; MRACEK, S.; BERAN, V."
+        },
+        {
+            "year": "2015",
+            "title": "Oftalmologicke diagnosticke zarizeni a zpusob jeho cinnosti",
+            "authors": "Oftalmologicke diagnosticke zarizeni a zpusob jeho cinnosti , patent, 2015 : DRAHANSKY, M.; PROVAZNIK, V.; KOLAR, R.; HAJEK, J."
+        },
+        {
+            "year": "2015",
+            "title": "Ophthalmic Diagnostic Apparatus and Method of its Operation",
+            "authors": "Ophthalmic Diagnostic Apparatus and Method of its Operation , patent, 2015 : DRAHANSKY, M.; PROVAZNIK, V.; KOLAR, R.; HAJEK, J."
+        },
+        {
+            "year": "2015",
+            "title": "Pruzkumny robot, bioradar, manipulator robota, prehledova kamera",
+            "authors": "Pruzkumny robot, bioradar, manipulator robota, prehledova kamera , industrial design, 2015 : DRAHANSKY, M.; POKORNY, J.; MARVAN, A.; HAJEK, J.; VANA, J.; NOVOTNY, T."
+        },
+        {
+            "year": "2015",
+            "title": "Robot pro mereni parametru dutin valcoveho prurezu",
+            "authors": "Robot pro mereni parametru dutin valcoveho prurezu , utility model, 2015 : DRAHANSKY, M.; MARVAN, A.; VANA, J.; POKORNY, J."
+        },
+        {
+            "year": "2015",
+            "title": "Skorovaci system rocni predikce mortality pacientu s akutnim srdecnim selhanim",
+            "authors": "Skorovaci system rocni predikce mortality pacientu s akutnim srdecnim selhanim , software, 2015 : MALCIK, D.; SEMERAD, L.; DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "Speckle Tracking Echocardiography",
+            "authors": "Speckle Tracking Echocardiography , software, 2015 : MRACEK, S.; DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "System pro zpracovani obrazu a videa",
+            "authors": "System pro zpracovani obrazu a videa , functioning sample, 2015 : BERAN, V.; FROML, V.; KAPINUS, M.; KLICNAR, L.; MATERNA, Z.; VOLF, T.; MRACEK, S.; HRADIS, M.; ZEMCIK, P.; ZENDULKA, J."
+        },
+        {
+            "year": "2015",
+            "title": "VTSense",
+            "authors": "VTSense , software, 2015 : MRACEK, S."
+        },
+        {
+            "year": "2015",
+            "title": "Zarizeni pro snimani 3D geometrie ruky",
+            "authors": "Zarizeni pro snimani 3D geometrie ruky , functioning sample, 2015 : SVOBODA, J.; DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "Zpusob biometricke identifikace osob podle ruky a zarizeni pro biometrickou identifikaci osob podle ruky",
+            "authors": "Zpusob biometricke identifikace osob podle ruky a zarizeni pro biometrickou identifikaci osob podle ruky , patent, 2015 : DRAHANSKY, M.; DVORAK, R.; ORSAG, F."
+        },
+        {
+            "year": "2014",
+            "title": "Funkcni vzorek Embedded systemu s OS Linux",
+            "authors": "Funkcni vzorek Embedded systemu s OS Linux , functioning sample, 2014 : HAJEK, J.; DRAHANSKY, M."
+        },
+        {
+            "year": "2014",
+            "title": "Komunikacni protokol pro bezdratove site v inteligentni domacnosti",
+            "authors": "Komunikacni protokol pro bezdratove site v inteligentni domacnosti , software, 2014 : HAJEK, J.; DANAJ, D.; BRYCHTA, T.; KORCEK, P."
+        },
+        {
+            "year": "2014",
+            "title": "Oftalmologicke diagnosticke zarizeni",
+            "authors": "Oftalmologicke diagnosticke zarizeni , utility model, 2014 : DRAHANSKY, M.; PROVAZNIK, V.; KOLAR, R.; HAJEK, J."
+        },
+        {
+            "year": "2014",
+            "title": "Roboticka platforma pro hledani osob v zavalech a lavinach",
+            "authors": "Roboticka platforma pro hledani osob v zavalech a lavinach , utility model, 2014 : DRAHANSKY, M.; HAJEK, J.; MARVAN, A.; NOVOTNY, T.; POKORNY, J."
+        },
+        {
+            "year": "2014",
+            "title": "Software pro extrakci priznaku z zilniho reciste sitnice oka za ucelem biometrickeho rozpoznavani osob",
+            "authors": "Software pro extrakci priznaku z zilniho reciste sitnice oka za ucelem biometrickeho rozpoznavani osob , software, 2014 : DOLEZEL, M.; DRAHANSKY, M."
+        },
+        {
+            "year": "2014",
+            "title": "Softwarovy modul pro zpracovani termosnimku obliceje",
+            "authors": "Softwarovy modul pro zpracovani termosnimku obliceje , software, 2014 : VANA, J.; DRAHANSKY, M."
+        },
+        {
+            "year": "2014",
+            "title": "Synthetic Fingerprint Damage Simulator and Generator - Touch Damage Module",
+            "authors": "Synthetic Fingerprint Damage Simulator and Generator - Touch Damage Module , software, 2014 : KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2014",
+            "title": "Zpusob detekce zivosti v biometrickych systemech pomoci bezpecnostniho senzoru na zaklade tepove frekvence",
+            "authors": "Zpusob detekce zivosti v biometrickych systemech pomoci bezpecnostniho senzoru na zaklade tepove frekvence , patent, 2014 : DRAHANSKY, M.; HOMOLA, A."
+        },
+        {
+            "year": "2013",
+            "title": "Funkcni vzorek inteligentniho zalozniho zdroje (UPS) s vysokou ucinnosti",
+            "authors": "Funkcni vzorek inteligentniho zalozniho zdroje (UPS) s vysokou ucinnosti , functioning sample, 2013 : HAJEK, J.; DRAHANSKY, M."
+        },
+        {
+            "year": "2013",
+            "title": "Funkcni vzorek manipulatoru robota",
+            "authors": "Funkcni vzorek manipulatoru robota , functioning sample, 2013 : DRAHANSKY, M.; ORSAG, F.; VANA, J.; HAJEK, J.; MARVAN, A.; NOVOTNY, T."
+        },
+        {
+            "year": "2013",
+            "title": "Funkcni vzorek podvozku robota",
+            "authors": "Funkcni vzorek podvozku robota , functioning sample, 2013 : DRAHANSKY, M.; ORSAG, F.; MARVAN, A.; HAJEK, J.; NOVOTNY, T.; VANA, J."
+        },
+        {
+            "year": "2013",
+            "title": "Funkcni vzorek senzoru Touchless Biometric Systems s detekci zivosti prstu",
+            "authors": "Funkcni vzorek senzoru Touchless Biometric Systems s detekci zivosti prstu , functioning sample, 2013 : DVORAK, R.; MRACEK, S.; VANA, J.; DOLEZEL, M.; DRAHANSKY, M.; TRHON, A."
+        },
+        {
+            "year": "2013",
+            "title": "Funkcni vzorek viceportoveho inteligentniho PoE injektoru",
+            "authors": "Funkcni vzorek viceportoveho inteligentniho PoE injektoru , functioning sample, 2013 : HAJEK, J.; DRAHANSKY, M."
+        },
+        {
+            "year": "2013",
+            "title": "Prototyp vestaveneho systemu s OS Linux pro hlavni ridici jednotku inteligentni elektroinstalace iNELS",
+            "authors": "Prototyp vestaveneho systemu s OS Linux pro hlavni ridici jednotku inteligentni elektroinstalace iNELS , prototype, 2013 : NOVOTNY, T.; MICHAL, P.; MARVAN, A.; HAJEK, J.; DRAHANSKY, M."
+        },
+        {
+            "year": "2013",
+            "title": "Stacionarni jednokamerovy system pro sledovani vzdalenych cilu",
+            "authors": "Stacionarni jednokamerovy system pro sledovani vzdalenych cilu , functioning sample, 2013 : ORSAG, F.; DRAHANSKY, M."
+        },
+        {
+            "year": "2013",
+            "title": "Zarizeni pro snimani a rozpoznavani duhovky a sitnice oka",
+            "authors": "Zarizeni pro snimani a rozpoznavani duhovky a sitnice oka , functioning sample, 2013 : DRAHANSKY, M.; PROVAZNIK, V.; KOLAR, R.; HAJEK, J."
+        },
+        {
+            "year": "2011",
+            "title": "Ovladaci dotykova jednotka RF Touch",
+            "authors": "Ovladaci dotykova jednotka RF Touch , prototype, 2011 : KONECNY, J.; HOLAIN, M.; VAVRA, M.; TICHACEK, J.; DRAHANSKY, M.; ORSAG, F."
+        },
+        {
+            "year": "2011",
+            "title": "RF vysilac: Bezdratovy teplotni senzor RFTI-10B",
+            "authors": "RF vysilac: Bezdratovy teplotni senzor RFTI-10B , prototype, 2011 : KONECNY, J.; KOLAR, Z.; VAVRA, M.; DRAHANSKY, M.; ORSAG, F.; VANA, J.; DVORAK, R."
+        },
+        {
+            "year": "2011",
+            "title": "Spinaci aktor s teplotnim senzorem RFTSI-11B",
+            "authors": "Spinaci aktor s teplotnim senzorem RFTSI-11B , prototype, 2011 : KONECNY, J.; VAVRA, M.; KOLAR, Z.; DRAHANSKY, M.; ORSAG, F.; MARVAN, A.; HAJEK, J."
+        },
+        {
+            "year": "2010",
+            "title": "A Method of Biometric Identification of Persons According to the Hand and Device for Biometric Identification of Persons According to the Hand",
+            "authors": "A Method of Biometric Identification of Persons According to the Hand and Device for Biometric Identification of Persons According to the Hand , patent, 2010 : DRAHANSKY, M.; DVORAK, R.; ORSAG, F."
+        },
+        {
+            "year": "2010",
+            "title": "Biometricke bezpecnostni zarizeni pro snimani a rozpoznavani zil prstu lidske ruky",
+            "authors": "Biometricke bezpecnostni zarizeni pro snimani a rozpoznavani zil prstu lidske ruky , utility model, 2010 : DRAHANSKY, M.; LODROVA, D.; DVORAK, R.; FIALA, J.; NEZHYBA, O."
+        },
+        {
+            "year": "2010",
+            "title": "GSegmentator",
+            "authors": "GSegmentator , software, 2010 : DOLEZEL, M."
+        },
+        {
+            "year": "2010",
+            "title": "GUI for dactyloscopy",
+            "authors": "GUI for dactyloscopy , software, 2010 : LODROVA, D."
+        },
+        {
+            "year": "2010",
+            "title": "GUI for fast fingerprinting",
+            "authors": "GUI for fast fingerprinting , software, 2010 : DLUHOS, O.; DOLEZEL, M.; LODROVA, D."
+        },
+        {
+            "year": "2010",
+            "title": "Robot pro soutez MiniSumo",
+            "authors": "Robot pro soutez MiniSumo , industrial design, 2010 : MARVAN, A.; DRAHANSKY, M.; ORSAG, F."
+        },
+        {
+            "year": "2009",
+            "title": "Merici ustredna pro UAV (SEDAQ)",
+            "authors": "Merici ustredna pro UAV (SEDAQ) , functioning sample, 2009 : MARVAN, A.; POPELA, R.; DRAHANSKY, M.; ZIKMUND, P."
+        },
+        {
+            "year": "2009",
+            "title": "Testovani zivosti prstu vyvolanim optickych zmen",
+            "authors": "Testovani zivosti prstu vyvolanim optickych zmen , utility model, 2009 : LODROVA, D.; DRAHANSKY, M."
+        },
+        {
+            "year": "2007",
+            "title": "Method and Apparatus for Detecting Biometric Features",
+            "authors": "Method and Apparatus for Detecting Biometric Features , patent, 2007 : DRAHANSKY, M.; FUNK, W.; NOTZEL, R."
+        },
+        {
+            "year": "2006",
+            "title": "Verfahren und Vorrichtung zum Erfassen biometrischer Merkmale",
+            "authors": "Verfahren und Vorrichtung zum Erfassen biometrischer Merkmale , patent, 2006 : DRAHANSKY, M.; FUNK, W.; NOTZEL, R."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2021",
+            "title": "Vyzkum moznosti vyuziti biometrickych a jinych senzoru za ucelem snizeni uzivatelske narocnosti mobilnich komunikaci z hlediska prihlasovani pomoci PIN",
+            "authors": ", research report, 2021 : DRAHANSKY, M.; GOLDMANN, T.; KANICH, O.; DVORAK, M.; HANACEK, P."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2022",
+            "title": "Metodika bezpecnosti biometrickych systemu pro statni spravu",
+            "authors": "Metodika bezpecnosti biometrickych systemu pro statni spravu , directory, 2022 : KANICH, O.; KRAUSOVA, A.; PETROVA KAFKOVA, M.; DRAHANSKY, M.; DOSEDEL, T.; MATEJKA, J."
+        },
+        {
+            "year": "2021",
+            "title": "Analyza kvality retinalnich snimku",
+            "authors": "Analyza kvality retinalnich snimku , report, 2021 : DRAHANSKY, M.; RYDLO, S.; KAVETSKYI, A.; KANICH, O.; BISWAS, S.; MNUK, T."
+        },
+        {
+            "year": "2021",
+            "title": "Brozura pro obyvatele - biometricke systemy",
+            "authors": "Brozura pro obyvatele - biometricke systemy , directory, 2021 : KANICH, O.; PETROVA KAFKOVA, M.; KRAUSOVA, A.; DOSEDEL, T.; DRAHANSKY, M.; MATEJKA, J."
+        },
+        {
+            "year": "2021",
+            "title": "Detekce exsudatu v retinalnich snimcich",
+            "authors": "Detekce exsudatu v retinalnich snimcich , report, 2021 : DRAHANSKY, M.; RYDLO, S.; KAVETSKYI, A.; MNUK, T."
+        },
+        {
+            "year": "2021",
+            "title": "Detekce hemoragii a mikroaneurysmat v retinalnich snimcich",
+            "authors": "Detekce hemoragii a mikroaneurysmat v retinalnich snimcich , report, 2021 : DRAHANSKY, M.; RYDLO, S.; KAVETSKYI, A.; MNUK, T."
+        },
+        {
+            "year": "2021",
+            "title": "Fingerprints in forensic verifications",
+            "authors": "Fingerprints in forensic verifications , lecture, 2021 : DRAHANSKY, M."
+        },
+        {
+            "year": "2020",
+            "title": "Fingerprints in forensic applications - processing and generation of diseased, damaged and spoofed fingerprints",
+            "authors": "Fingerprints in forensic applications - processing and generation of diseased, damaged and spoofed fingerprints , lecture, 2020 : KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2020",
+            "title": "Hand image acquisition - New approaches",
+            "authors": "Hand image acquisition - New approaches , lecture, 2020 : DVORAK, M.; DRAHANSKY, M."
+        },
+        {
+            "year": "2020",
+            "title": "Practical Considerations in the Use of Biometric Systems",
+            "authors": "Practical Considerations in the Use of Biometric Systems , presentation, poster, 2020 : DRAHANSKY, M.; KANICH, O.; HEIDARI, M."
+        },
+        {
+            "year": "2020",
+            "title": "Provadeni testu a vyhodnoceni na aktualnich datech zadavatele a evaluace vysledku",
+            "authors": "Provadeni testu a vyhodnoceni na aktualnich datech zadavatele a evaluace vysledku , report, 2020 : DRAHANSKY, M.; BERAN, V.; ZEMCIK, P."
+        },
+        {
+            "year": "2019",
+            "title": "Biometricke systemy - aktualni stav a bezpecnost",
+            "authors": "Biometricke systemy - aktualni stav a bezpecnost , presentation, poster, 2019 : DRAHANSKY, M.; KANICH, O.; GOLDMANN, T.; DVORAK, M."
+        },
+        {
+            "year": "2019",
+            "title": "Detection of facial key points",
+            "authors": "Detection of facial key points , report, 2019 : KANICH, O.; GOLDMANN, T.; DRAHANSKY, M."
+        },
+        {
+            "year": "2019",
+            "title": "Detekce chodcu z vysky pomoci neuronovych siti",
+            "authors": "Detekce chodcu z vysky pomoci neuronovych siti , report, 2019 : KANICH, O.; DRAHANSKY, M.; GOLDMANN, T."
+        },
+        {
+            "year": "2019",
+            "title": "Face and Eye Recognition",
+            "authors": "Face and Eye Recognition , presentation, poster, 2019 : DRAHANSKY, M."
+        },
+        {
+            "year": "2019",
+            "title": "Face Recognition in Forensic Applications",
+            "authors": "Face Recognition in Forensic Applications , presentation, poster, 2019 : DRAHANSKY, M.; GOLDMANN, T."
+        },
+        {
+            "year": "2019",
+            "title": "Faces in forensic applications - processing and generation of 2D and 3D face data in criminal praxis scenarios",
+            "authors": "Faces in forensic applications - processing and generation of 2D and 3D face data in criminal praxis scenarios , lecture, 2019 : DRAHANSKY, M.; GOLDMANN, T."
+        },
+        {
+            "year": "2019",
+            "title": "Fingerprints in forensic applications - processing and generation of diseased, damaged and spoofed fingerprints",
+            "authors": "Fingerprints in forensic applications - processing and generation of diseased, damaged and spoofed fingerprints , lecture, 2019 : DRAHANSKY, M.; KANICH, O."
+        },
+        {
+            "year": "2019",
+            "title": "Generation and analysis of face data",
+            "authors": "Generation and analysis of face data , report, 2019 : GOLDMANN, T.; KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2019",
+            "title": "Generator a detektor modelu zbrani",
+            "authors": "Generator a detektor modelu zbrani , report, 2019 : KANICH, O.; DVORAK, M.; DRAHANSKY, M."
+        },
+        {
+            "year": "2019",
+            "title": "Multisensoric board usable on drone 2",
+            "authors": "Multisensoric board usable on drone 2 , report, 2019 : MALANIK, P.; KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2019",
+            "title": "Processing and generation of retinal images for medical purposes",
+            "authors": "Processing and generation of retinal images for medical purposes , presentation, poster, 2019 : SEMERAD, L."
+        },
+        {
+            "year": "2018",
+            "title": "Fingerprint spoofing",
+            "authors": "Fingerprint spoofing , presentation, poster, 2018 : DRAHANSKY, M.; PERNICKY, R.; KANICH, O."
+        },
+        {
+            "year": "2018",
+            "title": "Multisensoric board usable on drone",
+            "authors": "Multisensoric board usable on drone , report, 2018 : GOLDMANN, T.; KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2018",
+            "title": "Overview of biometric technologies",
+            "authors": "Overview of biometric technologies , presentation, poster, 2018 : DRAHANSKY, M.; DVORAK, M.; HEIDARI, M.; SPURNY, M."
+        },
+        {
+            "year": "2018",
+            "title": "Prasentationsangriffe der Fingerabdrucktechnologie (TTT-AG-Biometrie)",
+            "authors": "Prasentationsangriffe der Fingerabdrucktechnologie (TTT-AG-Biometrie) , presentation, poster, 2018 : DRAHANSKY, M."
+        },
+        {
+            "year": "2017",
+            "title": "Detector of Weapons in Video",
+            "authors": "Detector of Weapons in Video , presentation, poster, 2017 : DRAHANSKY, M."
+        },
+        {
+            "year": "2017",
+            "title": "Multispectral Optical Properties of Human Hands Skin",
+            "authors": "Multispectral Optical Properties of Human Hands Skin , presentation, poster, 2017 : DRAHANSKY, M."
+        },
+        {
+            "year": "2017",
+            "title": "Skin Diseases in Fingerprints",
+            "authors": "Skin Diseases in Fingerprints , presentation, poster, 2017 : DRAHANSKY, M.; KANICH, O."
+        },
+        {
+            "year": "2017",
+            "title": "Weapon Detection",
+            "authors": "Weapon Detection , report, 2017 : KANICH, O.; DRAHANSKY, M."
+        },
+        {
+            "year": "2017",
+            "title": "Zarizeni pro snimani zbrani",
+            "authors": "Zarizeni pro snimani zbrani , report, 2017 : DVORAK, M.; GOLDMANN, T.; DRAHANSKY, M."
+        },
+        {
+            "year": "2016",
+            "title": "Moderni biometricke systemy zalozene na vice charakteristikach a jejich vlastnosti",
+            "authors": "Moderni biometricke systemy zalozene na vice charakteristikach a jejich vlastnosti , course reader, 2016 : DRAHANSKY, M."
+        },
+        {
+            "year": "2016",
+            "title": "Ovladani inteligentni domacnosti",
+            "authors": "Ovladani inteligentni domacnosti , report, 2016 : VAVRA, P.; DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "Aplikace pro iOS na rozpoznani hematomu",
+            "authors": "Aplikace pro iOS na rozpoznani hematomu , report, 2015 : STUCHLIK, M.; DRAHANSKY, M.; BLAHA, M.; SEPSI, M."
+        },
+        {
+            "year": "2015",
+            "title": "Biometrics - Liveness Detection, Recognition of Finger Veins, 3D Hand, Eye Iris and Retina, 3D Face and Thermo-Face",
+            "authors": "Biometrics - Liveness Detection, Recognition of Finger Veins, 3D Hand, Eye Iris and Retina, 3D Face and Thermo-Face , lecture, 2015 : DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "Experiments with fingers, finger fakes and finger and hand veins",
+            "authors": "Experiments with fingers, finger fakes and finger and hand veins , presentation, poster, 2015 : DRAHANSKY, M."
+        },
+        {
+            "year": "2015",
+            "title": "Fingerprint Damage Simulation",
+            "authors": "Fingerprint Damage Simulation , presentation, poster, 2015 : KANICH, O."
+        },
+        {
+            "year": "2015",
+            "title": "Uskali biometrickych systemu",
+            "authors": "Uskali biometrickych systemu , presentation, poster, 2015 : DRAHANSKY, M."
+        },
+        {
+            "year": "2014",
+            "title": "Biometricke systemy v praxi",
+            "authors": "Biometricke systemy v praxi , presentation, poster, 2014 : DRAHANSKY, M."
+        },
+        {
+            "year": "2014",
+            "title": "Biometrics - Liveness Detection, Recognition of Finger Veins, 3D Hand, Eye Iris, Eye Retina and Thermo-Faces",
+            "authors": "Biometrics - Liveness Detection, Recognition of Finger Veins, 3D Hand, Eye Iris, Eye Retina and Thermo-Faces , lecture, 2014 : DRAHANSKY, M."
+        },
+        {
+            "year": "2014",
+            "title": "Fingerprint recognition related topics",
+            "authors": "Fingerprint recognition related topics , lecture, 2014 : DRAHANSKY, M."
+        },
+        {
+            "year": "2014",
+            "title": "Optical Characteristics of Fingers, Finger Fakes, Fingerprint Fakes and their Combination under LED Illumination with Various Wavelengths",
+            "authors": "Optical Characteristics of Fingers, Finger Fakes, Fingerprint Fakes and their Combination under LED Illumination with Various Wavelengths , report, 2014 : DRAHANSKY, M."
+        },
+        {
+            "year": "2014",
+            "title": "Pruzkum trhu (TZ) - Zarizeni pro snimani sitnice a duhovky",
+            "authors": "Pruzkum trhu (TZ) - Zarizeni pro snimani sitnice a duhovky , report, 2014 : DOLEZEL, M."
+        },
+        {
+            "year": "2013",
+            "title": "Biometrics - Liveness Detection on Fingers, Finger Veins Recognition, 3D Hand Recognition and Thermo-Faces",
+            "authors": "Biometrics - Liveness Detection on Fingers, Finger Veins Recognition, 3D Hand Recognition and Thermo-Faces , presentation, poster, 2013 : DRAHANSKY, M."
+        },
+        {
+            "year": "2013",
+            "title": "Biometrie - Detekce zivosti na prstech",
+            "authors": "Biometrie - Detekce zivosti na prstech , presentation, poster, 2013 : DRAHANSKY, M."
+        },
+        {
+            "year": "2012",
+            "title": "BASCAN - Barrel Bore Scanner",
+            "authors": "BASCAN - Barrel Bore Scanner , presentation, poster, 2012 : VANA, J.; DRAHANSKY, M.; HAJEK, J."
+        },
+        {
+            "year": "2012",
+            "title": "Czech Republic: biometric passport update",
+            "authors": "Czech Republic: biometric passport update , presentation, poster, 2012 : DRAHANSKY, M."
+        },
+        {
+            "year": "2012",
+            "title": "Latest Developments in Fingerprint Recognition Technologies",
+            "authors": "Latest Developments in Fingerprint Recognition Technologies , presentation, poster, 2012 : DRAHANSKY, M."
+        },
+        {
+            "year": "2012",
+            "title": "Quido - the robot that won the Robotour 2011 competition",
+            "authors": "Quido - the robot that won the Robotour 2011 competition , presentation, poster, 2012 : ORSAG, F.; HERMAN, D.; ONDRACEK, T."
+        },
+        {
+            "year": "2012",
+            "title": "Robot for search of human beings in incrushes and avalanches",
+            "authors": "Robot for search of human beings in incrushes and avalanches , presentation, poster, 2012 : DRAHANSKY, M.; HAJEK, J.; MARVAN, A.; NOVOTNY, T."
+        },
+        {
+            "year": "2011",
+            "title": "Fingerprint Recognition Technology: Liveness Detection, Image Quality and Skin Diseases",
+            "authors": "Fingerprint Recognition Technology: Liveness Detection, Image Quality and Skin Diseases , lecture, 2011 : DRAHANSKY, M."
+        },
+        {
+            "year": "2011",
+            "title": "Studie vyuziti autentizacne - bezpecnostnich technologii pro automatizaci a zlepseni efektivity vybranych procesu sledovani stavu a pohybu majetku a osob ve firme nebo instituci",
+            "authors": "Studie vyuziti autentizacne - bezpecnostnich technologii pro automatizaci a zlepseni efektivity vybranych procesu sledovani stavu a pohybu majetku a osob ve firme nebo instituci , report, 2011 : ZBORIL, F.; HANACEK, P.; ZAK, J.; HORACEK, J.; DRAHANSKY, M.; HAJEK, J.; MARVAN, A."
+        },
+        {
+            "year": "2010",
+            "title": "Fingerprint Recognition Technology: Liveness Detection, Image Quality and Skin Diseases",
+            "authors": "Fingerprint Recognition Technology: Liveness Detection, Image Quality and Skin Diseases , lecture, 2010 : DRAHANSKY, M."
+        },
+        {
+            "year": "2010",
+            "title": "Intelligent Houses - Secure Wireless Sensor Networks",
+            "authors": "Intelligent Houses - Secure Wireless Sensor Networks , presentation, poster, 2010 : DRAHANSKY, M."
+        },
+        {
+            "year": "2010",
+            "title": "Scanning and Measuring Device for Diagnostic of Barrel Bore",
+            "authors": "Scanning and Measuring Device for Diagnostic of Barrel Bore , presentation, poster, 2010 : HAJEK, J.; MARVAN, A.; VANA, J."
+        },
+        {
+            "year": "2009",
+            "title": "Testing of abnormal behavior of users on IDEX fingerprint sensor",
+            "authors": "Testing of abnormal behavior of users on IDEX fingerprint sensor , report, 2009 : LODROVA, D."
+        }
+    ]
+}

@@ -1,0 +1,854 @@
+{
+    "group": "Knowledge Technology Research Group (KNOT)",
+    "about": {
+        "knowledge_technology_research_group": [
+            "The Knowledge Technology Research Group is the youngest part of the human-computer interface research at the Faculty of Information Technology. Despite that, it has a long track record of research and development results in a wide range of areas related to knowledge extraction, representation, and management, as well as advanced machine learning and big data processing. The team has participated in many international and national projects funded by various grant agencies or relevant industries."
+        ],
+        "research_interests": [
+            "information extraction, knowledge representation, question answering, context-based processing, social media analysis, opinion mining, information retrieval from multimedia, emotion analysis, human-machine interaction, cognitive ergonomics",
+            "embedded intelligence, down-sizing deep learning models for low-power chips, mobile phone-adaptation of training procedures, big data processing and high-performance computing, dynamic distribution of machine learning-based data processing between edge devices and the cloud",
+            "security and trustworthiness in the context of AI, homomorphic encryption for privacy-preserving data processing and machine learning, robustness guarantees for deep learning in an adversarial setting",
+            "AI-based virtual assistants (chatbots), knowledge systems combining visual and semantic information (joint embeddings), Transformer networks and other advanced models for meaning representation, applications of reinforcement learning in agent systems",
+            "data analytics for extremely large streams of data resulting from cyber-physical products (esp. vehicles, smart buildings/homes, IoT sensors) and their production, predictive maintenance in smart factories, optimisation of production models, quality control, root cause analysis, supply chain optimisation, digital twins",
+            "collaborative robotics, augmented reality in robot programming, medical service robots, learning-based adaptation in wearable robots, autonomous vehicles and drones",
+            "information extraction and machine learning in bioinformatics and public health monitoring, digital humanities, know-how management, brand reputation technologies, mental well-being support, identification of problematic uses of internet, data annotation by means of crowdsourcing, gamification, and games with purpose"
+        ],
+        "lectures_&_demos": [
+            "Open-domain Question Answering- our demo of English open-domain question answering systems.Czech Open-domain QA- Jonas Sasin's open-domain question answering system for Czech language from his Bachelor's thesis."
+        ],
+        "overview": [
+            "The Knowledge Technology Research Group is the youngest part of the human-computer interface research at the Faculty of Information Technology. Despite that, it has a long track record of research and development results in a wide range of areas related to knowledge extraction, representation, and management, as well as advanced machine learning and big data processing. The team has participated in many international and national projects funded by various grant agencies or relevant industries."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Smrz Pavel, doc. RNDr., Ph.D.",
+                "position": "Principal researcher"
+            }
+        ],
+        "member": [
+            {
+                "name": "Aparovich Maksim",
+                "position": "Member"
+            },
+            {
+                "name": "Docekal Martin, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Dolezal Jan, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Dytrych Jaroslav, Ing., Ph.D.",
+                "position": "Member",
+                "notes": [
+                    "Annotation of text",
+                    "Advanced web technologies",
+                    "Information Systems",
+                    "Computer networks"
+                ]
+            },
+            {
+                "name": "Fajcik Martin, Ing., Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "John Petr, Ing.",
+                "position": "Member",
+                "notes": [
+                    "Internet of Things (IoT)",
+                    "Smart Cities",
+                    "CI / CD",
+                    "Docker, LXD",
+                    "Cloud (AWS)",
+                    "Project Pocketix"
+                ]
+            },
+            {
+                "name": "Kesiraju Santosh, Ph.D.",
+                "position": "Member"
+            },
+            {
+                "name": "Kotala Jaromir, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Neprasova Katerina, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Otrusina Lubomir, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Svec Tomas, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Zaklova Kristyna, Ing.",
+                "position": "Member",
+                "notes": [
+                    "open data, data processing and data models",
+                    "open government",
+                    "pet registration web search engine (projectKomu patrim)",
+                    "analyses and visualisations of council votes (portalZastupko)"
+                ]
+            },
+            {
+                "name": "Zemcik Pavel, prof. Dr. Ing., dr. h. c.",
+                "position": "Member"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2020",
+            "title": "HAAWAII - Highly Automated Air Traffic Controller Workstations with Artificial Intelligence Integration",
+            "details": "EU, Horizon 2020, H2020-SESAR-2019-2, start: 2020-06-01, end: 2022-11-30, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Advanced content extraction and recognition for printed and handwritten documents for better accessibility and usability",
+            "details": "MK, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje narodni a kulturni identity na leta 2016 az 2022 (NAKI II), DG18P02OVV055, start: 2018-03-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Assessing and Enhancing Emotional Competence for Well-Being (ECoWeB) in the Young: A principled, evidence-based, mobile-health approach to prevent mental disorders and promote mental well-being",
+            "details": "EU, Horizon 2020, 754657, start: 2018-01-01, end: 2021-12-31, running"
+        },
+        {
+            "year": "2018",
+            "title": "SAUCE - Smart Asset re-Use in Creative Environments",
+            "details": "EU, Horizon 2020, start: 2018-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Advanced Semantic Enrichment of Multi-Language Literary Text Collections",
+            "details": "EU, European Cooperation in Science and Technology (COST), start: 2017-11-03, end: 2021-11-02, running"
+        },
+        {
+            "year": "2017",
+            "title": "Cross-CPP - Ecosystem for Services based on integrated Cross-sectorial Data Streams from multiple Cyber Physical Products and Open Data Sources",
+            "details": "EU, Horizon 2020, 780167, start: 2017-12-01, end: 2021-02-28, running"
+        },
+        {
+            "year": "2017",
+            "title": "enetCollect - Large-Scale Information Extraction and Gamification for Crowdsourced Language Learning",
+            "details": "EU, European Cooperation in Science and Technology (COST), start: 2017-09-01, end: 2021-03-06, completed"
+        },
+        {
+            "year": "2017",
+            "title": "MegaModelling at Runtime - scalable model-based framework for continuous development and runtime validation of complex systems.",
+            "details": "EU, Horizon 2020, 737494, start: 2017-04-01, end: 2020-03-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Research and development of diagnostic unit for forming machines",
+            "details": "MPO, TRIO, FV20512, start: 2017-04-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Tools and methods for video and image processing to improve effectivity of rescue and security services operations",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020068, start: 2017-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "User Activity Analysis and Emotional Competence Assessment for Investigation of Problematic Usage of the Internet",
+            "details": "EU, European Cooperation in Science and Technology (COST), start: 2017-10-23, end: 2022-04-22, completed"
+        },
+        {
+            "year": "2017",
+            "title": "WearableRobots - Advanced Collaborative Aspects of Wearable Robotic Systems",
+            "details": "EU, European Cooperation in Science and Technology (COST), start: 2017-09-01, end: 2021-09-14, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Analysis and optimization of ads presentation in the Facebook network",
+            "details": "ROI Hunter, start: 2016-03-21, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "CPK - Using Semantic Technologies to Access Cultural Heritage Through The Central Portal of Czech Libraries",
+            "details": "MK, Program na podporu aplikovaneho vyzkumu a experimentalniho vyvoje narodni a kulturni identity na leta 2016 az 2022 (NAKI II), DG16P02R006, start: 2016-03-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Big Data Era in Sky and Earth Observation (BIG-SKY-EARTH)",
+            "details": "MSMT, COST, start: 2015-10-01, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2015",
+            "title": "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets",
+            "details": "EU, Horizon 2020, start: 2015-04-01, end: 2017-03-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Algorithms, Design Methods, and Many-Core Execution Platform for Low-Power Massive Data-Rate Video and Image Processing",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H14002, start: 2014-04-01, end: 2017-06-30, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Modern Image Processing Techniques and Computer-based Planning in Trauma Treatment",
+            "details": "TACR, Program aplikovaneho vyzkumu a experimentalniho vyvoje ALFA, TA04011606, start: 2014-07-01, end: 2017-06-30, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Reconfigurable ROS-based Resilient Reasoning Robotic Cooperating Systems",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7H14003, start: 2014-02-01, end: 2017-01-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Java platform for hIgh PErformance and Real-time large scale data management (JUNIPER)",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, start: 2013-09-01, end: 2015-11-30, completed"
+        },
+        {
+            "year": "2013",
+            "title": "SCAlable Preservation Environments",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, start: 2013-09-01, end: 2014-09-30, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Portable and Predictable Performance on Heterogeneous Embedded Manycores",
+            "details": "MSMT, Spolecne technologicke iniciativy, 7HZC13005, start: 2012-09-01, end: 2015-10-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Event-based Retrieval of Networked Media",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, 7E12055, start: 2011-07-01, end: 2012-11-30, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Open-Source API and Platform for Multiple Clouds",
+            "details": "MSMT, Podpora projektu sedmeho ramcoveho programu Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace (2007 az 2013) podle zakona c. 171/2007 Sb., 7E12061, start: 2011-09-01, end: 2013-02-28, completed"
+        },
+        {
+            "year": "2011",
+            "title": "SRS - Multi-Role Shadow Robotic System for Independent Living",
+            "details": "EU, Sedmy ramcovy program Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace, 7E12056, start: 2011-09-01, end: 2013-04-30, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Emerging, Collective Intelligence for personal, organisational and social use",
+            "details": "MSMT, Podpora projektu sedmeho ramcoveho programu Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace (2007 az 2013) podle zakona c. 171/2007 Sb., 7E08063, start: 2008-04-01, end: 2011-03-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Knowledge in a Wiki",
+            "details": "MSMT, Podpora projektu sedmeho ramcoveho programu Evropskeho spolecenstvi pro vyzkum, technologicky rozvoj a demonstrace (2007 az 2013) podle zakona c. 171/2007 Sb., 7E08040, start: 2008-03-01, end: 2011-02-28, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Biomarker - Determination of markers, screening and early diagnostics of cancer diseases using highly automated processing of multidimensional biomedical images",
+            "details": "MSMT, Zdravy a kvalitni zivot, 2B06052, start: 2006-07-01, end: 2011-06-30, completed"
+        },
+        {
+            "year": "2006",
+            "title": "CARETAKER - Content Analysis and REtrieval Technologies to Apply Knowledge Extraction to massive Recording",
+            "details": "EU, Sixth Framework programme, 027231, start: 2006-03-01, end: 2008-09-30, completed"
+        },
+        {
+            "year": "2005",
+            "title": "LC-Star 2 - Lexica and Corpora for Speech-to-Speech Translation Components 2",
+            "details": "start: 2005-04-05, end: 2009-04-05, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "details": "FAJCIK, M.; DOCEKAL, M.; DOLEZAL, J.; ONDREJ, K.; BENES, K.; SMRZ, P.; POLOK, A.; HRADIS, M. BenCzechMark : A Czech-Centric Multitask and Multimetric Benchmark for Large Language Models with Duel Scoring Mechanism. Transactions of the Association for Computational Linguistics, 2025, vol. 13, no. 9, p. 1068-1095. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "LOJDA, J.; JOYCE, D.; SMRZ, P.; KATHURIA, S.; STRNADEL, J.; QUINN, C.; SIMEK, V.; STARON, P. Portable Simulation Models for Energy Aspects of IoT Devices in the LoLiPoP-IoT Project. 2025 28th Euromicro Conference on Digital System Design (DSD). Salerno: IEEE Computer Society, 2025. p. 368-375. ISBN: 979-8-3315-8499-3. Detail"
+        },
+        {
+            "year": "2025",
+            "details": "LOJDA, J.; STRNADEL, J.; SMRZ, P.; SIMEK, V. Multi-Partner Project: LoLiPoP-IoT - Design and Simulation of Energy-Efficient Devices for the Internet of Things. In 2025 Design, Automation & Test in Europe Conference (DATE) Proceedings. Lyon: Institute of Electrical and Electronics Engineers, 2025. p. 1-7. ISBN: 978-3-9826741-0-0. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "LOJDA, J.; STRNADEL, J.; SIMEK, V.; SMRZ, P.; HAYES, M.; POPP, R. The LoLiPoP-IoT Project: Long Life Power Platforms for Internet of Things. In Proceedings - 2024 27th Euromicro Conference on Digital System Design, DSD 2024. Paris: Institute of Electrical and Electronics Engineers, 2024. p. 604-611. ISBN: 979-8-3503-8038-5. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "LOJDA, J.; STRNADEL, J.; SMRZ, P.; SIMEK, V. First Steps Towards Unified Low-Power IoT Design: The \"DYNAMIC\" Framework. 2024 IEEE East-West Design and Test Symposium, EWDTS 2024 - Proceedings. Yerevan: Institute of Electrical and Electronics Engineers, 2024. p. 1-6. ISBN: 979-8-3315-1576-8. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "STRNADEL, J.; LOJDA, J.; SMRZ, P.; SIMEK, V. Machine Learning in Context of IoT/Edge Devices and LoLiPoP-IoT Project. In Proceedings of 32nd Austrian Workshop on Microelectronics (Austrochip 2024). Vienna: Institute of Electrical and Electronics Engineers, US, 2024. p. 1-4. ISBN: 979-8-3315-1617-8. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "APAROVICH, M.; KESIRAJU, S.; DUFKOVA, A.; SMRZ, P. FIT BUT at SemEval-2023 Task 12: Sentiment Without Borders - Multilingual Domain Adaptation for Low-Resource Sentiment Classification. In Proceedings of the The 17th International Workshop on Semantic Evaluation (SemEval-2023). Toronto (online): Association for Computational Linguistics, 2023. p. 1518-1524. ISBN: 978-1-959429-99-9. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "FAJCIK, M.; MOTLICEK, P.; SMRZ, P. Claim-Dissector: An Interpretable Fact-Checking System with Joint Re-ranking and Veracity Prediction. In Findings of the Association for Computational Linguistics: ACL 2023. ACL. Toronto: Association for Computational Linguistics, 2023. p. 10184-10205. ISBN: 978-1-959429-62-3. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "ZULUAGA-GOMEZ, J.; SARFJOO, S.; PRASAD, A.; NIGMATULINA, I.; MOTLICEK, P.; ONDREJ, K.; OHNEISER, O.; HELMKE, H. BERTraffic: BERT-based Joint Speaker Role and Speaker Change Detection for Air Traffic Control Communications. In IEEE Spoken Language Technology Workshop, SLT 2022 - Proceedings. Doha: IEEE Signal Processing Society, 2023. p. 633-640. ISBN: 978-1-6654-7189-3. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "BURDISSO, S.; FAJCIK, M.; SMRZ, P.; MOTLICEK, P. IDIAPers @ Causal News Corpus 2022: Efficient Causal Relation Identification Through a Prompt-based Few-shot Approach. In Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2022). Abu Dhabi: Association for Computational Linguistics, 2022. p. 61-69. ISBN: 978-1-959429-05-0. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "DOCEKAL, M.; SMRZ, P. Query-Based Keyphrase Extraction from Long Documents. In The International FLAIRS Conference Proceedings. Proceedings of the ... International Florida Artificial Intelligence Research Society Conference. 2022. Jensen Beach: LibraryPress@UF, 2022. no. 35, p. 1-4. ISSN: 2334-0762. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "FAJCIK, M.; SMRZ, P.; MOTLICEK, P.; BURDISSO, S. IDIAPers @ Causal News Corpus 2022: Extracting Cause-Effect-Signal Triplets via Pre-trained Autoregressive Language Model. In Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2022). Abu Dhabi: Association for Computational Linguistics, 2022. p. 70-78. ISBN: 978-1-959429-05-0. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HELMKE, H.; ONDREJ, K.; SHETTY, S.; KLEINERT, M.; OHNEISER, O.; EHR, H.; ZULUAGA-GOMEZ, J.; SMRZ, P. Readback Error Detection by Automatic Speech Recognition and Understanding - Results of HAAWAII project for Isavia's Enroute Airspace. SESAR Innovation Days 2022. Budapest: 2022. p. 1-9. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "ALI, A.; SMRZ, P. Camera auto-calibration for complex scenes. In SPIE 11605. Rome: SPIE - the international society for optics and photonics, 2021. p. 1-11. ISBN: 978-1-5106-4041-2. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "FAJCIK, M.; DOCEKAL, M.; ONDREJ, K.; SMRZ, P. R2-D2: A Modular Baseline for Open-Domain Question Answering. In Findings of the Association for Computational Linguistics: EMNLP 2021. Findings of the Association for Computational Linguistics. Punta Cana: Association for Computational Linguistics, 2021. p. 854-870. ISBN: 978-1-955917-10-0. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "FAJCIK, M.; JON, J.; SMRZ, P. Rethinking the Objectives of Extractive Question Answering. In Proceedings of the 3rd Workshop on Machine Reading for Question Answering. Proceedings of the 3rd Workshop on Machine Reading for Question Answering. Punta Cana: Association for Computational Linguistics, 2021. p. 14-27. ISBN: 978-1-954085-95-4. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "HELMKE, H.; KLEINERT, M.; SHETTY, S.; OHNEISER, O.; EHR, H.; PRASAD, A.; MOTLICEK, P.; VESELY, K.; ONDREJ, K.; SMRZ, P.; HARFMANN, J.; WINDISCH, C. Readback Error Detection by Automatic Speech Recognition to Increase ATM Safety. In Proceedings of ATM Seminar. on-line: EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION, 2021. p. 1-10. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "MIN, S.; FAJCIK, M.; DOCEKAL, M.; ONDREJ, K.; SMRZ, P. NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned. In Proceedings of the NeurIPS 2020 Competition and Demonstration Track. Proceedings of Machine Learning Research. Proceedings of Machine Learning Research. online: Proceedings of Machine Learning Research, 2021. no. 133, p. 86-111. ISSN: 2640-3498. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "DOCEKAL, M.; FAJCIK, M.; JON, J.; SMRZ, P. JokeMeter at SemEval-2020 Task 7: Convolutional Humor. In Proceedings of the Fourteenth Workshop on Semantic Evaluation. 2020. Barcelona (online): Association for Computational Linguistics, 2020. p. 843-851. ISBN: 978-1-952148-31-6. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "FAJCIK, M.; DOCEKAL, M.; JON, J.; SMRZ, P. BUT-FIT at SemEval-2020 Task 5: Automatic detection of counterfactual statements with deep pre-trained language representation models. In Proceedings of the Fourteenth Workshop on Semantic Evaluation. Barcelona (online): Association for Computational Linguistics, 2020. p. 437-444. ISBN: 978-1-952148-31-6. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HERRMANN, E.; MOLINA RUIZ, E.; RODRIGUEZ GONZALEZ, A.; SMRZ, P.; WENDT, J.; WOLFE, C.; ZANIN, M. Developing a Data Analytics Toolbox to Support CPS-based Services. In Mediterranean Conference on Embedded Computing. New York: IEEE Biometric Council, 2020. p. 58-64. ISBN: 978-1-7281-6949-1. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "JON, J.; FAJCIK, M.; DOCEKAL, M.; SMRZ, P. BUT-FIT at SemEval-2020 Task 4: Multilingual commonsense. In Proceedings of the Fourteenth Workshop on Semantic Evaluation. Barcelona: Association for Computational Linguistics, 2020. p. 374-390. ISBN: 978-1-952148-31-6. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "MARCZAK, M.; GJONESKA, B.; BURKAUSKAS, J.; DASKALOU, V.; FLORA, K.; GAO, S.; LI, Y.; LIAUGAUDAITE, V.; MARKOVIKJ, M.; ROELANDS, M.; SMRZ, P.; VAZ-REBELO, P. Problematic Internet Use: Media Portrayal across Eight Countries. Psihologija, 2020, vol. 53, no. 4, p. 411-430. ISSN: 0048-5705. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "CORREIA, A.; WOLFF, C.; ZANIN, M.; MENASALVAS, E.; HERRMANN, E.; CORRAL, V.; KACHELMANN, M.; DELONG, R.; SMRZ, P. Cross-CPP - An Ecosystem for Provisioning, Consolidating, and Analysing Big Data from Cyber-Physical Products. In Proceedings of Cyber-Physical Social Systems (CPSS 2019) co-located with the 9th International Conference on the Internet of Things (IoT 2019). CEUR Workshop Proceedings. Madrid: CEUR-WS.org, 2019. no. 2019, p. 1-8. ISSN: 1613-0073. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "FAJCIK, M.; BURGET, L.; SMRZ, P. BUT-FIT at SemEval-2019 Task 7: Determining the Rumour Stance with Pre-Trained Deep Bidirectional Transformers. In Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, 2019. p. 1097-1104. ISBN: 978-1-950737-06-2. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "TROTTNOW, J.; SPIELMANN, S.; HERFET, T.; LANGE, T.; CHELLI, K.; SOLONY, M.; SMRZ, P.; ZEMCIK, P.; AENCHBACHER, W.; GROGAN, M.; ALAIN, M.; SMOLIC, ALJOSA, S.; CANH, T.; VU-THANH, O.; VAZQUEZ-CORRAL, J.; BERTAHNIO, M. The Potential of Light Fields in Media Productions. In SA'19: SIGGRAPH ASIA 2019 TECHNICAL BRIEFS. TECHNICAL BRIEFS. New York: Association for Computing Machinery, 2019. p. 71-74. ISBN: 978-1-4503-6945-9. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "AFZAL, W.; BRUNELIERE, H.; DI RUSCIO, D.; SADOVYKH, A.; MAZZINI, S.; CARIOU, E.; TRUSCAN, D.; CABOT, J.; FIELD, D.; POMANTE, L.; SMRZ, P. The MegaM@Rt2 ECSEL Project: MegaModelling at Runtime - Scalable Model-Based Framework for Continuous Development and Runtime Validation of Complex Systems. In Proceedings of the Euromicro Conference on Digital System Design (DSD). Vienna: IEEE Computer Society, 2018. p. 494-501. ISBN: 978-1-5386-2146-2. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "AFZAL, W.; BRUNELIERE, H.; DI RUSCIO, D.; SADOVYKH, A.; MAZZINI, S.; CARIOU, E.; TRUSCAN, D.; CABOT, J.; GOMEZ, A.; GORRONOGOITIA, J.; POMANTE, L.; SMRZ, P. The MegaM@Rt2 ECSEL Project: MegaModelling at Runtime - Scalable Model-Based Framework for Continuous Development and Runtime Validation of Complex Systems. Microprocessors and Microsystems, 2018, vol. 61, no. 9, p. 86-95. ISSN: 0141-9331. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "BUITELAAR, P.; WOOD, I.; NEGI, S.; ARCAN, M.; MCCRAE, J.; ABELE, A.; ROBIN, C.; ANDRYUSHECHKIN, V.; ZIAD, H.; SAGHA, H.; SCHMITT, M.; SCHULLER, B.; SANCHEZ-RADA, J.; IGLESIAS, C.; NAVARRO, C.; GIEFER, A.; HEISE, N.; MASUCCI, V.; DANZA, F.; CATERINO, C.; SMRZ, P.; HRADIS, M.; POVOLNY, F.; KLIMES, M.; MATEJKA, P.; TUMMARELLO, G. MixedEmotions: An Open-Source Toolbox for Multimodal Emotion Analysis. IEEE TRANSACTIONS ON MULTIMEDIA, 2018, vol. 20, no. 9, p. 2454-2465. ISSN: 1520-9210. Detail"
+        },
+        {
+            "year": "2018",
+            "details": "DYTRYCH, J.; SMRZ, P. Advanced User Interfaces for Semantic Annotation of Complex Relations in Text. In Agents and Artificial Intelligence. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2018. no. 2018, p. 205-221. ISBN: 978-3-319-93581-2. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2017",
+            "details": "FAJCIK, M.; SMRZ, P.; ZACHARIASOVA, M. Automation of Processor Verification Using Recurrent Neural Networks. In 18th International Workshop on Microprocessor and SOC Test, Security and Verification (MTV). Austin, Texas: Institute of Electrical and Electronics Engineers, 2017. p. 15-20. ISBN: 978-1-5386-3351-9. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "DYTRYCH, J.; SMRZ, P. Interaction Patterns in Computer-assisted Semantic Annotation of Text - An Empirical Evaluation. In Proceedings of the 8th International Conference on Agents and Artificial Intelligence. Volume 2: ICAART. Setubal: SciTePress - Science and Technology Publications, 2016. p. 74-84. ISBN: 978-989-758-172-4. Detail"
+        },
+        {
+            "year": "2016",
+            "details": "OTRUSINA, L.; SMRZ, P. WTF-LOD - A New Resource for Large-Scale NER Evaluation. In Proceedings of the Tenth conference on International Language Resources and Evaluation (LREC'16). Portoroz: European Language Resources Association, 2016. p. 3299-3302. ISBN: 978-2-9517408-9-1. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "BLAT, J.; EVANS, A.; HILTON, A.; IMRE, E.; KIM, H.; NIKOLAIDIS, N.; PITAS, I.; POLOK, L.; SMRZ, P.; TEFAS, A.; ZEMCIK, P. IMPART: Big media data processing and analysis for film production. In IEEE International Conference on Multimedia Expo Workshops (ICMEW). Torino: 2015. p. 1-5. ISBN: 978-1-4799-7079-7. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "RYCHLY, M.; SKODA, P.; SMRZ, P. Heterogeneity-Aware Scheduler for Stream Processing Frameworks. International Journal of Big Data Intelligence, 2015, vol. 2, no. 2, p. 70-80. ISSN: 2053-1397. Detail"
+        },
+        {
+            "year": "2015",
+            "details": "SMRZ, P.; DYTRYCH, J. Advanced Features of Collaborative Semantic Annotators - the 4A System. In Proceedings of the Twenty-Eighth International Florida Artificial Intelligence Research Society Conference. Palo Alto, California: American Association for Artificial Intelligence, 2015. p. 233-236. ISBN: 978-1-57735-730-8. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "OTRUSINA, L.; SMRZ, P. Deep Learning from Web-Scale Corpora for Better Dictionary Interfaces. Proceedings of the 4th Workshop on Cognitive Aspects of the Lexicon (CogALex). Dublin: Association for Computational Linguistics, 2014. p. 22-30. ISBN: 978-1-63439-217-4. Detail"
+        },
+        {
+            "year": "2014",
+            "details": "RYCHLY, M.; SKODA, P.; SMRZ, P. Scheduling Decisions in Stream Processing on Heterogeneous Clusters. In 2014 Eighth International Conference on Complex, Intelligent and Software Intensive Systems. Birmingham: IEEE Computer Society, 2014. p. 614-619. ISBN: 978-1-4799-4325-8. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "DENECKE, K.; KRIECK, M.; OTRUSINA, L.; SMRZ, P.; DOLOG, P.; NEJDL, W.; VELASCO, E. How to Exploit Twitter for Public Health Monitoring. METHODS OF INFORMATION IN MEDICINE, 2013, vol. 52, no. 4, p. 326-339. ISSN: 0026-1270. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "OTRUSINA, L.; SMRZ, P. BUT-TYPED: Using domain knowledge for computing typed similarity. Second Joint Conference on Lexical and Computational Semantics (*SEM), Volume 1: Proceedings of the Main Conference and the Shared Task: Semantic Textual Similarity. Atlanta: Association for Computational Linguistics, 2013. p. 119-123. ISBN: 978-1-937284-48-0. Detail"
+        },
+        {
+            "year": "2013",
+            "details": "PETCU, D.; DI MARTINO, B.; VENTICINQUE, S.; RAK, M.; MAHR, T.; LOPEZ, G.; BRITO, F.; COSSU, R.; STOPAR, M.; SPERKA, S.; STANKOVSKI, V. Experiences in building a mOSAIC of clouds. Journal of Cloud Computing-Advances Systems and Applications, 2013, vol. 2, no. 12, p. 1-38. ISSN: 2192-113X. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "POLOK, L.; SMRZ, P. Fast Linear Algebra on GPU. IEEE conference proceedings. Liverpool: IEEE Computer Society, 2012. p. 1-6. ISBN: 978-0-7695-4749-7. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "QIU, R.; JI, Z.; NOYVIRT, A.; SOROKA, A.; SETCHI, R.; PHAM, D.; XU, S.; SHIVAROV, N.; PIGINI, L.; ARBEITER, G.; WEISSHARDT, F.; GRAF, B.; MAST, M.; BLASI, L.; FACAL, D.; ROOKER, M.; LOPEZ, R.; LI, D.; LIU, B.; KRONREIF, G.; SMRZ, P. Towards robust personal assistant robots: Experience gained in the SRS project. Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Vilamoura: Institute of Electrical and Electronics Engineers, 2012. p. 1651-1657. ISBN: 978-1-4673-1737-5. Detail"
+        },
+        {
+            "year": "2012",
+            "details": "SMRZ, P.; DENECKE, K.; DOLOG, P. Making use of social media data in public health. Proceedings of the 21st international conference companion on World Wide Web. New York: Association for Computing Machinery, 2012. p. 243-246. ISBN: 978-1-4503-1230-1. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "DENECKE, K.; KIRCHNER, G.; DOLOG, P.; SMRZ, P.; LINGE, J.; BACKFRIED, G.; DREESMAN, J. Event-Driven Architecture for Health Event Detection from Multiple Sources. Proceedings of the XXIII International Conference of the European Federation for Medical Informatics (MIE 2011). Oslo: IOS Press, 2011. p. 160-164. ISBN: 978-1-60750-805-2. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "OTRUSINA, L.; DENECKE, K.; DREESMAN, J.; KRIECK, M. A New Age of Public Health: Identifying Disease Outbreaks by Analyzing Tweets. Proceedings of Health WebScience Workshop, ACM Web Science Conference. Koblenz: Association for Computing Machinery, 2011. p. 10-15. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "OTRUSINA, L.; DREESMAN, J.; ECKMANNS, T.; KRIECK, M.; LINGE, J.; VELASCO, E. Social media and epidemiology: Tweets indicate Norovirus outbreak at a university. Proceedings of the European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2011). Milan: The European Society of Clinical Microbiology and Infectious Diseases, 2011. p. 1-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "OTRUSINA, L.; DREESMAN, J.; ECKMANNS, T.; KRIECK, M.; LINGE, J.; VELASCO, E. Social media and epidemiology: Tweets indicate Norovirus outbreak at a university. Proceedings of the International Meeting on Emerging Diseases and Surveillance (IMED 2011). Brookline: International Society for Infectious Diseases, 2011. p. 1-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "OTRUSINA, L.; SMRZ, P. Finding Indicators of Epidemiological Events by Analyzing Messages from Twitter and Other Social Media. 20th ACM Conference on Information and Knowledge Management workshop proceedings by ACM. Glasgow: Association for Computing Machinery, 2011. p. 1-4. ISBN: 978-1-4503-0950-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "POLOK, L.; SMRZ, P. Implementing Random Indexing on GPU. Proceedings of the 19th High Performance Computing Symposium. HPC '11. Boston: SCS Publication House, 2011. p. 134-142. ISBN: 978-1-61782-840-9. Detail"
+        },
+        {
+            "year": "2011",
+            "details": "SMRZ, P.; DYTRYCH, J. Towards New Scholarly Communication: A Case Study of the 4A Framework. In Proceedings of the Workshop on Semantic Publications. CEUR Workshop Proceedings. Aachen: CEUR, 2011. no. 2011, p. 59-70. ISBN: 978-3-642-25952-4. ISSN: 1613-0073. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "AVRITHIS, Y.; MYLONAS, P.; SOLACHIDIS, V.; GEYER-SCHULTZ, A.; HOSER, B.; CHAPMAN, S.; CIRAVEGNA, F.; STAAB, S.; SMRZ, P.; KOMPATSIARIS, Y. Efficient Media Exploitation Towards Collective Intelligence. In Advances in Data Analysis, Data Handling and Business Intelligence. Studies in Classification, Data Analysis, and Knowledge Organization. Berlin: Springer Verlag, 2010. p. 723-732. ISBN: 978-3-642-01043-9. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SCHMIDT, M.; SMRZ, P. RDFa editor pro semanticke wiki. Znalost 2010. Sbornik prispevku 9. rocniku konference. Jindrichuv Hradec: Fakulta managementu a informaci VSE, 2010. s. 255-258. ISBN: 978-80-245-1636-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SILHAVA, J.; SMRZ, P. Combination of Logistic Regression and Boosting to Predict Disease Outcome. Applied Statistics 2010 International Conference. Ribno, Bled: 2010. p. 35-35. ISBN: 978-961-92487-4-4. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SILHAVA, J.; SMRZ, P. Gene Ontology Driven Feature Filtering from Microarray Data. Znalosti 2010. 9th Annual Conference, Jindrichuv Hradec. Jindrichuv Hradec: 2010. s. 263-266. ISBN: 978-80-245-1636-3. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SILHAVA, J.; SMRZ, P. Improved Disease Outcome Prediction Based on Microarray and Clinical Data Combination and Pre-validation. Biomedical Engineering Systems and Technologies. Valencia: Springer Verlag, 2010. p. 36-41. ISBN: 978-3-540-92218-6. Detail"
+        },
+        {
+            "year": "2010",
+            "details": "SOLACHIDIS, V.; MYLONAS, P.; GEYER-SCHULTZ, A.; HOSER, B.; CHAPMAN, S.; CIRAVEGNA, F.; LANFRANCHI, V.; SCHERP, A.; STAAB, S.; CONTOPOULOS, C.; GKIKA, I.; BAKAIMIS, B.; SMRZ, P.; KOMPATSIARIS, Y.; AVRITHIS, Y. Collective Intelligence Generation from User Contributed Content. In Advances in Data Analysis, Data Handling and Business Intelligence. Studies in Classification, Data Analysis, and Knowledge Organization. Berlin: Springer Verlag, 2010. p. 765-774. ISBN: 978-3-642-01043-9. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KNOTH, P.; SCHMIDT, M.; SMRZ, P. Information Extraction in the KiWi Project. Znalosti 2009. 8th Annual Conference, Brno. Bratislava: Faculty of Informatics and Information Technology Slovak University of Technology in Bratislava, 2009. p. 363-366. ISBN: 978-80-227-3015-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "KNOTH, P.; SCHMIDT, M.; SMRZ, P.; ZDRAHAL, Z. Towards a Framework for Comparing Automatic Term Recognition Methods. Znalosti 2009. 8th Annual Conference, Brno. Bratislava: Faculty of Informatics and Information Technology Slovak University of Technology in Bratislava, 2009. p. 83-94. ISBN: 978-80-227-3015-0. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SCHMIDT, M.; SMRZ, P. Information Extraction in Semantic Wikis. Fourth Workshop on Semantic Wikis. CEUR Workshop Proceedings. CEUR Workshop Proceedings, Vol 464. Hersonissos: Salzburg Research Forschungsgesellschaft M.B.H., 2009. no. 464, p. 17-29. ISSN: 1613-0073. Detail"
+        },
+        {
+            "year": "2009",
+            "details": "SILHAVA, J.; SMRZ, P. Additional Predictive Value of Microarray Data Compared to Clinical Variables. PRIB 2009, 4th IAPR International Conference on Pattern Recognition in Bioinformatics. Sheffield: University of Sheffield, 2009. p. 1-6. ISBN: 978-0-9563399-0-4. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "FURDIK, K.; PARALIC, J.; SMRZ, P. Classification and Automatic Concept Map Creation in eLearning Environment. Znalosti 2008. Bratislava: Slovak University of Technology in Bratislava, 2008. p. 78-89. ISBN: 978-80-227-2827-0. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "KILGARRIFF, A.; RYCHLY, P.; SMRZ, P.; TUGWELL, D. The Sketch Engine. In Practical Lexicography: A Reader. Oxford: Oxford University Press, 2008. p. 297-306. ISBN: 978-0-19-929234-9. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "SMRZ, P.; SILHAVA, J.; KLEMA, J.; ZELEZNY, F. Gene Expression Data Mining Guided by Genomic Background Knowledge. SOFSEM 2008: Theory and Practice of Computer Science. Novy Smokovec: Springer Verlag, 2008. p. 101-111. ISBN: 978-80-7097-697-5. Detail"
+        },
+        {
+            "year": "2008",
+            "details": "VACURA, M.; SVATEK, V.; SMRZ, P. A Pattern-based Framework for Representation of Uncertainty in Ontologies. Proceedings of the 11th International Conference on Text, Speech, and Dialogue. Berlin: Springer Verlag, 2008. p. 1-8. ISBN: 978-3-540-87390-7. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "SMRZ, P.; SILHAVA, J. A Framework for Microarray Data Mining and Processing. Information and Intelligent Systems. 18th International Conference. Varazdin: 2007. p. 337-343. ISBN: 978-953-607130-2. Detail"
+        },
+        {
+            "year": "2007",
+            "details": "VACURA, M.; SVATEK, V.; SMRZ, P.; SIMOU, N. A Pattern-based Framework for Representation of Uncertainty in Ontologies. Proceedings of the 6th International Workshop on Uncertainty Reasoning for the Semantic Web. Busan: 2007. p. 135-136. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "BURGET, L.; FAPSO, M.; MATEJKA, P.; SMRZ, P.; CERNOCKY, J.; KARAFIAT, M.; SCHWARZ, P.; SZOKE, I. Indexing and search methods for spoken documents. Proceedings of the Ninth International Conference on Text, Speech and Dialogue, TSD 2006. Lecture Notes in Computer Science. LNCS. Berlin: Springer Verlag, 2006. no. 4188, p. 351-358. ISSN: 0302-9743. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "FAPSO, M.; SCHWARZ, P.; SZOKE, I.; SMRZ, P.; SCHWARZ, M.; CERNOCKY, J.; KARAFIAT, M.; BURGET, L. Search Engine for Information Retrieval from Speech Records. Proceedings of the Third International Seminar on Computer Treatment of Slavic and East European Languages. Bratislava: 2006. p. 100-101. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "FAPSO, M.; SMRZ, P.; SCHWARZ, P.; SZOKE, I.; SCHWARZ, M.; CERNOCKY, J.; KARAFIAT, M.; BURGET, L. Information Retrieval from Spoken Documents. Proceedings of the Seventh International Conference on Intelligent Text Processing and Computational Linguistics (CICLING 2006). Mexico City: Springer Verlag, 2006. p. 410-416. ISBN: 3-540-32205-1. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "NOVACEK, V.; SMRZ, P.; POMIKALEK, J. Text Mining for Semantic Relations as a Support Base of a Scientific Portal Generator. Proceedings of the 5th International Conference on Language Resources and Evaluation. Paris: European Language Resources Association, 2006. p. 1338-1343. ISBN: 2-9517408-2-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SINOPALNIKOVA, A.; SMRZ, P. Intelligent Dictionary Interfaces: Usability Evaluation of Access-Supporting Enhancements. Proceedings of the 5th International Conference on Language Resources and Evaluation. Paris: European Language Resources Association, 2006. p. 1-4. ISBN: 2-9517408-2-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SINOPALNIKOVA, A.; SMRZ, P. Knowing a Word vs. Accessing a Word: Wordnet and Word Association Norms as Interfaces to Electronic Dictionaries. Proceedings of the Third International WordNet Conference, GWC 2006. Brno: Masaryk University, 2006. p. 265-272. ISBN: 80-210-3915-9. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRZ, P. Automatic Acquisition of Semantics-Extraction Patterns. Proceedings of the 5th International Conference on Language Resources and Evaluation. Paris: European Language Resources Association, 2006. p. 1-4. ISBN: 2-9517408-2-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRZ, P. Automaticke generovani vedeckych portalu. Sbornik prispevku 5. rocniku konference Znalosti 2006. Ostrava: VSB Technicka univerzita Ostrava, 2006. s. 252-255. ISBN: 80-248-1001-8. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRZ, P. Uncertainty Extensions to Ontologies as a Tool for Semantic Interpretation in Audiovisual Systems. Proceedings of the 1st International Conference on Semantic and Digital Media Technologies, Poster and Demo. Athens: 2006. p. 27-28. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRZ, P. Using WordNet for Opinion Mining. Proceedings of the Third International WordNet Conference, GWC 2006. Brno: Masaryk University, 2006. p. 333-335. ISBN: 80-210-3915-9. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRZ, P.; BABIC, F.; PARALIC, J.; SMATANA, P. Knowledge-Practices Laboratory. Proceedings of the International Conference on Information & Communication Technology in Education (ICTE 2006). Ostrava: University of Ostrava, 2006. p. 1-4. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRZ, P.; KADLEC, V. How Many Dots Are Really Needed for Head-Driven Chart Parsing?. SOFSEM 2006: Theory and Practice of Computer Science: 32nd Conference on Current Trends in Theory and Practice of Computer Science. Berlin: Springer Verlag, 2006. p. 483-492. ISBN: 3-540-31198-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRZ, P.; NOVACEK, V. Empirical Merging of Ontologies A Proposal of Universal Uncertainty Representation Framework. The Semantic Web: Research and Applications. Lecture notes in Computer Science 4011/2006 - Proceedings of ESWC'06 - the 3rd European Semantic Web Conference. Berlin: Springer Verlag, 2006. p. 65-79. ISBN: 3-540-34544-2. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRZ, P.; NOVACEK, V. Ontology Acquisition for Automatic Building of Scientific Portals. SOFSEM 2006: Theory and Practice of Computer Science: 32nd Conference on Current Trends in Theory and Practice of Computer Science. Berlin: Springer Verlag, 2006. p. 493-500. ISBN: 3-540-31198-X. Detail"
+        },
+        {
+            "year": "2006",
+            "details": "SMRZ, P.; PARALIC, J. Technologicka podpora v projektu KP-Lab. Sbornik seminare Technologie pro e-vzdelavani. Praha: Ceske vysoke uceni technicke, 2006. s. 1-4. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "MIKSIK, D.; PITNER, T.; SMRZ, P. Systemy rizeni vyuky - adaptace, integrace a pouziti na MU a VUT v Brne. EMTECH - Education, media, technology. Praha: Ceske vysoke uceni technicke, 2005. s. 18-18. ISBN: 80-01-03336-8. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SINOPALNIKOVA, A.; SMRZ, P.; AZAROVA, I. Presenting Collocations in RussNet. Proceedings of the International Conference on Computational Linguistics and Intellectual Technologies. Zvenigorodskij: Nauka, 2005. p. 5-12. ISBN: 978-5-7281-1102-3. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SMRZ, P. Parallel Metagrammar for Closely Related Languages - A Case Study of Czech and Russian. Research on Language & Computation, 2005, vol. 3, no. 2, p. 101-128. ISSN: 1570-7075. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SMRZ, P.; FAPSO, M. Vyhledavani v zaznamech prednasek. Sbornik seminare Technologie pro e-vzdelavani. Praha: Ceske vysoke uceni technicke, 2005. s. 21-26. ISBN: 80-01-03274-4. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SMRZ, P.; KADLEC, V. Incremental Parser for Czech. 4th International Symposium on Information and Communication Technologies (WISICT05). Cape Town: Association for Computing Machinery, 2005. p. 117-122. ISBN: 0-9544145-6. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SMRZ, P.; NOVACEK, V. BOLE - A New Bio-Ontology Learning Platform. Proceedings of the Workshop on Biomedical Ontologies and Text Processing, European Conference on Computational Biology. Madrid: 2005. p. 100-107. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SMRZ, P.; NOVACEK, V. OLE - A New Ontology Learning Platform. Proceedings of the International Workshop on Text Mining Research, Practice and Opportunities. Borovets: Incoma, 2005. p. 12-16. ISBN: 954-91743-1-X. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SMRZ, P.; PITNER, T.; GREGAR, T. Technologie zpracovani prirozeneho jazyka pro elektronickou podporu vyuky. Sbornik konference Informatika XVI. Brno: Konvoj, 2005. s. 168-175. ISBN: 80-7302-083-1. Detail"
+        },
+        {
+            "year": "2005",
+            "details": "SMRZ, P.; PRYMEK, M.; HORAK, A.; SINOPALNIKOVA, A. Emergent Systems and Intelligent Agents for Simulation of Power Systems. Proceedings of Elnet 2004. Ostrava: VSB-Technical University of Ostrava, 2005. p. 101-104. ISBN: 80-248-0738-6. Detail"
+        }
+    ],
+    "appliedresults": [
+        {
+            "year": "2024",
+            "title": "Textjuicer - Software for Generating Summaries",
+            "authors": "Textjuicer - Software for Generating Summaries , software, 2024 : DOCEKAL, M.; FAJCIK, M.; HRADIS, M."
+        },
+        {
+            "year": "2023",
+            "title": "MASAPI - Question Answering",
+            "authors": "MASAPI - Question Answering , software, 2023 : DOCEKAL, M.; SMRZ, P."
+        },
+        {
+            "year": "2023",
+            "title": "Official Implementation of Fact-Checking System \"Claim-Dissector\"",
+            "authors": "Official Implementation of Fact-Checking System \"Claim-Dissector\" , software, 2023 : FAJCIK, M.; SMRZ, P.; MOTLICEK, P."
+        },
+        {
+            "year": "2022",
+            "title": "Query-Based Extractor of Keyphrases",
+            "authors": "Query-Based Extractor of Keyphrases , software, 2022 : DOCEKAL, M.; SMRZ, P."
+        },
+        {
+            "year": "2021",
+            "title": "Official implementation of BUT-FIT's solution from SemEval-2020 Task 4: Commonsense Validation and Explanation",
+            "authors": "Official implementation of BUT-FIT's solution from SemEval-2020 Task 4: Commonsense Validation and Explanation , software, 2021 : JON, J.; FAJCIK, M.; DOCEKAL, M.; SMRZ, P."
+        },
+        {
+            "year": "2021",
+            "title": "R2-D2: System for Open-Domain Question Answering",
+            "authors": "R2-D2: System for Open-Domain Question Answering , software, 2021 : FAJCIK, M.; DOCEKAL, M.; ONDREJ, K.; SMRZ, P."
+        },
+        {
+            "year": "2020",
+            "title": "Automatic counterfactual reasoning tool from SemEval2020",
+            "authors": "Automatic counterfactual reasoning tool from SemEval2020 , software, 2020 : FAJCIK, M.; JON, J.; DOCEKAL, M.; SMRZ, P."
+        },
+        {
+            "year": "2019",
+            "title": "Rumoureval-2019 official implementation",
+            "authors": "Rumoureval-2019 official implementation , software, 2019 : FAJCIK, M.; BURGET, L.; SMRZ, P."
+        },
+        {
+            "year": "2019",
+            "title": "Software pro doplnovani informaci o puvodcich dokumentu a dalsich metadat na zaklade analyzy plnych textu dokumentu",
+            "authors": "Software pro doplnovani informaci o puvodcich dokumentu a dalsich metadat na zaklade analyzy plnych textu dokumentu , software, 2019 : OTRUSINA, L.; SMRZ, P."
+        },
+        {
+            "year": "2018",
+            "title": "Softwarove nastroje pro poloautomaticke provazovani katalogizacnich zaznamu s databazi narodnich autorit a relevantnimi narodnimi zdroji LOD (Linked Open Data)",
+            "authors": "Softwarove nastroje pro poloautomaticke provazovani katalogizacnich zaznamu s databazi narodnich autorit a relevantnimi narodnimi zdroji LOD (Linked Open Data) , software, 2018 : OTRUSINA, L.; SMRZ, P."
+        },
+        {
+            "year": "2017",
+            "title": "System pro semanticke obohacovani plnych textu o vazbu na jmenne autority",
+            "authors": "System pro semanticke obohacovani plnych textu o vazbu na jmenne autority , software, 2017 : OTRUSINA, L.; SMRZ, P."
+        },
+        {
+            "year": "2016",
+            "title": "Automaticky klasifikator pro Centralni portal knihoven",
+            "authors": "Automaticky klasifikator pro Centralni portal knihoven , software, 2016 : SMRZ, P.; KURAK, O.; OTRUSINA, L."
+        },
+        {
+            "year": "2015",
+            "title": "Blogs downloader for MixedEmotions project",
+            "authors": "Blogs downloader for MixedEmotions project , software, 2015 : OTRUSINA, L.; SMRZ, P."
+        },
+        {
+            "year": "2015",
+            "title": "Corpora Processing Software",
+            "authors": "Corpora Processing Software , software, 2015 : DYTRYCH, J.; KOURIL, J.; KARASEK, M.; SMRZ, P.; DOLEZAL, J.; OTRUSINA, L."
+        },
+        {
+            "year": "2015",
+            "title": "Semantic Enrichment Component",
+            "authors": "Semantic Enrichment Component , software, 2015 : DOLEZAL, J.; SMRZ, P.; DYTRYCH, J.; OTRUSINA, L.; KOURIL, J."
+        },
+        {
+            "year": "2015",
+            "title": "WTF-LOD Extractor",
+            "authors": "WTF-LOD Extractor , software, 2015 : OTRUSINA, L.; SMRZ, P."
+        },
+        {
+            "year": "2014",
+            "title": "Semantic Annotator",
+            "authors": "Semantic Annotator , software, 2014 : OTRUSINA, L.; SMRZ, P."
+        },
+        {
+            "year": "2013",
+            "title": "Accelerated DPX decoder",
+            "authors": "Accelerated DPX decoder , software, 2013 : POLOK, L.; ILA, V.; SEEMAN, M.; SMRZ, P.; SVOBODA, A.; SOLONY, M.; ZEMCIK, P."
+        },
+        {
+            "year": "2013",
+            "title": "Annotation system for Drupal",
+            "authors": "Annotation system for Drupal , software, 2013 : DYTRYCH, J.; SMRZ, P.; CUDRAK, M.; PETR, M.; KOPECKY, M.; KUBIK, L.; STRECHA, J.; PENKAVA, P.; LOSKOT, R.; LOUKOTA, P.; MACHACEK, J.; ZUREK, A.; KLEBAN, M.; KRATOCHVILOVA, M."
+        },
+        {
+            "year": "2013",
+            "title": "CloudStack vendor module for mOSAIC",
+            "authors": "CloudStack vendor module for mOSAIC , software, 2013 : SKODA, P.; SPERKA, S.; SMRZ, P."
+        },
+        {
+            "year": "2013",
+            "title": "Decipher Semantic Annotator",
+            "authors": "Decipher Semantic Annotator , software, 2013 : OTRUSINA, L.; SMRZ, P."
+        },
+        {
+            "year": "2013",
+            "title": "GPU Accelerated Similarity Matrix Module",
+            "authors": "GPU Accelerated Similarity Matrix Module , software, 2013 : POLOK, L.; ILA, V.; SMRZ, P.; SVOBODA, P.; SOLONY, M.; ZEMCIK, P."
+        },
+        {
+            "year": "2013",
+            "title": "SNAPPER Image Postprocess",
+            "authors": "SNAPPER Image Postprocess , software, 2013 : POLOK, L.; SEEMAN, M.; ILA, V.; SMRZ, P.; SOLONY, M.; ZEMCIK, P."
+        },
+        {
+            "year": "2012",
+            "title": "Annotation editor",
+            "authors": "Annotation editor , software, 2012 : DYTRYCH, J.; KLEBAN, M.; LOUKOTA, P.; SMRZ, P.; CUDRAK, M.; PENKAVA, P."
+        },
+        {
+            "year": "2012",
+            "title": "Classification Framework for Texts on Visual Arts",
+            "authors": "Classification Framework for Texts on Visual Arts , software, 2012 : KOURIL, J."
+        },
+        {
+            "year": "2012",
+            "title": "Cloud Information Extractor from Scientific Papers",
+            "authors": "Cloud Information Extractor from Scientific Papers , software, 2012 : SPERKA, S.; SKODA, P.; SMRZ, P."
+        },
+        {
+            "year": "2012",
+            "title": "Content collector and document analysis for the M-Eco project",
+            "authors": "Content collector and document analysis for the M-Eco project , software, 2012 : OTRUSINA, L.; SMRZ, P.; JERABEK, J.; MAREK, T.; RYLKO, V.; SZNAPKA, J.; SAFAR, M.; UHERCIK, M."
+        },
+        {
+            "year": "2012",
+            "title": "Decipher focused crawler",
+            "authors": "Decipher focused crawler , software, 2012 : MRNUSTIK, M."
+        },
+        {
+            "year": "2012",
+            "title": "Decipher NER a Decipher IE",
+            "authors": "Decipher NER a Decipher IE , software, 2012 : OTRUSINA, L.; SMRZ, P.; SZNAPKA, J.; SAFAR, M."
+        },
+        {
+            "year": "2012",
+            "title": "R3-COP Knowledge Base",
+            "authors": "R3-COP Knowledge Base , software, 2012 : CHMELAR, P.; DALGAARD, L.; SMRZ, P.; ZEMCIK, P."
+        },
+        {
+            "year": "2012",
+            "title": "SPARQL Queries Motifs Miner",
+            "authors": "SPARQL Queries Motifs Miner , software, 2012 : SPERKA, S."
+        },
+        {
+            "year": "2011",
+            "title": "BUT Recognizer of GeoNames",
+            "authors": "BUT Recognizer of GeoNames , software, 2011 : OTRUSINA, L.; SMRZ, P.; SZNAPKA, J.; SAFAR, M."
+        },
+        {
+            "year": "2011",
+            "title": "Homepage reSearcher",
+            "authors": "Homepage reSearcher , software, 2011 : HELLER, S.; LOKAJ, T.; OTRUSINA, L.; SMRZ, P."
+        },
+        {
+            "year": "2011",
+            "title": "LMF dictionary conversion scripts",
+            "authors": "LMF dictionary conversion scripts , software, 2011 : KOURIL, J."
+        },
+        {
+            "year": "2010",
+            "title": "Analysis of data from social networks",
+            "authors": "Analysis of data from social networks , software, 2010 : OTRUSINA, L.; SMRZ, P."
+        },
+        {
+            "year": "2010",
+            "title": "CLucene indexing tool",
+            "authors": "CLucene indexing tool , software, 2010 : POLOK, L.; SMRZ, P."
+        },
+        {
+            "year": "2010",
+            "title": "Connexion",
+            "authors": "Connexion , software, 2010 : SPERKA, S.; SMRZ, P."
+        },
+        {
+            "year": "2010",
+            "title": "KiWi Information Extraction Service",
+            "authors": "KiWi Information Extraction Service , software, 2010 : SCHMIDT, M.; SMRZ, P."
+        },
+        {
+            "year": "2010",
+            "title": "Random Indexing on GPU",
+            "authors": "Random Indexing on GPU , software, 2010 : POLOK, L.; SMRZ, P."
+        },
+        {
+            "year": "2010",
+            "title": "Server for sharing annotations",
+            "authors": "Server for sharing annotations , software, 2010 : DYTRYCH, J.; SMRZ, P."
+        },
+        {
+            "year": "2010",
+            "title": "Speech Tagging",
+            "authors": "Speech Tagging , software, 2010 : SMRZ, P.; SCHMIDT, M.; ZUZANAK, J.; PRIBYL, B.; NAVRATIL, J.; LANIK, A.; BURGET, L.; CIPR, T.; FAPSO, M.; GLEMBEK, O.; GREZL, F.; CHALUPNICEK, K.; KARAFIAT, M.; MATEJKA, P.; SCHWARZ, P.; SZOKE, I."
+        }
+    ],
+    "results_with_impacton_practice": [
+        {
+            "year": "2012",
+            "title": "M-Eco D3.3 - M-Eco Media Content Analysis",
+            "authors": ", research report, 2012 : OTRUSINA, L.; SMRZ, P.; BACKFRIED, G."
+        },
+        {
+            "year": "2011",
+            "title": "M-Eco D3.2 - Semantic Annotator",
+            "authors": ", research report, 2011 : OTRUSINA, L.; SMRZ, P."
+        },
+        {
+            "year": "2010",
+            "title": "M-Eco D3.1 - Speech Recognition and Content Classification Subsystems",
+            "authors": ", research report, 2010 : OTRUSINA, L.; SMRZ, P.; BACKFRIED, G."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2005",
+            "title": "Search Engine for Information Retrieval from Multi-modal Records",
+            "authors": "Search Engine for Information Retrieval from Multi-modal Records , presentation, poster, 2005 : FAPSO, M.; SCHWARZ, P.; SZOKE, I.; CERNOCKY, J.; SMRZ, P.; BURGET, L.; KARAFIAT, M."
+        }
+    ]
+}

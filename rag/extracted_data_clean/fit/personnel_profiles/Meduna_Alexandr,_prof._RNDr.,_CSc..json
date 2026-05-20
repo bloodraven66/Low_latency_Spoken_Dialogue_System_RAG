@@ -1,0 +1,1090 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Deputy Head of\nDepartment",
+        "details": {
+            "e_mail": "meduna@fit.vut.cz",
+            "work_phone": "+420 54114 1232",
+            "room": "C216 Office",
+            "researcher_id": "DWU-9424-2022",
+            "orcid_id": "0000-0002-2341-0606",
+            "scopus_author_id": "6701461172"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Formal Model Research Group",
+            "role": "Principal researcher"
+        },
+        {
+            "organization": "Library Board",
+            "role": "Chairman"
+        },
+        {
+            "organization": "Bachelor Study Programme Board",
+            "role": "Member"
+        },
+        {
+            "organization": "BUT Library Council",
+            "role": "Member"
+        },
+        {
+            "organization": "Doctoral Study Programme Board of FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Editorial Board",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "chairman"
+        },
+        {
+            "organization": "Scientific Board",
+            "role": "Member of Scientific Board"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            {
+                "date": "21.09.1981\n-\n21.06.1982",
+                "details": "Palacky UniversityB.C."
+            },
+            {
+                "date": "21.09.1982\n-\n21.06.1985",
+                "details": "Palacky UniversityM.S."
+            },
+            {
+                "date": "21.06.1985\n-\n21.12.1988",
+                "details": "BUT BrnoPhD"
+            },
+            {
+                "date": "21.12.1988\n-\n27.06.1996",
+                "details": "University of MissouriVisiting Assistant Professor"
+            },
+            {
+                "date": "27.06.1996\n-\n27.06.1998",
+                "details": "BUT Computing CenterSenior Researcher"
+            },
+            {
+                "date": "27.06.1998\n-\n...",
+                "details": "FIT BUTProfessor"
+            }
+        ],
+        "scientific_activities": [
+            "Mathematically oriented computer science",
+            "Areas of Special Interest: automata, formal languages, compilers, computer algebra, graphs, metamathematics",
+            "My work website"
+        ],
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2002",
+            "BUT rector's prize 2004",
+            "Siemens Award - Werner von Siemens Excellence Award 2012",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2012",
+            "BUT Siver medal 2020"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "By appointment by meduna@fit.vut.cz",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "VYPa",
+                "title": "Compiler Construction (in English)",
+                "details": "English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IFJ",
+                "title": "Formal Languages and Compilers",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IFJe",
+                "title": "Formal Languages and Compilers (in English)",
+                "details": "English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "GAL",
+                "title": "Graph Algorithms",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "GALe",
+                "title": "Graph Algorithms (in English)",
+                "details": "English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "TID",
+                "title": "Modern Theoretical Computer Science",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "RGD",
+                "title": "Regulated Grammars and Automata",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "IFJ",
+                "title": "Formal Languages and Compilers",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IFJe",
+                "title": "Formal Languages and Compilers (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "RGD",
+                "title": "Regulated Grammars and Automata",
+                "details": "Guided consultation in combined form of studies, Lecture, Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "TID",
+                "title": "Modern Theoretical Computer Science",
+                "details": "Guided consultation in combined form of studies, Lecture, Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "VYPa",
+                "title": "Compiler Construction (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2021",
+            "title": "FIT BUT - Preparation of own project for Horizon Europe program",
+            "details": "JMK, Smart akcelerator v Jihomoravskem kraji II, start: 2021-08-01, end: 2022-01-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Efficient Finite Automata for Automated Reasoning",
+            "details": "MSMT, ERC CZ, LL1908, start: 2020-01-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Metody AI pro zabezpeceni kybernetickeho prostoru a ridici systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6293, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Nastroje, metody a technologie ICT pro podporu konceptu smart cities",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3964, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Vyzkum pokrocilych metod ICT a jejich aplikace",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2299, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "Mathematical Foundations of Formal Language Theory",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR271/2012/G1, start: 2012-01-01, end: 2012-12-31, completed"
+        },
+        {
+            "year": "2012",
+            "title": "V3C - Visual Computing Competence Center",
+            "details": "TACR, Centra kompetence, TE01020415, start: 2012-05-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-2, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Context-free languages and pushdown automata",
+            "details": "MSMT, KONTAKT, MEB041003, start: 2010-01-01, end: 2011-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Recognition and presentation of multimedia data",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-2, 2010, start: 2010-04-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Vyuka pokrocilych temat teoreticke informatiky na mezinarodni urovni",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR2581/2010/G1, start: 2010-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Inovative Approach to the Compiler Projects",
+            "details": "FR673/2007/G1, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Multi-Information Technologies",
+            "details": "GACR, Standardni projekty, GA201/07/0005, start: 2007-01-01, end: 2009-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2007",
+            "title": "Teaching of Formal Language Theory at the International Level of EU",
+            "details": "FR762/2007/G1, start: 2007-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Didactic Demonstration of Formal Language Models",
+            "details": "FR1909/2006/G1, start: 2006-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Virtual Laboratory of Microprocessor Technology Application",
+            "details": "MSMT, Informacni technologie pro znalostni spolecnost, 2C06008, start: 2006-07-01, end: 2011-06-30, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Optimally Integrated Models of Modern Information Technologies",
+            "details": "GACR, Standardni projekty, GA201/04/0441, start: 2004-01-01, end: 2006-12-31, completed"
+        },
+        {
+            "year": "2002",
+            "title": "Modern Methods of Language Parsing",
+            "details": "FR1831/2002/G1, start: 2002-01-01, end: 2002-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "HAVEL, M.; KRIVKA, Z.; MEDUNA, A. Scattered Context Grammars with One Non-Context-Free Production and Six Nonterminals Are Computationally Complete. In Descriptional Complexity of Formal Systems. Lecture Notes in Computer Science. Loughborough: Springer Verlag, 2025. no. 7, p. 123-136. ISBN: 978-3-031-97099-3."
+        },
+        {
+            "year": "2025",
+            "citation": "MAKIS, J.; MEDUNA, A.; KRIVKA, Z. Orchestration of Music by Grammar Systems. In Proceedings of the 15th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Loughborough: Open Publishing Association, 2025. no. 7, p. 45-58."
+        },
+        {
+            "year": "2025",
+            "citation": "MEDUNA, A.; FOLTYN, Z. Centralized Versions of Jumping Finite Automata. In Languages of Cooperation and Communication: Erzsebeth Csuhaj-Varju Festschrift. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2025. p. 69-84. ISBN: 978-3-031-97274-4. ISSN: 0302-9743."
+        },
+        {
+            "year": "2024",
+            "citation": "HAVEL, M.; KRIVKA, Z.; MEDUNA, A. How to Demonstrate Metalinearness and Regularity by Tree-Restricted General Grammars. In Proceedings 14th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Gottingen: School of Computer Science and Engineering, University of New South Wales, 2024. no. 09, p. 86-99. ISSN: 2075-2180."
+        },
+        {
+            "year": "2024",
+            "citation": "MEDUNA, A.; KRIVKA, Z. Jumping Computation: Updating Automata and Grammars for Discontinuous Information Processing. Boca Raton: CRC Press LLC, 2024. 293 p. ISBN: 978-0-367-62093-6."
+        },
+        {
+            "year": "2023",
+            "citation": "KOZAR, T.; MEDUNA, A. Automata: Theory, Trends, And Applications. Singapore: World Scientific Publishing Co Pte Ltd, 2023. 436 p. ISBN: 978-981-1278-12-9."
+        },
+        {
+            "year": "2023",
+            "citation": "KOZAR, T.; MEDUNA, A.; KRIVKA, Z. Final sentential forms. In Proceedings 13th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Famagusta: School of Computer Science and Engineering, University of New South Wales, 2023. no. 9, p. 38-47. ISSN: 2075-2180."
+        },
+        {
+            "year": "2022",
+            "citation": "HAVEL, M.; MEDUNA, A. On Elimination of Erasing Rules from E0S Grammars. Computer Science Journal of Moldova, 2022, vol. 30, no. 2, p. 135-147. ISSN: 1561-4042."
+        },
+        {
+            "year": "2022",
+            "citation": "KLOBUCNIKOVA, D.; KRIVKA, Z.; MEDUNA, A. Conclusive Tree-Controlled Grammars. In Proceedings 12th International Workshop on Non-Classical Models of Automata and Applications. Electronic Proceedings in Theoretical Computer Science, EPTCS. Debrecen: School of Computer Science and Engineering, University of New South Wales, 2022. no. 367, p. 112-125. ISSN: 2075-2180."
+        },
+        {
+            "year": "2022",
+            "citation": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A.; NAGY, B. A Jumping 5'->3' Watson-Crick Finite Automata Model. ACTA INFORMATICA, 2022, vol. 59, no. 5, p. 557-584. ISSN: 0001-5903."
+        },
+        {
+            "year": "2022",
+            "citation": "KOLAR, D.; MEDUNA, A.; TOMKO, M. Multi-Island Finite Automata and Their Even Computations. KYBERNETIKA, 2022, vol. 57, no. 5, p. 856-877. ISSN: 0023-5954."
+        },
+        {
+            "year": "2022",
+            "citation": "MARTISKO, J.; KRIVKA, Z.; MEDUNA, A. CD Grammar Systems with Two Propagating Scattered Context Components Characterize the Family of Context Sensitive Languages. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2022, vol. 33, no. 03, p. 335-348. ISSN: 0129-0541."
+        },
+        {
+            "year": "2021",
+            "citation": "KOVARI, A.; KRIVKA, Z.; MEDUNA, A. Evaluating Yona Language. In INTERNATIONAL CONFERENCES ON WWW/INTERNET 2021 AND APPLIED COMPUTING 2021. Lisabon: International Association for Development of the Information Society, 2021. p. 101-108. ISBN: 978-989-8704-34-4."
+        },
+        {
+            "year": "2021",
+            "citation": "KRIVKA, Z.; MEDUNA, A. Scattered Context Grammars with One Non-Context-Free Production are Computationally Complete. FUNDAMENTA INFORMATICAE, 2021, vol. 179, no. 4, p. 361-384. ISSN: 0169-2968."
+        },
+        {
+            "year": "2020",
+            "citation": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. General CD Grammar Systems and Their Simplification. Journal of Automata, Languages and Combinatorics, 2020, vol. 25, no. 1, p. 37-54. ISSN: 1430-189X."
+        },
+        {
+            "year": "2020",
+            "citation": "MEDUNA, A.; HORACEK, P.; TOMKO, M. Handbook of Mathematical Models for Languages and Computation. Stevenage, United Kingdom: The Institution of Engineering and Technology, 2020. 761 p. ISBN: 978-1-78561-659-4."
+        },
+        {
+            "year": "2019",
+            "citation": "MEDUNA, A.; KRCMAR, R.; KOVARI, A.; BENICKOVA, Z. On Operations over Language Families. Computer Science Journal of Moldova, 2019, vol. 27, no. 3, p. 255-282. ISSN: 1561-4042."
+        },
+        {
+            "year": "2019",
+            "citation": "MEDUNA, A.; KRIVKA, Z.; KUCERA, J. Jumping Pure Grammars. COMPUTER JOURNAL, 2019, vol. 62, no. 1, p. 30-41. ISSN: 0010-4620."
+        },
+        {
+            "year": "2018",
+            "citation": "CHARVAT, L.; MEDUNA, A. A Reduction of Finitely Expandable Deep Pushdown Automata. Schedae Informaticae, 2018, vol. 2017, no. 26, p. 61-68. ISSN: 0860-0295."
+        },
+        {
+            "year": "2018",
+            "citation": "CHARVAT, L.; MEDUNA, A. Internally Expandable Pushdown Automata and Their Computational Completeness. Romanian Journal of Information Science and Technology, 2018, vol. 21, no. 3, p. 232-237. ISSN: 1453-8245."
+        },
+        {
+            "year": "2018",
+            "citation": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. On Double-Jumping Finite Automata and Their Closure Properties. RAIRO-THEORETICAL INFORMATICS AND APPLICATIONS, 2018, vol. 52, no. 2, p. 185-199. ISSN: 0988-3754."
+        },
+        {
+            "year": "2018",
+            "citation": "KOCMAN, R.; NAGY, B.; KRIVKA, Z.; MEDUNA, A. A Jumping 5'->3' Watson-Crick Finite Automata Model. Tenth Workshop on Non-Classical Models of Automata and Applications (NCMA 2018). books@ocg.at 332. Wien: Austrian Computer Society, 2018. p. 117-132. ISBN: 978-3-903035-21-8."
+        },
+        {
+            "year": "2018",
+            "citation": "KUCERA, J.; KRIVKA, Z.; MEDUNA, A. On k#$-Rewriting Systems. Romanian Journal of Information Science and Technology, 2018, vol. 21, no. 3, p. 278-287. ISSN: 1453-8245."
+        },
+        {
+            "year": "2017",
+            "citation": "CHARVAT, L.; MEDUNA, A. A Reduction of Finitely Expandable Deep Pushdown Automata. Proceedings 12th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2017). Electronic Proceedings in Theoretical Computer Science. Telc: 2017. p. 1 (1 s.)."
+        },
+        {
+            "year": "2017",
+            "citation": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. Rule-Homogeneous CD Grammar Systems. AFL 2017. Debrecen: 2017. 3 p."
+        },
+        {
+            "year": "2017",
+            "citation": "MEDUNA, A.; MARTISKO, J. CD Grammar Systems with Two Propagating Scattered Context Components Characterize the Family of Context Sensitive Languages. In 15th International Conference on Automata and Formal Languages. Electronic Proceedings in Theoretical Computer Science, EPTCS. Debrecen: Open Publishing Association, 2017. no. 252, p. 170-179. ISSN: 2075-2180."
+        },
+        {
+            "year": "2017",
+            "citation": "MEDUNA, A.; SOUKUP, O. Modern Language Models and Computation: Theory with Applications. New York: Springer US, 2017. 567 p. ISBN: 978-3-319-63099-1."
+        },
+        {
+            "year": "2017",
+            "citation": "MEDUNA, A.; SOUKUP, O. Jumping Scattered Context Grammars. FUNDAMENTA INFORMATICAE, 2017, vol. 152, no. 1, p. 51-86. ISSN: 0169-2968."
+        },
+        {
+            "year": "2017",
+            "citation": "MEDUNA, A.; SOUKUP, O.; CSUHAJ-VARJU, E. On Tree-Restricted Regular-Controlled Context-Free Grammars. International Journal of Computer Mathematics- Computer Systems Theory, 2017, vol. 2, no. 4, p. 147-163. ISSN: 2379-9927."
+        },
+        {
+            "year": "2016",
+            "citation": "KOCMAN, R.; KRIVKA, Z.; MEDUNA, A. On Double-Jumping Finite Automata. Eighth Workshop on Non-Classical Models of Automata and Applications (NCMA 2016). books@ocg.at 321. Wien: Austrian Computer Society, 2016. p. 195-210. ISBN: 978-3-903035-10-2."
+        },
+        {
+            "year": "2016",
+            "citation": "KOCMAN, R.; MEDUNA, A. On Parallel Versions of Jumping Finite Automata. In Proceedings of the 2015 Federated Conference on Software Development and Object Technologies. Advances in Intelligent Systems and Computing. Cham: Springer International Publishing, 2016. p. 142-149. ISBN: 978-3-319-46534-0."
+        },
+        {
+            "year": "2016",
+            "citation": "KRIVKA, Z.; MEDUNA, A.; ZEMEK, P. Phrase-Structure Grammars: Normal Forms and Reduction. COMPUTER JOURNAL, 2016, vol. 59, no. 8, p. 1180-1185. ISSN: 0010-4620."
+        },
+        {
+            "year": "2016",
+            "citation": "KUCERA, J.; MEDUNA, A. On State-Synchronized Automata Systems. Schedae Informaticae, 2016, vol. 2015, no. 24, p. 221-237. ISSN: 0860-0295."
+        },
+        {
+            "year": "2016",
+            "citation": "MEDUNA, A.; SOUKUP, O. Simple Matrix Grammars and Their Leftmost Variants. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2016, vol. 27, no. 3, p. 359-373. ISSN: 0129-0541."
+        },
+        {
+            "year": "2015",
+            "citation": "KRIVKA, Z.; MEDUNA, A. Jumping Grammars. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2015, vol. 26, no. 6, p. 709-731. ISSN: 0129-0541."
+        },
+        {
+            "year": "2015",
+            "citation": "MEDUNA, A.; KUCERA, J.; SOUKUP, O. Absolutely Unlimited Deep Pushdown Automata. Proceedings of the 10th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2015). Telc: Ing. Vladislav Pokorny - Litera, 2015. p. 36-44. ISBN: 978-80-214-5254-1."
+        },
+        {
+            "year": "2015",
+            "citation": "MEDUNA, A.; SOUKUP, O.; ZEMEK, P. Ordered Pure Multi-Pushdown Automata. Theoretical and Applied Informatics, 2015, vol. 27, no. 1, p. 25-47. ISSN: 1896-5334."
+        },
+        {
+            "year": "2014",
+            "citation": "HORACEK, P.; MEDUNA, A. New Grammar Systems and Their Application Perspectives. Schedae Informaticae, 2014, vol. 2013, no. 22, p. 47-68. ISSN: 0860-0295."
+        },
+        {
+            "year": "2014",
+            "citation": "KOUTNY, J.; MEDUNA, A. On Normal Forms and Erasing Rules in Path-Controlled Grammars. Schedae Informaticae, 2014, vol. 2013, no. 22, p. 9-18. ISSN: 0860-0295."
+        },
+        {
+            "year": "2014",
+            "citation": "KRIVKA, Z.; SUBRAMANIAN, K.; MARTIN-VIDE, C.; MEDUNA, A. A Variant of Pure Two-dimensional Context-free Grammars generating Picture Languages. In 16th International Workshop on Combinatorial Image Analysis. Lecture Notes in Computer Science. Lecture Notes in Computer Science, ISSN 0302-9743, Vol. 8466. Brno: Springer Verlag, 2014. no. 8466, p. 123-133. ISBN: 978-3-319-07147-3. ISSN: 0302-9743."
+        },
+        {
+            "year": "2014",
+            "citation": "MEDUNA, A. Formal Languages and Computation. Taylor and Francis. Taylor and Francis. New York: Taylor & Francis Informa plc, 2014. 315 p. ISBN: 978-1-4665-1345-7."
+        },
+        {
+            "year": "2014",
+            "citation": "MEDUNA, A.; SOUKUP, O. Computational Completeness Resulting from Scattered Context Grammars Working Under Various Derivation Modes. Proceedings of MEMICS'14. Brno: NOVPRESS s.r.o., 2014. p. 89-100. ISBN: 978-80-214-5022-6."
+        },
+        {
+            "year": "2014",
+            "citation": "MEDUNA, A.; VRABEL, L.; ZEMEK, P. Solutions To Four Open Problems Concerning Controlled Pure Grammar Systems. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2014, vol. 91, no. 6, p. 1156-1169. ISSN: 0020-7160."
+        },
+        {
+            "year": "2014",
+            "citation": "MEDUNA, A.; ZEMEK, P. Regulated Grammars and Automata. New York: Springer US, 2014. 694 p. ISBN: 978-1-4939-0368-9."
+        },
+        {
+            "year": "2014",
+            "citation": "MEDUNA, A.; ZEMEK, P. Controlled Finite Automata. ACTA INFORMATICA, 2014, vol. 51, no. 5, p. 327-337. ISSN: 0001-5903."
+        },
+        {
+            "year": "2014",
+            "citation": "MEDUNA, A.; ZEMEK, P. One-Sided Random Context Grammars with a Limited Number of Right Random Context Rules. Theoretical Computer Science, 2014, vol. 516, no. 1, p. 127-132. ISSN: 0304-3975."
+        },
+        {
+            "year": "2014",
+            "citation": "MEDUNA, A.; ZEMEK, P. One-Sided Random Context Grammars: A Survey. In Computing with New Resources. Berlin: Springer Verlag, 2014. p. 338-351. ISBN: 978-3-319-13349-2."
+        },
+        {
+            "year": "2014",
+            "citation": "TESAR, R.; KRIVKA, Z.; MEDUNA, A. Alan Mathison Turing - zivot a dilo. Pokroky matematiky, fyziky a astronomie, 2014, roc. 59, c. 2, s. 89-104. ISSN: 0032-2423."
+        },
+        {
+            "year": "2013",
+            "citation": "MEDUNA, A.; ZEMEK, P. Generalized One-Sided Forbidding Grammars. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2013, vol. 90, no. 2, p. 172-182. ISSN: 0020-7160."
+        },
+        {
+            "year": "2013",
+            "citation": "MEDUNA, A.; ZEMEK, P. Left Random Context ET0L Grammars. FUNDAMENTA INFORMATICAE, 2013, vol. 123, no. 3, p. 289-304. ISSN: 0169-2968."
+        },
+        {
+            "year": "2013",
+            "citation": "MEDUNA, A.; ZEMEK, P. On the Generation of Sentences with Their Parses by Propagating Regular-Controlled Grammars. Theoretical Computer Science, 2013, vol. 477, no. 1, p. 67-75. ISSN: 0304-3975."
+        },
+        {
+            "year": "2012",
+            "citation": "HORACEK, P.; MEDUNA, A. Synchronous Versions of Regulated Grammars: Generative Power and Linguistic Applications. Theoretical and Applied Informatics, 2012, vol. 24, no. 3, p. 175-190. ISSN: 1896-5334."
+        },
+        {
+            "year": "2012",
+            "citation": "KOUTNY, J.; MEDUNA, A. Tree-Controlled Grammars with Restrictions Placed upon Cuts and Paths. KYBERNETIKA, 2012, vol. 48, no. 1, p. 165-175. ISSN: 0023-5954."
+        },
+        {
+            "year": "2012",
+            "citation": "MEDUNA, A.; CERMAK, M.; HORACEK, P. Rule-Restricted Automaton-Grammar Transducers: Power and Linguistic Applications. 8th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: 2012. 1 p. ISBN: 978-80-87342-15-2."
+        },
+        {
+            "year": "2012",
+            "citation": "MEDUNA, A.; CERMAK, M.; HORACEK, P. Rule-restricted automaton-grammar transducers: Power and linguistic applications. Mathematics for applications, 2012, vol. 1, no. 1, p. 13-35. ISSN: 1805-3610."
+        },
+        {
+            "year": "2012",
+            "citation": "MEDUNA, A.; VRABEL, L.; ZEMEK, P. An Infinite Hierarchy of Language Families Resulting from Stateless Pushdown Automata with Limited Pushdown Alphabets. DCFS'12: 14th International Workshop on Descriptional Complexity of Formal Systems. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Braga: Springer Verlag, 2012. p. 236-243. ISBN: 978-3-642-31622-7. ISSN: 0302-9743."
+        },
+        {
+            "year": "2012",
+            "citation": "MEDUNA, A.; ZEMEK, P. Controlled Pure Grammar Systems. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2012, vol. 18, no. 14, p. 2024-2040. ISSN: 0948-6968."
+        },
+        {
+            "year": "2012",
+            "citation": "MEDUNA, A.; ZEMEK, P. Jumping Finite Automata. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2012, vol. 23, no. 7, p. 1555-1578. ISSN: 0129-0541."
+        },
+        {
+            "year": "2012",
+            "citation": "MEDUNA, A.; ZEMEK, P. Nonterminal Complexity of One-Sided Random Context Grammars. ACTA INFORMATICA, 2012, vol. 49, no. 2, p. 55-68. ISSN: 0001-5903."
+        },
+        {
+            "year": "2012",
+            "citation": "MEDUNA, A.; ZEMEK, P. One-Sided Forbidding Grammars and Selective Substitution Grammars. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2012, vol. 89, no. 5, p. 586-596. ISSN: 0020-7160."
+        },
+        {
+            "year": "2012",
+            "citation": "MEDUNA, A.; ZEMEK, P. One-Sided Random Context Grammars with Leftmost Derivations. In LNCS Festschrift Series: Languages Alive - Essays Dedicated to Jurgen Dassow on the Occasion of His 65th Birthday. Berlin-Heidelberg: Springer Verlag, 2012. p. 160-173. ISBN: 978-3-642-31643-2."
+        },
+        {
+            "year": "2011",
+            "citation": "CERMAK, M.; KOUTNY, J.; MEDUNA, A. Parsing Based on n-Path Tree-Controlled Grammars. Theoretical and Applied Informatics, 2011, vol. 23, no. 3, p. 213-228. ISSN: 1896-5334."
+        },
+        {
+            "year": "2011",
+            "citation": "CERMAK, M.; MEDUNA, A. n-Accepting Restricted Pushdown Automata Systems. 13th International Conference on Automata and Formal Languages. Nyiregyhaza: Computer and Automation Research Institute, Hungarian Academy of Sciences, 2011. p. 168-183. ISBN: 978-615-5097-19-5."
+        },
+        {
+            "year": "2011",
+            "citation": "CERMAK, M.; MEDUNA, A. n-Accepting Restricted Pushdown Automata Systems. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2011. 1 p. ISBN: 978-80-214-4305-1."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Advanced Static Analysis for Decompilation Using Scattered Context Grammars. Proceedings of the Applied Computing Conference 2011 (ACC'11). Angers: World Scientific and Engineering Academy, 2011. p. 164-169. ISBN: 978-1-61804-051-0."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Design of a Retargetable Decompiler for a Static Platform-Independent Malware Analysis. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Masaryk University, 2011. p. 114-114. ISBN: 978-80-214-4305-1."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Design of a Retargetable Decompiler for a Static Platform-Independent Malware Analysis. The 5th International Conference on Information Security and Assurance. Communications in Computer and Information Science, Volume 200. Brno: Springer Verlag, 2011. p. 72-86. ISBN: 978-3-642-23140-7."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Design of an Automatically Generated Retargetable Decompiler. 2nd European Conference of COMPUTER SCIENCE (ECCS'11). Puerto De La Cruz, Tenerife: North Atlantic University Union, 2011. p. 199-204. ISBN: 978-1-61804-056-5."
+        },
+        {
+            "year": "2011",
+            "citation": "DURFINA, L.; KROUSTEK, J.; ZEMEK, P.; KOLAR, D.; HRUSKA, T.; MASARIK, K.; MEDUNA, A. Design of a Retargetable Decompiler for a Static Platform-Independent Malware Analysis. International Journal of Security and Its Applications, 2011, vol. 5, no. 4, p. 91-106. ISSN: 1738-9976."
+        },
+        {
+            "year": "2011",
+            "citation": "HORACEK, P.; MEDUNA, A. Regulated Rewriting in Natural Language Translation. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Brno University of Technology, 2011. p. 35-42. ISBN: 978-80-214-4305-1."
+        },
+        {
+            "year": "2011",
+            "citation": "KOUTNY, J.; KRIVKA, Z.; MEDUNA, A. Pumping Properties of Path-Restricted Tree-Controlled Languages. 7th Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Brno University of Technology, 2011. p. 61-69. ISBN: 978-80-214-4305-1."
+        },
+        {
+            "year": "2011",
+            "citation": "KROUSTEK, J.; ZIDEK, S.; KOLAR, D.; MEDUNA, A. Scattered Context Grammars with Priority. International Journal of Advanced Research in Computer Science, 2011, vol. 2, no. 4, p. 1-6. ISSN: 0976-5697."
+        },
+        {
+            "year": "2011",
+            "citation": "MEDUNA, A.; CERMAK, M.; MASOPUST, T. Some Power-Decreasing Derivation Restrictions in Grammar Systems. Schedae Informaticae, 2011, vol. 2010, no. 19, p. 23-34. ISSN: 0860-0295."
+        },
+        {
+            "year": "2011",
+            "citation": "MEDUNA, A.; VRABEL, L.; ZEMEK, P. On Nondeterminism in Programmed Grammars. 13th International Conference on Automata and Formal Languages. Debrecen: Computer and Automation Research Institute, Hungarian Academy of Sciences, 2011. p. 316-328. ISBN: 978-615-5097-19-5."
+        },
+        {
+            "year": "2011",
+            "citation": "MEDUNA, A.; ZEMEK, P. One-Sided Random Context Grammars. ACTA INFORMATICA, 2011, vol. 48, no. 3, p. 149-163. ISSN: 0001-5903."
+        },
+        {
+            "year": "2011",
+            "citation": "MEDUNA, A.; ZEMEK, P. Workspace Theorems for Regular-Controlled Grammars. Theoretical Computer Science, 2011, vol. 412, no. 35, p. 4604-4612. ISSN: 0304-3975."
+        },
+        {
+            "year": "2011",
+            "citation": "ZEMEK, P.; MEDUNA, A.; VRABEL, L. LL Leftmost k-Linear Scattered Context Grammars. AIP Conference Proceedings. AIP conference proceedings. Kassandra, Halkidiki: American Institute of Physics, 2011. no. 1, p. 833-836. ISBN: 978-0-7354-0956-9. ISSN: 1551-7616."
+        },
+        {
+            "year": "2011",
+            "citation": "ZIDEK, S.; MEDUNA, A. Scattered Context Grammars Generating Sentences Followed by Derivation Trees. Theoretical and Applied Informatics, 2011, vol. 23, no. 2, p. 97-106. ISSN: 1896-5334."
+        },
+        {
+            "year": "2010",
+            "citation": "KROUSTEK, J.; ZIDEK, S.; KOLAR, D.; MEDUNA, A. Exploitation of Scattered Context Grammars to Model VLIW Instruction Constraints. In Proceedings of the 12th Biennial Baltic Electronics Conference. Tallinn: Institute of Electrical and Electronics Engineers, 2010. p. 165-168. ISBN: 978-1-4244-7357-1."
+        },
+        {
+            "year": "2010",
+            "citation": "LUKAS, R.; MEDUNA, A. Multigenerative Grammar Systems and Matrix Grammars. KYBERNETIKA, 2010, vol. 46, no. 1, p. 68-82. ISSN: 0023-5954."
+        },
+        {
+            "year": "2010",
+            "citation": "MASOPUST, T.; GOLDEFUS, F.; MEDUNA, A. Left-Forbidding Cooperating Distributed Grammar Systems. Theoretical Computer Science, 2010, vol. 411, no. 40, p. 3661-3667. ISSN: 0304-3975."
+        },
+        {
+            "year": "2010",
+            "citation": "MEDUNA, A. Finitely Expandable Deep PDAs. In Automata, Formal Languages and Algebraic Systems. Hong Kong: Hong Kong University of Scinece and Technology, 2010. p. 113-123. ISBN: 981-4317-60-8."
+        },
+        {
+            "year": "2010",
+            "citation": "MEDUNA, A.; TECHET, J. Scattered Context Grammars and their Applications. WIT Press, UK. WIT Press, UK. WIT Press, UK: WIT Press, 2010. 224 p. ISBN: 978-1-84564-426-0."
+        },
+        {
+            "year": "2010",
+            "citation": "MEDUNA, A.; ZEMEK, P. Regulated Grammars and Their Transformations. Brno: Brno University of Technology, 2010. 239 p. ISBN: 978-80-214-4203-0."
+        },
+        {
+            "year": "2009",
+            "citation": "MASOPUST, T.; MEDUNA, A. Descriptional Complexity of Three-Nonterminal Scattered Context Grammars: An Improvement. Proceedings of 11th International Workshop on Descriptional Complexity of Formal Systems. Magdeburg: Otto-von-Guericke-University of Magdeburg, 2009. p. 235-245. ISBN: 978-3-940961-31-0."
+        },
+        {
+            "year": "2009",
+            "citation": "MASOPUST, T.; MEDUNA, A. On context-free rewriting with a simple restriction and its computational completeness. RAIRO-THEORETICAL INFORMATICS AND APPLICATIONS, 2009, vol. 43, no. 2, p. 365-378. ISSN: 0988-3754."
+        },
+        {
+            "year": "2009",
+            "citation": "MASOPUST, T.; MEDUNA, A. On Pure Multi-Pushdown Automata that Perform Complete Pushdown Pops. Acta Cybernetica, 2009, vol. 19, no. 2, p. 537-552. ISSN: 0324-721X."
+        },
+        {
+            "year": "2009",
+            "citation": "MEDUNA, A.; GOLDEFUS, F. Weak Leftmost Derivations in Cooperative Distributed Grammar Systems. MEMICS 09. Brno: Brno University of Technology, 2009. p. 144-151. ISBN: 978-80-87342-04-6."
+        },
+        {
+            "year": "2009",
+            "citation": "MEDUNA, A.; TECHET, J. An Infinite Hierarchy of Language Families Generated by Scattered Context Grammars with n-Limited Derivations. Theoretical Computer Science, 2009, vol. 410, no. 21, p. 1961-1969. ISSN: 0304-3975."
+        },
+        {
+            "year": "2008",
+            "citation": "KOPECEK, T.; MEDUNA, A. Conditional Grammars and Their Reduction. Brno: Faculty of Information Technology BUT, 2008. 138 p. ISBN: 978-80-214-3750-0."
+        },
+        {
+            "year": "2008",
+            "citation": "MASOPUST, T.; MEDUNA, A. On Pure Multi-Pushdown Automata that Perform Complete-Pushdown Pops. Automata and Formal Languages. The 12th International Conference, AFL 2008, Balatonfured, Hungary, May 27-30, 2008, Proceedings. Balatonfured: Computer and Automation Research Institute, Hungarian Academy of Sciences, 2008. p. 325-336. ISBN: 978-963-311-367-7."
+        },
+        {
+            "year": "2008",
+            "citation": "MASOPUST, T.; MEDUNA, A. On Descriptional Complexity of Partially Parallel Grammars. FUNDAMENTA INFORMATICAE, 2008, vol. 87, no. 3, p. 407-415. ISSN: 0169-2968."
+        },
+        {
+            "year": "2008",
+            "citation": "MASOPUST, T.; MEDUNA, A.; SIMACEK, J. Two Power-Decreasing Derivation Restrictions in Generalized Scattered Context Grammars. Acta Cybernetica, 2008, vol. 18, no. 4, p. 783-793. ISSN: 0324-721X."
+        },
+        {
+            "year": "2008",
+            "citation": "MEDUNA, A. Elements of Compiler Design. Taylor and Francis. Taylor and Francis. New York: Taylor & Francis Informa plc, 2008. 304 p. ISBN: 978-1-4200-6323-3."
+        },
+        {
+            "year": "2008",
+            "citation": "MEDUNA, A. Mathematical Theory of Conditional Grammars. New Delhi: 2008. p. 214-226."
+        },
+        {
+            "year": "2008",
+            "citation": "MEDUNA, A. New Trends in Algebraic Theory of Automata. ICDMA. Bangkok: University of South Australia, 2008. p. 211-222. ISBN: 0-7167-8261-8."
+        },
+        {
+            "year": "2008",
+            "citation": "MEDUNA, A.; RYCHNOVSKY, L. Infinite Language Hierarchy Based on Regular-Regulated Right-Linear Grammars with Start Strings. Philippine Computing Journal, 2008, roc. 2008, c. 3, s. 1-5. ISSN: 1908-1995."
+        },
+        {
+            "year": "2008",
+            "citation": "MEDUNA, A.; TECHET, J. Scattered Context Grammars that Erase Nonterminals in a Generalized k-Limited Way. ACTA INFORMATICA, 2008, vol. 45, no. 7, p. 593-608. ISSN: 0001-5903."
+        },
+        {
+            "year": "2007",
+            "citation": "BIDLO, R.; BLATNY, P.; MEDUNA, A. Automata with Two-Sided Pushdowns Defined over Free Groups Generated by Reduced Alphabets. KYBERNETIKA, 2007, vol. 2007, no. 1, p. 21-35. ISSN: 0023-5954."
+        },
+        {
+            "year": "2007",
+            "citation": "BIDLO, R.; BLATNY, P.; MEDUNA, A. Context-Free and E0L Derivations over Free Groups. Schedae Informaticae, 2007, vol. 2007, no. 16, p. 14-24. ISSN: 0860-0295."
+        },
+        {
+            "year": "2007",
+            "citation": "KRIVKA, Z.; MEDUNA, A. Generalized #-Rewriting Systems of Finite Index. Information Systems and Formal Models (Proceedings of 2nd International Workshop on Formal Models (WFM'07)). Opava: Silesian University, 2007. p. 197-204. ISBN: 978-807248-006-7."
+        },
+        {
+            "year": "2007",
+            "citation": "KRIVKA, Z.; MEDUNA, A.; SMRCEK, J. n-Right-Linear #-Rewriting Systems. Third Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2007). Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 105-112. ISBN: 978-80-7355-077-6."
+        },
+        {
+            "year": "2007",
+            "citation": "LUKAS, R.; MEDUNA, A. General Multigenerative Grammar Systems. Information Systems and Formal Models ISIM, WFM '07. Hradec nad Moravici: Silesian University, 2007. p. 205-212. ISBN: 978-80-7248006-7."
+        },
+        {
+            "year": "2007",
+            "citation": "MASOPUST, T.; MEDUNA, A. Descriptional Complexity of Generalized Forbidding Grammars. Proceedings of 9th International Workshop on Descriptional Complexity of Formal Systems. High Tatras, Slovakia: University of Pavol Jozef Safarik, 2007. p. 170-177. ISBN: 978-80-7097-688-3."
+        },
+        {
+            "year": "2007",
+            "citation": "MASOPUST, T.; MEDUNA, A. Descriptional Complexity of Grammars Regulated by Context Conditions. LATA 2007 Pre-proceedings. Reports of the Research Group on Mathematical Linguistics 35/07, Universitat Rovira i Virgili. Tarragona, Spain: 2007. p. 403-411."
+        },
+        {
+            "year": "2007",
+            "citation": "MASOPUST, T.; MEDUNA, A. Descriptional Complexity of Semi-Conditional Grammars. INFORMATION PROCESSING LETTERS, 2007, vol. 104, no. 1, p. 29-31. ISSN: 0020-0190."
+        },
+        {
+            "year": "2007",
+            "citation": "MEDUNA, A.; KOPECEK, T.; SVEC, M. Equivalent language models that closely simulate one another and their illustration in terms of L systems. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2007, vol. 2007, no. 84, p. 1555-1566. ISSN: 0020-7160."
+        },
+        {
+            "year": "2007",
+            "citation": "MEDUNA, A.; LUKAS, R.; FIALA, J. Homogeneous Multicontinuous Grammars and Their Reduction. MEMICS 2007 Proceedings. Znojmo: Ing. Zdenek Novotny, CSc., 2007. p. 90-96. ISBN: 978-80-7355-077-6."
+        },
+        {
+            "year": "2007",
+            "citation": "MEDUNA, A.; MASOPUST, T. Self-Regulating Finite Automata. Acta Cybernetica, 2007, vol. 18, no. 1, p. 135-153. ISSN: 0324-721X."
+        },
+        {
+            "year": "2007",
+            "citation": "MEDUNA, A.; TECHET, J. Maximal and Minimal Scattered Context Rewriting. FCT 2007 Proceedings. Lecture Notes in Computer Science. Budapest: Springer Verlag, 2007. no. 4639, p. 412-423. ISSN: 0302-9743."
+        },
+        {
+            "year": "2007",
+            "citation": "MEDUNA, A.; TECHET, J. Reduction of Scattered Context Generators of Sentences Preceded by Their Leftmost Parses. Proceedings of 9th International Workshop on Descriptional Complexity of Formal Systems. High Tatras: University of Pavol Jozef Safarik, 2007. p. 178-185. ISBN: 978-80-7097-688-3."
+        },
+        {
+            "year": "2007",
+            "citation": "MEDUNA, A.; TECHET, J. Canonical Scattered Context Generators of Sentences with Their Parses. Theoretical Computer Science, 2007, vol. 2007, no. 389, p. 73-81. ISSN: 0304-3975."
+        },
+        {
+            "year": "2006",
+            "citation": "KRIVKA, Z.; LUKAS, R.; MEDUNA, A. Didakticke demonstrace modelu pro popis formalnich jazyku. Pedagogicky software 2006. Ceske Budejovice: Zemedelska fakulta, Jihoceska univerzita, 2006. s. 54-56. ISBN: 80-85645-56-4."
+        },
+        {
+            "year": "2006",
+            "citation": "KRIVKA, Z.; MEDUNA, A. General Top-Down Parsers Based On Deep Pushdown Expansions. Proceedings of 1st International Workshop on Formal Models (WFM'06). Ostrava: Marq software s.r.o., 2006. p. 11-18. ISBN: 80-86840-20-4."
+        },
+        {
+            "year": "2006",
+            "citation": "KRIVKA, Z.; MEDUNA, A.; SCHONECKER, R. Generation of Languages by Rewriting Systems that Resemble Automata. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE, 2006, vol. 17, no. 5, p. 1223-1229. ISSN: 0129-0541."
+        },
+        {
+            "year": "2006",
+            "citation": "LUKAS, R.; MEDUNA, A. Multigenerative Grammar Systems. Proceedings of 1st International Workshop - WFM. Prerov: Marq software s.r.o., 2006. p. 19-26. ISBN: 80-86840-20-4."
+        },
+        {
+            "year": "2006",
+            "citation": "MEDUNA, A. Deep Pushdown Automata. ACTA INFORMATICA, 2006, vol. 2006, no. 98, p. 114-124. ISSN: 0001-5903."
+        },
+        {
+            "year": "2006",
+            "citation": "MEDUNA, A.; BIDLO, R.; BLATNY, P. Vertical Context in Phrase-Structure Grammars. Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS 2006). Mikulov: Brno University of Technology, 2006. p. 17-23. ISBN: 80-214-3287-X."
+        },
+        {
+            "year": "2006",
+            "citation": "MEDUNA, A.; LUKAS, R. Multigenerative Grammar Systems. Schedae Informaticae, 2006, vol. 2006, no. 15, p. 175-188. ISSN: 0860-0295."
+        },
+        {
+            "year": "2006",
+            "citation": "SCHONECKER, R.; KRIVKA, Z.; MEDUNA, A. Reducing Deep Pushdown Automata and Infinite Hierarchy. MEMICS 2006 Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Mikulov: Faculty of Information Technology BUT, 2006. p. 214-221. ISBN: 80-214-3287-X."
+        },
+        {
+            "year": "2005",
+            "citation": "BIDLO, R.; BLATNY, P.; MEDUNA, A. Formal Models over Free Groups. PRE-PROCEEDINGS of the 1st Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Faculty of Informatics MU, 2005. p. 193-199. ISBN: 0."
+        },
+        {
+            "year": "2005",
+            "citation": "KOLAR, D.; MEDUNA, A. Regulated Automata: From Theory towards Applications. Proceeding of 8th International Conference on Information Systems Implementation and Modelling ISIM'05. 1st edition. Ostrava: Marq software s.r.o., 2005. p. 33-48. ISBN: 80-86840-09-3."
+        },
+        {
+            "year": "2005",
+            "citation": "KOPECEK, T.; MEDUNA, A.; SVEC, M. Simulation of Scattered Context Grammars and Phrase-Structured Grammars by Symbiotic E0L Grammars. In Proceeding of 8th International Conference on Information Systems Implementation and Modelling ISIM'05. Brno: 2005. p. 59-66. ISBN: 80-86840-09-3."
+        },
+        {
+            "year": "2005",
+            "citation": "KRIVKA, Z.; MEDUNA, A. Random Context and Programmed Grammars of Finite Index Have The Same Generative Power. Proceedings of 8th International Conference ISIM'05 Information Systems Implementation and Modelling. 1st edition. Ostrava: Marq software s.r.o., 2005. p. 67-72. ISBN: 80-86840-09-3."
+        },
+        {
+            "year": "2005",
+            "citation": "LORENC, L.; MEDUNA, A. A Rigorous Approach to Self-Reproducing Pushdown Translation. Proceedings of 8th Spring International Conference ISIM'05 Information Systems Implementation and Modelling. 1st edition. Ostrava: Marq software s.r.o., 2005. p. 51-58. ISBN: 80-86840-09-3."
+        },
+        {
+            "year": "2005",
+            "citation": "LORENC, L.; MEDUNA, A. Self-Reproducing Translation Made by Pushdown Transducers. PRE-PROCEEDINGS of the 1st Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Brno: Faculty of Informatics MU, 2005. p. 59-67."
+        },
+        {
+            "year": "2005",
+            "citation": "LORENC, L.; MEDUNA, A. Self-Reproducing Pushdown Transducers. KYBERNETIKA, 2005, vol. 2005, no. 4, p. 533-539. ISSN: 0023-5954."
+        },
+        {
+            "year": "2005",
+            "citation": "LUKAS, R.; MEDUNA, A. Multigenerative Grammar Systems. Pre-proceedings 1st Doctoral Workshop on Mathematical and Engineering Methods in Comupter Science (MEMICS 2005). Brno: Faculty of Informatics MU, 2005. p. 85-87."
+        },
+        {
+            "year": "2005",
+            "citation": "MEDUNA, A. Automata and Languages: Theory and Applications. London: Springer Verlag, 2005. 892 p. ISBN: 1-85233-074-0."
+        },
+        {
+            "year": "2005",
+            "citation": "MEDUNA, A.; LUKAS, R. A Note on Iteratively Extendable Strings. Rostocker mathematisches kolloquium, 2005, vol. 2005, no. 59, p. 71-73. ISSN: 0138-3248."
+        },
+        {
+            "year": "2005",
+            "citation": "MEDUNA, A.; SVEC, M. Grammars with Context Conditions and Their Applications [Wiley, 2004]. Wiley, New York: WILEY, 2005. 225 p. ISBN: 0-471-71831-9."
+        },
+        {
+            "year": "2005",
+            "citation": "MEDUNA, A.; TECHET, J. Generation of Sentences with Their Parses: the Case of Propagating Scattered Context Grammars. Acta Cybernetica, 2005, vol. 17, no. 1, p. 11-20. ISSN: 0324-721X."
+        },
+        {
+            "year": "2004",
+            "citation": "ELBL, S.; MEDUNA, A. Finite Index in Language Theory. Proceedings of 10th Conference and Competition STUDENT EEICT 2004. Brno: Faculty of Information Technology BUT, 2004. p. 247-251. ISBN: 80-214-2635-7."
+        },
+        {
+            "year": "2004",
+            "citation": "ELBL, S.; MEDUNA, A. Grammar Systems of Finite Index. Proceedings of 7th International Conference ISIM '04. Ostrava: Marq software s.r.o., 2004. p. 141-146. ISBN: 80-85988-99-2."
+        },
+        {
+            "year": "2004",
+            "citation": "KOPECEK, T.; MEDUNA, A. Simple-Semi-Conditional Versions of Matrix Grammars with a Reduced Regulating Mechanism. COMPUTING AND INFORMATICS, 2004, vol. 2004, no. 23, p. 287-302. ISSN: 1335-9150."
+        },
+        {
+            "year": "2004",
+            "citation": "LORENC, L.; MEDUNA, A. Self-Reproducing Pushdown Transducers. Proceedings of 7th International Conference ISIM'04 Information Systems Implementation and Modelling. 1st edition. Ostrava: Marq software s.r.o., 2004. p. 155-160. ISBN: 80-85988-99-2."
+        },
+        {
+            "year": "2004",
+            "citation": "MEDUNA, A. Two-Way Metalinear PC Grammar Systems and Their Descriptional Complexity. Acta Cybernetica, 2004, vol. 2004, no. 16, p. 385-397. ISSN: 0324-721X."
+        },
+        {
+            "year": "2004",
+            "citation": "MEDUNA, A.; SKRKAL, O. Combined Leftmost Derivations in Matrix Grammars. Proceedings of 7th International Conference ISIM'04 Information Systems Implementation and Modelling. 1st edition. Ostrava: Marq software s.r.o., 2004. p. 127-132. ISBN: 80-85988-99-2."
+        },
+        {
+            "year": "2004",
+            "citation": "MEDUNA, A.; VITEK, M. New language operations in formal language theory. Schedae Informaticae, 2004, vol. 2004, no. 13, p. 123-150. ISSN: 0860-0295."
+        },
+        {
+            "year": "2003",
+            "citation": "MEDUNA, A. A Simultaneous Reduction of Several Measures of Descriptional Complexity in Scattered Context Grammars. INFORMATION PROCESSING LETTERS, 2003, vol. 2003, no. 86, p. 235-240. ISSN: 0020-0190."
+        },
+        {
+            "year": "2003",
+            "citation": "MEDUNA, A. Coincidental Extention of Scattered Context Languages. ACTA INFORMATICA, 2003, vol. 2003, no. 112, p. 307-314. ISSN: 0001-5903."
+        },
+        {
+            "year": "2003",
+            "citation": "MEDUNA, A. On the Degree of Scattered Context-Sensitivity. Theoretical Computer Science, 2003, vol. 2003, no. 290, p. 2121-2124. ISSN: 0304-3975."
+        },
+        {
+            "year": "2003",
+            "citation": "MEDUNA, A. Simultaneously One-Turn Two-Pushdown Automata. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2003, vol. 2003, no. 80, p. 679-687. ISSN: 0020-7160."
+        },
+        {
+            "year": "2003",
+            "citation": "MEDUNA, A.; HRUSKA, T. Ulice ponese jmeno genialniho matematika a brnenskeho rodaka (o Godelovi). Udalosti na VUT v Brne, 2003, roc. 2003, c. 10, s. 24-24. ISSN: 1211-4421."
+        },
+        {
+            "year": "2003",
+            "citation": "MEDUNA, A.; SVEC, M. Descriptional Complexity of Generalized Forbidding Grammars. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2003, vol. 2003, no. 80, p. 11-17. ISSN: 0020-7160."
+        },
+        {
+            "year": "2003",
+            "citation": "MEDUNA, A.; SVEC, M. Forbidding ET0L Systems. Theoretical Computer Science, 2003, vol. 2003, no. 306, p. 449-469. ISSN: 0304-3975."
+        },
+        {
+            "year": "2002",
+            "citation": "CHVALINA, J., MEDUNA, A., NOVAK, V. Profesor Miroslav Novotny osmdesatilety. Pokroky matematiky, fyziky a astronomie, 2002, roc. 2002, c. 2, 3 s. ISSN: 0032-2423."
+        },
+        {
+            "year": "2002",
+            "citation": "HRUBY, M.; MEDUNA, A.; VURM, P. Model syntakticke analyzy formalnich jazyku. Proceedings of XXIVth International Autumn Colloquium ASIS 2002. Ostrava: Marq software s.r.o., 2002. s. 109-114. ISBN: 80-85988-77-1."
+        },
+        {
+            "year": "2002",
+            "citation": "KOLAR, D.; MEDUNA, A. Homogenous Grammars with a Reduced Number of Non-Context-Free Productions. INFORMATION PROCESSING LETTERS, 2002, vol. 2002, no. 81, p. 253-257. ISSN: 0020-0190."
+        },
+        {
+            "year": "2002",
+            "citation": "MEDUNA, A. Descriptional Complexity of Scattered Rewriting and Multirewriting: An Overview. Journal of Automata, Languages and Combinatorics, 2002, vol. 2002, no. 7, p. 571-577. ISSN: 1430-189X."
+        },
+        {
+            "year": "2002",
+            "citation": "MEDUNA, A.; SVEC, M. Reduction of Simple Semi-Conditional Grammars with Respect to the Number of Conditional Productions. Acta Cybernetica, 2002, vol. 2002, no. 15, p. 353-360. ISSN: 0324-721X."
+        },
+        {
+            "year": "2001",
+            "citation": "MEDUNA, A. Descriptional Complexity of Partially Parallel Grammars. DCAGRS. Vienna: 2001. p. 15-21. ISBN: 0-7167-8261-8."
+        },
+        {
+            "year": "2001",
+            "citation": "MEDUNA, A. Uniform Generation of Languages by Scattered Context Grammars. FUNDAMENTA INFORMATICAE, 2001, vol. 2001, no. 45, p. 231-235. ISSN: 0169-2968."
+        },
+        {
+            "year": "2001",
+            "citation": "MEDUNA, A.; KOLAR, D. One-Turn Regulated Pushdown Automata and Their Reduction. FUNDAMENTA INFORMATICAE, 2001, vol. 2001, no. 21, p. 1001-1007. ISSN: 0169-2968."
+        },
+        {
+            "year": "2001",
+            "citation": "MEDUNA, A.; VURM, P. Multisequential Grammars with Homogeneous Selectors. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2001, vol. 2001, no. 34, p. 1-7. ISSN: 0020-7160."
+        },
+        {
+            "year": "2000",
+            "citation": "KOLAR, D.; MEDUNA, A. Descriptional complexity of multi-parallel grammars with respect to the number of nonterminals. In Grammars and Automata for String Processing: from Mathematics and Computer Science to Biology, and Back. London: unknown, 2000. p. 212-225. ISBN: 1-85233-074-0."
+        },
+        {
+            "year": "2000",
+            "citation": "KOLAR, D.; MEDUNA, A. Regulated Pushdown Automata. Acta Cybernetica, 2000, vol. 2000, no. 4, p. 653-664. ISSN: 0324-721X."
+        },
+        {
+            "year": "2000",
+            "citation": "MEDUNA, A. Context-Free Multirewriting with a Reduced Number of Nonterminals. Brno: Brno University of Technology, 2000. 164 p."
+        },
+        {
+            "year": "2000",
+            "citation": "MEDUNA, A. Generative Power of Three-Nonterminal Scattered Context Grammars. Theoretical Computer Science, 2000, vol. 2000, no. 246, p. 279-284. ISSN: 0304-3975."
+        },
+        {
+            "year": "2000",
+            "citation": "MEDUNA, A. Terminating Left-Hand Sides of Scattered Context Grammars. Theoretical Computer Science, 2000, vol. 2000, no. 237, p. 424-427. ISSN: 0304-3975."
+        },
+        {
+            "year": "1999",
+            "citation": "MEDUNA, A. Prefix Pushdown Automata. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 1999, vol. 1999, no. 71, p. 1-20. ISSN: 0020-7160."
+        },
+        {
+            "year": "1998",
+            "citation": "MEDUNA, A. Descriptional Complexity of Multi-Continues Grammars. Acta Cybernetica, 1998, vol. 1998, no. 13, p. 375-384. ISSN: 0324-721X."
+        },
+        {
+            "year": "1998",
+            "citation": "MEDUNA, A. Economical Transformations of Scattered Context Grammars to Phrase-Structure Grammars. Acta Cybernetica, 1998, vol. 1998, no. 13, p. 225-242. ISSN: 0324-721X."
+        },
+        {
+            "year": "1998",
+            "citation": "MEDUNA, A. Middle Quotients of Linear Languages. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 1998, p. 281-289. ISSN: 0020-7160."
+        },
+        {
+            "year": "1998",
+            "citation": "MEDUNA, A. Uniform Rewriting Based on Permutations. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 1998, p. 57-74. ISSN: 0020-7160."
+        },
+        {
+            "year": "1997",
+            "citation": "MEDUNA, A. Four-Nonterminal Scattered Context Grammars Characterize the Family of Recursively Enumerable Languages. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 1997, vol. 1997, no. 63, p. 67-83. ISSN: 0020-7160."
+        },
+        {
+            "year": "1997",
+            "citation": "MEDUNA, A. On the Number of Nonterminals in Matrix Grammars with Leftmost Derivations. In New Trends in Formal Languages: Control, Cooperation, and Combinatorics. New York: Springer Verlag, 1997. p. 27-39."
+        },
+        {
+            "year": "1997",
+            "citation": "MEDUNA, A. Six-Nonterminal Multi-Sequential Grammars Characterize the Family of Recursively Enumerable Languages. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 1997, vol. 1997, no. 65, p. 179-189. ISSN: 0020-7160."
+        },
+        {
+            "year": "1996",
+            "citation": "MEDUNA, A. Syntactic Complexity of Context-Free Grammars over Word Monoids. ACTA INFORMATICA, 1996, vol. 1996, no. 33, p. 457-462. ISSN: 0001-5903."
+        },
+        {
+            "year": "1995",
+            "citation": "MEDUNA, A. A Trivial Method of Characterizing the Family of Recursively Enumerable Languages by Scattered Context Grammars. Bulletin of the European Association for Theoretical Computer Science, 1995, vol. 1995, no. 56, p. 1-3. ISSN: 0252-9742."
+        },
+        {
+            "year": "1995",
+            "citation": "MEDUNA, A. Symbiotic E0L Systems. In Artifical Life:Grammatical Models. Bucharest: unknown, 1995. p. 122-129."
+        },
+        {
+            "year": "1995",
+            "citation": "MEDUNA, A. Syntactic Complexity of Scattered Context Grammars. ACTA INFORMATICA, 1995, vol. 1995, no. 32, p. 285-298. ISSN: 0001-5903."
+        },
+        {
+            "year": "1994",
+            "citation": "GOPALARATNAM, A.; MEDUNA, A. On Semi-Conditional Grammars with Productions Having either Forbidding or Permitting Conditions. KYBERNETIKA, 1994, vol. 1994, no. 11, p. 307-324. ISSN: 0023-5954."
+        },
+        {
+            "year": "1994",
+            "citation": "MEDUNA, A. Matrix Grammars under Leftmost and Rightmost Restrictions. In Mathematical Linguistics and Related Topics. Bucharest: unknown, 1994. p. 243-257."
+        },
+        {
+            "year": "1993",
+            "citation": "CROOKS, C.; MEDUNA, A.; SAREK, M. Syntactic Complexity of Regulated Rewriting. KYBERNETIKA, 1993, vol. 1993, no. 30, p. 177-186. ISSN: 0023-5954."
+        },
+        {
+            "year": "1993",
+            "citation": "CSUHAJ-VARJU, E.; MEDUNA, A. Grammars with Context Conditions. KYBERNETIKA, 1993, p. 199-213. ISSN: 0023-5954."
+        },
+        {
+            "year": "1993",
+            "citation": "MEDUNA, A. Parallel Formal Models in the Formal Language Theory. Missourian Annual Conference on Computing. Columbia: 1993. p. 78-82."
+        },
+        {
+            "year": "1993",
+            "citation": "MEDUNA, A. A Formalization of Sequential, Parallel, and Continuous Rewriting. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 1993, vol. 1993, no. 47, p. 153-161. ISSN: 0020-7160."
+        },
+        {
+            "year": "1993",
+            "citation": "MEDUNA, A. Canonical Scattered Rewriting. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 1993, p. 122-129. ISSN: 0020-7160."
+        },
+        {
+            "year": "1992",
+            "citation": "MEDUNA, A. L Systems and Their Applications. Missourian Annual Conference on Computing. Columbia: 1992. p. 56-62."
+        },
+        {
+            "year": "1992",
+            "citation": "MEDUNA, A. Symbiotic E0L Systems. Acta Cybernetica, 1992, vol. 1992, no. 10, p. 165-172. ISSN: 0324-721X."
+        },
+        {
+            "year": "1991",
+            "citation": "MEDUNA, A. Controlled Systolic Automata. Parallel Computation in the Midwestern Academic Environment. Rolla: 1991. p. 56-66."
+        },
+        {
+            "year": "1991",
+            "citation": "MEDUNA, A. Scattered Rewriting in the Formal Language Theory. Missourian Annual Conference on Computing. Columbia: 1991. p. 26-36."
+        },
+        {
+            "year": "1991",
+            "citation": "MEDUNA, A. Global Context Conditional Grammars. Journal of Automata, Languages and Combinatorics, 1991, vol. 1991, no. 27, p. 159-165. ISSN: 1430-189X."
+        },
+        {
+            "year": "1990",
+            "citation": "MEDUNA, A. Parallel Compilers Based on L Systems. Parallel Computation in the Midwestern Academic Environment. Rolla: 1990. p. 215-224."
+        },
+        {
+            "year": "1990",
+            "citation": "MEDUNA, A. Regulated Rewriting. Missourian Annual Conference on Computing. Columbia: 1990. p. 25-31."
+        },
+        {
+            "year": "1990",
+            "citation": "MEDUNA, A. Context-Free Derivations on Word Monoids. ACTA INFORMATICA, 1990, vol. 1990, no. 27, p. 781-786. ISSN: 0001-5903."
+        },
+        {
+            "year": "1990",
+            "citation": "MEDUNA, A. Generalized Forbidding Grammars. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 1990, p. 31-38. ISSN: 0020-7160."
+        },
+        {
+            "year": "1988",
+            "citation": "HORVAT, G.; MEDUNA, A. On State Grammars. Acta Cybernetica, 1988, vol. 1988, no. 8, p. 237-245. ISSN: 0324-721X."
+        },
+        {
+            "year": "1987",
+            "citation": "MEDUNA, A. Grammars, Automata, and Compilers. Brno: unknown, 1987. 227 p."
+        },
+        {
+            "year": "1987",
+            "citation": "MEDUNA, A. Characterization of the Chomsky Hierarchy through Sequential-Parallel Grammars. Rostocker mathematisches kolloquium, 1987, vol. 1987, no. 32, p. 4-14. ISSN: 0138-3248."
+        },
+        {
+            "year": "1987",
+            "citation": "MEDUNA, A. Evaluated Grammars. Acta Cybernetica, 1987, vol. 1987, no. 8, p. 169-176. ISSN: 0324-721X."
+        },
+        {
+            "year": "1986",
+            "citation": "MEDUNA, A. A Note on Exponential Density of ET0L Languages. KYBERNETIKA, 1986, vol. 1986, no. 22, p. 514-518. ISSN: 0023-5954."
+        },
+        {
+            "year": "1986",
+            "citation": "MEDUNA, A.; VICAROVA, Z. Operating Systems II. Olomouc: unknown, 1986. 172 p."
+        },
+        {
+            "year": "1986",
+            "citation": "MEDUNA, A.; ZATLOUKAL, A. A General System for Sorting and Print. 1986, p. 30-38."
+        },
+        {
+            "year": "1984",
+            "citation": "MEDUNA, A.; VICAROVA, Z. Operating Systems I. Olomouc: unknown, 1984. 182 p."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2024",
+            "title": "Brnesky rodak Kurt Godel a jeho odkaz (doslov v ceskem prekladu knihy Godeluv dukaz)",
+            "metadata": "biography, 2024",
+            "authors": "MEDUNA, A."
+        },
+        {
+            "year": "2007",
+            "title": "Descriptional Complexity of Multigrammars: An Overview",
+            "metadata": "other unclassified results, 2007",
+            "authors": "MEDUNA, A.; LUKAS, R.; FIALA, J."
+        }
+    ],
+    "name": "Meduna Alexandr, prof. RNDr., CSc."
+}

@@ -1,0 +1,68 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "iletavay@fit.vut.cz",
+            "work_phone": "+420 54114 1327",
+            "orcid_id": "0009-0007-7493-6193"
+        }
+    },
+    "roles": [
+        {
+            "organization": "NES@FIT - Networks and distributed systems research group",
+            "role": "Member"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            {
+                "date": "21.06.2013\n-\n15.06.2016",
+                "details": "Information technologies, Faculty of Information technology, Brno University of Technology"
+            },
+            {
+                "date": "16.06.2016\n-\n20.08.2018",
+                "details": "Information Technology Security, Faculty of Information technology, Brno University of Technology"
+            }
+        ]
+    },
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "CSOa",
+                "title": "CCNA Cybersecurity Operations (in English)",
+                "details": "Laboratory exercise,\nEnglish, summer",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "COW: Countering privacy-enhancing challenges of cryptocurrencies, OSINT and wireless",
+            "details": "EU, The Internal Security Fund \u2013 Police, 101202767, start: 2025-10-01, end: 2027-09-30, running"
+        },
+        {
+            "year": "2023",
+            "title": "Cybersecurity Innovation Hub",
+            "details": "EU, Digital Europe Programme, 101083932, start: 2023-04-01, end: 2026-04-30, running"
+        },
+        {
+            "year": "2017",
+            "title": "Nastroje, metody a technologie ICT pro podporu konceptu smart cities",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3964, start: 2017-03-01, end: 2020-02-29, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2019",
+            "citation": "LETAVAY, V.; PLUSKAL, J.; RYSAVY, O. A Scalable Architecture for Network Traffic Forensics. The Fifteenth International Conference on Networking and Services ICNS 2019. Athens: The International Academy, Research and Industry Association, 2019. p. 32-36. ISBN: 978-1-61208-711-5."
+        },
+        {
+            "year": "2019",
+            "citation": "LETAVAY, V.; PLUSKAL, J.; RYSAVY, O. Network Forensic Analysis for Lawful Enforcement Steroids, Distributed and Scalable. In Proceedings of the 6th Conference on the Engineering of Computer Based Systems (ECBS 2019), 2019. Bucharest: Association for Computing Machinery, 2019. p. 1-10. ISBN: 978-1-4503-7636-5."
+        }
+    ],
+    "name": "Letavay Viliam, Ing."
+}

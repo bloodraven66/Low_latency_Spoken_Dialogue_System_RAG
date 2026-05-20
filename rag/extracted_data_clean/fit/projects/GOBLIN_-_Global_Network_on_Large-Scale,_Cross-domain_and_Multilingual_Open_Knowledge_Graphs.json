@@ -1,0 +1,32 @@
+{
+    "project": "GOBLIN - Global Network on Large-Scale, Cross-domain and Multilingual Open Knowledge Graphs",
+    "title": "GOBLIN - Global Network on Large-Scale, Cross-domain and Multilingual Open Knowledge Graphs",
+    "metadata": {
+        "project_period": "15. 10. 2024 \u2013 14. 10. 2028",
+        "project_type": "grant",
+        "agency": "European Union",
+        "program": "European Cooperation in Science and Technology (COST)"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Velke jazykove modely a znalostni grafy"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "knowledge graphs, large language models"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project will contribute to the activities of COST Action CA23147 - GOBLIN - in the areas related to using large language models (LLM) and advanced machine learning methods for engineering knowledge graphs (KG) across languages and, in the opposite direction, employing KG for enhancing reliability and interpretability of LLM, mitigating their biases and hallucinations, and evaluating new generations of LLM."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader"
+        }
+    }
+}

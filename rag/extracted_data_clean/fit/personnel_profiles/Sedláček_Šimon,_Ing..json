@@ -1,0 +1,71 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "isedlacek@fit.vut.cz",
+            "work_phone": "+420 54114 1291",
+            "orcid_id": "0009-0005-9875-3012"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Speech Data Mining Research Group BUT Speech@FIT",
+            "role": "Phd student"
+        }
+    ],
+    "teaching": {
+        "consulting_hours": "To set up a consultation, feel free to send me an e-mail.",
+        "lectured_courses": [
+            {
+                "abbreviation": "ISS",
+                "title": "Signals and Systems",
+                "details": "Fundamentals seminar,\nCzech, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2024",
+            "title": "Advancing Robust and Creative Human language technologies through CHallenge Events and Research",
+            "details": "EU, European Defence Fund, start: 2024-12-01, end: 2029-11-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "Multilingual and Cross-cultural interactions for context-aware, and bias-controlled dialogue systems for safety-critical applications",
+            "details": "EU, HORIZON EUROPE, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Answer to EC Tender CNECT/LUX/2022/OP/0030 - LANGUAGE TECHNOLOGY SOLUTIONS Lot 2",
+            "details": "EU, Digital Europe Programme, start: 2023-01-01, end: 2025-03-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Language memory of the regions of the Czech Republic. Machine learning methods for preservation, documentation and presentation of the dialects of the Czech language",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV010, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2020",
+            "title": "Robust processing of recordings for operations and security",
+            "details": "MV, PROGRAM STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1)\nPODPROGRAMU 1\nSPOLECNE VYZKUMNE PROJEKTY (BV IMP1/1VS), VJ01010108, start: 2020-10-01, end: 2025-09-30, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "HEGDE, P.; KESIRAJU, S.; SVEC, J.; SEDLACEK, S.; YUSUF, B.; PLCHOT, O.; DEEPAK, K.; CERNOCKY, J. Factors affecting the in-context learning abilities of LLMs for dialogue state tracking. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 4818-4822."
+        },
+        {
+            "year": "2025",
+            "citation": "SEDLACEK, S.; YUSUF, B.; SVEC, J.; HEGDE, P.; KESIRAJU, S.; PLCHOT, O.; CERNOCKY, J. Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs. In Proceedings of the Annual Conference of the International Speech Communication Association Interspeech. Interspeech. Rotterdam, The Netherlands: International Speech Communication Association, 2025. p. 1748-1752."
+        },
+        {
+            "year": "2024",
+            "citation": "POLOK, A.; KLEMENT, D.; HAN, J.; SEDLACEK, S.; YUSUF, B.; MACIEJEWSKI, M.; WIESNER, M.; BURGET, L. BUT/JHU System Description for CHiME-8 NOTSOFAR-1 Challenge. Proceedings of CHiME 2024 Workshop. Kos Island: International Speech Communication Association, 2024. p. 18-22."
+        }
+    ],
+    "name": "Sedlacek Simon, Ing."
+}

@@ -1,0 +1,33 @@
+{
+    "project": "AISEE - Artificial Intelligence based Search Environment for photo/video",
+    "title": "AISEE - AI Softwarovy expertni vyhledavac pro videa a fotografie",
+    "metadata": {
+        "project_period": "1. 1. 2022 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "VJ02010029",
+        "agency": "Ministry of the Interior of the Czech Republic",
+        "program": "Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS)"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "AISEE - Artificial Intelligence based Search Environment for photo/video"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "AI, forensic data mining, software, detection, Police CR"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The project addresses AI forensic data mining - an SW platform for the detection of objects of interest based on complex spatio-temporal relationships with object attributes and indexed relationships. It will enable AI training directly in the forensic environment using semi-automatic and weakly supervised learning. The lack of training data will be considered. An interface for querying and evaluating answers corresponding to the needs of forensic practice will be included. The platform will allow the evaluation of effectiveness with respect to practical limitations. The development will be based on user feedback. Set of test videosequences according to user scenarios and a research report addressing the ethics, legal framework and human rights issues of AI use will be created"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Smrz Pavel, doc. RNDr., Ph.D. (DCGM) \u2013 research leader Bazout David, Ing. Hradis Michal, Ing., Ph.D. (DCGM) Juranek Roman, Ing., Ph.D. (DCGM) Jurankova Marketa, Ing., Ph.D. (DCGM) Kapinus Michal, Ing., Ph.D. (DCGM) Karas Matej, Ing. Kreslik Martin (CVT) Materna Zdenek, Ing., Ph.D. (DCGM) Skokanova Jana, Mgr. (DFIT-ISD) Solony Marek, Ing., Ph.D. (DCGM) Zemcik Pavel, prof. Dr. Ing., dr. h. c. (DCGM)"
+        }
+    }
+}

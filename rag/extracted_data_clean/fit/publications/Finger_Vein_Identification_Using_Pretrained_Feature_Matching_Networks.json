@@ -1,0 +1,67 @@
+{
+    "publication": "RYDLO, S.; ORSAG, F.; GOLDMANN, T.; KOLAR, D. Finger Vein Identification Using Pretrained Feature Matching Networks. IEEE Access, 2026, no. VOLUME 14, 2026, p. 23814-23823. Detail THORBECKE, I.; VILLATORO-TELLO, E.; ZULUAGA, J.; KUMAR, S.; BURDISSO, S.; RANGAPPA, P.; CAROFILIS, A.; MADIKERI, S.; MOTLICEK, P.; PANDIA, K.; HACIOGLU, K.; STOLCKE, A. Unifying Global and Near-Context Biasing in a Single Trie Pass. In Lecture Notes in Artificial Intelligence. Lecture Notes in Computer Science. CHAM: Springer Nature, 2026. p. 170-181. ISBN: 978-3-032-02547-0. Detail VASKO, M.; HEROUT, A.; HRADIS, M. Archival Faces: Detection of Faces in Digitized Historical Documents. In Document Analysis and Recognition \u2013 ICDAR 2025 Workshops: Wuhan, China, September 20\u201321, 2025, Proceedings, Part II. Cham: Springer Nature Switzerland, 2026. p. 17-34. ISBN: 978-3-032-09370-7. Detail VOJNAR, T.; ZHANG, L. Tools and algorithms for the construction and analysis of systems: a special issue for TACAS 2019. International Journal on Software Tools for Technology Transfer, 2026, vol. 24, no. 1, p. 29-31.",
+    "year": "2026",
+    "title": "Finger Vein Identification Using Pretrained Feature Matching Networks",
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "journal article"
+        },
+        "language": {
+            "label": "Language",
+            "text": "English"
+        },
+        "authors": {
+            "label": "Authors",
+            "text": "Rydlo Stepan, Ing. , DIFS (FIT), DITS (FIT) Orsag Filip, Ing., Ph.D. , DITS (FIT) Kolar Dusan, doc. Dr. Ing. , DIFS (FIT) Goldmann Tomas, Ing., Ph.D. , DITS (FIT)"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "This work investigates the feasibility of using pretrained, feature-based matching neural networks for finger-vein\u2013based person identification without retraining on biometric datasets. The proposed solution compares two finger-vein images by extracting point correspondences and computing a similarity measure based on the number and spatial distribution of matches. To enforce geometric consistency, we apply homography-based verification using the matched points. We evaluate the capability of several pretrained neural network models (SuperGlue, GlueStick, ASpanFormer, LoFTR, and SGM-Net) to verify and identify individuals based on images of finger veins on three publicly available datasets (SDUMLA, MMCBNU, and FV-USM) without additional training or fine-tuning. Experiments cover verification via pairwise comparisons and open-set identification, using a single parameter setting across all datasets to assess robustness. Verification achieves an accuracy above 99\\%. In the open-set identification setting, the best result yields an equal error rate (EER) below 3.5\\%. These results indicate that general-purpose matching networks can transfer effectively to finger-vein recognition without biometric-specific retraining."
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "finger vein, biometry, recognition, identification, neural networks, homography"
+        },
+        "published": {
+            "label": "Published",
+            "text": "2026"
+        },
+        "pages": {
+            "label": "Pages",
+            "text": "23814\u201323823"
+        },
+        "journal": {
+            "label": "Journal",
+            "text": "IEEE Access, no. VOLUME 14, 2026, ISSN"
+        },
+        "publisher": {
+            "label": "Publisher",
+            "text": "IEEE (Institute of Electrical and Electronics Engineers)"
+        },
+        "doi": {
+            "label": "DOI",
+            "text": "10.1109/ACCESS.2026.3662722"
+        },
+        "eid_scopus": {
+            "label": "EID Scopus",
+            "text": "2-s2.0-105030037417"
+        },
+        "bibtex": {
+            "label": "BibTeX",
+            "text": "@article{BUT197753, author=\"Stepan {Rydlo} and Filip {Orsag} and Dusan {Kolar} and Tomas {Goldmann}\", title=\"Finger Vein Identification Using Pretrained Feature Matching Networks\", journal=\"IEEE Access\", year=\"2026\", number=\"VOLUME 14, 2026\", pages=\"23814--23823\", doi=\"10.1109/ACCESS.2026.3662722\", issn=\"2169-3536\", url=\"https://ieeexplore.ieee.org/document/11386897\" }"
+        },
+        "projects": {
+            "label": "Projects",
+            "text": "Reliable, Secure, and Intelligent Computer Systems , BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        "research_groups": {
+            "label": "Research groups",
+            "text": "Security Technology Research and Development (RG STRaDe)"
+        },
+        "departments": {
+            "label": "Departments",
+            "text": "Department of Information Systems (DIFS) Department of Intelligent Systems (DITS)"
+        }
+    }
+}

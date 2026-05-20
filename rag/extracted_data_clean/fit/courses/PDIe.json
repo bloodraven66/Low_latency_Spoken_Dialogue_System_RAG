@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "code": "PDIe",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Distributed Application Environment (in English)*)"
+    },
+    "content": {
+        "guarantor": "Rysavy Ondrej, doc. Ing., Ph.D. | (DIFS)",
+        "course_coordinator": "Rychly Marek, RNDr., Ph.D. | (DIFS)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written)",
+        "time_span": "- 39 hrs lectures\n- 13 hrs projects",
+        "assessment_points": "- 55 pts final exam\n- 15 pts mid-term test\n- 30 pts projects",
+        "department": "Department of Information Systems | (UIFS)",
+        "lecturer": "Rysavy Ondrej, doc. Ing., Ph.D. | (DIFS)",
+        "instructor": "Pluskal Jan, Ing., Ph.D. | (DIFS)",
+        "learning_objectives": "The aim is to understand principles and design of applications for distributed environment, obtain overview of modern distributed environments and ability of usage application interface for various programming environments.\nThe students will become familiar with concepts and principles of distributed environments, with the design and implementation of applications for distributed environments and security aspects in distributed environments.\n- A student learns terminology in the domain of DS\n- A student learns to create small projects\n- A student learns to present and defend the results of the small project",
+        "prerequisite_knowledge_and_skills": "Knowledge of programming the network applications in common programming languages like C/C++ or Java. Knowledge of Unix architecture and ability to create programs for Unix operating systems.",
+        "study_literature": "- S. Saxena, S. Gupta: Real-Time Big Data Analytics, Packt Publishing, 2016.\nS. Saxena, S. Gupta: Real-Time Big Data Analytics, Packt Publishing, 2016.",
+        "fundamental_literature": "- Kshemkalyani, Singhal: Distributed Computing, Cambridge Press, 2008.\nKshemkalyani, Singhal: Distributed Computing, Cambridge Press, 2008.\n- Dahlia Malkhi: Concurrency: The Works of Leslie Lamport, ACM Books, 2019.\n- B. Burns: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, O'Reilly Media, 1st edition, 2018.\nB. Burns: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, O'Reilly Media, 1st edition, 2018.",
+        "syllabus_of_lectures": "- Principles and models of distributed computation\n- Physical and Logical Time\n- Global State and Snapshot Algorithms\n- Group communication\n- Authentication in Distributed Systems\n- Algorithms of Leader Election and Mutual Exclusion\n- Midterm Exam\n- Virtualization and Cloud Computing\n- MapReduce Programming Model and Apache Hadoop\n- Principles of Apache Spark\n- Distributed Stream Processing in Apache Flink\n- Enterprise Service Bus\n- Distributed computing with BOINC",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "- Implementation of a distributed application in the given target environment (Spark, Flink, Azure, Hadoop,...).",
+        "progress_assessment": "- Mid-term written examination - 15 points\n- Evaluated project with the defense - 30 points\n- Final written examination - 55 points"
+    }
+}

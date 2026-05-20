@@ -1,0 +1,395 @@
+{
+    "contact": {
+        "department": "Department of Intelligent Systems",
+        "department_abbr": "DITS",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "ceskam@fit.vut.cz",
+            "work_phone": "+420 54114 1178",
+            "room": "A219 Office",
+            "researcher_id": "AAK-2282-2020",
+            "orcid_id": "0000-0002-0300-9727",
+            "scopus_author_id": "7006749648"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Automata@FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Automated Analysis and Verification Research Group - VeriFIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "Bronze Medail in Human competitive awards in genetic and evolutionary computation (Humies) 2018",
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2022",
+            "Best Student Paper Award AAMAS 2025"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Based on a prior arrangement via email.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "MAD",
+                "title": "Selected Chapters on Mathematics",
+                "details": "Czech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "TIN",
+                "title": "Theoretical Computer Science",
+                "details": "Czech, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "TINe",
+                "title": "Theoretical Computer Science (in English)",
+                "details": "English, summer",
+                "department": "DITS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "IAM",
+                "title": "Advanced Mathematics",
+                "details": "Exercise in computer lab, Fundamentals seminar, Lecture,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "ITY",
+                "title": "Typography and Publishing",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "MAD",
+                "title": "Selected Chapters on Mathematics",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "MBA",
+                "title": "Model-Based Analysis",
+                "details": "Lecture,\nCzech, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "MSP",
+                "title": "Statistics and Probability",
+                "details": "Fundamentals seminar, Lecture,\nCzech, winter",
+                "department": "IM DSO"
+            },
+            {
+                "abbreviation": "TIN",
+                "title": "Theoretical Computer Science",
+                "details": "Fundamentals seminar, Lecture, Seminar,\nCzech, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "TINe",
+                "title": "Theoretical Computer Science (in English)",
+                "details": "Lecture,\nEnglish, summer",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "QUAK: Quantum Program Analysis using Automata Toolkit",
+            "details": "GACR, Standardni projekty, 25-18318S, start: 2025-01-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "EXCEL@FIT 2024",
+            "details": "BUT, Vnitrni projekty VUT, start: 2024-03-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2024",
+            "title": "Verification and Analysis for Safety and Security of Applications in Life",
+            "details": "EU, HORIZON EUROPE, SEP-210979090, start: 2024-06-01, end: 2027-05-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "EXCEL@FIT 2023",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-1, start: 2023-03-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Reliable, Secure, and Intelligent Computer Systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Representing Boolean Functions by a Self-Adaptable Data Structure",
+            "details": "GACR, Standardni projekty, GA23-07565S, start: 2023-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "VESCAA: Verifiable and Efficient Synthesis of Agent Controllers",
+            "details": "GACR, Standardni projekty, GA23-06963S, start: 2023-03-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2022",
+            "title": "EXCEL@FIT 2022",
+            "details": "BUT, Vnitrni projekty VUT, start: 2022-03-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "EXCEL@FIT 2021",
+            "details": "BUT, Vnitrni projekty VUT, start: 2021-03-15, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "CAQtuS: Computer-Aided Quantitative Synthesis",
+            "details": "GACR, Juniorske granty, GJ20-02328Y, start: 2020-01-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Efficient Finite Automata for Automated Reasoning",
+            "details": "MSMT, ERC CZ, LL1908, start: 2020-01-01, end: 2024-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "EXCEL@FIT 2020",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-1, start: 2020-03-01, end: 2021-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Spolehlive, bezpecne a efektivni pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Verification and Validation of Automated Systems' Safety and Security",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A20009, start: 2020-05-01, end: 2023-07-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Arrowhead Tools for Engineering of Digitalisation Solutions",
+            "details": "MSMT, Spolecna technologicka iniciativa ECSEL, 8A19010, start: 2019-05-01, end: 2022-07-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Automata for Decision Procedures and Verification",
+            "details": "GACR, Standardni projekty, GA19-24397S, GA19-24397S, start: 2019-01-01, end: 2021-12-31, running"
+        },
+        {
+            "year": "2017",
+            "title": "Bezpecne a spolehlive pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-4014, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; CHAKRABORTY, D.; JUNGES, S.; KRETINSKY, J.; MACAK, F. Symbiotic Local Search for Small Decision Tree Policies in MDPs. In Proceedings of the Forty-first Conference on Uncertainty in Artificial Intelligence. Proceedings of Machine Learning Research. ML Research Press, 2025. p. 132-142."
+        },
+        {
+            "year": "2025",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; JUNGES, S.; MACAK, F. Small Decision Trees for MDPs with Deductive Synthesis. In Computer Aided Verification. Springer Cham, 2025. p. 169-192. ISBN: 978-3-031-98678-9."
+        },
+        {
+            "year": "2025",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; MACAK, F.; FRANCESCO, P.; MICHELE, C. Decentralized Planning Using Probabilistic Hyperproperties. In Proc. of the 24th International Conference on Autonomous Agents and Multiagent Systems. Detroit: 2025. p. 1688-1697. ISBN: 979-8-4007-1426-9."
+        },
+        {
+            "year": "2025",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; MACAK, F.; JUNGES, S. Policies Grow on Trees: Model Checking Families of MDPs. In Proceeding of 22nd International Symposium on Automated Technology for Verification and Analysis. Cham: Springer Verlag, 2025. p. 51-75. ISBN: 978-3-031-78749-2."
+        },
+        {
+            "year": "2025",
+            "citation": "GALESLOOT, M.; ANDRIUSHCHENKO, R.; CESKA, M.; JUNGES, S.; JANSEN, N. Robust Finite-Memory Policy Gradients for Hidden-Model POMDPs. In Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence. International Joint Conferences on Artificial Intelligence Organization, 2025. p. 8518-8526. ISBN: 978-1-956792-06-5."
+        },
+        {
+            "year": "2025",
+            "citation": "MACAK, F.; ANDRIUSHCHENKO, R.; CESKA, M.; JUNGES, S.; KATOEN, J. An Oracle-Guided Approach to Constrained Policy Synthesis Under Uncertainty. The journal of artificial intelligence research, 2025, vol. 2025, no. 82, p. 433-469."
+        },
+        {
+            "year": "2024",
+            "citation": "CESKA, M.; ANDRIUSHCHENKO, R.; ARND, H.; JUNGES, S.; KRETINSKY, J. Tools at the Frontiers of Quantitative Verification: QComp 2023 Competition Report. In International TOOLympics Challenge. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2024. p. 90-146. ISBN: 978-3-031-67694-9."
+        },
+        {
+            "year": "2024",
+            "citation": "HELFRICH, M.; ANDRIUSHCHENKO, R.; CESKA, M.; KRETINSKY, J.; MARTICEK, S.; SAFRANEK, D. Abstraction-based segmental simulation of reaction networks using adaptive memoization. BMC BIOINFORMATICS, 2024, vol. 25, no. 1, p. 1-24. ISSN: 1471-2105."
+        },
+        {
+            "year": "2023",
+            "citation": "ANDRIUSHCHENKO, R.; ALEXANDER, B.; CESKA, M.; JUNGES, S.; KATOEN, J.; MACAK, F. Search and Explore: Symbiotic Policy Synthesis in POMDPs. In Computer Aided Verification. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Cham: Springer Verlag, 2023. p. 113-135. ISBN: 978-3-031-37708-2."
+        },
+        {
+            "year": "2023",
+            "citation": "ANDRIUSHCHENKO, R.; BARTOCCI, E.; CESKA, M.; FRANCESCO, P.; SARAH, S. Deductive Controller Synthesis for Probabilistic Hyperproperties. In Quantitative Evaluation of SysTems. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Cham: Springer Verlag, 2023. p. 288-306. ISBN: 978-3-031-43834-9."
+        },
+        {
+            "year": "2022",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; JUNGES, S.; KATOEN, J. Inductive Synthesis of Finite-State Controllers for POMDPs. In Conference on Uncertainty in Artificial Intelligence. Proceedings of Machine Learning Research. Proceedings of Machine Learning Research. Eindhoven: Proceedings of Machine Learning Research, 2022. no. 180, p. 85-95. ISSN: 2640-3498."
+        },
+        {
+            "year": "2022",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; MARCIN, V.; VOJNAR, T. GPU-Accelerated Synthesis of Probabilistic Programs. In International Conference on Computer Aided Systems Theory (EUROCAST'22). Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2022. p. 256-266. ISBN: 978-3-031-25312-6."
+        },
+        {
+            "year": "2022",
+            "citation": "CESKA, M.; MATYAS, J.; MRAZEK, V.; SEKANINA, L.; VASICEK, Z.; VOJNAR, T. SagTree: Towards Efficient Mutation in Evolutionary Circuit Approximation. Swarm and Evolutionary Computation, 2022, vol. 69, no. 100986, p. 1-10. ISSN: 2210-6502."
+        },
+        {
+            "year": "2022",
+            "citation": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VOJNAR, T. Designing Approximate Arithmetic Circuits with Combined Error Constraints. In Proceeding of 25th Euromicro Conference on Digital System Design 2022 (DSD'22). Gran Canaria: Institute of Electrical and Electronics Engineers, 2022. p. 785-792. ISBN: 978-1-6654-7404-7."
+        },
+        {
+            "year": "2022",
+            "citation": "HELFRICH, M.; CESKA, M.; KRETINSKY, J.; MARTICEK, S. Abstraction-Based Segmental Simulation of Chemical Reaction Networks. In International Conference on Computational Methods in Systems Biology. Lecture Notes in Bioinformatics. Bucharest: Springer Verlag, 2022. p. 41-60. ISBN: 978-3-031-15033-3."
+        },
+        {
+            "year": "2021",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; ABATE, A.; KWIATKOWSKA, M. Adaptive formal approximations of Markov chains. PERFORMANCE EVALUATION, 2021, vol. 148, no. 102207, p. 1-23. ISSN: 0166-5316."
+        },
+        {
+            "year": "2021",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; JUNGES, S.; KATOEN, J. Inductive Synthesis for Probabilistic Programs Reaches New Horizons. In International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS). Lecture Notes in Computer Science. Cham: Springer International Publishing, 2021. p. 191-209. ISBN: 978-3-030-72015-5."
+        },
+        {
+            "year": "2021",
+            "citation": "ANDRIUSHCHENKO, R.; CESKA, M.; STUPINSKY, S.; JUNGES, S.; KATOEN, J. PAYNT: A Tool for Inductive Synthesis of Probabilistic Programs. In International Conference on Computer Aided Verification (CAV). Lecture Notes in Computer Science. Cham: Springer Verlag, 2021. p. 856-869. ISBN: 978-3-030-81684-1."
+        },
+        {
+            "year": "2021",
+            "citation": "CESKA, M.; JUNGES, S.; KATOEN, J.; HENSE, C. Counterexample-guided inductive synthesis for probabilistic systems. FORMAL ASPECTS OF COMPUTING, 2021, vol. 33, no. 4, p. 637-667. ISSN: 0934-5043."
+        },
+        {
+            "year": "2020",
+            "citation": "CESKA, M. Towards Computer-Aided Quantitative Synthesis. Brno: Faculty of Information Technology BUT, 2020. 260 p."
+        },
+        {
+            "year": "2020",
+            "citation": "CESKA, M.; CHAU, C.; KRETINSKY, J. SeQuaiA: A Scalable Tool for Semi-Quantitative Analysis of Chemical Reaction Networks. In International Conference on Computer Aided Verification. Lecture Notes in Computer Science. Cham: Springer Verlag, 2020. p. 653-666. ISBN: 978-3-030-53287-1."
+        },
+        {
+            "year": "2020",
+            "citation": "CESKA, M.; HAVLENA, V.; HOLIK, L.; LENGAL, O.; VOJNAR, T. Approximate Reduction of Finite Automata for High-Speed Network Intrusion Detection. International Journal on Software Tools for Technology Transfer, 2020, vol. 22, no. 5, p. 523-539. ISSN: 1433-2779."
+        },
+        {
+            "year": "2020",
+            "citation": "CESKA, M.; MATYAS, J.; MRAZEK, V.; SEKANINA, L.; VASICEK, Z.; VOJNAR, T. Adaptive verifiability-driven strategy for evolutionary approximation of arithmetic circuits. APPLIED SOFT COMPUTING, 2020, vol. 95, no. 106466, p. 1-17. ISSN: 1568-4946."
+        },
+        {
+            "year": "2020",
+            "citation": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VOJNAR, T. Satisfiability Solving Meets Evolutionary Optimisation in Designing Approximate Circuits. In Theory and Applications of Satisfiability Testing - SAT 2020. Lecture Notes in Computer Science. Alghero: Springer International Publishing, 2020. p. 481-491. ISBN: 978-3-030-51824-0."
+        },
+        {
+            "year": "2020",
+            "citation": "MATYAS, J.; PANKUCH, A.; VOJNAR, T.; CESKA, M.; CESKA, M. Approximating Complex Arithmetic Circuits with Guaranteed Worst-Case Relative Error. In International Conference on Computer Aided Systems Theory (EUROCAST'19). Lecture Notes in Computer Science. Cham: Springer Verlag, 2020. p. 482-490. ISBN: 978-3-030-45092-2."
+        },
+        {
+            "year": "2019",
+            "citation": "CESKA, M.; HENSE, C.; JANSEN, N.; JUNGES, S.; KATOEN, J. Model Repair Revamped - On the Automated Synthesis of Markov Chains -. In From Reactive Systems to Cyber-Physical Systems. Lecture Notes of Computer Science. Cham: Springer International Publishing, 2019. p. 107-125. ISBN: 978-3-030-31513-9."
+        },
+        {
+            "year": "2019",
+            "citation": "CESKA, M.; HENSE, C.; JUNGES, S.; KATOEN, J. Counterexample-Driven Synthesis for Probabilistic Program Sketches. In Proceedings of the 23rd International Symposium on Formal Methods. Lecture Notes of Computer Science. Porto: Springer International Publishing, 2019. p. 101-120. ISBN: 978-3-030-30941-1."
+        },
+        {
+            "year": "2019",
+            "citation": "CESKA, M.; JANSEN, N.; JUNGES, S.; KATOEN, J. Shepherding Hordes of Markov Chains. In Proceedings of 25th International Conference on Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Praha: Springer International Publishing, 2019. p. 172-190. ISBN: 978-3-030-17464-4."
+        },
+        {
+            "year": "2019",
+            "citation": "CESKA, M.; KRETINSKY, J. Semi-quantitative Abstraction and Analysis of Chemical Reaction Networks (Extended Abstract). In Proceedings of the 17th International Conference on Computational Methods in Systems Biology. Lecture Notes in Bioinformatics. Trieste: Springer International Publishing, 2019. p. 337-341. ISBN: 978-3-030-31303-6."
+        },
+        {
+            "year": "2019",
+            "citation": "CESKA, M.; KRETINSKY, J. Semi-Quantitative Abstraction and Analysis of Chemical Reaction Networks. In Proceedings of the 31th International Conference on Computer Aided Verification (CAV'19). Lecture Notes of Computer Science. New York: Springer International Publishing, 2019. p. 475-496. ISBN: 978-3-030-25540-4."
+        },
+        {
+            "year": "2019",
+            "citation": "HAVLENA, V.; CESKA, M.; HOLIK, L.; KORENEK, J.; LENGAL, O.; MATOUSEK, D.; MATOUSEK, J.; SEMRIC, J.; VOJNAR, T. Deep Packet Inspection in FPGAs via Approximate Nondeterministic Automata. In Proceedings - 27th IEEE International Symposium on Field-Programmable Custom Computing Machines, FCCM 2019. San Diego, CA: Institute of Electrical and Electronics Engineers, 2019. p. 109-117. ISBN: 978-1-7281-1131-5."
+        },
+        {
+            "year": "2018",
+            "citation": "CALINESCU, R.; CESKA, M.; GERASIMOU, S.; KWIATKOWSKA, M.; PAOLETTI, N. Efficient Synthesis of Robust Models for Stochastic Systems. JOURNAL OF SYSTEMS AND SOFTWARE, 2018, vol. 2018, no. 143, p. 140-158. ISSN: 0164-1212."
+        },
+        {
+            "year": "2018",
+            "citation": "CESKA, M.; HAVLENA, V.; HOLIK, L.; LENGAL, O.; VOJNAR, T. Approximate Reduction of Finite Automata for High-Speed Network Intrusion Detection. In Proceedings of TACAS'18. Lecture Notes in Computer Science. Thessaloniki: Springer Verlag, 2018. no. 2, p. 155-175. ISSN: 0302-9743."
+        },
+        {
+            "year": "2018",
+            "citation": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VASICEK, Z.; SEKANINA, L.; VOJNAR, T. ADAC: Automated Design of Approximate Circuits. In Proceedings of 30th International Conference on Computer Aided Verification (CAV'18). Oxford, UK: Springer International Publishing, 2018. p. 612-620. ISBN: 978-3-319-96145-3."
+        },
+        {
+            "year": "2017",
+            "citation": "CESKA, M.; CALINESCU, R.; GERASIMOU, S.; KWIATKOWSKA, M.; PAOLETTI, N. Recent Advances in Designing Robust Probabilistic Systems. 2nd International Workshop on Design and Analysis of Robust Systems (Extended Abstract). Berlin: 2017. p. 1-3."
+        },
+        {
+            "year": "2017",
+            "citation": "CESKA, M.; CALINESCU, R.; GERASIMOU, S.; KWIATKOWSKA, M.; PAOLETTI, N. Designing Robust Software Systems through Parametric Markov Chain Synthesis. In Proceedings of 14th IEEE International Conference On Software Architecture. New Jersey: IEEE Computer Society, 2017. p. 131-140. ISBN: 978-1-5090-5729-0."
+        },
+        {
+            "year": "2017",
+            "citation": "CESKA, M.; CALINESCU, R.; GERASIMOU, S.; KWIATKOWSKA, M.; PAOLETTI, N. RODES: A Robust-Design Synthesis Tool for Probabilistic Systems. In Proceedings of 14th International Conference on Quantitative Evaluation of SysTems. Heidelberg: Springer Verlag, 2017. p. 304-308. ISBN: 978-3-319-66335-7."
+        },
+        {
+            "year": "2017",
+            "citation": "CESKA, M.; CARDELLI, L.; FRANZLE, M.; KWIATKOWSKA, M.; LAURENTI, L.; PAOLETTI, N.; WHITBY, M. Syntax-Guided Optimal Synthesis for Chemical Reaction Networks. In Proceedings of the 29th International Conference on Computer Aided Verification. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2017. p. 375-395. ISBN: 978-3-319-63390-9."
+        },
+        {
+            "year": "2017",
+            "citation": "CESKA, M.; CESKA, M.; PAOLETTI, N. Precise Parameter Synthesis for Generalised Stochastic Petri Nets with Interval Parameters. In Proceedings of 16th International Conference on Computer Aided Systems Theory. LNCS volume 10672. Heidelberg: Springer Verlag, 2017. p. 38-46. ISBN: 978-3-319-74726-2."
+        },
+        {
+            "year": "2017",
+            "citation": "CESKA, M.; MATYAS, J.; MRAZEK, V.; VASICEK, Z.; SEKANINA, L.; VOJNAR, T. Approximating Complex Arithmetic Circuits with Formal Error Guarantees: 32-bit Multipliers Accomplished. In Proceedings of 36th IEEE/ACM International Conference On Computer Aided Design (ICCAD). Irvine, CA: Institute of Electrical and Electronics Engineers, 2017. p. 416-423. ISBN: 978-1-5386-3093-8."
+        },
+        {
+            "year": "2017",
+            "citation": "LAURENTI, L.; ABATE, A.; BORTOLUSSI, L.; CARDELLI, L.; CESKA, M.; KWIATKOWSKA, M. Reachability Computation for Switching Diffusions:Finite Abstractions with Certifiable and Tuneable Precision. In Proceedings of the 20th ACM International Conference on Hybrid Systems: Computation and Control. ACM. New York: Association for Computing Machinery, 2017. p. 55-64. ISBN: 978-1-4503-4590-3."
+        },
+        {
+            "year": "2016",
+            "citation": "ABATE, A.; CESKA, M.; KWIATKOWSKA, M. Approximate Policy Iteration for Markov Decision Processes via Quantitative Adaptive Aggregations. In Proceedings of 14th International Symposium on Automated Technology for Verification and Analysis. Lecture Notes in Computer Science. Heidelberg: Springer Verlag, 2016. p. 13-31. ISBN: 978-3-319-46519-7."
+        },
+        {
+            "year": "2016",
+            "citation": "CESKA, M.; ALDEGHERI, S.; BARNAT, J.; BOMBIERI, N.; BUSATO, F. Parametric Multi-Step Scheme for GPU-Accelerated Graph Decomposition into Strongly Connected Components. In Proceedings of 2nd Workshop on Performance Engineering for Large Scale Graph Analytics. Lecture Notes in Computer Science. Cham: Springer Verlag, 2016. p. 519-531. ISBN: 978-3-319-58942-8."
+        },
+        {
+            "year": "2016",
+            "citation": "CESKA, M.; DANNENBERG, F.; KWIATKOWSKA, M.; PAOLETTI, N.; BRIM, L. Precise parameter synthesis for stochastic biochemical systems. ACTA INFORMATICA, 2016, vol. 54, no. 6, p. 589-623. ISSN: 0001-5903."
+        },
+        {
+            "year": "2016",
+            "citation": "CESKA, M.; PILAR, P.; PAOLETTI, N.; BRIM, L.; KWIATKOWSKA, M. PRISM-PSY: Precise GPU-Accelerated Parameter Synthesis for Stochastic Systems. In Proceedings of the 22nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin: Springer International Publishing, 2016. p. 367-384. ISBN: 978-3-662-49673-2. ISSN: 0302-9743."
+        }
+    ],
+    "name": "Ceska Milan, doc. RNDr., Ph.D."
+}

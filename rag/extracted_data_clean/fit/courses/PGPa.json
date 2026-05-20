@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "code": "PGPa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Winter semester",
+        "credits": "5 credits",
+        "course_name": "Advanced Computer Graphics (in English)"
+    },
+    "content": {
+        "guarantor": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Examination (written)",
+        "time_span": "- 26 hrs lectures\n- 26 hrs projects",
+        "assessment_points": "- 51 pts final exam (28 pts written part, 23 pts test part)\n- 9 pts mid-term test (test part)\n- 30 pts projects\n- 10 pts homework",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Beran Vitezslav, doc. Ing., Ph.D. | (DCGM) | Cadik Martin, prof. Ing., Ph.D. | (DCGM) | Kula Michal, Ing., Ph.D. | (DCGM) | Milet Tomas, Ing., Ph.D. | (DCGM) | Starka Tomas, Ing. | (DCGM) | Vlnas Michal, Ing. | (DCGM) | Zemcik Pavel, prof. Dr. Ing., dr. h. c. | (DCGM)",
+        "instructor": "Milet Tomas, Ing., Ph.D. | (DCGM)",
+        "learning_objectives": "To get acquainted with the advanced computer animation and computer graphics methods suitable for dynamic and large scale scenes. To learn how to practically implement selected algorithms through projects.The students will get acquainted with the advanced computer animation and computer graphics methods suitable for dynamic and large scale scenes. They will also learn how to practically implement selected algorithms through projects.The students will practice teamwork on the projects, work with literature, and practical experience with C/C++ and other languages.",
+        "recommended_prerequisites": "- Computer Graphics Principles(IZG)Computer Graphics(PGR)\n- Computer Graphics(PGR)",
+        "study_literature": "- Papers IEEE, ACM, Wikipedia\n- Moeller, T., Haines, E., Real-time Rendering, AK Peters, 1999, ISBN 1569911012(currently available in 3rd edition:Real-time Rendering, 2008Tomas Akenine-Moller (Autor), Eric Haineshttps://www.amazon.de/Real-time-Rendering-Tomas-Akenine-M%C3%B6ller/dp/1568814240)\nReal-time Rendering, 2008\nTomas Akenine-Moller (Autor), Eric Haines\nhttps://www.amazon.de/Real-time-Rendering-Tomas-Akenine-M%C3%B6ller/dp/1568814240)",
+        "fundamental_literature": "- Clanky IEEE, ACM, Wikipedie\n- Thalmann, N., M., Thalmann, D., Interactive Computer Animation, Prentice Hall, 1996, ISBN 0-13-518309-X\n- Moeller, T., Haines, E., Real-time Rendering, AK Peters, 1999, ISBN 1569911012",
+        "syllabus_of_lectures": "- Introduction, limits of computer graphics, physics reminders/Uvod, omezeni pocitacove grafiky, pripominka fyziky (Zemcik 19.9.slajdy/slides)\n- Advanced work with shaders/Pokrocila prace se shadery, Frame Buffer, Teselation, Compute Shader (Milet 26.9.slajdy/slidesFitGL)\n- Visibility, shadow maps, shdow volumes, real-time global illumination/Vypocty viditelnosti, stinove mapy, stinova telesa, real-time globalni osvetleni I (Milet, 3.10.slajdy/slides)\n- Visibility, shadow maps, shdow volumes, real-time global illumination/Vypocty viditelnosti, stinove mapy, stinova telesa, real-time globalni osvetleni II (Milet, 10.10.slajdy/slides)\n- Optimization of ray tracing/Optimalizace sledovani paprsku (Zemcik 17.10.slajdy/slides)\n- CUDA and OpelCL/CUDA a OpenCL (Kula, 24.10.slajdy/slides)\n- Advanced Gl/Pokrocile metody GI (Vlnas 31.10.slajdy/slides)\n- Physically based shading/Fyzikalne podlozeny shading, Anti Aliasing (Starka 7.11.slajdy/slidesslajdy/slides)\n- Large scenes, level of detail/Rozsahle sceny, uroven detailu (Starkalodvelke sceny/large scenes, 14.11.)\n- Rendering of scenes with high dynamic range - HDR/Zobrazeni scen s vysokym dynamickym rozsahem - HDR (Cadik 21.11.slajdy/slides)\n- Virtual and augmented reality/Virtualni a augmented realita (Beran 28.11.slajdy/slides)\n- Guest lecture/Prednaska hosta (TBD 5. 12.)\n- Zaver, TBD (Zemcik 12.12.)\nNOTE: The topics and dates are just FYI, not guaranteed, and will be continuously updated.POZOR!!! Temata a data prednasek jsou orientacni a budou v prubehu semestru aktualizovana.",
+        "syllabus_-_others,_projects_and_individual_work_of_students": "- Homeworks (5 runs) at the beginning of semester\n- Individually assigned projects.",
+        "progress_assessment": "Homeworks, mid-term test, individual project."
+    }
+}

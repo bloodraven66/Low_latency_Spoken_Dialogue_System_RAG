@@ -1,0 +1,902 @@
+{
+    "contact": {
+        "department": "Dept. of Algebra and Discrete Mathematics",
+        "department_abbr": "IM DAAG",
+        "role": "Professor",
+        "details": {
+            "e_mail": "slapal@fme.vutbr.cz",
+            "work_phone": "+420 54114 2729",
+            "room": "A1/1942",
+            "researcher_id": "K-2755-2015",
+            "orcid_id": "0000-0001-8843-6842",
+            "scopus_author_id": "6602234420"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Doctoral Study Programme Board of FIT",
+            "role": "Member"
+        },
+        {
+            "organization": "Master Study Programme Board for programme Information Technology and Artificial Intelligence",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "external - IM DADM FME BUT"
+        },
+        {
+            "organization": "Scientific Board",
+            "role": "FME BUT"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "1971-75 attending the Elektrotechnical High School in Brno",
+            "1975-80 study at Masaryk University in Brno, Faculty of Sciences (M.A. in pure mathematics)",
+            "1982 rigorous examination in functional analysis - the degree RNDr.",
+            "1989-92 postgraduate study at Masaryk University in Brno, the degree CSc. (=PhD.) in algebra and number theory",
+            "1994 habilitation in mathematics at Masaryk University in Brno",
+            "2000 profesor in applied mathematics at the Brno University of Technology"
+        ],
+        "career_overview": [
+            "1981-86 Lecturer and Senior Lecturer at the Department of Mathematics, Technical University of Ostrava",
+            "1986-91 Research-Technical Specialist at Department of Mathematics, Technical University of Brno",
+            "1991-94 Senior Lecturer at the Department of Mathematics, Technical University of Brno",
+            "1994-00 Associate Professor at the Brno University of Technology, Dpt. of Mathematics",
+            "2000- Profesor in applied mathematics at the Brno University of Technology"
+        ],
+        "pedagogic_activities": [
+            "Master study programme Mathematical Engineering at FME: Discrete Mathematics Methods, Graphs and Algorithms, Mathematical Logic, Mathematical Structures",
+            "Master study programmes at FIT: Mathematical Structures in Informatics",
+            "PhD study at FIT: Category Theory, Modern Mathematical Methods in Informatics",
+            "Annual lectures on Universal Algebra, Category Theory and Topology in the framework of the Erasmus Programme at universities in abroad (Universitat Potsdam, Technische Universitat Wien, LAquila University)",
+            "Supervisor of PhD students in the study programme Mathematical Engineering - 4 students have already graduated",
+            "The responsible person for realizing the Double Diploma Program in \"Mathematical Modelling in Engineering\" with L'Aquila University",
+            "The responsible person for realizing the study program mathematical Engineering at FME BUT (both Bachelor's and Master's program)"
+        ],
+        "scientific_activities": [
+            "General Algebra - cartesian closedness in categories of relational and algebraic structures",
+            "Categorical Topology - closure operators and convergence structures on categories",
+            "Digital Topology - structuring the digital plane by using closure operators",
+            "Research supported by grants from GA CR and from Ministry of Education of CR",
+            "Results annually published in international journals and presented at international conferences",
+            "H-index 12"
+        ],
+        "academic_internships_abroad": [
+            "1995-96 six months at Freie Universitat Berlin",
+            "1999 one month at Freie Universitat Berlin",
+            "2001 four months at University of Pittsburgh",
+            "2003 six months at L'Aquila University",
+            "2003-04 two one-month stays at University of the Thai Chamber of Commerce, Bangkok",
+            "2008-11 two one-month stays at Chiang Mai University (Thailand)",
+            "2009 one month at University of Stellenbosch (South Africa)"
+        ],
+        "university_activities": [
+            "1990-96 member of the Academic Senate of FME",
+            "2003- member of PhD study branch councils at FME and FIT",
+            "2007- member of PhD study branch councils at FS UP Olomouc",
+            "2008- member of the Scientific Board of FIT VUT Brno",
+            "2008-12 member of the Scientific Board of FBM VUT Brno",
+            "2009- member of the Scientific Board of FS UP Olomouc"
+        ],
+        "non-university_activities": [
+            "Member (and in 2008-11 the Head) of the Advisory Committee of Summer Conferences on Topology nd Applications.",
+            "Head of the organizing committee of the \"24th Summer Conference on Topology and its Applications\", Brno, July 14-17, 2009.",
+            "Head of the organizing committee of the \"16th International Workshop on Combinatorial Image Analysis (IWCIA)\", Brno, May 28-30, 2014.",
+            "Member of Steering Committees of the conferences IWCIA.",
+            "Founder and Editor in Chief of the scientific journal Mathematics for Applications."
+        ],
+        "prizing_by_scientific_community": [
+            "1995 grant from the German Academy of Sciences",
+            "1999 support from DAAD (Germany)",
+            "2001 Dr. Jiri Nehnevajsa Memorial Award received (USA)",
+            "2003 Outreach Fellowship from NATO (Italy)",
+            "2009 NRF-ASCR Fellowship (South Africa)",
+            "1995- invited lectures at universities in abroad (Potsdam, Berlin, Darmstadt, Pittsburgh, New York, Slippery Rock, L'Aquila, Bangkok, Chiang Mai, Cape Town, Stellenbosch, Auckland, etc.)"
+        ],
+        "projects": [
+            "GACR 201/95/0468 General algebraic and topological systems",
+            "PG98006 (Czech Min. of Education) Dissemination of scientific results",
+            "GACR 201/00/1466 Continuous and set-theoretic methods in topological and algebraic structures",
+            "GACR 201/03/0933 Set-theoretic and categorical methods in topological and algebraic structures",
+            "MSM 260000013 Automatization of technologies and production processes",
+            "MSM 0021630518 Simulation modelling of mechatronic systems",
+            "Erasmus IP Project \"Mathematical Modelling in Life and Social Sciences\"",
+            "AV CR - NRF (South Africa) Mobility Grant \"Compactness and connectedness in categorical topology\"",
+            "OPVK 2.3 A-Math-Net: Transfer of knowledge in applied mathematics"
+        ],
+        "sum_of_citations_(without_self-citations)_indexed_within_scopus": [
+            "158"
+        ],
+        "sum_of_citations_(without_self-citations)_indexed_within_isi_web_of_knowledge": [
+            "138"
+        ],
+        "sum_of_other_citations_(without_self-citations)": [
+            "81"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Monday, 14:00-16:00 , A1/1942 (Technicka 2896/2, Brno 616 69) Thursday, 13:00-15:00 , A1/1942 (Technicka 2896/2, Brno 616 69)",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "9APT",
+                "title": "Applied Topology",
+                "details": "Czech, English, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "9TKD",
+                "title": "Basics of Category Theory",
+                "details": "Czech, English, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "9MDM",
+                "title": "Basics of Discrete Mathematics",
+                "details": "Czech, English, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SD3",
+                "title": "Diploma Project I (N-MAI)",
+                "details": "Czech, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SD3-A",
+                "title": "Diploma Project I (N-MAI)",
+                "details": "English, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SD4-A",
+                "title": "Diploma Project II (M-MAI)",
+                "details": "English, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SD4",
+                "title": "Diploma Project II (M-MAI)",
+                "details": "Czech, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SSZ",
+                "title": "Diploma Seminar I (M-MAI)",
+                "details": "Czech, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SSZ-A",
+                "title": "Diploma Seminar I (M-MAI)",
+                "details": "English, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SDS",
+                "title": "Diploma Seminar II (M-MAI)",
+                "details": "Czech, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SDS-A",
+                "title": "Diploma Seminar II (M-MAI)",
+                "details": "English, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SOA",
+                "title": "General Algebra",
+                "details": "Czech, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SGA-A",
+                "title": "Graphs and Algorithms",
+                "details": "English, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SML-A",
+                "title": "Mathematical Logic",
+                "details": "English, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SML",
+                "title": "Mathematical Logic",
+                "details": "Czech, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "MLD",
+                "title": "Mathematical Logic",
+                "details": "Czech, English, summer",
+                "department": "IM DAAG"
+            },
+            {
+                "abbreviation": "S3M-A",
+                "title": "Mathematical Seminar",
+                "details": "English, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "S3M",
+                "title": "Mathematical Seminar",
+                "details": "Czech, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SSR-A",
+                "title": "Mathematical Structures",
+                "details": "English, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "MATe",
+                "title": "Mathematical Structures in Computer Science (in English)",
+                "details": "English, winter",
+                "department": "IM DAAG"
+            },
+            {
+                "abbreviation": "SDM",
+                "title": "Methods of Discrete Mathematics",
+                "details": "Czech, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "MID",
+                "title": "Modern Mathematical Methods in Informatics",
+                "details": "Czech, English, winter",
+                "department": "IM DAAG"
+            },
+            {
+                "abbreviation": "9UMS",
+                "title": "Ordered Sets and Lattices",
+                "details": "Czech, English, summer",
+                "department": "IM"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "SDM",
+                "title": "Methods of Discrete Mathematics",
+                "details": "Lecture,\nCzech, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SDP-A",
+                "title": "Diploma Seminar I (N-AIM-A)",
+                "details": "Exercise,\nEnglish, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SDQ-A",
+                "title": "Diploma Seminar II (N-AIM-A)",
+                "details": "Exercise,\nEnglish, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SOA",
+                "title": "General Algebra",
+                "details": "Lecture,\nCzech, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SSR-A",
+                "title": "Mathematical Structures",
+                "details": "Lecture,\nEnglish, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "SSZ",
+                "title": "Diploma Seminar I (M-MAI)",
+                "details": "Exercise,\nCzech, winter",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "S3M",
+                "title": "Mathematical Seminar",
+                "details": "Exercise,\nCzech, summer",
+                "department": "IM"
+            },
+            {
+                "abbreviation": "MATe",
+                "title": "Mathematical Structures in Computer Science (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "IM DAAG"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "IRAGI, M.; HOLGATE, D.; SLAPAL, J. Topogenous orders on forms. Mathematica Slovaca, 2025, vol. 75, no. 1, p. 179-188. ISSN: 0139-9918."
+        },
+        {
+            "year": "2025",
+            "citation": "SLAPAL, J. Adjacencies for recognition of digital Jordan surfaces. Aequationes Mathematicae, 2025, vol. 99, no. 3, p. 989-1001. ISSN: 1420-8903."
+        },
+        {
+            "year": "2025",
+            "citation": "SLAPAL, J. Polyhedral digital Jordan surfaces. Discrete Mathematics Letters, 2025, vol. 15, no. 1, p. 46-51. ISSN: 2664-2557."
+        },
+        {
+            "year": "2024",
+            "citation": "RICHMOND, T.; SLAPAL, J. Lower separation axioms in bitopogenous spaces. Mathematica Slovaca, 2024, vol. 74, no. 2, p. 491-500. ISSN: 1337-2211."
+        },
+        {
+            "year": "2024",
+            "citation": "SLAPAL, J. A digital 3D Jordan-Brouwer separation theorem. Analele Stiintifice ale Universitatii Ovidius Constanta-Seria Matematica, 2024, vol. 32, no. 3, p. 161-172. ISSN: 1224-1784."
+        },
+        {
+            "year": "2024",
+            "citation": "SLAPAL, J. DIGITAL JORDAN SURFACES ARISING FROM TETRAHEDRAL TILING. Mathematica Slovaca, 2024, vol. 74, no. 3, p. 723-736. ISSN: 1337-2211."
+        },
+        {
+            "year": "2024",
+            "citation": "SLAPAL, J.; RICHMOND, T.; IRAGI, M. Topogenous orders and closure operators on posets. Turkish Journal of Mathematics, 2024, vol. 48, no. 3, p. 469-476. ISSN: 1303-6149."
+        },
+        {
+            "year": "2023",
+            "citation": "IRAGI, M., SLAPAL, J. Transitive quasi-uniform structures depending on a parameter. Aequationes Mathematicae, 2023, vol. 97, no. 4, p. 823-836. ISSN: 0001-9054."
+        },
+        {
+            "year": "2023",
+            "citation": "SLAPAL, J. A digital Jordan surface theorem with respect to a graph connectedness. Open Mathematics, 2023, vol. 21, no. 1, p. 1-9. ISSN: 2391-5455."
+        },
+        {
+            "year": "2023",
+            "citation": "SLAPAL, J. Closure operators associated with relations. Topology Proceedings, 2023, vol. 61, no. 1, p. 203-213. ISSN: 0146-4124."
+        },
+        {
+            "year": "2023",
+            "citation": "SLAPAL, J. Digital Jordan curves and surfaces with respect to a graph connectedness. Quaestiones Mathematicae, 2023, vol. 46, no. 1, p. 85-100. ISSN: 1727-933X."
+        },
+        {
+            "year": "2023",
+            "citation": "SLAPAL, J. On bases of closure operators on complete lattices. Quaestiones Mathematicae, 2023, vol. 46, no. 4, p. 781-790. ISSN: 1607-3606."
+        },
+        {
+            "year": "2022",
+            "citation": "SLAPAL, J. Cartesian closedness in categories with an idempotent closure operator and closed morphisms. Aequationes Mathematicae, 2022, vol. 96, no. 1, p. 129-136. ISSN: 0001-9054."
+        },
+        {
+            "year": "2022",
+            "citation": "SLAPAL, J. Connectivity with respect to \u03b1-discrete closure operators. Open Mathematics, 2022, vol. 2022, no. 20, p. 682-688. ISSN: 2391-5455."
+        },
+        {
+            "year": "2022",
+            "citation": "SLAPAL, J. Realization of Categorical Idempotent Closure Operators by Preorders. Quaestiones Mathematicae, 2022, vol. 45, no. 4, p. 513-522. ISSN: 1607-3606."
+        },
+        {
+            "year": "2021",
+            "citation": "SLAPAL, J. A convenient graph connectedness for digital imagery. In High Performance Computing in Science and Engineering 2019. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2021. no. 12456, p. 150-162. ISBN: 978-3-030-67076-4. ISSN: 0302-9743."
+        },
+        {
+            "year": "2021",
+            "citation": "SLAPAL, J. Digital Jordan Curves and Surfaces with Respect to a Closure Operator. FUNDAMENTA INFORMATICAE, 2021, vol. 179, no. 1, p. 59-74. ISSN: 0169-2968."
+        },
+        {
+            "year": "2020",
+            "citation": "Holgate, D., Slapal, J. Professor Eraldo Giuli is eighty. Mathematics for applications, 2020, vol. 9, no. 1, p. 1-2. ISSN: 1805-3610."
+        },
+        {
+            "year": "2020",
+            "citation": "SLAPAL, J. A 3D digital Jordan-Brouwer separation theorem. COMPUTATIONAL & APPLIED MATHEMATICS, 2020, vol. 39, no. 11, p. 1-10. ISSN: 1807-0302."
+        },
+        {
+            "year": "2020",
+            "citation": "SLAPAL, J. A closure operator for the digital plane. Filomat, 2020, vol. 34, no. 10, p. 3229-3237. ISSN: 0354-5180."
+        },
+        {
+            "year": "2020",
+            "citation": "SLAPAL, J. Digital Jordan curves with respect to a closure operator. In NTERNATIONAL CONFERENCE OF NUMERICAL ANALYSIS AND APPLIED MATHEMATICS ICNAAM 2019. Melville, NY, USA: AIP Publishing, 2020. p. 1-4. ISBN: 978-0-7354-4025-8."
+        },
+        {
+            "year": "2019",
+            "citation": "Josef Slapal. Structuring Digital Plane by Closure Operators Associated with n-ary Relations. In Computational Modeling of Objects Presented in Images. Fundamentals, Methods, and Applications. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Svycarsko: Springer, 2019. no. 1, p. 16-22. ISBN: 978-3-030-20804-2. ISSN: 0302-9743."
+        },
+        {
+            "year": "2019",
+            "citation": "SLAPAL, J. Path-induced closure operators on graphs for defining digital Jordan surfaces. Open Mathematics, 2019, vol. 17, no. 1, p. 1374-1380. ISSN: 2391-5455."
+        },
+        {
+            "year": "2018",
+            "citation": "HOLGATE, D.; SLAPAL, J. Closure, interior and neighbourhood in a category. HACETTEPE JOURNAL OF MATHEMATICS AND STATISTICS, 2018, vol. 47, no. 6, p. 1512-1520. ISSN: 1303-5010."
+        },
+        {
+            "year": "2018",
+            "citation": "SLAPAL, J. Categorical aspects of inducing closure operators on graphs by sets of walks. JOURNAL OF COMPUTER AND SYSTEM SCIENCES, 2018, vol. 2018, no. 95, p. 143-150. ISSN: 0022-0000."
+        },
+        {
+            "year": "2018",
+            "citation": "SLAPAL, J. Closure operators associated to ternary relations for structuring the digital plane. In 2018 International Conference on Applied Mathematics & Computational Science, ICAMCS.NET 2018. Los Alamitos, CA, USA: Institute of Electrical and Electronics Engineers ( IEEE ), 2018. p. 125-128. ISBN: 9781538694695."
+        },
+        {
+            "year": "2018",
+            "citation": "SLAPAL, J. Closure operators on graphs for modeling connectedness in digital spaces. Filomat, 2018, vol. 32, no. 14, p. 5011-5021. ISSN: 0354-5180."
+        },
+        {
+            "year": "2018",
+            "citation": "SLAPAL, J. CONVENIENT PRETOPOLOGIES ON Z^2. TWMS Journal of Pure and Applied Mathematics, 2018, vol. 9, no. 1, p. 40-51. ISSN: 2076-2585."
+        },
+        {
+            "year": "2018",
+            "citation": "SLAPAL, J. Galois connections between sets of paths and closure operators in simple graphs. Open Mathematics, 2018, vol. 16, no. 1, p. 1573-1581. ISSN: 2391-5455."
+        },
+        {
+            "year": "2018",
+            "citation": "SLAPAL, J. Relation-induced connectedness in the digital plane. Aequationes Mathematicae, 2018, vol. 2018, no. 95, p. 75-90. ISSN: 0001-9054."
+        },
+        {
+            "year": "2017",
+            "citation": "Kures, M, Slapal, J. Professor Ladislav Skula is eighty. Mathematics for applications, 2017, vol. 6, no. 1, p. 1-2. ISSN: 1805-3610."
+        },
+        {
+            "year": "2017",
+            "citation": "PFALTZ, J.; SLAPAL, J. Closure operators associated with networks. HACETTEPE JOURNAL OF MATHEMATICS AND STATISTICS, 2017, vol. 46, no. 1, p. 91-101. ISSN: 1303-5010."
+        },
+        {
+            "year": "2017",
+            "citation": "SLAPAL, J. A relational generalization of the Khalimsky topology. In Combinatorial Image Analysis. Lecture Notes in Computer Science. Lecture Notes in Computer Sciences. Switzerland: Springer, 2017. p. 132-141. ISBN: 978-3-319-59107-0. ISSN: 0302-9743."
+        },
+        {
+            "year": "2017",
+            "citation": "SLAPAL, J. A ternary relation for structuring the digital plane. In AMCSE 2016. ITM Web of Conferences. Les Ulis Cedex A: EDP Sciences, 2017. no. 01012, p. 1-5. ISSN: 2271-2097."
+        },
+        {
+            "year": "2017",
+            "citation": "SLAPAL, J. Alexandroff pretopologies for structuring the digital plane. DISCRETE APPLIED MATHEMATICS, 2017, vol. 216, no. 2, p. 323-334. ISSN: 0166-218X."
+        },
+        {
+            "year": "2017",
+            "citation": "SLAPAL, J. Structuring digital plane by the 8-adjacency graph with a set of walks. International Journal of Mathematical and Computational Methods, 2017, vol. 2017, no. 2, p. 150-154. ISSN: 2367-895X."
+        },
+        {
+            "year": "2017",
+            "citation": "SLAPAL, J. Structuring Digital Spaces by Path-Partition Induced Closure Operators on Graphs. In Computational Modeling of Objects Presented in Images. Fundamentals, Methods, and Applications. Lecture Notes in Computer Science. Lecture Notes in Computer Science. Berlin: Springer Verlag, 2017. no. 3, p. 43-55. ISBN: 978-3-319-54608-7. ISSN: 0302-9743."
+        },
+        {
+            "year": "2017",
+            "citation": "SLAPAL, J. Terse walk sets in graphs and induced closure operators. TOPOLOGY AND ITS APPLICATIONS, 2017, vol. 230, no. 1, p. 258-266. ISSN: 0166-8641."
+        },
+        {
+            "year": "2017",
+            "citation": "SLAPAL, J. Walk-set induced connectedness in digital spaces. Carpathian Journal of Mathematics, 2017, vol. 33, no. 2, p. 247-256. ISSN: 1584-2851."
+        },
+        {
+            "year": "2016",
+            "citation": "SLAPAL, J. A categorical approach to convergence: compactness. TOPOLOGY AND ITS APPLICATIONS, 2016, vol. 201, no. 1, p. 78-85. ISSN: 0166-8641."
+        },
+        {
+            "year": "2016",
+            "citation": "SLAPAL, J. A categorical approach to convergence. Filomat, 2016, vol. 30, no. 12, p. 3329-3338. ISSN: 0354-5180."
+        },
+        {
+            "year": "2016",
+            "citation": "SLAPAL, J. Path-set induced closure operators on graphs. Filomat, 2016, vol. 30, no. 3, p. 863-871. ISSN: 0354-5180."
+        },
+        {
+            "year": "2015",
+            "citation": "SLAPAL, J. Convenient adjacencies for structuring the digital plane. ANNALS OF MATHEMATICS AND ARTIFICIAL INTELLIGENCE, 2015, vol. 75 (2015), no. 1, p. 69-88. ISSN: 1012-2443."
+        },
+        {
+            "year": "2015",
+            "citation": "SLAPAL, J. On a co-universal arrow in the construct of n-ary hyperalgebras. Miskolc Mathematical Notes, 2015, vol. 2015(16), no. 1, p. 507-516. ISSN: 1787-2405."
+        },
+        {
+            "year": "2015",
+            "citation": "SLAPAL, J., CHAISANSUK, N. On a product of universal hyperalgebras. Analele Stiintifice ale Universitatii Ovidius Constanta-Seria Matematica, 2015, vol. 23, no. 2, p. 71-81. ISSN: 1224-1784."
+        },
+        {
+            "year": "2014",
+            "citation": "SLAPAL, J. Another Jordan Curve Theorem in the topological space (Z^2,w). In Topology Proceedings. Topology Proceedings. Alabama 36849, USA: Auburn University, 2014. no. 1, p. 47-56. ISSN: 0146-4124."
+        },
+        {
+            "year": "2014",
+            "citation": "SLAPAL, J. Convenient adjacencies on Z^2. Filomat, 2014, vol. 28, no. 2, p. 305-312. ISSN: 0354-5180."
+        },
+        {
+            "year": "2014",
+            "citation": "SLAPAL, J. Jordan curves in the digital plane. Bulletin of the Malaysian Mathematical Sciences Society, 2014, vol. 37, no. 2, p. 295-310. ISSN: 0126-6705."
+        },
+        {
+            "year": "2014",
+            "citation": "SLAPAL, J.; LEERATANAVALEE, S.; CHAISANSUK, N. On the stability of some properties of partial algebras under powers. Mathematica Slovaca, 2014, vol. 64, no. 1, p. 1-12. ISSN: 0139-9918."
+        },
+        {
+            "year": "2013",
+            "citation": "SLAPAL, J. A Jordan curve theorem with respect to a pretopology on Z^2. INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS, 2013, roc. 90, c. 8, s. 1618-1628. ISSN: 0020-7160."
+        },
+        {
+            "year": "2013",
+            "citation": "SLAPAL, J. Graphs with a path partition for structuring the digital plane. INFORMATION SCIENCES, 2013, vol. 233, no. 1, p. 305-312. ISSN: 0020-0255."
+        },
+        {
+            "year": "2013",
+            "citation": "SLAPAL, J. Topological structuring of the digital plane. DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE, 2013, vol. 15, no. 2, p. 165-176. ISSN: 1365-8050."
+        },
+        {
+            "year": "2013",
+            "citation": "SLAPAL, J.; PFALTZ, J. Transformations of Discrete Closure Systems. ACTA MATHEMATICA HUNGARICA, 2013, vol. 138, no. 4, p. 386-405. ISSN: 0236-5294."
+        },
+        {
+            "year": "2012",
+            "citation": "SLAPAL, J. A digital pretopology and one of its quotients. Topology Proceedings, 2012, vol. 39, no. 2, p. 13-25. ISSN: 0146-4124."
+        },
+        {
+            "year": "2012",
+            "citation": "SLAPAL, J. Adjacencies for structuring the digital plane. Lecture Notes in Computer Science, 2012, vol. 2012, no. 7655, p. 115-127. ISSN: 0302-9743."
+        },
+        {
+            "year": "2012",
+            "citation": "SLAPAL, J. Compactness and convergence with respect to a neighborhood operator. Collectanea Mathematica, 2012, vol. 63, no. 2, p. 123-137. ISSN: 0010-0757."
+        },
+        {
+            "year": "2011",
+            "citation": "SLAPAL, J. A Jordan curve theorem in the digital plane. Lecture Notes in Computer Science, 2011, roc. 6636, c. 1, s. 120-131. ISSN: 0302-9743."
+        },
+        {
+            "year": "2011",
+            "citation": "SLAPAL, J. Compactification with respect to a generalized-net convergence on constructs. APPLIED CATEGORICAL STRUCTURES, 2011, vol. 19, no. 2, p. 523-537. ISSN: 0927-2852."
+        },
+        {
+            "year": "2011",
+            "citation": "SLAPAL, J. Neighborhoods and convergence with respect to a closure operator. Mathematica Slovaca, 2011, vol. 61, no. 5, p. 717-732. ISSN: 0139-9918."
+        },
+        {
+            "year": "2011",
+            "citation": "SLAPAL, J. On categories of ordered sets with a closure operator. PUBLICATIONES MATHEMATICAE DEBRECEN, 2011, vol. 78, no. 1, p. 61-69. ISSN: 0033-3883."
+        },
+        {
+            "year": "2011",
+            "citation": "SLAPAL, J.; HOLGATE, D. Categorical neighborhood operators. TOPOLOGY AND ITS APPLICATIONS, 2011, vol. 158, no. 16, p. 2356-2365. ISSN: 0166-8641."
+        },
+        {
+            "year": "2010",
+            "citation": "SLAPAL, J. Complete lattice morphisms compatible with closure operators. Thai Journal of Mathematics, 2010, vol. 8, no. 2, p. 255-262. ISSN: 1686-0209."
+        },
+        {
+            "year": "2010",
+            "citation": "SLAPAL, J.; RICHMOND, T. Neighborhood spaces and convergence. Topology Proceedings, 2010, vol. 35, no. 1, p. 165-175. ISSN: 0146-4124."
+        },
+        {
+            "year": "2009",
+            "citation": "GIULI, E.; SLAPAL, J. Neighborhoods with respect to a categorical closure operator. ACTA MATHEMATICA HUNGARICA, 2009, vol. 124, no. 1-2, p. 1-14. ISSN: 0236-5294."
+        },
+        {
+            "year": "2009",
+            "citation": "SLAPAL, J. Another approach to connectedness with respect to a closure operator. APPLIED CATEGORICAL STRUCTURES, 2009, vol. 17, no. 6, p. 603-612. ISSN: 0927-2852."
+        },
+        {
+            "year": "2009",
+            "citation": "SLAPAL, J. Convenient closure operators on Z^2. Lecture Notes in Computer Science, 2009, vol. 5852, no. 1, p. 425-436. ISSN: 0302-9743."
+        },
+        {
+            "year": "2009",
+            "citation": "SLAPAL, J. Jordan curve theorems with respect to certain pretopologies on Z^2. Lecture Notes in Computer Science, 2009, vol. 5810, no. 1, p. 252-262. ISSN: 0302-9743."
+        },
+        {
+            "year": "2008",
+            "citation": "BOONPOK, C.; SLAPAL, J. Convenient topologies on the digital plane. East-West Journal of Mathematics, 2008, vol. 11, no. 2, p. 243-254. ISSN: 1513-489X."
+        },
+        {
+            "year": "2008",
+            "citation": "SLAPAL, J. A quotient-universal digital topology. Theoretical Computer Science, 2008, vol. 405, no. 1-2, p. 164-175. ISSN: 0304-3975."
+        },
+        {
+            "year": "2008",
+            "citation": "SLAPAL, J. Convergence on categories. APPLIED CATEGORICAL STRUCTURES, 2008, vol. 16, no. 4, p. 503-519. ISSN: 0927-2852."
+        },
+        {
+            "year": "2007",
+            "citation": "KARASEK, J.; SLAPAL, J. Polynomy a zobecnene polynomy v teorii rizeni. Vedecke monografie. Vedecke monografie. Brno: Akademicke nakladatelstvi CERM, 2007. 132 s. ISBN: 978-80-7204-548-8."
+        },
+        {
+            "year": "2007",
+            "citation": "SLAPAL, J. On a generative topology for the digital plane. In Proceedings of the ISMM 2007. Sao Paolo: Sao Jose dos Campos, 2007. p. 17-18. ISBN: 978-85-17-00035-5."
+        },
+        {
+            "year": "2007",
+            "citation": "SLAPAL, J.; CERMAK, J. Classical and Fractional Mathematical Approaches to Modern Control Theory. In Simulation Modelling of Mechatronic Systems III. mechatronics. Brno: Brno University of Technology, Faculty of Mechanical Engineering, 2007. p. 3-14. ISBN: 978-80-214-3559-9."
+        },
+        {
+            "year": "2006",
+            "citation": "SLAPAL, J. Digital Jordan curves. TOPOLOGY AND ITS APPLICATIONS, 2006, vol. 153, no. 10, 10 p. ISSN: 0166-8641."
+        },
+        {
+            "year": "2006",
+            "citation": "SLAPAL, J. Thin relations and associated closure operators. In Contributions to General Algebra 17. Klagenfurt: Verlag Johannes Heyn, 2006. 12 p. ISBN: 3-7084-0194-8."
+        },
+        {
+            "year": "2006",
+            "citation": "SLAPAL, J.; CERMAK, J. Modern Mathematical Methods in Control Theory. In Simulation Modelling of Mechatronic Systems II. mechatronics. Brno: Brno University of Technology, 2006. p. 3-13. ISBN: 80-214-3341-8."
+        },
+        {
+            "year": "2005",
+            "citation": "GIULI, E.; SLAPAL, J. Raster convergence with respect to a closure operator. Cahiers de Topologie et Geometrie Differentielle Categoriques, 2005, vol. 46, no. 4, 26 p. ISSN: 0008-0004."
+        },
+        {
+            "year": "2005",
+            "citation": "SLAPAL, J. F-net convergence with respect to a closure operator. APPLIED CATEGORICAL STRUCTURES, 2005, vol. 13, no. 1, 16 p. ISSN: 0927-2852."
+        },
+        {
+            "year": "2005",
+            "citation": "SLAPAL, J. Relational Closure Operators. In Contributions to General Algebra 16. Klagenfurt: Verlag Johannes Heyn, 2005. 9 p. ISBN: 3-7084-0163-8."
+        },
+        {
+            "year": "2005",
+            "citation": "Slapal, J., Cermak, J. Modern Methods of Mathematical Modelling of System Control. In Modelling of Mechatronics Systems I. Fakulta strojniho inzenyrstvi. Brno: Vysoke uceni technicke v Brne, 2005. p. 1-10. ISBN: 80-214-3144-X."
+        },
+        {
+            "year": "2004",
+            "citation": "SLAPAL, J. A digital analogue of the Jordan curve theorem. DISCRETE APPLIED MATHEMATICS, 2004, vol. 139, no. 1, 21 p. ISSN: 0166-218X."
+        },
+        {
+            "year": "2004",
+            "citation": "SLAPAL, J. A Galois correspondence for digital topology. In Galois Connections and Applications. Mathematics and Its Applications, vol. 565. Dordrecht: Kluwer, 2004. 12 p. ISBN: 1-4020-1897-5."
+        },
+        {
+            "year": "2004",
+            "citation": "SLAPAL, J. Categories of locally diagonal partial algebras. Beitrage zur Algebra und Geometrie-Contributions to Algebra and Geometry, 2004, vol. 45, no. 1, 7 p. ISSN: 0138-4821."
+        },
+        {
+            "year": "2004",
+            "citation": "SLAPAL, J. Diagonality and powers of general algebraic systems. East-West Journal of Mathematics, 2004, vol. 6, no. 1, 14 p. ISSN: 1513-489X."
+        },
+        {
+            "year": "2003",
+            "citation": "SLAPAL, J. An alternative digital topology. Electronic Notes in Discrete Mathematics, 2003, vol. 12, no. 1, 20 p. ISSN: 1571-0653."
+        },
+        {
+            "year": "2003",
+            "citation": "SLAPAL, J. Closure operations for digital topology. Theoretical Computer Science, 2003, vol. 305, no. 1-3, p. 457-471. ISSN: 0304-3975."
+        },
+        {
+            "year": "2002",
+            "citation": "NOVOTNY, M., SLAPAL, J. On powers of relational structures. PUBLICATIONES MATHEMATICAE DEBRECEN, 2002, vol. 61, no. 3-4, 16 p. ISSN: 0033-3883."
+        },
+        {
+            "year": "2002",
+            "citation": "SLAPAL, J. Compactness with respect to a convergence structure. Quaestiones Mathematicae, 2002, vol. 25, no. 1, 9 p. ISSN: 1607-3606."
+        },
+        {
+            "year": "2002",
+            "citation": "SLAPAL, J. Exponentiality in categories of partial algebras. Mathematica Pannonica, 2002, roc. 13, c. 2, 6 s. ISSN: 0865-2090."
+        },
+        {
+            "year": "2001",
+            "citation": "BEDNARIK, F., SLAPAL, J. On exponentiation of n-ary hyperalgebras. Discussiones Mathematicae - General Algebra and Applications, 2001, vol. 21, no. 1, 7 p. ISSN: 1509-9415."
+        },
+        {
+            "year": "2001",
+            "citation": "SLAPAL, J. A Jordan Curve Theorem with Respect to Certain Closure Operations on the Digital Plane. ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE, 2001, vol. 46, no. 1, 20 p. ISSN: 1571-0661."
+        },
+        {
+            "year": "2001",
+            "citation": "SLAPAL, J. Convergence Structures for Categories. APPLIED CATEGORICAL STRUCTURES, 2001, vol. 9, no. 6, 14 p. ISSN: 0927-2852."
+        },
+        {
+            "year": "2000",
+            "citation": "SLAPAL, J. Digitalni topologie. Habilitacni a inauguracni spisy, sv. 30. Habilitacni a inauguracni spisy, sv. 30. Brno: VUTIUM, 2000. 18 s. ISBN: 80-214-1617-3."
+        },
+        {
+            "year": "2000",
+            "citation": "SLAPAL, J. Another cartesian closed category of partial algebras. Demonstratio Mathematica, 2000, vol. 33, no. 4, p. 689-695. ISSN: 0420-1213."
+        },
+        {
+            "year": "2000",
+            "citation": "SLAPAL, J. Compactification of limit S-net spaces. MONATSHEFTE FUR MATHEMATIK, 2000, vol. 54, no. 12, 9 p. ISSN: 0026-9255."
+        },
+        {
+            "year": "2000",
+            "citation": "SLAPAL, J. Compactness with respect to a convergence structure. Mathematik - Arbeitspapiere, 2000, vol. 2000, no. 54, p. 375-383. ISSN: 0173-685X."
+        },
+        {
+            "year": "2000",
+            "citation": "SLAPAL, J. On exponentiation of universal hyperalgebras. ALGEBRA UNIVERSALIS, 2000, vol. 44, no. 2, 7 p. ISSN: 0002-5240."
+        },
+        {
+            "year": "2000",
+            "citation": "SLAPAL, J. Powers of relational systems carried by strong homomorphisms. In General Algebra and Applications. Aachen: Shaker Verlag, 2000. 10 p. ISBN: 3-8265-7983-6."
+        },
+        {
+            "year": "2000",
+            "citation": "SLAPAL, J. Zobecnene topologie I. In Matematika a didaktika matematiky. Sbornik praci pedagogicke fakulty MU v Brne, c. 152. Brno: Pedagogicka fakulta MU v Brne, 2000. s. 107-123. ISBN: 80-210-2423-2."
+        },
+        {
+            "year": "1999",
+            "citation": "BEDNARIK, F.; SLAPAL, J. Exponentiation of relational systems with respect to strong homomorphisms. Mathematica Pannonica, 1999, vol. 10, 7 p. ISSN: 0865-2090."
+        },
+        {
+            "year": "1998",
+            "citation": "SLAPAL, J. A Galois correspondence between closure spaces and relational systems. Quaestiones Mathematicae, 1998, vol. 21, 17 p. ISSN: 1607-3606."
+        },
+        {
+            "year": "1998",
+            "citation": "SLAPAL, J. Compactness in categories of S-net spaces. APPLIED CATEGORICAL STRUCTURES, 1998, vol. 6, 11 p. ISSN: 0927-2852."
+        },
+        {
+            "year": "1997",
+            "citation": "SLAPAL, J. On a construct of closure spaces. RENDICONTI DEL SEMINARIO MATEMATICO DELLA UNIVERSITA DI PADOVA, 1997, vol. 97, no. 1, p. 1-5. ISSN: 0041-8994."
+        },
+        {
+            "year": "1997",
+            "citation": "SLAPAL, J. On some cartesian closed relational categories. In General Algebra and Applications in Discrete Mathematics. zadna. Aachen: Shaker Verlag, 1997. 8 s. ISBN: 3-8265-243."
+        },
+        {
+            "year": "1997",
+            "citation": "SLAPAL, J. On some categories of sequential spaces. New Zealand Journal of Mathematics, 1997, vol. 97, no. 26, p. 287-292. ISSN: 1171-6096."
+        },
+        {
+            "year": "1996",
+            "citation": "SLAPAL, J. Cartesian closedness in categories of partial algebras. Mathematica Pannonica, 1996, vol. 7, no. 2, p. 273-279. ISSN: 0865-2090."
+        },
+        {
+            "year": "1996",
+            "citation": "SLAPAL, J. Net spaces in categorical topology. ANNALS OF THE NEW YORK ACADEMY OF SCIENCES, 1996, vol. 806, no. 1, p. 393-412. ISSN: 1573-3109."
+        },
+        {
+            "year": "1996",
+            "citation": "SLAPAL, J. On reduction of relational arities. Commentationes Mathematicae, 1996, vol. 1996, no. 36, p. 229-233. ISSN: 0373-8299."
+        },
+        {
+            "year": "1995",
+            "citation": "SLAPAL, J. A CONGLOMERATE OF EXPONENTIAL SUPERCATEGORIES OF THE CATEGORY OF FINITELY GENERAED TOPOLOGICAL SPACES. Aequationes Mathematicae, 1995, roc. 49, s. 115-121. ISSN: 0001-9054."
+        },
+        {
+            "year": "1995",
+            "citation": "SLAPAL, J. A note on general relations. Mathematica Slovaca, 1995, vol. 45, no. 1, p. 1-8. ISSN: 0139-9918."
+        },
+        {
+            "year": "1995",
+            "citation": "SLAPAL, J. Categories of universal algebras in which direct products are tensor products. Annales Mathematicae Silesianae, 1995, vol. 95, no. 9, p. 7-10. ISSN: 0860-2107."
+        },
+        {
+            "year": "1995",
+            "citation": "SLAPAL, J. On categories of strongly regular relational systems. Tatra Mountains Mathematical Publications, 1995, vol. 95, no. 5, p. 101-105. ISSN: 1210-3195."
+        },
+        {
+            "year": "1995",
+            "citation": "SLAPAL, J. Reflective and coreflective modifications of the construct of topological spaces without axioms. Demonstratio Mathematica, 1995, roc. 95, c. 28, s. 1-8. ISSN: 0420-1213."
+        },
+        {
+            "year": "1994",
+            "citation": "SLAPAL, J. On exponentiation in concrete categories. PUBLICATIONES MATHEMATICAE DEBRECEN, 1994, vol. 58, p. 1-5. ISSN: 0033-3883."
+        },
+        {
+            "year": "1994",
+            "citation": "SLAPAL, J. ON EXPONENTIATION OF N-ARY ALGEBRAS. ACTA MATHEMATICA HUNGARICA, 1994, roc. 63, c. 4, s. 313-322. ISSN: 0236-5294."
+        },
+        {
+            "year": "1994",
+            "citation": "SLAPAL, J. On strong regularity of relations. Mathematica Bohemica, 1994, vol. 94, no. 2, p. 151-155. ISSN: 0862-7959."
+        },
+        {
+            "year": "1993",
+            "citation": "SLAPAL, J. A cartesian closed category of universal algebras. ACTA SCIENTIARUM MATHEMATICARUM, 1993, vol. 58, 5 p. ISSN: 0001-6969."
+        },
+        {
+            "year": "1993",
+            "citation": "SLAPAL, J. An exponential superconstruct of the construct of finitely generated topological spaces. Bolyai Society Mathematical Studies, 1993, vol. 4, 4 p. ISSN: 1217-4696."
+        },
+        {
+            "year": "1993",
+            "citation": "SLAPAL, J. Cardinal arithmetic of general relational systems. CZECHOSLOVAK MATHEMATICAL JOURNAL, 1993, vol. 43, 15 p. ISSN: 0011-4642."
+        },
+        {
+            "year": "1993",
+            "citation": "SLAPAL, J. Exponentiality in concrete categories. New Zealand Journal of Mathematics, 1993, vol. 22, 4 p. ISSN: 1171-6096."
+        },
+        {
+            "year": "1993",
+            "citation": "SLAPAL, J. On embeddings of reletional categories into algebraic categories. Note di Matematica, 1993, vol. 13, 8 p. ISSN: 1123-2536."
+        },
+        {
+            "year": "1993",
+            "citation": "SLAPAL, J. Relations and topologies. CZECHOSLOVAK MATHEMATICAL JOURNAL, 1993, vol. 43, 10 p. ISSN: 0011-4642."
+        },
+        {
+            "year": "1992",
+            "citation": "SLAPAL, J. A note on diagonality of algebras. MATHEMATISCHE NACHRICHTEN, 1992, vol. 158, 3 p. ISSN: 0025-584X."
+        },
+        {
+            "year": "1992",
+            "citation": "SLAPAL, J. On closure operations induced on groupoids. Demonstratio Mathematica, 1992, vol. 25, 10 p. ISSN: 0420-1213."
+        },
+        {
+            "year": "1991",
+            "citation": "SLAPAL, J. Direct arithmetic of relational systems. PUBLICATIONES MATHEMATICAE DEBRECEN, 1991, vol. 38, 10 p. ISSN: 0033-3883."
+        },
+        {
+            "year": "1990",
+            "citation": "SLAPAL, J. A cartesian closed topological category of sequential spaces. Periodica Mathematica Hungarica, 1990, vol. 21, 4 p. ISSN: 0031-5303."
+        },
+        {
+            "year": "1990",
+            "citation": "SLAPAL, J. Directly cartesian closed subcategories of relational categories. Annales Universitatis Scientiarum Budapestiensis, Sectio Mathematica, 1990, vol. 33, 6 p. ISSN: 0524-9007."
+        },
+        {
+            "year": "1989",
+            "citation": "SLAPAL, J. Cartesian closedness in categries of relational systems. ARCHIV DER MATHEMATIK, 1989, vol. 52, 4 p. ISSN: 0003-889X."
+        },
+        {
+            "year": "1989",
+            "citation": "SLAPAL, J. On relations. CZECHOSLOVAK MATHEMATICAL JOURNAL, 1989, vol. 39, 17 p. ISSN: 0011-4642."
+        },
+        {
+            "year": "1989",
+            "citation": "SLAPAL, J. On the direct power of relational systems. Mathematica Slovaca, 1989, vol. 39, 5 p. ISSN: 0139-9918."
+        },
+        {
+            "year": "1988",
+            "citation": "SLAPAL, J. A note on F-topologies. Mathematische Nachrichten, 1988, vol. 141, 5 p. ISSN: 0020-7926."
+        },
+        {
+            "year": "1988",
+            "citation": "SLAPAL, J. A note on generalized topologies. Acta Mathematica Universitatis Comenianae, 1988, vol. 54-55, 3 p. ISSN: 0862-9544."
+        },
+        {
+            "year": "1988",
+            "citation": "SLAPAL, J. O jedne matici a jejim vyuziti. Sbornik vedeckych praci Vysoke skoly banske-Technicke univerzity Ostrava, 1988, roc. 34, s. 175-182."
+        },
+        {
+            "year": "1988",
+            "citation": "SLAPAL, J. On axioms preserved by modifications of topologies without axioms. ARCHIVUM MATHEMATICUM, 1988, vol. 24, 14 p. ISSN: 0044-8753."
+        },
+        {
+            "year": "1988",
+            "citation": "SLAPAL, J. On categories of quasi-discrete closure spaces. In Kniznice vedeckych a odbornych spisu VUT v Brne. 1988. 17 p. ISBN: 80-214-0020-X."
+        },
+        {
+            "year": "1988",
+            "citation": "SLAPAL, J. On closure operations induced by binary relations. REVUE ROUMAINE DE MATHEMATIQUES PURES ET APPLIQUEES, 1988, vol. 33, 8 p. ISSN: 0035-3965."
+        },
+        {
+            "year": "1988",
+            "citation": "SLAPAL, J. On lattices of generalized topologies. Mathematica Slovaca, 1988, vol. 38, 9 p. ISSN: 0139-9918."
+        },
+        {
+            "year": "1988",
+            "citation": "SLAPAL, J. On modifications of topologies without axioms. ARCHIVUM MATHEMATICUM, 1988, vol. 24, 12 p. ISSN: 0044-8753."
+        },
+        {
+            "year": "1988",
+            "citation": "SLAPAL, J. Relations of type alpha. Zeitschrift fur Mathematische Logik und Grundlagen der Mathematik, 1988, vol. 34, 11 p. ISSN: 0044-3050."
+        },
+        {
+            "year": "1984",
+            "citation": "SLAPAL, J. Representative properties of the quasi-ordered set F(a,M). CZECHOSLOVAK MATHEMATICAL JOURNAL, 1984, vol. 36, 8 p. ISSN: 0011-4642."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2005",
+            "title": "Okruhy polynomu a polynomialnich matic pro diskretni linearni rizeni",
+            "metadata": "study, 2005",
+            "authors": "KARASEK, J.; SLAPAL, J."
+        },
+        {
+            "year": "2004",
+            "title": "Metody diskretni matematiky",
+            "metadata": "course reader, 2004",
+            "authors": "SLAPAL, J."
+        },
+        {
+            "year": "2001",
+            "title": "Metody diskretni matematiky",
+            "metadata": "course reader, 2001",
+            "authors": "SLAPAL, J."
+        }
+    ],
+    "name": "Slapal Josef, prof. RNDr., CSc."
+}

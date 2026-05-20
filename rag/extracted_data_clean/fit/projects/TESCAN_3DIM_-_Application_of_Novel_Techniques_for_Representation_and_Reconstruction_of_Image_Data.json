@@ -1,0 +1,31 @@
+{
+    "project": "TESCAN 3DIM - Application of Novel Techniques for Representation and Reconstruction of Image Data",
+    "title": "TESCAN 3DIM - Aplikace novych technik reprezentace a rekonstrukce 3D obrazovych dat",
+    "metadata": {
+        "project_period": "1. 8. 2025 \u2013 31. 12. 2025",
+        "project_type": "contract",
+        "partner": "TESCAN 3DIM, s.r.o."
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "TESCAN 3DIM - Application of Novel Techniques for Representation and Reconstruction of Image Data"
+        },
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "electron microscopy, CT, deep learning, ML, machine learning"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The goal of this collaboration is to connect the research and development capabilities of the TESCAN 3DIM team and the AI/ML researchers at FIT to explore and develop key technological directions in the area of microscopic and CT data processing."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Spanel Michal, doc. Ing., Ph.D. (DCGM) \u2013 research leader Cizmarik Roman, Ing. (DCGM) Krsicka Tomas, Ing. Kubik Tibor, Ing. (DCGM) Pukanec David, Ing. (DCGM) Silling Petr, Ing. (DCGM)"
+        }
+    }
+}

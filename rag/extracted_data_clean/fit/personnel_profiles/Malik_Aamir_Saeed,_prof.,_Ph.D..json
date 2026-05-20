@@ -1,0 +1,147 @@
+{
+    "contact": {
+        "department": "Department of Computer Systems",
+        "department_abbr": "DCSY",
+        "role": "Professor",
+        "details": {
+            "e_mail": "malik@fit.vut.cz",
+            "work_phone": "+420 54114 1055",
+            "room": "L305 PC Architecture Laboratory",
+            "researcher_id": "C-6904-2009",
+            "orcid_id": "0000-0003-1085-3157",
+            "scopus_author_id": "12800348400"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Cognitive and Neural Engineering Research group",
+            "role": "Principal Researcher"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2023"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Wednesday, 13:00-15:00 , B/L305 (Bozetechova 1/2, Brno 61200) Consultation hours for BRIa course.",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "ATND",
+                "title": "Advanced Topics in Neuroimaging",
+                "details": "English, summer",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "BRIa",
+                "title": "Brain Computer Interface",
+                "details": "English, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "IMHa",
+                "title": "Science of happiness",
+                "details": "English, summer",
+                "department": "DCSY"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "BRIa",
+                "title": "Brain Computer Interface",
+                "details": "Lecture, Project,\nEnglish, winter",
+                "department": "DCSY"
+            },
+            {
+                "abbreviation": "IMHa",
+                "title": "Science of happiness",
+                "details": "Lecture,\nEnglish, summer",
+                "department": "DCSY"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "HATS - Home based Assessment & Tracking System for Early-Stage Stress, Anxiety & Depression",
+            "details": "TACR, 4. verejna soutez programu SIGMA - DILCI CIL 1: PODPORA AKTIVIT \u201ePROOF OF CONCEPT\u201d VE VYZKUMNYCH ORGANIZACICH, TQ11000003, TQ11000003/1_04, start: 2025-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2024",
+            "title": "Hardware-Aware Machine Learning: From Automated Design to Innovative and Explainable Solutions",
+            "details": "GACR, Standardni projekty, GA24-10990S, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Application-specific HW/SW architectures and their applications",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8141, start: 2023-03-01, end: 2026-02-28, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "AMIN, H.; AHMED, A.; YUSOFF, M.; MOHAMAD SAAD, M.; MALIK, A. A neurophysiological model based on resting state EEG functional connectivity features for assessing semantic long-term memory performance. Biomedical Signal Processing and Control, 2025, vol. 99, no. 1, p. 1-11. ISSN: 1746-8108."
+        },
+        {
+            "year": "2025",
+            "citation": "AZHAR ALI, S.; AL-QURAISHI, M.; EL FERIK, S.; MALIK, A. Enhancing Mental Workload Prediction through LightGBM during Multitasking. 2025 11th International Conference on Control, Decision and Information Technologies (CoDIT). Croatia: IEEE, 2025. p. 1267-1271. ISBN: 979-8-3315-0338-3."
+        },
+        {
+            "year": "2025",
+            "citation": "HUSSAIN, Y.; AMNA, R.; MALIK, A. ECG and EEG Analysis of Brain-Heart Interactions During Seizure Episodes. In 2025 IEEE International Instrumentation and Measurement Technology Conference (I2MTC). Chemnitz: IEEE Computer Society, 2025. p. 1-6. ISBN: 979-8-3315-0500-4."
+        },
+        {
+            "year": "2025",
+            "citation": "HUSSAIN, Y.; FATIMA, M.; MALIK, A. A Deep Learning Approach to EEG-Based Diagnosis of Cognitive Skills Impairment: Electrode-Level Analysis Insights. In 2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI). Athens, Greece: IEEE, 2025. p. 1470-1475. ISBN: 979-8-3315-4919-0."
+        },
+        {
+            "year": "2025",
+            "citation": "HUSSAIN, Y.; SURAWEERA, S.; MALIK, A. Unraveling Cognitive Impairments in Mental and Neurological Disorders: A Biomarker-Based Mapping Framework. Neuroscience and Biobehavioral Reviews, 2025, vol. 180, no. 106426, 28 p."
+        },
+        {
+            "year": "2024",
+            "citation": "ARIF, M.; REHMAN, F.; SEKANINA, L.; MALIK, A. A comprehensive survey of evolutionary algorithms and metaheuristics in brain EEG-based applications. Journal of Neural Engineering, 2024, vol. 21, no. 5, p. 1-25. ISSN: 1741-2552."
+        },
+        {
+            "year": "2024",
+            "citation": "JAWED, S.; FAYE, I.; MALIK, A. Deep learning-based assessment model for Real-time identification of visual learners using Raw EEG. IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING, 2024, vol. 32, no. 1, p. 378-390. ISSN: 1558-0210."
+        },
+        {
+            "year": "2023",
+            "citation": "AMIN, H.; ULLAH, R.; REZA, M.; MALIK, A. Single-trial extraction of event-related potentials (ERPs) and classification of visual stimuli by ensemble use of discrete wavelet transform with Huffman coding and machine learning techniques. Journal of NeuroEngineering and Rehabilitation, 2023, vol. 20, no. 1, p. 1-17. ISSN: 1743-0003."
+        },
+        {
+            "year": "2023",
+            "citation": "MAHRUKH, R.; SHAKIL, S.; MALIK, A. Sentiments analysis of fMRI using automatically generated stimuli labels under naturalistic paradigm. Scientific Reports, 2023, vol. 13, no. 1, p. 1-15. ISSN: 2045-2322."
+        },
+        {
+            "year": "2023",
+            "citation": "MRAZEK, V.; JAWED, S.; ARIF, M.; MALIK, A. Effective EEG Feature Selection for Interpretable MDD (Major Depressive Disorder) Classification. In GECCO 2023 - Proceedings of the 2023 Genetic and Evolutionary Computation Conference. Lisbon: Association for Computing Machinery, 2023. p. 1427-1435. ISBN: 979-8-4007-0119-1."
+        },
+        {
+            "year": "2023",
+            "citation": "SHAIKH, U.; SHAHZAIB, M.; SHAKIL, S.; BHATTI, F.; MALIK, A. Robust and Adaptive Terrain Classification and Gait Event Detection System. Heliyon, 2023, vol. 9, no. 11, p. 1-12. ISSN: 2405-8440."
+        },
+        {
+            "year": "2022",
+            "citation": "JAWED, S.; MALIK, A. Deep learning based diagnosis of alcohol use disorder (AUD) using EEG. In {2022 IEEE 12th International Conference on Consumer Electronics (ICCE-Berlin). Berlin: Institute of Electrical and Electronics Engineers, 2022. p. 1-5. ISBN: 978-1-6654-5676-0."
+        },
+        {
+            "year": "2021",
+            "citation": "MALIK, A. Designing EEG Experiments for Studying the Brain; EEG-Based Experiment Design for Major Depressive Disorder. Brno: Faculty of Information Technology BUT, 2021. 506 p."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2024",
+            "title": "Editorial: From assessment to intervention: role of consumer technology and neurotech in preventive mental health",
+            "metadata": "editorial, 2024",
+            "authors": "MALIK, A.; HUSSAIN, M.; CHAUDHARY, S."
+        }
+    ],
+    "name": "Malik Aamir Saeed, prof., Ph.D."
+}

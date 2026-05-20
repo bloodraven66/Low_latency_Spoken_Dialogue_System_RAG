@@ -1,0 +1,180 @@
+{
+    "group": "Blockchains & System Security @ FIT (BlockSec@FIT)",
+    "about": {
+        "information": [
+            "The Blockchain and System Security Research Group (BlockSec@FIT) is dedicated toadvancing the frontiers of blockchain technology and systemsecurity. The members of BlockSec@FIT focus on designing,analyzing, and optimizing secure decentralized systems to addresscritical challenges in scalability, privacy, and resilienceagainst adversarial threats. The group is led by Assoc. Prof. IvanHomoliak, while the team leverages FIT's strong academicfoundation to drive research with global impact.",
+            "BlockSec@FIT has a mission to develop robust, scalable, and secure decentralized solutions."
+        ],
+        "research_areas": [
+            "Scalability and Security in Blockchain Consensus Protocols : Investigating Directed Acyclic Graph (DAG)-based consensus protocols (e.g., PHANTOM, GHOSTDAG, SPECTRE, Inclusive, Prism) to enhance parallel transaction processing and scalability. The group has pioneered the identification of incentive-driven attacks that undermine random transaction selection, proposing novel protection mechanisms to ensure fair and efficient blockchain operation, as demonstrated in large-scale simulations and game-theoretic analyses. Other work includes empirical security analyses of Secret Single Leader Election (SSLE) mechanisms in Ethereum's Proof-of-Stake (PoS), such as Whisk and homomorphic sortition, under denial-of-service (DoS) on the leader and censorship attacks. This research evaluates their effectiveness against targeted and coordinated adversarial strategies, highlighting trade-offs in protection, scalability, and practicality for large validator sets.",
+            "Novel Consensus Mechanisms : Exploring innovative protocols beyond traditional Proof-of-Work (PoW) and Proof-of-Stake (PoS), such as Proof-of-Useful-Work (PoUW), which redirects computational efforts toward solving real-world problems (e.g., scientific computations) to minimize energy waste while maintaining security. The group is also advancing PoUW integrated with zk-SNARK proofs for mining, where the \"useful work\" involves generating verifiable zero-knowledge proofs for privacy-preserving applications. Additionally, research on Proof-of-Social-Capital (PoSC) leverages social interactions, trust, and influence as non-transferable staking resources to promote fairness, decentralization, and privacy in consensus, replacing traditional stake with social capital metrics in privacy-preserving designs.",
+            "Blockchain-Based Authentication : Developing secure authentication schemes, such as SmartOTPS - the first one-time password (OTP) scheme for smart contract wallets - ensuring robust user access control in decentralized environments. The group has also introduced SNARKlet, a novel approach to mobile wallet synchronization that eliminates reliance on trusted servers while minimizing storage and bandwidth overhead.",
+            "Central Bank Digital Currency (CBDC) : Exploring secure architectures for CBDC, focusing on scalability, privacy, and resistance to adversarial attacks.",
+            "Decentralized Identity and Privacy : Designing privacy-preserving decentralized identity systems and trust/reputation models to secure user interactions in blockchain ecosystems.",
+            "System Security for Decentralized Applications : Addressing vulnerabilities in blockchain infrastructure, including cryptocurrency wallet security, fee-redistribution smart contracts to mitigate undercutting attacks, and adversarial resilience in distributed systems."
+        ],
+        "overview": [
+            "The Blockchain and System Security Research Group (BlockSec@FIT) is dedicated toadvancing the frontiers of blockchain technology and systemsecurity. The members of BlockSec@FIT focus on designing,analyzing, and optimizing secure decentralized systems to addresscritical challenges in scalability, privacy, and resilienceagainst adversarial threats. The group is led by Assoc. Prof. IvanHomoliak, while the team leverages FIT's strong academicfoundation to drive research with global impact.",
+            "BlockSec@FIT has a mission to develop robust, scalable, and secure decentralized solutions."
+        ]
+    },
+    "team": {
+        "principal_researcher": [
+            {
+                "name": "Homoliak Ivan, doc. Ing., Ph.D.",
+                "position": "Principal researcher",
+                "notes": [
+                    "System security in blockchains and decentralized applications",
+                    "Zero-knowledge cryptography and system security",
+                    "Scalability and security in consensus protocols",
+                    "Web3 authentication, cryptocurrency wallets, and usability",
+                    "Decentralized identity and privacy",
+                    "Electronic voting in blockchains"
+                ]
+            }
+        ],
+        "member": [
+            {
+                "name": "Gazdik Richard, Ing.",
+                "position": "Member",
+                "notes": [
+                    "zero-knowledge proofs",
+                    "consensual protocols",
+                    "blockchain systems"
+                ]
+            },
+            {
+                "name": "Lapes Zdenek, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Mariani Juraj, Ing.",
+                "position": "Member",
+                "notes": [
+                    "Consensus protocols",
+                    "Privacy and uniqueness on blockchains",
+                    "Zero-knowledge proofs"
+                ]
+            },
+            {
+                "name": "Oleksak Samuel, Ing.",
+                "position": "Member"
+            },
+            {
+                "name": "Peresini Martin, Ing.",
+                "position": "Member"
+            }
+        ],
+        "alumni": [
+            {
+                "name": "Drga Jozef, Mgr.",
+                "position": "Alumni"
+            },
+            {
+                "name": "Stancikova Ivana, Ing.",
+                "position": "Alumni"
+            },
+            {
+                "name": "Tamaskovic Marek, Ing.",
+                "position": "Alumni"
+            }
+        ]
+    },
+    "publicationresults": [
+        {
+            "year": "2024",
+            "details": "BUDINSKY, R.; STANCIKOVA, I.; HOMOLIAK, I. Mitigating Undercutting Attacks: Fee-Redistribution Smart Contracts for Transaction-Fee-Based Regime of Blockchains with the Longest Chain Rule. In 2023 IEEE International Conference on Blockchain (Blockchain). Danzhou, China: Institute of Electrical and Electronics Engineers, 2024. p. 25-32. ISBN: 979-8-3503-1929-3. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "HOMOLIAK, I.; PERESINI, M. SoK: Cryptocurrency Wallets - A Security Review and Classification based on Authentication Factors. In 2024 IEEE International Conference on Blockchain and Cryptocurrency (ICBC) - Proceedings. Dublin: Institute of Electrical and Electronics Engineers, 2024. p. 1-8. ISBN: 979-8-3503-1674-2. Detail"
+        },
+        {
+            "year": "2024",
+            "details": "PERESINI, M.; HLADKY, T.; MALINKA, K.; HOMOLIAK, I. DAG-Sword: A Simulator for DAG-Oriented Proof-of-Work Blockchains with Realistic Network Topologies. In Proceedings of the 57th Annual Hawaii International Conference on System Sciences. Waikiki: IEEE Computer Society, 2024. p. 1-10. ISBN: 978-0-9981331-7-1. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "DRGA, J.; HOMOLIAK, I.; VANCO, J.; PERESINI, M.; HANACEK, P.; VASILAKOS, A. Detecting and Preventing Credential Misuse in OTP-Based Two and Half Factor Authentication Toward Centralized Services Utilizing Blockchain-Based Identity Management. In 2023 IEEE International Conference on Blockchain and Cryptocurrency (ICBC). Dubai: Institute of Electrical and Electronics Engineers, 2023. p. 1-4. ISBN: 979-8-3503-1019-1. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "HOMOLIAK, I.; LI, Z.; SZALACHOWSKI, P. BBB-Voting: Self-Tallying End-to-End Verifiable 1-out-of-k Blockchain-Based Boardroom Voting. In 2023 IEEE International Conference on Blockchain (Blockchain). Hainan: Institute of Electrical and Electronics Engineers, 2023. p. 297-306. ISBN: 979-8-3503-1929-3. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "PERESINI, M.; HOMOLIAK, I.; HRUBY, M.; BENCIC, F.; MALINKA, K. Incentive Attacks on DAG-Based Blockchains with Random Transaction Selection. In IEEE International Conference on Blockchain. Institute of Electrical and Electronics Engineers Inc., 2023. p. 1-8. ISBN: 979-8-3503-1929-3. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "STANCIKOVA, I.; HOMOLIAK, I. SBvote: Scalable Self-Tallying Blockchain-Based Voting. In SAC '23: Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing. Tallin: Association for Computing Machinery, 2023. p. 203-211. ISBN: 978-1-4503-9517-5. Detail"
+        },
+        {
+            "year": "2023",
+            "details": "VENUGOPALAN, S.; STANCIKOVA, I.; HOMOLIAK, I. Always on Voting: A Framework for Repetitive Voting on the Blockchain. IEEE Transactions on Emerging Topics in Computing, 2023, vol. 11, no. 4, p. 1-11. ISSN: 2168-6750. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "BREITENBACHER, D.; HOMOLIAK, I.; AUNG, Y.; ELOVICI, Y.; TIPPENHAUER, N. HADES-IoT: A practical host-based anomaly detection system for IoT devices (Extended Version). IEEE Internet of Things Journal, 2022, vol. 9, no. 12, p. 9640-9658. ISSN: 2327-4662. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "HOMOLIAK, I. The Security Reference Architecture for Blockchains: Toward a Standardized Model for Studying Vulnerabilities, Threats, and Defenses. Sbornik prispevku z 54. konference EurOpen.CZ, 28.5.-1.6.2022. Radesin: Czech Open Systems User's Group, 2022. p. 185-210. ISBN: 978-80-86583-34-1. Detail"
+        },
+        {
+            "year": "2022",
+            "details": "PERESINI, M.; MALINKA, K.; HOMOLIAK, I.; BENCIC, F.; HLADKY, T. Simulations of DAG-based Blockchain Protocols and Attacks on the PHANTOM Protocol via Transaction Selection Strategies. Sbornik prispevku z 54. konference EurOpen.CZ, 28.5.-1.6.2022. Radesin: Czech Open Systems User's Group, 2022. p. 173-184. ISBN: 978-80-86583-34-1. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "CASINO, F.; LYKOUSAS, N.; HOMOLIAK, I.; PATSAKIS, C.; HERNANDEZ-CASTRO, J. Intercepting Hail Hydra: Real-Time Detection of Algorithmically Generated Domains. Journal of Network and Computer Applications, 2021, vol. 2021, no. 190, p. 1-17. ISSN: 1084-8045. Detail"
+        },
+        {
+            "year": "2021",
+            "details": "HOMOLIAK, I.; VENUGOPALAN, S.; REIJSBERGEN, D.; HUM, Q.; SCHUMI, R.; SZALACHOWSKI, P. The Security Reference Architecture for Blockchains: Toward a Standardized Model for Studying Vulnerabilities, Threats, and Defenses. IEEE Communications Surveys and Tutorials, 2021, vol. 23, no. 1, p. 341-390. ISSN: 1553-877X. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "BINDER, A.; BREITENBACHER, D.; HARTEL, P.; SZALACHOWSKI, P.; HOMOLIAK, I.; HUJNAK, O. SmartOTPs: An Air-Gapped 2-Factor Authentication for Smart-Contract Wallets. In Proceedings of the 2nd ACM Conference on Advances in Financial Technologies. New York City: Association for Computing Machinery, 2020. p. 145-162. ISBN: 978-1-4503-8139-0. Detail"
+        },
+        {
+            "year": "2020",
+            "details": "HUM, Q.; TAN, W.; TEY, S.; LENUS, L.; HOMOLIAK, I.; LIN, Y.; SUN, J. CoinWatch: A Clone-Based Approach for Detecting Vulnerabilities in Cryptocurrencies. In 3rd IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN (BLOCKCHAIN 2020). Rhodos: Institute of Electrical and Electronics Engineers, 2020. p. 17-25. ISBN: 978-0-7381-0495-9. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HARTEL, P.; HOMOLIAK, I.; REIJSBERGEN, D. An Empirical Study into the Success of Listed Smart Contracts in Ethereum. IEEE Access, 2019, vol. 07, no. 12, p. 177539-177555. ISSN: 2169-3536. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HELLEBRANDT, L.; HOMOLIAK, I.; MALINKA, K.; HANACEK, P. Increasing Trust in Tor Node List Using Blockchain. In 2019 IEEE International Conference on Blockchain and Cryptocurrency (ICBC). Soul: Institute of Electrical and Electronics Engineers, 2019. p. 29-32. ISBN: 978-1-7281-1328-9. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HOMOLIAK, I. A Security Reference Architecture for Blockchains. 2019 2nd IEEE International Conference on Blockchain. Atlanta: 2019. p. 390-397. ISBN: 978-1-7281-4693-5. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HOMOLIAK, I. Adversarial Attacks on Remote User Authentication Using Behavioural Mouse Dynamics. In 2019 International Joint Conference on Neural Networks (IJCNN). Budapest: Institute of Electrical and Electronics Engineers, 2019. p. 1-10. ISBN: 978-1-7281-1986-1. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HOMOLIAK, I. HADES-IoT: A practical host-based anomaly detection system for IoT devices. In Asia CCS '19: Proceedings of the 2019 ACM Asia Conference on Computer and Communications Security. Aukland, New Zealand: 2019. p. 479-484. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HOMOLIAK, I. StrongChain: Transparent and Collaborative Proof-of-Work Consensus. In Proceedings of The 28th USENIX Security Symposium. Santa Clara: 2019. p. 819-836. ISBN: 978-1-939133-06-9. Detail"
+        },
+        {
+            "year": "2019",
+            "details": "HOMOLIAK, I.; TOFFALINI, F.; GUARNIZO, J.; ELOVICI, Y.; OCHOA, M. Insight Into Insiders and IT: A Survey of Insider Threat Taxonomies, Analysis, Modeling, and Countermeasures. ACM Computing Surveys, 2019, vol. 52, no. 2, p. 1-40. ISSN: 0360-0300. Detail"
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2021",
+            "title": "DAG-Oriented Protocols PHANTOM and GHOSTDAG under Incentive Attack via Transaction Selection Strategy",
+            "authors": "DAG-Oriented Protocols PHANTOM and GHOSTDAG under Incentive Attack via Transaction Selection Strategy , presentation, poster, 2021 : PERESINI, M.; BENCIC, F.; MALINKA, K.; HOMOLIAK, I."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "code": "MPA-MEN",
+        "academic_year": "FEKT MPA-MEN",
+        "semester": "Acad. year 2025/2026",
+        "credits": "Winter semester",
+        "course_name": "Microelectronics in English"
+    },
+    "content": {
+        "guarantor": "Haze Jiri, doc. Ing., Ph.D. | (UMEL)",
+        "language_of_instruction": "English",
+        "completion": "Classified Credit",
+        "time_span": "- 26 hrs lectures",
+        "department": "Department of Microelectronics | (UMEL)",
+        "lecturer": "Haze Jiri, doc. Ing., Ph.D. | (UMEL)",
+        "learning_objectives": "The aim of the subject is a professional language preparation of students for a study in English or a service abroad with the emphasis on the professional accuracy of English terminology in electronics and microelectronics. The subject is set for the students having basic knowledge of English grammar and spoken English.Students with the basic knowledge of English will get further knowledge of precise English terminology in electronics and microelectronics needed for a continuation of their study in English or for a work abroad. In addition to the professional terminology the students will learn the behaviour in basic situations of university or working life. Students who complete the course successfully should be able to:- explain precise English terminology in electronics and microelectronics,- discuss and explain basic subjects of electrical engineering (electric circuits, electric current, electrical conductors) and on subjects in his/her field of study on the basis of the acquired professional vocabulary,- read or to write down basic mathematical expressions and processes (addition, subtraction, multiplication, division, brackets, decimal numbers, fractions, powers, roots, equations),- describe electronic system properties and to verbalize graphs, charts and trends,- describe technical functions and applications and explain how electronic technology works,- describe common materials and alloys and to describe their properties,- describe electronics component properties and features,- describe various types of technical problems and causes of faults,- discuss technical requirements of new products (needs analysis in technical contexts) and to assess the feasibility of proposed technical solutions,- solve the behaviour in basic situations of university or working life.",
+        "prerequisite_knowledge_and_skills": "Secondary school level knowledge and intermediate level of English are required.",
+        "study_literature": "- Herbst,L.: Monolithic Integrated Circuits, Clarendon Press, Oxford, 1985\n- Boylestad,R.-Nashelsky,L.: Electronic Devices and Circuit Theory, Prentice-Hall Inc, 1992",
+        "fundamental_literature": "- Sedra,A. Smith,K.: Microelectronic Circuits - 8th edition, Oxford University Press, 2019, ISBN: 978-0190853464",
+        "syllabus_of_lectures": "Reading of mathematical symbols and expressions.Terminology of basic electricity, circuits, fields, signals, laws and theorems.Fundamentals of semiconductor physics, PN junction.Passive components, diodes and transistors.Analogue integrated circuits.Analogue integrated circuits.Digital integrated circuits.Semiconductor memories. Microprocessors.Microelectronic materials and structures.Fabrication of integrated circuitsFabrication of integrated circuitsState of art and perspectives of microelectronics.Microelectronics terminology at conferences, presentations, discussions, examinations, in publications and report writing.",
+        "progress_assessment": "Up to 30 points for the activity during the semester.Up to 70 points for exam.The content and forms of instruction in the evaluated course are specified by a regulation issued by the lecturer responsible for the course and updated for every academic year."
+    }
+}

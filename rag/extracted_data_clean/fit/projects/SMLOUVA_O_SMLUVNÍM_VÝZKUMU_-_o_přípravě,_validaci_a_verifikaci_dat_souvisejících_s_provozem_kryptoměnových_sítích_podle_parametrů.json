@@ -1,0 +1,19 @@
+{
+    "project": "SMLOUVA O SMLUVNIM VYZKUMU - o priprave, validaci a verifikaci dat souvisejicich s provozem kryptomenovych sitich podle parametru",
+    "title": "SMLOUVA O SMLUVNIM VYZKUMU - o priprave, validaci a verifikaci dat souvisejicich s provozem kryptomenovych sitich podle parametru",
+    "metadata": {
+        "project_period": "12. 1. 2026 \u2013 31. 12. 2026",
+        "project_type": "contract",
+        "partner": "netsearch s.r.o."
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "contract"
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Polcak Libor, Ing., Ph.D. (DIFS) \u2013 research leader"
+        }
+    }
+}

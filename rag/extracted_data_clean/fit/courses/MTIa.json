@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "code": "MTIa",
+        "academic_year": "Acad. year 2025/2026",
+        "semester": "Summer semester",
+        "credits": "4 credits",
+        "course_name": "Modern Trends in Informatics (in English)"
+    },
+    "content": {
+        "guarantor": "Smrz Pavel, doc. RNDr., Ph.D. | (DCGM)",
+        "course_coordinator": "Zemcik Pavel, prof. Dr. Ing., dr. h. c. | (DCGM)",
+        "language_of_instruction": "English",
+        "completion": "Classified Credit",
+        "time_span": "- 26 hrs lectures\n- 13 hrs projects",
+        "assessment_points": "- 100 pts projects",
+        "department": "Department of Computer Graphics and Multimedia | (UPGM)",
+        "lecturer": "Smrz Pavel, doc. RNDr., Ph.D. | (DCGM)",
+        "learning_objectives": "To get an overview of novel research and development directions in computer science and information technologies, to gain an insight into modern trends in a wide range of theoretical areas of the computer science and their known and expected applications, to understand basic concepts of the fields and processes influencing their future development.Students will get acquainted with modern trends of computer science and information technology that have a great potential to impact future development in the field. They will self-study a chosen topic and prepare an overview of the current state of the art and recent advancements.Thanks to the contacts with experts presenting lectures on their specific domains of interest, students will be able to get an insight into the way researchers and developers think about problems in their respective field. They will also strenghten their ability to get grasp of a new theoretical subjects, to correctly use referred papers and to follow the current development in scientific disciplines.",
+        "study_literature": "- Michael A. Nielsen and Isaac L. Chuang. 2011.Quantum Computation and Quantum Information: 10th Anniversary Edition(10th ed.). Cambridge University Press.\n- Yampolskiy, R.V., 2018.Artificial Intelligence Safety and Security. Chapman and Hall/CRC.\n- Russell, S.J. and Norvig, P., 2016.Artificial intelligence: a modern approach. Malaysia; Pearson Education Limited.",
+        "syllabus_of_lectures": "- Quantum computing\n- Security, safety, and credibility\n- Recent progress in AI research\n- Synthetic biology\n- Machine translation\n- Astroinformatics\n- Physical modeling\n- Continent-scale weather forecast\n- Automotive driving systems\n- Medical domain modeling\n- Algorithmic trading\n- Brain-computer interfaces\n- Current and future supercomputers",
+        "progress_assessment": "- At the end of most of the lectures, there will be a couple of questions to be answered on the topic. Answers will be assessed and students get points (~10 per lecture). Everybody paying attention to the presentation should be able to answer correctly."
+    }
+}

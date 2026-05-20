@@ -1,0 +1,36 @@
+{
+    "project": "Answer to EC Tender CNECT/LUX/2022/OP/0030 - LANGUAGE TECHNOLOGY SOLUTIONS Lot 2",
+    "title": "Answer to EC Tender CNECT/LUX/2022/OP/0030 - LANGUAGE TECHNOLOGY SOLUTIONS Lot 2",
+    "metadata": {
+        "project_period": "1. 1. 2023 \u2013 31. 3. 2025",
+        "project_type": "grant",
+        "agency": "European Union",
+        "program": "Digital Europe Programme"
+    },
+    "sections": {
+        "czech_title": {
+            "label": "Czech title",
+            "text": "Odpoved na vyberove rizeni EK CNECT/LUX/2022/OP/0030 - JAZYKOVA TECHNOLOGICKA RESENI Polozka 2"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "language technology, speech recognition solutions"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "This call for tenders implementing the Digital Europe programme (DIGITAL) in the field of language technologies is to achieve three specific goals:1. facilitate uptake by SMEs, NGOs, public administration, and academia of European machine translation services for websites;2. support the creation of open source European language speech recognition solutions;3. carry out market studies on language technologies and widely disseminate their results in order to foster the take-up of language technologies in Europe.This call for tenders covers: creating and promoting a set of ready-to-use open-source automated website translation solutions, creating an open-source basic speech recognition prototype solution, as well as conducting market research on language technologies and disseminating their results widely."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Szoke Igor, Ing., Ph.D. (DCGM) \u2013 research leader Filip David, Mgr. et Mgr., Ph.D. Han Jiangyu (DCGM) Hegde Pradyoth (FIT) Hermansky Hynek, prof. Ing., Dr. Eng. (DCGM) Kocour Martin, Ing. (DCGM) Kudla Radim, Ing. (DCGM) Matejka Pavel, Ing., Ph.D. Pavlus Jan, Ing. (DCGM) Pesan Jan, Ing. (DCGM) Polok Alexander, Ing. (DCGM) Sedlacek Simon, Ing. (DCGM) Schwarz Petr, Ing., Ph.D. (DCGM) Skacel Miroslav, Ing. (EU OEI) Svec Jan, Ing. (DCGM) Udupa Sathvik (DCGM) Vendrame Katia, Ing. (DCGM) Vesely Karel, Ing., Ph.D. (DCGM)"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- EU-ASR , software, 2025 Authors : SZOKE, I.; VESELY, K.; POLOK, A.; SALIMBAJEVS, A."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "project": "Cyber-security Excellence Hub in Estonia and South Moravia",
+    "title": "Cyber-security Excellence Hub in Estonia and South Moravia",
+    "metadata": {
+        "project_period": "1. 1. 2023 \u2013 31. 12. 2026",
+        "project_type": "grant",
+        "code": "101087529",
+        "agency": "European Union",
+        "program": "HORIZON EUROPE"
+    },
+    "sections": {
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The Cyber-security Excellence Hub in Estonia and South Moravia (CHESS) will bring together leading R&I institutions in both regions to build connected innovation ecosystems to address one of the most important issues confronting Europe today: Cyber-Security. Considering recent world events and the EU\u2019s goal to fully digitize the economy and society by 2030 \u2013 the Cybersecurity topic should be at the forefront of agendas. European cybersecurity must be addressed at multiple levels: local, national, European. It needs to not only address gaps in security that exist today but also must be prepared for future threats, which is why research and innovation is needed."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Hajny Jan, prof. Ing., Ph.D. (UTKO) \u2013 research leader Vojnar Tomas, prof. Ing., Ph.D. (DITS)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- FIEDOR, T.; PAVELA, J.; ROGALEWICZ, A.; VOJNAR, T. Efficient Manipulation of Control Flow Models in Evolving Software. In Eurocast 2024 -- Computer Aided Systems Theory: Extended Abstracts. Lecture Notes in Computer Science. Las Palmas de Gran Canaria: Springer International Publishing, 2025. p. 412-427. ISBN: 978-3-031-82949-9. Detail\n- DACIK, T.; ROGALEWICZ, A.; VOJNAR, T.; ZULEGER, F. Deciding Boolean Separation Logic via Small Models. In Tools and Algorithms for the Construction and Analysis of Systems (TACAS). Lecture Notes in Computer Science. Cham: Springer Nature Switzerland AG, 2024. p. 188-206. ISBN: 978-3-031-57245-6. Detail\n- MALIK, V.; NECAS, F.; SCHRAMMEL, P.; VOJNAR, T. 2LS: Arrays and Loop Unwinding (Competition Contribution). In Proceedings of the 29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, part 2. Lecture Notes in Computer Science. Paris: Springer International Publishing, 2023. p. 529-534. ISBN: 978-3-031-30819-2. Detail"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- 2LS: Static Analyser and Verifier, version 0.10 , software, 2023 Authors : KROENING, D.; MALIK, V.; SCHRAMMEL, P.; VOJNAR, T.; MUKHERJEE, R.; MARTICEK, S.; NECAS, F.; HRUSKA, M.; BRAIN, M.; BUECHELI, S.; DAVID, C.; KUMAR, M.; WATCHER, B. DiffKemp: Static Analyser of Semantic Differences, version 0.4.0 , software, 2023 Authors : MALIK, V.; GLOZAR, T.; VOJNAR, T.; SILLING, P.; ZACIK, P.; MALECOVA, T.; ROZEK, J.\n- DiffKemp: Static Analyser of Semantic Differences, version 0.4.0 , software, 2023 Authors : MALIK, V.; GLOZAR, T.; VOJNAR, T.; SILLING, P.; ZACIK, P.; MALECOVA, T.; ROZEK, J."
+        }
+    }
+}

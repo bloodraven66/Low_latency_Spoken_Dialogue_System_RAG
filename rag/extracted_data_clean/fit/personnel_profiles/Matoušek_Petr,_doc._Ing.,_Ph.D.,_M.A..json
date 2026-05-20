@@ -1,0 +1,842 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Associate professor",
+        "details": {
+            "e_mail": "matousp@fit.vut.cz",
+            "work_phone": "+420 54114 1108",
+            "room": "C311 Office",
+            "researcher_id": "F-6544-2015",
+            "orcid_id": "0000-0003-4589-2041",
+            "scopus_author_id": "23009426700"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "NES@FIT - Networks and distributed systems research group",
+            "role": "Member"
+        },
+        {
+            "organization": "Supervisors in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Supervisors Specialists in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            "2022 Associate Professor (Doc.) in Computer Science and Informatics",
+            "2016 Master of Arts in Practical Theology and Ministry,TCM International Institute, Indianapolis, Indiana, USA",
+            "2008-2009 - Cisco Certified Network Professional Instructor",
+            "2008 - Cisco Certified Academy Instructor (CCNA CCAI)",
+            "2007 - Cisco Network Security Instructor",
+            "2005/2006 - Cisco Certified Network Associate Instructor (certified in Oct. 2007)",
+            "2005 - Ph.D. in Information Technology",
+            "2004 - Educational training for University teachers",
+            "1997 - MSc.(Ing.) of Informatics and Computer Science, FEI VUT Brno (Brno University of Technology)",
+            "1992 - school-leaving exam,Gymnasium (grammar school), Jatecni 22atUsti nad Labem"
+        ],
+        "career_overview": [
+            "Since 2019: external collaborator of Radio 7 in programIntersectionabout relation of IT and our lives.",
+            "Since 2014: external lecturer atStrathmore University, Nairobi, Kenyain study programmeMsc. in Information Security Systems",
+            "05/2004-08/2008 working on CESNET projectLiberouter, group of formal verification",
+            "Since 2005 - assistant professor at Brno University of Technology, Dpt. of Information Systems",
+            "Since 2005 - main contact of Cisco Network Academy Programme at FIT BUT",
+            "04/2003-09/2003 - project ADVANCE atLIAFA, Paris, France",
+            "Since 2003 - assistent at Faculty of Information Technology, Brno",
+            "2003-2001 civil service vIn-lifenetwork management, librarian services, administration and maintenance",
+            "network management, librarian services, administration and maintenance",
+            "1998-2001 PhD.student at Dept. of Computer Science and Informatics, Brno University of Technology",
+            "1999 - system administrator inPVTnet(Nextra now)administration of email services - sendmail, news, mailing lists, virtual domains, GSM forwarding etc.",
+            "administration of email services - sendmail, news, mailing lists, virtual domains, GSM forwarding etc.",
+            "1997-1998 Technical Student Programme atCERN, Geneva, Switzerland, IT Division - DISmailrouter - a system for automatical correction of email addresses with fuzzy matchingimplemenation of global directory over LDAP for HEP sites",
+            "mailrouter - a system for automatical correction of email addresses with fuzzy matching",
+            "implemenation of global directory over LDAP for HEP sites",
+            "1996 three-months technical training (IAESTE) atDigital Engineering, Ltd.(Arca Technologies now), Belfast, Northern Ireland, UKProgramming grafical user interface and communication with ISDN devices",
+            "Programming grafical user interface and communication with ISDN devices"
+        ],
+        "scientific_activities": [
+            "Computer networks - management, services, transmission technologies",
+            "Voice over IP",
+            "Network Security, modelling and analyzing network security",
+            "Formal Specification and Verification of RT systems",
+            "IoT communication and security",
+            "Security monitoring and traffic analysis of ICS and SCADA systems"
+        ],
+        "active_participation_in_domestic_and_international_associations_and_organisations": [
+            "IEEE Communication Society",
+            "European Alliance for Innovation (EAI)",
+            "European Association for Education in Electrical and Information Engineering (EAEEIE)"
+        ],
+        "awards": [
+            "Year activity and the best instructor price 2008",
+            "Best paper award of the ICN 2010",
+            "The Commemorative Medal of FIT BUT (The Silver Medal) 2012",
+            "Best Paper Award at KTTO 2014",
+            "2021 Prize in Partnership by the Technology Agency of the Czech Republic"
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Tuesday, 13:00-15:00 , B/C311 (Bozetechova 1/2, Brno 61200) (behem semestru)",
+        "guaranteed_courses": [
+            {
+                "abbreviation": "I2C",
+                "title": "CCNA: LAN and WAN Technologies",
+                "details": "Czech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CE2",
+                "title": "CCNP Enterprise: Advanced Routing (ENARSI)",
+                "details": "Czech, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CE1",
+                "title": "CCNP Enterprise: Core Networking (ENCOR)",
+                "details": "Czech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDS",
+                "title": "Data Communications, Computer Networks and Protocols",
+                "details": "Czech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDSe",
+                "title": "Data Communications, Computer Networks and Protocols (in English)",
+                "details": "English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CCS",
+                "title": "Design and Security of Enterprise Networks",
+                "details": "Czech, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ISA",
+                "title": "Network Applications and Network Administration",
+                "details": "Czech, English, winter",
+                "department": "DIFS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "ISA",
+                "title": "Network Applications and Network Administration",
+                "details": "Lecture,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "I2C",
+                "title": "CCNA: LAN and WAN Technologies",
+                "details": "Laboratory exercise, Lecture,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDS",
+                "title": "Data Communications, Computer Networks and Protocols",
+                "details": "Lecture,\nCzech, English, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "PDSe",
+                "title": "Data Communications, Computer Networks and Protocols (in English)",
+                "details": "Lecture,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "CZV-NSB",
+                "title": "Projecting, Administration and Security",
+                "details": "Exercise in computer lab, Lecture,\nCzech, summer",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2026",
+            "title": "LLM-Enhanced Cybersecurity Network Monitoring and Its Governance",
+            "details": "TACR, 11. verejna soutez SIGMA, dilci cil 4: Bilateralni spoluprace, TQ26000006, start: 2026-01-01, end: 2028-12-31, running"
+        },
+        {
+            "year": "2025",
+            "title": "Rozvoj kapacit v kyberbezpecnosti v Argentine",
+            "details": "MZV, Posilovani kapacit verejnych vysokych skol v rozvojovych zemich - vyhlaseni dotacniho programu pro rok 2025, 25-PKVV-017, start: 2025-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2025",
+            "title": "Rozvoj kapacit v kyberbezpecnosti v Kenske republice",
+            "details": "MZV, Posilovani kapacit verejnych vysokych skol v rozvojovych zemich - vyhlaseni dotacniho programu pro rok 2025, 25-PKVV-020, start: 2025-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2024",
+            "title": "Combined passive and active network monitoring",
+            "details": "TACR, 10. verejna soutez - Program na podporu aplikovaneho vyzkumu, experimentalniho vyvoje TREND, podprogram 1, FW10010040, start: 2024-01-01, end: 2026-06-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "Novel AI-Driven Process Automation for Simplifying and Enhancing Telecommunication Processes",
+            "details": "TACR, 10. verejna soutez - Program na podporu aplikovaneho vyzkumu, experimentalniho vyvoje TREND, podprogram 1, FW10010014, start: 2024-01-01, end: 2026-06-30, running"
+        },
+        {
+            "year": "2024",
+            "title": "Privacy-respecting Explainable Assessment and Collection of Threats",
+            "details": "TACR, 5. verejna soutez programu Delta 2, TM05000014, start: 2024-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Flow-based Encrypted Traffic Analysis",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS), VJ02010024, start: 2022-01-01, end: 2025-06-30, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Context-based Encrypted Traffic Analysis Using Flow Data",
+            "details": "TACR, 3. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, PODPROGRAM 1 \u2013 TECHNOLOGICTI LIDRI, FW03010099, start: 2021-01-01, end: 2023-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Metody AI pro zabezpeceni kybernetickeho prostoru a ridici systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6293, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "National Center of Competence for Cybersecurity",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, start: 2019-01-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Security monitoring of ICS communication in the smart grid",
+            "details": "MV, Program bezpecnostniho vyzkumu CR v letech 2015-2022 (BV III/1-VS), VI20192022138, start: 2019-11-01, end: 2022-10-31, completed"
+        },
+        {
+            "year": "2019",
+            "title": "TRACTOR: TRaffic Analysis and seCuriTy OpeRations for ICS/SCADA",
+            "details": "TACR, Narodni centra kompetence 1, TN01000077, TN01000077/02, start: 2019-05-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Integrated platform for analysis of digital data from security incidents",
+            "details": "MV, Bezpecnostni vyzkum Ceske republiky 2015-2020, VI20172020062, start: 2017-01-01, end: 2020-06-30, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Nastroje, metody a technologie ICT pro podporu konceptu smart cities",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-3964, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IRONSTONE - IoT monitoring and forensics",
+            "details": "TACR, Program podpory spoluprace v aplikovanem vyzkumu a experimentalnim vyvoji prostrednictvim spolecnych projektu technologickych a inovacnich agentur DELTA, TF03000029, start: 2016-11-01, end: 2019-10-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Vyzkum pokrocilych metod ICT a jejich aplikace",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2299, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Interactive computer networks lab",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR192/2013/G1, start: 2013-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2013",
+            "title": "Methodic for optimal maintenance of cultural heritage objects",
+            "details": "MK, Program aplikovaneho vyzkumu a vyvoje narodni a kulturni identity (NAKI), DF13P01OVV016, start: 2013-01-01, end: 2017-01-01, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Advanced secured, reliable and adaptive IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-11-1, start: 2011-01-01, end: 2013-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Lab innovation for IP telephony, video conferences, streaming and data analysis using Netflow",
+            "details": "MSMT, Fond rozvoje vysokych skol (FRVS), FR145/2010/A, start: 2010-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Modern Tools for Detection and Mitigation of Cyber Criminality on the New Generation Internet",
+            "details": "MV, Program bezpecnostniho vyzkumu Ceske republiky 2010 - 2015, VG20102015022, start: 2010-10-01, end: 2015-09-30, completed"
+        },
+        {
+            "year": "2010",
+            "title": "Secured, reliable and adaptive computer systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-10-1, start: 2010-03-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2008",
+            "title": "ATLANTIS-DeSIRE^2: Dependable Systems International Research and Educational Experience",
+            "details": "MZ, Ostatni programy MZ, ATLANTIS-DESIRE, start: 2008-10-01, end: 2013-09-30, completed"
+        },
+        {
+            "year": "2008",
+            "title": "Training laboratory for network specialists",
+            "details": "FR533/2008/A, start: 2008-01-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Increasing of qualification in the area of network security and IP telephony",
+            "details": "215/2007, start: 2007-05-21, end: 2009-09-25, completed"
+        },
+        {
+            "year": "2007",
+            "title": "Security-Oriented Research in Information Technology",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM0021630528, start: 2007-01-01, end: 2013-12-31, running"
+        },
+        {
+            "year": "2006",
+            "title": "Increasing of qualification in the area of network security and wireless technologies",
+            "details": "CESNET 2006, start: 2006-05-04, end: 2008-05-30, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Toward International Learning Environment for Real-Time Safety-Critical Control Systems",
+            "details": "ATLANTIS-ILERT, start: 2006-11-01, end: 2008-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "A Framework for Formal Specifications and Prototyping of Information System's Network Applications",
+            "details": "GACR, Standardni projekty, GA102/05/0723, start: 2005-01-01, end: 2007-12-31, completed"
+        },
+        {
+            "year": "2005",
+            "title": "Specialized laboratory of computer networks and distributed systems",
+            "details": "FR1567/2005/A, start: 2005-01-01, end: 2005-12-31, completed"
+        },
+        {
+            "year": "2004",
+            "title": "Opticka sit narodniho vyzkumu a jeji nove aplikace",
+            "details": "MSMT, Institucionalni prostredky SR CR (napr. VZ, VC), MSM6383917201, start: 2004-01-01, end: 2010-12-31, completed"
+        },
+        {
+            "year": "2001",
+            "title": "ADVANCE -- Advanced Validation Techniques for Telecommunication Protocols",
+            "details": "IST-1999-29082, start: 2001-10-01, end: 2004-01-31, completed"
+        },
+        {
+            "year": "2001",
+            "title": "Selection of methods for formal specification and verification of communication protocols",
+            "details": "FR0099/2001/G1, start: 2001-01-01, end: 2001-12-31, completed"
+        },
+        {
+            "year": "1998",
+            "title": "Formal specification and verification of the LDAP protocol and optimalization of data replication",
+            "details": "FEI-98-?, start: 1998-01-01, end: 1999-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "BURGETOVA, I.; MATOUSEK, P.; RYSAVY, O. Towards identification of network applications in encrypted traffic. Annals of Telecommunications, 2025, vol. 2025, no. 9, p. 1015-1032."
+        },
+        {
+            "year": "2025",
+            "citation": "Michal Rozsival, Petr Matousek, Jaromir Kotala. Poster: Multi-Agent LLM System for Cisco Router Configuration. In 2025 23rd International Symposium on Network Computing and Applications (NCA). Lisbon, Portugal: IEEE, 2025. p. 306-307. ISBN: 979-8-3315-7842-8."
+        },
+        {
+            "year": "2025",
+            "citation": "MUTUA, N.; NADJM-TEHRANI, S.; MATOUSEK, P. Penetrating the Power Grid: Realistic Adversarial Attacks on Smart Grid Intrusion Detection Systrems. Critical Information Infrastructures Security. Lecture Notes in Computer Science. Springer Cham: Springer Nature Switzerland AG, 2025. p. 249-268. ISBN: 978-3-031-84259-7."
+        },
+        {
+            "year": "2024",
+            "citation": "BURGETOVA, I.; RYSAVY, O.; MATOUSEK, P. Towards Identification of Network Applications in Encrypted Traffic. In The Proceedings of the 8th Cyber Security in Networking Conference (CSNet 2024). Paris: IEEE Communications Society, 2024. p. 213-221. ISBN: 979-8-3315-3411-0."
+        },
+        {
+            "year": "2024",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; BURGETOVA, I. Experience Report: Using JA4+ Fingerprints for Malware Detection in Encrypted Traffic. In Proceedings of 20th International Conference on Network and Service Management. Prague: Institute of Electrical and Electronics Engineers, 2024. p. 1-5. ISBN: 979-8-3315-0515-8."
+        },
+        {
+            "year": "2023",
+            "citation": "HAVLENA, V.; MATOUSEK, P.; RYSAVY, O.; HOLIK, L. Accurate Automata-Based Detection of Cyber Threats in Smart Grid Communication. IEEE Transactions on Smart Grid, 2023, vol. 2023, no. 14, p. 2352-2366. ISSN: 1949-3053."
+        },
+        {
+            "year": "2022",
+            "citation": "POLCAK, L.; MATOUSEK, P. Metering Homes: Do Energy Efficiency and Privacy Need to be in Conflict?. In Proceedings of the 19th International Conference on Security and Cryptography. Lisabon: SciTePress - Science and Technology Publications, 2022. p. 47-58. ISBN: 978-989-758-590-6."
+        },
+        {
+            "year": "2021",
+            "citation": "BURGETOVA, I.; MATOUSEK, P.; RYSAVY, O. Anomaly Detection of ICS Communication Using Statistical Models. In Proceedings of the 17th International Conference on Network Service Management (CNSM 2021). Izmir: Institute of Electrical and Electronics Engineers, 2021. p. 166-172. ISBN: 978-3-903176-36-2."
+        },
+        {
+            "year": "2021",
+            "citation": "MATOUSEK, P. Security of Smart Grid Communication. Brno: Faculty of Information Technology BUT, 2021. 150 p."
+        },
+        {
+            "year": "2021",
+            "citation": "MATOUSEK, P.; BURGETOVA, I.; RYSAVY, O.; VICTOR, M. On Reliability of JA3 Hashes for Fingerprinting Mobile Applications. In Digital Forensics and Cyber Crime. ICDF2C 2020. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Boston: Springer International Publishing, 2021. p. 1-22. ISBN: 978-3-030-68733-5."
+        },
+        {
+            "year": "2021",
+            "citation": "MATOUSEK, P.; HAVLENA, V.; HOLIK, L. Efficient Modelling of ICS Communication For Anomaly Detection Using Probabilistic Automata. In Proceedings of IFIP/IEEE International Symposium on Integrated Network Management. Bordeaux: International Federation for Information Processing, 2021. p. 81-89. ISBN: 978-3-903176-32-4."
+        },
+        {
+            "year": "2021",
+            "citation": "MATOUSEK, P.; RYSAVY, O. Teaching ICS Security in Blended Classroom Environment. In Proceedings of the 2021 30th Annual Conference of the European Association for Education in Electrical and Information Engineering (EAEEIE). Prague: Czech Technical University, 2021. p. 148-153. ISBN: 978-1-7281-9324-3."
+        },
+        {
+            "year": "2021",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; POLCAK, L. Unified SNMP Interface for IoT Monitoring. In Proceedings of the IM 2021 - 2021 IFIP/IEEE International Symposium on Integrated Network Management. Bordeaux: International Federation for Information Processing, 2021. p. 938-943. ISBN: 978-3-903176-32-4."
+        },
+        {
+            "year": "2021",
+            "citation": "MUTUA, N.; MATOUSEK, P. Outlier Detection in Smart Grid Communication. Fast Abstracts and Student Forum Proceedings, 17th European Dependable Computing Conference. Munich: 2021. p. 1-4."
+        },
+        {
+            "year": "2021",
+            "citation": "RYSAVY, O.; MATOUSEK, P. A Network Traffic Processing Library for ICS Anomaly Detection. In ECBS '21: Proceedings of the 7th Conference on the Engineering of Computer Based Systems. Novi Sad: Association for Computing Machinery, 2021. p. 144-151. ISBN: 978-1-4503-9057-6."
+        },
+        {
+            "year": "2020",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; HAVLENA, V.; GREGR, M. Flow based monitoring of ICS communication in the smart grid. Journal of Information Security and Applications, 2020, vol. 2020, no. 54, p. 102535-102535. ISSN: 2214-2126."
+        },
+        {
+            "year": "2020",
+            "citation": "POLCAK, L.; RYSAVY, O.; MATOUSEK, P. Identity Linking in Computer Networks. In Proceedings of the 17th International Joint Conference on e-Business and Telecommunications, DCNET, OPTICS, SIGMAP and WINSYS. Setubal: SciTePress - Science and Technology Publications, 2020. p. 45-52. ISBN: 978-989-758-445-9."
+        },
+        {
+            "year": "2019",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; BURGETOVA, I. Extending Networking Curriculum with Applied Artificial Intelligence. In Proceedings of EAEEIE 2019. Ruse: Institute of Electrical and Electronics Engineers, 2019. p. 11-16. ISBN: 978-1-7281-3222-8."
+        },
+        {
+            "year": "2019",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; GREGR, M. Increasing Visibility of IEC 104 Communication in the Smart Grid. 6th International Symposium for ICS & SCADA Cyber Security Research 2019. Swindon: BCS Learning and Development Ltd., 2019. p. 21-30. ISBN: 978-1-78017-523-2."
+        },
+        {
+            "year": "2019",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; GREGR, M. Security Monitoring of IoT Communication Using Flows. In Proceedings of the 6th Conference on the Engineering of Computer Based Systems. ECBS '19. New York: Association for Computing Machinery, 2019. p. 1-9. ISBN: 978-1-4503-7636-5."
+        },
+        {
+            "year": "2018",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; JAMES, J.; JANG, Y. Interconnecting Education and Research Through International Partnership: IoT Case Study. In 2018 28th EAEEIE Annual Conference, EAEEIE 2018. Hafnarfjordur: Institute of Electrical and Electronics Engineers, 2018. p. 1-6. ISBN: 978-1-5386-7711-7."
+        },
+        {
+            "year": "2018",
+            "citation": "MATOUSEK, P.; SCHMIEDECKER, M. Digital Forensics and Cyber Crime. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Cham: Springer International Publishing, 2018. 235 p. ISBN: 978-3-319-73697-6."
+        },
+        {
+            "year": "2017",
+            "citation": "HRANICKY, R.; ZOBAL, L.; VECERA, V.; MATOUSEK, P. Distributed Password Cracking in a Hybrid Environment. Proceedings of SPI 2017. Brno: University of Defence in Brno, 2017. p. 75-90. ISBN: 978-80-7231-414-0."
+        },
+        {
+            "year": "2017",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; ONYANGO, C.; SEVILLA, J. Delivering ICT Security Courses over 5.944 km Experience of Czech-Kenyan Co-operation. In Proceedings of the 27th EAEEIE Annual Conference. Grenoble: Grenoble Institute of Technology, 2017. p. 1-7. ISBN: 978-1-7281-0907-7."
+        },
+        {
+            "year": "2016",
+            "citation": "HRANICKY, R.; HOLKOVIC, M.; MATOUSEK, P.; RYSAVY, O. On Efficiency of Distributed Password Recovery. Journal of Digital Forensics Security and Law, 2016, vol. 11, no. 2, p. 79-95. ISSN: 1558-7215."
+        },
+        {
+            "year": "2016",
+            "citation": "HRANICKY, R.; MATOUSEK, P.; RYSAVY, O.; VESELY, V. Experimental Evaluation of Password Recovery in Encrypted Documents. In Proceedings of ICISSP 2016. Roma: SciTePress - Science and Technology Publications, 2016. p. 299-306. ISBN: 978-989-758-167-0."
+        },
+        {
+            "year": "2015",
+            "citation": "MATOUSEK, P.; PLUSKAL, J.; RYSAVY, O.; VESELY, V.; KMET, M.; KARPISEK, F.; VYMLATIL, M. Advanced Techniques for Reconstruction of Incomplete Network Data. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, 2015, vol. 2015, no. 157, p. 69-84. ISSN: 1867-8211."
+        },
+        {
+            "year": "2015",
+            "citation": "PLUSKAL, J.; MATOUSEK, P.; RYSAVY, O.; KMET, M.; VESELY, V.; KARPISEK, F.; VYMLATIL, M. Netfox Detective: A tool for advanced network forensics analysis. Proceedings of Security and Protection of Information (SPI) 2015. Brno: University of Defence in Brno, 2015. p. 147-163. ISBN: 978-80-7231-997-8."
+        },
+        {
+            "year": "2014",
+            "citation": "GREGR, M.; MATOUSEK, P.; PODERMANSKI, T.; SVEDA, M. Practical IPv6 Monitoring on Campus - Best Practice Document. Vedecky sbornik, 2014, vol. 2014, no. 1, p. 1-20. ISSN: 0572-3043."
+        },
+        {
+            "year": "2014",
+            "citation": "MATOUSEK, P. Sitove sluzby a jejich architektura. Brno: Nakladatelstvi Vysokeho uceni technickeho v Brne VUTIUM, 2014. 396 s. ISBN: 978-80-214-3766-1."
+        },
+        {
+            "year": "2014",
+            "citation": "MATOUSEK, P.; KMET, M.; BASEL, M. On-line Monitoring of VoIP Quality Using IPFIX. Advances in Electrical and Electronic Engineering, 2014, vol. 2014, no. 4, p. 325-333. ISSN: 1804-3119."
+        },
+        {
+            "year": "2014",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; GREGR, M.; VYMLATIL, M. Towards Identification of Operating Systems from the Internet Traffic. IPFIX Monitoring with Fingerprinting and Clustering. In DCNET2014. Proceedings of the 5th International Conference on Data Communication Networking. Wien: SciTePress - Science and Technology Publications, 2014. p. 21-27. ISBN: 978-989-758-042-0."
+        },
+        {
+            "year": "2014",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; KMET, M. Fast RTP Detection and Codecs Classification in Internet Traffic. Journal of Digital Forensics Security and Law, 2014, vol. 2014, no. 2, p. 99-110. ISSN: 1558-7215."
+        },
+        {
+            "year": "2014",
+            "citation": "POLCAK, L.; HOLKOVIC, M.; MATOUSEK, P. Host Identity Detection in IPv6 Networks. In E-Business and Telecommunications. Communications in Computer and Information Science. Berlin: Springer Verlag, 2014. no. 456, p. 74-89. ISBN: 978-3-662-44787-1. ISSN: 1865-0929."
+        },
+        {
+            "year": "2014",
+            "citation": "POLCAK, L.; JIRASEK, J.; MATOUSEK, P. Comment on \"Remote Physical Device Fingerprinting\". IEEE Transactions on Dependable and Secure Computing, 2014, vol. 11, no. 5, p. 494-496. ISSN: 1545-5971."
+        },
+        {
+            "year": "2013",
+            "citation": "DE SILVA, G.; RYSAVY, O.; MATOUSEK, P.; SVEDA, M. On Formal Reachability Analysis in Networks with Dynamic Behavior. TELECOMMUNICATION SYSTEMS, 2013, vol. 52, no. 2, p. 919-929. ISSN: 1018-4864."
+        },
+        {
+            "year": "2013",
+            "citation": "POLCAK, L.; HOLKOVIC, M.; MATOUSEK, P. A New Approach for Detection of Host Identity in IPv6 Networks. In Proceedings of the 4th International Conference on Data Communication Networking, 10th International Conference on e-Business and 4th International Conference on Optical Communication Systems. Reykjavik: SciTePress - Science and Technology Publications, 2013. p. 57-63. ISBN: 978-989-8565-72-3."
+        },
+        {
+            "year": "2013",
+            "citation": "POLCAK, L.; HRANICKY, R.; MATOUSEK, P. Hiding TCP Traffic: Threats and Counter-measures. Security and Protection of Information 2013, Proceedings of the Conference. Brno: University of Defence in Brno, 2013. p. 83-96. ISBN: 978-80-7231-922-0."
+        },
+        {
+            "year": "2013",
+            "citation": "VESELY, V.; MATOUSEK, P.; SVEDA, M. Multicast simulation and modeling in OMNeT++. SimuTools '13 Proceedings of the 6th International ICST Conference on Simulation Tools and Techniques. Brussels: International Communication Sciences and Technology Association, 2013. p. 142-145. ISBN: 978-1-4503-2464-9."
+        },
+        {
+            "year": "2012",
+            "citation": "SVEDA, M.; RYSAVY, O.; DE SILVA, G.; MATOUSEK, P.; RAB, J. Static Analysis of Routing and Firewall Policy Configurations. In e-Business and Telecommunications. Communications in Computer and Information Science. LNCS CCIS, Vol.222. Heidelberg: Springer Science+Business Media B.V., 2012. no. 222, p. 39-53. ISBN: 978-3-642-25205-1. ISSN: 1865-0929."
+        },
+        {
+            "year": "2012",
+            "citation": "VESELY, V.; MATOUSEK, P.; SVEDA, M. Multicast Simulation and Modeling in OMNeT++. Proceedings of the IEEE 5th International ICST Conference on Simulation Tools and Techniques. Desenzano del Garda: International Communication Sciences and Technology Association, 2012. p. 298-301. ISBN: 978-1-936968-47-3."
+        },
+        {
+            "year": "2011",
+            "citation": "GREGR, M.; MATOUSEK, P.; PODERMANSKI, T.; SVEDA, M. Practical IPv6 Monitoring - Challenges and Techniques. Proceedings of the 12th IFIP/IEEE International Symposium on Integrated Network Management (IM 2011). Dublin: IEEE Computer Society, 2011. p. 660-663. ISBN: 978-1-4244-9220-6."
+        },
+        {
+            "year": "2011",
+            "citation": "POLCAK, L.; GREGR, M.; KAJAN, M.; MATOUSEK, P.; VESELY, V. Designing Lawful Interception in IPv6 Networks. Security and Protection of Information. Brno: University of Defence in Brno, 2011. p. 114-126. ISBN: 978-80-7231-777-6."
+        },
+        {
+            "year": "2011",
+            "citation": "SVEDA, M.; RYSAVY, O.; DE SILVA, G.; MATOUSEK, P.; RAB, J. Reachability Analysis in Dynamically Routed Networks. Proceedings of the IEEE ECBS 2011. Piscataway, NJ: IEEE Computer Society, 2011. p. 197-205. ISBN: 978-0-7695-4379-6."
+        },
+        {
+            "year": "2011",
+            "citation": "SVEDA, M.; RYSAVY, O.; MATOUSEK, P. Supporting Safe and Secure Networked System Design. Computer Aided Systems Theory (EUROCAST 11), Extended Abstracts. Las Palmas de Gran Canaria: The Universidad de Las Palmas de Gran Canaria, 2011. p. 22-23. ISBN: 978-84-693-9560-8."
+        },
+        {
+            "year": "2010",
+            "citation": "DE SILVA, G.; MATOUSEK, P.; RYSAVY, O.; SVEDA, M. Formal Analysis Approach on Networks with Dynamic Behaviours. 2010 International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT). Moscow: IEEE Computer Society, 2010. p. 545-551. ISBN: 978-1-4244-7285-7."
+        },
+        {
+            "year": "2010",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; DE SILVA, G.; DANKO, M. Combination of Simulation and Formal Methods to Analyse Network Survivability. Proceedings of the IEEE 3rd International ICST Conference on Simulation Tools and Techniques. Malaga: International Communication Sciences and Technology Association, 2010. p. 150-155. ISBN: 978-963-9799-87-5."
+        },
+        {
+            "year": "2010",
+            "citation": "SVEDA, M.; RYSAVY, O.; MATOUSEK, P.; RAB, J. An Approach for Automated Network-Wide Security Analysis. Proceedings of the Ninth International Conference on Networks ICN 2010. Les Menuires: IEEE Computer Society, 2010. p. 294-299. ISBN: 978-0-7695-3979-9."
+        },
+        {
+            "year": "2010",
+            "citation": "SVEDA, M.; RYSAVY, O.; MATOUSEK, P.; RAB, J.; CEJKA, R. SECURITY ANALYSIS OF TCP/IP NETWORKS -- An Approach to Automatic Analysis of Network Security Properties. Proceedings of the International Conference on Data Communication Networking ICETE-DCNET 2010. Athens: Institute for Systems and Technologies of Information, Control and Communication, 2010. p. 5-11. ISBN: 978-989-8425-25-6."
+        },
+        {
+            "year": "2008",
+            "citation": "MATOUSEK, P.; RYSAVY, O.; RAB, J.; SVEDA, M. A Formal Model for Network-wide Security Analysis. Proceeding of the 15 IEEE International Symposium and Workshop on the Engineering of Computer-based Systems. Belfast: University of Ulster, 2008. p. 171-181. ISBN: 0-7695-3141-5."
+        },
+        {
+            "year": "2007",
+            "citation": "MATOUSEK, P. Bezpecne pripojeni jednim zarizenim. Journal CONNECT!, 2007, roc. 2007, c. 1, s. 62-63. ISSN: 1211-3085."
+        },
+        {
+            "year": "2007",
+            "citation": "MATOUSEK, P. Kombinovane reseni switch/router. Journal CONNECT!, 2007, roc. 2007, c. 4, s. 40-41. ISSN: 1211-3085."
+        },
+        {
+            "year": "2007",
+            "citation": "SMRCKA, A.; REHAK, V.; VOJNAR, T.; SAFRANEK, D.; MATOUSEK, P.; REHAK, Z. Verifying VHDL Design with Multiple Clocks in SMV. In Formal Methods: Applications and Technology. Lecture Notes in Computer Science. Lecture Notes in Computer Science 4346. Bonn: Springer Verlag, 2007. no. 4346, p. 148-164. ISBN: 978-3-540-70951-0. ISSN: 0302-9743."
+        },
+        {
+            "year": "2006",
+            "citation": "MATOUSEK, P. Dobreho nespali - test firewallu pro site do 150 uzivatelu. Journal CONNECT!, 2006, roc. 2006, c. 6, s. 26-29. ISSN: 1211-3085."
+        },
+        {
+            "year": "2006",
+            "citation": "SMRCKA, A.; REHAK, V.; VOJNAR, T.; SAFRANEK, D.; MATOUSEK, P.; REHAK, Z. Verifying VHDL Design with Multiple Clocks in SMV. Proceedings of FMICS 2006. Bonn: 2006. p. 140-155."
+        },
+        {
+            "year": "2005",
+            "citation": "MATOUSEK, P. Symbolic Data Structures for Parametric Verification. Brno: Faculty of Information Technology BUT, 2005. 106 p."
+        },
+        {
+            "year": "2005",
+            "citation": "MATOUSEK, P. Neni datum v siti tesno?. Journal CONNECT!, 2005, roc. 2005, c. 11, s. 7-8. ISSN: 1211-3085."
+        },
+        {
+            "year": "2005",
+            "citation": "MATOUSEK, P.; SMRCKA, A.; VOJNAR, T. High-Level Modelling, Analysis, and Verification on FPGA-Based Hardware Design. Correct Hardware Design and Verification Methods. Lecture Notes in Computer Science. Lecture Notes in Computer Science 3725/2005. Berlin: Springer Verlag, 2005. no. 3725, p. 371-375. ISBN: 978-3-540-29105-3. ISSN: 0302-9743."
+        },
+        {
+            "year": "2005",
+            "citation": "SMRCKA, A., MATOUSEK, P., VOJNAR, T. High-level Modelling, Analysis, and Verification on FPGA-based Hardware Design. Brno: CESNET National Research and Education Network, 2005. 17 p."
+        },
+        {
+            "year": "2004",
+            "citation": "MATOUSEK, P. A New Data Structure Based on Intervals. Proceedings of MOVEP'04. Bruxelles: 2004. p. 16-21."
+        },
+        {
+            "year": "2004",
+            "citation": "MATOUSEK, P. Tools for Parametric Verification. A Comparison on A Case Study (extended abstract). Proceedings of the 5th Joint Workshop on FSCBS. Stirling: University of Stirling, 2004. p. 45-55. ISBN: 1-85769-197-0."
+        },
+        {
+            "year": "2004",
+            "citation": "MATOUSEK, P. Tools for Parametric Verification. A Comparison on a Case Study. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2004, vol. 10, no. 10, p. 1469-1495. ISSN: 0948-6968."
+        },
+        {
+            "year": "2001",
+            "citation": "MATOUSEK, P. Protocol Proving Using PVS: A Case Study. Proceedings of the 35th Spring Conference: Modelling and Simulation of Systems - MOSIS'01. Hradec n/M: Marq software s.r.o., 2001. p. 67-73. ISBN: 80-85988-57-7."
+        },
+        {
+            "year": "2001",
+            "citation": "MATOUSEK, P. The Use of Conditional Grammars for Specifying and Verifying Communication Protocols. Modelling and Simulation 2001. Praha: Czech Technical University, 2001. p. 59-62. ISBN: 1-56555-225-3."
+        },
+        {
+            "year": "2000",
+            "citation": "MATOUSEK, P. Protocol Verification Using PVS. Sbornik praci studentu a doktorandu. Brno: Akademicke nakladatelstvi CERM, 2000. p. 201-203. ISBN: 80-7240-155-X."
+        },
+        {
+            "year": "2000",
+            "citation": "MATOUSEK, P.; RAB, J.; VYSEK, P. Protocol Proving and Model-Checking: A First-Look Experience. IEEE ECBS - Joint Workshop on Formal Specifications of Computer-Based Systems. Edinburgh: unknown, 2000. p. 71-75. ISBN: 1-85-769121-0."
+        },
+        {
+            "year": "1999",
+            "citation": "DVORAK, V.; MATOUSEK, P. Highly Efficient Parallel ANN Implementation for Real-Time Processing. Proceedings of conference Computer Engineering and Informatics CE&I'99. Kosice - Herlany, Slovakia: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 1999. p. 186-191. ISBN: 80-88922-05-4."
+        },
+        {
+            "year": "1999",
+            "citation": "MATOUSEK, P. Fuzzy matching as a technique for the name correction. MOSIS '99, Proceedings. Roznov p.R.: unknown, 1999. p. 85-91. ISBN: 80-85988-33-X."
+        },
+        {
+            "year": "1999",
+            "citation": "MATOUSEK, P. Global directory over LDAP with index servers. In Sbornik praci studentu a doktorandu FEI VUT. Brno: Akademicke nakladatelstvi CERM, 1999. p. 85-86. ISBN: 80-214-1155-4."
+        },
+        {
+            "year": "1998",
+            "citation": "MATOUSEK, P. HEP Global Directory over LDAP. Batavia-Illinois: unknown, 1998."
+        },
+        {
+            "year": "1998",
+            "citation": "MATOUSEK, P. LDAP - Electronic White Pages. Lyon: 1998."
+        },
+        {
+            "year": "1998",
+            "citation": "MATOUSEK, P. Mailrouter-Automatic correction of mistyped email addresses using fuzzy match. Lyon: unknown, 1998."
+        },
+        {
+            "year": "1997",
+            "citation": "MATOUSEK, P. Uzivatelsky pristup k elektronickym bilym strankam. Brno: Vysoke uceni technicke v Brne, 1997."
+        },
+        {
+            "year": "1997",
+            "citation": "MATOUSEK, P. Elektronicke bile stranky na FEI VUT. In Sbornik praci studentu a doktorandu 1997. Brno: Fakulta elektrotechniky a informatiky VUT, 1997. s. 151-153. ISBN: 80-214-0637-2."
+        }
+    ],
+    "otherresults": [
+        {
+            "year": "2021",
+            "title": "Bezpecnostni rizika IoT",
+            "metadata": "presentation, poster, 2021",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2021",
+            "title": "ICS Virtual Testbed",
+            "metadata": "report, 2021",
+            "authors": "MATOUSEK, P.; GROFCIK, P."
+        },
+        {
+            "year": "2021",
+            "title": "Monitoring of IoT Devices Using SNMP",
+            "metadata": "report, 2021",
+            "authors": "MATOUSEK, P.; KRAJC, P."
+        },
+        {
+            "year": "2021",
+            "title": "Simulation of Industrial Processes using I/O Factory and UniPi",
+            "metadata": "report, 2021",
+            "authors": "MATOUSEK, P.; PRISTAS, J.; MASAROVA, M."
+        },
+        {
+            "year": "2021",
+            "title": "Statistical Methods for Anomaly Detection in Industrial Communication",
+            "metadata": "report, 2021",
+            "authors": "BURGETOVA, I.; MATOUSEK, P.; MUTUA, N."
+        },
+        {
+            "year": "2020",
+            "title": "Learning Probabilistic Automata in the Context of IEC 104",
+            "metadata": "report, 2020",
+            "authors": "HAVLENA, V.; HOLIK, L.; MATOUSEK, P."
+        },
+        {
+            "year": "2020",
+            "title": "Mobile Device Fingerprinting",
+            "metadata": "report, 2020",
+            "authors": "MATOUSEK, P.; BURGETOVA, I.; VICTOR, M."
+        },
+        {
+            "year": "2019",
+            "title": "An IPFIX Extension for MQTT Protocol Monitoring",
+            "metadata": "report, 2019",
+            "authors": "RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2018",
+            "title": "Description of IEC 61850 Communication",
+            "metadata": "report, 2018",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Analysis of DLMS Protocol",
+            "metadata": "report, 2017",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Description and analysis of IEC 104 Protocol",
+            "metadata": "report, 2017",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2017",
+            "title": "Detekce mobilnich zarizeni v sitove komunikaci",
+            "metadata": "report, 2017",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2016",
+            "title": "On the Identification of Applications from Captured Network Traffic",
+            "metadata": "presentation, poster, 2016",
+            "authors": "PLUSKAL, J.; RYSAVY, O.; MATOUSEK, P."
+        },
+        {
+            "year": "2009",
+            "title": "8. konference Cisco Networking Academy 2009 na FIT",
+            "metadata": "editorial, 2009",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2009",
+            "title": "Novy univerzitni kurz \"Multimedia v pocitacovych sitich\"",
+            "metadata": "presentation, poster, 2009",
+            "authors": "MATOUSEK, P.; SKOKANOVA, J."
+        },
+        {
+            "year": "2008",
+            "title": "A Formal Approach to Network Security Analysis",
+            "metadata": "report, 2008",
+            "authors": "MATOUSEK, P.; RYSAVY, O.; SVEDA, M.; RAB, J.; CEJKA, R."
+        },
+        {
+            "year": "2008",
+            "title": "Projekt CCIE inkubator",
+            "metadata": "presentation, poster, 2008",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2008",
+            "title": "Uspech studentu FIT v soutezi Networking Academy Games",
+            "metadata": "editorial, 2008",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2007",
+            "title": "A Path to Become a Skillful CCNP Expert During your University Studies",
+            "metadata": "presentation, poster, 2007",
+            "authors": "MATOUSEK, P.; RYSAVY, O."
+        },
+        {
+            "year": "2007",
+            "title": "Automaticka analyza sitove bezpecnosti",
+            "metadata": "presentation, poster, 2007",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2007",
+            "title": "Network Security by Cisco",
+            "metadata": "lecture, 2007",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2006",
+            "title": "Implementace kurzu NetAcad na FIT VUT v Brne",
+            "metadata": "lecture, 2006",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2006",
+            "title": "Nastroje pro analyzu bezpecnostnich protokolu",
+            "metadata": "lecture, 2006",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2006",
+            "title": "Prakticke ulohy z pocitacovych siti",
+            "metadata": "presentation, poster, 2006",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2005",
+            "title": "Cisco Network Akademy take na VUT v Brne",
+            "metadata": "editorial, 2005",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2005",
+            "title": "Symbolic Data Structure Based on Intervals for Parametric Verification",
+            "metadata": "lecture, 2005",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2005",
+            "title": "TReX and IF",
+            "metadata": "lecture, 2005",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2004",
+            "title": "Parametric Analysis of PGM protocol - report",
+            "metadata": "lecture, 2004",
+            "authors": "MATOUSEK, P.; SIGHIREANU, M."
+        },
+        {
+            "year": "2004",
+            "title": "Planovani a priprava noveho predmetu na FIT VUT",
+            "metadata": "study, 2004",
+            "authors": "MATOUSEK, P."
+        },
+        {
+            "year": "2000",
+            "title": "Formal description and verification of a class of high-level protocols with real time constraints",
+            "metadata": "other unclassified results, 2000",
+            "authors": "MATOUSEK, P."
+        }
+    ],
+    "name": "Matousek Petr, doc. Ing., Ph.D., M.A."
+}

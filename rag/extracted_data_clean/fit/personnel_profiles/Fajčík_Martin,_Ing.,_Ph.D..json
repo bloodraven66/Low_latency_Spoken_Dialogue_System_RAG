@@ -1,0 +1,179 @@
+{
+    "contact": {
+        "department": "Department of Computer Graphics and Multimedia",
+        "department_abbr": "DCGM",
+        "role": "Researcher",
+        "details": {
+            "e_mail": "ifajcik@fit.vut.cz",
+            "work_phone": "+420 54114 1421",
+            "room": "L230.2 Office",
+            "researcher_id": "B-3912-2018",
+            "orcid_id": "0000-0002-8443-8071"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Knowledge Technology Research Group",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Supervisors Specialists in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "curriculum": {
+        "awards": [
+            "Third place in the EfficeintQA competition at the NeurIPS 2020 conference",
+            "The Commemorative Medal of FIT BUT (The Bronze Medal) 2025"
+        ]
+    },
+    "teaching": {
+        "lectured_courses": [
+            {
+                "abbreviation": "ZPJa",
+                "title": "Natural Language Processing (in English)",
+                "details": "Lecture,\nEnglish, winter",
+                "department": "DCGM"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2025",
+            "title": "FactDeMice - Evidence-based Fact-Checking with Fact-consistent translation, Fake Review Detection, and Automatic Misinformative Claim Extraction",
+            "details": "TACR, 8. verejna soutez programu SIGMA\nDilci cil 4: Bilateralni spoluprace, TQ16000028, start: 2025-01-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2024",
+            "title": "Making Software FAIR: Identifying and Extracting Software Mentions from Open Research Papers and Registering them with PIDs",
+            "details": "TACR, CHRIST-ERA Call Open Research Data, TH86010002, start: 2024-01-01, end: 2025-12-31, completed"
+        },
+        {
+            "year": "2024",
+            "title": "Multilingual and Cross-cultural interactions for context-aware, and bias-controlled dialogue systems for safety-critical applications",
+            "details": "EU, HORIZON EUROPE, start: 2024-01-01, end: 2026-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Long Life Power Platforms for Internet of Things",
+            "details": "MSMT, Chips Joint Undertaking, 9A23012, start: 2023-06-01, end: 2026-05-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Machine learning for printed heritage digitisation",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV066, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "semANT - Semantic Document Exploration",
+            "details": "MK, NAKI III \u2013 program na podporu aplikovaneho vyzkumu v oblasti narodni a kulturni identity na leta 2023 az 2030, DH23P03OVV060, start: 2023-03-01, end: 2027-12-31, running"
+        },
+        {
+            "year": "2023",
+            "title": "Soudobe metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8278, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2022",
+            "title": "Intelligent Sensors for Traffic Monitoring",
+            "details": "EU, OP PIK - Aplikace, EG21_374/0026902, start: 2022-03-01, end: 2023-05-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "CAMEA 2021",
+            "details": "CAMEA, start: 2021-10-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Multilingual assistant for searching, analysing and processing information and decision-making support",
+            "details": "TACR, 3. verejna soutez - Program prumysloveho vyzkumu a experimentalniho vyvoje TREND, PODPROGRAM 1 \u2013 TECHNOLOGICTI LIDRI, FW03010656, start: 2021-01-01, end: 2024-04-30, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Moderni metody zpracovani, analyzy a zobrazovani multimedialnich a 3D dat",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6460, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2019",
+            "title": "Automatic Extraction of Attributes from Product Feeds",
+            "details": "ROI Hunter, start: 2019-01-01, end: 2019-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Cross-CPP - Ecosystem for Services based on integrated Cross-sectorial Data Streams from multiple Cyber Physical Products and Open Data Sources",
+            "details": "EU, Horizon 2020, 780167, start: 2017-12-01, end: 2021-02-28, running"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "FAJCIK, M.; DOCEKAL, M.; DOLEZAL, J.; ONDREJ, K.; BENES, K.; SMRZ, P.; POLOK, A.; HRADIS, M. BenCzechMark : A Czech-Centric Multitask and Multimetric Benchmark for Large Language Models with Duel Scoring Mechanism. Transactions of the Association for Computational Linguistics, 2025, vol. 13, no. 9, p. 1068-1095."
+        },
+        {
+            "year": "2025",
+            "citation": "JAROLIM, A.; FAJCIK, M.; MAKAIOVA, L. Can LLMs Extract Human-like Fine-grained Evidence for Evidence-based Fact-checking?. In Proceedings of the Nineteenth Workshop on Recent Advances in Slavonic Natural Languages Processing, RASLAN 2025. Recent Advances in Slavonic Natural Language Processing. 2025. no. 2025, p. 25-36. ISBN: 978-80-263-1858-3."
+        },
+        {
+            "year": "2025",
+            "citation": "MAKAIOVA, L.; FAJCIK, M.; JAROLIM, A. Examining the Metrics for Document-Level Claim Extraction in Czech and Slovak. In Proceedings of the Nineteenth Workshop on Recent Advances in Slavonic Natural Languages Processing. Recent Advances in Slavonic Natural Language Processing. 2025. no. 2025, p. 15-24. ISBN: 978-80-263-1858-3."
+        },
+        {
+            "year": "2024",
+            "citation": "STETINA, J.; FAJCIK, M.; HRADIS, M.; STEFANIK, M. A Comparative Study of Text Retrieval Models on DaReCzech. Recent Advances in Slavonic Natural Language Processing, 2024, no. 7, p. 85-100."
+        },
+        {
+            "year": "2023",
+            "citation": "FAJCIK, M.; MOTLICEK, P.; SMRZ, P. Claim-Dissector: An Interpretable Fact-Checking System with Joint Re-ranking and Veracity Prediction. In Findings of the Association for Computational Linguistics: ACL 2023. ACL. Toronto: Association for Computational Linguistics, 2023. p. 10184-10205. ISBN: 978-1-959429-62-3."
+        },
+        {
+            "year": "2022",
+            "citation": "BURDISSO, S.; FAJCIK, M.; SMRZ, P.; MOTLICEK, P. IDIAPers @ Causal News Corpus 2022: Efficient Causal Relation Identification Through a Prompt-based Few-shot Approach. In Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2022). Abu Dhabi: Association for Computational Linguistics, 2022. p. 61-69. ISBN: 978-1-959429-05-0."
+        },
+        {
+            "year": "2022",
+            "citation": "FAJCIK, M.; SMRZ, P.; MOTLICEK, P.; BURDISSO, S. IDIAPers @ Causal News Corpus 2022: Extracting Cause-Effect-Signal Triplets via Pre-trained Autoregressive Language Model. In Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2022). Abu Dhabi: Association for Computational Linguistics, 2022. p. 70-78. ISBN: 978-1-959429-05-0."
+        },
+        {
+            "year": "2021",
+            "citation": "FAJCIK, M.; DOCEKAL, M.; ONDREJ, K.; SMRZ, P. R2-D2: A Modular Baseline for Open-Domain Question Answering. In Findings of the Association for Computational Linguistics: EMNLP 2021. Findings of the Association for Computational Linguistics. Punta Cana: Association for Computational Linguistics, 2021. p. 854-870. ISBN: 978-1-955917-10-0."
+        },
+        {
+            "year": "2021",
+            "citation": "FAJCIK, M.; JON, J.; SMRZ, P. Rethinking the Objectives of Extractive Question Answering. In Proceedings of the 3rd Workshop on Machine Reading for Question Answering. Proceedings of the 3rd Workshop on Machine Reading for Question Answering. Punta Cana: Association for Computational Linguistics, 2021. p. 14-27. ISBN: 978-1-954085-95-4."
+        },
+        {
+            "year": "2021",
+            "citation": "MIN, S.; FAJCIK, M.; DOCEKAL, M.; ONDREJ, K.; SMRZ, P. NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned. In Proceedings of the NeurIPS 2020 Competition and Demonstration Track. Proceedings of Machine Learning Research. Proceedings of Machine Learning Research. online: Proceedings of Machine Learning Research, 2021. no. 133, p. 86-111. ISSN: 2640-3498."
+        },
+        {
+            "year": "2020",
+            "citation": "DOCEKAL, M.; FAJCIK, M.; JON, J.; SMRZ, P. JokeMeter at SemEval-2020 Task 7: Convolutional Humor. In Proceedings of the Fourteenth Workshop on Semantic Evaluation. 2020. Barcelona (online): Association for Computational Linguistics, 2020. p. 843-851. ISBN: 978-1-952148-31-6."
+        },
+        {
+            "year": "2020",
+            "citation": "FAJCIK, M.; DOCEKAL, M.; JON, J.; SMRZ, P. BUT-FIT at SemEval-2020 Task 5: Automatic detection of counterfactual statements with deep pre-trained language representation models. In Proceedings of the Fourteenth Workshop on Semantic Evaluation. Barcelona (online): Association for Computational Linguistics, 2020. p. 437-444. ISBN: 978-1-952148-31-6."
+        },
+        {
+            "year": "2020",
+            "citation": "JON, J.; FAJCIK, M.; DOCEKAL, M.; SMRZ, P. BUT-FIT at SemEval-2020 Task 4: Multilingual commonsense. In Proceedings of the Fourteenth Workshop on Semantic Evaluation. Barcelona: Association for Computational Linguistics, 2020. p. 374-390. ISBN: 978-1-952148-31-6."
+        },
+        {
+            "year": "2019",
+            "citation": "FAJCIK, M.; BURGET, L.; SMRZ, P. BUT-FIT at SemEval-2019 Task 7: Determining the Rumour Stance with Pre-Trained Deep Bidirectional Transformers. In Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, 2019. p. 1097-1104. ISBN: 978-1-950737-06-2."
+        },
+        {
+            "year": "2017",
+            "citation": "FAJCIK, M.; SMRZ, P.; ZACHARIASOVA, M. Automation of Processor Verification Using Recurrent Neural Networks. In 18th International Workshop on Microprocessor and SOC Test, Security and Verification (MTV). Austin, Texas: Institute of Electrical and Electronics Engineers, 2017. p. 15-20. ISBN: 978-1-5386-3351-9."
+        }
+    ],
+    "name": "Fajcik Martin, Ing., Ph.D."
+}

@@ -1,0 +1,132 @@
+{
+    "contact": {
+        "department": "Department of Information Systems",
+        "department_abbr": "DIFS",
+        "role": "Ph.D. student",
+        "details": {
+            "e_mail": "dolejska@fit.vut.cz",
+            "work_phone": "+420 54114 1288",
+            "room": "C305 Office",
+            "researcher_id": "GPG-0474-2022",
+            "orcid_id": "0000-0002-2059-6265"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Department of Physics",
+            "role": "Researcher"
+        },
+        {
+            "organization": "NES@FIT - Networks and distributed systems research group",
+            "role": "Member"
+        }
+    ],
+    "curriculum": {
+        "education_and_academic_qualification": [
+            {
+                "date": "01.09.2016\n-\n13.06.2019",
+                "details": "Faculty of Information Technology, Brno University of TechnologyBachelor's, Information Technology field (IT-BC-3, BIT)"
+            },
+            {
+                "date": "14.06.2019\n-\n24.06.2021",
+                "details": "Faculty of Information Technology, Brno University of TechnologyMaster's, Computer Networks field (MITAI, NNET)"
+            },
+            {
+                "date": "16.08.2021\n-\n...",
+                "details": "Faculty of Information Technology, Brno University of TechnologyPhD, Information Technology field (DIT)"
+            }
+        ]
+    },
+    "teaching": {
+        "consulting_hours": "Tuesday, 9:00-11:00 , B/C305 (Bozetechova 1/2, Brno 61200) During announced consultation hours, above or at a different time. Always after prior arrangement via faculty email . Thursday, 8:00-10:00 , B/C305 (Bozetechova 1/2, Brno 61200) During announced consultation hours, above or at a different time. Always after prior arrangement via faculty email .",
+        "lectured_courses": [
+            {
+                "abbreviation": "CSOa",
+                "title": "CCNA Cybersecurity Operations (in English)",
+                "details": "Lecture,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IAL",
+                "title": "Algorithms",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "IALe",
+                "title": "Algorithms (in English)",
+                "details": "Project,\nEnglish, summer",
+                "department": "DIFS"
+            },
+            {
+                "abbreviation": "ITU",
+                "title": "User Interface Programming",
+                "details": "Exercise in computer lab,\nCzech, English, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "ITUe",
+                "title": "User Interface Programming (in English)",
+                "details": "Exercise in computer lab,\nEnglish, winter",
+                "department": "DCGM"
+            },
+            {
+                "abbreviation": "IZP",
+                "title": "Introduction to Programming Systems",
+                "details": "Exercise in computer lab, Project, Seminar,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "WAP",
+                "title": "Internet Applications",
+                "details": "Individual preparation for a project work, Project,\nCzech, summer",
+                "department": "DIFS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Chytre informacni technologie pro odolnou spolecnost",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8209, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2023",
+            "title": "MIXER: Building community interested in cryptocurrency mixers",
+            "details": "MV, Vyhlaseni druhe verejne souteze podprogramu 3, PROGRAMU STRATEGICKA PODPORA ROZVOJE BEZPECNOSTNIHO VYZKUMU CR 2019-2025 (IMPAKT 1), PODPROGRAMU 3 ROZVOJ INICIATIVY V BEZPECNOSTNIM VYZKUMU, VJ03030037, start: 2023-06-01, end: 2025-06-30, completed"
+        },
+        {
+            "year": "2022",
+            "title": "TENACITy: Travelling intelligENce Against CrIme and Terrorism",
+            "details": "EU, HORIZON EUROPE, 101074048, start: 2022-09-01, end: 2025-08-31, completed"
+        },
+        {
+            "year": "2021",
+            "title": "BAZAR: Building better and safer darknet without wallet-less marketplaces",
+            "details": "MV, Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) podprogramu 3 Rozvoj iniciativy v bezpecnostnim vyzkumu, VJ01030004, start: 2021-01-01, end: 2022-12-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2025",
+            "citation": "BARON, I.; TRCKA, T.; CEJKA, J.; SKARVADA, P.; DOLEJSKA, D.; VASSALLO, R.; METRAL, L.; ROWBERRY, M.; BALEK, J.; HARTVICH, F. Contactless laser positioning system for tracking three-dimensional kinematic behaviour of rock slope fractures and active faults tested on a large rockslide in the Western Alps. Landslides, 2025, no. 10, 10 p."
+        },
+        {
+            "year": "2025",
+            "citation": "ZAVREL, J.; KOUTENSKY, M.; DOLEJSKA, D.; VESELY, V. Tumbling Down the Stairs: Exploiting a Tumbler's Attempt to Hide with Ordinary-looking Transactions using Wallet Fingerprinting. Forensic Science International: Digital Investigation, 2025, vol. 52, no. 1, p. 1-9. ISSN: 2666-2817."
+        },
+        {
+            "year": "2024",
+            "citation": "KOUTENSKY, M.; VESELY, V.; PERESINI, M.; DOLEJSKA, D.; PLUSKAL, J. Using Blockchain to Secure Passenger Name Records and Effectively Protect Citizen Rights. In 2024 6th Conference on Blockchain Research and Applications for Innovative Networks and Services, BRAINS 2024. Berlin: Institute of Electrical and Electronics Engineers, 2024. p. 1-10. ISBN: 979-8-3503-6784-3."
+        },
+        {
+            "year": "2023",
+            "citation": "DOLEJSKA, D.; KOUTENSKY, M.; VESELY, V.; PLUSKAL, J. Busting up Monopoly: Methods for Modern Darknet Marketplace Forensics. Forensic Science International: Digital Investigation, 2023, vol. 46, no. 1, p. 1-11. ISSN: 2666-2817."
+        },
+        {
+            "year": "2022",
+            "citation": "DOLEJSKA, D.; VESELY, V.; PLUSKAL, J.; KOUTENSKY, M. Shedding Light on Monopoly: Temporal Analysis of Drug Trades. 13th EAI International Conference, ICDF2C 2022, Boston, MA, November 16-18, 2022, Proceedings. Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering. Boston, MA: Springer Nature Switzerland AG, 2022. no. 508, p. 151-168. ISBN: 978-3-031-36573-7. ISSN: 1867-8211."
+        }
+    ],
+    "name": "Dolejska Daniel, Ing."
+}

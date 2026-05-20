@@ -1,0 +1,41 @@
+{
+    "project": "A set of forensic analytic tools for image and video processing for the criminal police and investigation service",
+    "title": "Sada forenznich analytickych nastroju ke zpracovani obrazu a videa pro sluzbu kriminalni policie a vysetrovani",
+    "metadata": {
+        "project_period": "1. 1. 2022 \u2013 31. 12. 2025",
+        "project_type": "grant",
+        "code": "VJ02010041",
+        "agency": "Ministry of the Interior of the Czech Republic",
+        "program": "Strategicka podpora rozvoje bezpecnostniho vyzkumu CR 2019\u20132025 (IMPAKT 1) PODPROGRAMU 1 SPOLECNE VYZKUMNE PROJEKTY (BV IMP1/2VS)"
+    },
+    "sections": {
+        "english_title": {
+            "label": "English title",
+            "text": "A set of forensic analytic tools for image and video processing for the criminal police and investigation service"
+        },
+        "type": {
+            "label": "Type",
+            "text": "grant"
+        },
+        "keywords": {
+            "label": "Keywords",
+            "text": "analysis of known and unknown data repositories, image and video data extraction, image processing and analysis, video sequence data"
+        },
+        "abstract": {
+            "label": "Abstract",
+            "text": "The content of the project directly requires the activities of the security forces of the Czech Republic in the field of (1) analysis of known and unknown data repositories or streams for extraction, especially image and video data, (2) processing and analysis of image and video data to effectively present which objects exist , finding activities, description of parameters, monitoring of movement and changes and other similar tasks, at the same time also in the field and further (3) finding out knowledge and connections from image and video sequence data and from metadata connected with such data."
+        },
+        "team_members": {
+            "label": "Team members",
+            "text": "Pluskal Jan, Ing., Ph.D. (DIFS) \u2013 research leader Csader Lukas, Bc. (FIT) Cihakova Lucie, Ing. (RCIT) Drahanska Iveta, Mgr. (FEKT utvar tajemnika) Drahansky Martin, prof. Ing., Ph.D. Dvorak Michal, Ing., Ph.D. Dyk Tomas, Ing. Goldmann Tomas, Ing., Ph.D. (DITS) Kanich Ondrej, Ing., Ph.D. (CM-SFE) Kolar Dusan, doc. Dr. Ing. (DIFS) Koutensky Michal, Ing. (DIFS) Malanik Petr, Ing. Malaskova Vera (DITS) Michal Bohumil, Ing. (CVT) Mika Monika, Ing. Mudra Matej, Bc. (FIT) Regeciova Dominika, Ing. (FIT) Rysavy Ondrej, doc. Ing., Ph.D. (DIFS) Safar Miroslav, Ing. (DIFS) Smolova Martina, Ing. (RCIT) Ullmannova Kristyna, Ing., MSc (RCIT) Urbanova Petra, prof. RNDr., Ph.D. Viskupic Matej, Ing. (RG STRaDe) Volf Tomas, Ing. Vrska Ludek (DFIT-ISD)"
+        },
+        "publication_results": {
+            "label": "Publication Results",
+            "text": "- URBANOVA, P.; GOLDMANN, T.; CERNY, D.; DRAHANSKY, M. Head Poses and Grimaces: Challenges for automated face identification algorithms?. SCIENCE & JUSTICE, 2024, vol. 64, no. 4, p. 421-442. ISSN: 1355-0306. Detail"
+        },
+        "applied_results": {
+            "label": "Applied Results",
+            "text": "- Integrovana platforma FACIS , software, 2025 Authors : SAFAR, M.; MUDRA, M.; PLUSKAL, J.; GOLDMANN, T.; LETAVAY, V.; KOLAR, D. Platforma FACIS , functioning sample, 2025 Authors : PLUSKAL, J.; SAFAR, M.; KOUTENSKY, M.; GOLDMANN, T.; KOLAR, D.\n- Platforma FACIS , functioning sample, 2025 Authors : PLUSKAL, J.; SAFAR, M.; KOUTENSKY, M.; GOLDMANN, T.; KOLAR, D.\n- Extractor , software, 2023 Authors : REGECIOVA, D.; KOLAR, D.; PLUSKAL, J.\n- MAXTOR - Multimedia Artifact eXTractOR , software, 2022 Authors : RYSAVY, O.; PLUSKAL, J.; KOLAR, D.; REGECIOVA, D."
+        }
+    }
+}

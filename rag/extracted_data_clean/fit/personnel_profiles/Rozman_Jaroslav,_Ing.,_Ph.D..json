@@ -1,0 +1,311 @@
+{
+    "contact": {
+        "department": "Department of Intelligent Systems",
+        "department_abbr": "DITS",
+        "role": "Assistant professor",
+        "details": {
+            "e_mail": "rozmanj@fit.vut.cz",
+            "work_phone": "+420 54114 1190",
+            "room": "A223 Office",
+            "orcid_id": "0000-0001-8443-433X",
+            "scopus_author_id": "36959927000"
+        }
+    },
+    "roles": [
+        {
+            "organization": "Intelligent Systems Research Group",
+            "role": "Member"
+        },
+        {
+            "organization": "Members of Commissions for State Doctoral Examinations",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Members of Commissions for State Final Examinations at FIT",
+            "role": "Member of Workgroup"
+        },
+        {
+            "organization": "Robotic research group Robo@FIT",
+            "role": "Researcher"
+        },
+        {
+            "organization": "Supervisors Specialists in Doctoral Study Programme at FIT",
+            "role": "Member of Workgroup"
+        }
+    ],
+    "teaching": {
+        "guaranteed_courses": [
+            {
+                "abbreviation": "ROBa",
+                "title": "Robotics (in English)",
+                "details": "English, winter",
+                "department": "DITS"
+            }
+        ],
+        "lectured_courses": [
+            {
+                "abbreviation": "IEL",
+                "title": "Electronics for Information Technology",
+                "details": "Laboratory exercise,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "ITY",
+                "title": "Typography and Publishing",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IZP",
+                "title": "Introduction to Programming Systems",
+                "details": "Project,\nCzech, English, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IZU",
+                "title": "Fundamentals of Artificial Intelligence",
+                "details": "Project,\nCzech, English, summer",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "IZUe",
+                "title": "Fundamentals of Artificial Intelligence (in English)",
+                "details": "Exercise in computer lab, Lecture,\nEnglish, winter",
+                "department": "DITS"
+            },
+            {
+                "abbreviation": "ROBa",
+                "title": "Robotics (in English)",
+                "details": "Laboratory exercise, Lecture, Project,\nEnglish, winter",
+                "department": "DITS"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "year": "2023",
+            "title": "Reliable, Secure, and Intelligent Computer Systems",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-23-8151, start: 2023-03-01, end: 2026-02-28, completed"
+        },
+        {
+            "year": "2021",
+            "title": "Development of an application for evaluating the marking of parts in automotive",
+            "details": "SKODA AUTO VS, start: 2021-03-01, end: 2021-12-31, completed"
+        },
+        {
+            "year": "2020",
+            "title": "Spolehlive, bezpecne a efektivni pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-20-6427, start: 2020-03-01, end: 2023-02-28, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Alba Metal Preparedness Analysis and Industry 4.0",
+            "details": "Intemac Solutions, start: 2018-05-02, end: 2018-05-23, completed"
+        },
+        {
+            "year": "2018",
+            "title": "Possibilities for creation of communite genealogical database with semantic information and uncertainty",
+            "details": "TACR, Program na podporu aplikovaneho spolecenskovedniho a humanitniho vyzkumu, experimentalniho vyvoje a inovaci ETA., TL01000130, start: 2018-03-01, end: 2021-02-28, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Bezpecne a spolehlive pocitacove systemy",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-17-4014, start: 2017-03-01, end: 2020-02-29, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Moderni a otevrene studium techniky (MOST)",
+            "details": "EU, OP VVV PO2 ESF vyzva pro vysoke skoly, start: 2017-09-01, end: 2022-12-31, completed"
+        },
+        {
+            "year": "2017",
+            "title": "Web Application Industry Dictionary 4.0",
+            "details": "SKODA AUTO VS, start: 2017-04-25, end: 2017-12-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "Exploring new Applications for Modern Taylor Series Methods to Solve Stiff and High-Order Systems",
+            "details": "MSMT, AKTION Ceska republika - Rakousko, Aktion-76p11, start: 2016-07-01, end: 2017-10-31, completed"
+        },
+        {
+            "year": "2016",
+            "title": "IT4Innovations excellence in science",
+            "details": "MSMT, Narodni program udrzitelnosti II, LQ1602, start: 2016-01-01, end: 2020-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Spolehlivost a bezpecnost v IT",
+            "details": "BUT, Vnitrni projekty VUT, FIT-S-14-2486, start: 2014-01-01, end: 2016-12-31, completed"
+        },
+        {
+            "year": "2014",
+            "title": "Student Competition Conference STUDENT EEICT 2014",
+            "details": "FIT-S-14-1, start: 2014-03-01, end: 2014-12-31, completed"
+        },
+        {
+            "year": "2011",
+            "title": "Centrum excelence IT4Innovations",
+            "details": "MSMT, Operacni program Vyzkum a vyvoj pro inovace, ED1.1.00/02.0070, start: 2011-01-01, end: 2015-12-31, completed"
+        },
+        {
+            "year": "2006",
+            "title": "Mobile Autonomous Robot",
+            "details": "FR2818/2006/G1, start: 2006-01-31, end: 2007-01-31, completed"
+        }
+    ],
+    "publicationresults": [
+        {
+            "year": "2023",
+            "citation": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Energy Efficiency of a Wheeled Bio-Inspired Hexapod Walking Robot in Sloping Terrain. Robotics, 2023, vol. 12, no. 2, p. 1-15. ISSN: 2218-6581."
+        },
+        {
+            "year": "2021",
+            "citation": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Design and Control of 7-DOF Omni-directional Hexapod Robot. Open Computer Science, 2021, vol. 11, no. 1, p. 80-89. ISSN: 2299-1093."
+        },
+        {
+            "year": "2020",
+            "citation": "KOCI, R.; ROZMAN, J.; ZBORIL, F. Database Concept for Transcription of Registry Records into Digital Form. In Proceedings of the 3rd International Conference on Software Engineering and Information Management - ICSIM'20. Sydney: Association for Computing Machinery, 2020. p. 21-25. ISBN: 978-1-4503-7690-7."
+        },
+        {
+            "year": "2020",
+            "citation": "PLASCENCIA, A.; BERAN, V.; ROZMAN, J. Working Progress Towards Lawn Mower Automation. In Proceedings of the 17th International Conference on Informatics in Control, Automation and Robotics. Setubal: SciTePress - Science and Technology Publications, 2020. p. 99-108. ISBN: 978-989-758-442-8."
+        },
+        {
+            "year": "2019",
+            "citation": "ROZMAN, J.; HRIBEK, D.; ZBORIL, F. Testing of Various Approaches for Semiautomatic Parish Records Word Standardization. In JIST: Joint International Semantic Technology Conference. Communications in Computer and Information Science. Communications in Computer and Information Science. Hangzhou: Springer International Publishing, 2019. no. 1157, p. 21-33. ISBN: 978-981-1534-11-9. ISSN: 1865-0929."
+        },
+        {
+            "year": "2019",
+            "citation": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Design of Omni-directional Hexapod Robot with Horizontal Coxa Joint. In INFORMATICS 2019 - IEEE 15th International Scientific Conference on Informatics, Proceedings. Poprad: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2019. p. 119-123. ISBN: 978-1-7281-3179-5."
+        },
+        {
+            "year": "2019",
+            "citation": "ZBORIL, F.; ROZMAN, J.; KOCI, R. Algorithmic creation of genealogical models. In Proceedings of ISDA 2018. Advances in Intelligent Systems and Computing. Advances in Intelligent Systems and Computing. Los Alamitos: Springer International Publishing, 2019. no. 941, p. 650-658. ISBN: 978-3-030-16659-5. ISSN: 2194-5357."
+        },
+        {
+            "year": "2018",
+            "citation": "ROZMAN, J.; ZBORIL, F. Persons Linking in Baptism Records. In Workshop PAOS2018 and PASSCR2018 of JIST2018 conference. CEUR Workshop Proceedings. CEUR Workshop Proceedings. Awaji: 2018. p. 43-54. ISSN: 1613-0073."
+        },
+        {
+            "year": "2018",
+            "citation": "ROZMAN, J.; ZBORIL, F.; KOCI, R. Possibilities of Creation of Community Genealogical Database with Semantic Information. In ICSIM2018: 2018 International Conference on Software Engineering and Information Management. Casablanca: 2018. p. 87-91. ISBN: 978-1-4503-5438-7."
+        },
+        {
+            "year": "2018",
+            "citation": "UHLIR, V.; ZBORIL, F.; ROZMAN, J. Improving upon package and food delivery by Semi-autonomous Tag-along Vehicles. In Intelligent Systems Design and Applications. ISDA 2017: Intelligent Systems Design and Applications. Cham: Springer International Publishing, 2018. p. 589-596. ISBN: 978-3-319-76347-7."
+        },
+        {
+            "year": "2017",
+            "citation": "LUZA, R.; ORSAG, F.; DRAHANSKY, M.; ROZMAN, J. Robot RUDA - Introduction and Current Research. Central European Researchers Journal, 2017, vol. 3, no. 1, p. 1-8. ISSN: 2453-7314."
+        },
+        {
+            "year": "2016",
+            "citation": "DALECKY, S.; SNASELOVA, P.; LUZA, R.; ZAK, M.; ROZMAN, J.; ZBORIL, F. SmartMowers as a Part of a SmartCity. In Proceedings of the 2016 17th International Carpathian Control Conference, ICCC 2016. Tatranska Lomnica: The University of Technology Kosice, 2016. p. 156-160. ISBN: 978-1-4673-8606-7."
+        },
+        {
+            "year": "2016",
+            "citation": "PLASCENCIA, A.; ROZMAN, J. Towards a User-Wheelchair Shared Control Paradigm for Individuals with Severe Motor Impairments. In ICINCO 2016 13th International Conference on Informatics in Control, Automation and Robotics. Lisabon: Institute for Systems and Technologies of Information, Control and Communication, 2016. p. 246-253. ISBN: 978-989-758-198-4."
+        },
+        {
+            "year": "2016",
+            "citation": "ZAK, M.; ROZMAN, J. Design, Construction and Control of Hexapod Walking Robot. In 2015 IEEE 13th International Scientific Conference on Informatics, INFORMATICS 2015 - Proceedings. Poprad: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2016. p. 302-307. ISBN: 978-1-4673-9867-1."
+        },
+        {
+            "year": "2016",
+            "citation": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Hexapod Robot: Test Platform for Bio-Inspired Controllers. In Proceedings of the 2016 17th International Carpathian Control Conference, ICCC 2016. Tatranska Lomnica: The University of Technology Kosice, 2016. p. 819-824. ISBN: 978-1-4673-8606-7."
+        },
+        {
+            "year": "2016",
+            "citation": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Overview of Bio-Inspired Control Mechanisms for Hexapod Robot. International Journal of Computer Information Systems and Industrial Management Applications, 2016, vol. 2016, no. 8, p. 125-134. ISSN: 2150-7988."
+        },
+        {
+            "year": "2016",
+            "citation": "ZAK, M.; ROZMAN, J.; ZBORIL, F. Overview of Bio-Inspired Control Mechanisms for Hexapod Robot. In International Conference on Intelligent Systems Design and Applications, ISDA. Marrakesh: Machine Intelligence Research Labs, 2016. p. 160-165. ISBN: 978-1-4673-8709-5."
+        },
+        {
+            "year": "2015",
+            "citation": "LUZA, R.; ROZMAN, J.; ZBORIL, F. ROS-based Remote Controlled Robotic Arm Workcell. In International Conference on Intelligent Systems Design and Applications, ISDA. Okinawa: Institute of Electrical and Electronics Engineers, 2015. p. 101-106. ISBN: 978-1-4799-7938-7."
+        },
+        {
+            "year": "2013",
+            "citation": "LUZA, R.; ROZMAN, J.; ZBORIL, F. Remote Controlling of the Robotic Arm Mitsubishi Melfa. Informatics 2013. Kosice: Faculty of Electrical Engineering and Informatics, University of Technology Kosice, 2013. p. 329-334. ISBN: 978-80-8143-127-2."
+        },
+        {
+            "year": "2012",
+            "citation": "LUZA, R.; ROZMAN, J.; ZBORIL, F. Robotic Arm Controlling in ROS Environment. CSSim. Brno: Brno University of Technology, 2012. p. 61-66. ISBN: 978-80-214-4576-5."
+        },
+        {
+            "year": "2012",
+            "citation": "ROZMAN, J. Design of a system for automatic operation in storehouse. Proceedings of CSE 2012 International Scientific Conference on Computer Science and Engeneering. Kosice: The University of Technology Kosice, 2012. p. 1-10. ISBN: 978-80-8143-049-7."
+        },
+        {
+            "year": "2012",
+            "citation": "ROZMAN, J. Exploration and Traversable Area Marking for the VisualSLAM. Information Sciences and Technologies Bulletin of the ACM Slovakia, 2012, vol. 4, no. 1, p. 29-38. ISSN: 1338-1237."
+        },
+        {
+            "year": "2011",
+            "citation": "ROZMAN, J. Navigace mobilnich robotu. Brno: 2011. 96 s."
+        },
+        {
+            "year": "2011",
+            "citation": "ROZMAN, J.; ZBORIL, F. Exploration in the VisualSLAM. 2nd International Conference on Computer Modelling and Simulation. Brno: Faculty of Information Technology BUT, 2011. p. 119-127. ISBN: 978-80-214-4320-4."
+        },
+        {
+            "year": "2011",
+            "citation": "ROZMAN, J.; ZBORIL, F. Path Planning and Traversable Area Marking for Stereo Vision-based 3D Map Building. International Conference on Computational Vision and Robotics (ICCVR-2011). Bhubaneswar: Interscience Research Network, 2011. p. 1-2. ISBN: 93-81361-25-8."
+        },
+        {
+            "year": "2011",
+            "citation": "ROZMAN, J.; ZBORIL, F. Path planning and traversable area marking for stereo vision-based 3D map building. International Journal of Computational Vision and Robotics (IJCVR), 2011, vol. 2, no. 4, p. 277-289. ISSN: 1752-914X."
+        },
+        {
+            "year": "2010",
+            "citation": "ROZMAN, J. Visualization of a 3D Textured Model for the World Modeling. Proceedings of CSE 2010 International Scientific Conference on Computer Science and Engineering. Volume 1. Kosice: The University of Technology Kosice, 2010. p. 314-319. ISBN: 978-80-8086-164-3."
+        },
+        {
+            "year": "2010",
+            "citation": "ROZMAN, J. Incremental Creation of a 3D Map with a Stereocamera. In Proceedings of the 2010 10th International Conference on Intelligent Systems Design and Applications, ISDA'10. Cairo: IEEE Computer Society, 2010. p. 861-865. ISBN: 978-1-4244-8135-4."
+        },
+        {
+            "year": "2010",
+            "citation": "ROZMAN, J.; ZBORIL, F. A Concept of a Robot for the Robotour Competition. Proceedings of the 7th EUROSIM Congress on Modelling and Simulation. Vol. 2. Praha: Czech Technical University Publishing House, 2010. p. 1-6. ISBN: 978-80-01-04589-3."
+        },
+        {
+            "year": "2010",
+            "citation": "ROZMAN, J.; ZBORIL, F. Sampling-Based Algorithms for the Motion Planning. Proceedings of the 16th International Scientific and Practical Conference of Students, Post-graduates and Young Scientists, MODERN TECHNIQUE AND TECHNOLOGIES MTT 2010. Tomsk: Institute of Electrical and Electronics Engineers, 2010. p. 110-112. ISBN: 0-7803-8226-9."
+        },
+        {
+            "year": "2009",
+            "citation": "ROZMAN, J. 2D and 3D Motion Model with Uncertainty. Proceedings of XXXIth International Autumn Colloquium Advanced Simulation of Systems. Ostrava: Marq software s.r.o., 2009. p. 37-42. ISBN: 978-80-86840-47-5."
+        },
+        {
+            "year": "2009",
+            "citation": "ROZMAN, J. Grid-based map making using particle filters. International Journal of Autonomic Computing, 2009, vol. 1, no. 2, p. 211-221. ISSN: 1741-8569."
+        },
+        {
+            "year": "2008",
+            "citation": "ROZMAN, J. Grid-Based Map Making using Particle Filters. Proceedings of MOSIS '08. Ostrava: Marq software s.r.o., 2008. p. 186-192. ISBN: 978-80-86840-40-6."
+        },
+        {
+            "year": "2007",
+            "citation": "ROZMAN, J. Mobile Autonomous Robot. Proceedings of the 13th Conference and Competition STUDENT EEICT 2007 Volume 4. Brno: Faculty of Information Technology BUT, 2007. p. 478-482. ISBN: 978-80-214-3410-3."
+        },
+        {
+            "year": "2006",
+            "citation": "ROZMAN, J. Metody planovani cesty robota. Vrsov 2006. Brno: Fakulta elektrotechniky a komunikacnich technologii VUT v Brne, 2006. s. 149-152. ISBN: 80-214-3247-0."
+        },
+        {
+            "year": "2006",
+            "citation": "ROZMAN, J. Vyukovy toolbox neuronovych siti. NETSS 2006. Ostrava: Marq software s.r.o., 2006. s. 19-23. ISBN: 80-86840-06-9."
+        },
+        {
+            "year": "2005",
+            "citation": "ROZMAN, J.; ZBORIL, F. Potential Fields and their use in Robot Navigation. In Proceedings of XXVIIth International Autumn Colloquium ASIS 2005. Ostrava: 2005. p. 221-224. ISBN: 80-86840-16-6."
+        },
+        {
+            "year": "2005",
+            "citation": "ROZMAN, J.; ZBORIL, F. Trilobot Mobile Robot and its Using in Education. In MOSIS '05. Ostrava: 2005. p. 188-195. ISBN: 80-86840-10-7."
+        }
+    ],
+    "name": "Rozman Jaroslav, Ing., Ph.D."
+}
